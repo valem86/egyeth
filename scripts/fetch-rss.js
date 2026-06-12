@@ -55,6 +55,7 @@ const RSS_FEEDS = [
 const TOPICS = {
   'egypt-somalia': {
     title: 'Accordi Egitto-Somalia',
+    minMatches: 2,
     keywords: [
       ['Egypt', 'Egitto'],
       ['Somalia'],
@@ -64,6 +65,7 @@ const TOPICS = {
   },
   somaliland: {
     title: 'Dossier Somaliland',
+    minMatches: 2,
     keywords: [
       ['Ethiopia', 'Etiopia'],
       ['Somaliland'],
@@ -73,6 +75,7 @@ const TOPICS = {
   },
   'ethiopia-sea-access': {
     title: 'Accesso etiope al mare',
+    minMatches: 2,
     keywords: [
       ['Ethiopia', 'Etiopia'],
       ['sea access', 'port'],
@@ -82,6 +85,7 @@ const TOPICS = {
   },
   'egypt-economy': {
     title: 'Fragilità economica egiziana',
+    minMatches: 2,
     keywords: [
       ['Egypt', 'Egitto'],
       ['IMF', 'FMI'],
@@ -91,6 +95,7 @@ const TOPICS = {
   },
   'gerd-opacity': {
     title: 'Opacità sui rilasci GERD',
+    minMatches: 2,
     keywords: [
       ['GERD', 'dam'],
       ['Egypt', 'Ethiopia'],
@@ -223,9 +228,10 @@ async function fetchFeed(feed, index) {
 
 function matchesTopic(item, topic) {
   const text = `${item.title} ${item.description || ''}`.toLowerCase();
-  return topic.keywords.every(group =>
+  const matched = topic.keywords.filter(group =>
     group.some(keyword => text.includes(keyword.toLowerCase()))
-  );
+  ).length;
+  return matched >= (topic.minMatches || topic.keywords.length);
 }
 
 function getTimestamp(item) {
