@@ -1,0 +1,46 @@
+name: Aggiorna feed RSS
+
+on:
+  schedule:
+    # Ogni 2 ore (orario UTC)
+    - cron: '17 */2 * * *'
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/fetch-rss.js'
+      - '.github/workflows/update-rss.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-rss
+  cancel-in-progress: false
+
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Scarica e filtra i feed
+        run: node scripts/fetch-rss.js
+
+      - name: Commit del JSON aggiornato
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --cached --quiet; then
+            echo "Nessuna novità nei feed, niente commit."
+          else
+            git commit -m "chore: aggiornamento automatico feed RSS"
+            git push
+          fi
