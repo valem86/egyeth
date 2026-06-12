@@ -1,27 +1,109 @@
 {
-  "generatedAt": "2026-06-12T10:27:09.779Z",
+  "generatedAt": "2026-06-12T10:46:00.137Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
-      "items": []
+      "items": [
+        {
+          "title": "Strait showdown: Hormuz remains open as US and Iran edge toward a deal",
+          "link": "http://www.africanews.com/2026/06/12/strait-showdown-hormuz-remains-open-as-us-and-iran-edge-toward-a-deal/",
+          "description": "Despite Iran’s announcement of a blockade of the Strait of Hormuz, the United States says the strategic waterway remains open to shipping. As military tensions persist, Washington and Tehran appear to be moving closer to a potential agreement that could ease a growing regional crisis.",
+          "pubDate": "Fri, 12 Jun 2026 08:23:02 +0000",
+          "source": "Africanews"
+        }
+      ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
-      "items": []
+      "items": [
+        {
+          "title": "Iran not our war says Tajani after Trump calls Europe irrelevant",
+          "link": "https://www.ansa.it/english/news/politics/2026/06/12/iran-not-our-war-says-tajani-after-trump-calls-europe_65d498aa-36f3-47ab-9b3e-74007afea978.html",
+          "description": "(ANSA) - ROME, JUN 12 - Deputy Premier and Foreign Minister Antonio Tajani on Friday stressed that, while the Iran war was not Europe's war, it has been doing what it could to bring about a solution, after President Donald Trump reportedly called the United States' European allies \"irrelevant\". Italian-American journalist Daniele Compatangelo told Italy's La7 television early on Friday that he had spoken to Trump on the telephone after he said an agreement to end the Iran war would be signed shortly and that Trump said \"we won the war, their help was totally irrelevant\" when asked about Italy,",
+          "pubDate": "Fri, 12 Jun 2026 12:04:18 +0200",
+          "source": "ANSA English"
+        },
+        {
+          "title": "Iran not our war says Tajani after Trump calls Europe irrelevant",
+          "link": "https://www.ansa.it/english/news/2026/06/12/iran-not-our-war-says-tajani-after-trump-calls-europe_49aa1f6e-9564-435a-b309-6cc72a607407.html",
+          "description": "(ANSA) - ROME, JUN 12 - Deputy Premier and Foreign Minister Antonio Tajani on Friday stressed that, while the Iran war was not Europe's war, it has been doing what it could to bring about a solution, after President Donald Trump reportedly called the United States' European allies \"irrelevant\". Italian-American journalist Daniele Compatangelo told Italy's La7 television early on Friday that he had spoken to Trump on the telephone after he said an agreement to end the Iran war would be signed shortly and that Trump said \"we won the war, their help was totally irrelevant\" when asked about Italy,",
+          "pubDate": "Fri, 12 Jun 2026 12:01:41 +0200",
+          "source": "ANSA English"
+        },
+        {
+          "title": "Tigrayan forces preparing offensive against federal gov, Addis Ababa warns",
+          "link": "http://www.africanews.com/2026/06/12/tigrayan-forces-preparing-offensive-against-federal-gov-addis-ababa-warns/",
+          "description": "Fears are mounting in Ethiopia over reports that forces in the northern Tigray region are preparing an offensive against the federal government in the coming days.",
+          "pubDate": "Fri, 12 Jun 2026 07:40:35 +0000",
+          "source": "Africanews"
+        }
+      ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
-      "items": []
+      "items": [
+        {
+          "title": "Sources say women who fled Iran to be deport from US to Central African Republic",
+          "link": "http://www.africanews.com/2026/06/12/sources-say-women-who-fled-iran-to-be-deport-from-us-to-central-african-republic/",
+          "description": "Sources said two Iranian women will be among over 20 migrants to be sent to the Central African Republic under a so-called third-country deportees deal.",
+          "pubDate": "Fri, 12 Jun 2026 10:12:55 +0000",
+          "source": "Africanews"
+        },
+        {
+          "title": "Iran not our war says Tajani after Trump calls Europe irrelevant",
+          "link": "https://www.ansa.it/english/news/politics/2026/06/12/iran-not-our-war-says-tajani-after-trump-calls-europe_65d498aa-36f3-47ab-9b3e-74007afea978.html",
+          "description": "(ANSA) - ROME, JUN 12 - Deputy Premier and Foreign Minister Antonio Tajani on Friday stressed that, while the Iran war was not Europe's war, it has been doing what it could to bring about a solution, after President Donald Trump reportedly called the United States' European allies \"irrelevant\". Italian-American journalist Daniele Compatangelo told Italy's La7 television early on Friday that he had spoken to Trump on the telephone after he said an agreement to end the Iran war would be signed shortly and that Trump said \"we won the war, their help was totally irrelevant\" when asked about Italy,",
+          "pubDate": "Fri, 12 Jun 2026 12:04:18 +0200",
+          "source": "ANSA English"
+        },
+        {
+          "title": "Iran not our war says Tajani after Trump calls Europe irrelevant",
+          "link": "https://www.ansa.it/english/news/2026/06/12/iran-not-our-war-says-tajani-after-trump-calls-europe_49aa1f6e-9564-435a-b309-6cc72a607407.html",
+          "description": "(ANSA) - ROME, JUN 12 - Deputy Premier and Foreign Minister Antonio Tajani on Friday stressed that, while the Iran war was not Europe's war, it has been doing what it could to bring about a solution, after President Donald Trump reportedly called the United States' European allies \"irrelevant\". Italian-American journalist Daniele Compatangelo told Italy's La7 television early on Friday that he had spoken to Trump on the telephone after he said an agreement to end the Iran war would be signed shortly and that Trump said \"we won the war, their help was totally irrelevant\" when asked about Italy,",
+          "pubDate": "Fri, 12 Jun 2026 12:01:41 +0200",
+          "source": "ANSA English"
+        },
+        {
+          "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+          "link": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
+          "description": "Iran says reports of a deal are \"speculative\" after the US president says a \"great settlement\" to end the conflict has been reached.",
+          "pubDate": "Fri, 12 Jun 2026 08:09:37 GMT",
+          "source": "BBC World"
+        },
+        {
+          "title": "Tigrayan forces preparing offensive against federal gov, Addis Ababa warns",
+          "link": "http://www.africanews.com/2026/06/12/tigrayan-forces-preparing-offensive-against-federal-gov-addis-ababa-warns/",
+          "description": "Fears are mounting in Ethiopia over reports that forces in the northern Tigray region are preparing an offensive against the federal government in the coming days.",
+          "pubDate": "Fri, 12 Jun 2026 07:40:35 +0000",
+          "source": "Africanews"
+        }
+      ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "IMF approves $250 million credit facility for Rwanda to offset pressure of Mid-East war",
+          "link": "http://www.africanews.com/2026/06/10/imf-approves-250-million-credit-facility-for-rwanda-to-offset-pressure-of-mid-east-war/",
+          "description": "The International Monetary Fund has approved a new $250 million extended credit facility for Rwanda, as the country's economy faces pressure from the Middle East war.",
+          "pubDate": "Wed, 10 Jun 2026 09:34:57 +0000",
+          "source": "Africanews"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": []
+      "items": [
+        {
+          "title": "Strait showdown: Hormuz remains open as US and Iran edge toward a deal",
+          "link": "http://www.africanews.com/2026/06/12/strait-showdown-hormuz-remains-open-as-us-and-iran-edge-toward-a-deal/",
+          "description": "Despite Iran’s announcement of a blockade of the Strait of Hormuz, the United States says the strategic waterway remains open to shipping. As military tensions persist, Washington and Tehran appear to be moving closer to a potential agreement that could ease a growing regional crisis.",
+          "pubDate": "Fri, 12 Jun 2026 08:23:02 +0000",
+          "source": "Africanews"
+        }
+      ]
     }
   }
 }
