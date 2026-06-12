@@ -1,0 +1,12 @@
+{
+  "generatedAt": null,
+  "feedsChecked": 0,
+  "feedsAttempted": 10,
+  "topics": {
+    "egypt-somalia": { "title": "Accordi Egitto-Somalia", "items": [] },
+    "somaliland": { "title": "Dossier Somaliland", "items": [] },
+    "ethiopia-sea-access": { "title": "Accesso etiope al mare", "items": [] },
+    "egypt-economy": { "title": "Fragilità economica egiziana", "items": [] },
+    "gerd-opacity": { "title": "Opacità sui rilasci GERD", "items": [] }
+  }
+}
