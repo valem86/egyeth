@@ -142,7 +142,10 @@ const rssMonitoringStatus = document.getElementById('rssMonitoringStatus');
 const rssNewsTrack = document.getElementById('rssNewsTrack');
 
 const RSS_DATA_URL = 'data/news.json';
-const RSS_MAX_ITEMS = 10;
+const RSS_MAX_ITEMS = 20;       // massimo risultati per tematica
+const RSS_VISIBLE_ROWS = 5;     // notizie visibili contemporaneamente
+const RSS_SECONDS_PER_ITEM = 3; // velocità dello scorrimento verticale
+const RSS_REDUCED_MOTION = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 const MONITORING_TOPICS = {
   'egypt-somalia': 'Accordi Egitto-Somalia',
@@ -268,10 +271,21 @@ function renderRssItems(items, options = {}) {
     })
     .join('');
 
-  // Moltiplica i link per 4 perché il marquee CSS (translateX) non si "spezzi"
-  // neppure sugli schermi grandi quando le notizie sono poche.
-  rssNewsTrack.innerHTML = Array(4).fill(links).join('');
-  rssNewsTrack.classList.add('is-ready');
+  // Scorrimento VERTICALE: se le notizie superano le righe visibili,
+  // duplichiamo la lista una volta (loop senza scatti con translateY -50%)
+  // e calcoliamo la durata in base al numero di notizie.
+  if (visibleItems.length > RSS_VISIBLE_ROWS && !RSS_REDUCED_MOTION) {
+    rssNewsTrack.innerHTML = links + links;
+    rssNewsTrack.style.setProperty(
+      '--rss-scroll-duration',
+      `${visibleItems.length * RSS_SECONDS_PER_ITEM}s`
+    );
+    rssNewsTrack.classList.add('is-ready');
+  } else {
+    // 5 o meno notizie (o utente con riduzione animazioni): lista statica
+    rssNewsTrack.innerHTML = links;
+    rssNewsTrack.classList.remove('is-ready');
+  }
 
   if (rssMonitoringStatus) {
     const feedsSucceeded = Number(options.feedsChecked) || 0;
