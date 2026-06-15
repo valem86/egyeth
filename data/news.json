@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T12:20:36.842Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-06-15T12:30:42.471Z",
+  "feedsChecked": 7,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -29,6 +29,24 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Breakaway regions leader makes first Israel visit",
+          "link": "http://www.middleeaststar.com/news/279123792/breakaway-regions-leader-makes-first-israel-visit",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-06-15T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakaway regions leader makes first Israel visit"
+        },
+        {
+          "title": "Breakaway region leader makes first Israel visit",
+          "link": "http://www.middleeaststar.com/news/279123812/breakaway-region-leader-makes-first-israel-visit",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-06-15T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakaway region leader makes first Israel visit"
+        },
         {
           "title": "Breakaway regions leader makes first Israel visit",
           "link": "http://www.sierraleonetimes.com/news/279123792/breakaway-regions-leader-makes-first-israel-visit",
@@ -190,24 +208,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Somaliland opens new representative office in Taipei Tianmu district"
-        },
-        {
-          "title": "Somali president accuses Israel of taking advantage of dispute with Somaliland",
-          "link": "https://www.middleeastmonitor.com/20260613-somali-president-accuses-israel-of-taking-advantage-of-dispute-with-somaliland/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-06-13T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somali president accuses Israel of taking advantage of dispute with Somaliland"
-        },
-        {
-          "title": "Somali president accuses Israel of taking advantage of dispute with Somaliland",
-          "link": "https://aa.com.tr/en/africa/somali-president-accuses-israel-of-taking-advantage-of-dispute-with-somaliland/3965888",
-          "source": "aa.com.tr",
-          "pubDate": "2026-06-13T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somali president accuses Israel of taking advantage of dispute with Somaliland"
         }
       ]
     },
@@ -251,15 +251,6 @@
           "titleIt": "Israel must stop bombing Beirut says Tajani"
         },
         {
-          "title": "Nuberg EPC Wins Chlor - Alkali Plant In Tanzania",
-          "link": "https://www.chemicalonline.com/doc/nuberg-epc-wins-chlor-alkali-plant-in-tanzania-0001",
-          "source": "chemicalonline.com",
-          "pubDate": "2026-06-15T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nuberg EPC Wins Chlor - Alkali Plant In Tanzania"
-        },
-        {
           "title": "US-Iran deal is 'opportunity for peace that must be seized' says Meloni",
           "link": "https://www.ansa.it/english/news/politics/2026/06/15/us-iran-deal-is-opportunity-for-peace-that-must-be-seized-says-meloni_5f50298d-16db-481c-99c1-205df547a11b.html",
           "description": "(ANSA) - ROME, JUN 15 - Premier Giorgia Meloni on Monday welcomed the agreement reached between Washington and Tehran to end the Iran war. \"Last night, together with France, Germany, and the United Kingdom, we had already expressed our strong appreciation for the memorandum of understanding signed by the United States and Iran hours ago,\" Meloni said in a statement, referring to a joint declaration she signed with the leaders of the three other European powers. \"Heartfelt thanks go to all the mediators, and in particular to Qatar and Pakistan, who made this agreement possible. \"This is an oppo",
@@ -296,103 +287,85 @@
           "titleIt": "US-Iran deal is 'opportunity for peace that must be seized' says Meloni"
         },
         {
-          "title": "Brazil - based bizman nabbed with 6 . 10kg liquid cocaine hidden",
-          "link": "https://thesun.ng/brazil-based-bizman-nabbed-with-6-10kg-liquid-cocaine-hidden-in-shirts-towels/",
-          "source": "thesun.ng",
-          "pubDate": "2026-06-15T03:15:00Z",
+          "title": "Iran not our war says Tajani after Trump calls Europe irrelevant",
+          "link": "https://www.ansa.it/english/news/politics/2026/06/12/iran-not-our-war-says-tajani-after-trump-calls-europe_65d498aa-36f3-47ab-9b3e-74007afea978.html",
+          "description": "(ANSA) - ROME, JUN 12 - Deputy Premier and Foreign Minister Antonio Tajani on Friday stressed that, while the Iran war was not Europe's war, it has been doing what it could to bring about a solution, after President Donald Trump reportedly called the United States' European allies \"irrelevant\". Italian-American journalist Daniele Compatangelo told Italy's La7 television early on Friday that he had spoken to Trump on the telephone after he said an agreement to end the Iran war would be signed shortly and that Trump said \"we won the war, their help was totally irrelevant\" when asked about Italy,",
+          "pubDate": "Fri, 12 Jun 2026 15:42:14 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Brazil - based bizman nabbed with 6 . 10kg liquid cocaine hidden"
+          "titleIt": "Iran not our war says Tajani after Trump calls Europe irrelevant"
         },
         {
-          "title": "Cairo and Asmara Deepen Ties as Horn ...",
-          "link": "https://africa.com/cairo-and-asmara-deepen-ties-as-horn-tensions-sharpen/",
-          "source": "africa.com",
-          "pubDate": "2026-06-15T03:15:00Z",
+          "title": "Xenophobia row rocks Africa as fans toss support to Mexico over Bafana Bafana",
+          "link": "http://www.africanews.com/2026/06/12/xenophobia-row-rocks-africa-as-fans-toss-support-to-mexico-over-bafana-bafana/",
+          "description": "Africa’s traditional show of football solidarity changed across social media at the start of the 2026 FIFA World Cup, as a wave of fans across the continent openly backed Mexico over South Africa in their opening group match, reflecting deeper political tensions beyond sports.",
+          "pubDate": "Fri, 12 Jun 2026 13:10:23 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Cairo and Asmara Deepen Ties as Horn ..."
+          "titleIt": "Xenophobia row rocks Africa as fans toss support to Mexico over Bafana Bafana"
         },
         {
-          "title": "NDLEA uncovers cocaine in shirts , towels at Lagos airport",
-          "link": "https://punchng.com/ndlea-uncovers-cocaine-hidden-in-shirts-towels-at-lagos-airport/",
-          "source": "punchng.com",
-          "pubDate": "2026-06-15T02:15:00Z",
+          "title": "Colosseum hosts 'most important exhibition on Troy ever held'",
+          "link": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/12/colosseum-hosts-most-important-exhibition-on-troy-ever-held_805e7b5f-2b3d-44ec-970b-ca0a8f58b410.html",
+          "description": "(ANSA) - ROME, JUN 12 - The Colosseum is hosting the most important exhibition on Troy ever held, organisers said Friday saying the event will trace the voyage of Trojan hero Aeneas from the ruins of the Greek-torched ancient city in Asia Minor to Italy where he laid the groundwork for the foundation of the Eternal City. The show opening Friday and running till October 18 will include 300 ancient artifacts telling the story of Aeneas's legendary journey, and much more. \"Troy and Rome. Myths, Legends, Stories of the Ancient Mediterranean\" is part of a bilateral agreement signed between the Ital",
+          "pubDate": "Fri, 12 Jun 2026 15:07:47 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "NDLEA uncovers cocaine in shirts , towels at Lagos airport"
+          "titleIt": "Colosseum hosts 'most important exhibition on Troy ever held'"
         },
         {
-          "title": "Ballot box in Horn of Africa : For whom and under what conditions ?",
-          "link": "https://www.dailysabah.com/opinion/op-ed/ballot-box-in-horn-of-africa-for-whom-and-under-what-conditions",
-          "source": "dailysabah.com",
-          "pubDate": "2026-06-14T21:45:00Z",
+          "title": "Colosseum hosts 'most important exhibition on Troy ever held'",
+          "link": "https://www.ansa.it/english/news/2026/06/12/colosseum-hosts-most-important-exhibition-on-troy-ever-held_913a96fb-7ecb-4a81-bbfa-61341581cbc5.html",
+          "description": "(ANSA) - ROME, JUN 12 - The Colosseum is hosting the most important exhibition on Troy ever held, organisers said Friday saying the event will trace the voyage of Trojan hero Aeneas from the ruins of the Greek-torched ancient city in Asia Minor to Italy where he laid the groundwork for the foundation of the Eternal City. The show opening Friday and running till October 18 will include 300 ancient artifacts telling the story of Aeneas's legendary journey, and much more. \"Troy and Rome. Myths, Legends, Stories of the Ancient Mediterranean\" is part of a bilateral agreement signed between the Ital",
+          "pubDate": "Fri, 12 Jun 2026 15:01:06 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ballot box in Horn of Africa : For whom and under what conditions ?"
+          "titleIt": "Colosseum hosts 'most important exhibition on Troy ever held'"
         },
         {
-          "title": "The African Continent is Seething with Activity from Radical Islamic Terrorist Organizations - A Snapshot",
-          "link": "https://ict.org.il/african-continent-seething-with-terrorism-snapshot/",
-          "source": "ict.org.il",
-          "pubDate": "2026-06-14T13:00:00Z",
+          "title": "Fuel shock sparks electric bike boom in Kenya",
+          "link": "http://www.africanews.com/2026/06/12/fuel-shock-sparks-electric-bike-boom-in-kenya/",
+          "description": "Rising fuel prices linked to the conflict in the Middle East are accelerating Kenya’s shift to electric mobility. As petrol costs soar, thousands of riders are abandoning fuel-powered motorcycles for cheaper electric alternatives, driving record sales and reshaping urban transport.",
+          "pubDate": "Fri, 12 Jun 2026 11:59:24 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "The African Continent is Seething with Activity from Radical Islamic Terrorist Organizations - A Snapshot"
+          "titleIt": "Fuel shock sparks electric bike boom in Kenya"
         },
         {
-          "title": "NDLEA Arrests Brazil - based Businessman With 6 . 1kg Cocaine Hidden In Shirts , Towels",
-          "link": "https://www.informationng.com/2026/06/ndlea-arrests-brazil-based-businessman-with-6-1kg-cocaine-hidden-in-shirts-towels.html",
-          "source": "informationng.com",
-          "pubDate": "2026-06-14T13:00:00Z",
+          "title": "Sources say women who fled Iran to be deport from US to Central African Republic",
+          "link": "http://www.africanews.com/2026/06/12/sources-say-women-who-fled-iran-to-be-deport-from-us-to-central-african-republic/",
+          "description": "Sources said two Iranian women will be among over 20 migrants to be sent to the Central African Republic under a so-called third-country deportees deal.",
+          "pubDate": "Fri, 12 Jun 2026 10:12:55 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "NDLEA Arrests Brazil - based Businessman With 6 . 1kg Cocaine Hidden In Shirts , Towels"
+          "titleIt": "Sources say women who fled Iran to be deport from US to Central African Republic"
         },
         {
-          "title": "NDLEA nabs Brazil - based businessman with liquid cocaine",
-          "link": "https://thesun.ng/ndlea-nabs-brazil-based-businessman-with-liquid-cocaine/",
-          "source": "thesun.ng",
-          "pubDate": "2026-06-14T12:30:00Z",
+          "title": "UNHCR: number of displaced people worldwide falls for first time in a decade",
+          "link": "http://www.africanews.com/2026/06/12/unhcr-number-of-displaced-people-worldwide-falls-for-first-time-in-a-decade/",
+          "description": "The number of people forcibly displaced around the world stood at more than 117.8 million at the end of 2025 due to conflict, violence, and persecution, according to the UN refugee agency's latest annual report.",
+          "pubDate": "Fri, 12 Jun 2026 10:08:52 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "NDLEA nabs Brazil - based businessman with liquid cocaine"
+          "titleIt": "UNHCR: number of displaced people worldwide falls for first time in a decade"
         },
         {
-          "title": "NDLEA arrests Brazil - based businessman with 6 . 1kg cocaine",
-          "link": "https://punchng.com/ndlea-arrests-brazil-based-businessman-with-6-1kg-cocaine-hidden-in-shirts-towels/",
-          "source": "punchng.com",
-          "pubDate": "2026-06-14T12:00:00Z",
+          "title": "Iran not our war says Tajani after Trump calls Europe irrelevant",
+          "link": "https://www.ansa.it/english/news/2026/06/12/iran-not-our-war-says-tajani-after-trump-calls-europe_49aa1f6e-9564-435a-b309-6cc72a607407.html",
+          "description": "(ANSA) - ROME, JUN 12 - Deputy Premier and Foreign Minister Antonio Tajani on Friday stressed that, while the Iran war was not Europe's war, it has been doing what it could to bring about a solution, after President Donald Trump reportedly called the United States' European allies \"irrelevant\". Italian-American journalist Daniele Compatangelo told Italy's La7 television early on Friday that he had spoken to Trump on the telephone after he said an agreement to end the Iran war would be signed shortly and that Trump said \"we won the war, their help was totally irrelevant\" when asked about Italy,",
+          "pubDate": "Fri, 12 Jun 2026 12:01:41 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "NDLEA arrests Brazil - based businessman with 6 . 1kg cocaine"
+          "titleIt": "Iran not our war says Tajani after Trump calls Europe irrelevant"
         },
         {
-          "title": "Geography of wealth ties Sudan feuding factions together",
-          "link": "https://www.arabnews.com/node/2647073",
-          "source": "arabnews.com",
-          "pubDate": "2026-06-13T21:15:00Z",
+          "title": "Tigrayan forces preparing offensive against federal gov, Addis Ababa warns",
+          "link": "http://www.africanews.com/2026/06/12/tigrayan-forces-preparing-offensive-against-federal-gov-addis-ababa-warns/",
+          "description": "Fears are mounting in Ethiopia over reports that forces in the northern Tigray region are preparing an offensive against the federal government in the coming days.",
+          "pubDate": "Fri, 12 Jun 2026 07:40:35 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Geography of wealth ties Sudan feuding factions together"
-        },
-        {
-          "title": "Gulf crisis is straining African airlines , industry body warns",
-          "link": "https://www.arabnews.com/node/2647060/world",
-          "source": "arabnews.com",
-          "pubDate": "2026-06-13T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gulf crisis is straining African airlines , industry body warns"
-        },
-        {
-          "title": "Mercenaries and defectors abound in Sudan war",
-          "link": "https://www.dw.com/en/mercenaries-and-high-profile-defectors-abound-in-sudan-war/a-77530527",
-          "source": "dw.com",
-          "pubDate": "2026-06-13T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mercenaries and defectors abound in Sudan war"
+          "titleIt": "Tigrayan forces preparing offensive against federal gov, Addis Ababa warns"
         }
       ]
     },
