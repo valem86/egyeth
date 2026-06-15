@@ -1,86 +1,15 @@
 {
-  "generatedAt": "2026-06-15T09:29:54.472Z",
+  "generatedAt": "2026-06-15T09:37:34.762Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
-      "items": [
-        {
-          "title": "Strait showdown: Hormuz remains open as US and Iran edge toward a deal",
-          "link": "http://www.africanews.com/2026/06/12/strait-showdown-hormuz-remains-open-as-us-and-iran-edge-toward-a-deal/",
-          "description": "Despite Iran’s announcement of a blockade of the Strait of Hormuz, the United States says the strategic waterway remains open to shipping. As military tensions persist, Washington and Tehran appear to be moving closer to a potential agreement that could ease a growing regional crisis.",
-          "pubDate": "Fri, 12 Jun 2026 08:23:02 +0000",
-          "source": "Africanews"
-        }
-      ]
+      "items": []
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "US-Iran deal is 'opportunity for peace that must be seized' says Meloni",
-          "link": "https://www.ansa.it/english/news/politics/2026/06/15/us-iran-deal-is-opportunity-for-peace-that-must-be-seized-says-meloni_5f50298d-16db-481c-99c1-205df547a11b.html",
-          "description": "(ANSA) - ROME, JUN 15 - Premier Giorgia Meloni on Monday welcomed the agreement reached between Washington and Tehran to end the Iran war. \"Last night, together with France, Germany, and the United Kingdom, we had already expressed our strong appreciation for the memorandum of understanding signed by the United States and Iran hours ago,\" Meloni said in a statement, referring to a joint declaration she signed with the leaders of the three other European powers. \"Heartfelt thanks go to all the mediators, and in particular to Qatar and Pakistan, who made this agreement possible. \"This is an oppo",
-          "pubDate": "Mon, 15 Jun 2026 10:11:57 +0200",
-          "source": "ANSA English"
-        },
-        {
-          "title": "Italy willing to take part in Strait of Hormuz naval mission",
-          "link": "https://www.ansa.it/english/news/politics/2026/06/15/italy-willing-to-take-part-in-strait-of-hormuz-naval-mission_582c9ea6-7f5d-42b2-9161-76425903be08.html",
-          "description": "(ANSA) - ROME, JUN 15 - Italy is willing to take part in an international naval mission for the reopening of the Strait of Hormuz after Washington and Tehran reached an agreement to end the Iran war, Premier Giorgia Meloni said on Monday. \"The principles are clear: Iran cannot acquire a nuclear weapon and freedom of navigation must be guaranteed,\" Meloni said in a statement. \"We stand ready, together with our partners and without prejudice to the necessary authorisation from Parliament, to contribute to an international naval presence to support the full reopening of the Strait of Hormuz\". (se",
-          "pubDate": "Mon, 15 Jun 2026 10:09:45 +0200",
-          "source": "ANSA English"
-        },
-        {
-          "title": "Italy willing to take part in Strait of Hormuz naval mission",
-          "link": "https://www.ansa.it/english/news/2026/06/15/italy-willing-to-take-part-in-strait-of-hormuz-naval-mission_7aa2ca2c-41cf-436b-b18c-8a5d2b1a9696.html",
-          "description": "(ANSA) - ROME, JUN 15 - Italy is willing to take part in an international naval mission for the reopening of the Strait of Hormuz after Washington and Tehran reached an agreement to end the Iran war, Premier Giorgia Meloni said on Monday. \"The principles are clear: Iran cannot acquire a nuclear weapon and freedom of navigation must be guaranteed,\" Meloni said in a statement. \"We stand ready, together with our partners and without prejudice to the necessary authorisation from Parliament, to contribute to an international naval presence to support the full reopening of the Strait of Hormuz\". (se",
-          "pubDate": "Mon, 15 Jun 2026 10:08:56 +0200",
-          "source": "ANSA English"
-        },
-        {
-          "title": "US-Iran deal is 'opportunity for peace that must be seized' says Meloni",
-          "link": "https://www.ansa.it/english/news/2026/06/15/us-iran-deal-is-opportunity-for-peace-that-must-be-seized-says-meloni_b64e63ee-5d7c-4be8-bf85-f89bf4ad30ae.html",
-          "description": "(ANSA) - ROME, JUN 15 - Premier Giorgia Meloni on Monday welcomed the agreement reached between Washington and Tehran to end the Iran war. \"Last night, together with France, Germany, and the United Kingdom, we had already expressed our strong appreciation for the memorandum of understanding signed by the United States and Iran hours ago,\" Meloni said in a statement, referring to a joint declaration she signed with the leaders of the three other European powers. \"Heartfelt thanks go to all the mediators, and in particular to Qatar and Pakistan, who made this agreement possible. \"This is an oppo",
-          "pubDate": "Mon, 15 Jun 2026 09:53:13 +0200",
-          "source": "ANSA English"
-        },
-        {
-          "title": "Iran not our war says Tajani after Trump calls Europe irrelevant",
-          "link": "https://www.ansa.it/english/news/politics/2026/06/12/iran-not-our-war-says-tajani-after-trump-calls-europe_65d498aa-36f3-47ab-9b3e-74007afea978.html",
-          "description": "(ANSA) - ROME, JUN 12 - Deputy Premier and Foreign Minister Antonio Tajani on Friday stressed that, while the Iran war was not Europe's war, it has been doing what it could to bring about a solution, after President Donald Trump reportedly called the United States' European allies \"irrelevant\". Italian-American journalist Daniele Compatangelo told Italy's La7 television early on Friday that he had spoken to Trump on the telephone after he said an agreement to end the Iran war would be signed shortly and that Trump said \"we won the war, their help was totally irrelevant\" when asked about Italy,",
-          "pubDate": "Fri, 12 Jun 2026 15:42:14 +0200",
-          "source": "ANSA English"
-        },
-        {
-          "title": "Amb. Ferranti visits the Shamiram archaeological site",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/06/12/amb.-ferranti-visits-the-shamiram-archaeological-site_dcf4f31a-489f-4eb9-ad8c-1fd454397c64.html",
-          "description": "(ANSA) - ROMA, 12 GIU - The Italian Ambassador to Armenia, Alessandro Ferranti, visited the archaeological site of the fortified complex of Shamiram and its necropolis, located in the Armenian region of Aragatsotn between Mount Ararat and Mount Aragats. The research and excavations are conducted jointly by Italian and Armenian archaeologists thanks to co-funding from ISMEO and the Institute of Archaeology and Ethnography of the National Academy of Sciences of the Republic of Armenia, with the support of MAECI. The Italian team operates under the guidance of Professor Roberto Dan, a specialist ",
-          "pubDate": "Fri, 12 Jun 2026 15:37:49 +0200",
-          "source": "ANSA English"
-        },
-        {
-          "title": "Colosseum hosts 'most important exhibition on Troy ever held'",
-          "link": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/12/colosseum-hosts-most-important-exhibition-on-troy-ever-held_805e7b5f-2b3d-44ec-970b-ca0a8f58b410.html",
-          "description": "(ANSA) - ROME, JUN 12 - The Colosseum is hosting the most important exhibition on Troy ever held, organisers said Friday saying the event will trace the voyage of Trojan hero Aeneas from the ruins of the Greek-torched ancient city in Asia Minor to Italy where he laid the groundwork for the foundation of the Eternal City. The show opening Friday and running till October 18 will include 300 ancient artifacts telling the story of Aeneas's legendary journey, and much more. \"Troy and Rome. Myths, Legends, Stories of the Ancient Mediterranean\" is part of a bilateral agreement signed between the Ital",
-          "pubDate": "Fri, 12 Jun 2026 15:07:47 +0200",
-          "source": "ANSA English"
-        },
-        {
-          "title": "Colosseum hosts 'most important exhibition on Troy ever held'",
-          "link": "https://www.ansa.it/english/news/2026/06/12/colosseum-hosts-most-important-exhibition-on-troy-ever-held_913a96fb-7ecb-4a81-bbfa-61341581cbc5.html",
-          "description": "(ANSA) - ROME, JUN 12 - The Colosseum is hosting the most important exhibition on Troy ever held, organisers said Friday saying the event will trace the voyage of Trojan hero Aeneas from the ruins of the Greek-torched ancient city in Asia Minor to Italy where he laid the groundwork for the foundation of the Eternal City. The show opening Friday and running till October 18 will include 300 ancient artifacts telling the story of Aeneas's legendary journey, and much more. \"Troy and Rome. Myths, Legends, Stories of the Ancient Mediterranean\" is part of a bilateral agreement signed between the Ital",
-          "pubDate": "Fri, 12 Jun 2026 15:01:06 +0200",
-          "source": "ANSA English"
-        },
-        {
-          "title": "Iran not our war says Tajani after Trump calls Europe irrelevant",
-          "link": "https://www.ansa.it/english/news/2026/06/12/iran-not-our-war-says-tajani-after-trump-calls-europe_49aa1f6e-9564-435a-b309-6cc72a607407.html",
-          "description": "(ANSA) - ROME, JUN 12 - Deputy Premier and Foreign Minister Antonio Tajani on Friday stressed that, while the Iran war was not Europe's war, it has been doing what it could to bring about a solution, after President Donald Trump reportedly called the United States' European allies \"irrelevant\". Italian-American journalist Daniele Compatangelo told Italy's La7 television early on Friday that he had spoken to Trump on the telephone after he said an agreement to end the Iran war would be signed shortly and that Trump said \"we won the war, their help was totally irrelevant\" when asked about Italy,",
-          "pubDate": "Fri, 12 Jun 2026 12:01:41 +0200",
-          "source": "ANSA English"
-        },
         {
           "title": "Tigrayan forces preparing offensive against federal gov, Addis Ababa warns",
           "link": "http://www.africanews.com/2026/06/12/tigrayan-forces-preparing-offensive-against-federal-gov-addis-ababa-warns/",
@@ -94,6 +23,27 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Hostilities must stop in Lebanon too says Meloni",
+          "link": "https://www.ansa.it/english/news/2026/06/15/hostilities-must-stop-in-lebanon-too-says-meloni_6472d45a-43cd-43aa-b221-f63ff2308edb.html",
+          "description": "(ANSA) - ROME, JUN 15 - In a statement welcoming the deal reached between Washington and Tehran to stop the Iran war, Premier Giorgia Meloni said Monday that \"hostilities must also cease in Lebanon\". Meloni said that \"Italy will continue working to support Lebanese sovereignty\". (see related). (ANSA). Read article...",
+          "pubDate": "Mon, 15 Jun 2026 11:34:57 +0200",
+          "source": "ANSA English"
+        },
+        {
+          "title": "Israel must stop bombing Beirut says Tajani",
+          "link": "https://www.ansa.it/english/news/politics/2026/06/15/israel-must-stop-bombing-beirut-says-tajani_2caa9fb5-0b0f-4fef-aaea-63287771d8da.html",
+          "description": "(ANSA) - LUXEMBOURG, JUN 15 - Deputy Premier and Foreign Minister Antonio Tajani said Monday that Israel must stop bombing Beirut after the United States and Iran reached an agreement to end the war in the Middle East. \"We must ensure that the fighting in Lebanon stops too, that Israel no longer bombs Beirut,\" Tajani said on the sidelines of an EU foreign affairs council in Luxembourg. In her statement welcoming the deal reached between Washington and Tehran, Premier Giorgia Meloni said that \"hostilities must also cease in Lebanon\". Meloni said that \"Italy will continue working to support Leba",
+          "pubDate": "Mon, 15 Jun 2026 11:34:52 +0200",
+          "source": "ANSA English"
+        },
+        {
+          "title": "Israel must stop bombing Beirut says Tajani",
+          "link": "https://www.ansa.it/english/news/2026/06/15/israel-must-stop-bombing-beirut-says-tajani_fccef27b-807a-4848-a2ab-afcb3c75d799.html",
+          "description": "(ANSA) - LUXEMBOURG, JUN 15 - Deputy Premier and Foreign Minister Antonio Tajani said Monday that Israel must stop bombing Beirut after the United States and Iran reached an agreement to end the war in the Middle East. \"We must ensure that the fighting in Lebanon stops too, that Israel no longer bombs Beirut,\" Tajani said on the sidelines of an EU foreign affairs council in Luxembourg. In her statement welcoming the deal reached between Washington and Tehran, Premier Giorgia Meloni said that \"hostilities must also cease in Lebanon\". Meloni said that \"Italy will continue working to support Leba",
+          "pubDate": "Mon, 15 Jun 2026 11:34:50 +0200",
+          "source": "ANSA English"
+        },
+        {
           "title": "US-Iran deal is 'opportunity for peace that must be seized' says Meloni",
           "link": "https://www.ansa.it/english/news/politics/2026/06/15/us-iran-deal-is-opportunity-for-peace-that-must-be-seized-says-meloni_5f50298d-16db-481c-99c1-205df547a11b.html",
           "description": "(ANSA) - ROME, JUN 15 - Premier Giorgia Meloni on Monday welcomed the agreement reached between Washington and Tehran to end the Iran war. \"Last night, together with France, Germany, and the United Kingdom, we had already expressed our strong appreciation for the memorandum of understanding signed by the United States and Iran hours ago,\" Meloni said in a statement, referring to a joint declaration she signed with the leaders of the three other European powers. \"Heartfelt thanks go to all the mediators, and in particular to Qatar and Pakistan, who made this agreement possible. \"This is an oppo",
@@ -112,13 +62,6 @@
           "link": "https://www.ansa.it/english/news/2026/06/15/italy-willing-to-take-part-in-strait-of-hormuz-naval-mission_7aa2ca2c-41cf-436b-b18c-8a5d2b1a9696.html",
           "description": "(ANSA) - ROME, JUN 15 - Italy is willing to take part in an international naval mission for the reopening of the Strait of Hormuz after Washington and Tehran reached an agreement to end the Iran war, Premier Giorgia Meloni said on Monday. \"The principles are clear: Iran cannot acquire a nuclear weapon and freedom of navigation must be guaranteed,\" Meloni said in a statement. \"We stand ready, together with our partners and without prejudice to the necessary authorisation from Parliament, to contribute to an international naval presence to support the full reopening of the Strait of Hormuz\". (se",
           "pubDate": "Mon, 15 Jun 2026 10:08:56 +0200",
-          "source": "ANSA English"
-        },
-        {
-          "title": "Hostilities must stop in Lebanon too says Meloni",
-          "link": "https://www.ansa.it/english/news/2026/06/15/hostilities-must-stop-in-lebanon-too-says-meloni_6472d45a-43cd-43aa-b221-f63ff2308edb.html",
-          "description": "(ANSA) - ROME, JUN 15 - In a statement welcoming the deal reached between Washington and Tehran to stop the Iran war, Premier Giorgiaq Meloni said Monday that \"hostilities must also cease in Lebanon\". Meloni said that \"Italy will continue working to support Lebanese sovereignty\". (see related). (ANSA). Read article...",
-          "pubDate": "Mon, 15 Jun 2026 10:01:32 +0200",
           "source": "ANSA English"
         },
         {
@@ -136,6 +79,76 @@
           "source": "AllAfrica"
         },
         {
+          "title": "Fenomenul El Niño și războiul din Iran ar putea declanșa o criză alimentară pentru peste 100 de milioane de oameni",
+          "link": "https://www.digi24.ro/stiri/externe/fenomenul-el-nino-si-razboiul-din-iran-ar-putea-declansa-o-criza-alimentara-pentru-peste-100-de-milioane-de-oameni-3812651",
+          "source": "digi24.ro",
+          "pubDate": "2026-06-15T04:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "World Vision Stephen Court faced war and famine in Ethiopia ; a 13 - year - old girl gave him hope",
+          "link": "https://www.nzherald.co.nz/rotorua-daily-post/news/world-visions-stephen-court-faced-war-and-famine-in-ethiopia-a-13-year-old-girl-gave-him-hope/premium/2AUDSNQHM5FEHGD3FTWUES7VLQ/",
+          "source": "nzherald.co.nz",
+          "pubDate": "2026-06-14T22:45:00Z",
+          "description": ""
+        },
+        {
+          "title": "Ballot box in Horn of Africa : For whom and under what conditions ?",
+          "link": "https://www.dailysabah.com/opinion/op-ed/ballot-box-in-horn-of-africa-for-whom-and-under-what-conditions",
+          "source": "dailysabah.com",
+          "pubDate": "2026-06-14T21:45:00Z",
+          "description": ""
+        },
+        {
+          "title": "Le Cirque Suarez de retour avec un show 100  % familial",
+          "link": "https://www.martinique.franceantilles.fr/actualite/culture/le-cirque-suarez-de-retour-avec-un-show-100-familial-1082465.php",
+          "source": "martinique.franceantilles.fr",
+          "pubDate": "2026-06-14T15:15:00Z",
+          "description": ""
+        },
+        {
+          "title": "The African Continent is Seething with Activity from Radical Islamic Terrorist Organizations - A Snapshot",
+          "link": "https://ict.org.il/african-continent-seething-with-terrorism-snapshot/",
+          "source": "ict.org.il",
+          "pubDate": "2026-06-14T13:00:00Z",
+          "description": ""
+        },
+        {
+          "title": "Geography of wealth ties Sudan feuding factions together",
+          "link": "https://www.arabnews.com/node/2647073",
+          "source": "arabnews.com",
+          "pubDate": "2026-06-13T21:15:00Z",
+          "description": ""
+        },
+        {
+          "title": "شاكيرا تشغل المونديال صيحة تشعل قناديل الوعي بمجلة متوهجة – صحيفة التغيير السودانية , اخبار السودان",
+          "link": "https://www.altaghyeer.info/ar/2026/06/13/%D8%B4%D8%A7%D9%83%D9%8A%D8%B1%D8%A7-%D8%AA%D8%B4%D8%BA%D9%84-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D8%B5%D9%8A%D8%AD%D8%A9-%D8%AA%D8%B4%D8%B9%D9%84-%D9%82%D9%86%D8%A7%D8%AF/",
+          "source": "altaghyeer.info",
+          "pubDate": "2026-06-13T21:00:00Z",
+          "description": ""
+        },
+        {
+          "title": "Ethiopia : Factions In The Ethiopian Civil War",
+          "link": "http://www.strategypage.com/%5Cqnd%5Cethiopi%5Carticles%5C2026061261533.aspx",
+          "source": "strategypage.com",
+          "pubDate": "2026-06-13T03:15:00Z",
+          "description": ""
+        },
+        {
+          "title": "جيبوتي تؤكد دورها في أمن باب المندب وتدعو لإنهاء حرب السودان",
+          "link": "https://www.aljazeera.net/news/2026/6/12/%D8%AC%D9%8A%D8%A8%D9%88%D8%AA%D9%8A-%D8%AA%D8%A4%D9%83%D8%AF-%D8%AF%D9%88%D8%B1%D9%87%D8%A7-%D9%81%D9%8A-%D8%A3%D9%85%D9%86-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A8",
+          "source": "aljazeera.net",
+          "pubDate": "2026-06-12T22:00:00Z",
+          "description": ""
+        },
+        {
+          "title": "Houthis declare total ban on Israeli ships in Red Sea as US hits back",
+          "link": "https://www.foxnews.com/world/expert-warns-general-escalation-fighting-houthis-resume-red-sea-campaign",
+          "source": "foxnews.com",
+          "pubDate": "2026-06-12T14:30:00Z",
+          "description": ""
+        },
+        {
           "title": "Iran not our war says Tajani after Trump calls Europe irrelevant",
           "link": "https://www.ansa.it/english/news/politics/2026/06/12/iran-not-our-war-says-tajani-after-trump-calls-europe_65d498aa-36f3-47ab-9b3e-74007afea978.html",
           "description": "(ANSA) - ROME, JUN 12 - Deputy Premier and Foreign Minister Antonio Tajani on Friday stressed that, while the Iran war was not Europe's war, it has been doing what it could to bring about a solution, after President Donald Trump reportedly called the United States' European allies \"irrelevant\". Italian-American journalist Daniele Compatangelo told Italy's La7 television early on Friday that he had spoken to Trump on the telephone after he said an agreement to end the Iran war would be signed shortly and that Trump said \"we won the war, their help was totally irrelevant\" when asked about Italy,",
@@ -148,34 +161,6 @@
           "description": "(ANSA) - ROME, JUN 12 - The Colosseum is hosting the most important exhibition on Troy ever held, organisers said Friday saying the event will trace the voyage of Trojan hero Aeneas from the ruins of the Greek-torched ancient city in Asia Minor to Italy where he laid the groundwork for the foundation of the Eternal City. The show opening Friday and running till October 18 will include 300 ancient artifacts telling the story of Aeneas's legendary journey, and much more. \"Troy and Rome. Myths, Legends, Stories of the Ancient Mediterranean\" is part of a bilateral agreement signed between the Ital",
           "pubDate": "Fri, 12 Jun 2026 15:07:47 +0200",
           "source": "ANSA English"
-        },
-        {
-          "title": "Colosseum hosts 'most important exhibition on Troy ever held'",
-          "link": "https://www.ansa.it/english/news/2026/06/12/colosseum-hosts-most-important-exhibition-on-troy-ever-held_913a96fb-7ecb-4a81-bbfa-61341581cbc5.html",
-          "description": "(ANSA) - ROME, JUN 12 - The Colosseum is hosting the most important exhibition on Troy ever held, organisers said Friday saying the event will trace the voyage of Trojan hero Aeneas from the ruins of the Greek-torched ancient city in Asia Minor to Italy where he laid the groundwork for the foundation of the Eternal City. The show opening Friday and running till October 18 will include 300 ancient artifacts telling the story of Aeneas's legendary journey, and much more. \"Troy and Rome. Myths, Legends, Stories of the Ancient Mediterranean\" is part of a bilateral agreement signed between the Ital",
-          "pubDate": "Fri, 12 Jun 2026 15:01:06 +0200",
-          "source": "ANSA English"
-        },
-        {
-          "title": "Sources say women who fled Iran to be deport from US to Central African Republic",
-          "link": "http://www.africanews.com/2026/06/12/sources-say-women-who-fled-iran-to-be-deport-from-us-to-central-african-republic/",
-          "description": "Sources said two Iranian women will be among over 20 migrants to be sent to the Central African Republic under a so-called third-country deportees deal.",
-          "pubDate": "Fri, 12 Jun 2026 10:12:55 +0000",
-          "source": "Africanews"
-        },
-        {
-          "title": "Iran not our war says Tajani after Trump calls Europe irrelevant",
-          "link": "https://www.ansa.it/english/news/2026/06/12/iran-not-our-war-says-tajani-after-trump-calls-europe_49aa1f6e-9564-435a-b309-6cc72a607407.html",
-          "description": "(ANSA) - ROME, JUN 12 - Deputy Premier and Foreign Minister Antonio Tajani on Friday stressed that, while the Iran war was not Europe's war, it has been doing what it could to bring about a solution, after President Donald Trump reportedly called the United States' European allies \"irrelevant\". Italian-American journalist Daniele Compatangelo told Italy's La7 television early on Friday that he had spoken to Trump on the telephone after he said an agreement to end the Iran war would be signed shortly and that Trump said \"we won the war, their help was totally irrelevant\" when asked about Italy,",
-          "pubDate": "Fri, 12 Jun 2026 12:01:41 +0200",
-          "source": "ANSA English"
-        },
-        {
-          "title": "Tigrayan forces preparing offensive against federal gov, Addis Ababa warns",
-          "link": "http://www.africanews.com/2026/06/12/tigrayan-forces-preparing-offensive-against-federal-gov-addis-ababa-warns/",
-          "description": "Fears are mounting in Ethiopia over reports that forces in the northern Tigray region are preparing an offensive against the federal government in the coming days.",
-          "pubDate": "Fri, 12 Jun 2026 07:40:35 +0000",
-          "source": "Africanews"
         }
       ]
     },
@@ -185,22 +170,7 @@
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": [
-        {
-          "title": "Oil prices fall and shares jump after US-Iran deal announced",
-          "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-          "description": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
-          "pubDate": "Mon, 15 Jun 2026 07:38:09 GMT",
-          "source": "BBC World"
-        },
-        {
-          "title": "Strait showdown: Hormuz remains open as US and Iran edge toward a deal",
-          "link": "http://www.africanews.com/2026/06/12/strait-showdown-hormuz-remains-open-as-us-and-iran-edge-toward-a-deal/",
-          "description": "Despite Iran’s announcement of a blockade of the Strait of Hormuz, the United States says the strategic waterway remains open to shipping. As military tensions persist, Washington and Tehran appear to be moving closer to a potential agreement that could ease a growing regional crisis.",
-          "pubDate": "Fri, 12 Jun 2026 08:23:02 +0000",
-          "source": "Africanews"
-        }
-      ]
+      "items": []
     }
   }
 }
