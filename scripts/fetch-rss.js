@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+﻿#!/usr/bin/env node
 /**
  * fetch-rss.js
  * Eseguito da GitHub Actions (Node >= 20, zero dipendenze).
@@ -90,7 +90,7 @@ const TOPICS = {
       ['Egypt', 'Egitto'],
       ['IMF', 'FMI'],
       ['inflation', 'debt'],
-      ['Suez Canal', 'economy']
+      ['Suez Canal', 'economy', 'economic']
     ]
   },
   'gerd-opacity': {
