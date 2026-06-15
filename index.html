@@ -204,17 +204,18 @@ li{margin:.35rem 0}
 .matrix-legend{display:flex;gap:10px;flex-wrap:wrap;margin:-8px 0 18px}
 .matrix-legend span{font-family:"IBM Plex Mono",monospace;text-transform:uppercase;letter-spacing:.08em;font-size:.72rem;font-weight:800;border-radius:999px;padding:.45rem .68rem;border:1px solid rgba(23,32,51,.12);background:white}
 .legend-positive{color:#0f7a4e}.legend-negative{color:#c9412d}.legend-neutral{color:#5b6473}.legend-comment{color:#0e5a78}
-.cross-impact-table-wrap{overflow:auto;max-height:760px;border-radius:22px;border:1px solid var(--line);background:white;box-shadow:inset 0 0 0 1px rgba(255,255,255,.5)}
-.cross-impact-table{border-collapse:separate;border-spacing:0;min-width:1320px;width:100%;font-size:.78rem;line-height:1.25}
-.cross-impact-table caption{text-align:left;font-weight:800;padding:14px 16px;background:var(--blue-dark);color:white;position:sticky;top:0;z-index:10}
-.cross-impact-table th,.cross-impact-table td{border-right:1px solid #e7dece;border-bottom:1px solid #e7dece;padding:9px 10px;text-align:center;vertical-align:middle;background:#fffdf8;position:relative}
-.cross-impact-table thead th{position:sticky;top:43px;z-index:8;background:#172033;color:white;font-family:"IBM Plex Mono",monospace;font-weight:800;white-space:nowrap}
-.cross-impact-table .sticky-col{position:sticky;z-index:7;text-align:left;background:#fff7ec}
-.cross-impact-table thead .sticky-col{z-index:12;background:#172033;color:white}
-.cross-impact-table .code-col{left:0;width:58px;min-width:58px;font-family:"IBM Plex Mono",monospace;font-weight:800;color:var(--blue)}
-.cross-impact-table .driver-col{left:58px;width:310px;min-width:310px;font-weight:800;color:var(--blue-dark)}
+/* === Cross Impact Matrix: stili condivisi (colori, celle, indicatori) === */
+.cross-impact-table-wrap{border-radius:22px;border:1px solid var(--line);background:white;box-shadow:inset 0 0 0 1px rgba(255,255,255,.5)}
+.cross-impact-table{border-collapse:separate;border-spacing:0;width:100%;line-height:1.25}
+.cross-impact-table caption{text-align:left;font-weight:800;background:var(--blue-dark);color:white}
+.cross-impact-table th,.cross-impact-table td{border-right:1px solid #e7dece;border-bottom:1px solid #e7dece;text-align:center;vertical-align:middle;background:#fffdf8;position:relative}
+.cross-impact-table thead th{background:#172033;color:white;font-family:"IBM Plex Mono",monospace;font-weight:800}
+.cross-impact-table .sticky-col{text-align:left;background:#fff7ec}
+.cross-impact-table thead .sticky-col{background:#172033;color:white}
+.cross-impact-table .code-col{font-family:"IBM Plex Mono",monospace;font-weight:800;color:var(--blue)}
+.cross-impact-table .driver-col{font-weight:800;color:var(--blue-dark)}
 .cross-impact-table thead .code-col,.cross-impact-table thead .driver-col{color:white}
-.cross-impact-table .matrix-driver-head{min-width:58px;cursor:help}
+.cross-impact-table .matrix-driver-head{cursor:help}
 .cross-impact-table .active-col{font-weight:900;background:#f3e3bd;color:#704a0b}
 .cross-impact-table .passive-row{font-weight:900;background:#e3edf1!important;color:#0e5a78!important}
 .cross-impact-table td.positive{background:#e2f0e8;color:#00643f;font-weight:800}
@@ -222,9 +223,63 @@ li{margin:.35rem 0}
 .cross-impact-table td.neutral{background:#f5f1ea;color:#6b7280}
 .cross-impact-table td.diagonal{background:#d8d1c5;color:#8b8173}
 .cross-impact-table .has-comment{outline:2px solid rgba(14,90,120,.25);outline-offset:-2px;cursor:help}
+
+/* === CIM DESKTOP (>=1060px): tabella completamente visibile, nessuno scroll orizzontale ===
+   Usa table-layout:fixed con larghezze proporzionali e font clamp
+   per far stare l'intera matrice 17x17 dentro il container senza scrollbar.
+   Scroll verticale attivo (max-height) con sticky header e sticky cols. */
+@media (min-width:1060px){
+  .cross-impact-table-wrap{
+    overflow-x:visible;
+    overflow-y:auto;
+    max-height:780px;
+  }
+  .cross-impact-table{
+    min-width:0;
+    table-layout:fixed;
+    font-size:clamp(.44rem,.5vw,.7rem);
+  }
+  .cross-impact-table col.col-code  { width:5% }
+  .cross-impact-table col.col-driver{ width:21% }
+  .cross-impact-table col.col-score { width:4.35% }
+  .cross-impact-table caption{
+    position:sticky;
+    top:0;
+    z-index:10;
+    padding:10px 14px;
+  }
+  .cross-impact-table thead th{
+    position:sticky;
+    top:36px;
+    z-index:8;
+    white-space:normal;
+    word-break:break-word;
+    padding:6px 4px;
+    font-size:.65em;
+    line-height:1.1;
+  }
+  .cross-impact-table th,.cross-impact-table td{
+    padding:7px 5px;
+    white-space:normal;
+    overflow-wrap:anywhere;
+  }
+  .cross-impact-table .sticky-col{
+    position:sticky;
+    z-index:7;
+  }
+  .cross-impact-table thead .sticky-col{ z-index:12 }
+  .cross-impact-table .code-col{
+    left:0;
+    text-align:center;
+  }
+  .cross-impact-table .driver-col{
+    left:5%;
+    text-align:left;
+  }
+}
 .matrix-tooltip{position:fixed;z-index:9999;max-width:min(420px,calc(100vw - 32px));background:#172033;color:white;border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:12px 14px;box-shadow:0 18px 42px rgba(23,32,51,.28);font-size:.88rem;line-height:1.4;pointer-events:none;opacity:0;transform:translateY(4px);transition:opacity .12s ease,transform .12s ease}
 .matrix-tooltip.visible{opacity:1;transform:translateY(0)}
-@media (max-width:720px){.cross-impact-block{padding:18px}.cross-impact-table-wrap{max-height:620px}.scenario-art img,.hilp-art img{max-height:300px}}
+@media (max-width:720px){.cross-impact-block{padding:18px}.scenario-art img,.hilp-art img{max-height:300px}}
 
 
 /* === Ultime revisioni: loghi scenario visibili e tooltip solo in riquadro colorato === */
