@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env node
+#!/usr/bin/env node
 /**
  * fetch-rss.js
  * Eseguito da GitHub Actions (Node >= 20, zero dipendenze).
