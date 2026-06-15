@@ -88,9 +88,7 @@ const TOPICS = {
     minMatches: 2,
     keywords: [
       ['Egypt', 'Egitto'],
-      ['IMF', 'FMI'],
-      ['inflation', 'debt'],
-      ['Suez Canal', 'economy']
+      ['econom', 'IMF', 'FMI', 'inflation', 'debt', 'currency', 'pound', 'deficit', 'fiscal', 'GDP', 'finance', 'financial', 'budget', 'investment', 'trade', 'Suez Canal', 'revenue', 'crisis']
     ]
   },
   'gerd-opacity': {
