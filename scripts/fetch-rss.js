@@ -182,11 +182,13 @@ const TOPICS = {
 
   'egypt-economy': {
     title:       'Fragilità economica egiziana',
-    gdeltQuery:  'Egypt (economy OR economic OR inflation OR debt OR currency OR deficit OR IMF OR "Suez Canal" OR finance OR austerity OR "foreign reserves") sourcelang:eng',
+    // "Egyptian" cattura articoli che usano l'aggettivo invece del nome proprio
+    // (es. "Egyptian pound", "Egyptian economy") che GDELT non trova con solo "Egypt"
+    gdeltQuery:  '(Egypt OR Egyptian) (economy OR economic OR inflation OR debt OR currency OR deficit OR IMF OR "Suez Canal" OR finance OR austerity OR "foreign reserves" OR pound OR GDP) sourcelang:eng',
     minMatches:  2,
     keywords: [
       // Gruppo 1 — soggetto (obbligatorio)
-      ['egypt', 'egitto', 'egizian', 'cairo', 'il cairo', 'sisi'],
+      ['egypt', 'egyptian', 'egitto', 'egizian', 'cairo', 'il cairo', 'sisi'],
       // Gruppo 2 — tema economico (prefissi IT + termini EN interi)
       ['econom', 'imf', 'fmi', 'inflation', 'inflazion', 'debt', 'debito',
        'currency', 'valut', 'pound', 'sterlina', 'deficit', 'fiscal',
@@ -201,22 +203,32 @@ const TOPICS = {
 
   'gerd-opacity': {
     title:       'Opacità sui rilasci GERD',
-    gdeltQuery:  '(GERD OR "Renaissance Dam" OR "Nile dam" OR "Grand Ethiopian") (Egypt OR Ethiopia OR Sudan OR water OR Nile OR negotiation OR filling OR flow) sourcelang:eng',
+    // IMPORTANTE: non usare mai "GERD" isolato nella query → cattura
+    // articoli sul calciatore Gerd Müller o altri omonimi.
+    // Usiamo sempre la forma lunga o combinazioni disambiguanti.
+    gdeltQuery:  '("Grand Ethiopian Renaissance Dam" OR "Renaissance Dam" OR "Nile dam" OR "Ethiopian dam") (Egypt OR Ethiopia OR Sudan OR water OR Nile OR negotiation OR filling OR flow OR reservoir) sourcelang:eng',
     minMatches:  2,
     keywords: [
-      // Gruppo 1 — identificatori della diga (obbligatorio)
-      ['gerd', 'renaissance dam', 'grand ethiopian', 'grande diga',
-       'nile dam', 'diga etiope', 'diga del nilo', 'hedase'],
-      // Gruppo 2 — paesi coinvolti (obbligatorio)
+      // Gruppo 1 — identificatori della diga senza "gerd" isolato
+      // Per il matching RSS (che usa includes()) "gerd" da solo è ancora
+      // troppo generico: lo disambiguiamo richiedendo sempre un secondo
+      // termine dello stesso gruppo tramite il gruppo 2 obbligatorio.
+      ['renaissance dam', 'grand ethiopian', 'grande diga etiopica',
+       'nile dam', 'diga del nilo', 'diga etiope', 'hedase',
+       'gerd nile', 'gerd ethiopia', 'gerd egypt', 'gerd filling',
+       'gerd water', 'gerd dam', 'gerd reservoir', 'gerd release',
+       'gerd negotiat', 'gerd accord', 'gerd etiop', 'gerd egitt',
+       'gerd nilo', 'gerd sudan'],
+      // Gruppo 2 — paesi coinvolti (obbligatorio, disambigua "gerd")
       ['egypt', 'egitto', 'egizian', 'ethiopia', 'etiopia', 'etiop',
-       'sudan', 'khartoum', 'cairo', 'il cairo', 'addis abeba'],
+       'sudan', 'khartoum', 'cairo', 'il cairo', 'addis abeba', 'nile', 'nilo'],
       // Gruppo 3 — tema idrico/diplomatico
-      ['water', 'acqua', 'idric', 'nile', 'nilo', 'flow', 'flusso',
+      ['water', 'acqua', 'idric', 'flow', 'flusso',
        'release', 'rilascio', 'rilasci', 'filling', 'riempimento',
        'level', 'livello', 'dam', 'diga', 'reservoir', 'invaso',
        'negotiation', 'negoziat', 'agreement', 'accordo', 'dispute',
        'disputa', 'tension', 'tensione', 'transparen', 'trasparenz',
-       'data', 'dati', 'monitor', 'overflow', 'drought', 'siccità',
+       'monitor', 'overflow', 'drought', 'siccità',
        'irrigation', 'irrigazione', 'downstream', 'upstream'],
     ],
   },
