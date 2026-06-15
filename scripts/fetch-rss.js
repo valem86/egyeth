@@ -90,7 +90,7 @@ const TOPICS = {
       ['Egypt', 'Egitto'],
       ['IMF', 'FMI'],
       ['inflation', 'debt'],
-      ['Suez Canal', 'economy', 'economic']
+      ['Suez Canal', 'economy']
     ]
   },
   'gerd-opacity': {
