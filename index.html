@@ -1266,6 +1266,21 @@ li{margin:.35rem 0}
   font-weight:800;
   border-bottom:1px solid rgba(255,255,255,.08);
 }
+/* Tag lingua originale: piccola pillola monocromatica accanto al titolo */
+.rss-lang-tag{
+  display:inline-block;
+  font-size:.65em;
+  font-weight:700;
+  font-family:"IBM Plex Mono",monospace;
+  letter-spacing:.04em;
+  color:rgba(255,255,255,.55);
+  background:rgba(255,255,255,.1);
+  border-radius:4px;
+  padding:0 4px;
+  line-height:1.6;
+  vertical-align:middle;
+  margin-left:2px;
+}
 .rss-placeholder{
   display:block;
   color:white;
@@ -2389,6 +2404,13 @@ function formatUpdatedAt(isoString) {
   });
 }
 
+// Mappa codice lingua → etichetta leggibile in italiano
+const LANG_LABEL = {
+  en: 'EN', it: 'IT', ar: 'AR', fr: 'FR', es: 'ES',
+  de: 'DE', pt: 'PT', am: 'AM', so: 'SO', sw: 'SW',
+  tr: 'TR', zh: 'ZH',
+};
+
 function renderRssItems(items, options = {}) {
   if (!rssNewsTrack) return false;
 
@@ -2409,11 +2431,20 @@ function renderRssItems(items, options = {}) {
       const date = sanitizeRssText(
         formatRssDate(item.pubDate || item.date || item.published || item.published_at)
       );
-      const cleanTitle = sanitizeRssText(item.title || 'Notizia senza titolo');
+      // Usa il titolo tradotto in italiano se disponibile, altrimenti il titolo originale
+      const displayTitle = sanitizeRssText(
+        (item.titleIt || item.title || 'Notizia senza titolo')
+      );
       const cleanSource = sanitizeRssText(item.source || 'Fonte n.d.');
       const link = sanitizeUrl(item.link || '#');
 
-      return `<a href="${link}" target="_blank" rel="noopener noreferrer">${date} - ${cleanTitle} - ${cleanSource}</a>`;
+      // Mostra la lingua originale solo se diversa dall'italiano
+      const lang = (item.lang || 'en').toLowerCase();
+      const langTag = (lang !== 'it' && LANG_LABEL[lang])
+        ? ` <span class="rss-lang-tag">(${LANG_LABEL[lang]})</span>`
+        : '';
+
+      return `<a href="${link}" target="_blank" rel="noopener noreferrer">${date} - ${displayTitle}${langTag} - ${cleanSource}</a>`;
     })
     .join('');
 
@@ -2434,18 +2465,10 @@ function renderRssItems(items, options = {}) {
   }
 
   if (rssMonitoringStatus) {
-    const feedsSucceeded = Number(options.feedsChecked) || 0;
-    const feedsAttempted = Number(options.feedsAttempted) || 0;
     const updatedAt = formatUpdatedAt(options.generatedAt);
-
-    let feedText = '';
-    if (feedsAttempted > 0 && feedsSucceeded > 0) {
-      feedText = ` da ${feedsSucceeded}/${feedsAttempted} feed`;
-    }
-
     const updatedText = updatedAt ? ` · agg. ${updatedAt}` : '';
     rssMonitoringStatus.textContent =
-      `${visibleItems.length} notizie${feedText}${updatedText}`;
+      `${visibleItems.length} notizie${updatedText}`;
   }
 
   return true;
