@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="it">
 <head>
 <meta charset="utf-8"/>
@@ -7,409 +8,8 @@
 <meta content="Scenari di sviluppo tra il rischio di escalation e le opportunità per il Piano Mattei. Orizzonte temporale: giugno 2026 - maggio 2027." name="description"/>
 <link href="https://fonts.googleapis.com" rel="preconnect"/>
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;family=IBM+Plex+Mono:wght@500;600&amp;display=swap" rel="stylesheet"/>
 <link href="styles.css" rel="stylesheet"/>
-<style>
-/* ===================================================
-   RESPONSIVE FIX LAYER — desktop + mobile
-   Sovrascrive i punti critici del CSS originale
-   =================================================== */
-
-/* --- Base overrides --- */
-html { scroll-behavior: smooth; scroll-padding-top: 80px; }
-*, *::before, *::after { box-sizing: border-box; }
-img { max-width: 100%; height: auto; display: block; }
-
-/* --- Header: impedire overflow del brand-text --- */
-.site-header {
-  height: auto;
-  min-height: 64px;
-  padding: 10px 20px;
-  flex-wrap: nowrap;
-  gap: 12px;
-}
-.brand {
-  min-width: 0;
-  flex: 1 1 auto;
-  overflow: hidden;
-}
-.brand-text {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  font-size: clamp(.72rem, 1.1vw, .95rem);
-  max-width: 100%;
-}
-.brand-logo { flex-shrink: 0; }
-.nav-toggle { flex-shrink: 0; }
-
-/* --- Nav mobile --- */
-.site-nav { gap: .25rem; }
-.site-nav a { padding: .5rem .6rem; font-size: .82rem; white-space: nowrap; }
-
-/* --- Container più fluido --- */
-.container {
-  width: min(var(--max, 1180px), calc(100% - 32px));
-  margin: 0 auto;
-}
-
-/* --- Sezioni --- */
-.section { padding: 90px 0; overflow: hidden; }
-
-/* --- HOME --- */
-.home-section { padding-top: 120px; }
-.home-grid {
-  display: grid;
-  grid-template-columns: minmax(0, 1.1fr) minmax(0, .9fr);
-  gap: 40px;
-  align-items: center;
-}
-.home-content h1 { font-size: clamp(1.9rem, 5vw, 5.5rem); }
-.home-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 24px; }
-.home-visual img { width: 100%; max-width: 420px; margin: 0 auto; }
-
-/* --- Method stats: griglia 2 colonne su tutti i dispositivi --- */
-.method-intro-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-  align-items: start;
-}
-.method-stats { grid-template-columns: repeat(2, 1fr); gap: 12px; }
-
-/* --- AI block --- */
-.ai-block {
-  display: grid;
-  grid-template-columns: 220px 1fr;
-  gap: 28px;
-  align-items: center;
-}
-
-/* --- Process timeline: 3 colonne desktop, adattivo --- */
-.process-block { margin-top: 48px; }
-
-/* --- Current grid --- */
-.current-grid { grid-template-columns: 1fr 300px; }
-
-/* --- Dossier/PMESII grid --- */
-.dossier-grid, .pmesii-grid { grid-template-columns: repeat(3, 1fr); gap: 14px; }
-
-/* --- Italy interest block --- */
-.italy-interest-block {
-  display: grid;
-  grid-template-columns: .85fr 1.15fr;
-  gap: 20px;
-}
-.interest-list { grid-template-columns: repeat(2, 1fr); gap: 12px; }
-
-/* --- Cross Impact Matrix: con overflow orizzontale controllato su mobile --- */
-.cross-impact-table-wrap {
-  overflow-x: auto;
-  overflow-y: auto;
-  max-height: 70vh;
-  border-radius: 18px;
-  border: 1px solid var(--line, #ded6c8);
-  background: white;
-  -webkit-overflow-scrolling: touch;
-}
-.cross-impact-table {
-  min-width: 900px;
-  width: 100%;
-  border-collapse: separate;
-  border-spacing: 0;
-  font-size: clamp(.62rem, .8vw, .82rem);
-}
-/* Sticky header inside scrollable container */
-.cross-impact-table caption {
-  position: sticky;
-  top: 0;
-  z-index: 10;
-  background: var(--blue-dark, #172033);
-  color: white;
-  text-align: left;
-  padding: 12px 14px;
-  font-size: .82rem;
-}
-.cross-impact-table thead th {
-  position: sticky;
-  top: 43px;
-  z-index: 8;
-  background: #172033;
-  color: white;
-}
-.cross-impact-table .sticky-col {
-  position: sticky;
-  z-index: 7;
-  background: #fff7ec;
-}
-.cross-impact-table .code-col { left: 0; width: 52px; min-width: 52px; }
-.cross-impact-table .driver-col { left: 52px; width: 220px; min-width: 180px; }
-.cross-impact-table thead .sticky-col { z-index: 12; background: #172033; color: white; }
-.cross-impact-table th, .cross-impact-table td {
-  padding: 7px 8px;
-  border-right: 1px solid #e7dece;
-  border-bottom: 1px solid #e7dece;
-  text-align: center;
-  vertical-align: middle;
-  background: #fffdf8;
-  white-space: nowrap;
-}
-.cross-impact-table .driver-col { white-space: normal; word-break: break-word; text-align: left; }
-
-/* --- Scenario matrix: evitare overflow --- */
-.scenario-matrix {
-  display: grid;
-  grid-template-columns: 200px 1fr 1fr;
-  gap: 10px;
-  margin: 28px 0;
-}
-.matrix-cell { min-height: 160px; }
-
-/* --- Scenario detail --- */
-.scenario-detail-header {
-  display: grid;
-  grid-template-columns: 56px 1fr auto;
-  gap: 16px;
-  align-items: center;
-}
-.scenario-detail-grid { grid-template-columns: 1fr 340px; }
-
-/* --- HILP --- */
-.hilp-grid { grid-template-columns: 1fr 300px; }
-.hilp-risk-grid { grid-template-columns: repeat(2, 1fr); }
-.hilp-impact-grid { grid-template-columns: repeat(2, 1fr); }
-
-/* --- Premortem --- */
-.premortem-diagnostic-grid { grid-template-columns: repeat(3, 1fr); gap: 16px; }
-
-/* --- Weak signals --- */
-.weak-signals-grid { grid-template-columns: repeat(3, 1fr); }
-
-/* --- Scenario overview --- */
-.scenario-overview-grid { grid-template-columns: repeat(4, 1fr); gap: 12px; }
-
-/* --- Footer --- */
-.footer-grid { grid-template-columns: 1.2fr .8fr auto; gap: 20px; align-items: center; }
-
-/* --- Tooltip ottimizzato --- */
-.matrix-tooltip {
-  position: fixed;
-  z-index: 9999;
-  max-width: min(420px, calc(100vw - 24px));
-  pointer-events: none;
-  opacity: 0;
-  transition: opacity .12s ease, transform .12s ease;
-  transform: translateY(4px);
-}
-.matrix-tooltip.visible { opacity: 1; transform: translateY(0); }
-
-/* ===================================================
-   BREAKPOINT: tablet (≤ 1060px)
-   =================================================== */
-@media (max-width: 1060px) {
-  .site-header { padding: 10px 16px; }
-
-  .site-nav {
-    position: fixed;
-    top: 64px;
-    left: 12px;
-    right: 12px;
-    background: rgba(255,250,242,.97);
-    border: 1px solid var(--line, #ded6c8);
-    border-radius: 20px;
-    box-shadow: 0 16px 40px rgba(23,32,51,.12);
-    display: none;
-    flex-direction: column;
-    align-items: stretch;
-    padding: 10px;
-    z-index: 90;
-  }
-  .site-nav.open { display: flex; }
-  .site-nav a {
-    padding: .85rem 1rem;
-    border-radius: 12px;
-    font-size: .9rem;
-    white-space: normal;
-  }
-  .nav-toggle { display: flex !important; }
-
-  .home-grid { grid-template-columns: 1fr; gap: 32px; }
-  .home-visual { order: -1; max-width: 280px; margin: 0 auto; }
-
-  .method-intro-grid { grid-template-columns: 1fr; }
-  .method-stats { grid-template-columns: repeat(3, 1fr); }
-  .ai-block { grid-template-columns: 160px 1fr; }
-
-  .current-grid { grid-template-columns: 1fr; }
-  .current-side { margin-top: 0; }
-
-  .dossier-grid, .pmesii-grid { grid-template-columns: repeat(2, 1fr); }
-
-  .italy-interest-block { grid-template-columns: 1fr; }
-  .interest-list { grid-template-columns: repeat(2, 1fr); }
-
-  .scenario-matrix { grid-template-columns: 160px 1fr 1fr; }
-  .scenario-detail-grid { grid-template-columns: 1fr; }
-  .scenario-detail-header { grid-template-columns: 48px 1fr; }
-  .scenario-detail-header .scenario-art.scenario-header-logo { display: none; }
-
-  .hilp-grid { grid-template-columns: 1fr; }
-  .hilp-impact-grid { grid-template-columns: repeat(2, 1fr); }
-  .weak-signals-grid { grid-template-columns: repeat(2, 1fr); }
-  .premortem-diagnostic-grid { grid-template-columns: repeat(2, 1fr); }
-
-  .scenario-overview-grid { grid-template-columns: repeat(2, 1fr); }
-
-  .footer-grid { grid-template-columns: 1fr 1fr; }
-  .footer-grid > *:last-child { grid-column: 1 / -1; }
-}
-
-/* ===================================================
-   BREAKPOINT: mobile (≤ 720px)
-   =================================================== */
-@media (max-width: 720px) {
-  html { scroll-padding-top: 64px; }
-
-  .site-header { min-height: 58px; padding: 8px 14px; }
-  .brand-text { display: none; }
-  .brand-logo { width: 36px; height: 36px; }
-  .site-nav { top: 58px; }
-
-  .section { padding: 60px 0; }
-  .home-section { padding-top: 90px; }
-
-  .container { width: calc(100% - 24px); }
-
-  h1 { font-size: clamp(1.65rem, 7vw, 2.8rem) !important; }
-  h2 { font-size: clamp(1.5rem, 6vw, 2.4rem) !important; }
-  h3 { font-size: clamp(1.15rem, 4.5vw, 1.7rem) !important; }
-
-  .home-visual { max-width: 200px; }
-  .home-actions .btn { width: 100%; justify-content: center; }
-
-  .method-stats { grid-template-columns: repeat(2, 1fr); }
-  .ai-block { grid-template-columns: 1fr; }
-  .ai-visual { max-width: 140px; margin: 0 auto; }
-
-  .dossier-grid, .pmesii-grid,
-  .hilp-impact-grid, .weak-signals-grid { grid-template-columns: 1fr; }
-  .interest-list { grid-template-columns: 1fr; }
-
-  /* Scenario matrix su mobile: collapse a lista verticale */
-  .scenario-matrix {
-    grid-template-columns: 1fr;
-    gap: 8px;
-  }
-  .matrix-empty { display: none; }
-  .matrix-axis.top {
-    text-align: center;
-    justify-content: center;
-    font-size: .85rem;
-    padding: 10px;
-  }
-  .matrix-axis.side {
-    text-align: center;
-    justify-content: center;
-    border-radius: 12px;
-    font-size: .85rem;
-    padding: 10px;
-  }
-  .matrix-cell { min-height: 130px; border-radius: 16px; }
-
-  .scenario-overview-grid { grid-template-columns: 1fr; }
-  .premortem-diagnostic-grid { grid-template-columns: 1fr; }
-  .hilp-risk-grid { grid-template-columns: 1fr; }
-  .key-drivers-grid { grid-template-columns: 1fr; }
-  .mini-scenario-matrix { grid-template-columns: 1fr; }
-
-  /* Cross impact: orizzontale scroll su mobile */
-  .cross-impact-block { padding: 16px; border-radius: 20px; }
-  .cross-impact-table-wrap { max-height: 60vh; }
-  .cross-impact-table { font-size: .6rem; min-width: 700px; }
-  .cross-impact-table .driver-col { min-width: 130px; width: 130px; }
-  .cross-impact-table .code-col { min-width: 38px; width: 38px; }
-
-  .footer-grid {
-    grid-template-columns: 1fr;
-    gap: 16px;
-    text-align: left;
-  }
-
-  .premortem-monitoring { padding: 90px 20px 24px; }
-  .monitoring-news-logo {
-    top: 18px;
-    right: auto;
-    left: 20px;
-    width: 56px;
-    height: 56px;
-  }
-  .premortem-monitoring h3 { padding-right: 0; }
-
-  .back-to-top { right: 14px; bottom: 14px; width: 40px; height: 40px; font-size: 1rem; }
-
-  /* Process timeline mobile: colonna singola, frecce giù */
-  .process-timeline {
-    grid-template-columns: 1fr !important;
-    gap: 34px !important;
-  }
-  .process-timeline article { order: initial !important; grid-column: auto !important; min-height: auto; }
-  .process-timeline article::after,
-  .process-timeline article:nth-child(n)::after {
-    content: "↓" !important;
-    top: auto !important;
-    right: auto !important;
-    left: 50% !important;
-    bottom: -31px !important;
-    transform: translateX(-50%) !important;
-    width: 28px !important;
-    height: 28px !important;
-    background: var(--blue-dark) !important;
-    box-shadow: 0 8px 18px rgba(23,32,51,.16) !important;
-  }
-  .process-timeline article:last-child::after {
-    content: "" !important;
-    width: 0 !important;
-    height: 0 !important;
-    background: transparent !important;
-    box-shadow: none !important;
-  }
-
-  /* RSS feed */
-  .rss-monitoring-header { flex-direction: column; gap: 8px; }
-  #rssMonitoringStatus { align-self: flex-start; }
-  .rss-news-ticker { --rss-row-h: 44px; }
-
-  /* monitoring tags wrapping */
-  .monitoring-tags { gap: 8px; }
-  .monitoring-tags button.monitoring-feed-btn { font-size: .76rem; padding: .38rem .6rem; }
-}
-
-/* ===================================================
-   BREAKPOINT: piccolo mobile (≤ 400px)
-   =================================================== */
-@media (max-width: 400px) {
-  h1 { font-size: clamp(1.4rem, 8vw, 2rem) !important; }
-  .method-stats { grid-template-columns: 1fr; }
-  .cross-impact-table { min-width: 560px; font-size: .52rem; }
-}
-
-/* --- Accessibilità e motion --- */
-@media (prefers-reduced-motion: reduce) {
-  html { scroll-behavior: auto; }
-  .reveal { opacity: 1 !important; transform: none !important; transition: none !important; }
-  .btn:hover, .matrix-cell:hover { transform: none !important; }
-  .rss-news-track.is-ready { animation: none !important; }
-  .rss-news-ticker { overflow-y: auto; }
-}
-
-/* --- Touch-friendly tap targets su mobile --- */
-@media (hover: none) {
-  .site-nav a { min-height: 44px; display: flex; align-items: center; }
-  .btn { min-height: 48px; }
-  .bibliography-group summary { min-height: 52px; }
-  .monitoring-tags button.monitoring-feed-btn { min-height: 40px; }
-}
-</style>
 </head>
 <body>
 <a class="skip-link" href="#main">Salta al contenuto</a>
@@ -440,7 +40,7 @@ img { max-width: 100%; height: auto; display: block; }
 <p class="eyebrow">Analisi di scenario | Giugno 2026 – Maggio 2027</p>
 <h1>Le tensioni tra Egitto ed Etiopia e le implicazioni per gli interessi italiani</h1>
 <p class="subtitle">Scenari di sviluppo tra il rischio di escalation e le opportunità per il Piano Mattei</p>
-<p class="lead">Quali sono gli scenari di evoluzione delle relazioni tra Egitto ed Etiopia nei prossimi dodici mesi e quali implicazioni potrebbero avere per gli interessi italiani nel quadrante Mar Rosso–Corno d'Africa?</p>
+<p class="lead">Quali sono gli scenari di evoluzione delle relazioni tra Egitto ed Etiopia nei prossimi dodici mesi e quali implicazioni potrebbero avere per gli interessi italiani nel quadrante Mar Rosso–Corno d’Africa?</p>
 <div class="home-actions">
 <a class="btn btn-primary" href="#scenari">Esplora gli scenari</a>
 <a class="btn btn-secondary" href="#nota-metodologica">Leggi la nota metodologica</a>
@@ -460,7 +60,7 @@ img { max-width: 100%; height: auto; display: block; }
 </div>
 <div class="method-intro-grid reveal">
 <div class="method-copy card-soft">
-<h3>Come è stata costruita l'analisi</h3>
+<h3>Come è stata costruita l’analisi</h3>
 <p>Il lavoro è stato sviluppato attraverso una sequenza strutturata di tecniche analitiche applicate alle tensioni tra Egitto ed Etiopia, ai loro possibili sviluppi nei prossimi dodici mesi e alle implicazioni per gli interessi italiani, a partire dal Piano Mattei.</p>
 <p>Il processo ha permesso di muoversi dalla lettura della situazione attuale alla generazione di quattro futuri alternativi, fino alla valutazione critica dei risultati analitici.</p>
 </div>
@@ -477,10 +77,10 @@ img { max-width: 100%; height: auto; display: block; }
 <div class="ai-visual"><img alt="Agente IA Analista" src="assets/agente-stilizzato.png"/></div>
 <div class="ai-copy">
 <p class="eyebrow">Analisi assistita dall'IA</p>
-<h3>Il ruolo dell'agente "Analista"</h3>
-<p>Per supportare le tecniche analitiche previste è stato istruito un agente IA dedicato, denominato "Analista", specializzato in geopolitica, analisi prospettica e tecniche analitiche strutturate.</p>
-<p>L'approccio adottato è stato rigorosamente antropocentrico: l'intelligenza artificiale è stata utilizzata come strumento di supporto e potenziamento dell'analista, non come suo sostituto.</p>
-<div class="human-loop-note"><h4>Human-in-the-loop</h4><p>Ogni output generato dall'agente è stato vagliato, corretto e validato dagli analisti prima di essere integrato nelle fasi successive del lavoro.</p></div>
+<h3>Il ruolo dell’agente “Analista”</h3>
+<p>Per supportare le tecniche analitiche previste è stato istruito un agente IA dedicato, denominato “Analista”, specializzato in geopolitica, analisi prospettica e tecniche analitiche strutturate.</p>
+<p>L’approccio adottato è stato rigorosamente antropocentrico: l’intelligenza artificiale è stata utilizzata come strumento di supporto e potenziamento dell’analista, non come suo sostituto.</p>
+<div class="human-loop-note"><h4>Human-in-the-loop</h4><p>Ogni output generato dall’agente è stato vagliato, corretto e validato dagli analisti prima di essere integrato nelle fasi successive del lavoro.</p></div>
 </div>
 </div>
 <div class="process-block reveal">
@@ -490,13 +90,13 @@ img { max-width: 100%; height: auto; display: block; }
 <article><span>02</span><h4>Tecnica AIMS</h4><p>Identificazione di audience, issue, message e storyline.</p></article>
 <article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>03</span><h4>Issue Redefinition</h4><p>Ridefinizione del problema nella domanda analitica guida.</p></article>
 <article><span>04</span><h4>Ricerca fonti</h4><p>Raccolta e valutazione di documenti utili al quesito analitico.</p></article>
-<article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>05</span><h4>Estrazione claim</h4><p>Individuazione delle informazioni rilevanti per l'analisi.</p></article>
+<article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>05</span><h4>Estrazione claim</h4><p>Individuazione delle informazioni rilevanti per l’analisi.</p></article>
 <article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>06</span><h4>Quality of Information Check</h4><p>Verifica dei claim e selezione delle informazioni più solide.</p></article>
 <article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>07</span><h4>Stato attuale</h4><p>Sintesi del quadro di partenza rispetto alla domanda analitica.</p></article>
 <article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>08</span><h4>Driver di cambiamento</h4><p>Identificazione dei fattori di possibile evoluzione del contesto.</p></article>
-<article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>09</span><h4>Cross Impact Matrix</h4><p>Valutazione dell'influenza reciproca tra i driver selezionati.</p></article>
+<article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>09</span><h4>Cross Impact Matrix</h4><p>Valutazione dell’influenza reciproca tra i driver selezionati.</p></article>
 <article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>10</span><h4>Futuri alternativi</h4><p>Costruzione di quattro scenari plausibili e distinti.</p></article>
-<article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>11</span><h4>Avvocato del diavolo</h4><p>Stress test critico delle implicazioni strategiche per l'Italia.</p></article>
+<article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>11</span><h4>Avvocato del diavolo</h4><p>Stress test critico delle implicazioni strategiche per l’Italia.</p></article>
 <article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>12</span><h4>Analisi HILP</h4><p>Identificazione di un evento ad alto impatto e bassa probabilità.</p></article>
 <article class="agent-logo-card"><img alt="Logo agente Analista" class="agent-card-logo" src="assets/agente-stilizzato.png"/><span>13</span><h4>Analisi premortem</h4><p>Verifica delle assunzioni dello scenario più favorevole.</p></article>
 </div>
@@ -505,31 +105,31 @@ img { max-width: 100%; height: auto; display: block; }
 </section>
 <section class="section current-section" id="situazione-attuale">
 <div class="container">
-<div class="section-header reveal"><p class="eyebrow">Quadro di partenza</p><h2>Situazione attuale</h2><p>Una rivalità che dal bacino del Nilo si proietta sul Corno d'Africa e sul Mar Rosso.</p></div>
-<div class="current-summary reveal"><h3>In sintesi</h3><p>La rivalità Egitto-Etiopia non è più solo una disputa sulla gestione delle acque del Nilo. La GERD resta il fulcro simbolico e operativo della tensione, ma il confronto si è esteso al Sudan, al Corno d'Africa, alla competizione per l'accesso al mare e alla sicurezza del Mar Rosso. Per l'Italia, il dossier incide su Piano Mattei, rotte commerciali, energia, migrazioni e credibilità diplomatica.</p></div>
+<div class="section-header reveal"><p class="eyebrow">Quadro di partenza</p><h2>Situazione attuale</h2><p>Una rivalità che dal bacino del Nilo si proietta sul Corno d’Africa e sul Mar Rosso.</p></div>
+<div class="current-summary reveal"><h3>In sintesi</h3><p>La rivalità Egitto-Etiopia non è più solo una disputa sulla gestione delle acque del Nilo. La GERD resta il fulcro simbolico e operativo della tensione, ma il confronto si è esteso al Sudan, al Corno d’Africa, alla competizione per l’accesso al mare e alla sicurezza del Mar Rosso. Per l’Italia, il dossier incide su Piano Mattei, rotte commerciali, energia, migrazioni e credibilità diplomatica.</p></div>
 <div class="current-grid reveal">
-<article class="current-main card-soft"><h3>Dal contenzioso idrico alla competizione regionale</h3><p>Allo stato attuale, i rapporti tra Egitto ed Etiopia sono segnati da una rivalità strutturale che ha nella Grand Ethiopian Renaissance Dam il suo fulcro più visibile, ma che ormai eccede la dimensione strettamente idrica.</p><p>Per Addis Abeba, la GERD rappresenta un'infrastruttura strategica di sovranità, sviluppo, elettrificazione e prestigio nazionale. Per Il Cairo, invece, la gestione della diga tocca una questione di sicurezza nazionale, legata alla tenuta agricola, sociale ed economica dell'Egitto.</p><p>Il nodo principale resta l'assenza di un accordo vincolante sul riempimento e sulla gestione della diga, soprattutto in caso di siccità prolungate.</p></article>
+<article class="current-main card-soft"><h3>Dal contenzioso idrico alla competizione regionale</h3><p>Allo stato attuale, i rapporti tra Egitto ed Etiopia sono segnati da una rivalità strutturale che ha nella Grand Ethiopian Renaissance Dam il suo fulcro più visibile, ma che ormai eccede la dimensione strettamente idrica.</p><p>Per Addis Abeba, la GERD rappresenta un’infrastruttura strategica di sovranità, sviluppo, elettrificazione e prestigio nazionale. Per Il Cairo, invece, la gestione della diga tocca una questione di sicurezza nazionale, legata alla tenuta agricola, sociale ed economica dell’Egitto.</p><p>Il nodo principale resta l’assenza di un accordo vincolante sul riempimento e sulla gestione della diga, soprattutto in caso di siccità prolungate.</p></article>
 <aside class="current-side"><h4>Nodo centrale</h4><p>La GERD è il punto di contatto tra due narrazioni incompatibili: sicurezza idrica egiziana e sovranità energetica etiope.</p></aside>
 </div>
 <div class="dossier-block reveal"><div class="section-header compact"><p class="eyebrow">Dossier regionali</p><h3>La regionalizzazione della crisi</h3></div><div class="dossier-grid">
-<article class="dossier-card"><span class="dossier-tag">Nilo</span><h4>GERD</h4><p>La diga resta il fulcro più visibile della rivalità: per l'Etiopia è sovranità energetica, per l'Egitto sicurezza idrica nazionale.</p></article>
+<article class="dossier-card"><span class="dossier-tag">Nilo</span><h4>GERD</h4><p>La diga resta il fulcro più visibile della rivalità: per l’Etiopia è sovranità energetica, per l’Egitto sicurezza idrica nazionale.</p></article>
 <article class="dossier-card"><span class="dossier-tag">Sudan</span><h4>Guerra civile</h4><p>Il conflitto sudanese indebolisce un attore chiave del bacino del Nilo e apre nuovi spazi di competizione indiretta.</p></article>
-<article class="dossier-card"><span class="dossier-tag">Corno d'Africa</span><h4>Somalia e Somaliland</h4><p>La ricerca etiope di accesso al mare e il rafforzamento dei legami Egitto-Somalia ampliano la geografia della crisi.</p></article>
+<article class="dossier-card"><span class="dossier-tag">Corno d’Africa</span><h4>Somalia e Somaliland</h4><p>La ricerca etiope di accesso al mare e il rafforzamento dei legami Egitto-Somalia ampliano la geografia della crisi.</p></article>
 <article class="dossier-card"><span class="dossier-tag">Snodi regionali</span><h4>Eritrea e Gibuti</h4><p>Eritrea e Gibuti assumono rilievo crescente negli equilibri tra Cairo e Addis Abeba, soprattutto per accesso al mare e sicurezza regionale.</p></article>
 <article class="dossier-card"><span class="dossier-tag">Competizione esterna</span><h4>Attori internazionali</h4><p>Emirati, Turchia, Arabia Saudita, Cina, Stati Uniti, UE e UA influenzano la crisi, ma la mediazione resta frammentata.</p></article>
 <article class="dossier-card highlight"><span class="dossier-tag">Italia</span><h4>Interessi strategici</h4><p>Piano Mattei, energia, migrazioni, Suez-Mar Rosso e credibilità diplomatica rendono il dossier rilevante per Roma.</p></article>
 </div></div>
-<div class="italy-interest-block reveal"><div><p class="eyebrow">Interessi italiani</p><h3>Perché il dossier riguarda Roma</h3><p>L'Italia ha interesse a preservare simultaneamente la solidità del rapporto con l'Egitto e il progressivo consolidamento della cooperazione con l'Etiopia. Tuttavia, l'intreccio tra bacino del Nilo, Corno d'Africa e Mar Rosso riduce gli spazi di neutralità.</p></div><div class="interest-list"><article><h4>Piano Mattei</h4><p>Egitto ed Etiopia sono partner rilevanti della proiezione italiana in Africa.</p></article><article><h4>Suez e Mar Rosso</h4><p>La sicurezza delle rotte commerciali euro-mediterranee dipende dalla stabilità dell'area.</p></article><article><h4>Energia</h4><p>La stabilità egiziana incide sul ruolo del Cairo come hub energetico regionale.</p></article><article><h4>Migrazioni</h4><p>La crisi può avere effetti sulle politiche migratorie regionali e sulla cooperazione con Roma.</p></article></div></div>
-<div class="method-note current-note reveal"><h3>Perché monitorare</h3><p>Il monitoraggio della relazione Egitto-Etiopia assume per l'Italia un valore che travalica la dimensione regionale: incide sulla sicurezza energetica nazionale, sulla resilienza delle catene logistiche euro-mediterranee, sulla stabilità di partner africani prioritari e sulla credibilità della proiezione politico-diplomatica italiana.</p></div>
+<div class="italy-interest-block reveal"><div><p class="eyebrow">Interessi italiani</p><h3>Perché il dossier riguarda Roma</h3><p>L’Italia ha interesse a preservare simultaneamente la solidità del rapporto con l’Egitto e il progressivo consolidamento della cooperazione con l’Etiopia. Tuttavia, l’intreccio tra bacino del Nilo, Corno d’Africa e Mar Rosso riduce gli spazi di neutralità.</p></div><div class="interest-list"><article><h4>Piano Mattei</h4><p>Egitto ed Etiopia sono partner rilevanti della proiezione italiana in Africa.</p></article><article><h4>Suez e Mar Rosso</h4><p>La sicurezza delle rotte commerciali euro-mediterranee dipende dalla stabilità dell’area.</p></article><article><h4>Energia</h4><p>La stabilità egiziana incide sul ruolo del Cairo come hub energetico regionale.</p></article><article><h4>Migrazioni</h4><p>La crisi può avere effetti sulle politiche migratorie regionali e sulla cooperazione con Roma.</p></article></div></div>
+<div class="method-note current-note reveal"><h3>Perché monitorare</h3><p>Il monitoraggio della relazione Egitto-Etiopia assume per l’Italia un valore che travalica la dimensione regionale: incide sulla sicurezza energetica nazionale, sulla resilienza delle catene logistiche euro-mediterranee, sulla stabilità di partner africani prioritari e sulla credibilità della proiezione politico-diplomatica italiana.</p></div>
 </div>
 </section>
 <section class="section drivers-section" id="driver">
 <div class="container">
-<div class="section-header reveal"><p class="eyebrow">Fattori di cambiamento</p><h2>Driver</h2><p>Le forze politiche, militari, economiche, sociali, informative e infrastrutturali che possono orientare l'evoluzione della rivalità.</p></div>
-<div class="drivers-summary reveal"><h3>In sintesi</h3><p>L'analisi ha individuato 17 driver di cambiamento, organizzati secondo le categorie PMESII. Attraverso una Cross Impact Matrix sono stati selezionati i due driver di maggiore rilievo sistemico: la capacità di mediazione esterna e la regionalizzazione della rivalità Egitto-Etiopia.</p></div>
+<div class="section-header reveal"><p class="eyebrow">Fattori di cambiamento</p><h2>Driver</h2><p>Le forze politiche, militari, economiche, sociali, informative e infrastrutturali che possono orientare l’evoluzione della rivalità.</p></div>
+<div class="drivers-summary reveal"><h3>In sintesi</h3><p>L’analisi ha individuato 17 driver di cambiamento, organizzati secondo le categorie PMESII. Attraverso una Cross Impact Matrix sono stati selezionati i due driver di maggiore rilievo sistemico: la capacità di mediazione esterna e la regionalizzazione della rivalità Egitto-Etiopia.</p></div>
 <div class="pmesii-block reveal"><div class="section-header compact"><p class="eyebrow">PMESII</p><h3>I 17 driver di cambiamento</h3></div><div class="pmesii-grid">
 <article class="pmesii-card"><span>Political</span><ul><li>Securitizzazione della GERD</li><li>Regionalizzazione della rivalità Egitto-Etiopia</li><li>Capacità di mediazione esterna</li><li>Vincoli domestici dei due regimi</li></ul></article>
-<article class="pmesii-card"><span>Military</span><ul><li>Militarizzazione indiretta del Corno d'Africa</li><li>Instabilità interna etiope</li><li>Guerra in Sudan e vuoto di coordinamento</li></ul></article>
+<article class="pmesii-card"><span>Military</span><ul><li>Militarizzazione indiretta del Corno d’Africa</li><li>Instabilità interna etiope</li><li>Guerra in Sudan e vuoto di coordinamento</li></ul></article>
 <article class="pmesii-card"><span>Economic</span><ul><li>Fragilità economica egiziana</li><li>Bisogno etiope di crescita, energia e accesso al mare</li><li>Vulnerabilità delle rotte Suez-Mar Rosso</li></ul></article>
 <article class="pmesii-card"><span>Social</span><ul><li>Stress idrico-alimentare e sensibilità pubblica</li><li>Spostamenti forzati e pressione migratoria</li></ul></article>
 <article class="pmesii-card"><span>Information</span><ul><li>Opacità dei dati GERD</li><li>Narrative nazionaliste e delegittimazione reciproca</li></ul></article>
@@ -538,7 +138,7 @@ img { max-width: 100%; height: auto; display: block; }
 <div class="driver-ranking-block reveal"><div class="section-header compact"><p class="eyebrow">Peso sistemico</p><h3>I driver più centrali nella Cross Impact Matrix</h3></div><div class="ranking-list">
 <article class="ranking-item primary"><span class="rank">01</span><div><h4>Capacità di mediazione esterna</h4><p>Leva di contenimento sistemica. Centralità totale: 37.</p></div></article>
 <article class="ranking-item primary"><span class="rank">02</span><div><h4>Regionalizzazione della rivalità Egitto-Etiopia</h4><p>Nodo sistemico. Centralità totale: 35.</p></div></article>
-<article class="ranking-item"><span class="rank">03</span><div><h4>Militarizzazione indiretta del Corno d'Africa</h4><p>Nodo sistemico. Centralità totale: 34.</p></div></article>
+<article class="ranking-item"><span class="rank">03</span><div><h4>Militarizzazione indiretta del Corno d’Africa</h4><p>Nodo sistemico. Centralità totale: 34.</p></div></article>
 <article class="ranking-item"><span class="rank">04</span><div><h4>Bisogno etiope di crescita, energia e accesso al mare</h4><p>Driver leva. Centralità totale: 17.</p></div></article>
 <article class="ranking-item"><span class="rank">05</span><div><h4>Guerra in Sudan e vuoto di coordinamento</h4><p>Driver leva. Centralità totale: 16.</p></div></article>
 </div></div>
@@ -546,7 +146,7 @@ img { max-width: 100%; height: auto; display: block; }
 <div class="section-header compact">
 <p class="eyebrow">Cross Impact Matrix</p>
 <h3>Tabella interattiva dei driver</h3>
-<p>La tabella riproduce la Cross Impact Matrix, una matrice di impatto incrociato nel quale ognuno dei 17 driver di cambiamento è stato valutato in base alla sua capacità di rafforzare o ridurre gli altri driver del sistema, con valori compresi tra -3 e +3 (valore 0 se il driver è ininfluente su un altro driver). Il criterio non si è limitato a misurare l'importanza isolata di ciascun fattore, ma ha considerato il suo peso sistemico: da un lato l'influenza, cioè la capacità di produrre effetti su altri driver; dall'altro la dipendenza, cioè il grado in cui quel driver è a sua volta condizionato da altri driver. Scorrendo col cursore sui singoli punteggi è visibile una spiegazione sintetica del rapporto tra i driver.</p>
+<p>La tabella riproduce la Cross Impact Matrix, una matrice di impatto incrociato nel quale ognuno dei 17 driver di cambiamento è stato valutato in base alla sua capacità di rafforzare o ridurre gli altri driver del sistema, con valori compresi tra -3 e +3 (valore 0 se il driver è ininfluente su un altro driver). Il criterio non si è limitato a misurare l’importanza isolata di ciascun fattore, ma ha considerato il suo peso sistemico: da un lato l’influenza, cioè la capacità di produrre effetti su altri driver; dall’altro la dipendenza, cioè il grado in cui quel driver è a sua volta condizionato da altri driver. Scorrendo col cursore sui singoli punteggi è visibile una spiegazione sintetica del rapporto tra i driver.</p>
 </div>
 <div aria-label="Legenda della Cross Impact Matrix" class="matrix-legend">
 <span class="legend-positive">Rafforza</span>
@@ -554,11 +154,11 @@ img { max-width: 100%; height: auto; display: block; }
 <span class="legend-neutral">Neutro</span>
 <span class="legend-comment">Commento disponibile</span>
 </div>
-<div aria-label="Cross Impact Matrix interattiva" class="cross-impact-table-wrap"><table class="cross-impact-table">
+<div aria-label="Cross Impact Matrix interattiva aggiornata" class="cross-impact-table-wrap"><table class="cross-impact-table">
 <colgroup><col class="col-code"/><col class="col-driver"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/><col class="col-score"/></colgroup>
-<caption>Driver riga → driver colonna: effetto del driver di riga sul driver di colonna. Passa sulle celle evidenziate per leggere il commento.</caption>
+<caption>Driver riga -&gt; driver colonna: effetto del driver di riga sul driver di colonna. Passa sulle celle evidenziate per leggere il commento.</caption>
 <thead><tr>
-<th class="sticky-col code-col">Cod.</th>
+<th class="sticky-col code-col">Codice</th>
 <th class="sticky-col driver-col">Driver</th>
 <th class="matrix-driver-head has-comment" data-tooltip="Securitizzazione della GERD">D1</th>
 <th class="matrix-driver-head has-comment" data-tooltip="Regionalizzazione della rivalita Egitto-Etiopia">D2</th>
@@ -595,7 +195,7 @@ img { max-width: 100%; height: auto; display: block; }
 <td class="neutral">0</td>
 <td class="neutral">0</td>
 <td class="neutral">0</td>
-<td class="positive has-comment" data-tooltip="La sensibilita securitaria rende più costoso condividere dati idrologici e operativi.">2</td>
+<td class="positive has-comment" data-tooltip="La sensibilitàsecuritaria rende più costoso condividere dati idrologici e operativi.">2</td>
 <td class="positive has-comment" data-tooltip="Alimenta frame pubblici di minaccia esistenziale e diritti non negoziabili.">2</td>
 <td class="negative has-comment" data-tooltip="Complica la normalizzazione tecnica del regime operativo della diga.">-1</td>
 <td class="neutral">0</td>
@@ -653,7 +253,7 @@ img { max-width: 100%; height: auto; display: block; }
 <td class="positive has-comment" data-tooltip="Le leadership possono esternalizzare tensioni domestiche su dossier regionali.">1</td>
 <td class="negative has-comment" data-tooltip="La pressione interna riduce margini per accettare compromessi mediati.">-1</td>
 <td class="diagonal"></td>
-<td class="positive has-comment" data-tooltip="Aumenta l'utilita politica di segnali di fermezza e deterrenza indiretta.">1</td>
+<td class="positive has-comment" data-tooltip="Aumenta l utilita politica di segnali di fermezza e deterrenza indiretta.">1</td>
 <td class="neutral">0</td>
 <td class="neutral">0</td>
 <td class="positive has-comment" data-tooltip="Posture rigide possono aumentare costi economici o ritardare aggiustamenti.">1</td>
@@ -715,14 +315,14 @@ img { max-width: 100%; height: auto; display: block; }
 <tr>
 <th class="sticky-col code-col">D7</th>
 <th class="sticky-col driver-col">Guerra in Sudan e vuoto di coordinamento</th>
-<td class="positive has-comment" data-tooltip="Il vuoto sudanese aumenta la percezione egiziana di vulnerabilita strategica.">1</td>
+<td class="positive has-comment" data-tooltip="Il vuoto sudanese aumenta la percezione egiziana di vulnerabilitàstrategica.">1</td>
 <td class="positive has-comment" data-tooltip="Il Sudan collega direttamente bacino del Nilo, confini e competizione regionale.">2</td>
 <td class="negative has-comment" data-tooltip="Il collasso di un attore-cuscinetto rende piu complessa la mediazione.">-1</td>
 <td class="positive has-comment" data-tooltip="Flussi, confine e sicurezza aumentano pressione domestica soprattutto sul Cairo.">1</td>
 <td class="positive has-comment" data-tooltip="La guerra apre spazi per supporti indiretti, intelligence e allineamenti.">2</td>
 <td class="neutral">0</td>
 <td class="diagonal"></td>
-<td class="positive has-comment" data-tooltip="I costi di rifugiati e instabilita regionale gravano sull'economia egiziana.">1</td>
+<td class="positive has-comment" data-tooltip="I costi di rifugiati e instabilita regionale gravano sull economia egiziana.">1</td>
 <td class="neutral">0</td>
 <td class="positive has-comment" data-tooltip="Lo spillover regionale contribuisce al rischio percepito sulle connessioni Mar Rosso.">1</td>
 <td class="neutral">0</td>
@@ -771,9 +371,10 @@ img { max-width: 100%; height: auto; display: block; }
 <td class="neutral">0</td>
 <td class="neutral">0</td>
 <td class="neutral">0</td>
+<td class="neutral">0</td>
 <td class="positive has-comment" data-tooltip="La narrativa di sovranita e sviluppo rafforza delegittimazione delle pretese egiziane.">2</td>
-<td class="positive has-comment" data-tooltip="La necessita di energia rende centrale l'operativita della GERD.">3</td>
-<td class="positive has-comment" data-tooltip="L'accesso al mare e il bisogno logistico sono motori diretti dei corridoi portuali.">3</td>
+<td class="positive has-comment" data-tooltip="La necessita di energia rende centrale l operativita della GERD.">3</td>
+<td class="positive has-comment" data-tooltip="L accesso al mare e il bisogno logistico sono motori diretti dei corridoi portuali.">3</td>
 <td class="neutral">0</td>
 <td class="active-col">14</td>
 </tr>
@@ -814,7 +415,7 @@ img { max-width: 100%; height: auto; display: block; }
 <td class="neutral">0</td>
 <td class="diagonal"></td>
 <td class="positive has-comment" data-tooltip="Stress idrico e alimentare contribuiscono a mobilita interna o regionale.">1</td>
-<td class="positive has-comment" data-tooltip="Quando lo stress cresce, l'assenza di dati affidabili diventa piu destabilizzante.">1</td>
+<td class="positive has-comment" data-tooltip="Quando lo stress cresce, l assenza di dati affidabili diventa piu destabilizzante.">1</td>
 <td class="positive has-comment" data-tooltip="La sofferenza sociale rende piu potenti le narrazioni di colpa e vittimizzazione.">2</td>
 <td class="positive has-comment" data-tooltip="Aumenta la rilevanza pratica di regole su siccita, piene e rilasci.">1</td>
 <td class="neutral">0</td>
@@ -869,7 +470,7 @@ img { max-width: 100%; height: auto; display: block; }
 <th class="sticky-col code-col">D14</th>
 <th class="sticky-col driver-col">Narrative nazionaliste e delegittimazione reciproca</th>
 <td class="positive has-comment" data-tooltip="Narrative identitarie trasformano il dossier in questione non negoziabile.">2</td>
-<td class="positive has-comment" data-tooltip="La delegittimazione reciproca facilita l'estensione della rivalita ad altri teatri.">1</td>
+<td class="positive has-comment" data-tooltip="La delegittimazione reciproca facilita l estensione della rivalita ad altri teatri.">1</td>
 <td class="negative has-comment" data-tooltip="Mediatori e compromessi vengono esposti ad accuse di parzialita o tradimento.">-2</td>
 <td class="positive has-comment" data-tooltip="Opinioni pubbliche mobilitate stringono i vincoli domestici delle leadership.">3</td>
 <td class="positive has-comment" data-tooltip="Retorica ostile puo giustificare segnali di deterrenza.">1</td>
@@ -882,7 +483,7 @@ img { max-width: 100%; height: auto; display: block; }
 <td class="neutral">0</td>
 <td class="positive has-comment" data-tooltip="La sfiducia pubblica riduce disponibilita politica allo scambio dati.">1</td>
 <td class="diagonal"></td>
-<td class="negative has-comment" data-tooltip="Complica l'accettazione di regole tecniche presentabili come compromesso.">-1</td>
+<td class="negative has-comment" data-tooltip="Complica l accettazione di regole tecniche presentabili come compromesso.">-1</td>
 <td class="neutral">0</td>
 <td class="neutral">0</td>
 <td class="active-col">11</td>
@@ -902,7 +503,7 @@ img { max-width: 100%; height: auto; display: block; }
 <td class="neutral">0</td>
 <td class="positive has-comment" data-tooltip="Rilasci, piene e siccita incidono direttamente sulla sensibilita idrico-alimentare.">2</td>
 <td class="neutral">0</td>
-<td class="positive has-comment" data-tooltip="Senza protocolli robusti, l'operativita quotidiana moltiplica i bisogni di dati condivisi.">2</td>
+<td class="positive has-comment" data-tooltip="Senza protocolli robusti, l operativita quotidiana moltiplica i bisogni di dati condivisi.">2</td>
 <td class="positive has-comment" data-tooltip="Eventi operativi controversi possono essere narrativizzati come ostili.">1</td>
 <td class="diagonal"></td>
 <td class="neutral">0</td>
@@ -977,37 +578,37 @@ img { max-width: 100%; height: auto; display: block; }
 </tr>
 </tbody></table></div>
 </div>
-<div class="key-drivers-block reveal"><div class="section-header compact"><p class="eyebrow">Driver di rilievo</p><h3>I due assi della matrice scenariale</h3></div><div class="key-drivers-grid"><article class="key-driver-card containment"><span class="driver-code">D3</span><h4>Capacità di mediazione esterna</h4><p>È il principale driver di contenimento. Può ridurre la connotazione securitaria della GERD, favorire lo scambio di dati tecnici, offrire copertura politica a compromessi limitati e contenere la militarizzazione indiretta.</p><div class="driver-axis-label">Mediazione debole ←→ Mediazione efficace</div></article><article class="key-driver-card escalation"><span class="driver-code">D2</span><h4>Regionalizzazione della rivalità</h4><p>È il principale vettore di aggravamento. Trasforma la disputa sulla GERD in una competizione più ampia nel Corno d'Africa e nel Mar Rosso, includendo Somalia, Somaliland, Eritrea, Sudan, Gibuti, corridoi portuali e accordi di sicurezza.</p><div class="driver-axis-label">Regionalizzazione contenuta ←→ Regionalizzazione elevata</div></article></div></div>
+<div class="key-drivers-block reveal"><div class="section-header compact"><p class="eyebrow">Driver di rilievo</p><h3>I due assi della matrice scenariale</h3></div><div class="key-drivers-grid"><article class="key-driver-card containment"><span class="driver-code">D3</span><h4>Capacità di mediazione esterna</h4><p>È il principale driver di contenimento. Può ridurre la connotazione securitaria della GERD, favorire lo scambio di dati tecnici, offrire copertura politica a compromessi limitati e contenere la militarizzazione indiretta.</p><div class="driver-axis-label">Mediazione debole ←→ Mediazione efficace</div></article><article class="key-driver-card escalation"><span class="driver-code">D2</span><h4>Regionalizzazione della rivalità</h4><p>È il principale vettore di aggravamento. Trasforma la disputa sulla GERD in una competizione più ampia nel Corno d’Africa e nel Mar Rosso, includendo Somalia, Somaliland, Eritrea, Sudan, Gibuti, corridoi portuali e accordi di sicurezza.</p><div class="driver-axis-label">Regionalizzazione contenuta ←→ Regionalizzazione elevata</div></article></div></div>
 </div>
 </section>
 <section class="section scenarios-section" id="scenari">
 <div class="container">
-<div class="section-header reveal"><p class="eyebrow">Futuri alternativi</p><h2>Scenari</h2><p>Quattro traiettorie plausibili per l'evoluzione delle relazioni tra Egitto ed Etiopia e le relative implicazioni per gli interessi italiani al maggio 2027.</p></div>
+<div class="section-header reveal"><p class="eyebrow">Futuri alternativi</p><h2>Scenari</h2><p>Quattro traiettorie plausibili per l’evoluzione delle relazioni tra Egitto ed Etiopia e le relative implicazioni per gli interessi italiani al maggio 2027.</p></div>
 <div class="scenarios-intro reveal"><h3>Come leggere gli scenari</h3><p>Gli scenari non rappresentano previsioni, ma futuri plausibili, alternativi e coerenti internamente. Sono costruiti incrociando due driver principali: la capacità di mediazione esterna e il grado di regionalizzazione della rivalità Egitto-Etiopia.</p></div>
-<div aria-label="Matrice degli scenari" class="scenario-matrix reveal"><div class="matrix-empty"></div><div class="matrix-axis top">Regionalizzazione contenuta</div><div class="matrix-axis top">Regionalizzazione elevata</div><div class="matrix-axis side">Mediazione esterna efficace</div><a class="matrix-cell low-risk" href="#scenario-1"><span class="scenario-number">01</span><p class="scenario-label">Scenario più favorevole</p><h3>Una diga alla crisi</h3><p>Mediazione efficace e regionalizzazione contenuta.</p><strong>Rischio per l'Italia: basso</strong></a><a class="matrix-cell medium-high-risk" href="#scenario-2"><span class="scenario-number">02</span><p class="scenario-label">Scenario più probabile</p><h3>Sul filo del rasoio</h3><p>Mediazione efficace e regionalizzazione elevata.</p><strong>Rischio per l'Italia: medio-alto</strong></a><div class="matrix-axis side">Mediazione esterna debole</div><a class="matrix-cell medium-risk" href="#scenario-3"><span class="scenario-number">03</span><p class="scenario-label">Scenario di continuità</p><h3>Stallo sul Nilo</h3><p>Mediazione debole e regionalizzazione contenuta.</p><strong>Rischio per l'Italia: medio</strong></a><a class="matrix-cell high-risk" href="#scenario-4"><span class="scenario-number">04</span><p class="scenario-label">Scenario meno favorevole</p><h3>Escalation regionale</h3><p>Mediazione debole e regionalizzazione elevata.</p><strong>Rischio per l'Italia: alto</strong></a></div>
+<div aria-label="Matrice degli scenari" class="scenario-matrix reveal"><div class="matrix-empty"></div><div class="matrix-axis top">Regionalizzazione contenuta</div><div class="matrix-axis top">Regionalizzazione elevata</div><div class="matrix-axis side">Mediazione esterna efficace</div><a class="matrix-cell low-risk" href="#scenario-1"><span class="scenario-number">01</span><p class="scenario-label">Scenario più favorevole</p><h3>Una diga alla crisi</h3><p>Mediazione efficace e regionalizzazione contenuta.</p><strong>Rischio per l’Italia: basso</strong></a><a class="matrix-cell medium-high-risk" href="#scenario-2"><span class="scenario-number">02</span><p class="scenario-label">Scenario più probabile</p><h3>Sul filo del rasoio</h3><p>Mediazione efficace e regionalizzazione elevata.</p><strong>Rischio per l’Italia: medio-alto</strong></a><div class="matrix-axis side">Mediazione esterna debole</div><a class="matrix-cell medium-risk" href="#scenario-3"><span class="scenario-number">03</span><p class="scenario-label">Scenario di continuità</p><h3>Stallo sul Nilo</h3><p>Mediazione debole e regionalizzazione contenuta.</p><strong>Rischio per l’Italia: medio</strong></a><a class="matrix-cell high-risk" href="#scenario-4"><span class="scenario-number">04</span><p class="scenario-label">Scenario meno favorevole</p><h3>Escalation regionale</h3><p>Mediazione debole e regionalizzazione elevata.</p><strong>Rischio per l’Italia: alto</strong></a></div>
 <div class="scenario-detail-list">
-<article class="scenario-detail low-risk reveal" id="scenario-1"><div class="scenario-detail-header"><span class="scenario-number">01</span><div><p class="scenario-label">Scenario più favorevole per l'Italia</p><h3>Una diga alla crisi</h3><p>Mediazione esterna efficace e regionalizzazione contenuta.</p></div><figure class="scenario-art scenario-header-logo"><img alt="Illustrazione dello scenario Una diga alla crisi" src="assets/scenario-1.png"/></figure></div><div class="scenario-detail-grid"><div><h4>Descrizione</h4><p>La rivalità tra Egitto ed Etiopia resta strutturale, ma viene riportata entro un perimetro prevalentemente tecnico-diplomatico. Un formato di mediazione sostenuto da attori esterni riesce a ottenere un'intesa limitata su scambio dati, gestione delle siccità, comunicazioni preventive e procedure operative della GERD.</p><p>Somalia, Eritrea, Sudan e corridoi portuali restano fattori di tensione, ma non diventano il teatro principale della competizione. Il rischio di escalation non scompare, ma viene gestito.</p></div><aside class="scenario-implications"><h4>Implicazioni per l'Italia</h4><ul><li>Piano Mattei favorito da relazioni bilanciate con Cairo e Addis Abeba.</li><li>Impatto minimo o trascurabile sui flussi migratori.</li><li>Maggiore prevedibilità per rotte Mar Rosso–Suez e investimenti.</li><li>Contesto favorevole per cooperazione energetica e infrastrutturale.</li></ul></aside></div></article>
-<article class="scenario-detail medium-high-risk reveal" id="scenario-2"><div class="scenario-detail-header"><span class="scenario-number">02</span><div><p class="scenario-label">Scenario più probabile</p><h3>Sul filo del rasoio</h3><p>Mediazione esterna efficace e regionalizzazione elevata.</p></div><figure class="scenario-art scenario-header-logo"><img alt="Illustrazione dello scenario Sul filo del rasoio" src="assets/scenario-2.png"/></figure></div><div class="scenario-detail-grid"><div><h4>Descrizione</h4><p>La mediazione esterna evita una crisi frontale sulla GERD, ma non impedisce che la rivalità si allarghi al Corno d'Africa. Il confronto politico si sposta su Somalia, Somaliland, Eritrea, Gibuti, Sudan e accesso al mare per Addis Abeba.</p><p>Sul Nilo si riduce l'opacità, mentre nel Mar Rosso e nel Golfo di Aden aumentano posture militari, accordi di sicurezza competitivi e visite diplomatiche.</p></div><aside class="scenario-implications"><h4>Implicazioni per l'Italia</h4><ul><li>Piano Mattei praticabile, ma più politicizzato.</li><li>Possibile aumento indiretto dei flussi migratori.</li><li>Rotte aperte ma più vulnerabili a shock e costi assicurativi.</li><li>Maggiore volatilità energetica e possibili pressioni sui prezzi.</li></ul></aside></div></article>
-<article class="scenario-detail medium-risk reveal" id="scenario-3"><div class="scenario-detail-header"><span class="scenario-number">03</span><div><p class="scenario-label">Scenario di maggiore continuità</p><h3>Stallo sul Nilo</h3><p>Mediazione esterna debole e regionalizzazione contenuta.</p></div><figure class="scenario-art scenario-header-logo"><img alt="Illustrazione dello scenario Stallo sul Nilo" src="assets/scenario-3.png"/></figure></div><div class="scenario-detail-grid"><div><h4>Descrizione</h4><p>La mediazione esterna si indebolisce o resta frammentata, ma la rivalità non si regionalizza in modo marcato. Egitto ed Etiopia tornano a una postura di sfiducia bilaterale centrata sulla GERD e sul regime operativo della diga.</p><p>La crisi resta trattenuta, opaca e riattivabile. La regionalizzazione è contenuta non per fiducia reciproca, ma per prudenza e per i costi attesi dell'escalation.</p></div><aside class="scenario-implications"><h4>Implicazioni per l'Italia</h4><ul><li>Piano Mattei proseguibile, ma con maggiore rischio reputazionale.</li><li>Flussi migratori legati soprattutto a crisi già attive.</li><li>Sicurezza economico-commerciale meno esposta rispetto agli scenari regionalizzati.</li><li>Necessario monitorare stabilità interna egiziana e stress idrico.</li></ul></aside></div></article>
-<article class="scenario-detail high-risk reveal" id="scenario-4"><div class="scenario-detail-header"><span class="scenario-number">04</span><div><p class="scenario-label">Scenario meno favorevole per l'Italia</p><h3>Escalation regionale</h3><p>Mediazione esterna debole e regionalizzazione elevata.</p></div><figure class="scenario-art scenario-header-logo"><img alt="Illustrazione dello scenario Escalation regionale" src="assets/scenario-4.png"/></figure></div><div class="scenario-detail-grid"><div><h4>Descrizione</h4><p>La mediazione esterna fallisce o viene percepita come parziale, mentre la rivalità Egitto-Etiopia si regionalizza rapidamente. Il confronto si manifesta attraverso attività sotto soglia, accordi di sicurezza, intelligence, pressioni diplomatiche, sostegno a partner locali e campagne d'influenza.</p><p>Somalia, Somaliland, Eritrea, Sudan e Gibuti diventano spazi di competizione. Il Mar Rosso assume una funzione di moltiplicatore strategico e la crisi diventa sistemica, intermittente e difficile da contenere.</p></div><aside class="scenario-implications"><h4>Implicazioni per l'Italia</h4><ul><li>Piano Mattei esposto a polarizzazione regionale.</li><li>Possibile crescita dei flussi per effetto combinato delle crisi.</li><li>Aumento del rischio percepito su Suez, Mar Rosso e Bab el-Mandeb.</li><li>Necessario contingency planning logistico-energetico.</li></ul></aside></div></article>
+<article class="scenario-detail low-risk reveal" id="scenario-1"><div class="scenario-detail-header"><span class="scenario-number">01</span><div><p class="scenario-label">Scenario più favorevole per l’Italia</p><h3>Una diga alla crisi</h3><p>Mediazione esterna efficace e regionalizzazione contenuta.</p></div><figure class="scenario-art scenario-header-logo"><img alt="Illustrazione dello scenario Una diga alla crisi" src="assets/scenario-1.png"/></figure></div><div class="scenario-detail-grid"><div><h4>Descrizione</h4><p>La rivalità tra Egitto ed Etiopia resta strutturale, ma viene riportata entro un perimetro prevalentemente tecnico-diplomatico. Un formato di mediazione sostenuto da attori esterni riesce a ottenere un’intesa limitata su scambio dati, gestione delle siccità, comunicazioni preventive e procedure operative della GERD.</p><p>Somalia, Eritrea, Sudan e corridoi portuali restano fattori di tensione, ma non diventano il teatro principale della competizione. Il rischio di escalation non scompare, ma viene gestito.</p></div><aside class="scenario-implications"><h4>Implicazioni per l’Italia</h4><ul><li>Piano Mattei favorito da relazioni bilanciate con Cairo e Addis Abeba.</li><li>Impatto minimo o trascurabile sui flussi migratori.</li><li>Maggiore prevedibilità per rotte Mar Rosso–Suez e investimenti.</li><li>Contesto favorevole per cooperazione energetica e infrastrutturale.</li></ul></aside></div></article>
+<article class="scenario-detail medium-high-risk reveal" id="scenario-2"><div class="scenario-detail-header"><span class="scenario-number">02</span><div><p class="scenario-label">Scenario più probabile</p><h3>Sul filo del rasoio</h3><p>Mediazione esterna efficace e regionalizzazione elevata.</p></div><figure class="scenario-art scenario-header-logo"><img alt="Illustrazione dello scenario Sul filo del rasoio" src="assets/scenario-2.png"/></figure></div><div class="scenario-detail-grid"><div><h4>Descrizione</h4><p>La mediazione esterna evita una crisi frontale sulla GERD, ma non impedisce che la rivalità si allarghi al Corno d’Africa. Il confronto politico si sposta su Somalia, Somaliland, Eritrea, Gibuti, Sudan e accesso al mare per Addis Abeba.</p><p>Sul Nilo si riduce l’opacità, mentre nel Mar Rosso e nel Golfo di Aden aumentano posture militari, accordi di sicurezza competitivi e visite diplomatiche.</p></div><aside class="scenario-implications"><h4>Implicazioni per l’Italia</h4><ul><li>Piano Mattei praticabile, ma più politicizzato.</li><li>Possibile aumento indiretto dei flussi migratori.</li><li>Rotte aperte ma più vulnerabili a shock e costi assicurativi.</li><li>Maggiore volatilità energetica e possibili pressioni sui prezzi.</li></ul></aside></div></article>
+<article class="scenario-detail medium-risk reveal" id="scenario-3"><div class="scenario-detail-header"><span class="scenario-number">03</span><div><p class="scenario-label">Scenario di maggiore continuità</p><h3>Stallo sul Nilo</h3><p>Mediazione esterna debole e regionalizzazione contenuta.</p></div><figure class="scenario-art scenario-header-logo"><img alt="Illustrazione dello scenario Stallo sul Nilo" src="assets/scenario-3.png"/></figure></div><div class="scenario-detail-grid"><div><h4>Descrizione</h4><p>La mediazione esterna si indebolisce o resta frammentata, ma la rivalità non si regionalizza in modo marcato. Egitto ed Etiopia tornano a una postura di sfiducia bilaterale centrata sulla GERD e sul regime operativo della diga.</p><p>La crisi resta trattenuta, opaca e riattivabile. La regionalizzazione è contenuta non per fiducia reciproca, ma per prudenza e per i costi attesi dell’escalation.</p></div><aside class="scenario-implications"><h4>Implicazioni per l’Italia</h4><ul><li>Piano Mattei proseguibile, ma con maggiore rischio reputazionale.</li><li>Flussi migratori legati soprattutto a crisi già attive.</li><li>Sicurezza economico-commerciale meno esposta rispetto agli scenari regionalizzati.</li><li>Necessario monitorare stabilità interna egiziana e stress idrico.</li></ul></aside></div></article>
+<article class="scenario-detail high-risk reveal" id="scenario-4"><div class="scenario-detail-header"><span class="scenario-number">04</span><div><p class="scenario-label">Scenario meno favorevole per l’Italia</p><h3>Escalation regionale</h3><p>Mediazione esterna debole e regionalizzazione elevata.</p></div><figure class="scenario-art scenario-header-logo"><img alt="Illustrazione dello scenario Escalation regionale" src="assets/scenario-4.png"/></figure></div><div class="scenario-detail-grid"><div><h4>Descrizione</h4><p>La mediazione esterna fallisce o viene percepita come parziale, mentre la rivalità Egitto-Etiopia si regionalizza rapidamente. Il confronto si manifesta attraverso attività sotto soglia, accordi di sicurezza, intelligence, pressioni diplomatiche, sostegno a partner locali e campagne d’influenza.</p><p>Somalia, Somaliland, Eritrea, Sudan e Gibuti diventano spazi di competizione. Il Mar Rosso assume una funzione di moltiplicatore strategico e la crisi diventa sistemica, intermittente e difficile da contenere.</p></div><aside class="scenario-implications"><h4>Implicazioni per l’Italia</h4><ul><li>Piano Mattei esposto a polarizzazione regionale.</li><li>Possibile crescita dei flussi per effetto combinato delle crisi.</li><li>Aumento del rischio percepito su Suez, Mar Rosso e Bab el-Mandeb.</li><li>Necessario contingency planning logistico-energetico.</li></ul></aside></div></article>
 </div>
 </div>
 </section>
 <section class="section hilp-section" id="scenario-hilp">
 <div class="container">
 <div class="section-header reveal"><p class="eyebrow">High Impact – Low Probability</p><h2>Scenario HILP</h2><p>Un evento a bassa probabilità ma ad alto impatto, capace di alterare radicalmente il quadro strategico.</p></div>
-<div class="hilp-event-card reveal"><p class="eyebrow">Evento HILP identificato</p><figure class="hilp-art hilp-header-logo"><img alt="Illustrazione dello scenario HILP" class="hilp-art-img" src="assets/hilp.png"/></figure><h3>Grave incidente infrastrutturale alla GERD</h3><p>Rilascio incontrollato di acqua verso valle e immediata politicizzazione dell'evento come atto ostile o sabotaggio.</p><div class="hilp-risk-grid"><article><span>Low probability</span><p>La documentazione raccolta non contiene evidenze solide di un imminente collasso strutturale della diga o di una decisione deliberata di colpirla.</p></article><article><span>High impact</span><p>L'evento trasformerebbe la controversia sul Nilo da crisi politico-operativa a crisi infrastrutturale maggiore, con effetti immediati su Sudan, Egitto, Corno d'Africa e Mar Rosso.</p></article></div></div>
-<div class="hilp-grid reveal"><article class="hilp-main card-soft"><h3>Descrizione dell'evento</h3><p>Lo scenario HILP si aprirebbe con un'anomalia grave nella gestione o nella sicurezza fisica della GERD: un cedimento parziale di componenti idrauliche, un malfunzionamento critico durante una fase di piena, un danno intenzionale attribuito a sabotaggio, oppure una combinazione tra evento tecnico e clima estremo.</p><p>L'elemento decisivo non sarebbe soltanto il danno materiale, ma la perdita improvvisa di controllo sul regime dei rilasci. Una massa d'acqua non pienamente prevedibile si riverserebbe verso valle, colpendo anzitutto il Sudan.</p><p>La crisi passerebbe rapidamente dal piano tecnico a quello politico. In assenza di trasparenza condivisa, ogni ritardo informativo verrebbe interpretato come occultamento.</p></article><aside class="hilp-side"><h4>Assunzione rotta</h4><p>I quattro scenari principali assumono che la GERD resti fisicamente integra e gestibile come oggetto di disputa politica, tecnica e strategica. Lo scenario HILP rompe questa assunzione.</p></aside></div>
-<div class="hilp-impact-block reveal"><div class="section-header compact"><p class="eyebrow">Interessi italiani</p><h3>Impatto potenziale per l'Italia</h3></div><div class="hilp-impact-grid"><article><h4>Piano Mattei</h4><p>Il Piano rischierebbe di passare da piattaforma di cooperazione e sviluppo a strumento anche di crisis response, ricostruzione, resilienza idrica, assistenza tecnica e stabilizzazione.</p></article><article><h4>Migrazioni</h4><p>Uno shock idrologico in Sudan potrebbe sommarsi a una crisi umanitaria già acuta, aumentando movimenti forzati verso Egitto, Etiopia, Sud Sudan, Nord Africa e Mediterraneo.</p></article><article><h4>Suez e Mar Rosso</h4><p>Una regionalizzazione militare della crisi potrebbe aumentare premi assicurativi, deviazioni preventive delle rotte e pressioni sulle catene logistiche.</p></article><article><h4>Energia</h4><p>L'Egitto resterebbe essenziale, ma potrebbe diventare meno prevedibile come hub energetico e logistico.</p></article></div></div>
-<div class="weak-signals-block reveal"><div class="section-header compact"><p class="eyebrow">Weak signals</p><h3>Segnali deboli da monitorare</h3><p>Condizioni già osservabili che potrebbero indicare, seppur debolmente, un possibile sviluppo verso l'evento HILP.</p></div><div class="weak-signals-grid"><article><span>01</span><h4>Assenza di accordo vincolante</h4><p>Persistente mancanza di regole condivise su piena, siccità e rilasci anomali.</p></article><article><span>02</span><h4>Opacità dei dati operativi</h4><p>Ritardi o informazioni non verificabili su livelli d'invaso, rilasci e protocolli.</p></article><article><span>03</span><h4>Mancanza di verifica indipendente</h4><p>Assenza di meccanismi accettati per early warning e gestione degli incidenti.</p></article><article><span>04</span><h4>Accuse sulla gestione della diga</h4><p>Denunce egiziane su una gestione ritenuta sconsiderata o destabilizzante.</p></article><article><span>05</span><h4>Debolezza del Sudan</h4><p>Ridotta capacità di mediazione, monitoraggio e risposta sul bacino del Nilo.</p></article><article><span>06</span><h4>Securitizzazione della GERD</h4><p>La diga viene letta come questione di sicurezza nazionale da entrambe le parti.</p></article><article><span>07</span><h4>Narrative nazionaliste</h4><p>La GERD è descritta come minaccia esistenziale o simbolo intoccabile di sovranità.</p></article><article><span>08</span><h4>Regionalizzazione della rivalità</h4><p>Intreccio crescente tra GERD, Somalia, Somaliland, Eritrea e sicurezza del Mar Rosso.</p></article><article><span>09</span><h4>Eventi climatici estremi</h4><p>Piene o siccità rendono più sensibile ogni scelta operativa della diga.</p></article></div></div>
+<div class="hilp-event-card reveal"><p class="eyebrow">Evento HILP identificato</p><figure class="hilp-art hilp-header-logo"><img alt="Illustrazione dello scenario HILP" class="hilp-art-img" src="assets/hilp.png"/></figure><h3>Grave incidente infrastrutturale alla GERD</h3><p>Rilascio incontrollato di acqua verso valle e immediata politicizzazione dell’evento come atto ostile o sabotaggio.</p><div class="hilp-risk-grid"><article><span>Low probability</span><p>La documentazione raccolta non contiene evidenze solide di un imminente collasso strutturale della diga o di una decisione deliberata di colpirla.</p></article><article><span>High impact</span><p>L’evento trasformerebbe la controversia sul Nilo da crisi politico-operativa a crisi infrastrutturale maggiore, con effetti immediati su Sudan, Egitto, Corno d’Africa e Mar Rosso.</p></article></div></div>
+<div class="hilp-grid reveal"><article class="hilp-main card-soft"><h3>Descrizione dell’evento</h3><p>Lo scenario HILP si aprirebbe con un’anomalia grave nella gestione o nella sicurezza fisica della GERD: un cedimento parziale di componenti idrauliche, un malfunzionamento critico durante una fase di piena, un danno intenzionale attribuito a sabotaggio, oppure una combinazione tra evento tecnico e clima estremo.</p><p>L’elemento decisivo non sarebbe soltanto il danno materiale, ma la perdita improvvisa di controllo sul regime dei rilasci. Una massa d’acqua non pienamente prevedibile si riverserebbe verso valle, colpendo anzitutto il Sudan.</p><p>La crisi passerebbe rapidamente dal piano tecnico a quello politico. In assenza di trasparenza condivisa, ogni ritardo informativo verrebbe interpretato come occultamento.</p></article><aside class="hilp-side"><h4>Assunzione rotta</h4><p>I quattro scenari principali assumono che la GERD resti fisicamente integra e gestibile come oggetto di disputa politica, tecnica e strategica. Lo scenario HILP rompe questa assunzione.</p></aside></div>
+<div class="hilp-impact-block reveal"><div class="section-header compact"><p class="eyebrow">Interessi italiani</p><h3>Impatto potenziale per l’Italia</h3></div><div class="hilp-impact-grid"><article><h4>Piano Mattei</h4><p>Il Piano rischierebbe di passare da piattaforma di cooperazione e sviluppo a strumento anche di crisis response, ricostruzione, resilienza idrica, assistenza tecnica e stabilizzazione.</p></article><article><h4>Migrazioni</h4><p>Uno shock idrologico in Sudan potrebbe sommarsi a una crisi umanitaria già acuta, aumentando movimenti forzati verso Egitto, Etiopia, Sud Sudan, Nord Africa e Mediterraneo.</p></article><article><h4>Suez e Mar Rosso</h4><p>Una regionalizzazione militare della crisi potrebbe aumentare premi assicurativi, deviazioni preventive delle rotte e pressioni sulle catene logistiche.</p></article><article><h4>Energia</h4><p>L’Egitto resterebbe essenziale, ma potrebbe diventare meno prevedibile come hub energetico e logistico.</p></article></div></div>
+<div class="weak-signals-block reveal"><div class="section-header compact"><p class="eyebrow">Weak signals</p><h3>Segnali deboli da monitorare</h3><p>Condizioni già osservabili che potrebbero indicare, seppur debolmente, un possibile sviluppo verso l’evento HILP.</p></div><div class="weak-signals-grid"><article><span>01</span><h4>Assenza di accordo vincolante</h4><p>Persistente mancanza di regole condivise su piena, siccità e rilasci anomali.</p></article><article><span>02</span><h4>Opacità dei dati operativi</h4><p>Ritardi o informazioni non verificabili su livelli d’invaso, rilasci e protocolli.</p></article><article><span>03</span><h4>Mancanza di verifica indipendente</h4><p>Assenza di meccanismi accettati per early warning e gestione degli incidenti.</p></article><article><span>04</span><h4>Accuse sulla gestione della diga</h4><p>Denunce egiziane su una gestione ritenuta sconsiderata o destabilizzante.</p></article><article><span>05</span><h4>Debolezza del Sudan</h4><p>Ridotta capacità di mediazione, monitoraggio e risposta sul bacino del Nilo.</p></article><article><span>06</span><h4>Securitizzazione della GERD</h4><p>La diga viene letta come questione di sicurezza nazionale da entrambe le parti.</p></article><article><span>07</span><h4>Narrative nazionaliste</h4><p>La GERD è descritta come minaccia esistenziale o simbolo intoccabile di sovranità.</p></article><article><span>08</span><h4>Regionalizzazione della rivalità</h4><p>Intreccio crescente tra GERD, Somalia, Somaliland, Eritrea e sicurezza del Mar Rosso.</p></article><article><span>09</span><h4>Eventi climatici estremi</h4><p>Piene o siccità rendono più sensibile ogni scelta operativa della diga.</p></article></div></div>
 </div>
 </section>
 <section class="section premortem-section" id="analisi-premortem">
 <div class="container">
 <div class="section-header reveal"><p class="eyebrow">Stress test analitico</p><h2>Analisi premortem</h2><p>Un esercizio riflessivo e autocritico per individuare assunzioni fragili, driver sottovalutati e bias cognitivi.</p></div>
-<div class="premortem-assumption reveal"><p class="eyebrow">Assunzione di partenza</p><h3>Maggio 2027: lo scenario favorevole è fallito</h3><p>"Una diga alla crisi" non si è realizzato. La rivalità Egitto-Etiopia non è stata contenuta entro un perimetro tecnico-diplomatico, ma si è regionalizzata, rendendo più esposti gli interessi italiani nel Mar Rosso–Corno d'Africa.</p></div>
-<div class="premortem-diagnostic-grid reveal"><section class="premortem-column"><div class="premortem-column-header"><span>01</span><h3>Quattro assunzioni sbagliate</h3></div><article class="premortem-card"><h4>La mediazione esterna avrebbe contenuto la crisi</h4><p>È stata forse sovrastimata la capacità di attori esterni di agire in modo coerente su dossier come Somalia, Sudan, Somaliland, Eritrea, Gibuti e Mar Rosso.</p></article><article class="premortem-card"><h4>La GERD poteva tornare a essere un dossier tecnico</h4><p>Data-sharing e protocolli operativi non sono bastati a neutralizzare la dimensione politica.</p></article><article class="premortem-card"><h4>La regionalizzazione sarebbe rimasta contenuta</h4><p>La rivalità era già intrecciata con accesso etiope al mare, Somalia-Somaliland, guerra in Sudan e interessi nel Mar Rosso.</p></article><article class="premortem-card"><h4>Le fragilità interne avrebbero favorito prudenza</h4><p>Le pressioni domestiche potevano invece irrigidire le posture negoziali.</p></article></section><section class="premortem-column"><div class="premortem-column-header"><span>02</span><h3>Quattro driver sottovalutati</h3></div><article class="premortem-card"><h4>Militarizzazione indiretta del Corno d'Africa</h4><p>Accordi di sicurezza, training, intelligence e posture indirette potevano bastare a far collassare lo scenario favorevole.</p></article><article class="premortem-card"><h4>Bisogno etiope di crescita, energia e accesso al mare</h4><p>L'accesso al mare è una leva strutturale di sviluppo, autonomia logistica e status regionale.</p></article><article class="premortem-card"><h4>Guerra in Sudan e vuoto di coordinamento</h4><p>La crisi sudanese riduce il coordinamento tecnico sul Nilo e apre spazi di competizione indiretta.</p></article><article class="premortem-card"><h4>Fragilità economica egiziana</h4><p>Shock su Suez, inflazione, pressione valutaria o costi dei rifugiati possono irrigidire la postura egiziana.</p></article></section><section class="premortem-column"><div class="premortem-column-header"><span>03</span><h3>Quattro bias cognitivi</h3></div><article class="premortem-card"><h4>Anchoring sulla struttura 2x2</h4><p>La matrice può aver semplificato eccessivamente il quadro.</p></article><article class="premortem-card"><h4>WYSIATI</h4><p>L'analisi può aver trattato ciò che era documentato nelle fonti aperte come se fosse tutto ciò che contava.</p></article><article class="premortem-card"><h4>Overconfidence procedurale e mirror imaging</h4><p>Soluzioni tecniche corrette non sono automaticamente politicamente accettabili.</p></article><article class="premortem-card"><h4>Availability bias sugli incentivi alla de-escalation</h4><p>Il costo visibile di una crisi può indurre a sovrastimare gli incentivi al contenimento.</p></article></section></div>
-<div class="premortem-conclusion reveal"><h3>Conclusione autocritica</h3><p>Se "Una diga alla crisi" si fosse rivelato completamente sbagliato, l'errore principale non sarebbe stato aver immaginato uno scenario impossibile. Lo scenario resta plausibile, ma presenta un'elevata condizionalità: alcune condizioni favorevoli erano fragili, reversibili e dipendenti da fattori esterni al tavolo GERD.</p><p>Non basta chiedersi se la mediazione sia efficace o se la regionalizzazione sia contenuta. Occorre valutare la qualità della mediazione, la sua coerenza, la capacità di collegare la GERD agli altri dossier di attrito e la pressione esercitata dagli altri driver.</p></div>
+<div class="premortem-assumption reveal"><p class="eyebrow">Assunzione di partenza</p><h3>Maggio 2027: lo scenario favorevole è fallito</h3><p>“Una diga alla crisi” non si è realizzato. La rivalità Egitto-Etiopia non è stata contenuta entro un perimetro tecnico-diplomatico, ma si è regionalizzata, rendendo più esposti gli interessi italiani nel Mar Rosso–Corno d’Africa.</p></div>
+<div class="premortem-diagnostic-grid reveal"><section class="premortem-column"><div class="premortem-column-header"><span>01</span><h3>Quattro assunzioni sbagliate</h3></div><article class="premortem-card"><h4>La mediazione esterna avrebbe contenuto la crisi</h4><p>È stata forse sovrastimata la capacità di attori esterni di agire in modo coerente su dossier come Somalia, Sudan, Somaliland, Eritrea, Gibuti e Mar Rosso.</p></article><article class="premortem-card"><h4>La GERD poteva tornare a essere un dossier tecnico</h4><p>Data-sharing e protocolli operativi non sono bastati a neutralizzare la dimensione politica.</p></article><article class="premortem-card"><h4>La regionalizzazione sarebbe rimasta contenuta</h4><p>La rivalità era già intrecciata con accesso etiope al mare, Somalia-Somaliland, guerra in Sudan e interessi nel Mar Rosso.</p></article><article class="premortem-card"><h4>Le fragilità interne avrebbero favorito prudenza</h4><p>Le pressioni domestiche potevano invece irrigidire le posture negoziali.</p></article></section><section class="premortem-column"><div class="premortem-column-header"><span>02</span><h3>Quattro driver sottovalutati</h3></div><article class="premortem-card"><h4>Militarizzazione indiretta del Corno d’Africa</h4><p>Accordi di sicurezza, training, intelligence e posture indirette potevano bastare a far collassare lo scenario favorevole.</p></article><article class="premortem-card"><h4>Bisogno etiope di crescita, energia e accesso al mare</h4><p>L’accesso al mare è una leva strutturale di sviluppo, autonomia logistica e status regionale.</p></article><article class="premortem-card"><h4>Guerra in Sudan e vuoto di coordinamento</h4><p>La crisi sudanese riduce il coordinamento tecnico sul Nilo e apre spazi di competizione indiretta.</p></article><article class="premortem-card"><h4>Fragilità economica egiziana</h4><p>Shock su Suez, inflazione, pressione valutaria o costi dei rifugiati possono irrigidire la postura egiziana.</p></article></section><section class="premortem-column"><div class="premortem-column-header"><span>03</span><h3>Quattro bias cognitivi</h3></div><article class="premortem-card"><h4>Anchoring sulla struttura 2x2</h4><p>La matrice può aver semplificato eccessivamente il quadro.</p></article><article class="premortem-card"><h4>WYSIATI</h4><p>L’analisi può aver trattato ciò che era documentato nelle fonti aperte come se fosse tutto ciò che contava.</p></article><article class="premortem-card"><h4>Overconfidence procedurale e mirror imaging</h4><p>Soluzioni tecniche corrette non sono automaticamente politicamente accettabili.</p></article><article class="premortem-card"><h4>Availability bias sugli incentivi alla de-escalation</h4><p>Il costo visibile di una crisi può indurre a sovrastimare gli incentivi al contenimento.</p></article></section></div>
+<div class="premortem-conclusion reveal"><h3>Conclusione autocritica</h3><p>Se “Una diga alla crisi” si fosse rivelato completamente sbagliato, l’errore principale non sarebbe stato aver immaginato uno scenario impossibile. Lo scenario resta plausibile, ma presenta un’elevata condizionalità: alcune condizioni favorevoli erano fragili, reversibili e dipendenti da fattori esterni al tavolo GERD.</p><p>Non basta chiedersi se la mediazione sia efficace o se la regionalizzazione sia contenuta. Occorre valutare la qualità della mediazione, la sua coerenza, la capacità di collegare la GERD agli altri dossier di attrito e la pressione esercitata dagli altri driver.</p></div>
 <div class="premortem-monitoring reveal">
 <img alt="Logo news" class="monitoring-news-logo" src="assets/logo-news.png"/>
 <h3>Segnali contrari da monitorare</h3>
@@ -1016,8 +617,8 @@ img { max-width: 100%; height: auto; display: block; }
 <button aria-selected="true" class="monitoring-feed-btn active" data-feed-key="egypt-somalia" role="tab" type="button">Accordi Egitto-Somalia</button>
 <button aria-selected="false" class="monitoring-feed-btn" data-feed-key="somaliland" role="tab" type="button">Dossier Somaliland</button>
 <button aria-selected="false" class="monitoring-feed-btn" data-feed-key="ethiopia-sea-access" role="tab" type="button">Accesso etiope al mare</button>
-<button aria-selected="false" class="monitoring-feed-btn" data-feed-key="egypt-economy" role="tab" type="button">Fragilità economica egiziana</button>
-<button aria-selected="false" class="monitoring-feed-btn" data-feed-key="gerd-opacity" role="tab" type="button">Opacità sui rilasci GERD</button>
+<button aria-selected="false" class="monitoring-feed-btn" data-feed-key="egypt-economy" role="tab" type="button">Fragilità economica</button>
+<button aria-selected="false" class="monitoring-feed-btn" data-feed-key="gerd-opacity" role="tab" type="button">Opacità GERD</button>
 </div>
 <div class="rss-monitoring-panel" id="rssMonitoringPanel">
 <div class="rss-monitoring-header">
@@ -1037,15 +638,15 @@ img { max-width: 100%; height: auto; display: block; }
 </section>
 <section class="section bibliography-section" id="bibliografia">
 <div class="container">
-<div class="section-header reveal"><p class="eyebrow">Fonti</p><h2>Bibliografia</h2><p>Il corpus documentale utilizzato per costruire l'analisi, definire lo stato attuale, individuare i driver, elaborare gli scenari e valutare le implicazioni per l'Italia.</p></div>
-<div class="bibliography-note reveal"><h3>Corpus documentale</h3><p>Il corpus include contributi accademici, analisi di think tank, documenti istituzionali, report parlamentari, fonti ministeriali, dati economici, approfondimenti giornalistici e studi specialistici su GERD, bacino del Nilo, Corno d'Africa, Mar Rosso, Piano Mattei, flussi migratori, sicurezza energetica e rotte commerciali.</p></div>
+<div class="section-header reveal"><p class="eyebrow">Fonti</p><h2>Bibliografia</h2><p>Il corpus documentale utilizzato per costruire l’analisi, definire lo stato attuale, individuare i driver, elaborare gli scenari e valutare le implicazioni per l’Italia.</p></div>
+<div class="bibliography-note reveal"><h3>Corpus documentale</h3><p>Il corpus include contributi accademici, analisi di think tank, documenti istituzionali, report parlamentari, fonti ministeriali, dati economici, approfondimenti giornalistici e studi specialistici su GERD, bacino del Nilo, Corno d’Africa, Mar Rosso, Piano Mattei, flussi migratori, sicurezza energetica e rotte commerciali.</p></div>
 <div class="bibliography-groups reveal">
-<details class="bibliography-group" open=""><summary>GERD, Nilo e dispute idriche</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">British Journal of Interdisciplinary Research · 2025</p><h3>Agaba Halidu, "From colonial agreements to contemporary conflict: the Nile waters treaties and the Egypt-Ethiopia GERD crisis"</h3><a href="https://britishjir.org/index.php/bjir/article/view/53/39" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Chatham House / Cascades · aprile 2025</p><h3>"The Nile Basin. Climate change, water and future cooperation"</h3><a href="https://www.preventionweb.net/media/106306/download?startDownload=20260528" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Atlantic Council · 10 novembre 2025</p><h3>Alessia Melcangi, "The Nile at a crossroads"</h3><a href="https://www.atlanticcouncil.org/blogs/menasource/the-nile-at-a-crossroads-navigating-the-gerd-dispute-as-egypts-floodwaters-rise/" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">IDE Policy Brief · 27 febbraio 2026</p><h3>Husam Darwisheh, "From water dispute to security risk"</h3><a href="https://www.ide.go.jp/library/Japanese/Publish/Reports/AjikenPolicyBrief/pdf/269.pdf" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">HCSS · maggio 2026</p><h3>Michelle Reitano, "Bridge over troubled water"</h3><a href="https://hcss.nl/wp-content/uploads/2026/05/Bridge-over-Troubled-Water-HCSS-2026.pdf" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
-<details class="bibliography-group"><summary>Egitto: politica, economia, energia</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">IEMed · 2025</p><h3>Alessia Melcangi, "Egypt: Internal Politics and Economic Woes"</h3><a href="https://www.iemed.org/wp-content/uploads/2025/06/Egypt_Internal_Policitcs_Melcangi_IEMedYearbook2025.pdf" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">ISPI · 7 ottobre 2025</p><h3>Giuseppe Dentice, "Egitto: un complesso equilibrismo"</h3><a href="https://www.ispionline.it/it/pubblicazione/egitto-un-complesso-equilibrismo-222958" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">ENI · 2025</p><h3>"Annual Report"</h3><a href="https://www.eni.com/content/dam/enicom/documents/eng/reports/2025/ar-2025/Annual-Report-2025.pdf" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Reuters · 7 aprile 2026</p><h3>"Italy's Eni discovers 2 trillion cubic feet of gas offshore Egypt"</h3><a href="https://www.reuters.com/business/energy/italys-eni-discovers-2-trillion-cubic-feet-gas-offshore-egypt-2026-04-07/" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
-<details class="bibliography-group"><summary>Etiopia: politica, economia, sviluppo</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">Council on Foreign Relations · 18 febbraio 2026</p><h3>"Conflict in Ethiopia"</h3><a href="https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia#Background-0" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">MAECI · 21 maggio 2026</p><h3>"Scheda di sintesi – Osservatorio economico – Etiopia"</h3><a href="https://www.infomercatiesteri.it/public/osservatorio/schede-sintesi/etiopia_11.pdf" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">UNDP · gennaio 2025</p><h3>"Financing Ethiopia's Green Transition"</h3><a href="https://www.undp.org/sites/g/files/zskgke326/files/2025-02/undp-working_paper_series-financing_ethiopias_green_transition_final.pdf" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
-<details class="bibliography-group"><summary>Corno d'Africa, Sudan, Somalia, Somaliland e Mar Rosso</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">LUISS Mediterranean Platform · 2026</p><h3>"The Red Sea: Divided by Water, United by Opportunities"</h3><a href="https://mp.luiss.it/wp-content/uploads/2026/02/E-Book_Red-Sea_Final-ENG_compressed.pdf" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">E-International Relations · 13 aprile 2025</p><h3>Federico Donelli, "Ethiopia Somalia Tensions Power Dynamics and Extra Regional Actors in the Red Sea Region"</h3><a href="https://www.e-ir.info/pdf/108031" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Reuters · 10 febbraio 2026</p><h3>Giulia Paravicini, Reade Levinson, "Ethiopia builds secret camp to train Sudan RSF fighters sources say"</h3><a href="https://www.reuters.com/investigations/ethiopia-builds-secret-camp-train-sudan-rsf-fighters-say-2026-02-10/" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">ICE · 1 febbraio 2025</p><h3>"L'impatto della crisi del Mar Rosso sull'interscambio commerciale italiano e mondiale"</h3><a href="https://www.ice.it/it/sites/default/files/inline-files/Impatto-Crisi-Mar-Rosso_AgenziaICE.pdf" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
-<details class="bibliography-group"><summary>Piano Mattei, interessi italiani e cooperazione</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">Camera dei Deputati · aggiornato al 17 aprile 2026</p><h3>"Iniziative italiane per l'Africa"</h3><a href="https://temi.camera.it/leg19/temi/iniziative-italiane-per-l-africa-piano-mattei.html" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Senato e Camera · giugno 2025</p><h3>"Relazione sullo stato di attuazione del Piano Mattei"</h3><a href="https://documenti.camera.it/leg19/dossier/pdf/ES0282.pdf?_1753265458955" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Atlantic Council · 29 luglio 2024</p><h3>"The Mattei Plan is an opportunity for North Africa"</h3><a href="https://www.atlanticcouncil.org/blogs/menasource/mattei-plan-north-africa-italy/" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">IAI · luglio 2025</p><h3>"Italy-Africa Digital Partnership under the Mattei Plan"</h3><a href="https://www.esteri.it/wp-content/uploads/2025/09/Italy-Africa-Digital-Partnershi_IAI.pdf" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
-<details class="bibliography-group"><summary>Migrazioni e sicurezza</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">Ministero dell'Interno · 2021–2026</p><h3>"Cruscotto statistico giornaliero"</h3><p>Serie di cruscotti statistici utilizzati per il monitoraggio dei flussi migratori e delle dinamiche di arrivo in Italia.</p></article><article class="source-card"><p class="source-meta">DIS · 2 marzo 2026</p><h3>"Relazione al Parlamento 2026"</h3><a href="https://www.sicurezzanazionale.gov.it/data/cms/posts/1163/attachments/4d8b721a-3c8f-456c-9bce-cbe649e7522b/download?view=true" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">EPRS · gennaio 2026</p><h3>"Mapping threats to peace and democracy worldwide"</h3><a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2026/782582/EPRS_STU(2026)782582_EN.pdf" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
+<details class="bibliography-group" open=""><summary>GERD, Nilo e dispute idriche</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">British Journal of Interdisciplinary Research · 2025</p><h3>Agaba Halidu, “From colonial agreements to contemporary conflict: the Nile waters treaties and the Egypt-Ethiopia GERD crisis”</h3><a href="https://britishjir.org/index.php/bjir/article/view/53/39" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Chatham House / Cascades · aprile 2025</p><h3>“The Nile Basin. Climate change, water and future cooperation”</h3><a href="https://www.preventionweb.net/media/106306/download?startDownload=20260528" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Atlantic Council · 10 novembre 2025</p><h3>Alessia Melcangi, “The Nile at a crossroads”</h3><a href="https://www.atlanticcouncil.org/blogs/menasource/the-nile-at-a-crossroads-navigating-the-gerd-dispute-as-egypts-floodwaters-rise/" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">IDE Policy Brief · 27 febbraio 2026</p><h3>Husam Darwisheh, “From water dispute to security risk”</h3><a href="https://www.ide.go.jp/library/Japanese/Publish/Reports/AjikenPolicyBrief/pdf/269.pdf" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">HCSS · maggio 2026</p><h3>Michelle Reitano, “Bridge over troubled water”</h3><a href="https://hcss.nl/wp-content/uploads/2026/05/Bridge-over-Troubled-Water-HCSS-2026.pdf" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
+<details class="bibliography-group"><summary>Egitto: politica, economia, energia</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">IEMed · 2025</p><h3>Alessia Melcangi, “Egypt: Internal Politics and Economic Woes”</h3><a href="https://www.iemed.org/wp-content/uploads/2025/06/Egypt_Internal_Policitcs_Melcangi_IEMedYearbook2025.pdf" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">ISPI · 7 ottobre 2025</p><h3>Giuseppe Dentice, “Egitto: un complesso equilibrismo”</h3><a href="https://www.ispionline.it/it/pubblicazione/egitto-un-complesso-equilibrismo-222958" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">ENI · 2025</p><h3>“Annual Report”</h3><a href="https://www.eni.com/content/dam/enicom/documents/eng/reports/2025/ar-2025/Annual-Report-2025.pdf" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Reuters · 7 aprile 2026</p><h3>“Italy’s Eni discovers 2 trillion cubic feet of gas offshore Egypt”</h3><a href="https://www.reuters.com/business/energy/italys-eni-discovers-2-trillion-cubic-feet-gas-offshore-egypt-2026-04-07/" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
+<details class="bibliography-group"><summary>Etiopia: politica, economia, sviluppo</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">Council on Foreign Relations · 18 febbraio 2026</p><h3>“Conflict in Ethiopia”</h3><a href="https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia#Background-0" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">MAECI · 21 maggio 2026</p><h3>“Scheda di sintesi – Osservatorio economico – Etiopia”</h3><a href="https://www.infomercatiesteri.it/public/osservatorio/schede-sintesi/etiopia_11.pdf" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">UNDP · gennaio 2025</p><h3>“Financing Ethiopia’s Green Transition”</h3><a href="https://www.undp.org/sites/g/files/zskgke326/files/2025-02/undp-working_paper_series-financing_ethiopias_green_transition_final.pdf" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
+<details class="bibliography-group"><summary>Corno d’Africa, Sudan, Somalia, Somaliland e Mar Rosso</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">LUISS Mediterranean Platform · 2026</p><h3>“The Red Sea: Divided by Water, United by Opportunities”</h3><a href="https://mp.luiss.it/wp-content/uploads/2026/02/E-Book_Red-Sea_Final-ENG_compressed.pdf" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">E-International Relations · 13 aprile 2025</p><h3>Federico Donelli, “Ethiopia Somalia Tensions Power Dynamics and Extra Regional Actors in the Red Sea Region”</h3><a href="https://www.e-ir.info/pdf/108031" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Reuters · 10 febbraio 2026</p><h3>Giulia Paravicini, Reade Levinson, “Ethiopia builds secret camp to train Sudan RSF fighters sources say”</h3><a href="https://www.reuters.com/investigations/ethiopia-builds-secret-camp-train-sudan-rsf-fighters-say-2026-02-10/" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">ICE · 1 febbraio 2025</p><h3>“L’impatto della crisi del Mar Rosso sull’interscambio commerciale italiano e mondiale”</h3><a href="https://www.ice.it/it/sites/default/files/inline-files/Impatto-Crisi-Mar-Rosso_AgenziaICE.pdf" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
+<details class="bibliography-group"><summary>Piano Mattei, interessi italiani e cooperazione</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">Camera dei Deputati · aggiornato al 17 aprile 2026</p><h3>“Iniziative italiane per l’Africa”</h3><a href="https://temi.camera.it/leg19/temi/iniziative-italiane-per-l-africa-piano-mattei.html" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Senato e Camera · giugno 2025</p><h3>“Relazione sullo stato di attuazione del Piano Mattei”</h3><a href="https://documenti.camera.it/leg19/dossier/pdf/ES0282.pdf?_1753265458955" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">Atlantic Council · 29 luglio 2024</p><h3>“The Mattei Plan is an opportunity for North Africa”</h3><a href="https://www.atlanticcouncil.org/blogs/menasource/mattei-plan-north-africa-italy/" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">IAI · luglio 2025</p><h3>“Italy-Africa Digital Partnership under the Mattei Plan”</h3><a href="https://www.esteri.it/wp-content/uploads/2025/09/Italy-Africa-Digital-Partnershi_IAI.pdf" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
+<details class="bibliography-group"><summary>Migrazioni e sicurezza</summary><div class="bibliography-list"><article class="source-card"><p class="source-meta">Ministero dell’Interno · 2021–2026</p><h3>“Cruscotto statistico giornaliero”</h3><p>Serie di cruscotti statistici utilizzati per il monitoraggio dei flussi migratori e delle dinamiche di arrivo in Italia.</p></article><article class="source-card"><p class="source-meta">DIS · 2 marzo 2026</p><h3>“Relazione al Parlamento 2026”</h3><a href="https://www.sicurezzanazionale.gov.it/data/cms/posts/1163/attachments/4d8b721a-3c8f-456c-9bce-cbe649e7522b/download?view=true" rel="noopener" target="_blank">Apri fonte</a></article><article class="source-card"><p class="source-meta">EPRS · gennaio 2026</p><h3>“Mapping threats to peace and democracy worldwide”</h3><a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2026/782582/EPRS_STU(2026)782582_EN.pdf" rel="noopener" target="_blank">Apri fonte</a></article></div></details>
 </div>
 </div>
 </section>
@@ -1054,7 +655,7 @@ img { max-width: 100%; height: auto; display: block; }
 <div class="container footer-grid">
 <div><strong>Le tensioni tra Egitto ed Etiopia</strong><p>Scenari di sviluppo tra rischio di escalation e opportunità per il Piano Mattei.</p></div>
 <div><span>Orizzonte temporale</span><p>Giugno 2026 – Maggio 2027</p></div>
-<div><a href="#home">Torna all'inizio ↑</a></div>
+<div><a href="#home">Torna all’inizio ↑</a></div>
 </div>
 </footer>
 <button aria-label="Torna in alto" class="back-to-top" data-back-to-top="">↑</button>
