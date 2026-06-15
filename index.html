@@ -292,55 +292,7 @@ li{margin:.35rem 0}
 }
 
 
-/* === Revisione CIMREV2: matrice completa senza barre di scorrimento === */
-.cross-impact-table-wrap{
-  overflow:visible !important;
-  max-height:none !important;
-  width:100%;
-  border-radius:20px;
-}
-.cross-impact-table{
-  min-width:0 !important;
-  width:100% !important;
-  table-layout:fixed;
-  font-size:clamp(.44rem,.56vw,.68rem);
-  line-height:1.15;
-}
-.cross-impact-table col.col-code{width:4.6%}
-.cross-impact-table col.col-driver{width:20.4%}
-.cross-impact-table col.col-score{width:4.17%}
-.cross-impact-table caption{
-  position:static !important;
-  top:auto !important;
-  padding:10px 12px;
-}
-.cross-impact-table th,.cross-impact-table td{
-  padding:5px 4px;
-  white-space:normal;
-  word-break:normal;
-  overflow-wrap:anywhere;
-}
-.cross-impact-table thead th{
-  position:static !important;
-  top:auto !important;
-  white-space:normal;
-  font-size:.68em;
-  line-height:1.1;
-}
-.cross-impact-table .sticky-col{
-  position:static !important;
-  left:auto !important;
-}
-.cross-impact-table .code-col{
-  width:auto !important;
-  min-width:0 !important;
-  text-align:center;
-}
-.cross-impact-table .driver-col{
-  width:auto !important;
-  min-width:0 !important;
-  text-align:left;
-}
+/* === CIM: tooltip dot indicator === */
 .cross-impact-table .has-comment::after{
   content:"";
   position:absolute;
@@ -371,10 +323,117 @@ li{margin:.35rem 0}
 .matrix-tooltip.tip-positive{background:#0f6b4d;border:1px solid rgba(255,255,255,.20)}
 .matrix-tooltip.tip-negative{background:#a83a2b;border:1px solid rgba(255,255,255,.20)}
 .matrix-tooltip.tip-neutral{background:#172033;border:1px solid rgba(255,255,255,.18)}
-@media (max-width:900px){
-  .cross-impact-table{font-size:clamp(.32rem,1.08vw,.48rem)}
-  .cross-impact-table th,.cross-impact-table td{padding:3px 2px}
-  .cross-impact-table caption{font-size:.72rem}
+
+/* === CIM MOBILE: scroll orizzontale con sticky columns corrette ===
+   Strategia:
+   - Il wrapper scorre in X e Y
+   - La tabella ha larghezza fissa minima che la rende scorrevole
+   - code-col: sticky left:0, larghezza fissa 44px
+   - driver-col: sticky left:44px, larghezza fissa 130px su mobile / 160px su tablet
+   - Tutti i th/td sticky hanno background solido per coprire le celle che scorrono sotto
+   - z-index scala: thead corner > thead > sticky body > celle normali
+*/
+@media (max-width:1059px){
+  /* Il cross-impact-block non deve tagliare lo shadow laterale */
+  .cross-impact-block{
+    padding:20px 16px;
+    overflow:visible;
+  }
+  /* Il wrapper è il vero contenitore di scroll */
+  .cross-impact-table-wrap{
+    overflow-x:auto !important;
+    overflow-y:auto !important;
+    max-height:480px !important;
+    -webkit-overflow-scrolling:touch;
+    border-radius:16px;
+    /* Hint visivo: mostra che scorre */
+    background:
+      linear-gradient(to right, white 30%, rgba(255,255,255,0)),
+      linear-gradient(to right, rgba(255,255,255,0), white 70%) 100% 0,
+      radial-gradient(farthest-side at 0 50%, rgba(23,32,51,.12), transparent),
+      radial-gradient(farthest-side at 100% 50%, rgba(23,32,51,.12), transparent) 100% 0;
+    background-repeat:no-repeat;
+    background-color:white;
+    background-size:40px 100%, 40px 100%, 14px 100%, 14px 100%;
+    background-attachment:local, local, scroll, scroll;
+  }
+  /* Tabella: larghezza minima fissa, layout auto per rispettare i contenuti */
+  .cross-impact-table{
+    min-width:860px !important;
+    width:auto !important;
+    table-layout:auto !important;
+    font-size:.72rem;
+    line-height:1.2;
+  }
+  /* Caption sticky in cima */
+  .cross-impact-table caption{
+    position:sticky !important;
+    top:0 !important;
+    z-index:20 !important;
+    padding:8px 12px;
+    font-size:.78rem;
+  }
+  /* Header row: sticky sotto la caption */
+  .cross-impact-table thead th{
+    position:sticky !important;
+    top:36px !important;
+    z-index:15 !important;
+    white-space:nowrap;
+    padding:6px 5px;
+    font-size:.66rem;
+  }
+  /* Tutte le sticky-col nelle righe body */
+  .cross-impact-table .sticky-col{
+    position:sticky !important;
+    z-index:9 !important;
+    background:#fff7ec !important;
+  }
+  /* Header corner cells (thead + sticky-col) devono stare sopra tutto */
+  .cross-impact-table thead .sticky-col{
+    z-index:22 !important;
+    background:#172033 !important;
+  }
+  /* Colonna codice: prima colonna sticky, larghezza compatta */
+  .cross-impact-table .code-col{
+    left:0 !important;
+    min-width:44px !important;
+    width:44px !important;
+  }
+  /* Colonna driver: seconda colonna sticky, ancorata dopo code-col */
+  .cross-impact-table .driver-col{
+    left:44px !important;
+    min-width:160px !important;
+    width:160px !important;
+    /* Bordo destro visibile per separare visivamente dal contenuto scorrevole */
+    border-right:2px solid rgba(23,32,51,.18) !important;
+    box-shadow:4px 0 8px -2px rgba(23,32,51,.10);
+  }
+  /* Celle normali */
+  .cross-impact-table th,.cross-impact-table td{
+    padding:6px 5px;
+  }
+}
+
+@media (max-width:600px){
+  .cross-impact-table{
+    min-width:720px !important;
+    font-size:.65rem;
+  }
+  .cross-impact-table .driver-col{
+    min-width:130px !important;
+    width:130px !important;
+    left:44px !important;
+  }
+  .cross-impact-table thead th{
+    font-size:.6rem;
+    padding:5px 4px;
+  }
+  .cross-impact-table th,.cross-impact-table td{
+    padding:5px 4px;
+  }
+  .cross-impact-table caption{
+    font-size:.72rem;
+  }
 }
 
 
@@ -1081,63 +1140,18 @@ li{margin:.35rem 0}
   }
 }
 
-/* Fix: cross-impact table mobile with horizontal scroll */
-@media (max-width:1060px){
-  .cross-impact-block{
-    overflow: hidden;
-  }
-  .cross-impact-table-wrap{
-    overflow-x: auto !important;
-    overflow-y: auto !important;
-    max-height: 520px !important;
-    -webkit-overflow-scrolling: touch;
-  }
-  .cross-impact-table{
-    min-width: 900px !important;
-    width: auto !important;
-    table-layout: auto;
-    font-size: .7rem;
-  }
-  .cross-impact-table caption{
-    position: sticky !important;
-    top: 0 !important;
-  }
-  .cross-impact-table thead th{
-    position: sticky !important;
-    top: 40px !important;
-  }
-  .cross-impact-table .sticky-col{
-    position: sticky !important;
-  }
-  .cross-impact-table .code-col{
-    left: 0 !important;
-    min-width: 40px !important;
-    z-index: 12 !important;
-  }
-  .cross-impact-table .driver-col{
-    left: 40px !important;
-    min-width: 160px !important;
-    z-index: 12 !important;
-  }
-  .cross-impact-table thead .sticky-col{
-    z-index: 14 !important;
-  }
-}
-
+/* Fix: home section on mobile — immagine visibile ma compatta */
 @media (max-width:720px){
-  .cross-impact-table{
-    min-width: 700px !important;
-    font-size: .6rem;
+  .home-grid{
+    grid-template-columns: 1fr;
   }
-  .cross-impact-table .driver-col{
-    min-width: 120px !important;
-  }
-}
-
-/* Fix: home section on mobile */
-@media (max-width:720px){
   .home-visual{
-    display: none;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0 0;
+  }
+  .home-visual img{
+    width: min(200px, 55vw);
   }
 }
 
@@ -1176,21 +1190,52 @@ li{margin:.35rem 0}
   }
 }
 
-/* Fix: scenario detail mobile */
+/* Fix: scenario detail mobile — logo scenario visibile come badge nell'header */
 @media (max-width:720px){
   .scenario-detail-grid{
     grid-template-columns: 1fr;
   }
+  /* Header: numero + testo + logo in fila flex */
   .scenario-detail-header{
-    grid-template-columns: 48px 1fr;
-    gap:12px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 10px;
   }
+  .scenario-detail-header > .scenario-number{
+    flex: 0 0 auto;
+  }
+  .scenario-detail-header > div{
+    flex: 1 1 0;
+    min-width: 0;
+  }
+  /* Logo scenario: visibile, dimensione compatta */
   .scenario-detail-header .scenario-art.scenario-header-logo{
-    display: none;
+    display: block !important;
+    flex: 0 0 auto;
+    width: 64px !important;
+    height: 64px !important;
+    margin: 0 !important;
+    padding: 5px !important;
+    align-self: flex-start;
   }
+  .scenario-detail-header .scenario-art.scenario-header-logo img{
+    width: 100%;
+    height: 100%;
+    max-height: none !important;
+  }
+  /* HILP card: immagine non più assoluta, torna nel flusso */
   .hilp-event-card{
     padding-right: 24px !important;
-    padding-top: 110px;
+    padding-top: 28px !important;
+  }
+  .hilp-event-card .hilp-art.hilp-header-logo{
+    position: static !important;
+    display: block;
+    width: min(110px, 36vw) !important;
+    height: auto !important;
+    aspect-ratio: 1/1;
+    margin: 0 0 16px 0 !important;
   }
 }
 
@@ -1230,6 +1275,16 @@ li{margin:.35rem 0}
   .key-drivers-grid,
   .home-focus{
     grid-template-columns: 1fr;
+  }
+  /* Agent logo cards: padding ridotto per non far uscire il logo */
+  .process-timeline article.agent-logo-card{
+    padding-right: 54px;
+  }
+  .agent-card-logo{
+    width: 34px;
+    height: 34px;
+    top: 12px;
+    right: 10px;
   }
 }
 
