@@ -1,69 +1,114 @@
 {
-  "generatedAt": "2026-06-15T09:39:58.242Z",
-  "feedsChecked": 7,
+  "generatedAt": "2026-06-15T09:55:07.184Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
-      "items": []
-    },
-    "somaliland": {
-      "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "הרצוג אירח את נשיא סומלילנד :  האיומים משותפים . אנו רוצים יציבות בקרן אפריקה",
-          "link": "https://www.ynet.co.il/news/article/rj1jpzhwml",
-          "source": "ynet.co.il",
-          "pubDate": "2026-06-14T16:45:00Z",
+          "title": "Ballot box in Horn of Africa : For whom and under what conditions ?",
+          "link": "https://www.dailysabah.com/opinion/op-ed/ballot-box-in-horn-of-africa-for-whom-and-under-what-conditions",
+          "source": "dailysabah.com",
+          "pubDate": "2026-06-14T21:45:00Z",
           "description": ""
         },
         {
-          "title": "TITULARES DEL DÍA EN ISRAEL - Itón Gadol",
-          "link": "https://itongadol.com/tapa-del-dia/titulares-del-dia-en-israel-1894",
-          "source": "itongadol.com",
-          "pubDate": "2026-06-14T15:45:00Z",
+          "title": "مساعد وزير الخارجية الأسبق : مشاركة الرئيس السيسي في قمة G7 اعتراف دولي بثقل مصر في الشرق الأوسط",
+          "link": "https://www.shorouknews.com/news/view.aspx?cdate=14062026&id=d5ef22ab-e4da-489b-b593-19ac639ab034",
+          "source": "shorouknews.com",
+          "pubDate": "2026-06-14T18:45:00Z",
           "description": ""
         },
         {
-          "title": "The African Continent is Seething with Activity from Radical Islamic Terrorist Organizations - A Snapshot",
-          "link": "https://ict.org.il/african-continent-seething-with-terrorism-snapshot/",
-          "source": "ict.org.il",
+          "title": "رئيس  أرض الصومال  يزور دولة الاحتلال .. و  حماس  تندد",
+          "link": "https://assabeel.net/75240",
+          "source": "assabeel.net",
+          "pubDate": "2026-06-14T18:00:00Z",
+          "description": ""
+        },
+        {
+          "title": "FIFA World Cup 2026 : Antidote to a divided world",
+          "link": "https://www.dailysabah.com/opinion/op-ed/fifa-world-cup-2026-antidote-to-a-divided-world",
+          "source": "dailysabah.com",
           "pubDate": "2026-06-14T13:00:00Z",
           "description": ""
         },
         {
-          "title": "Madaxweynaha Somaliland oo maanta booqanaya Israaiil .",
-          "link": "https://horseedmedia.net/madaxweynaha-somaliland-oo-maanta-booqanaya-israaiil/422823/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-06-14T09:00:00Z",
+          "title": "شاكيرا تشغل المونديال صيحة تشعل قناديل الوعي بمجلة متوهجة – صحيفة التغيير السودانية , اخبار السودان",
+          "link": "https://www.altaghyeer.info/ar/2026/06/13/%D8%B4%D8%A7%D9%83%D9%8A%D8%B1%D8%A7-%D8%AA%D8%B4%D8%BA%D9%84-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D8%B5%D9%8A%D8%AD%D8%A9-%D8%AA%D8%B4%D8%B9%D9%84-%D9%82%D9%86%D8%A7%D8%AF/",
+          "source": "altaghyeer.info",
+          "pubDate": "2026-06-13T21:00:00Z",
           "description": ""
         },
         {
-          "title": "Somaliland opens new representative office in Taipei Tianmu district",
-          "link": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260612-cna03.htm",
-          "source": "globalsecurity.org",
-          "pubDate": "2026-06-13T12:30:00Z",
+          "title": "Fussball - WM 2026 : Gianni Infantino macht sich über Italien lustig",
+          "link": "https://www.derbund.ch/fussball-wm-2026-gianni-infantino-fifa-macht-sich-ueber-italien-lustig-885412667353",
+          "source": "derbund.ch",
+          "pubDate": "2026-06-13T02:45:00Z",
           "description": ""
         },
         {
-          "title": "Houthis declare total ban on Israeli ships in Red Sea as US hits back",
-          "link": "https://www.foxnews.com/world/expert-warns-general-escalation-fighting-houthis-resume-red-sea-campaign",
-          "source": "foxnews.com",
-          "pubDate": "2026-06-12T14:30:00Z",
+          "title": "Fussball - WM 2026 : Gianni Infantino macht sich über Italien lustig",
+          "link": "https://www.bazonline.ch/fussball-wm-2026-gianni-infantino-fifa-macht-sich-ueber-italien-lustig-885412667353",
+          "source": "bazonline.ch",
+          "pubDate": "2026-06-13T02:15:00Z",
           "description": ""
         },
         {
-          "title": "Somali piracy is back – fuelled by political turmoil , aid cuts and the Iran war",
-          "link": "https://defenceweb.co.za/sea/sea-sea/somali-piracy-is-back-fuelled-by-political-turmoil-aid-cuts-and-the-iran-war/",
-          "source": "defenceweb.co.za",
-          "pubDate": "2026-06-12T14:15:00Z",
+          "title": "Fussball - WM 2026 : Gianni Infantino macht sich über Italien lustig",
+          "link": "https://www.tagesanzeiger.ch/fussball-wm-2026-gianni-infantino-fifa-macht-sich-ueber-italien-lustig-885412667353",
+          "source": "tagesanzeiger.ch",
+          "pubDate": "2026-06-13T01:00:00Z",
           "description": ""
         },
         {
-          "title": "Cabdiraxmaan Cirro oo booqasho rasmi ah ku tegaya Israaiil .",
-          "link": "https://horseedmedia.net/cabdiraxmaan-cirro-oo-booqasho-rasmi-ah-ku-tegaya-israaiil/422779/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-06-12T12:45:00Z",
+          "title": "The making of a global Türkiye",
+          "link": "https://www.dailysabah.com/opinion/columns/the-making-of-a-global-turkiye",
+          "source": "dailysabah.com",
+          "pubDate": "2026-06-12T22:45:00Z",
+          "description": ""
+        },
+        {
+          "title": "رئيس أرض الصومال يزور إسرائيل لافتتاح سفارة وسط تنديد واسع",
+          "link": "https://www.aljazeera.net/news/2026/6/12/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A3%D8%B1%D8%B6-%D8%A7%D9%84%D8%B5%D9%88%D9%85%D8%A7%D9%84-%D9%8A%D8%B2%D9%88%D8%B1-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%84%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD",
+          "source": "aljazeera.net",
+          "pubDate": "2026-06-12T22:00:00Z",
+          "description": ""
+        },
+        {
+          "title": "2026 World Cup : Between freedom of expression and the beautiful game",
+          "link": "https://www.indexoncensorship.org/2026/06/2026-world-cup-between-freedom-of-expression-and-the-beautiful-game/",
+          "source": "indexoncensorship.org",
+          "pubDate": "2026-06-12T21:15:00Z",
+          "description": ""
+        },
+        {
+          "title": "Trump lijkt helemaal niets om het WK - feest te geven .  Hoelang laten we n man nog het wereldvoetbal verpesten ?",
+          "link": "https://www.nrc.nl/nieuws/2026/06/12/trump-lijkt-helemaal-niets-om-het-wk-feest-te-geven-hoe-lang-laten-we-een-man-nog-het-wereldvoetbal-verpesten-a4929911",
+          "source": "nrc.nl",
+          "pubDate": "2026-06-12T13:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "Trump Juggles Iran , the World Cup , and a White House UFC Fight",
+          "link": "https://foreignpolicy.com/2026/06/11/trump-iran-war-world-cup-ufc-fight-white-house/?tpcc=recirc_trending062921",
+          "source": "foreignpolicy.com",
+          "pubDate": "2026-06-12T10:45:00Z",
+          "description": ""
+        },
+        {
+          "title": "Visa AS Jadi Momok Piala Dunia 2026 , Fans dan Jurnalis Terancam Absen",
+          "link": "https://www.beritasatu.com/internasional/3001972/visa-as-jadi-momok-piala-dunia-2026-fans-dan-jurnalis-terancam-absen",
+          "source": "beritasatu.com",
+          "pubDate": "2026-06-12T10:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "The FIFA World Cup : Caught on the Visa Snag",
+          "link": "https://www.middleeastmonitor.com/20260612-the-fifa-world-cup-caught-on-the-visa-snag/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-06-12T10:15:00Z",
           "description": ""
         },
         {
@@ -74,81 +119,44 @@
           "description": ""
         },
         {
+          "title": "En direct . Coupe du monde 2026 : les petites et grandes histoires de la presse étrangère",
+          "link": "https://www.courrierinternational.com/live/coupe-du-monde-2026-les-petites-et-grandes-histoires-de-la-presse-etrangere_244129_1",
+          "source": "courrierinternational.com",
+          "pubDate": "2026-06-12T09:00:00Z",
+          "description": ""
+        },
+        {
+          "title": "Az iráni válogatott megtartotta első nyílt edzését mexikói vb - bázisán",
+          "link": "https://444.hu/2026/06/12/az-irani-valogatott-megtartotta-elso-nyilt-edzeset-mexikoi-vb-bazisan",
+          "source": "444.hu",
+          "pubDate": "2026-06-12T08:15:00Z",
+          "description": ""
+        },
+        {
+          "title": "Европейские полумеры",
+          "link": "https://iz.ru/2114035/vadim-trukhachev/evropeiskie-polumery",
+          "source": "iz.ru",
+          "pubDate": "2026-06-12T06:45:00Z",
+          "description": ""
+        },
+        {
+          "title": "World Cup , Imperialism , and the Politics of Football : Interview with an Iranian Anti - Imperialist Scholar",
+          "link": "http://www.pambazuka.org/index.php/World-Cup-Imperialism",
+          "source": "pambazuka.org",
+          "pubDate": "2026-06-12T06:45:00Z",
+          "description": ""
+        }
+      ]
+    },
+    "somaliland": {
+      "title": "Dossier Somaliland",
+      "items": [
+        {
           "title": "Tigrayan forces preparing offensive against federal gov, Addis Ababa warns",
           "link": "http://www.africanews.com/2026/06/12/tigrayan-forces-preparing-offensive-against-federal-gov-addis-ababa-warns/",
           "description": "Fears are mounting in Ethiopia over reports that forces in the northern Tigray region are preparing an offensive against the federal government in the coming days.",
           "pubDate": "Fri, 12 Jun 2026 07:40:35 +0000",
           "source": "Africanews"
-        },
-        {
-          "title": "Afrika Mashariki : Bajeti na changamoto za madeni",
-          "link": "https://www.dw.com/sw/afrika-mashariki-bajeti-zakabiliwa-na-changamoto-za-madeni/live-77474717",
-          "source": "dw.com",
-          "pubDate": "2026-06-11T16:30:00Z",
-          "description": ""
-        },
-        {
-          "title": "Somalia Fragile Government May Be on the Verge of Collapse",
-          "link": "https://foreignpolicy.com/2026/06/10/somalia-government-fighting-electoral-system-hassan-sheikh-mohamud/?tpcc=recirc_trending062921",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-06-11T11:15:00Z",
-          "description": ""
-        },
-        {
-          "title": "Somalia Fragile Government May Be on the Verge of Collapse",
-          "link": "https://foreignpolicy.com/2026/06/10/somalia-government-fighting-electoral-system-hassan-sheikh-mohamud/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-06-11T02:15:00Z",
-          "description": ""
-        },
-        {
-          "title": "Isbahaysiga Eritrea iyo Masar – iyo saameynta uu ku yeelan karo Geeska Afrika",
-          "link": "https://www.bbc.com/somali/articles/c4gyzry5rpzo",
-          "source": "bbc.com",
-          "pubDate": "2026-06-10T10:30:00Z",
-          "description": ""
-        },
-        {
-          "title": "East Africa : Somaliland Berbera Port Emerges As East Africa Trade Gateway",
-          "link": "https://allafrica.com/stories/202606090024.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-09T06:45:00Z",
-          "description": ""
-        },
-        {
-          "title": "Letter from Mogadishu : EAC mum as Somalia slides into chaos",
-          "link": "https://www.standardmedia.co.ke/opinion/article/2001549833/letter-from-mogadishu-eac-mum-as-somalia-slides-into-chaos",
-          "source": "standardmedia.co.ke",
-          "pubDate": "2026-06-09T05:00:00Z",
-          "description": ""
-        },
-        {
-          "title": "Stronger alliance with Eritrea - Egypt - Al - Ahram Weekly",
-          "link": "https://english.ahram.org.eg/News/569257.aspx",
-          "source": "english.ahram.org.eg",
-          "pubDate": "2026-06-08T08:30:00Z",
-          "description": ""
-        },
-        {
-          "title": "Somalia Envoy Says Army Ready for Hargeisa As Clashes Shake Mogadishu",
-          "link": "https://allafrica.com/stories/202606080151.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-08T08:00:00Z",
-          "description": ""
-        },
-        {
-          "title": "Links 6 / 62026 | naked capitalism",
-          "link": "https://www.nakedcapitalism.com/2026/06/links-6-62026.html",
-          "source": "nakedcapitalism.com",
-          "pubDate": "2026-06-06T12:45:00Z",
-          "description": ""
-        },
-        {
-          "title": "Iran Demands Release of $24 Billion in Frozen Assets to Break US Peace Deadlock",
-          "link": "https://www.kyivpost.com/post/77637",
-          "source": "kyivpost.com",
-          "pubDate": "2026-06-06T10:45:00Z",
-          "description": ""
         }
       ]
     },
@@ -156,17 +164,17 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Israel must stop bombing Beirut says Tajani",
+          "link": "https://www.ansa.it/english/news/politics/2026/06/15/israel-must-stop-bombing-beirut-says-tajani_2caa9fb5-0b0f-4fef-aaea-63287771d8da.html",
+          "description": "(ANSA) - LUXEMBOURG, JUN 15 - Deputy Premier and Foreign Minister Antonio Tajani said Monday that Israel must stop bombing Beirut after the United States and Iran reached an agreement to end the war in the Middle East. \"We must ensure that the fighting in Lebanon stops too, that Israel no longer bombs Beirut,\" Tajani said on the sidelines of an EU foreign affairs council in Luxembourg. In her statement welcoming the deal reached between Washington and Tehran, Premier Giorgia Meloni said that \"hostilities must also cease in Lebanon\". Meloni said that \"Italy will continue working to support Leba",
+          "pubDate": "Mon, 15 Jun 2026 11:36:24 +0200",
+          "source": "ANSA English"
+        },
+        {
           "title": "Hostilities must stop in Lebanon too says Meloni",
           "link": "https://www.ansa.it/english/news/2026/06/15/hostilities-must-stop-in-lebanon-too-says-meloni_6472d45a-43cd-43aa-b221-f63ff2308edb.html",
           "description": "(ANSA) - ROME, JUN 15 - In a statement welcoming the deal reached between Washington and Tehran to stop the Iran war, Premier Giorgia Meloni said Monday that \"hostilities must also cease in Lebanon\". Meloni said that \"Italy will continue working to support Lebanese sovereignty\". (see related). (ANSA). Read article...",
           "pubDate": "Mon, 15 Jun 2026 11:34:57 +0200",
-          "source": "ANSA English"
-        },
-        {
-          "title": "Israel must stop bombing Beirut says Tajani",
-          "link": "https://www.ansa.it/english/news/politics/2026/06/15/israel-must-stop-bombing-beirut-says-tajani_2caa9fb5-0b0f-4fef-aaea-63287771d8da.html",
-          "description": "(ANSA) - LUXEMBOURG, JUN 15 - Deputy Premier and Foreign Minister Antonio Tajani said Monday that Israel must stop bombing Beirut after the United States and Iran reached an agreement to end the war in the Middle East. \"We must ensure that the fighting in Lebanon stops too, that Israel no longer bombs Beirut,\" Tajani said on the sidelines of an EU foreign affairs council in Luxembourg. In her statement welcoming the deal reached between Washington and Tehran, Premier Giorgia Meloni said that \"hostilities must also cease in Lebanon\". Meloni said that \"Italy will continue working to support Leba",
-          "pubDate": "Mon, 15 Jun 2026 11:34:52 +0200",
           "source": "ANSA English"
         },
         {
@@ -212,6 +220,76 @@
           "source": "AllAfrica"
         },
         {
+          "title": "Fenomenul El Niño și războiul din Iran ar putea declanșa o criză alimentară pentru peste 100 de milioane de oameni",
+          "link": "https://www.digi24.ro/stiri/externe/fenomenul-el-nino-si-razboiul-din-iran-ar-putea-declansa-o-criza-alimentara-pentru-peste-100-de-milioane-de-oameni-3812651",
+          "source": "digi24.ro",
+          "pubDate": "2026-06-15T04:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "World Vision Stephen Court faced war and famine in Ethiopia ; a 13 - year - old girl gave him hope",
+          "link": "https://www.nzherald.co.nz/rotorua-daily-post/news/world-visions-stephen-court-faced-war-and-famine-in-ethiopia-a-13-year-old-girl-gave-him-hope/premium/2AUDSNQHM5FEHGD3FTWUES7VLQ/",
+          "source": "nzherald.co.nz",
+          "pubDate": "2026-06-14T22:45:00Z",
+          "description": ""
+        },
+        {
+          "title": "Ballot box in Horn of Africa : For whom and under what conditions ?",
+          "link": "https://www.dailysabah.com/opinion/op-ed/ballot-box-in-horn-of-africa-for-whom-and-under-what-conditions",
+          "source": "dailysabah.com",
+          "pubDate": "2026-06-14T21:45:00Z",
+          "description": ""
+        },
+        {
+          "title": "Le Cirque Suarez de retour avec un show 100  % familial",
+          "link": "https://www.martinique.franceantilles.fr/actualite/culture/le-cirque-suarez-de-retour-avec-un-show-100-familial-1082465.php",
+          "source": "martinique.franceantilles.fr",
+          "pubDate": "2026-06-14T15:15:00Z",
+          "description": ""
+        },
+        {
+          "title": "The African Continent is Seething with Activity from Radical Islamic Terrorist Organizations - A Snapshot",
+          "link": "https://ict.org.il/african-continent-seething-with-terrorism-snapshot/",
+          "source": "ict.org.il",
+          "pubDate": "2026-06-14T13:00:00Z",
+          "description": ""
+        },
+        {
+          "title": "Geography of wealth ties Sudan feuding factions together",
+          "link": "https://www.arabnews.com/node/2647073",
+          "source": "arabnews.com",
+          "pubDate": "2026-06-13T21:15:00Z",
+          "description": ""
+        },
+        {
+          "title": "شاكيرا تشغل المونديال صيحة تشعل قناديل الوعي بمجلة متوهجة – صحيفة التغيير السودانية , اخبار السودان",
+          "link": "https://www.altaghyeer.info/ar/2026/06/13/%D8%B4%D8%A7%D9%83%D9%8A%D8%B1%D8%A7-%D8%AA%D8%B4%D8%BA%D9%84-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D8%B5%D9%8A%D8%AD%D8%A9-%D8%AA%D8%B4%D8%B9%D9%84-%D9%82%D9%86%D8%A7%D8%AF/",
+          "source": "altaghyeer.info",
+          "pubDate": "2026-06-13T21:00:00Z",
+          "description": ""
+        },
+        {
+          "title": "Ethiopia : Factions In The Ethiopian Civil War",
+          "link": "http://www.strategypage.com/%5Cqnd%5Cethiopi%5Carticles%5C2026061261533.aspx",
+          "source": "strategypage.com",
+          "pubDate": "2026-06-13T03:15:00Z",
+          "description": ""
+        },
+        {
+          "title": "جيبوتي تؤكد دورها في أمن باب المندب وتدعو لإنهاء حرب السودان",
+          "link": "https://www.aljazeera.net/news/2026/6/12/%D8%AC%D9%8A%D8%A8%D9%88%D8%AA%D9%8A-%D8%AA%D8%A4%D9%83%D8%AF-%D8%AF%D9%88%D8%B1%D9%87%D8%A7-%D9%81%D9%8A-%D8%A3%D9%85%D9%86-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A8",
+          "source": "aljazeera.net",
+          "pubDate": "2026-06-12T22:00:00Z",
+          "description": ""
+        },
+        {
+          "title": "Houthis declare total ban on Israeli ships in Red Sea as US hits back",
+          "link": "https://www.foxnews.com/world/expert-warns-general-escalation-fighting-houthis-resume-red-sea-campaign",
+          "source": "foxnews.com",
+          "pubDate": "2026-06-12T14:30:00Z",
+          "description": ""
+        },
+        {
           "title": "Iran not our war says Tajani after Trump calls Europe irrelevant",
           "link": "https://www.ansa.it/english/news/politics/2026/06/12/iran-not-our-war-says-tajani-after-trump-calls-europe_65d498aa-36f3-47ab-9b3e-74007afea978.html",
           "description": "(ANSA) - ROME, JUN 12 - Deputy Premier and Foreign Minister Antonio Tajani on Friday stressed that, while the Iran war was not Europe's war, it has been doing what it could to bring about a solution, after President Donald Trump reportedly called the United States' European allies \"irrelevant\". Italian-American journalist Daniele Compatangelo told Italy's La7 television early on Friday that he had spoken to Trump on the telephone after he said an agreement to end the Iran war would be signed shortly and that Trump said \"we won the war, their help was totally irrelevant\" when asked about Italy,",
@@ -224,40 +302,153 @@
           "description": "(ANSA) - ROME, JUN 12 - The Colosseum is hosting the most important exhibition on Troy ever held, organisers said Friday saying the event will trace the voyage of Trojan hero Aeneas from the ruins of the Greek-torched ancient city in Asia Minor to Italy where he laid the groundwork for the foundation of the Eternal City. The show opening Friday and running till October 18 will include 300 ancient artifacts telling the story of Aeneas's legendary journey, and much more. \"Troy and Rome. Myths, Legends, Stories of the Ancient Mediterranean\" is part of a bilateral agreement signed between the Ital",
           "pubDate": "Fri, 12 Jun 2026 15:07:47 +0200",
           "source": "ANSA English"
-        },
-        {
-          "title": "Colosseum hosts 'most important exhibition on Troy ever held'",
-          "link": "https://www.ansa.it/english/news/2026/06/12/colosseum-hosts-most-important-exhibition-on-troy-ever-held_913a96fb-7ecb-4a81-bbfa-61341581cbc5.html",
-          "description": "(ANSA) - ROME, JUN 12 - The Colosseum is hosting the most important exhibition on Troy ever held, organisers said Friday saying the event will trace the voyage of Trojan hero Aeneas from the ruins of the Greek-torched ancient city in Asia Minor to Italy where he laid the groundwork for the foundation of the Eternal City. The show opening Friday and running till October 18 will include 300 ancient artifacts telling the story of Aeneas's legendary journey, and much more. \"Troy and Rome. Myths, Legends, Stories of the Ancient Mediterranean\" is part of a bilateral agreement signed between the Ital",
-          "pubDate": "Fri, 12 Jun 2026 15:01:06 +0200",
-          "source": "ANSA English"
-        },
-        {
-          "title": "Sources say women who fled Iran to be deport from US to Central African Republic",
-          "link": "http://www.africanews.com/2026/06/12/sources-say-women-who-fled-iran-to-be-deport-from-us-to-central-african-republic/",
-          "description": "Sources said two Iranian women will be among over 20 migrants to be sent to the Central African Republic under a so-called third-country deportees deal.",
-          "pubDate": "Fri, 12 Jun 2026 10:12:55 +0000",
-          "source": "Africanews"
-        },
-        {
-          "title": "Iran not our war says Tajani after Trump calls Europe irrelevant",
-          "link": "https://www.ansa.it/english/news/2026/06/12/iran-not-our-war-says-tajani-after-trump-calls-europe_49aa1f6e-9564-435a-b309-6cc72a607407.html",
-          "description": "(ANSA) - ROME, JUN 12 - Deputy Premier and Foreign Minister Antonio Tajani on Friday stressed that, while the Iran war was not Europe's war, it has been doing what it could to bring about a solution, after President Donald Trump reportedly called the United States' European allies \"irrelevant\". Italian-American journalist Daniele Compatangelo told Italy's La7 television early on Friday that he had spoken to Trump on the telephone after he said an agreement to end the Iran war would be signed shortly and that Trump said \"we won the war, their help was totally irrelevant\" when asked about Italy,",
-          "pubDate": "Fri, 12 Jun 2026 12:01:41 +0200",
-          "source": "ANSA English"
-        },
-        {
-          "title": "Tigrayan forces preparing offensive against federal gov, Addis Ababa warns",
-          "link": "http://www.africanews.com/2026/06/12/tigrayan-forces-preparing-offensive-against-federal-gov-addis-ababa-warns/",
-          "description": "Fears are mounting in Ethiopia over reports that forces in the northern Tigray region are preparing an offensive against the federal government in the coming days.",
-          "pubDate": "Fri, 12 Jun 2026 07:40:35 +0000",
-          "source": "Africanews"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "النواب يفوض هيئة مكتب المجلس لتحديد موعد مناقشة 8 طلبات",
+          "link": "https://www.vetogate.com/5674846",
+          "source": "vetogate.com",
+          "pubDate": "2026-06-15T09:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "عودة للارتفاع ، أول تداعيات وقف الحرب الأمريكية الإيرانية على سوق الذهب في مصر",
+          "link": "https://www.vetogate.com/5674848",
+          "source": "vetogate.com",
+          "pubDate": "2026-06-15T09:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "اتفاق سلام دونالد ترامب إيران : ما بنود وقف إطلاق النار وإعادة فتح مضيق هرمز ومصير الملف النووي ولبنان ؟",
+          "link": "https://www.bbc.com/arabic/articles/czden3e2p2po",
+          "source": "bbc.com",
+          "pubDate": "2026-06-15T09:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "وزير الصناعة : زيادة الصادرات المصرية بحلول 2030",
+          "link": "https://www.dostor.org/5598823",
+          "source": "dostor.org",
+          "pubDate": "2026-06-15T09:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "美媒 ： G7峰会前夕 ， 特朗普直白警告马克龙",
+          "link": "https://finance.sina.com.cn/roll/2026-06-15/doc-inicnpyv5083552.shtml",
+          "source": "finance.sina.com.cn",
+          "pubDate": "2026-06-15T09:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "Дипломатическа игра с Тръмп : Г - 7 търси единство сред световни кризи",
+          "link": "https://frognews.bg/novini/diplomaticheska-igra-tramp-7-tarsi-edinstvo-sred-svetovni-krizi.html",
+          "source": "frognews.bg",
+          "pubDate": "2026-06-15T09:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "미 · 이란 , 개전 106일 만에 전격 종전 합의 … 19일 제네바서 서명",
+          "link": "https://www.metroseoul.co.kr:443/article/20260615500462",
+          "source": "metroseoul.co.kr",
+          "pubDate": "2026-06-15T09:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "جريدة البلاد | ارتفاع أسواق الخليج ومصر بمستهل التعاملات بعد اتفاق واشنطن وطهران",
+          "link": "https://www.albiladpress.com/news/2026/6454/finance/1004148.html",
+          "source": "albiladpress.com",
+          "pubDate": "2026-06-15T09:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "الاستثمار العقاري .. قاطرة لجذب العملة الصعبة",
+          "link": "https://www.vetogate.com/5674852",
+          "source": "vetogate.com",
+          "pubDate": "2026-06-15T09:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "مراهنات كرة القدم في العالم العربي : إقبال كثيف وسوق رائجة رغم الحظر",
+          "link": "https://www.bbc.com/arabic/articles/cgk6x8nkndvo",
+          "source": "bbc.com",
+          "pubDate": "2026-06-15T09:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "وزير الصناعة : تكامل السياسات الصناعية والاستثمارية ركيزة النمو الاقتصادي",
+          "link": "https://www.vetogate.com/5674825",
+          "source": "vetogate.com",
+          "pubDate": "2026-06-15T09:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "الجنيه يوجه ضربة للدولار في بداية تعاملات الإثنين",
+          "link": "https://www.vetogate.com/5674832",
+          "source": "vetogate.com",
+          "pubDate": "2026-06-15T09:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "미 · 이란 , 개전 106일 만에 전격 종전 합의 … 19일 제네바서 서명",
+          "link": "http://m.metroseoul.co.kr/article/20260615500462",
+          "source": "m.metroseoul.co.kr",
+          "pubDate": "2026-06-15T09:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "مجلس النواب يحيل 4 اتفاقيات دولية و8 مشروعات قوانين إلى اللجان النوعية",
+          "link": "https://www.vetogate.com/5674858",
+          "source": "vetogate.com",
+          "pubDate": "2026-06-15T09:30:00Z",
+          "description": ""
+        },
+        {
+          "title": "Tracer la voie : Zou Jiayi , présidente de la BAII , sur linfrastructure durable en Asie et au - delà",
+          "link": "https://fr.euronews.com/business/2026/06/15/tracer-la-voie-zou-jiayi-presidente-de-la-baii-sur-linfrastructure-durable-en-asie",
+          "source": "fr.euronews.com",
+          "pubDate": "2026-06-15T09:00:00Z",
+          "description": ""
+        },
+        {
+          "title": "سعر الريال السعودي مقابل الجنيه المصري اليوم الاثنين 15 - 6 - 2026 .. آخر تحديث",
+          "link": "https://www.elwatannews.com/news/details/8302409",
+          "source": "elwatannews.com",
+          "pubDate": "2026-06-15T09:00:00Z",
+          "description": ""
+        },
+        {
+          "title": "Macron confía en reconducir la relación de Europa y EE UU en la cumbre del G7",
+          "link": "https://www.canarias7.es/internacional/europa/macron-confia-reconducir-relacion-europa-cumbre-20260614193825-ntrc.html",
+          "source": "canarias7.es",
+          "pubDate": "2026-06-15T09:00:00Z",
+          "description": ""
+        },
+        {
+          "title": "Iran - Krieg im Liveticker : +++ 10 : 10 Israel : Ziehen uns nicht aus Libanon zurück +++",
+          "link": "https://www.n-tv.de/politik/10-10-Israel-Ziehen-uns-nicht-aus-Libanon-zurueck-id30415311.html",
+          "source": "n-tv.de",
+          "pubDate": "2026-06-15T08:45:00Z",
+          "description": ""
+        },
+        {
+          "title": "Political leadership welcomes US – Iran understanding , praise diplomacy",
+          "link": "https://tribune.com.pk/story/2613250/political-leadership-welcomes-usiran-understanding-praise-diplomacy",
+          "source": "tribune.com.pk",
+          "pubDate": "2026-06-15T08:45:00Z",
+          "description": ""
+        },
+        {
+          "title": "Цена хорошего отдыха : ниже этого порога лучше туристу не опускаться",
+          "link": "https://www.pravda.ru/news/travel/2361296-travel-cost-summer-2026/",
+          "source": "pravda.ru",
+          "pubDate": "2026-06-15T08:45:00Z",
+          "description": ""
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
