@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-06-15T18:15:18.259Z",
-  "feedsChecked": 7,
+  "generatedAt": "2026-06-16T00:17:16.288Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Sisi hosts Sheikh Mohamed, welcomes deal to end Iran war",
+          "link": "http://www.africanews.com/2026/06/15/sisi-hosts-sheikh-mohamed-welcomes-deal-to-end-iran-war/",
+          "description": "Egyptian President Abdel Fattah El-Sisi and UAE President Sheikh Mohamed bin Zayed met in Cairo to strengthen strategic ties and discuss regional security. The leaders welcomed the end of the Iran war and the reopening of the Strait of Hormuz while calling for greater Arab coordination.",
+          "pubDate": "Mon, 15 Jun 2026 20:46:12 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Sisi hosts Sheikh Mohamed, welcomes deal to end Iran war"
+        },
         {
           "title": "Somalia’s President Meets with a Delegation of Italian Business Leaders",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/06/15/somalias-president-meets-with-a-delegation-of-italian-business-leaders_b1bfc672-d498-4144-a454-a1a7f1f94fcc.html",
@@ -29,6 +38,24 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Sisi hosts Sheikh Mohamed, welcomes deal to end Iran war",
+          "link": "http://www.africanews.com/2026/06/15/sisi-hosts-sheikh-mohamed-welcomes-deal-to-end-iran-war/",
+          "description": "Egyptian President Abdel Fattah El-Sisi and UAE President Sheikh Mohamed bin Zayed met in Cairo to strengthen strategic ties and discuss regional security. The leaders welcomed the end of the Iran war and the reopening of the Strait of Hormuz while calling for greater Arab coordination.",
+          "pubDate": "Mon, 15 Jun 2026 20:46:12 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Sisi hosts Sheikh Mohamed, welcomes deal to end Iran war"
+        },
+        {
+          "title": "Somalia is the dark horse in US defense and economic strategy",
+          "link": "https://www.atlanticcouncil.org/blogs/africasource/somalia-is-the-dark-horse-in-us-defense-and-economic-strategy/",
+          "source": "atlanticcouncil.org",
+          "pubDate": "2026-06-15T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia is the dark horse in US defense and economic strategy"
+        },
         {
           "title": "Saar Confirms Secret Meeting With President Of Somaliland Prior To Formal Establishment Of Relations",
           "link": "https://www.i24news.tv/en/news/israel/diplomacy/artc-sa-ar-confirms-secret-meeting-with-president-of-somaliland-prior-to-formal-establishment-of-relations",
@@ -190,24 +217,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Somaliland President Abdullahi to visit Israel in historic first"
-        },
-        {
-          "title": "Somaliland President Abdullahi to visit Israel in historic first",
-          "link": "https://www.jpost.com/israel-news/article-899279",
-          "source": "jpost.com",
-          "pubDate": "2026-06-14T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland President Abdullahi to visit Israel in historic first"
-        },
-        {
-          "title": "People with albinism get free cancer screening in Kenya",
-          "link": "http://www.africanews.com/2026/06/14/people-with-albinism-get-free-cancer-screening-in-kenya/",
-          "description": "This year's theme highlights the impact of color-based discrimination on dignity, safety and mental well-being",
-          "pubDate": "Sun, 14 Jun 2026 06:53:18 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "People with albinism get free cancer screening in Kenya"
         }
       ]
     },
@@ -233,15 +242,6 @@
           "titleIt": "Amorim new AC Milan coach say Portugal media"
         },
         {
-          "title": "UPSC Key - 15th June 2026 : Dancing Girl of Mohenjo - daro , Hiuen Tsang and Queen Pineapple",
-          "link": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-dancing-girl-of-mohenjo-daro-hiuen-tsang-and-queen-pineapple-10741180/",
-          "source": "indianexpress.com",
-          "pubDate": "2026-06-15T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "UPSC Key - 15th June 2026 : Dancing Girl of Mohenjo - daro , Hiuen Tsang and Queen Pineapple"
-        },
-        {
           "title": "Watch: What does the US-Iran deal to end war mean for Lebanon and Israel?",
           "link": "https://www.bbc.com/news/videos/cg4wk2z6n74o?at_medium=RSS&at_campaign=rss",
           "description": "It's not clear if the deal means the Israelis will pause their offensive in Lebanon, BBC international editor Jeremy Bowen reports.",
@@ -249,15 +249,6 @@
           "source": "BBC World",
           "lang": "en",
           "titleIt": "Watch: What does the US-Iran deal to end war mean for Lebanon and Israel?"
-        },
-        {
-          "title": "Israel to build military base in Somaliland Berbera Airport",
-          "link": "https://www.albawaba.com/news/israel-build-military-base-somalilands-1630307",
-          "source": "albawaba.com",
-          "pubDate": "2026-06-15T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel to build military base in Somaliland Berbera Airport"
         },
         {
           "title": "The Italy-France Science Days are launched to do science together",
@@ -296,15 +287,6 @@
           "titleIt": "Israel must stop bombing Beirut says Tajani"
         },
         {
-          "title": "Nuberg EPC Wins Chlor - Alkali Plant In Tanzania",
-          "link": "https://www.chemicalonline.com/doc/nuberg-epc-wins-chlor-alkali-plant-in-tanzania-0001",
-          "source": "chemicalonline.com",
-          "pubDate": "2026-06-15T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nuberg EPC Wins Chlor - Alkali Plant In Tanzania"
-        },
-        {
           "title": "US-Iran deal is 'opportunity for peace that must be seized' says Meloni",
           "link": "https://www.ansa.it/english/news/politics/2026/06/15/us-iran-deal-is-opportunity-for-peace-that-must-be-seized-says-meloni_5f50298d-16db-481c-99c1-205df547a11b.html",
           "description": "(ANSA) - ROME, JUN 15 - Premier Giorgia Meloni on Monday welcomed the agreement reached between Washington and Tehran to end the Iran war. \"Last night, together with France, Germany, and the United Kingdom, we had already expressed our strong appreciation for the memorandum of understanding signed by the United States and Iran hours ago,\" Meloni said in a statement, referring to a joint declaration she signed with the leaders of the three other European powers. \"Heartfelt thanks go to all the mediators, and in particular to Qatar and Pakistan, who made this agreement possible. \"This is an oppo",
@@ -341,64 +323,56 @@
           "titleIt": "US-Iran deal is 'opportunity for peace that must be seized' says Meloni"
         },
         {
-          "title": "Brazil - based bizman nabbed with 6 . 10kg liquid cocaine hidden",
-          "link": "https://thesun.ng/brazil-based-bizman-nabbed-with-6-10kg-liquid-cocaine-hidden-in-shirts-towels/",
-          "source": "thesun.ng",
-          "pubDate": "2026-06-15T03:15:00Z",
+          "title": "Xenophobia row rocks Africa as fans toss support to Mexico over Bafana Bafana",
+          "link": "http://www.africanews.com/2026/06/12/xenophobia-row-rocks-africa-as-fans-toss-support-to-mexico-over-bafana-bafana/",
+          "description": "Africa’s traditional show of football solidarity changed across social media at the start of the 2026 FIFA World Cup, as a wave of fans across the continent openly backed Mexico over South Africa in their opening group match, reflecting deeper political tensions beyond sports.",
+          "pubDate": "Fri, 12 Jun 2026 13:10:23 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Brazil - based bizman nabbed with 6 . 10kg liquid cocaine hidden"
+          "titleIt": "Xenophobia row rocks Africa as fans toss support to Mexico over Bafana Bafana"
         },
         {
-          "title": "Cairo and Asmara Deepen Ties as Horn ...",
-          "link": "https://africa.com/cairo-and-asmara-deepen-ties-as-horn-tensions-sharpen/",
-          "source": "africa.com",
-          "pubDate": "2026-06-15T03:15:00Z",
+          "title": "Colosseum hosts 'most important exhibition on Troy ever held'",
+          "link": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/12/colosseum-hosts-most-important-exhibition-on-troy-ever-held_805e7b5f-2b3d-44ec-970b-ca0a8f58b410.html",
+          "description": "(ANSA) - ROME, JUN 12 - The Colosseum is hosting the most important exhibition on Troy ever held, organisers said Friday saying the event will trace the voyage of Trojan hero Aeneas from the ruins of the Greek-torched ancient city in Asia Minor to Italy where he laid the groundwork for the foundation of the Eternal City. The show opening Friday and running till October 18 will include 300 ancient artifacts telling the story of Aeneas's legendary journey, and much more. \"Troy and Rome. Myths, Legends, Stories of the Ancient Mediterranean\" is part of a bilateral agreement signed between the Ital",
+          "pubDate": "Fri, 12 Jun 2026 15:07:47 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Cairo and Asmara Deepen Ties as Horn ..."
+          "titleIt": "Colosseum hosts 'most important exhibition on Troy ever held'"
         },
         {
-          "title": "NDLEA uncovers cocaine in shirts , towels at Lagos airport",
-          "link": "https://punchng.com/ndlea-uncovers-cocaine-hidden-in-shirts-towels-at-lagos-airport/",
-          "source": "punchng.com",
-          "pubDate": "2026-06-15T02:15:00Z",
+          "title": "Colosseum hosts 'most important exhibition on Troy ever held'",
+          "link": "https://www.ansa.it/english/news/2026/06/12/colosseum-hosts-most-important-exhibition-on-troy-ever-held_913a96fb-7ecb-4a81-bbfa-61341581cbc5.html",
+          "description": "(ANSA) - ROME, JUN 12 - The Colosseum is hosting the most important exhibition on Troy ever held, organisers said Friday saying the event will trace the voyage of Trojan hero Aeneas from the ruins of the Greek-torched ancient city in Asia Minor to Italy where he laid the groundwork for the foundation of the Eternal City. The show opening Friday and running till October 18 will include 300 ancient artifacts telling the story of Aeneas's legendary journey, and much more. \"Troy and Rome. Myths, Legends, Stories of the Ancient Mediterranean\" is part of a bilateral agreement signed between the Ital",
+          "pubDate": "Fri, 12 Jun 2026 15:01:06 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "NDLEA uncovers cocaine in shirts , towels at Lagos airport"
+          "titleIt": "Colosseum hosts 'most important exhibition on Troy ever held'"
         },
         {
-          "title": "Ballot box in Horn of Africa : For whom and under what conditions ?",
-          "link": "https://www.dailysabah.com/opinion/op-ed/ballot-box-in-horn-of-africa-for-whom-and-under-what-conditions",
-          "source": "dailysabah.com",
-          "pubDate": "2026-06-14T21:45:00Z",
+          "title": "Fuel shock sparks electric bike boom in Kenya",
+          "link": "http://www.africanews.com/2026/06/12/fuel-shock-sparks-electric-bike-boom-in-kenya/",
+          "description": "Rising fuel prices linked to the conflict in the Middle East are accelerating Kenya’s shift to electric mobility. As petrol costs soar, thousands of riders are abandoning fuel-powered motorcycles for cheaper electric alternatives, driving record sales and reshaping urban transport.",
+          "pubDate": "Fri, 12 Jun 2026 11:59:24 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ballot box in Horn of Africa : For whom and under what conditions ?"
-        },
-        {
-          "title": "The African Continent is Seething with Activity from Radical Islamic Terrorist Organizations - A Snapshot",
-          "link": "https://ict.org.il/african-continent-seething-with-terrorism-snapshot/",
-          "source": "ict.org.il",
-          "pubDate": "2026-06-14T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The African Continent is Seething with Activity from Radical Islamic Terrorist Organizations - A Snapshot"
-        },
-        {
-          "title": "NDLEA Arrests Brazil - based Businessman With 6 . 1kg Cocaine Hidden In Shirts , Towels",
-          "link": "https://www.informationng.com/2026/06/ndlea-arrests-brazil-based-businessman-with-6-1kg-cocaine-hidden-in-shirts-towels.html",
-          "source": "informationng.com",
-          "pubDate": "2026-06-14T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "NDLEA Arrests Brazil - based Businessman With 6 . 1kg Cocaine Hidden In Shirts , Towels"
+          "titleIt": "Fuel shock sparks electric bike boom in Kenya"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Egitto: cinese Zhejiang Hongda firma investimento da 20 milioni di dollari nel Canale di Suez",
+          "link": "https://www.agenzianova.com/a/6a3096075b0b25.06797906/7500843/2026-06-15/egitto-cinese-zhejiang-hongda-firma-investimento-da-20-milioni-di-dollari-nel-canale-di-suez",
+          "description": "15 giu 20:44 - (Agenzia Nova) - L'azienda tessile cinese Zhejiang Hongda costruira' un impianto in Egitto con un investimento di venti milioni... (Cae)",
+          "pubDate": "2026-06-15T20:44:13+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: cinese Zhejiang Hongda firma investimento da 20 milioni di dollari nel Canale di Suez"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
