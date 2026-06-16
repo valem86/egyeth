@@ -1,11 +1,38 @@
 {
-  "generatedAt": "2026-06-16T00:17:16.288Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-06-16T18:23:08.494Z",
+  "feedsChecked": 7,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+          "link": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC reporter Max Matza is in Seattle, Washington, where 400 drones lit up the night sky on Monday to display the score of the Egypt v Belgium match.",
+          "pubDate": "Tue, 16 Jun 2026 16:20:04 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Drones create the first-ever Fifa scoreboard in Seattle sky"
+        },
+        {
+          "title": "Somalia: OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia",
+          "link": "https://allafrica.com/stories/202606160221.html",
+          "description": "[Shabelle] Jeddah -- The Organization of Islamic Cooperation (OIC) on Tuesday strongly condemned the opening of what it described as a \"Somaliland embassy\" in occupied Jerusalem, calling the move illegal and a clear violation of international law and the United Nations Charter.",
+          "pubDate": "Tue, 16 Jun 2026 11:14:37 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia"
+        },
+        {
+          "title": "Somaliland opens embassy in Jerusalem after historic Israeli recognition",
+          "link": "http://www.africanews.com/2026/06/16/somaliland-opens-embassy-in-jerusalem-after-historic-israeli-recognition/",
+          "description": "For Somaliland, the embassy opening represents a diplomatic victory and could strengthen its campaign for broader international recognition. For Israel, it marks the deepening of ties with a strategic partner in the Horn of Africa.",
+          "pubDate": "Tue, 16 Jun 2026 09:04:50 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Somaliland opens embassy in Jerusalem after historic Israeli recognition"
+        },
         {
           "title": "Sisi hosts Sheikh Mohamed, welcomes deal to end Iran war",
           "link": "http://www.africanews.com/2026/06/15/sisi-hosts-sheikh-mohamed-welcomes-deal-to-end-iran-war/",
@@ -38,6 +65,96 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Somaliland opens Jerusalem embassy after Israel recognition of its independence",
+          "link": "https://www.bbc.co.uk/news/articles/cj4gn4d54y0o",
+          "source": "bbc.co.uk",
+          "pubDate": "2026-06-16T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland opens Jerusalem embassy after Israel recognition of its independence"
+        },
+        {
+          "title": "Breakaway region opens first embassy in Israel",
+          "link": "http://www.nigeriasun.com/news/279126888/breakaway-region-opens-first-embassy-in-israel",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-06-16T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakaway region opens first embassy in Israel"
+        },
+        {
+          "title": "Breakaway region opens first embassy in Israel",
+          "link": "http://www.kenyastar.com/news/279126888/breakaway-region-opens-first-embassy-in-israel",
+          "source": "kenyastar.com",
+          "pubDate": "2026-06-16T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakaway region opens first embassy in Israel"
+        },
+        {
+          "title": "Breakaway region opens first embassy in Israel",
+          "link": "http://www.israelherald.com/news/279126888/breakaway-region-opens-first-embassy-in-israel",
+          "source": "israelherald.com",
+          "pubDate": "2026-06-16T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breakaway region opens first embassy in Israel"
+        },
+        {
+          "title": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence",
+          "link": "https://www.bbc.com/news/articles/cj4gn4d54y0o?at_medium=RSS&at_campaign=rss",
+          "description": "The move comes six months after Israel became the first country to recognise the breakaway East African state.",
+          "pubDate": "Tue, 16 Jun 2026 14:34:39 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence"
+        },
+        {
+          "title": "Arab League condemns opening of Somaliland diplomatic mission in occupied Jerusalem",
+          "link": "https://sana.sy/en/international/2323688/",
+          "source": "sana.sy",
+          "pubDate": "2026-06-16T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab League condemns opening of Somaliland diplomatic mission in occupied Jerusalem"
+        },
+        {
+          "title": "Somalia: OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia",
+          "link": "https://allafrica.com/stories/202606160221.html",
+          "description": "[Shabelle] Jeddah -- The Organization of Islamic Cooperation (OIC) on Tuesday strongly condemned the opening of what it described as a \"Somaliland embassy\" in occupied Jerusalem, calling the move illegal and a clear violation of international law and the United Nations Charter.",
+          "pubDate": "Tue, 16 Jun 2026 11:14:37 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia"
+        },
+        {
+          "title": "Somalia : Somaliland , Israel Sign Strategic Partnership As President Irro Meets Netanyahu",
+          "link": "https://allafrica.com/stories/202606160054.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-16T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland , Israel Sign Strategic Partnership As President Irro Meets Netanyahu"
+        },
+        {
+          "title": "Somaliland opens embassy in Jerusalem after historic Israeli recognition",
+          "link": "http://www.africanews.com/2026/06/16/somaliland-opens-embassy-in-jerusalem-after-historic-israeli-recognition/",
+          "description": "For Somaliland, the embassy opening represents a diplomatic victory and could strengthen its campaign for broader international recognition. For Israel, it marks the deepening of ties with a strategic partner in the Horn of Africa.",
+          "pubDate": "Tue, 16 Jun 2026 09:04:50 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Somaliland opens embassy in Jerusalem after historic Israeli recognition"
+        },
+        {
+          "title": "OIC condemns Somaliland embassy opening in Occupied Jerusalem",
+          "link": "https://sana.sy/en/international/2323628/",
+          "source": "sana.sy",
+          "pubDate": "2026-06-16T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "OIC condemns Somaliland embassy opening in Occupied Jerusalem"
+        },
         {
           "title": "Sisi hosts Sheikh Mohamed, welcomes deal to end Iran war",
           "link": "http://www.africanews.com/2026/06/15/sisi-hosts-sheikh-mohamed-welcomes-deal-to-end-iran-war/",
@@ -127,102 +244,21 @@
           "lang": "en",
           "description": "",
           "titleIt": "Breakaway regions leader makes first Israel visit"
-        },
-        {
-          "title": "Breakaway region leader makes first Israel visit",
-          "link": "http://www.middleeaststar.com/news/279123812/breakaway-region-leader-makes-first-israel-visit",
-          "source": "middleeaststar.com",
-          "pubDate": "2026-06-15T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Breakaway region leader makes first Israel visit"
-        },
-        {
-          "title": "Breakaway regions leader makes first Israel visit",
-          "link": "http://www.sierraleonetimes.com/news/279123792/breakaway-regions-leader-makes-first-israel-visit",
-          "source": "sierraleonetimes.com",
-          "pubDate": "2026-06-15T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Breakaway regions leader makes first Israel visit"
-        },
-        {
-          "title": "Kenya: Education Committee Probes Rising Cases of School Fires and Student Unrest",
-          "link": "https://allafrica.com/stories/202606150228.html",
-          "description": "[Capital FM] Nairobi -- National Assembly Departmental Committee on Education is set to embark on a comprehensive inquiry into the growing cases of school fires, destruction of property and student unrest reported in learning institutions across the country.",
-          "pubDate": "Mon, 15 Jun 2026 10:13:06 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Education Committee Probes Rising Cases of School Fires and Student Unrest"
-        },
-        {
-          "title": "Breakaway regions leader makes first Israel visit",
-          "link": "http://www.taiwansun.com/news/279123792/breakaway-regions-leader-makes-first-israel-visit",
-          "source": "taiwansun.com",
-          "pubDate": "2026-06-15T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Breakaway regions leader makes first Israel visit"
-        },
-        {
-          "title": "Somaliland president visits Jerusalem in defiance of Mogadishu",
-          "link": "https://www.africanews.com/2026/06/15/somaliland-president-visits-jerusalem-in-defiance-of-mogadishu/",
-          "source": "africanews.com",
-          "pubDate": "2026-06-15T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland president visits Jerusalem in defiance of Mogadishu"
-        },
-        {
-          "title": "ESR | Azerbaijan and the emerging alliance reshaping the Middle East",
-          "link": "http://www.enterstageright.com/archive/articles/0626/azerbaijan.html",
-          "source": "enterstageright.com",
-          "pubDate": "2026-06-15T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "ESR | Azerbaijan and the emerging alliance reshaping the Middle East"
-        },
-        {
-          "title": "Somalia : Somaliland President Makes  Historic  Visit to Israel",
-          "link": "https://allafrica.com/stories/202606150016.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-15T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland President Makes  Historic  Visit to Israel"
-        },
-        {
-          "title": "Somaliland president makes historic first state visit to Israel",
-          "link": "https://horseedmedia.net/somaliland-president-makes-historic-first-state-visit-to-israel/422851/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-06-14T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland president makes historic first state visit to Israel"
-        },
-        {
-          "title": "The African Continent is Seething with Activity from Radical Islamic Terrorist Organizations - A Snapshot",
-          "link": "https://ict.org.il/african-continent-seething-with-terrorism-snapshot/",
-          "source": "ict.org.il",
-          "pubDate": "2026-06-14T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The African Continent is Seething with Activity from Radical Islamic Terrorist Organizations - A Snapshot"
-        },
-        {
-          "title": "Somaliland President Abdullahi to visit Israel in historic first",
-          "link": "http://www.jpost.com/israel-news/article-899279",
-          "source": "jpost.com",
-          "pubDate": "2026-06-14T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland President Abdullahi to visit Israel in historic first"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Somalia: OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia",
+          "link": "https://allafrica.com/stories/202606160221.html",
+          "description": "[Shabelle] Jeddah -- The Organization of Islamic Cooperation (OIC) on Tuesday strongly condemned the opening of what it described as a \"Somaliland embassy\" in occupied Jerusalem, calling the move illegal and a clear violation of international law and the United Nations Charter.",
+          "pubDate": "Tue, 16 Jun 2026 11:14:37 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia"
+        },
         {
           "title": "Amorim new AC Milan coach say Portugal media",
           "link": "https://www.ansa.it/english/news/2026/06/15/amorim-new-ac-milan-coach-say-portugal-media_41d96ad7-ad16-4d63-81f4-7c734163197a.html",
@@ -240,15 +276,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Amorim new AC Milan coach say Portugal media"
-        },
-        {
-          "title": "Watch: What does the US-Iran deal to end war mean for Lebanon and Israel?",
-          "link": "https://www.bbc.com/news/videos/cg4wk2z6n74o?at_medium=RSS&at_campaign=rss",
-          "description": "It's not clear if the deal means the Israelis will pause their offensive in Lebanon, BBC international editor Jeremy Bowen reports.",
-          "pubDate": "Mon, 15 Jun 2026 13:50:39 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "Watch: What does the US-Iran deal to end war mean for Lebanon and Israel?"
         },
         {
           "title": "The Italy-France Science Days are launched to do science together",
@@ -321,58 +348,12 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "US-Iran deal is 'opportunity for peace that must be seized' says Meloni"
-        },
-        {
-          "title": "Xenophobia row rocks Africa as fans toss support to Mexico over Bafana Bafana",
-          "link": "http://www.africanews.com/2026/06/12/xenophobia-row-rocks-africa-as-fans-toss-support-to-mexico-over-bafana-bafana/",
-          "description": "Africa’s traditional show of football solidarity changed across social media at the start of the 2026 FIFA World Cup, as a wave of fans across the continent openly backed Mexico over South Africa in their opening group match, reflecting deeper political tensions beyond sports.",
-          "pubDate": "Fri, 12 Jun 2026 13:10:23 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Xenophobia row rocks Africa as fans toss support to Mexico over Bafana Bafana"
-        },
-        {
-          "title": "Colosseum hosts 'most important exhibition on Troy ever held'",
-          "link": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/12/colosseum-hosts-most-important-exhibition-on-troy-ever-held_805e7b5f-2b3d-44ec-970b-ca0a8f58b410.html",
-          "description": "(ANSA) - ROME, JUN 12 - The Colosseum is hosting the most important exhibition on Troy ever held, organisers said Friday saying the event will trace the voyage of Trojan hero Aeneas from the ruins of the Greek-torched ancient city in Asia Minor to Italy where he laid the groundwork for the foundation of the Eternal City. The show opening Friday and running till October 18 will include 300 ancient artifacts telling the story of Aeneas's legendary journey, and much more. \"Troy and Rome. Myths, Legends, Stories of the Ancient Mediterranean\" is part of a bilateral agreement signed between the Ital",
-          "pubDate": "Fri, 12 Jun 2026 15:07:47 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Colosseum hosts 'most important exhibition on Troy ever held'"
-        },
-        {
-          "title": "Colosseum hosts 'most important exhibition on Troy ever held'",
-          "link": "https://www.ansa.it/english/news/2026/06/12/colosseum-hosts-most-important-exhibition-on-troy-ever-held_913a96fb-7ecb-4a81-bbfa-61341581cbc5.html",
-          "description": "(ANSA) - ROME, JUN 12 - The Colosseum is hosting the most important exhibition on Troy ever held, organisers said Friday saying the event will trace the voyage of Trojan hero Aeneas from the ruins of the Greek-torched ancient city in Asia Minor to Italy where he laid the groundwork for the foundation of the Eternal City. The show opening Friday and running till October 18 will include 300 ancient artifacts telling the story of Aeneas's legendary journey, and much more. \"Troy and Rome. Myths, Legends, Stories of the Ancient Mediterranean\" is part of a bilateral agreement signed between the Ital",
-          "pubDate": "Fri, 12 Jun 2026 15:01:06 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Colosseum hosts 'most important exhibition on Troy ever held'"
-        },
-        {
-          "title": "Fuel shock sparks electric bike boom in Kenya",
-          "link": "http://www.africanews.com/2026/06/12/fuel-shock-sparks-electric-bike-boom-in-kenya/",
-          "description": "Rising fuel prices linked to the conflict in the Middle East are accelerating Kenya’s shift to electric mobility. As petrol costs soar, thousands of riders are abandoning fuel-powered motorcycles for cheaper electric alternatives, driving record sales and reshaping urban transport.",
-          "pubDate": "Fri, 12 Jun 2026 11:59:24 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Fuel shock sparks electric bike boom in Kenya"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Egitto: cinese Zhejiang Hongda firma investimento da 20 milioni di dollari nel Canale di Suez",
-          "link": "https://www.agenzianova.com/a/6a3096075b0b25.06797906/7500843/2026-06-15/egitto-cinese-zhejiang-hongda-firma-investimento-da-20-milioni-di-dollari-nel-canale-di-suez",
-          "description": "15 giu 20:44 - (Agenzia Nova) - L'azienda tessile cinese Zhejiang Hongda costruira' un impianto in Egitto con un investimento di venti milioni... (Cae)",
-          "pubDate": "2026-06-15T20:44:13+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: cinese Zhejiang Hongda firma investimento da 20 milioni di dollari nel Canale di Suez"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
