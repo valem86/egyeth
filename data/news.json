@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T18:23:08.494Z",
-  "feedsChecked": 7,
+  "generatedAt": "2026-06-17T12:35:02.611Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -16,15 +16,6 @@
           "titleIt": "Drones create the first-ever Fifa scoreboard in Seattle sky"
         },
         {
-          "title": "Somalia: OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia",
-          "link": "https://allafrica.com/stories/202606160221.html",
-          "description": "[Shabelle] Jeddah -- The Organization of Islamic Cooperation (OIC) on Tuesday strongly condemned the opening of what it described as a \"Somaliland embassy\" in occupied Jerusalem, calling the move illegal and a clear violation of international law and the United Nations Charter.",
-          "pubDate": "Tue, 16 Jun 2026 11:14:37 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia"
-        },
-        {
           "title": "Somaliland opens embassy in Jerusalem after historic Israeli recognition",
           "link": "http://www.africanews.com/2026/06/16/somaliland-opens-embassy-in-jerusalem-after-historic-israeli-recognition/",
           "description": "For Somaliland, the embassy opening represents a diplomatic victory and could strengthen its campaign for broader international recognition. For Israel, it marks the deepening of ties with a strategic partner in the Horn of Africa.",
@@ -41,24 +32,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Sisi hosts Sheikh Mohamed, welcomes deal to end Iran war"
-        },
-        {
-          "title": "Somalia’s President Meets with a Delegation of Italian Business Leaders",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/06/15/somalias-president-meets-with-a-delegation-of-italian-business-leaders_b1bfc672-d498-4144-a454-a1a7f1f94fcc.html",
-          "description": "(ANSA) - NAIROBI, 15 GIU - The President of the Federal Republic of Somalia, Hassan Sheikh Mohamud, received a delegation of entrepreneurs and investors from Italy at the presidential palace; they had arrived in Mogadishu to participate in a conference dedicated to trade cooperation and investment between Somalia and Italy. The meeting, which was also attended by the Italian Ambassador to Somalia, Pier Mario Daccò Coppi, focused on strengthening economic relations and promoting trade cooperation between the two countries. The Italian delegation included executives from commercial firms, major ",
-          "pubDate": "Mon, 15 Jun 2026 10:33:31 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Somalia’s President Meets with a Delegation of Italian Business Leaders"
-        },
-        {
-          "title": "FIFA to pay Somali referee barred by US despite failure to officiate",
-          "link": "http://www.africanews.com/2026/06/14/fifa-to-pay-somali-referee-barred-by-us-despite-failure-to-officiate/",
-          "description": "Omar Artan was deported by US immigration official after an 11-hour interrogation in Miami",
-          "pubDate": "Sun, 14 Jun 2026 14:32:54 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "FIFA to pay Somali referee barred by US despite failure to officiate"
         }
       ]
     },
@@ -66,40 +39,31 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Somaliland opens Jerusalem embassy after Israel recognition of its independence",
-          "link": "https://www.bbc.co.uk/news/articles/cj4gn4d54y0o",
-          "source": "bbc.co.uk",
-          "pubDate": "2026-06-16T17:30:00Z",
+          "title": "Kenya: Beyond the Headlines, Does Kenya Have the Political Will to End Femicides?",
+          "link": "https://allafrica.com/stories/202606170032.html",
+          "description": "[African Arguments] On June 1st, as Kenya marked Madaraka (self-governance) Day, a different kind of freedom match took place on the streets of Nairobi. Women's rights organizations, civil society groups, survivors, and concerned citizens gather to demand action against the rising cases of femicide and gender-based violence in Kenya. Their message was simple and urgent. Women should not have to fight for the right to exist.",
+          "pubDate": "Wed, 17 Jun 2026 07:23:42 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland opens Jerusalem embassy after Israel recognition of its independence"
+          "titleIt": "Kenya: Beyond the Headlines, Does Kenya Have the Political Will to End Femicides?"
         },
         {
-          "title": "Breakaway region opens first embassy in Israel",
-          "link": "http://www.nigeriasun.com/news/279126888/breakaway-region-opens-first-embassy-in-israel",
-          "source": "nigeriasun.com",
-          "pubDate": "2026-06-16T17:00:00Z",
+          "title": "Africa: 'The Challenge Is No Longer Identifying Solutions. It Is Scaling Them' #OOC11",
+          "link": "https://allafrica.com/stories/202606170001.html",
+          "description": "[allAfrica] Mombasa, Kenya -- As Africa hosts the Our Ocean Conference (OOC11) for the first time, The Nature Conservancy (TNC) is spotlighting its deep partnership with African governments and coastal communities to translate ocean commitments into tangible, on-the-ground impact. The world has committed to protecting 30% of the ocean by 2030, but the real test is whether those promises are being turned into action. Attention is turning to what meaningful progress looks like on paper and in practice.",
+          "pubDate": "Wed, 17 Jun 2026 06:43:30 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Breakaway region opens first embassy in Israel"
+          "titleIt": "Africa: 'The Challenge Is No Longer Identifying Solutions. It Is Scaling Them' #OOC11"
         },
         {
-          "title": "Breakaway region opens first embassy in Israel",
-          "link": "http://www.kenyastar.com/news/279126888/breakaway-region-opens-first-embassy-in-israel",
-          "source": "kenyastar.com",
-          "pubDate": "2026-06-16T17:00:00Z",
+          "title": "G7 Turns spotlight on Middle East as Trump unveils Iran deal",
+          "link": "http://www.africanews.com/2026/06/16/g7-turns-spotlight-on-middle-east-as-trump-unveils-iran-deal/",
+          "description": "G7 leaders and invited partner nations gathered in Evian-les-Bains as attention shifted from Ukraine to the Middle East following Donald Trump’s announcement of a tentative deal with Iran, with Gulf leaders joining talks on regional security and global economic risks.",
+          "pubDate": "Tue, 16 Jun 2026 18:34:40 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Breakaway region opens first embassy in Israel"
-        },
-        {
-          "title": "Breakaway region opens first embassy in Israel",
-          "link": "http://www.israelherald.com/news/279126888/breakaway-region-opens-first-embassy-in-israel",
-          "source": "israelherald.com",
-          "pubDate": "2026-06-16T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Breakaway region opens first embassy in Israel"
+          "titleIt": "G7 Turns spotlight on Middle East as Trump unveils Iran deal"
         },
         {
           "title": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence",
@@ -111,33 +75,6 @@
           "titleIt": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence"
         },
         {
-          "title": "Arab League condemns opening of Somaliland diplomatic mission in occupied Jerusalem",
-          "link": "https://sana.sy/en/international/2323688/",
-          "source": "sana.sy",
-          "pubDate": "2026-06-16T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab League condemns opening of Somaliland diplomatic mission in occupied Jerusalem"
-        },
-        {
-          "title": "Somalia: OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia",
-          "link": "https://allafrica.com/stories/202606160221.html",
-          "description": "[Shabelle] Jeddah -- The Organization of Islamic Cooperation (OIC) on Tuesday strongly condemned the opening of what it described as a \"Somaliland embassy\" in occupied Jerusalem, calling the move illegal and a clear violation of international law and the United Nations Charter.",
-          "pubDate": "Tue, 16 Jun 2026 11:14:37 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia"
-        },
-        {
-          "title": "Somalia : Somaliland , Israel Sign Strategic Partnership As President Irro Meets Netanyahu",
-          "link": "https://allafrica.com/stories/202606160054.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-16T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland , Israel Sign Strategic Partnership As President Irro Meets Netanyahu"
-        },
-        {
           "title": "Somaliland opens embassy in Jerusalem after historic Israeli recognition",
           "link": "http://www.africanews.com/2026/06/16/somaliland-opens-embassy-in-jerusalem-after-historic-israeli-recognition/",
           "description": "For Somaliland, the embassy opening represents a diplomatic victory and could strengthen its campaign for broader international recognition. For Israel, it marks the deepening of ties with a strategic partner in the Horn of Africa.",
@@ -147,15 +84,6 @@
           "titleIt": "Somaliland opens embassy in Jerusalem after historic Israeli recognition"
         },
         {
-          "title": "OIC condemns Somaliland embassy opening in Occupied Jerusalem",
-          "link": "https://sana.sy/en/international/2323628/",
-          "source": "sana.sy",
-          "pubDate": "2026-06-16T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "OIC condemns Somaliland embassy opening in Occupied Jerusalem"
-        },
-        {
           "title": "Sisi hosts Sheikh Mohamed, welcomes deal to end Iran war",
           "link": "http://www.africanews.com/2026/06/15/sisi-hosts-sheikh-mohamed-welcomes-deal-to-end-iran-war/",
           "description": "Egyptian President Abdel Fattah El-Sisi and UAE President Sheikh Mohamed bin Zayed met in Cairo to strengthen strategic ties and discuss regional security. The leaders welcomed the end of the Iran war and the reopening of the Strait of Hormuz while calling for greater Arab coordination.",
@@ -163,87 +91,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Sisi hosts Sheikh Mohamed, welcomes deal to end Iran war"
-        },
-        {
-          "title": "Somalia is the dark horse in US defense and economic strategy",
-          "link": "https://www.atlanticcouncil.org/blogs/africasource/somalia-is-the-dark-horse-in-us-defense-and-economic-strategy/",
-          "source": "atlanticcouncil.org",
-          "pubDate": "2026-06-15T19:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia is the dark horse in US defense and economic strategy"
-        },
-        {
-          "title": "Saar Confirms Secret Meeting With President Of Somaliland Prior To Formal Establishment Of Relations",
-          "link": "https://www.i24news.tv/en/news/israel/diplomacy/artc-sa-ar-confirms-secret-meeting-with-president-of-somaliland-prior-to-formal-establishment-of-relations",
-          "source": "i24news.tv",
-          "pubDate": "2026-06-15T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saar Confirms Secret Meeting With President Of Somaliland Prior To Formal Establishment Of Relations"
-        },
-        {
-          "title": "From recognition to partnership : Somaliland president plants olive tree in the Grove of Nations in Jerusalem",
-          "link": "https://www.clevelandjewishnews.com/jns/from-recognition-to-partnership-somaliland-president-plants-olive-tree-in-the-grove-of-nations-in/article_ee3bab66-acfb-58b7-af42-d8e045674850.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-06-15T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "From recognition to partnership : Somaliland president plants olive tree in the Grove of Nations in Jerusalem"
-        },
-        {
-          "title": "Breakaway regions leader makes first Israel visit",
-          "link": "http://www.beijingbulletin.com/news/279123792/breakaway-regions-leader-makes-first-israel-visit",
-          "source": "beijingbulletin.com",
-          "pubDate": "2026-06-15T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Breakaway regions leader makes first Israel visit"
-        },
-        {
-          "title": "Israel to build military base in Somaliland Berbera Airport",
-          "link": "https://www.albawaba.com/news/israel-build-military-base-somalilands-1630307",
-          "source": "albawaba.com",
-          "pubDate": "2026-06-15T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel to build military base in Somaliland Berbera Airport"
-        },
-        {
-          "title": "Breakaway region leader makes first Israel visit",
-          "link": "http://www.israelherald.com/news/279123812/breakaway-region-leader-makes-first-israel-visit",
-          "source": "israelherald.com",
-          "pubDate": "2026-06-15T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Breakaway region leader makes first Israel visit"
-        },
-        {
-          "title": "Breakaway regions leader makes first Israel visit",
-          "link": "http://www.shanghainews.net/news/279123792/breakaway-regions-leader-makes-first-israel-visit",
-          "source": "shanghainews.net",
-          "pubDate": "2026-06-15T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Breakaway regions leader makes first Israel visit"
-        },
-        {
-          "title": "Breakaway regions leader makes first Israel visit",
-          "link": "http://www.israelherald.com/news/279123792/breakaway-regions-leader-makes-first-israel-visit",
-          "source": "israelherald.com",
-          "pubDate": "2026-06-15T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Breakaway regions leader makes first Israel visit"
-        },
-        {
-          "title": "Breakaway regions leader makes first Israel visit",
-          "link": "http://www.middleeaststar.com/news/279123792/breakaway-regions-leader-makes-first-israel-visit",
-          "source": "middleeaststar.com",
-          "pubDate": "2026-06-15T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Breakaway regions leader makes first Israel visit"
         }
       ]
     },
@@ -251,13 +98,31 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Somalia: OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia",
-          "link": "https://allafrica.com/stories/202606160221.html",
-          "description": "[Shabelle] Jeddah -- The Organization of Islamic Cooperation (OIC) on Tuesday strongly condemned the opening of what it described as a \"Somaliland embassy\" in occupied Jerusalem, calling the move illegal and a clear violation of international law and the United Nations Charter.",
-          "pubDate": "Tue, 16 Jun 2026 11:14:37 GMT",
-          "source": "AllAfrica",
+          "title": "Remigration is not a 'Christian response' says Pope Leo XIV",
+          "link": "https://www.ansa.it/english/news/vatican/2026/06/17/remigration-is-not-a-christian-response-says-pope-leo-xiv_cd414bb2-30d8-40b5-80e2-aae485ac6835.html",
+          "description": "(ANSA) - ROME, JUN 17 - Pope Leo XIV has said that remigration, a policy being proposed by several far-right parties, including former General Roberto Vannacci's new National Future group in Italy, is not a concept that complies with Christian principles. \"Many times we do not recognize the reasons why these people had to leave their countries,\" the American pontiff told reporters outside the papal residence in Castel Gandolf on Tuesday in relation to remigration. \"So many reasons: violence, war, conflicts. And so simply saying, 'Let's send them away, so we can wash our hands of the problem' d",
+          "pubDate": "Wed, 17 Jun 2026 09:58:26 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "titleIt": "Somalia: OIC Condemns Opening of Somaliland Mission in Jerusalem, Reaffirms Support for Somalia"
+          "titleIt": "Remigration is not a 'Christian response' says Pope Leo XIV"
+        },
+        {
+          "title": "Remigration is not a 'Christian response' says Pope Leo XIV",
+          "link": "https://www.ansa.it/english/news/2026/06/17/remigration-is-not-a-christian-response-says-pope-leo-xiv_27e5e0a2-2b33-45b7-bcc0-732279f63fda.html",
+          "description": "(ANSA) - ROME, JUN 17 - Pope Leo XIV has said that remigration, a policy being proposed by several far-right parties, including former General Roberto Vannacci's new National Future group in Italy, is not a concept that complies with Christian principles. \"Many times we do not recognize the reasons why these people had to leave their countries,\" the American pontiff told reporters outside the papal residence in Castel Gandolf on Tuesday in relation to remigration. \"So many reasons: violence, war, conflicts. And so simply saying, 'Let's send them away, so we can wash our hands of the problem' d",
+          "pubDate": "Wed, 17 Jun 2026 09:57:31 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Remigration is not a 'Christian response' says Pope Leo XIV"
+        },
+        {
+          "title": "G7 Turns spotlight on Middle East as Trump unveils Iran deal",
+          "link": "http://www.africanews.com/2026/06/16/g7-turns-spotlight-on-middle-east-as-trump-unveils-iran-deal/",
+          "description": "G7 leaders and invited partner nations gathered in Evian-les-Bains as attention shifted from Ukraine to the Middle East following Donald Trump’s announcement of a tentative deal with Iran, with Gulf leaders joining talks on regional security and global economic risks.",
+          "pubDate": "Tue, 16 Jun 2026 18:34:40 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "G7 Turns spotlight on Middle East as Trump unveils Iran deal"
         },
         {
           "title": "Amorim new AC Milan coach say Portugal media",
@@ -285,69 +150,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The Italy-France Science Days are launched to do science together"
-        },
-        {
-          "title": "Israel must stop bombing Beirut says Tajani",
-          "link": "https://www.ansa.it/english/news/politics/2026/06/15/israel-must-stop-bombing-beirut-says-tajani_2caa9fb5-0b0f-4fef-aaea-63287771d8da.html",
-          "description": "(ANSA) - LUXEMBOURG, JUN 15 - Deputy Premier and Foreign Minister Antonio Tajani said Monday that Israel must stop bombing Beirut after the United States and Iran reached an agreement to end the war in the Middle East. \"We must ensure that the fighting in Lebanon stops too, that Israel no longer bombs Beirut,\" Tajani said on the sidelines of an EU foreign affairs council in Luxembourg. In her statement welcoming the deal reached between Washington and Tehran, Premier Giorgia Meloni said that \"hostilities must also cease in Lebanon\". Meloni said that \"Italy will continue working to support Leba",
-          "pubDate": "Mon, 15 Jun 2026 11:36:24 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Israel must stop bombing Beirut says Tajani"
-        },
-        {
-          "title": "Hostilities must stop in Lebanon too says Meloni",
-          "link": "https://www.ansa.it/english/news/2026/06/15/hostilities-must-stop-in-lebanon-too-says-meloni_6472d45a-43cd-43aa-b221-f63ff2308edb.html",
-          "description": "(ANSA) - ROME, JUN 15 - In a statement welcoming the deal reached between Washington and Tehran to stop the Iran war, Premier Giorgia Meloni said Monday that \"hostilities must also cease in Lebanon\". Meloni said that \"Italy will continue working to support Lebanese sovereignty\". (see related). (ANSA). Read article...",
-          "pubDate": "Mon, 15 Jun 2026 11:34:57 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Hostilities must stop in Lebanon too says Meloni"
-        },
-        {
-          "title": "Israel must stop bombing Beirut says Tajani",
-          "link": "https://www.ansa.it/english/news/2026/06/15/israel-must-stop-bombing-beirut-says-tajani_fccef27b-807a-4848-a2ab-afcb3c75d799.html",
-          "description": "(ANSA) - LUXEMBOURG, JUN 15 - Deputy Premier and Foreign Minister Antonio Tajani said Monday that Israel must stop bombing Beirut after the United States and Iran reached an agreement to end the war in the Middle East. \"We must ensure that the fighting in Lebanon stops too, that Israel no longer bombs Beirut,\" Tajani said on the sidelines of an EU foreign affairs council in Luxembourg. In her statement welcoming the deal reached between Washington and Tehran, Premier Giorgia Meloni said that \"hostilities must also cease in Lebanon\". Meloni said that \"Italy will continue working to support Leba",
-          "pubDate": "Mon, 15 Jun 2026 11:34:50 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Israel must stop bombing Beirut says Tajani"
-        },
-        {
-          "title": "US-Iran deal is 'opportunity for peace that must be seized' says Meloni",
-          "link": "https://www.ansa.it/english/news/politics/2026/06/15/us-iran-deal-is-opportunity-for-peace-that-must-be-seized-says-meloni_5f50298d-16db-481c-99c1-205df547a11b.html",
-          "description": "(ANSA) - ROME, JUN 15 - Premier Giorgia Meloni on Monday welcomed the agreement reached between Washington and Tehran to end the Iran war. \"Last night, together with France, Germany, and the United Kingdom, we had already expressed our strong appreciation for the memorandum of understanding signed by the United States and Iran hours ago,\" Meloni said in a statement, referring to a joint declaration she signed with the leaders of the three other European powers. \"Heartfelt thanks go to all the mediators, and in particular to Qatar and Pakistan, who made this agreement possible. \"This is an oppo",
-          "pubDate": "Mon, 15 Jun 2026 10:11:57 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "US-Iran deal is 'opportunity for peace that must be seized' says Meloni"
-        },
-        {
-          "title": "Italy willing to take part in Strait of Hormuz naval mission",
-          "link": "https://www.ansa.it/english/news/politics/2026/06/15/italy-willing-to-take-part-in-strait-of-hormuz-naval-mission_582c9ea6-7f5d-42b2-9161-76425903be08.html",
-          "description": "(ANSA) - ROME, JUN 15 - Italy is willing to take part in an international naval mission for the reopening of the Strait of Hormuz after Washington and Tehran reached an agreement to end the Iran war, Premier Giorgia Meloni said on Monday. \"The principles are clear: Iran cannot acquire a nuclear weapon and freedom of navigation must be guaranteed,\" Meloni said in a statement. \"We stand ready, together with our partners and without prejudice to the necessary authorisation from Parliament, to contribute to an international naval presence to support the full reopening of the Strait of Hormuz\". (se",
-          "pubDate": "Mon, 15 Jun 2026 10:09:45 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italy willing to take part in Strait of Hormuz naval mission"
-        },
-        {
-          "title": "Italy willing to take part in Strait of Hormuz naval mission",
-          "link": "https://www.ansa.it/english/news/2026/06/15/italy-willing-to-take-part-in-strait-of-hormuz-naval-mission_7aa2ca2c-41cf-436b-b18c-8a5d2b1a9696.html",
-          "description": "(ANSA) - ROME, JUN 15 - Italy is willing to take part in an international naval mission for the reopening of the Strait of Hormuz after Washington and Tehran reached an agreement to end the Iran war, Premier Giorgia Meloni said on Monday. \"The principles are clear: Iran cannot acquire a nuclear weapon and freedom of navigation must be guaranteed,\" Meloni said in a statement. \"We stand ready, together with our partners and without prejudice to the necessary authorisation from Parliament, to contribute to an international naval presence to support the full reopening of the Strait of Hormuz\". (se",
-          "pubDate": "Mon, 15 Jun 2026 10:08:56 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italy willing to take part in Strait of Hormuz naval mission"
-        },
-        {
-          "title": "US-Iran deal is 'opportunity for peace that must be seized' says Meloni",
-          "link": "https://www.ansa.it/english/news/2026/06/15/us-iran-deal-is-opportunity-for-peace-that-must-be-seized-says-meloni_b64e63ee-5d7c-4be8-bf85-f89bf4ad30ae.html",
-          "description": "(ANSA) - ROME, JUN 15 - Premier Giorgia Meloni on Monday welcomed the agreement reached between Washington and Tehran to end the Iran war. \"Last night, together with France, Germany, and the United Kingdom, we had already expressed our strong appreciation for the memorandum of understanding signed by the United States and Iran hours ago,\" Meloni said in a statement, referring to a joint declaration she signed with the leaders of the three other European powers. \"Heartfelt thanks go to all the mediators, and in particular to Qatar and Pakistan, who made this agreement possible. \"This is an oppo",
-          "pubDate": "Mon, 15 Jun 2026 09:53:13 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "US-Iran deal is 'opportunity for peace that must be seized' says Meloni"
         }
       ]
     },
