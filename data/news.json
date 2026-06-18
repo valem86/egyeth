@@ -1,29 +1,11 @@
 {
-  "generatedAt": "2026-06-17T21:34:00.349Z",
+  "generatedAt": "2026-06-18T12:04:32.274Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: Somaliland Leader Meets Israeli Defence Minister As Both Sides Signal Deeper Security Ties",
-          "link": "https://allafrica.com/stories/202606170549.html",
-          "description": "[Shabelle] Jerusalem -- Israeli Defence Minister Israel Katz said on Tuesday that Israel and Somaliland had cooperated for years on a series of undisclosed operations, as he hosted Somaliland President Abdirahman Mohamed Abdullahi Irro for talks focused on expanding security cooperation.",
-          "pubDate": "Wed, 17 Jun 2026 16:01:43 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somaliland Leader Meets Israeli Defence Minister As Both Sides Signal Deeper Security Ties"
-        },
-        {
-          "title": "Somalia: Somalia, Egypt Hold Aid Talks in Mogadishu",
-          "link": "https://allafrica.com/stories/202606170548.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's disaster management chief met Wednesday with a senior Egyptian official in Mogadishu to strengthen humanitarian cooperation.",
-          "pubDate": "Wed, 17 Jun 2026 16:00:57 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia, Egypt Hold Aid Talks in Mogadishu"
-        },
         {
           "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
           "link": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&at_campaign=rss",
@@ -32,30 +14,30 @@
           "source": "BBC World",
           "lang": "en",
           "titleIt": "Drones create the first-ever Fifa scoreboard in Seattle sky"
-        },
-        {
-          "title": "Somaliland opens embassy in Jerusalem after historic Israeli recognition",
-          "link": "http://www.africanews.com/2026/06/16/somaliland-opens-embassy-in-jerusalem-after-historic-israeli-recognition/",
-          "description": "For Somaliland, the embassy opening represents a diplomatic victory and could strengthen its campaign for broader international recognition. For Israel, it marks the deepening of ties with a strategic partner in the Horn of Africa.",
-          "pubDate": "Tue, 16 Jun 2026 09:04:50 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Somaliland opens embassy in Jerusalem after historic Israeli recognition"
-        },
-        {
-          "title": "Sisi hosts Sheikh Mohamed, welcomes deal to end Iran war",
-          "link": "http://www.africanews.com/2026/06/15/sisi-hosts-sheikh-mohamed-welcomes-deal-to-end-iran-war/",
-          "description": "Egyptian President Abdel Fattah El-Sisi and UAE President Sheikh Mohamed bin Zayed met in Cairo to strengthen strategic ties and discuss regional security. The leaders welcomed the end of the Iran war and the reopening of the Strait of Hormuz while calling for greater Arab coordination.",
-          "pubDate": "Mon, 15 Jun 2026 20:46:12 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Sisi hosts Sheikh Mohamed, welcomes deal to end Iran war"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Ethiopia: Ethiopia Consolidates Continental Leadership in Electric Vehicle Infrastructure",
+          "link": "https://allafrica.com/stories/202606180152.html",
+          "description": "[ENA] Addis Ababa -- Ethiopia is strengthening its position as Africa's leading adopter of electric vehicles by expanding reliable and resilient charging infrastructure across the country, State Minister of Transport and Logistics Bareo Hassen said.",
+          "pubDate": "Thu, 18 Jun 2026 10:44:12 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Consolidates Continental Leadership in Electric Vehicle Infrastructure"
+        },
+        {
+          "title": "Africa: Mombasa Declaration Unites 15 Countries in Fight Against Illegal Fishing",
+          "link": "https://allafrica.com/stories/202606180003.html",
+          "description": "[allAfrica] Mombasa, Kenya -- As illegal, unreported and unregulated (IUU) fishing practices continue to deplete fish populations as well as contribute to human rights abuses at sea, the demand for transparency within the global fishing industry is growing. An estimated one in five fish consumed globally is linked to illegal fishing, a practice often associated with forced labour, human trafficking and environmental destruction. It is estimated that more than 120,000 fishers are currently trapped in situations of modern slavery",
+          "pubDate": "Thu, 18 Jun 2026 06:52:24 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Mombasa Declaration Unites 15 Countries in Fight Against Illegal Fishing"
+        },
         {
           "title": "Tajani says Araghchi assured him of safe departure of Grimaldi ship",
           "link": "https://www.ansa.it/english/news/world/2026/06/17/tajani-says-araghchi-assured-him-of-safe-departure-of-grimaldi-ship_560b1afd-f529-48f1-8a7e-12c7973a41ff.html",
@@ -75,24 +57,6 @@
           "titleIt": "Tajani says Araghchi assured him of safe departure of Grimaldi ship"
         },
         {
-          "title": "Somalia: Somaliland Leader Meets Israeli Defence Minister As Both Sides Signal Deeper Security Ties",
-          "link": "https://allafrica.com/stories/202606170549.html",
-          "description": "[Shabelle] Jerusalem -- Israeli Defence Minister Israel Katz said on Tuesday that Israel and Somaliland had cooperated for years on a series of undisclosed operations, as he hosted Somaliland President Abdirahman Mohamed Abdullahi Irro for talks focused on expanding security cooperation.",
-          "pubDate": "Wed, 17 Jun 2026 16:01:43 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somaliland Leader Meets Israeli Defence Minister As Both Sides Signal Deeper Security Ties"
-        },
-        {
-          "title": "Africa: 'The Challenge Is No Longer Identifying Solutions. It Is Scaling Them' #OOC11",
-          "link": "https://allafrica.com/stories/202606170001.html",
-          "description": "[allAfrica] Mombasa, Kenya -- As Africa hosts the Our Ocean Conference (OOC11) for the first time, The Nature Conservancy (TNC) is spotlighting its deep partnership with African governments and coastal communities to translate ocean commitments into tangible, on-the-ground impact. The world has committed to protecting 30% of the ocean by 2030, but the real test is whether those promises are being turned into action. Attention is turning to what meaningful progress looks like on paper and in practice.",
-          "pubDate": "Wed, 17 Jun 2026 06:43:30 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: 'The Challenge Is No Longer Identifying Solutions. It Is Scaling Them' #OOC11"
-        },
-        {
           "title": "G7 Turns spotlight on Middle East as Trump unveils Iran deal",
           "link": "http://www.africanews.com/2026/06/16/g7-turns-spotlight-on-middle-east-as-trump-unveils-iran-deal/",
           "description": "G7 leaders and invited partner nations gathered in Evian-les-Bains as attention shifted from Ukraine to the Middle East following Donald Trump’s announcement of a tentative deal with Iran, with Gulf leaders joining talks on regional security and global economic risks.",
@@ -100,30 +64,120 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "G7 Turns spotlight on Middle East as Trump unveils Iran deal"
-        },
-        {
-          "title": "Somaliland opens embassy in Jerusalem after historic Israeli recognition",
-          "link": "http://www.africanews.com/2026/06/16/somaliland-opens-embassy-in-jerusalem-after-historic-israeli-recognition/",
-          "description": "For Somaliland, the embassy opening represents a diplomatic victory and could strengthen its campaign for broader international recognition. For Israel, it marks the deepening of ties with a strategic partner in the Horn of Africa.",
-          "pubDate": "Tue, 16 Jun 2026 09:04:50 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Somaliland opens embassy in Jerusalem after historic Israeli recognition"
-        },
-        {
-          "title": "Sisi hosts Sheikh Mohamed, welcomes deal to end Iran war",
-          "link": "http://www.africanews.com/2026/06/15/sisi-hosts-sheikh-mohamed-welcomes-deal-to-end-iran-war/",
-          "description": "Egyptian President Abdel Fattah El-Sisi and UAE President Sheikh Mohamed bin Zayed met in Cairo to strengthen strategic ties and discuss regional security. The leaders welcomed the end of the Iran war and the reopening of the Strait of Hormuz while calling for greater Arab coordination.",
-          "pubDate": "Mon, 15 Jun 2026 20:46:12 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Sisi hosts Sheikh Mohamed, welcomes deal to end Iran war"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ethiopia: Ethiopia Consolidates Continental Leadership in Electric Vehicle Infrastructure",
+          "link": "https://allafrica.com/stories/202606180152.html",
+          "description": "[ENA] Addis Ababa -- Ethiopia is strengthening its position as Africa's leading adopter of electric vehicles by expanding reliable and resilient charging infrastructure across the country, State Minister of Transport and Logistics Bareo Hassen said.",
+          "pubDate": "Thu, 18 Jun 2026 10:44:12 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Consolidates Continental Leadership in Electric Vehicle Infrastructure"
+        },
+        {
+          "title": "Iran peace welcome , but 2 . 5 out of 3 biggest crises of the world remain to be resolved",
+          "link": "https://countercurrents.org/2026/06/iran-peace-welcome-but-2-5-out-of-3-biggest-crises-of-the-world-remain-to-be-resolved/",
+          "source": "countercurrents.org",
+          "pubDate": "2026-06-18T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran peace welcome , but 2 . 5 out of 3 biggest crises of the world remain to be resolved"
+        },
+        {
+          "title": "Africa : Will Global Turmoil Push Africa Leaders to Prioritise Agriculture ?",
+          "link": "https://allafrica.com/stories/202606180034.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-18T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Will Global Turmoil Push Africa Leaders to Prioritise Agriculture ?"
+        },
+        {
+          "title": "Extreme Weather , Climate Events Hit Millions in Africa",
+          "link": "https://www.miragenews.com/extreme-weather-climate-events-hit-millions-in-1694821/",
+          "source": "miragenews.com",
+          "pubDate": "2026-06-18T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Extreme Weather , Climate Events Hit Millions in Africa"
+        },
+        {
+          "title": "Under Mission 300 , A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa",
+          "link": "https://www.maravipost.com/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa/",
+          "source": "maravipost.com",
+          "pubDate": "2026-06-18T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Under Mission 300 , A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa"
+        },
+        {
+          "title": "Afro - Cypriots : The hidden history of Cyprus Black community",
+          "link": "https://en.philenews.com/local/afro-cypriots-hidden-history-cyprus-black-community/",
+          "source": "en.philenews.com",
+          "pubDate": "2026-06-18T03:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Afro - Cypriots : The hidden history of Cyprus Black community"
+        },
+        {
+          "title": "Under Mission 300 , A New Way of Doing ...",
+          "link": "https://africa.com/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa/",
+          "source": "africa.com",
+          "pubDate": "2026-06-18T03:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Under Mission 300 , A New Way of Doing ..."
+        },
+        {
+          "title": "Dangerous places in Africa - The Zimbabwe Independent",
+          "link": "https://www.theindependent.co.zw/lifestyle-amp-arts/article/3450/dangerous-places-in-africa",
+          "source": "theindependent.co.zw",
+          "pubDate": "2026-06-18T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dangerous places in Africa - The Zimbabwe Independent"
+        },
+        {
+          "title": "Under Mission 300 , A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa",
+          "link": "https://www.newsghana.com.gh/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa/",
+          "source": "newsghana.com.gh",
+          "pubDate": "2026-06-17T23:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Under Mission 300 , A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa"
+        },
+        {
+          "title": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity",
+          "link": "https://larouchepub.com/other/2026/5324-ethiopia_the_uncolonized_indep.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-06-17T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity"
+        },
+        {
+          "title": "Q & A : No election readiness despite $6m funding – Mohandis",
+          "link": "https://www.radiotamazuj.org/en/news/article/qa-no-election-readiness-despite-6m-funding-mohandis",
+          "source": "radiotamazuj.org",
+          "pubDate": "2026-06-17T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Q & A : No election readiness despite $6m funding – Mohandis"
+        },
+        {
+          "title": "Under Mission 300 , A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa",
+          "link": "https://www.worldbank.org/en/news/press-release/2026/06/16/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa",
+          "source": "worldbank.org",
+          "pubDate": "2026-06-17T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Under Mission 300 , A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa"
+        },
         {
           "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
           "link": "http://www.idahostatejournal.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_c980aa94-a108-54fb-9ffa-e490dbc13918.html",
@@ -195,484 +249,24 @@
           "lang": "en",
           "description": "",
           "titleIt": "President Appoints Five New Ambassadors - News - Rádio RSI English"
-        },
-        {
-          "title": "Italy to reopen Tehran embassy on Friday says Tajani",
-          "link": "https://www.ansa.it/english/news/politics/2026/06/17/italy-to-reopen-tehran-embassy-on-friday-says-tajani_f480b8ed-7312-41af-8f51-9e45f09d8a31.html",
-          "description": "(ANSA) - ROME, JUN 17 - Deputy Premier and Foreign Minister Antonio Tajani told a question time session in parliament on Wednesday that Italy will reopen its embassy in Tehran on Friday after Iran and the United States reached an agreement to end the war in the Middle East. Premier Giorgia Meloni's government has already said Italy is willing to take part in an international naval mission for the reopening of the Strait of Hormuz. (ANSA). Read article...",
-          "pubDate": "Wed, 17 Jun 2026 15:30:32 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italy to reopen Tehran embassy on Friday says Tajani"
-        },
-        {
-          "title": "Italy to reopen Tehran embassy on Friday says Tajani",
-          "link": "https://www.ansa.it/english/news/2026/06/17/italy-to-reopen-tehran-embassy-on-friday-says-tajani_31fd4260-b434-4087-a57c-87f32db81eb1.html",
-          "description": "(ANSA) - ROME, JUN 17 - Deputy Premier and Foreign Minister Antonio Tajani told a question time session in parliament on Wednesday that Italy will reopen its embassy in Tehran on Friday after Iran and the United States reached an agreement to end the war in the Middle East. Premier Giorgia Meloni's government has already said Italy is willing to take part in an international naval mission for the reopening of the Strait of Hormuz. (ANSA). Read article...",
-          "pubDate": "Wed, 17 Jun 2026 15:28:32 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italy to reopen Tehran embassy on Friday says Tajani"
-        },
-        {
-          "title": "World Bank , AfDB Mission 300 Connects 50m To Power In 40 Countries",
-          "link": "https://leadership.ng/world-bank-afdbs-mission-300-connects-50m-to-power-in-40-countries/",
-          "source": "leadership.ng",
-          "pubDate": "2026-06-17T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "World Bank , AfDB Mission 300 Connects 50m To Power In 40 Countries"
-        },
-        {
-          "title": "Remigration is not a 'Christian response' says Pope Leo XIV",
-          "link": "https://www.ansa.it/english/news/vatican/2026/06/17/remigration-is-not-a-christian-response-says-pope-leo-xiv_cd414bb2-30d8-40b5-80e2-aae485ac6835.html",
-          "description": "(ANSA) - ROME, JUN 17 - Pope Leo XIV has said that remigration, a policy being proposed by several far-right parties, including former General Roberto Vannacci's new National Future group in Italy, is not a concept that complies with Christian principles. \"Many times we do not recognize the reasons why these people had to leave their countries,\" the American pontiff told reporters outside the papal residence in Castel Gandolf on Tuesday in relation to remigration. \"So many reasons: violence, war, conflicts. And so simply saying, 'Let's send them away, so we can wash our hands of the problem' d",
-          "pubDate": "Wed, 17 Jun 2026 09:58:26 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Remigration is not a 'Christian response' says Pope Leo XIV"
-        },
-        {
-          "title": "Remigration is not a 'Christian response' says Pope Leo XIV",
-          "link": "https://www.ansa.it/english/news/2026/06/17/remigration-is-not-a-christian-response-says-pope-leo-xiv_27e5e0a2-2b33-45b7-bcc0-732279f63fda.html",
-          "description": "(ANSA) - ROME, JUN 17 - Pope Leo XIV has said that remigration, a policy being proposed by several far-right parties, including former General Roberto Vannacci's new National Future group in Italy, is not a concept that complies with Christian principles. \"Many times we do not recognize the reasons why these people had to leave their countries,\" the American pontiff told reporters outside the papal residence in Castel Gandolf on Tuesday in relation to remigration. \"So many reasons: violence, war, conflicts. And so simply saying, 'Let's send them away, so we can wash our hands of the problem' d",
-          "pubDate": "Wed, 17 Jun 2026 09:57:31 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Remigration is not a 'Christian response' says Pope Leo XIV"
-        },
-        {
-          "title": "Raising interest rates will not stabilize African inflation",
-          "link": "https://thefrontierpost.com/raising-interest-rates-will-not-stabilize-african-inflation/",
-          "source": "thefrontierpost.com",
-          "pubDate": "2026-06-16T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Raising interest rates will not stabilize African inflation"
-        },
-        {
-          "title": "G7 Turns spotlight on Middle East as Trump unveils Iran deal",
-          "link": "http://www.africanews.com/2026/06/16/g7-turns-spotlight-on-middle-east-as-trump-unveils-iran-deal/",
-          "description": "G7 leaders and invited partner nations gathered in Evian-les-Bains as attention shifted from Ukraine to the Middle East following Donald Trump’s announcement of a tentative deal with Iran, with Gulf leaders joining talks on regional security and global economic risks.",
-          "pubDate": "Tue, 16 Jun 2026 18:34:40 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "G7 Turns spotlight on Middle East as Trump unveils Iran deal"
-        },
-        {
-          "title": "Reopening of Strait of Hormuz Eases Economic Pressure Across Africa",
-          "link": "https://themunicheye.com/strait-hormuz-reopening-africa-economic-impact-34102",
-          "source": "themunicheye.com",
-          "pubDate": "2026-06-16T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Reopening of Strait of Hormuz Eases Economic Pressure Across Africa"
-        },
-        {
-          "title": "Under Mission 300 , a New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa",
-          "link": "https://www.rockefellerfoundation.org/news/under-mission-300-new-way-business-connects-over-50m-people-electricity-africa/",
-          "source": "rockefellerfoundation.org",
-          "pubDate": "2026-06-16T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Under Mission 300 , a New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa"
-        },
-        {
-          "title": "Mongolia and Africa : Time to Reignite a Forgotten Partnership",
-          "link": "https://thediplomat.com/2026/06/mongolia-and-africa-time-to-reignite-a-forgotten-partnership/",
-          "source": "thediplomat.com",
-          "pubDate": "2026-06-16T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mongolia and Africa : Time to Reignite a Forgotten Partnership"
-        },
-        {
-          "title": "Namibia Import Habit is Killing Future jobs - Business",
-          "link": "https://www.namibian.com.na/namibias-import-habit-is-killing-future-jobs/",
-          "source": "namibian.com.na",
-          "pubDate": "2026-06-16T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Namibia Import Habit is Killing Future jobs - Business"
-        },
-        {
-          "title": "How the G7 Is Insuring Itself Against Trump",
-          "link": "https://www.newsweek.com/how-the-g7-is-insuring-itself-against-trump-12077973",
-          "source": "newsweek.com",
-          "pubDate": "2026-06-16T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How the G7 Is Insuring Itself Against Trump"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "U . S . stocks tumble on interest rate hike fears",
-          "link": "http://www.nashvilleherald.com/news/279129809/u-s-stocks-tumble-on-interest-rate-hike-fears",
-          "source": "nashvilleherald.com",
-          "pubDate": "2026-06-17T20:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks tumble on interest rate hike fears"
-        },
-        {
-          "title": "Wall Street dives despite Fed leaving interest rates unchanged",
-          "link": "http://www.shanghainews.net/news/279129809/wall-street-dives-despite-fed-leaving-interest-rates-unchanged",
-          "source": "shanghainews.net",
-          "pubDate": "2026-06-17T20:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street dives despite Fed leaving interest rates unchanged"
-        },
-        {
-          "title": "Alicia Keys to perform  Empire State of Mind  at Knicks parade – Oneida Dispatch",
-          "link": "https://www.oneidadispatch.com/2026/06/17/alicia-keys-perform-empire-state-of-mind-knicks-parade/",
-          "source": "oneidadispatch.com",
-          "pubDate": "2026-06-17T20:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Alicia Keys to perform  Empire State of Mind  at Knicks parade – Oneida Dispatch"
-        },
-        {
-          "title": "Macron Versailles charm offensive secures Trump boost for G7 – The Irish Times",
-          "link": "https://www.irishtimes.com/world/europe/2026/06/17/macrons-versailles-charm-offensive-secures-trump-boost-for-g7/",
-          "source": "irishtimes.com",
-          "pubDate": "2026-06-17T20:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Macron Versailles charm offensive secures Trump boost for G7 – The Irish Times"
-        },
-        {
-          "title": "Trump Seeks Wider Middle East Deal After Iran Accord",
-          "link": "https://www.newkerala.com/news/a/trump-sees-wider-middle-east-deal-after-iran-203.htm",
-          "source": "newkerala.com",
-          "pubDate": "2026-06-17T20:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Seeks Wider Middle East Deal After Iran Accord"
-        },
-        {
-          "title": "India - EU to sign",
-          "link": "http://www.kenyastar.com/news/279129683/india-eu-to-sign-mother-of-all-trade-deals-by-year-end-after-g7-trilateral-meet-between-pm-modi-and-european-leaders",
-          "source": "kenyastar.com",
-          "pubDate": "2026-06-17T20:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India - EU to sign"
-        },
-        {
-          "title": "Israeli defense eastblishment apprehensive of US - Iran deal",
-          "link": "http://www.jpost.com/middle-east/iran-news/article-899658",
-          "source": "jpost.com",
-          "pubDate": "2026-06-17T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israeli defense eastblishment apprehensive of US - Iran deal"
-        },
-        {
-          "title": "Israeli defense eastblishment apprehensive of US - Iran deal",
-          "link": "https://www.jpost.com/middle-east/iran-news/article-899658",
-          "source": "jpost.com",
-          "pubDate": "2026-06-17T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israeli defense eastblishment apprehensive of US - Iran deal"
-        },
-        {
-          "title": "India - EU to sign",
-          "link": "http://www.britainnews.net/news/279129683/india-eu-to-sign-mother-of-all-trade-deals-by-year-end-after-g7-trilateral-meet-between-pm-modi-and-european-leaders",
-          "source": "britainnews.net",
-          "pubDate": "2026-06-17T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India - EU to sign"
-        },
-        {
-          "title": "Trump unveils Iran deal , eyes wider Middle East pact",
-          "link": "https://morungexpress.com/trump-unveils-iran-deal-eyes-wider-middle-east-pact",
-          "source": "morungexpress.com",
-          "pubDate": "2026-06-17T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump unveils Iran deal , eyes wider Middle East pact"
-        },
-        {
-          "title": "Not final , if I dont like it well go back to dropping bombs , Trump signals hardline on MoU with Iran as signing scheduled for Friday",
-          "link": "http://www.iranherald.com/news/279129231/not-final-if-i-dont-like-it-well-go-back-to-dropping-bombs-trump-signals-hardline-on-mou-with-iran-as-signing-scheduled-for-friday",
-          "source": "iranherald.com",
-          "pubDate": "2026-06-17T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Not final , if I dont like it well go back to dropping bombs , Trump signals hardline on MoU with Iran as signing scheduled for Friday"
-        },
-        {
-          "title": "Anxious Republicans await details of Iran deal as Trump keeps them guessing",
-          "link": "https://www.yahoo.com/news/politics/articles/anxious-republicans-await-details-iran-165931276.html",
-          "source": "yahoo.com",
-          "pubDate": "2026-06-17T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Anxious Republicans await details of Iran deal as Trump keeps them guessing"
-        },
-        {
-          "title": "Vijay Prashad : Building a New Asia",
-          "link": "https://consortiumnews.com/2026/06/17/vijay-prashad-building-a-new-asia/",
-          "source": "consortiumnews.com",
-          "pubDate": "2026-06-17T19:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Vijay Prashad : Building a New Asia"
-        },
-        {
-          "title": "ADAPTIVE INDOMITABLE UKRAINE Interdiction Of Shipments of Stolen Grain By Russia . Enter A Lethal Drone Brigade called  NEMESIS",
-          "link": "https://www.dailykos.com/stories/2026/6/17/800055517/community/adaptive-indomitable-ukraines-other-interdiction-campaign-stopping-russian-shipment-of-stolen-grain-a-lethal-drone-brigade-called-nemesis-is-on-the-case/",
-          "source": "dailykos.com",
-          "pubDate": "2026-06-17T19:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "ADAPTIVE INDOMITABLE UKRAINE Interdiction Of Shipments of Stolen Grain By Russia . Enter A Lethal Drone Brigade called  NEMESIS"
-        },
-        {
-          "title": "Day of the dollar : A global connection",
-          "link": "https://www.latimes.com/business/la-fg-dollar22-2008jun22-story.html",
-          "source": "latimes.com",
-          "pubDate": "2026-06-17T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Day of the dollar : A global connection"
-        },
-        {
-          "title": "India - EU to sign",
-          "link": "http://www.japanherald.com/news/279129683/india-eu-to-sign-mother-of-all-trade-deals-by-year-end-after-g7-trilateral-meet-between-pm-modi-and-european-leaders",
-          "source": "japanherald.com",
-          "pubDate": "2026-06-17T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India - EU to sign"
-        },
-        {
-          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
-          "link": "https://www.mankatofreepress.com/news/state_national_news/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_4c2a27b3-853b-5f3d-9c0e-e6e88f099191.html",
-          "source": "mankatofreepress.com",
-          "pubDate": "2026-06-17T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
-        },
-        {
-          "title": "Trump departs G7 summit , says Strait of Hormuz will be opened  in full  within two days",
-          "link": "https://www.fox13news.com/news/trump-addresses-g7-summit-6-17-26",
-          "source": "fox13news.com",
-          "pubDate": "2026-06-17T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump departs G7 summit , says Strait of Hormuz will be opened  in full  within two days"
-        },
-        {
-          "title": "Growth for whom , with whom , in what direction ?: PM Modi challenges conventional economic metrics at G7 Summit",
-          "link": "http://www.theuknews.com/news/279129010/growth-for-whom-with-whom-in-what-direction-pm-modi-challenges-conventional-economic-metrics-at-g7-summit",
-          "source": "theuknews.com",
-          "pubDate": "2026-06-17T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Growth for whom , with whom , in what direction ?: PM Modi challenges conventional economic metrics at G7 Summit"
-        },
-        {
-          "title": "Canada Carney isnt having a bilateral meeting with Trump at G7",
-          "link": "https://www.bostonherald.com/2026/06/17/no-carney-trump-meeting-g7/",
-          "source": "bostonherald.com",
-          "pubDate": "2026-06-17T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Canada Carney isnt having a bilateral meeting with Trump at G7"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Trump Backs Egypt in Nile Dam Row",
-          "link": "https://chimpreports.com/trump-backs-egypt-in-nile-dam-row/",
-          "source": "chimpreports.com",
-          "pubDate": "2026-06-17T17:15:00Z",
+          "title": "Sudan: MSF Sacks 18 Staff in Eastern Chad for Sexual Exploitation of Sudanese Women and Underage Girls",
+          "link": "https://allafrica.com/stories/202606180031.html",
+          "description": "[Dabanga] El Tina, Eastern Chad / Amsterdam -- The medical NGO Médecins Sans Frontières (MSF) has confirmed that 18 members of its staff in eastern Chad have been dismissed for serious misconduct, \"and are now barred from working with MSF\", after \"serious allegations of sexual exploitation and abuse were reported by Sudanese refugee women\". Responding to questions from Radio Dabanga yesterday, MSF press liaison acknowledged that in late 2024, serious allegations of sexual exploitation and abuse were reported by Sudanese refugee women",
+          "pubDate": "Thu, 18 Jun 2026 07:17:11 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Trump Backs Egypt in Nile Dam Row"
-        },
-        {
-          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
-          "link": "http://www.idahostatejournal.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_c980aa94-a108-54fb-9ffa-e490dbc13918.html",
-          "source": "idahostatejournal.com",
-          "pubDate": "2026-06-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
-        },
-        {
-          "title": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy",
-          "link": "https://www.garoweonline.com/en/opinions/beyond-planting-how-ethiopia-s-green-legacy-initiative-is-reshaping-society-economy-and-diplomacy",
-          "source": "garoweonline.com",
-          "pubDate": "2026-06-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy"
-        },
-        {
-          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
-          "link": "http://www.postregister.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_5823212b-9bc9-5415-a72d-53c1e7302dfc.html",
-          "source": "postregister.com",
-          "pubDate": "2026-06-17T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
-        },
-        {
-          "title": "Trump Raises Nile Dam Dispute in Egypt Talks",
-          "link": "https://www.newkerala.com/news/a/trump-raises-nile-dispute-talks-egypt-919.htm",
-          "source": "newkerala.com",
-          "pubDate": "2026-06-17T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Raises Nile Dam Dispute in Egypt Talks"
-        },
-        {
-          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
-          "link": "https://www.newsday.com/news/nation/g7-summit-trump-ai-france-17-june-2026-f72748",
-          "source": "newsday.com",
-          "pubDate": "2026-06-17T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
-        },
-        {
-          "title": "Sisi expresses gratitude for Trump  understanding  of Egyptian position on Ethiopian dam issue",
-          "link": "https://aa.com.tr/en/middle-east/sisi-expresses-gratitude-for-trump-s-understanding-of-egyptian-position-on-ethiopian-dam-issue/3969715",
-          "source": "aa.com.tr",
-          "pubDate": "2026-06-17T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sisi expresses gratitude for Trump  understanding  of Egyptian position on Ethiopian dam issue"
-        },
-        {
-          "title": "Trump Iran Deal Threats Before Signing",
-          "link": "https://athens-times.com/trump-threatens-iran-with-bombing-days-before-deal-signing/",
-          "source": "athens-times.com",
-          "pubDate": "2026-06-17T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Iran Deal Threats Before Signing"
-        },
-        {
-          "title": "The Latest : G7 summit focuses on contentious future of AI and US dominance of the industry",
-          "link": "https://www.wptf.com/2026/06/17/the-latest-g7-summit-focuses-on-contentious-future-of-ai-and-us-dominance-of-the-industry/",
-          "source": "wptf.com",
-          "pubDate": "2026-06-17T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : G7 summit focuses on contentious future of AI and US dominance of the industry"
-        },
-        {
-          "title": "Ballot box in Horn of Africa : For whom and under what conditions ?",
-          "link": "https://www.dailysabah.com/opinion/op-ed/ballot-box-in-horn-of-africa-for-whom-and-under-what-conditions",
-          "source": "dailysabah.com",
-          "pubDate": "2026-06-14T21:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ballot box in Horn of Africa : For whom and under what conditions ?"
-        },
-        {
-          "title": "Three Ethiopian Entrepreneur , Named Among Africa Top 100 Business Heroes for 2026",
-          "link": "https://capitalethiopia.com/2026/06/14/three-ethiopian-entrepreneur-named-among-africas-top-100-business-heroes-for-2026/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-06-14T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Three Ethiopian Entrepreneur , Named Among Africa Top 100 Business Heroes for 2026"
-        },
-        {
-          "title": "Vietnam and Philippines upgrade their ties : Its strategic significance",
-          "link": "https://timesofindia.indiatimes.com/blogs/ChanakyaCode/vietnam-and-philippines-upgrade-their-ties-its-strategic-significance/",
-          "source": "timesofindia.indiatimes.com",
-          "pubDate": "2026-06-13T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Vietnam and Philippines upgrade their ties : Its strategic significance"
-        },
-        {
-          "title": "Beyond The Headlines : Understanding Ethiopia Reality In Full",
-          "link": "https://www.thereporterethiopia.com/51152/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-13T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Beyond The Headlines : Understanding Ethiopia Reality In Full"
-        },
-        {
-          "title": "The Second Trump Administration Policy on Africa",
-          "link": "https://www.cnbcafrica.com/2026/the-second-trump-administrations-policy-on-africa",
-          "source": "cnbcafrica.com",
-          "pubDate": "2026-06-12T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Second Trump Administration Policy on Africa"
-        },
-        {
-          "title": "Ethiopia Elections 2026 : A Triumph Of Civic Participation Over Skepticism",
-          "link": "https://www.thereporterethiopia.com/51017/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-06T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Elections 2026 : A Triumph Of Civic Participation Over Skepticism"
-        },
-        {
-          "title": "Washington Considers Diplomatic Reset ...",
-          "link": "https://africa.com/washington-considers-diplomatic-reset-with-eritrea/",
-          "source": "africa.com",
-          "pubDate": "2026-06-06T02:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Washington Considers Diplomatic Reset ..."
-        },
-        {
-          "title": "Ethiopia 2026 Election : What It Means for Africa",
-          "link": "https://foreignpolicy.com/2026/06/03/ethiopia-election-abiy-ahmed-tigray-eritrea/?tpcc=recirc_trending062921",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-06-04T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia 2026 Election : What It Means for Africa"
-        },
-        {
-          "title": "Extending the New Silk Road to West Asia and Africa : A Vision of an Economic Renaissance",
-          "link": "https://larouchepub.com/other/2026/5322-extending_the_new_silk_road_to.html",
-          "source": "larouchepub.com",
-          "pubDate": "2026-06-04T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Extending the New Silk Road to West Asia and Africa : A Vision of an Economic Renaissance"
-        },
-        {
-          "title": "Ethiopia 2026 Election : What It Means for Africa",
-          "link": "https://foreignpolicy.com/2026/06/03/ethiopia-election-abiy-ahmed-tigray-eritrea/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-06-04T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia 2026 Election : What It Means for Africa"
-        },
-        {
-          "title": "Ethiopia goes electric following gas car ban",
-          "link": "https://arynews.tv/ethiopia-goes-electric-following-gas-car-ban",
-          "source": "arynews.tv",
-          "pubDate": "2026-06-02T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia goes electric following gas car ban"
+          "titleIt": "Sudan: MSF Sacks 18 Staff in Eastern Chad for Sexual Exploitation of Sudanese Women and Underage Girls"
         }
       ]
     }
