@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T12:04:32.274Z",
+  "generatedAt": "2026-06-18T21:27:15.319Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
@@ -14,12 +14,39 @@
           "source": "BBC World",
           "lang": "en",
           "titleIt": "Drones create the first-ever Fifa scoreboard in Seattle sky"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+        },
+        {
+          "title": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026",
+          "link": "https://www.crisisgroup.org/evt/africa/sudan-south-sudan-and-somalia-key-peace-and-security-priorities-africa-2026",
+          "description": "In this online event, Crisis Group experts discussed peace and security priorities for the African continent in 2026, zooming in on Somalia, Sudan and South Sudan ahead of the African Union's summit of heads of state.&nbsp;",
+          "pubDate": "Thursday, February 12, 2026 - 16:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Ethiopia: Washington Announces Visa Restrictions On TPLF Leaders",
+          "link": "https://allafrica.com/stories/202606180485.html",
+          "description": "[Reporter] The US State Department announced today it will enforce visa restrictions on the leaders of the Tigray People's Liberation Front (TPLF) amid a flare in tensions stoking fears about a return to conflict in northern Ethiopia.",
+          "pubDate": "Thu, 18 Jun 2026 16:15:03 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Washington Announces Visa Restrictions On TPLF Leaders"
+        },
         {
           "title": "Ethiopia: Ethiopia Consolidates Continental Leadership in Electric Vehicle Infrastructure",
           "link": "https://allafrica.com/stories/202606180152.html",
@@ -57,19 +84,46 @@
           "titleIt": "Tajani says Araghchi assured him of safe departure of Grimaldi ship"
         },
         {
-          "title": "G7 Turns spotlight on Middle East as Trump unveils Iran deal",
-          "link": "http://www.africanews.com/2026/06/16/g7-turns-spotlight-on-middle-east-as-trump-unveils-iran-deal/",
-          "description": "G7 leaders and invited partner nations gathered in Evian-les-Bains as attention shifted from Ukraine to the Middle East following Donald Trump’s announcement of a tentative deal with Iran, with Gulf leaders joining talks on regional security and global economic risks.",
-          "pubDate": "Tue, 16 Jun 2026 18:34:40 +0000",
-          "source": "Africanews",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "titleIt": "G7 Turns spotlight on Middle East as Trump unveils Iran deal"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+          "link": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
+          "description": "Iran's supreme leader says he disagrees with the deal and Donald Trump signed it \"out of desperation\".",
+          "pubDate": "Thu, 18 Jun 2026 19:54:42 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'"
+        },
+        {
+          "title": "Ethiopia: Washington Announces Visa Restrictions On TPLF Leaders",
+          "link": "https://allafrica.com/stories/202606180485.html",
+          "description": "[Reporter] The US State Department announced today it will enforce visa restrictions on the leaders of the Tigray People's Liberation Front (TPLF) amid a flare in tensions stoking fears about a return to conflict in northern Ethiopia.",
+          "pubDate": "Thu, 18 Jun 2026 16:15:03 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Washington Announces Visa Restrictions On TPLF Leaders"
+        },
+        {
+          "title": "Ethiopia: U.S. sanctions officials over Tigray tensions",
+          "link": "http://www.africanews.com/2026/06/18/ethiopia-us-sanctions-officials-over-tigray-tensions/",
+          "description": "A statement from the State Department said rising tensions between TPLF hardliners and the federal government threaten to restart conflict in the Tigray region",
+          "pubDate": "Thu, 18 Jun 2026 14:06:55 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia: U.S. sanctions officials over Tigray tensions"
+        },
         {
           "title": "Ethiopia: Ethiopia Consolidates Continental Leadership in Electric Vehicle Infrastructure",
           "link": "https://allafrica.com/stories/202606180152.html",
@@ -80,76 +134,103 @@
           "titleIt": "Ethiopia: Ethiopia Consolidates Continental Leadership in Electric Vehicle Infrastructure"
         },
         {
-          "title": "Iran peace welcome , but 2 . 5 out of 3 biggest crises of the world remain to be resolved",
-          "link": "https://countercurrents.org/2026/06/iran-peace-welcome-but-2-5-out-of-3-biggest-crises-of-the-world-remain-to-be-resolved/",
-          "source": "countercurrents.org",
-          "pubDate": "2026-06-18T08:45:00Z",
+          "title": "Italy to reopen Tehran embassy on Friday says Tajani",
+          "link": "https://www.ansa.it/english/news/politics/2026/06/17/italy-to-reopen-tehran-embassy-on-friday-says-tajani_f480b8ed-7312-41af-8f51-9e45f09d8a31.html",
+          "description": "(ANSA) - ROME, JUN 17 - Deputy Premier and Foreign Minister Antonio Tajani told a question time session in parliament on Wednesday that Italy will reopen its embassy in Tehran on Friday after Iran and the United States reached an agreement to end the war in the Middle East. Premier Giorgia Meloni's government has already said Italy is willing to take part in an international naval mission for the reopening of the Strait of Hormuz. (ANSA). Read article...",
+          "pubDate": "Wed, 17 Jun 2026 15:30:32 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Iran peace welcome , but 2 . 5 out of 3 biggest crises of the world remain to be resolved"
+          "titleIt": "Italy to reopen Tehran embassy on Friday says Tajani"
         },
         {
-          "title": "Africa : Will Global Turmoil Push Africa Leaders to Prioritise Agriculture ?",
-          "link": "https://allafrica.com/stories/202606180034.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-18T08:45:00Z",
+          "title": "Italy to reopen Tehran embassy on Friday says Tajani",
+          "link": "https://www.ansa.it/english/news/2026/06/17/italy-to-reopen-tehran-embassy-on-friday-says-tajani_31fd4260-b434-4087-a57c-87f32db81eb1.html",
+          "description": "(ANSA) - ROME, JUN 17 - Deputy Premier and Foreign Minister Antonio Tajani told a question time session in parliament on Wednesday that Italy will reopen its embassy in Tehran on Friday after Iran and the United States reached an agreement to end the war in the Middle East. Premier Giorgia Meloni's government has already said Italy is willing to take part in an international naval mission for the reopening of the Strait of Hormuz. (ANSA). Read article...",
+          "pubDate": "Wed, 17 Jun 2026 15:28:32 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Africa : Will Global Turmoil Push Africa Leaders to Prioritise Agriculture ?"
+          "titleIt": "Italy to reopen Tehran embassy on Friday says Tajani"
         },
         {
-          "title": "Extreme Weather , Climate Events Hit Millions in Africa",
-          "link": "https://www.miragenews.com/extreme-weather-climate-events-hit-millions-in-1694821/",
-          "source": "miragenews.com",
-          "pubDate": "2026-06-18T07:15:00Z",
+          "title": "Remigration is not a 'Christian response' says Pope Leo XIV",
+          "link": "https://www.ansa.it/english/news/vatican/2026/06/17/remigration-is-not-a-christian-response-says-pope-leo-xiv_cd414bb2-30d8-40b5-80e2-aae485ac6835.html",
+          "description": "(ANSA) - ROME, JUN 17 - Pope Leo XIV has said that remigration, a policy being proposed by several far-right parties, including former General Roberto Vannacci's new National Future group in Italy, is not a concept that complies with Christian principles. \"Many times we do not recognize the reasons why these people had to leave their countries,\" the American pontiff told reporters outside the papal residence in Castel Gandolf on Tuesday in relation to remigration. \"So many reasons: violence, war, conflicts. And so simply saying, 'Let's send them away, so we can wash our hands of the problem' d",
+          "pubDate": "Wed, 17 Jun 2026 09:58:26 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Extreme Weather , Climate Events Hit Millions in Africa"
+          "titleIt": "Remigration is not a 'Christian response' says Pope Leo XIV"
         },
         {
-          "title": "Under Mission 300 , A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa",
-          "link": "https://www.maravipost.com/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa/",
-          "source": "maravipost.com",
-          "pubDate": "2026-06-18T06:30:00Z",
+          "title": "Remigration is not a 'Christian response' says Pope Leo XIV",
+          "link": "https://www.ansa.it/english/news/2026/06/17/remigration-is-not-a-christian-response-says-pope-leo-xiv_27e5e0a2-2b33-45b7-bcc0-732279f63fda.html",
+          "description": "(ANSA) - ROME, JUN 17 - Pope Leo XIV has said that remigration, a policy being proposed by several far-right parties, including former General Roberto Vannacci's new National Future group in Italy, is not a concept that complies with Christian principles. \"Many times we do not recognize the reasons why these people had to leave their countries,\" the American pontiff told reporters outside the papal residence in Castel Gandolf on Tuesday in relation to remigration. \"So many reasons: violence, war, conflicts. And so simply saying, 'Let's send them away, so we can wash our hands of the problem' d",
+          "pubDate": "Wed, 17 Jun 2026 09:57:31 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Under Mission 300 , A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa"
+          "titleIt": "Remigration is not a 'Christian response' says Pope Leo XIV"
         },
         {
-          "title": "Afro - Cypriots : The hidden history of Cyprus Black community",
-          "link": "https://en.philenews.com/local/afro-cypriots-hidden-history-cyprus-black-community/",
-          "source": "en.philenews.com",
-          "pubDate": "2026-06-18T03:45:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Afro - Cypriots : The hidden history of Cyprus Black community"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         },
         {
-          "title": "Under Mission 300 , A New Way of Doing ...",
-          "link": "https://africa.com/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa/",
-          "source": "africa.com",
-          "pubDate": "2026-06-18T03:30:00Z",
+          "title": "As war keeps spreading, the African Union must find its teeth",
+          "link": "https://www.crisisgroup.org/opd/africa/war-keeps-spreading-african-union-must-find-its-teeth",
+          "description": "With the continental body at its weakest point since its inception, this week’s summit in Ethiopia cannot be another talk shop. A united front is crucial to resolve intensifying conflicts tearing through Africa.",
+          "pubDate": "Wednesday, February 11, 2026 - 15:04",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Under Mission 300 , A New Way of Doing ..."
+          "titleIt": "As war keeps spreading, the African Union must find its teeth"
+        }
+      ]
+    },
+    "egypt-economy": {
+      "title": "Fragilità economica egiziana",
+      "items": []
+    },
+    "gerd-opacity": {
+      "title": "Opacità sui rilasci GERD",
+      "items": [
+        {
+          "title": "Sudan: The European Union Delegation in Sudan - a New Political Engagement or an Attempt to Exert Pressure From Within?",
+          "link": "https://allafrica.com/stories/202606180627.html",
+          "description": "[Dabanga] Amsterdam / Khartoum / Port Sudan -- A high-level delegation of heads of European Union missions, comprising 14 diplomats and headed by the head of the mission to Sudan, Wolfram Vetter, concluded a visit to Sudan, the first of its kind since the outbreak of war on April 15, 2023. The two-day visit to Khartoum and Port Sudan included a series of meetings with Sudanese officials, including the Chairman of the Sovereignty Council, his deputy, the Prime Minister, and other officials. Discussions focused on several issues related to war and",
+          "pubDate": "Thu, 18 Jun 2026 20:36:22 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: The European Union Delegation in Sudan - a New Political Engagement or an Attempt to Exert Pressure From Within?"
         },
         {
-          "title": "Dangerous places in Africa - The Zimbabwe Independent",
-          "link": "https://www.theindependent.co.zw/lifestyle-amp-arts/article/3450/dangerous-places-in-africa",
-          "source": "theindependent.co.zw",
-          "pubDate": "2026-06-18T02:15:00Z",
+          "title": "Ethiopia: Washington Announces Visa Restrictions On TPLF Leaders",
+          "link": "https://allafrica.com/stories/202606180485.html",
+          "description": "[Reporter] The US State Department announced today it will enforce visa restrictions on the leaders of the Tigray People's Liberation Front (TPLF) amid a flare in tensions stoking fears about a return to conflict in northern Ethiopia.",
+          "pubDate": "Thu, 18 Jun 2026 16:15:03 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Dangerous places in Africa - The Zimbabwe Independent"
+          "titleIt": "Ethiopia: Washington Announces Visa Restrictions On TPLF Leaders"
         },
         {
-          "title": "Under Mission 300 , A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa",
-          "link": "https://www.newsghana.com.gh/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa/",
-          "source": "newsghana.com.gh",
-          "pubDate": "2026-06-17T23:45:00Z",
+          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
+          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-06-18T15:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Under Mission 300 , A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa"
+          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
+        },
+        {
+          "title": "Ethiopia: U.S. sanctions officials over Tigray tensions",
+          "link": "http://www.africanews.com/2026/06/18/ethiopia-us-sanctions-officials-over-tigray-tensions/",
+          "description": "A statement from the State Department said rising tensions between TPLF hardliners and the federal government threaten to restart conflict in the Tigray region",
+          "pubDate": "Thu, 18 Jun 2026 14:06:55 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia: U.S. sanctions officials over Tigray tensions"
         },
         {
           "title": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity",
@@ -161,22 +242,13 @@
           "titleIt": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity"
         },
         {
-          "title": "Q & A : No election readiness despite $6m funding – Mohandis",
-          "link": "https://www.radiotamazuj.org/en/news/article/qa-no-election-readiness-despite-6m-funding-mohandis",
-          "source": "radiotamazuj.org",
-          "pubDate": "2026-06-17T23:30:00Z",
+          "title": "Trump Backs Egypt in Nile Dam Row",
+          "link": "https://chimpreports.com/trump-backs-egypt-in-nile-dam-row/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-06-17T17:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Q & A : No election readiness despite $6m funding – Mohandis"
-        },
-        {
-          "title": "Under Mission 300 , A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa",
-          "link": "https://www.worldbank.org/en/news/press-release/2026/06/16/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa",
-          "source": "worldbank.org",
-          "pubDate": "2026-06-17T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Under Mission 300 , A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa"
+          "titleIt": "Trump Backs Egypt in Nile Dam Row"
         },
         {
           "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
@@ -206,6 +278,15 @@
           "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
         },
         {
+          "title": "Trump Raises Nile Dam Dispute in Egypt Talks",
+          "link": "https://www.newkerala.com/news/a/trump-raises-nile-dispute-talks-egypt-919.htm",
+          "source": "newkerala.com",
+          "pubDate": "2026-06-17T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Raises Nile Dam Dispute in Egypt Talks"
+        },
+        {
           "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
           "link": "https://www.newsday.com/news/nation/g7-summit-trump-ai-france-17-june-2026-f72748",
           "source": "newsday.com",
@@ -215,58 +296,85 @@
           "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
         },
         {
-          "title": "UAE - Africa Economic relations continue to deepen in 2026",
-          "link": "https://thebftonline.com/2026/06/17/uae-africa-economic-relations-continue-to-deepen-in-2026/",
-          "source": "thebftonline.com",
-          "pubDate": "2026-06-17T14:45:00Z",
+          "title": "Sisi expresses gratitude for Trump  understanding  of Egyptian position on Ethiopian dam issue",
+          "link": "https://aa.com.tr/en/middle-east/sisi-expresses-gratitude-for-trump-s-understanding-of-egyptian-position-on-ethiopian-dam-issue/3969715",
+          "source": "aa.com.tr",
+          "pubDate": "2026-06-17T15:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "UAE - Africa Economic relations continue to deepen in 2026"
+          "titleIt": "Sisi expresses gratitude for Trump  understanding  of Egyptian position on Ethiopian dam issue"
         },
         {
-          "title": "Ethiopia electricity provider commissions EV charging center amid state - driven push for e - mobility - Xinhua",
-          "link": "https://english.news.cn/africa/20260617/f04cdb766724453785b86425412d592e/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-06-17T14:30:00Z",
+          "title": "Trump Iran Deal Threats Before Signing",
+          "link": "https://athens-times.com/trump-threatens-iran-with-bombing-days-before-deal-signing/",
+          "source": "athens-times.com",
+          "pubDate": "2026-06-17T14:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Ethiopia electricity provider commissions EV charging center amid state - driven push for e - mobility - Xinhua"
+          "titleIt": "Trump Iran Deal Threats Before Signing"
         },
         {
-          "title": "Ethiopia electricity provider commissions EV charging center amid state - driven push for e - mobility - Xinhua",
-          "link": "https://english.news.cn/20260617/b1549bf39ffa41dca8f50c75cd53ef57/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-06-17T14:15:00Z",
+          "title": "The Latest : G7 summit focuses on contentious future of AI and US dominance of the industry",
+          "link": "https://www.wptf.com/2026/06/17/the-latest-g7-summit-focuses-on-contentious-future-of-ai-and-us-dominance-of-the-industry/",
+          "source": "wptf.com",
+          "pubDate": "2026-06-17T13:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Ethiopia electricity provider commissions EV charging center amid state - driven push for e - mobility - Xinhua"
+          "titleIt": "The Latest : G7 summit focuses on contentious future of AI and US dominance of the industry"
         },
         {
-          "title": "President Appoints Five New Ambassadors - News - Rádio RSI English",
-          "link": "https://enrsi.stvr.sk/articles/news/449502/president-appoints-five-new-ambassadors",
-          "source": "enrsi.stvr.sk",
-          "pubDate": "2026-06-17T13:45:00Z",
+          "title": "Ballot box in Horn of Africa : For whom and under what conditions ?",
+          "link": "https://www.dailysabah.com/opinion/op-ed/ballot-box-in-horn-of-africa-for-whom-and-under-what-conditions",
+          "source": "dailysabah.com",
+          "pubDate": "2026-06-14T21:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "President Appoints Five New Ambassadors - News - Rádio RSI English"
-        }
-      ]
-    },
-    "egypt-economy": {
-      "title": "Fragilità economica egiziana",
-      "items": []
-    },
-    "gerd-opacity": {
-      "title": "Opacità sui rilasci GERD",
-      "items": [
+          "titleIt": "Ballot box in Horn of Africa : For whom and under what conditions ?"
+        },
         {
-          "title": "Sudan: MSF Sacks 18 Staff in Eastern Chad for Sexual Exploitation of Sudanese Women and Underage Girls",
-          "link": "https://allafrica.com/stories/202606180031.html",
-          "description": "[Dabanga] El Tina, Eastern Chad / Amsterdam -- The medical NGO Médecins Sans Frontières (MSF) has confirmed that 18 members of its staff in eastern Chad have been dismissed for serious misconduct, \"and are now barred from working with MSF\", after \"serious allegations of sexual exploitation and abuse were reported by Sudanese refugee women\". Responding to questions from Radio Dabanga yesterday, MSF press liaison acknowledged that in late 2024, serious allegations of sexual exploitation and abuse were reported by Sudanese refugee women",
-          "pubDate": "Thu, 18 Jun 2026 07:17:11 GMT",
-          "source": "AllAfrica",
+          "title": "Three Ethiopian Entrepreneur , Named Among Africa Top 100 Business Heroes for 2026",
+          "link": "https://capitalethiopia.com/2026/06/14/three-ethiopian-entrepreneur-named-among-africas-top-100-business-heroes-for-2026/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-06-14T16:15:00Z",
           "lang": "en",
-          "titleIt": "Sudan: MSF Sacks 18 Staff in Eastern Chad for Sexual Exploitation of Sudanese Women and Underage Girls"
+          "description": "",
+          "titleIt": "Three Ethiopian Entrepreneur , Named Among Africa Top 100 Business Heroes for 2026"
+        },
+        {
+          "title": "Vietnam and Philippines upgrade their ties : Its strategic significance",
+          "link": "https://timesofindia.indiatimes.com/blogs/ChanakyaCode/vietnam-and-philippines-upgrade-their-ties-its-strategic-significance/",
+          "source": "timesofindia.indiatimes.com",
+          "pubDate": "2026-06-13T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Vietnam and Philippines upgrade their ties : Its strategic significance"
+        },
+        {
+          "title": "Beyond The Headlines : Understanding Ethiopia Reality In Full",
+          "link": "https://www.thereporterethiopia.com/51152/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-13T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Beyond The Headlines : Understanding Ethiopia Reality In Full"
+        },
+        {
+          "title": "The Second Trump Administration Policy on Africa",
+          "link": "https://www.cnbcafrica.com/2026/the-second-trump-administrations-policy-on-africa",
+          "source": "cnbcafrica.com",
+          "pubDate": "2026-06-12T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Second Trump Administration Policy on Africa"
+        },
+        {
+          "title": "Ethiopia Elections 2026 : A Triumph Of Civic Participation Over Skepticism",
+          "link": "https://www.thereporterethiopia.com/51017/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-06T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Elections 2026 : A Triumph Of Civic Participation Over Skepticism"
         }
       ]
     }
