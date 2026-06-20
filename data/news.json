@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T10:13:57.431Z",
+  "generatedAt": "2026-06-20T15:58:25.821Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
@@ -39,6 +39,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Ethiopia , US Top Hargeisa Priority List As President Abdullahi Confirms Open Diplomatic Channels",
+          "link": "https://www.thereporterethiopia.com/51281/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-20T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia , US Top Hargeisa Priority List As President Abdullahi Confirms Open Diplomatic Channels"
+        },
+        {
           "title": "Somaliland president visits Israel after recognition agreement",
           "link": "https://www.middleeasteye.net/live-blog/live-blog-update/somaliland-president-visits-israel-after-recognition-agreement",
           "source": "middleeasteye.net",
@@ -64,6 +73,15 @@
           "lang": "en",
           "description": "",
           "titleIt": "My Word : The dangers of Iranian spins | The Jerusalem Post"
+        },
+        {
+          "title": "Africa: Our Ocean Conference Ends with Familiar Question - Will Pledges Be Met?",
+          "link": "https://allafrica.com/stories/202606190001.html",
+          "description": "[allAfrica] Mombasa, Kenya -- A new round of pledges and partnerships marked the closing ceremony of the 11th Our Ocean Conference in Mombasa. Countries and stakeholders outlined commitments to scale up ocean action, finance and innovation. The question, however, remains whether these will amount to yet another list of promises.",
+          "pubDate": "Fri, 19 Jun 2026 07:00:01 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Our Ocean Conference Ends with Familiar Question - Will Pledges Be Met?"
         },
         {
           "title": "Tarsan Says Abdirahman Irro Misled Israel PM Benjamin Netanyahu on Somaliland",
@@ -199,30 +217,75 @@
           "lang": "en",
           "description": "",
           "titleIt": "League General Secretariat condemns opening of embassy in occupied Jerusalem by northwestern region of Federal Republic of Somalia , so - called  Somaliland"
-        },
-        {
-          "title": "Israel , Somaliland cooperating  under the radar  for years : Katz",
-          "link": "https://www.dailysabah.com/world/mid-east/israel-somaliland-cooperating-under-the-radar-for-years-katz",
-          "source": "dailysabah.com",
-          "pubDate": "2026-06-17T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel , Somaliland cooperating  under the radar  for years : Katz"
-        },
-        {
-          "title": "Somaliland receiving Israeli military training but not in talks for base , minister says",
-          "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/06/17/no-talks-to-establish-israeli-military-base-in-somaliland-defence-minister-says",
-          "source": "internazionale.it",
-          "pubDate": "2026-06-17T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland receiving Israeli military training but not in talks for base , minister says"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+          "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+          "description": "At least 20 people have reportedly been killed by Israeli air strikes as the Israeli military said Hezbollah had fired at Israeli troops in southern Lebanon.",
+          "pubDate": "Sat, 20 Jun 2026 13:23:40 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Israel and Hezbollah continue strikes despite ceasefire agreement"
+        },
+        {
+          "title": "Ethiopia , US Top Hargeisa Priority List As President Abdullahi Confirms Open Diplomatic Channels",
+          "link": "https://www.thereporterethiopia.com/51281/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-20T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia , US Top Hargeisa Priority List As President Abdullahi Confirms Open Diplomatic Channels"
+        },
+        {
+          "title": "EU Calls On Eritrea To Investigate Wartime Rights Violations",
+          "link": "https://www.thereporterethiopia.com/51295/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-20T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "EU Calls On Eritrea To Investigate Wartime Rights Violations"
+        },
+        {
+          "title": "Chasing Yesterday War : Why Recruiting Somali Youth For Old Political Battles May Be A Dead End !",
+          "link": "https://www.thereporterethiopia.com/51252/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-20T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chasing Yesterday War : Why Recruiting Somali Youth For Old Political Battles May Be A Dead End !"
+        },
+        {
+          "title": "Built In Stone , Remembered In Time | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/51264/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-20T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Built In Stone , Remembered In Time | The Reporter Ethiopia"
+        },
+        {
+          "title": "Borderland Frontiers : Bridges Or Barriers ? | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/51303/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-20T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Borderland Frontiers : Bridges Or Barriers ? | The Reporter Ethiopia"
+        },
+        {
+          "title": "Arms Acquisition , TPLF New Alliances Risk Lasting Peace In Tigray : Foreign Minister",
+          "link": "https://www.thereporterethiopia.com/51297/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-20T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arms Acquisition , TPLF New Alliances Risk Lasting Peace In Tigray : Foreign Minister"
+        },
         {
           "title": "JOHN EGAN MCATEER | News , Sports , Jobs - The Intelligencer",
           "link": "https://www.theintelligencer.net/obituaries/2026/06/john-egan-mcateer/",
@@ -258,15 +321,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "UN Eritrea expert warns of crimes against humanity"
-        },
-        {
-          "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-          "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
-          "description": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
-          "pubDate": "Fri, 19 Jun 2026 19:27:12 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported"
         },
         {
           "title": "US announces targeted visa restrictions for some Ethiopians",
@@ -348,60 +402,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Meet  Lucy hunter : Scientists discover a 15 - foot crocodile that lived alongside early humans in Ethiopia |"
-        },
-        {
-          "title": "Africa : Will Global Turmoil Push Africa Leaders to Prioritise Agriculture ?",
-          "link": "https://allafrica.com/stories/202606180034.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-18T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : Will Global Turmoil Push Africa Leaders to Prioritise Agriculture ?"
-        },
-        {
-          "title": "Iran peace welcome , but 2 . 5 out of 3 biggest crises of the world remain to be resolved",
-          "link": "https://countercurrents.org/2026/06/iran-peace-welcome-but-2-5-out-of-3-biggest-crises-of-the-world-remain-to-be-resolved/",
-          "source": "countercurrents.org",
-          "pubDate": "2026-06-18T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran peace welcome , but 2 . 5 out of 3 biggest crises of the world remain to be resolved"
-        },
-        {
-          "title": "Extreme Weather , Climate Events Hit Millions in Africa",
-          "link": "https://www.miragenews.com/extreme-weather-climate-events-hit-millions-in-1694821/",
-          "source": "miragenews.com",
-          "pubDate": "2026-06-18T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Extreme Weather , Climate Events Hit Millions in Africa"
-        },
-        {
-          "title": "Under Mission 300 , A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa",
-          "link": "https://www.maravipost.com/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa/",
-          "source": "maravipost.com",
-          "pubDate": "2026-06-18T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Under Mission 300 , A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa"
-        },
-        {
-          "title": "Afro - Cypriots : The hidden history of Cyprus Black community",
-          "link": "https://en.philenews.com/local/afro-cypriots-hidden-history-cyprus-black-community/",
-          "source": "en.philenews.com",
-          "pubDate": "2026-06-18T03:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Afro - Cypriots : The hidden history of Cyprus Black community"
-        },
-        {
-          "title": "Under Mission 300 , A New Way of Doing ...",
-          "link": "https://africa.com/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa/",
-          "source": "africa.com",
-          "pubDate": "2026-06-18T03:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Under Mission 300 , A New Way of Doing ..."
         }
       ]
     },
@@ -413,6 +413,42 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
+          "title": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?",
+          "link": "https://english.aawsat.com/arab-world/5286082-trumps-pledge-intervene-can-it-break-deadlock-ethiopian-renaissance-dam-crisis",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-06-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?"
+        },
+        {
+          "title": "Ethiopia : Tale of Two Ethiopias",
+          "link": "https://allafrica.com/stories/202606180628.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-19T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Tale of Two Ethiopias"
+        },
+        {
+          "title": "Sudan: The European Union Delegation in Sudan - a New Political Engagement or an Attempt to Exert Pressure From Within?",
+          "link": "https://allafrica.com/stories/202606180627.html",
+          "description": "[Dabanga] Amsterdam / Khartoum / Port Sudan -- A high-level delegation of heads of European Union missions, comprising 14 diplomats and headed by the head of the mission to Sudan, Wolfram Vetter, concluded a visit to Sudan, the first of its kind since the outbreak of war on April 15, 2023. The two-day visit to Khartoum and Port Sudan included a series of meetings with Sudanese officials, including the Chairman of the Sovereignty Council, his deputy, the Prime Minister, and other officials. Discussions focused on several issues related to war and",
+          "pubDate": "Thu, 18 Jun 2026 20:36:22 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: The European Union Delegation in Sudan - a New Political Engagement or an Attempt to Exert Pressure From Within?"
+        },
+        {
+          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
+          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-06-18T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
+        },
+        {
           "title": "Ethiopia: U.S. sanctions officials over Tigray tensions",
           "link": "http://www.africanews.com/2026/06/18/ethiopia-us-sanctions-officials-over-tigray-tensions/",
           "description": "A statement from the State Department said rising tensions between TPLF hardliners and the federal government threaten to restart conflict in the Tigray region",
@@ -420,6 +456,141 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopia: U.S. sanctions officials over Tigray tensions"
+        },
+        {
+          "title": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity",
+          "link": "https://larouchepub.com/other/2026/5324-ethiopia_the_uncolonized_indep.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-06-17T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity"
+        },
+        {
+          "title": "Trump Backs Egypt in Nile Dam Row",
+          "link": "https://chimpreports.com/trump-backs-egypt-in-nile-dam-row/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Backs Egypt in Nile Dam Row"
+        },
+        {
+          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+          "link": "http://www.idahostatejournal.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_c980aa94-a108-54fb-9ffa-e490dbc13918.html",
+          "source": "idahostatejournal.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
+        },
+        {
+          "title": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy",
+          "link": "https://www.garoweonline.com/en/opinions/beyond-planting-how-ethiopia-s-green-legacy-initiative-is-reshaping-society-economy-and-diplomacy",
+          "source": "garoweonline.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy"
+        },
+        {
+          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+          "link": "http://www.postregister.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_5823212b-9bc9-5415-a72d-53c1e7302dfc.html",
+          "source": "postregister.com",
+          "pubDate": "2026-06-17T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
+        },
+        {
+          "title": "Trump Raises Nile Dam Dispute in Egypt Talks",
+          "link": "https://www.newkerala.com/news/a/trump-raises-nile-dispute-talks-egypt-919.htm",
+          "source": "newkerala.com",
+          "pubDate": "2026-06-17T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Raises Nile Dam Dispute in Egypt Talks"
+        },
+        {
+          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+          "link": "https://www.newsday.com/news/nation/g7-summit-trump-ai-france-17-june-2026-f72748",
+          "source": "newsday.com",
+          "pubDate": "2026-06-17T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
+        },
+        {
+          "title": "Sisi expresses gratitude for Trump  understanding  of Egyptian position on Ethiopian dam issue",
+          "link": "https://aa.com.tr/en/middle-east/sisi-expresses-gratitude-for-trump-s-understanding-of-egyptian-position-on-ethiopian-dam-issue/3969715",
+          "source": "aa.com.tr",
+          "pubDate": "2026-06-17T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sisi expresses gratitude for Trump  understanding  of Egyptian position on Ethiopian dam issue"
+        },
+        {
+          "title": "Trump Iran Deal Threats Before Signing",
+          "link": "https://athens-times.com/trump-threatens-iran-with-bombing-days-before-deal-signing/",
+          "source": "athens-times.com",
+          "pubDate": "2026-06-17T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Iran Deal Threats Before Signing"
+        },
+        {
+          "title": "The Latest : G7 summit focuses on contentious future of AI and US dominance of the industry",
+          "link": "https://www.wptf.com/2026/06/17/the-latest-g7-summit-focuses-on-contentious-future-of-ai-and-us-dominance-of-the-industry/",
+          "source": "wptf.com",
+          "pubDate": "2026-06-17T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : G7 summit focuses on contentious future of AI and US dominance of the industry"
+        },
+        {
+          "title": "Ballot box in Horn of Africa : For whom and under what conditions ?",
+          "link": "https://www.dailysabah.com/opinion/op-ed/ballot-box-in-horn-of-africa-for-whom-and-under-what-conditions",
+          "source": "dailysabah.com",
+          "pubDate": "2026-06-14T21:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ballot box in Horn of Africa : For whom and under what conditions ?"
+        },
+        {
+          "title": "Three Ethiopian Entrepreneur , Named Among Africa Top 100 Business Heroes for 2026",
+          "link": "https://capitalethiopia.com/2026/06/14/three-ethiopian-entrepreneur-named-among-africas-top-100-business-heroes-for-2026/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-06-14T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Three Ethiopian Entrepreneur , Named Among Africa Top 100 Business Heroes for 2026"
+        },
+        {
+          "title": "Vietnam and Philippines upgrade their ties : Its strategic significance",
+          "link": "https://timesofindia.indiatimes.com/blogs/ChanakyaCode/vietnam-and-philippines-upgrade-their-ties-its-strategic-significance/",
+          "source": "timesofindia.indiatimes.com",
+          "pubDate": "2026-06-13T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Vietnam and Philippines upgrade their ties : Its strategic significance"
+        },
+        {
+          "title": "Beyond The Headlines : Understanding Ethiopia Reality In Full",
+          "link": "https://www.thereporterethiopia.com/51152/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-13T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Beyond The Headlines : Understanding Ethiopia Reality In Full"
+        },
+        {
+          "title": "The Second Trump Administration Policy on Africa",
+          "link": "https://www.cnbcafrica.com/2026/the-second-trump-administrations-policy-on-africa",
+          "source": "cnbcafrica.com",
+          "pubDate": "2026-06-12T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Second Trump Administration Policy on Africa"
         }
       ]
     }
