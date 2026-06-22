@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T18:06:45.157Z",
+  "generatedAt": "2026-06-22T23:08:10.371Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
@@ -57,6 +57,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Ethiopia strengthens efforts to support refugee self-reliance",
+          "link": "http://www.africanews.com/2026/06/22/ethiopia-strengthens-efforts-to-support-refugee-self-reliance/",
+          "description": "In Ethiopia’s Ura refugee settlement, High Commissioner Barham Salih urged greater support for inclusive policies that enable refugees to rebuild their lives alongside hosts.",
+          "pubDate": "Mon, 22 Jun 2026 19:34:09 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia strengthens efforts to support refugee self-reliance"
+        },
+        {
           "title": "Kenya labour minister accused over Russian forced recruitment",
           "link": "http://www.africanews.com/2026/06/22/kenya-labour-minister-accused-over-russian-forced-recruitment/",
           "description": "A Kenyan family's search for opportunity has ended in tragedy and sparked serious allegations against Labour Minister Alfred Mutua.",
@@ -102,15 +111,6 @@
           "titleIt": "Top UN official visits refugee inclusion project in Ethiopia"
         },
         {
-          "title": "Tajani says Araghchi assured him of safe departure of Grimaldi ship",
-          "link": "https://www.ansa.it/english/news/world/2026/06/17/tajani-says-araghchi-assured-him-of-safe-departure-of-grimaldi-ship_560b1afd-f529-48f1-8a7e-12c7973a41ff.html",
-          "description": "(ANSA) - ROME, JUN 17 - Foreign Minister Antonio Tajani said Wednesday his Iranian counterpart Abbas Araghchi had assured him of the safe departure of an Italian ship, the Grimaldi Group's car carrier Grande Torino, that has been blocked in the Persian Gulf for months. Araghchi, said Tajani on X, reporting on a phone call with his counterpart, \"assured me that in the next few hours the Iranian authorities will ensure the conditions for the safe departure of the Italian Grimaldi ship 'Grande Torino,'\" \"blocked for months in the Gulf.\" (ANSA). Read article...",
-          "pubDate": "Wed, 17 Jun 2026 19:11:38 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Tajani says Araghchi assured him of safe departure of Grimaldi ship"
-        },
-        {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
           "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
           "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
@@ -124,6 +124,15 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ethiopia strengthens efforts to support refugee self-reliance",
+          "link": "http://www.africanews.com/2026/06/22/ethiopia-strengthens-efforts-to-support-refugee-self-reliance/",
+          "description": "In Ethiopia’s Ura refugee settlement, High Commissioner Barham Salih urged greater support for inclusive policies that enable refugees to rebuild their lives alongside hosts.",
+          "pubDate": "Mon, 22 Jun 2026 19:34:09 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia strengthens efforts to support refugee self-reliance"
+        },
         {
           "title": "Kenya: Somalia's President Holds Talks With Kenya's Ruto Amid Aussom Funding Concerns",
           "link": "https://allafrica.com/stories/202606220511.html",
@@ -191,188 +200,7 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Michael Mina shares Alexandria - inspired steak sandwich recipe",
-          "link": "https://www.dailyfreeman.com/2026/06/22/michael-mina-alexandria-inspired-steak-sandwich-recipe/",
-          "source": "dailyfreeman.com",
-          "pubDate": "2026-06-22T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Michael Mina shares Alexandria - inspired steak sandwich recipe"
-        },
-        {
-          "title": "Iran Agrees To Allow Nuclear Inspectors Back Into Country",
-          "link": "http://www.europesun.com/news/279139818/iran-agrees-to-allow-nuclear-inspectors-back-into-country",
-          "source": "europesun.com",
-          "pubDate": "2026-06-22T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Agrees To Allow Nuclear Inspectors Back Into Country"
-        },
-        {
-          "title": "World Bank : Double Dividend for MENAAP in Heat",
-          "link": "https://www.miragenews.com/world-bank-double-dividend-for-menaap-in-heat-1696620/",
-          "source": "miragenews.com",
-          "pubDate": "2026-06-22T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "World Bank : Double Dividend for MENAAP in Heat"
-        },
-        {
-          "title": "Exiled Tibetans urge BRICS leaders to look into the international laws , discuss human rights situation in Tibet",
-          "link": "http://www.iraqsun.com/news/279140280/exiled-tibetans-urge-brics-leaders-to-look-into-the-international-laws-discuss-human-rights-situation-in-tibet",
-          "source": "iraqsun.com",
-          "pubDate": "2026-06-22T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Exiled Tibetans urge BRICS leaders to look into the international laws , discuss human rights situation in Tibet"
-        },
-        {
-          "title": "Sudan War : Foreign Money and Mercenaries Fuel It",
-          "link": "https://www.riotimesonline.com/sudan-war-foreign-money-mercenaries-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-06-22T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan War : Foreign Money and Mercenaries Fuel It"
-        },
-        {
-          "title": "Vance Hails  Milestone  Of Iran Allowing IAEA Inspectors",
-          "link": "http://www.europesun.com/news/279139741/vance-hails-milestone-of-iran-allowing-iaea-inspectors",
-          "source": "europesun.com",
-          "pubDate": "2026-06-22T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Vance Hails  Milestone  Of Iran Allowing IAEA Inspectors"
-        },
-        {
-          "title": "Iran war triggers global race to build oil reserves : Bousso",
-          "link": "https://www.oilandgas360.com/iran-war-triggers-global-race-to-build-oil-reserves-bousso/",
-          "source": "oilandgas360.com",
-          "pubDate": "2026-06-22T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran war triggers global race to build oil reserves : Bousso"
-        },
-        {
-          "title": "Moscow shoots down more than 80 drones ; Russian attacks kill six in Ukraine",
-          "link": "https://www.yahoo.com/news/articles/moscow-shoots-down-more-than-80-drones-russian-attacks-kill-six-in-ukraine-101208468.html",
-          "source": "yahoo.com",
-          "pubDate": "2026-06-22T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Moscow shoots down more than 80 drones ; Russian attacks kill six in Ukraine"
-        },
-        {
-          "title": "Vance Hails  Milestone  Of Iran Allowing IAEA Inspectors",
-          "link": "http://www.shanghainews.net/news/279139741/vance-hails-milestone-of-iran-allowing-iaea-inspectors",
-          "source": "shanghainews.net",
-          "pubDate": "2026-06-22T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Vance Hails  Milestone  Of Iran Allowing IAEA Inspectors"
-        },
-        {
-          "title": "Iran Agrees To Allow Nuclear Inspectors Back Into Country",
-          "link": "http://www.shanghainews.net/news/279139818/iran-agrees-to-allow-nuclear-inspectors-back-into-country",
-          "source": "shanghainews.net",
-          "pubDate": "2026-06-22T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Agrees To Allow Nuclear Inspectors Back Into Country"
-        },
-        {
-          "title": "Exiled Tibetans urge BRICS leaders to look into the international laws , discuss human rights situation in Tibet",
-          "link": "http://www.shanghainews.net/news/279140280/exiled-tibetans-urge-brics-leaders-to-look-into-the-international-laws-discuss-human-rights-situation-in-tibet",
-          "source": "shanghainews.net",
-          "pubDate": "2026-06-22T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Exiled Tibetans urge BRICS leaders to look into the international laws , discuss human rights situation in Tibet"
-        },
-        {
-          "title": "Economy - Business - Ahram Online",
-          "link": "https://english.ahram.org.eg/Category/3/12/Business/Monetary-easing,-digital-reforms-reshape.aspx",
-          "source": "english.ahram.org.eg",
-          "pubDate": "2026-06-22T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Economy - Business - Ahram Online"
-        },
-        {
-          "title": "Trump really is becoming King",
-          "link": "http://www.bozemandailychronicle.com/opinions/trump-really-is-becoming-king/article_95793f83-765c-42cd-9641-c864b09cb074.html",
-          "source": "bozemandailychronicle.com",
-          "pubDate": "2026-06-22T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump really is becoming King"
-        },
-        {
-          "title": "Michael Mina shares Alexandria - inspired steak sandwich recipe",
-          "link": "https://www.dailynews.com/2026/06/22/michael-mina-alexandria-inspired-steak-sandwich-recipe/",
-          "source": "dailynews.com",
-          "pubDate": "2026-06-22T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Michael Mina shares Alexandria - inspired steak sandwich recipe"
-        },
-        {
-          "title": "Exiled Tibetans urge BRICS leaders to look into the international laws , discuss human rights situation in Tibet",
-          "link": "http://www.calcuttanews.net/news/279140280/exiled-tibetans-urge-brics-leaders-to-look-into-the-international-laws-discuss-human-rights-situation-in-tibet",
-          "source": "calcuttanews.net",
-          "pubDate": "2026-06-22T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Exiled Tibetans urge BRICS leaders to look into the international laws , discuss human rights situation in Tibet"
-        },
-        {
-          "title": "The Biden verdict is in , and it isnt pretty - Las Vegas Sun News",
-          "link": "https://lasvegassun.com/news/2026/jun/22/the-biden-verdict-is-in-and-it-isnt-pretty/",
-          "source": "lasvegassun.com",
-          "pubDate": "2026-06-22T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Biden verdict is in , and it isnt pretty - Las Vegas Sun News"
-        },
-        {
-          "title": "NSA Doval discusses West Asia situation during meeting with Iranian Dy Secy Defence Ghadir Nezamipour",
-          "link": "http://www.calcuttanews.net/news/279140172/nsa-doval-discusses-west-asia-situation-during-meeting-with-iranian-dy-secy-defence-ghadir-nezamipour",
-          "source": "calcuttanews.net",
-          "pubDate": "2026-06-22T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "NSA Doval discusses West Asia situation during meeting with Iranian Dy Secy Defence Ghadir Nezamipour"
-        },
-        {
-          "title": "AI next compute layer is likely to come from outside Silicon Valley",
-          "link": "https://www.computerweekly.com/opinion/AIs-next-compute-layer-is-likely-to-come-from-outside-Silicon-Valley",
-          "source": "computerweekly.com",
-          "pubDate": "2026-06-22T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AI next compute layer is likely to come from outside Silicon Valley"
-        },
-        {
-          "title": "Michael Mina shares Alexandria - inspired steak sandwich recipe",
-          "link": "https://www.redlandsdailyfacts.com/2026/06/22/michael-mina-alexandria-inspired-steak-sandwich-recipe/",
-          "source": "redlandsdailyfacts.com",
-          "pubDate": "2026-06-22T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Michael Mina shares Alexandria - inspired steak sandwich recipe"
-        },
-        {
-          "title": "Michael Mina shares Alexandria - inspired steak sandwich recipe",
-          "link": "https://www.dailypress.com/2026/06/22/michael-mina-alexandria-inspired-steak-sandwich-recipe/",
-          "source": "dailypress.com",
-          "pubDate": "2026-06-22T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Michael Mina shares Alexandria - inspired steak sandwich recipe"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
@@ -387,6 +215,15 @@
           "titleIt": "Uganda: Parents, Teachers Protest Survey Amid Threat of School Demolition in Buikwe"
         },
         {
+          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
+          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
+          "source": "dw.com",
+          "pubDate": "2026-06-21T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
+        },
+        {
           "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
           "link": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
           "description": "Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.",
@@ -394,6 +231,159 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Ethiopia PM's party wins landslide as fears grow of new conflict"
+        },
+        {
+          "title": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA",
+          "link": "https://www.thereporterethiopia.com/51290/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-20T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA"
+        },
+        {
+          "title": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?",
+          "link": "https://english.aawsat.com/arab-world/5286082-trumps-pledge-intervene-can-it-break-deadlock-ethiopian-renaissance-dam-crisis",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-06-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?"
+        },
+        {
+          "title": "Ethiopia : Tale of Two Ethiopias",
+          "link": "https://allafrica.com/stories/202606180628.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-19T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Tale of Two Ethiopias"
+        },
+        {
+          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
+          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-06-18T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
+        },
+        {
+          "title": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity",
+          "link": "https://larouchepub.com/other/2026/5324-ethiopia_the_uncolonized_indep.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-06-17T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity"
+        },
+        {
+          "title": "Trump Backs Egypt in Nile Dam Row",
+          "link": "https://chimpreports.com/trump-backs-egypt-in-nile-dam-row/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Backs Egypt in Nile Dam Row"
+        },
+        {
+          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+          "link": "http://www.idahostatejournal.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_c980aa94-a108-54fb-9ffa-e490dbc13918.html",
+          "source": "idahostatejournal.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
+        },
+        {
+          "title": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy",
+          "link": "https://www.garoweonline.com/en/opinions/beyond-planting-how-ethiopia-s-green-legacy-initiative-is-reshaping-society-economy-and-diplomacy",
+          "source": "garoweonline.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy"
+        },
+        {
+          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+          "link": "http://www.postregister.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_5823212b-9bc9-5415-a72d-53c1e7302dfc.html",
+          "source": "postregister.com",
+          "pubDate": "2026-06-17T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
+        },
+        {
+          "title": "Trump Raises Nile Dam Dispute in Egypt Talks",
+          "link": "https://www.newkerala.com/news/a/trump-raises-nile-dispute-talks-egypt-919.htm",
+          "source": "newkerala.com",
+          "pubDate": "2026-06-17T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Raises Nile Dam Dispute in Egypt Talks"
+        },
+        {
+          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+          "link": "https://www.newsday.com/news/nation/g7-summit-trump-ai-france-17-june-2026-f72748",
+          "source": "newsday.com",
+          "pubDate": "2026-06-17T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
+        },
+        {
+          "title": "Sisi expresses gratitude for Trump  understanding  of Egyptian position on Ethiopian dam issue",
+          "link": "https://aa.com.tr/en/middle-east/sisi-expresses-gratitude-for-trump-s-understanding-of-egyptian-position-on-ethiopian-dam-issue/3969715",
+          "source": "aa.com.tr",
+          "pubDate": "2026-06-17T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sisi expresses gratitude for Trump  understanding  of Egyptian position on Ethiopian dam issue"
+        },
+        {
+          "title": "Trump Iran Deal Threats Before Signing",
+          "link": "https://athens-times.com/trump-threatens-iran-with-bombing-days-before-deal-signing/",
+          "source": "athens-times.com",
+          "pubDate": "2026-06-17T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Iran Deal Threats Before Signing"
+        },
+        {
+          "title": "The Latest : G7 summit focuses on contentious future of AI and US dominance of the industry",
+          "link": "https://www.wptf.com/2026/06/17/the-latest-g7-summit-focuses-on-contentious-future-of-ai-and-us-dominance-of-the-industry/",
+          "source": "wptf.com",
+          "pubDate": "2026-06-17T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : G7 summit focuses on contentious future of AI and US dominance of the industry"
+        },
+        {
+          "title": "Ballot box in Horn of Africa : For whom and under what conditions ?",
+          "link": "https://www.dailysabah.com/opinion/op-ed/ballot-box-in-horn-of-africa-for-whom-and-under-what-conditions",
+          "source": "dailysabah.com",
+          "pubDate": "2026-06-14T21:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ballot box in Horn of Africa : For whom and under what conditions ?"
+        },
+        {
+          "title": "Three Ethiopian Entrepreneur , Named Among Africa Top 100 Business Heroes for 2026",
+          "link": "https://capitalethiopia.com/2026/06/14/three-ethiopian-entrepreneur-named-among-africas-top-100-business-heroes-for-2026/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-06-14T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Three Ethiopian Entrepreneur , Named Among Africa Top 100 Business Heroes for 2026"
+        },
+        {
+          "title": "Vietnam and Philippines upgrade their ties : Its strategic significance",
+          "link": "https://timesofindia.indiatimes.com/blogs/ChanakyaCode/vietnam-and-philippines-upgrade-their-ties-its-strategic-significance/",
+          "source": "timesofindia.indiatimes.com",
+          "pubDate": "2026-06-13T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Vietnam and Philippines upgrade their ties : Its strategic significance"
         }
       ]
     }
