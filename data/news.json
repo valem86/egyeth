@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-06-21T22:47:19.121Z",
-  "feedsChecked": 7,
+  "generatedAt": "2026-06-22T18:06:45.157Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Kenya: Somalia's President Holds Talks With Kenya's Ruto Amid Aussom Funding Concerns",
+          "link": "https://allafrica.com/stories/202606220511.html",
+          "description": "[Shabelle] Narok -- Somali President Hassan Sheikh Mohamud paid an unannounced visit to Kenya on Sunday, holding face-to-face talks with Kenyan President William Ruto in the southwestern town of Narok, as regional leaders grapple with mounting concerns over security and the future of international support for Somalia.",
+          "pubDate": "Mon, 22 Jun 2026 12:09:30 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Somalia's President Holds Talks With Kenya's Ruto Amid Aussom Funding Concerns"
+        },
         {
           "title": "Egypt, Turkey, Pakistan, and Saudi Arabia FMs discuss regional security",
           "link": "http://www.africanews.com/2026/06/21/egypt-turkey-pakistan-and-saudi-arabia-fms-discuss-regional-security/",
@@ -23,6 +32,24 @@
           "source": "BBC World",
           "lang": "en",
           "titleIt": "Drones create the first-ever Fifa scoreboard in Seattle sky"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+        },
+        {
+          "title": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026",
+          "link": "https://www.crisisgroup.org/evt/africa/sudan-south-sudan-and-somalia-key-peace-and-security-priorities-africa-2026",
+          "description": "In this online event, Crisis Group experts discussed peace and security priorities for the African continent in 2026, zooming in on Somalia, Sudan and South Sudan ahead of the African Union's summit of heads of state.&nbsp;",
+          "pubDate": "Thursday, February 12, 2026 - 16:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026"
         }
       ]
     },
@@ -30,13 +57,40 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Somaliland offers Israel a rare opportunity in the Muslim world",
-          "link": "http://www.jpost.com/jerusalem-report/article-899326",
-          "source": "jpost.com",
-          "pubDate": "2026-06-21T13:45:00Z",
+          "title": "Kenya labour minister accused over Russian forced recruitment",
+          "link": "http://www.africanews.com/2026/06/22/kenya-labour-minister-accused-over-russian-forced-recruitment/",
+          "description": "A Kenyan family's search for opportunity has ended in tragedy and sparked serious allegations against Labour Minister Alfred Mutua.",
+          "pubDate": "Mon, 22 Jun 2026 13:12:59 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland offers Israel a rare opportunity in the Muslim world"
+          "titleIt": "Kenya labour minister accused over Russian forced recruitment"
+        },
+        {
+          "title": "Kenya: Somalia's President Holds Talks With Kenya's Ruto Amid Aussom Funding Concerns",
+          "link": "https://allafrica.com/stories/202606220511.html",
+          "description": "[Shabelle] Narok -- Somali President Hassan Sheikh Mohamud paid an unannounced visit to Kenya on Sunday, holding face-to-face talks with Kenyan President William Ruto in the southwestern town of Narok, as regional leaders grapple with mounting concerns over security and the future of international support for Somalia.",
+          "pubDate": "Mon, 22 Jun 2026 12:09:30 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Somalia's President Holds Talks With Kenya's Ruto Amid Aussom Funding Concerns"
+        },
+        {
+          "title": "The 2026 edition of “Lab Innova for Africa ‘Luca Attanasio’” has opened in Kenya",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/06/22/the-2026-edition-of-lab-innova-for-africa-luca-attanasio-has_730cb1aa-f7d2-4345-bfd2-8d48e0595fcc.html",
+          "description": "(ANSA) - NAIROBI, 22 GIU - The 2026 edition of the “Luca Attanasio” Lab Innova for Africa project for Kenya was inaugurated in Nairobi. The technical and managerial training course, promoted by the ICE Agency, includes an integrated program of assistance and training aimed at supporting the development and internationalization of Kenyan startups and innovative companies operating in the ICT sector and digital technologies. The opening day featured remarks by Marco Scoppa, Deputy Head of Mission at the Italian Embassy in Kenya; Giuseppe Manenti, Director of the ICE Office in Nairobi; and Mercy ",
+          "pubDate": "Mon, 22 Jun 2026 12:35:49 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "The 2026 edition of “Lab Innova for Africa ‘Luca Attanasio’” has opened in Kenya"
+        },
+        {
+          "title": "Africa: With 2030 Looming, Ocean Leaders Warn Time Is Running Out for 30x30",
+          "link": "https://allafrica.com/stories/202606220204.html",
+          "description": "[allAfrica] Mombasa, Kenya -- A significant challenge for the conservation sector is the 30x30 goal to protect 30% of the planet's oceans by 2030. It heavily depends on the High Seas Treaty (BBNJ agreement), which is the first legally binding agreement to establish Marine Protected Areas (MPAs) in the open seas. Before the treaty, nearly half the planet's ocean surface, the high seas, had almost no formal protection, with less than 1% safeguarded. The agreement is now the essential pathway to deliver the roughly 11 million km² of",
+          "pubDate": "Mon, 22 Jun 2026 07:52:09 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: With 2030 Looming, Ocean Leaders Warn Time Is Running Out for 30x30"
         },
         {
           "title": "Top UN official visits refugee inclusion project in Ethiopia",
@@ -48,172 +102,46 @@
           "titleIt": "Top UN official visits refugee inclusion project in Ethiopia"
         },
         {
-          "title": "Somaliland Opens Embassy in Jerusalem Months After Historic Recognition",
-          "link": "https://www.military.com/somaliland-president-opens-embassy-in-jerusalem-during-historic-visit",
-          "source": "military.com",
-          "pubDate": "2026-06-21T07:45:00Z",
+          "title": "Tajani says Araghchi assured him of safe departure of Grimaldi ship",
+          "link": "https://www.ansa.it/english/news/world/2026/06/17/tajani-says-araghchi-assured-him-of-safe-departure-of-grimaldi-ship_560b1afd-f529-48f1-8a7e-12c7973a41ff.html",
+          "description": "(ANSA) - ROME, JUN 17 - Foreign Minister Antonio Tajani said Wednesday his Iranian counterpart Abbas Araghchi had assured him of the safe departure of an Italian ship, the Grimaldi Group's car carrier Grande Torino, that has been blocked in the Persian Gulf for months. Araghchi, said Tajani on X, reporting on a phone call with his counterpart, \"assured me that in the next few hours the Iranian authorities will ensure the conditions for the safe departure of the Italian Grimaldi ship 'Grande Torino,'\" \"blocked for months in the Gulf.\" (ANSA). Read article...",
+          "pubDate": "Wed, 17 Jun 2026 19:11:38 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Opens Embassy in Jerusalem Months After Historic Recognition"
+          "titleIt": "Tajani says Araghchi assured him of safe departure of Grimaldi ship"
         },
         {
-          "title": "JNS Policy Summit maps post – Oct . 7 pro - Israel game plan",
-          "link": "https://www.jns.org/news/israel-news/jns-policy-summit-maps-post-oct-7-pro-israel-game-plan",
-          "source": "jns.org",
-          "pubDate": "2026-06-21T07:30:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "JNS Policy Summit maps post – Oct . 7 pro - Israel game plan"
-        },
-        {
-          "title": "JNS Policy Summit maps post – Oct . 7 pro - Israel game plan",
-          "link": "https://www.clevelandjewishnews.com/jns/jns-policy-summit-maps-post-oct-7-pro-israel-game-plan/article_63700322-0f0a-553e-928d-30912a8ca35c.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-06-21T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "JNS Policy Summit maps post – Oct . 7 pro - Israel game plan"
-        },
-        {
-          "title": "Bangladesh Myanmar challenge is no longer only about the Rohingya – The Frontier Post",
-          "link": "https://thefrontierpost.com/bangladeshs-myanmar-challenge-is-no-longer-only-about-the-rohingya/",
-          "source": "thefrontierpost.com",
-          "pubDate": "2026-06-21T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Bangladesh Myanmar challenge is no longer only about the Rohingya – The Frontier Post"
-        },
-        {
-          "title": "Growing Israeli Interest in Somaliland",
-          "link": "https://wardheernews.com/growing-israeli-interest-in-somaliland/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-06-21T03:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Growing Israeli Interest in Somaliland"
-        },
-        {
-          "title": "Ethiopia , US Top Hargeisa Priority List As President Abdullahi Confirms Open Diplomatic Channels",
-          "link": "https://www.thereporterethiopia.com/51281/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-20T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia , US Top Hargeisa Priority List As President Abdullahi Confirms Open Diplomatic Channels"
-        },
-        {
-          "title": "Somaliland president visits Israel after recognition agreement",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/somaliland-president-visits-israel-after-recognition-agreement",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-06-20T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland president visits Israel after recognition agreement"
-        },
-        {
-          "title": "Somaliland - Israel Business Forum Signals Deepening Ties as Somalia Political Crisis Fuels Fears Over the Country Future",
-          "link": "https://wardheernews.com/somaliland-israel-business-forum-signals-deepening-ties-as-somalias-political-crisis-fuels-fears-over-the-countrys-future/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-06-19T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland - Israel Business Forum Signals Deepening Ties as Somalia Political Crisis Fuels Fears Over the Country Future"
-        },
-        {
-          "title": "My Word : The dangers of Iranian spins | The Jerusalem Post",
-          "link": "http://www.jpost.com/opinion/article-899837",
-          "source": "jpost.com",
-          "pubDate": "2026-06-19T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "My Word : The dangers of Iranian spins | The Jerusalem Post"
-        },
-        {
-          "title": "Africa: Our Ocean Conference Ends with Familiar Question - Will Pledges Be Met?",
-          "link": "https://allafrica.com/stories/202606190001.html",
-          "description": "[allAfrica] Mombasa, Kenya -- A new round of pledges and partnerships marked the closing ceremony of the 11th Our Ocean Conference in Mombasa. Countries and stakeholders outlined commitments to scale up ocean action, finance and innovation. The question, however, remains whether these will amount to yet another list of promises.",
-          "pubDate": "Fri, 19 Jun 2026 07:00:01 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: Our Ocean Conference Ends with Familiar Question - Will Pledges Be Met?"
-        },
-        {
-          "title": "Tarsan Says Abdirahman Irro Misled Israel PM Benjamin Netanyahu on Somaliland",
-          "link": "https://diplomat.so/articles/1470/Tarsan-Says-Abdirahman-Irro-Misled-Israel-PM-Benjamin-Netanyahu-on-Somaliland",
-          "source": "diplomat.so",
-          "pubDate": "2026-06-19T02:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tarsan Says Abdirahman Irro Misled Israel PM Benjamin Netanyahu on Somaliland"
-        },
-        {
-          "title": "ISRAEL - SOMALILAND TIES : Foreign Minister Leaves Door Open To Future Israeli Military Presence",
-          "link": "https://www.theyeshivaworld.com/news/israel-news/2564212/israel-somaliland-ties-foreign-minister-leaves-door-open-to-future-israeli-military-presence.html",
-          "source": "theyeshivaworld.com",
-          "pubDate": "2026-06-19T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "ISRAEL - SOMALILAND TIES : Foreign Minister Leaves Door Open To Future Israeli Military Presence"
-        },
-        {
-          "title": "IGAD Urges Respect For Somalia Sovereignty After Somaliland Opens Embassy In Jerusalem",
-          "link": "https://www.thereporterethiopia.com/51235/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-18T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "IGAD Urges Respect For Somalia Sovereignty After Somaliland Opens Embassy In Jerusalem"
-        },
-        {
-          "title": "Links 6 / 18 / 2026 | naked capitalism",
-          "link": "https://www.nakedcapitalism.com/2026/06/links-6-18-2026.html",
-          "source": "nakedcapitalism.com",
-          "pubDate": "2026-06-18T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Links 6 / 18 / 2026 | naked capitalism"
-        },
-        {
-          "title": "Iran peace welcome , but 2 . 5 out of 3 biggest crises of the world remain to be resolved",
-          "link": "https://countercurrents.org/2026/06/iran-peace-welcome-but-2-5-out-of-3-biggest-crises-of-the-world-remain-to-be-resolved/",
-          "source": "countercurrents.org",
-          "pubDate": "2026-06-18T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran peace welcome , but 2 . 5 out of 3 biggest crises of the world remain to be resolved"
-        },
-        {
-          "title": "Somaliland president visits children receiving life - saving heart treatment in Israel",
-          "link": "https://www.ynetnews.com/article/r1avrdezmx",
-          "source": "ynetnews.com",
-          "pubDate": "2026-06-18T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland president visits children receiving life - saving heart treatment in Israel"
-        },
-        {
-          "title": "Somaliland president meets children undergoing heart treatment in Israel",
-          "link": "https://www.clevelandjewishnews.com/jns/somaliland-president-meets-children-undergoing-heart-treatment-in-israel/article_d511e749-dace-591e-9b7a-ababcccfaf0c.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-06-18T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland president meets children undergoing heart treatment in Israel"
-        },
-        {
-          "title": "Kenya Protests Planned as Public Anger Rises Over U . S . Ebola Facility",
-          "link": "https://foreignpolicy.com/2026/06/17/kenya-trump-ruto-ties-us-ebola-facility-protests/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-06-17T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kenya Protests Planned as Public Anger Rises Over U . S . Ebola Facility"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Kenya: Somalia's President Holds Talks With Kenya's Ruto Amid Aussom Funding Concerns",
+          "link": "https://allafrica.com/stories/202606220511.html",
+          "description": "[Shabelle] Narok -- Somali President Hassan Sheikh Mohamud paid an unannounced visit to Kenya on Sunday, holding face-to-face talks with Kenyan President William Ruto in the southwestern town of Narok, as regional leaders grapple with mounting concerns over security and the future of international support for Somalia.",
+          "pubDate": "Mon, 22 Jun 2026 12:09:30 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Somalia's President Holds Talks With Kenya's Ruto Amid Aussom Funding Concerns"
+        },
+        {
+          "title": "More than 3000 Malawian nationals deported in South Africa",
+          "link": "http://www.africanews.com/2026/06/22/more-than-3000-malawian-nationals-deported-in-south-africa/",
+          "description": "More than 3000 Malawian nationals have been deported in South Africa after thousands protested earlier this year in Johannesburg and other parts of the country against illegal immigration that has fueled tensions between locals and foreign nationals.",
+          "pubDate": "Mon, 22 Jun 2026 10:15:39 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "More than 3000 Malawian nationals deported in South Africa"
+        },
         {
           "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
           "link": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
@@ -242,31 +170,22 @@
           "titleIt": "Egypt, Turkey, Pakistan, and Saudi Arabia FMs discuss regional security"
         },
         {
-          "title": "Africa: Rwanda and South Africa - From Diplomatic Frost to Strategic Partnership and Greater People-to-People Mobility",
-          "link": "https://allafrica.com/stories/202606200094.html",
-          "description": "[allAfrica] After more than a decade of diplomatic estrangement, Rwanda and South Africa appear to be taking meaningful steps toward rebuilding a relationship long marked by suspicion, political tensions, and missed opportunities. Recent high-level engagements between Kigali and Pretoria suggest a growing recognition that Africa's future is better served by cooperation than confrontation. As both countries seek to strengthen their positions within a rapidly evolving continental landscape, the restoration of",
-          "pubDate": "Sat, 20 Jun 2026 17:08:11 GMT",
-          "source": "AllAfrica",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "titleIt": "Africa: Rwanda and South Africa - From Diplomatic Frost to Strategic Partnership and Greater People-to-People Mobility"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         },
         {
-          "title": "Italy to reopen Tehran embassy on Friday says Tajani",
-          "link": "https://www.ansa.it/english/news/politics/2026/06/17/italy-to-reopen-tehran-embassy-on-friday-says-tajani_f480b8ed-7312-41af-8f51-9e45f09d8a31.html",
-          "description": "(ANSA) - ROME, JUN 17 - Deputy Premier and Foreign Minister Antonio Tajani told a question time session in parliament on Wednesday that Italy will reopen its embassy in Tehran on Friday after Iran and the United States reached an agreement to end the war in the Middle East. Premier Giorgia Meloni's government has already said Italy is willing to take part in an international naval mission for the reopening of the Strait of Hormuz. (ANSA). Read article...",
-          "pubDate": "Wed, 17 Jun 2026 15:30:32 +0200",
-          "source": "ANSA English",
+          "title": "As war keeps spreading, the African Union must find its teeth",
+          "link": "https://www.crisisgroup.org/opd/africa/war-keeps-spreading-african-union-must-find-its-teeth",
+          "description": "With the continental body at its weakest point since its inception, this week’s summit in Ethiopia cannot be another talk shop. A united front is crucial to resolve intensifying conflicts tearing through Africa.",
+          "pubDate": "Wednesday, February 11, 2026 - 15:04",
+          "source": "Crisis Group",
           "lang": "en",
-          "titleIt": "Italy to reopen Tehran embassy on Friday says Tajani"
-        },
-        {
-          "title": "Italy to reopen Tehran embassy on Friday says Tajani",
-          "link": "https://www.ansa.it/english/news/2026/06/17/italy-to-reopen-tehran-embassy-on-friday-says-tajani_31fd4260-b434-4087-a57c-87f32db81eb1.html",
-          "description": "(ANSA) - ROME, JUN 17 - Deputy Premier and Foreign Minister Antonio Tajani told a question time session in parliament on Wednesday that Italy will reopen its embassy in Tehran on Friday after Iran and the United States reached an agreement to end the war in the Middle East. Premier Giorgia Meloni's government has already said Italy is willing to take part in an international naval mission for the reopening of the Strait of Hormuz. (ANSA). Read article...",
-          "pubDate": "Wed, 17 Jun 2026 15:28:32 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italy to reopen Tehran embassy on Friday says Tajani"
+          "titleIt": "As war keeps spreading, the African Union must find its teeth"
         }
       ]
     },
@@ -274,190 +193,199 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Crunch - time for Bafana Bafana - Ockham Weekly News Diary",
-          "link": "https://www.politicsweb.co.za/news/crunch-time-for-bafana-bafana-ockham-weekly-news-diary",
-          "source": "politicsweb.co.za",
-          "pubDate": "2026-06-21T22:00:00Z",
+          "title": "Michael Mina shares Alexandria - inspired steak sandwich recipe",
+          "link": "https://www.dailyfreeman.com/2026/06/22/michael-mina-alexandria-inspired-steak-sandwich-recipe/",
+          "source": "dailyfreeman.com",
+          "pubDate": "2026-06-22T17:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Crunch - time for Bafana Bafana - Ockham Weekly News Diary"
+          "titleIt": "Michael Mina shares Alexandria - inspired steak sandwich recipe"
         },
         {
-          "title": "Abu Qir Fertilizers and Chemical Industries Company joins Egypt Economic Titans",
-          "link": "https://meobserver.org/middle-east/egypt/2025/06/19/abu-qir-fertilizers-and-chemical-industries-company-joins-egypts-economic-titans/",
-          "source": "meobserver.org",
-          "pubDate": "2026-06-21T21:30:00Z",
+          "title": "Iran Agrees To Allow Nuclear Inspectors Back Into Country",
+          "link": "http://www.europesun.com/news/279139818/iran-agrees-to-allow-nuclear-inspectors-back-into-country",
+          "source": "europesun.com",
+          "pubDate": "2026-06-22T17:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Abu Qir Fertilizers and Chemical Industries Company joins Egypt Economic Titans"
+          "titleIt": "Iran Agrees To Allow Nuclear Inspectors Back Into Country"
         },
         {
-          "title": "Is IMF cure worse than the disease ?",
-          "link": "https://tribune.com.pk/story/2614426/is-imfs-cure-worse-than-the-disease",
-          "source": "tribune.com.pk",
-          "pubDate": "2026-06-21T21:00:00Z",
+          "title": "World Bank : Double Dividend for MENAAP in Heat",
+          "link": "https://www.miragenews.com/world-bank-double-dividend-for-menaap-in-heat-1696620/",
+          "source": "miragenews.com",
+          "pubDate": "2026-06-22T17:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Is IMF cure worse than the disease ?"
+          "titleIt": "World Bank : Double Dividend for MENAAP in Heat"
         },
         {
-          "title": "World Cup , Day 11 : How and what to watch",
-          "link": "https://www.sounderatheart.com/2026/06/world-cup-day-10-how-and-what-to-watch-2/",
-          "source": "sounderatheart.com",
-          "pubDate": "2026-06-21T20:30:00Z",
+          "title": "Exiled Tibetans urge BRICS leaders to look into the international laws , discuss human rights situation in Tibet",
+          "link": "http://www.iraqsun.com/news/279140280/exiled-tibetans-urge-brics-leaders-to-look-into-the-international-laws-discuss-human-rights-situation-in-tibet",
+          "source": "iraqsun.com",
+          "pubDate": "2026-06-22T17:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "World Cup , Day 11 : How and what to watch"
+          "titleIt": "Exiled Tibetans urge BRICS leaders to look into the international laws , discuss human rights situation in Tibet"
         },
         {
-          "title": "Majority of Canadians agree historic injustices against Indigenous peoples still relevant today : new survey",
-          "link": "https://theprovince.com/news/canada/majority-of-canadians-agree-historic-injustices-against-indigenous-peoples-still-relevant-today-new-survey/wcm/5fc1d4e0-f3c6-433d-9f4b-1c2fe529f8ec",
-          "source": "theprovince.com",
-          "pubDate": "2026-06-21T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Majority of Canadians agree historic injustices against Indigenous peoples still relevant today : new survey"
-        },
-        {
-          "title": "I built a company from scratch : How billionaire Frank Stronach went from rags to riches to convictions",
-          "link": "https://theprovince.com/news/canada/frank-stronach-from-rags-to-riches/wcm/006d0634-747a-4b5a-951c-5be98d010508",
-          "source": "theprovince.com",
-          "pubDate": "2026-06-21T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "I built a company from scratch : How billionaire Frank Stronach went from rags to riches to convictions"
-        },
-        {
-          "title": "Pakistan , Egypt vow to strengthen cooperation across key sectors",
-          "link": "https://www.radio.gov.pk/21-06-2026/pakistan-egypt-vow-to-strengthen-cooperation-across-key-sectors",
-          "source": "radio.gov.pk",
-          "pubDate": "2026-06-21T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pakistan , Egypt vow to strengthen cooperation across key sectors"
-        },
-        {
-          "title": "Egypt lauds Pakistan role in promoting dialogue in region",
-          "link": "https://www.radio.gov.pk/21-06-2026/egyptian-president-lauds-pakistans-role-in-promoting-dialogue",
-          "source": "radio.gov.pk",
-          "pubDate": "2026-06-21T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt lauds Pakistan role in promoting dialogue in region"
-        },
-        {
-          "title": "Regional Escalation Could Undermine Diplomatic Track",
-          "link": "http://www.oklahomacitysun.com/news/279137581/regional-escalation-could-undermine-diplomatic-track",
-          "source": "oklahomacitysun.com",
-          "pubDate": "2026-06-21T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Regional Escalation Could Undermine Diplomatic Track"
-        },
-        {
-          "title": "Regional Escalation Could Undermine Diplomatic Track",
-          "link": "http://www.greekherald.com/news/279137581/regional-escalation-could-undermine-diplomatic-track",
-          "source": "greekherald.com",
-          "pubDate": "2026-06-21T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Regional Escalation Could Undermine Diplomatic Track"
-        },
-        {
-          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
-          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
-          "source": "dw.com",
-          "pubDate": "2026-06-21T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
-        },
-        {
-          "title": "Regional Escalation Could Undermine Diplomatic Track",
-          "link": "http://www.pakistantelegraph.com/news/279137581/regional-escalation-could-undermine-diplomatic-track",
-          "source": "pakistantelegraph.com",
-          "pubDate": "2026-06-21T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Regional Escalation Could Undermine Diplomatic Track"
-        },
-        {
-          "title": "10 New Facts About Famous People And Places",
-          "link": "https://listverse.com/2019/08/05/10-new-facts-about-famous-people-and-places/",
-          "source": "listverse.com",
-          "pubDate": "2026-06-21T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "10 New Facts About Famous People And Places"
-        },
-        {
-          "title": "Regional Escalation Could Undermine Diplomatic Track",
-          "link": "http://www.chinanationalnews.com/news/279137581/regional-escalation-could-undermine-diplomatic-track",
-          "source": "chinanationalnews.com",
-          "pubDate": "2026-06-21T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Regional Escalation Could Undermine Diplomatic Track"
-        },
-        {
-          "title": "Fifth Franchise Programme to support Omani brands launched",
-          "link": "https://timesofoman.com/article/173311-fifth-franchise-programme-to-support-omani-brands-launched",
-          "source": "timesofoman.com",
-          "pubDate": "2026-06-21T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fifth Franchise Programme to support Omani brands launched"
-        },
-        {
-          "title": "Morocco - Egypt Partnership : Two Giants Build Africa Factory Bloc",
-          "link": "https://www.riotimesonline.com/morocco-egypt-partnership-industrial-integration-2026/",
+          "title": "Sudan War : Foreign Money and Mercenaries Fuel It",
+          "link": "https://www.riotimesonline.com/sudan-war-foreign-money-mercenaries-2026/",
           "source": "riotimesonline.com",
-          "pubDate": "2026-06-21T18:00:00Z",
+          "pubDate": "2026-06-22T17:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Morocco - Egypt Partnership : Two Giants Build Africa Factory Bloc"
+          "titleIt": "Sudan War : Foreign Money and Mercenaries Fuel It"
         },
         {
-          "title": "Regional Escalation Could Undermine Diplomatic Track",
-          "link": "http://www.batonrougepost.com/news/279137581/regional-escalation-could-undermine-diplomatic-track",
-          "source": "batonrougepost.com",
-          "pubDate": "2026-06-21T18:00:00Z",
+          "title": "Vance Hails  Milestone  Of Iran Allowing IAEA Inspectors",
+          "link": "http://www.europesun.com/news/279139741/vance-hails-milestone-of-iran-allowing-iaea-inspectors",
+          "source": "europesun.com",
+          "pubDate": "2026-06-22T17:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Regional Escalation Could Undermine Diplomatic Track"
+          "titleIt": "Vance Hails  Milestone  Of Iran Allowing IAEA Inspectors"
         },
         {
-          "title": "Regional Escalation Could Undermine Diplomatic Track",
-          "link": "http://www.iranherald.com/news/279137581/regional-escalation-could-undermine-diplomatic-track",
-          "source": "iranherald.com",
-          "pubDate": "2026-06-21T17:45:00Z",
+          "title": "Iran war triggers global race to build oil reserves : Bousso",
+          "link": "https://www.oilandgas360.com/iran-war-triggers-global-race-to-build-oil-reserves-bousso/",
+          "source": "oilandgas360.com",
+          "pubDate": "2026-06-22T17:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Regional Escalation Could Undermine Diplomatic Track"
+          "titleIt": "Iran war triggers global race to build oil reserves : Bousso"
         },
         {
-          "title": "Regional Escalation Could Undermine Diplomatic Track",
-          "link": "http://www.sierraleonetimes.com/news/279137581/regional-escalation-could-undermine-diplomatic-track",
-          "source": "sierraleonetimes.com",
-          "pubDate": "2026-06-21T17:45:00Z",
+          "title": "Moscow shoots down more than 80 drones ; Russian attacks kill six in Ukraine",
+          "link": "https://www.yahoo.com/news/articles/moscow-shoots-down-more-than-80-drones-russian-attacks-kill-six-in-ukraine-101208468.html",
+          "source": "yahoo.com",
+          "pubDate": "2026-06-22T17:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Regional Escalation Could Undermine Diplomatic Track"
+          "titleIt": "Moscow shoots down more than 80 drones ; Russian attacks kill six in Ukraine"
         },
         {
-          "title": "Regional Escalation Could Undermine Diplomatic Track",
-          "link": "http://www.orlandoecho.com/news/279137581/regional-escalation-could-undermine-diplomatic-track",
-          "source": "orlandoecho.com",
-          "pubDate": "2026-06-21T17:45:00Z",
+          "title": "Vance Hails  Milestone  Of Iran Allowing IAEA Inspectors",
+          "link": "http://www.shanghainews.net/news/279139741/vance-hails-milestone-of-iran-allowing-iaea-inspectors",
+          "source": "shanghainews.net",
+          "pubDate": "2026-06-22T17:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Regional Escalation Could Undermine Diplomatic Track"
+          "titleIt": "Vance Hails  Milestone  Of Iran Allowing IAEA Inspectors"
+        },
+        {
+          "title": "Iran Agrees To Allow Nuclear Inspectors Back Into Country",
+          "link": "http://www.shanghainews.net/news/279139818/iran-agrees-to-allow-nuclear-inspectors-back-into-country",
+          "source": "shanghainews.net",
+          "pubDate": "2026-06-22T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran Agrees To Allow Nuclear Inspectors Back Into Country"
+        },
+        {
+          "title": "Exiled Tibetans urge BRICS leaders to look into the international laws , discuss human rights situation in Tibet",
+          "link": "http://www.shanghainews.net/news/279140280/exiled-tibetans-urge-brics-leaders-to-look-into-the-international-laws-discuss-human-rights-situation-in-tibet",
+          "source": "shanghainews.net",
+          "pubDate": "2026-06-22T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Exiled Tibetans urge BRICS leaders to look into the international laws , discuss human rights situation in Tibet"
+        },
+        {
+          "title": "Economy - Business - Ahram Online",
+          "link": "https://english.ahram.org.eg/Category/3/12/Business/Monetary-easing,-digital-reforms-reshape.aspx",
+          "source": "english.ahram.org.eg",
+          "pubDate": "2026-06-22T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Economy - Business - Ahram Online"
+        },
+        {
+          "title": "Trump really is becoming King",
+          "link": "http://www.bozemandailychronicle.com/opinions/trump-really-is-becoming-king/article_95793f83-765c-42cd-9641-c864b09cb074.html",
+          "source": "bozemandailychronicle.com",
+          "pubDate": "2026-06-22T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump really is becoming King"
+        },
+        {
+          "title": "Michael Mina shares Alexandria - inspired steak sandwich recipe",
+          "link": "https://www.dailynews.com/2026/06/22/michael-mina-alexandria-inspired-steak-sandwich-recipe/",
+          "source": "dailynews.com",
+          "pubDate": "2026-06-22T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Michael Mina shares Alexandria - inspired steak sandwich recipe"
+        },
+        {
+          "title": "Exiled Tibetans urge BRICS leaders to look into the international laws , discuss human rights situation in Tibet",
+          "link": "http://www.calcuttanews.net/news/279140280/exiled-tibetans-urge-brics-leaders-to-look-into-the-international-laws-discuss-human-rights-situation-in-tibet",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-06-22T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Exiled Tibetans urge BRICS leaders to look into the international laws , discuss human rights situation in Tibet"
+        },
+        {
+          "title": "The Biden verdict is in , and it isnt pretty - Las Vegas Sun News",
+          "link": "https://lasvegassun.com/news/2026/jun/22/the-biden-verdict-is-in-and-it-isnt-pretty/",
+          "source": "lasvegassun.com",
+          "pubDate": "2026-06-22T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Biden verdict is in , and it isnt pretty - Las Vegas Sun News"
+        },
+        {
+          "title": "NSA Doval discusses West Asia situation during meeting with Iranian Dy Secy Defence Ghadir Nezamipour",
+          "link": "http://www.calcuttanews.net/news/279140172/nsa-doval-discusses-west-asia-situation-during-meeting-with-iranian-dy-secy-defence-ghadir-nezamipour",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-06-22T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "NSA Doval discusses West Asia situation during meeting with Iranian Dy Secy Defence Ghadir Nezamipour"
+        },
+        {
+          "title": "AI next compute layer is likely to come from outside Silicon Valley",
+          "link": "https://www.computerweekly.com/opinion/AIs-next-compute-layer-is-likely-to-come-from-outside-Silicon-Valley",
+          "source": "computerweekly.com",
+          "pubDate": "2026-06-22T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AI next compute layer is likely to come from outside Silicon Valley"
+        },
+        {
+          "title": "Michael Mina shares Alexandria - inspired steak sandwich recipe",
+          "link": "https://www.redlandsdailyfacts.com/2026/06/22/michael-mina-alexandria-inspired-steak-sandwich-recipe/",
+          "source": "redlandsdailyfacts.com",
+          "pubDate": "2026-06-22T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Michael Mina shares Alexandria - inspired steak sandwich recipe"
+        },
+        {
+          "title": "Michael Mina shares Alexandria - inspired steak sandwich recipe",
+          "link": "https://www.dailypress.com/2026/06/22/michael-mina-alexandria-inspired-steak-sandwich-recipe/",
+          "source": "dailypress.com",
+          "pubDate": "2026-06-22T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Michael Mina shares Alexandria - inspired steak sandwich recipe"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Uganda: Parents, Teachers Protest Survey Amid Threat of School Demolition in Buikwe",
+          "link": "https://allafrica.com/stories/202606220836.html",
+          "description": "[Nile Post] Parents and teachers in Sugu Village, Ssi-Bukunja Sub-county, Buikwe District, are living in fear that their community school could be demolished at any time due to an ongoing land dispute affecting local residents.",
+          "pubDate": "Mon, 22 Jun 2026 16:54:32 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Uganda: Parents, Teachers Protest Survey Amid Threat of School Demolition in Buikwe"
+        },
         {
           "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
           "link": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
