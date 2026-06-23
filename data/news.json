@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-23T19:32:00.011Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-06-23T23:42:17.707Z",
+  "feedsChecked": 7,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -86,30 +86,84 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt, Turkey, Pakistan, and Saudi Arabia FMs discuss regional security"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
-        },
-        {
-          "title": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026",
-          "link": "https://www.crisisgroup.org/evt/africa/sudan-south-sudan-and-somalia-key-peace-and-security-priorities-africa-2026",
-          "description": "In this online event, Crisis Group experts discussed peace and security priorities for the African continent in 2026, zooming in on Somalia, Sudan and South Sudan ahead of the African Union's summit of heads of state.&nbsp;",
-          "pubDate": "Thursday, February 12, 2026 - 16:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.heraldglobe.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "heraldglobe.com",
+          "pubDate": "2026-06-23T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        },
+        {
+          "title": "Ansarullah Official Issues Stark Warning Over Alleged Israeli Naval Presence Near Somalia",
+          "link": "https://wardheernews.com/ansarullah-official-issues-stark-warning-over-alleged-israeli-naval-presence-near-somalia/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-06-23T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ansarullah Official Issues Stark Warning Over Alleged Israeli Naval Presence Near Somalia"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.africaleader.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "africaleader.com",
+          "pubDate": "2026-06-23T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.kenyastar.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "kenyastar.com",
+          "pubDate": "2026-06-23T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        },
+        {
+          "title": "Links 6 / 23 / 2026 | naked capitalism",
+          "link": "https://www.nakedcapitalism.com/2026/06/links-6-23-2026.html",
+          "source": "nakedcapitalism.com",
+          "pubDate": "2026-06-23T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Links 6 / 23 / 2026 | naked capitalism"
+        },
+        {
+          "title": "Israel deploys military team to Somaliland",
+          "link": "https://www.albawaba.net/news/israel-deploys-military-team-somaliland-1630976",
+          "source": "albawaba.net",
+          "pubDate": "2026-06-23T04:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel deploys military team to Somaliland"
+        },
+        {
+          "title": "Somaliland foreign ties spark Africa debate",
+          "link": "https://cajnewsafrica.com/2026/06/23/somaliland-foreign-ties-spark-africa-debate/",
+          "source": "cajnewsafrica.com",
+          "pubDate": "2026-06-23T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland foreign ties spark Africa debate"
+        },
+        {
+          "title": "Around 50 Israeli Soldiers Deployed To Somaliland Following Security Agreements - Report",
+          "link": "https://www.i24news.tv/en/news/israel/diplomacy-defense/artc-around-50-israeli-soldiers-deployed-to-somaliland-following-security-agreements-report",
+          "source": "i24news.tv",
+          "pubDate": "2026-06-22T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Around 50 Israeli Soldiers Deployed To Somaliland Following Security Agreements - Report"
+        },
         {
           "title": "Ethiopia strengthens efforts to support refugee self-reliance",
           "link": "http://www.africanews.com/2026/06/22/ethiopia-strengthens-efforts-to-support-refugee-self-reliance/",
@@ -118,6 +172,24 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopia strengthens efforts to support refugee self-reliance"
+        },
+        {
+          "title": "The target : Qatar and Ron Dermer",
+          "link": "https://www.ynetnews.com/opinions-analysis/article/hjnw9c8mze",
+          "source": "ynetnews.com",
+          "pubDate": "2026-06-22T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The target : Qatar and Ron Dermer"
+        },
+        {
+          "title": "Israel Reviews Somaliland Illegal Recognition After Global Backlash",
+          "link": "https://diplomat.so/articles/1480/Israel-Reviews-Somaliland-Illegal-Recognition-After-Global-Backlash",
+          "source": "diplomat.so",
+          "pubDate": "2026-06-22T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel Reviews Somaliland Illegal Recognition After Global Backlash"
         },
         {
           "title": "Kenya labour minister accused over Russian forced recruitment",
@@ -129,6 +201,15 @@
           "titleIt": "Kenya labour minister accused over Russian forced recruitment"
         },
         {
+          "title": "Israel deployed troops to Somaliland after recognition , source says",
+          "link": "https://www.middleeasteye.net/news/israel-deployed-troops-somaliland-after-recognition-official",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-06-22T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel deployed troops to Somaliland after recognition , source says"
+        },
+        {
           "title": "The 2026 edition of “Lab Innova for Africa ‘Luca Attanasio’” has opened in Kenya",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/06/22/the-2026-edition-of-lab-innova-for-africa-luca-attanasio-has_730cb1aa-f7d2-4345-bfd2-8d48e0595fcc.html",
           "description": "(ANSA) - NAIROBI, 22 GIU - The 2026 edition of the “Luca Attanasio” Lab Innova for Africa project for Kenya was inaugurated in Nairobi. The technical and managerial training course, promoted by the ICE Agency, includes an integrated program of assistance and training aimed at supporting the development and internationalization of Kenyan startups and innovative companies operating in the ICT sector and digital technologies. The opening day featured remarks by Marco Scoppa, Deputy Head of Mission at the Italian Embassy in Kenya; Giuseppe Manenti, Director of the ICE Office in Nairobi; and Mercy ",
@@ -136,6 +217,15 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The 2026 edition of “Lab Innova for Africa ‘Luca Attanasio’” has opened in Kenya"
+        },
+        {
+          "title": "Somaliland offers Israel a rare opportunity in the Muslim world",
+          "link": "http://www.jpost.com/jerusalem-report/article-899326",
+          "source": "jpost.com",
+          "pubDate": "2026-06-21T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland offers Israel a rare opportunity in the Muslim world"
         },
         {
           "title": "Top UN official visits refugee inclusion project in Ethiopia",
@@ -147,19 +237,82 @@
           "titleIt": "Top UN official visits refugee inclusion project in Ethiopia"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Somaliland Opens Embassy in Jerusalem Months After Historic Recognition",
+          "link": "https://www.military.com/somaliland-president-opens-embassy-in-jerusalem-during-historic-visit",
+          "source": "military.com",
+          "pubDate": "2026-06-21T07:45:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Somaliland Opens Embassy in Jerusalem Months After Historic Recognition"
+        },
+        {
+          "title": "JNS Policy Summit maps post – Oct . 7 pro - Israel game plan",
+          "link": "https://www.jns.org/news/israel-news/jns-policy-summit-maps-post-oct-7-pro-israel-game-plan",
+          "source": "jns.org",
+          "pubDate": "2026-06-21T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "JNS Policy Summit maps post – Oct . 7 pro - Israel game plan"
+        },
+        {
+          "title": "JNS Policy Summit maps post – Oct . 7 pro - Israel game plan",
+          "link": "https://www.clevelandjewishnews.com/jns/jns-policy-summit-maps-post-oct-7-pro-israel-game-plan/article_63700322-0f0a-553e-928d-30912a8ca35c.html",
+          "source": "clevelandjewishnews.com",
+          "pubDate": "2026-06-21T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "JNS Policy Summit maps post – Oct . 7 pro - Israel game plan"
+        },
+        {
+          "title": "Bangladesh Myanmar challenge is no longer only about the Rohingya – The Frontier Post",
+          "link": "https://thefrontierpost.com/bangladeshs-myanmar-challenge-is-no-longer-only-about-the-rohingya/",
+          "source": "thefrontierpost.com",
+          "pubDate": "2026-06-21T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bangladesh Myanmar challenge is no longer only about the Rohingya – The Frontier Post"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "K4GGWA and CNH Brand New Holland Launch Innovation Call to Accelerate Land Restoration Across the Great Green Wall",
+          "link": "https://csrwire.com/press-release/k4ggwa-and-cnh-brand-new-holland-launch-innovation-call-accelerate-land-restoration-across/",
+          "source": "csrwire.com",
+          "pubDate": "2026-06-23T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "K4GGWA and CNH Brand New Holland Launch Innovation Call to Accelerate Land Restoration Across the Great Green Wall"
+        },
+        {
+          "title": "DPP Ingonga Urges Joint Horn Of Africa Fight Against Human Trafficking , Migrant Smuggling",
+          "link": "https://capitalfm.africa/dpp-ingonga-urges-joint-horn-of-africa-fight-against-human-trafficking-migrant-smuggling/",
+          "source": "capitalfm.africa",
+          "pubDate": "2026-06-23T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "DPP Ingonga Urges Joint Horn Of Africa Fight Against Human Trafficking , Migrant Smuggling"
+        },
+        {
+          "title": "Ethiopia : Tigray Authorities Should Withdraw Abusive Law",
+          "link": "http://www.philippinetimes.com/news/279142939/ethiopia-tigray-authorities-should-withdraw-abusive-law",
+          "source": "philippinetimes.com",
+          "pubDate": "2026-06-23T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Tigray Authorities Should Withdraw Abusive Law"
+        },
+        {
+          "title": "Ethiopia : Tigray Authorities Should Withdraw Abusive Law",
+          "link": "https://www.hrw.org/news/2026/06/23/ethiopia-tigray-authorities-should-withdraw-abusive-law",
+          "source": "hrw.org",
+          "pubDate": "2026-06-23T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Tigray Authorities Should Withdraw Abusive Law"
+        },
         {
           "title": "As the climate changes , camels offer stability in the Horn of Africa",
           "link": "https://www.cgiar.org/news-events/news/climate-changes-camels-offer-stability-horn-africa",
@@ -303,229 +456,12 @@
           "lang": "en",
           "description": "",
           "titleIt": "Central Chinese province boosts China - Africa trade with policy innovation"
-        },
-        {
-          "title": "Central Chinese province boosts China - Africa trade with policy innovation",
-          "link": "http://www.nigeriasun.com/news/279140120/central-chinese-province-boosts-china-africa-trade-with-policy-innovation",
-          "source": "nigeriasun.com",
-          "pubDate": "2026-06-22T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Central Chinese province boosts China - Africa trade with policy innovation"
-        },
-        {
-          "title": "Economic Watch : Central Chinese province boosts China - Africa trade with policy innovation - Xinhua",
-          "link": "https://english.news.cn/20260622/7591d0df028943b2942baf58712f1946/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-06-22T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Economic Watch : Central Chinese province boosts China - Africa trade with policy innovation - Xinhua"
-        },
-        {
-          "title": "Ethiopia PM party wins landslide as fears grow of new conflict",
-          "link": "http://www.businessghana.com/site/news/politics/350620/Ethiopia-PM",
-          "source": "businessghana.com",
-          "pubDate": "2026-06-22T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia PM party wins landslide as fears grow of new conflict"
-        },
-        {
-          "title": "Eritrea : UN Expert Remains Lifeline As Grave Abuses Continue",
-          "link": "https://allafrica.com/stories/202606220366.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-22T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea : UN Expert Remains Lifeline As Grave Abuses Continue"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Pakistan to continue playing its due role for regional peace : PM",
-          "link": "https://www.radio.gov.pk/23-06-2026/pakistan-to-continue-playing-its-due-role-for-regional-peace-pm",
-          "source": "radio.gov.pk",
-          "pubDate": "2026-06-23T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pakistan to continue playing its due role for regional peace : PM"
-        },
-        {
-          "title": "Xinhua Headlines : China expo highlights supply chain resilience amid geopolitical uncertainty",
-          "link": "http://www.thailandnews.net/news/279142525/xinhua-headlines-china-expo-highlights-supply-chain-resilience-amid-geopolitical-uncertainty",
-          "source": "thailandnews.net",
-          "pubDate": "2026-06-23T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Xinhua Headlines : China expo highlights supply chain resilience amid geopolitical uncertainty"
-        },
-        {
-          "title": "Italian prosecutors demand long jail terms for Egyptians over murder of Italian student",
-          "link": "https://www.al-monitor.com/originals/2026/06/italian-prosecutors-demand-long-jail-terms-egyptians-over-murder-italian-student",
-          "source": "al-monitor.com",
-          "pubDate": "2026-06-23T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Italian prosecutors demand long jail terms for Egyptians over murder of Italian student"
-        },
-        {
-          "title": "Egypt - Syria Meetings Give Rapprochement New Momentum",
-          "link": "https://english.aawsat.com/arab-world/5287674-egypt-syria-meetings-give-rapprochement-new-momentum",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-06-23T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt - Syria Meetings Give Rapprochement New Momentum"
-        },
-        {
-          "title": "Xinhua Headlines : China expo highlights supply chain resilience amid geopolitical uncertainty",
-          "link": "http://www.shanghaisun.com/news/279142525/xinhua-headlines-china-expo-highlights-supply-chain-resilience-amid-geopolitical-uncertainty",
-          "source": "shanghaisun.com",
-          "pubDate": "2026-06-23T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Xinhua Headlines : China expo highlights supply chain resilience amid geopolitical uncertainty"
-        },
-        {
-          "title": "Nigeria : ISDB 2026 - ICIEC Backs $626m Lagos - Calabar Coastal Highway Financing to Boost Connectivity , Devt Impact in Nigeria",
-          "link": "https://allafrica.com/stories/202606230728.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-23T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nigeria : ISDB 2026 - ICIEC Backs $626m Lagos - Calabar Coastal Highway Financing to Boost Connectivity , Devt Impact in Nigeria"
-        },
-        {
-          "title": "Integrated Diagnostics ( LON : IDHC ) Trading Down 11 . 9 % – What Next ?",
-          "link": "https://www.tickerreport.com/banking-finance/13484156/integrated-diagnostics-lonidhc-trading-down-11-9-whats-next.html",
-          "source": "tickerreport.com",
-          "pubDate": "2026-06-23T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Integrated Diagnostics ( LON : IDHC ) Trading Down 11 . 9 % – What Next ?"
-        },
-        {
-          "title": "Integrated Diagnostics ( LON : IDHC ) Stock Price Down 11 . 9 % – Here What Happened",
-          "link": "https://www.dailypolitical.com/2026/06/23/integrated-diagnostics-lonidhc-stock-price-down-11-9-heres-what-happened.html",
-          "source": "dailypolitical.com",
-          "pubDate": "2026-06-23T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Integrated Diagnostics ( LON : IDHC ) Stock Price Down 11 . 9 % – Here What Happened"
-        },
-        {
-          "title": "NSA Doval , Chinese FM Wang Yi note progress towards",
-          "link": "http://www.laosnews.net/news/279142751/nsa-doval-chinese-fm-wang-yi-note-progress-towards-gradual-normalisation-of-ties-mea",
-          "source": "laosnews.net",
-          "pubDate": "2026-06-23T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "NSA Doval , Chinese FM Wang Yi note progress towards"
-        },
-        {
-          "title": "Xinhua Headlines : China expo highlights supply chain resilience amid geopolitical uncertainty",
-          "link": "http://www.laosnews.net/news/279142525/xinhua-headlines-china-expo-highlights-supply-chain-resilience-amid-geopolitical-uncertainty",
-          "source": "laosnews.net",
-          "pubDate": "2026-06-23T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Xinhua Headlines : China expo highlights supply chain resilience amid geopolitical uncertainty"
-        },
-        {
-          "title": "PM Modi hosts BRICS security chiefs ; calls for deeper cooperation in",
-          "link": "https://timesofoman.com/article/173430-indian-pm-modi-hosts-brics-security-chiefs-calls-for-deeper-cooperation-in-changing-global-landscape",
-          "source": "timesofoman.com",
-          "pubDate": "2026-06-23T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "PM Modi hosts BRICS security chiefs ; calls for deeper cooperation in"
-        },
-        {
-          "title": "NSA Doval , Chinese FM Wang Yi note progress towards",
-          "link": "http://www.shanghainews.net/news/279142751/nsa-doval-chinese-fm-wang-yi-note-progress-towards-gradual-normalisation-of-ties-mea",
-          "source": "shanghainews.net",
-          "pubDate": "2026-06-23T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "NSA Doval , Chinese FM Wang Yi note progress towards"
-        },
-        {
-          "title": "Israel growing ties with India and Greece could bolster IMEC",
-          "link": "http://www.jpost.com/international/article-900285",
-          "source": "jpost.com",
-          "pubDate": "2026-06-23T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel growing ties with India and Greece could bolster IMEC"
-        },
-        {
-          "title": "NSA Doval , Chinese FM Wang Yi note progress towards",
-          "link": "http://www.beijingbulletin.com/news/279142751/nsa-doval-chinese-fm-wang-yi-note-progress-towards-gradual-normalisation-of-ties-mea",
-          "source": "beijingbulletin.com",
-          "pubDate": "2026-06-23T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "NSA Doval , Chinese FM Wang Yi note progress towards"
-        },
-        {
-          "title": "Xinhua Headlines : China expo highlights supply chain resilience amid geopolitical uncertainty",
-          "link": "http://www.beijingbulletin.com/news/279142525/xinhua-headlines-china-expo-highlights-supply-chain-resilience-amid-geopolitical-uncertainty",
-          "source": "beijingbulletin.com",
-          "pubDate": "2026-06-23T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Xinhua Headlines : China expo highlights supply chain resilience amid geopolitical uncertainty"
-        },
-        {
-          "title": "Naval Group partners with Croatian firms to support Gowind corvette program",
-          "link": "https://www.navaltoday.com/2026/06/23/naval-group-partners-with-croatian-firms-to-support-gowind-corvette-program/",
-          "source": "navaltoday.com",
-          "pubDate": "2026-06-23T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Naval Group partners with Croatian firms to support Gowind corvette program"
-        },
-        {
-          "title": "Why Yango thinks the African city is the only unit that matters",
-          "link": "https://techcabal.com/2026/06/23/yango-group-africa-thesis/",
-          "source": "techcabal.com",
-          "pubDate": "2026-06-23T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why Yango thinks the African city is the only unit that matters"
-        },
-        {
-          "title": "PM Modi Hosts BRICS Security Chiefs for Cooperation",
-          "link": "https://www.newkerala.com/news/a/pm-modi-hosts-brics-security-chiefs-calls-deeper-789.htm",
-          "source": "newkerala.com",
-          "pubDate": "2026-06-23T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "PM Modi Hosts BRICS Security Chiefs for Cooperation"
-        },
-        {
-          "title": "10 years after the Brexit vote : where next for Britain and Europe ?",
-          "link": "https://marxist.com/10-years-after-the-brexit-vote-where-next-for-britain-and-europe.htm",
-          "source": "marxist.com",
-          "pubDate": "2026-06-23T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "10 years after the Brexit vote : where next for Britain and Europe ?"
-        },
-        {
-          "title": "Ajit Doval welcomes BRICS and partner nations at 16th National Security Adviser Meeting",
-          "link": "http://www.southeastasiapost.com/news/279141812/ajit-doval-welcomes-brics-and-partner-nations-at-16th-national-security-advisers-meeting",
-          "source": "southeastasiapost.com",
-          "pubDate": "2026-06-23T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ajit Doval welcomes BRICS and partner nations at 16th National Security Adviser Meeting"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
