@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T18:25:33.000Z",
-  "feedsChecked": 7,
+  "generatedAt": "2026-06-25T08:34:54.380Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -23,15 +23,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Pope made us feel that writers are useful says Igiaba Scego"
-        },
-        {
-          "title": "Somalia: Puntland Announces New Security Measures, Warns Against Unauthorized Militias and Federal Activities",
-          "link": "https://allafrica.com/stories/202606240440.html",
-          "description": "[Shabelle] Garowe, Somalia -- Puntland authorities on Wednesday announced a series of new security measures, including restrictions on militia activity, anti-smuggling operations and tighter controls on the movements of Somali federal officials and security personnel within the semi-autonomous region.",
-          "pubDate": "Wed, 24 Jun 2026 15:30:55 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Puntland Announces New Security Measures, Warns Against Unauthorized Militias and Federal Activities"
         },
         {
           "title": "Libya's eastern government bans entry for nationals of four countries",
@@ -140,6 +131,24 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Regeni murdered by 'cold, methodological violence' - Rome prosecutor"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+        },
+        {
+          "title": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026",
+          "link": "https://www.crisisgroup.org/evt/africa/sudan-south-sudan-and-somalia-key-peace-and-security-priorities-africa-2026",
+          "description": "In this online event, Crisis Group experts discussed peace and security priorities for the African continent in 2026, zooming in on Somalia, Sudan and South Sudan ahead of the African Union's summit of heads of state.&nbsp;",
+          "pubDate": "Thursday, February 12, 2026 - 16:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026"
         }
       ]
     },
@@ -147,13 +156,40 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Somalia: Puntland Announces New Security Measures, Warns Against Unauthorized Militias and Federal Activities",
-          "link": "https://allafrica.com/stories/202606240440.html",
-          "description": "[Shabelle] Garowe, Somalia -- Puntland authorities on Wednesday announced a series of new security measures, including restrictions on militia activity, anti-smuggling operations and tighter controls on the movements of Somali federal officials and security personnel within the semi-autonomous region.",
-          "pubDate": "Wed, 24 Jun 2026 15:30:55 GMT",
+          "title": "Africa: Inside the The Floating Lab Shaping Ocean Science",
+          "link": "https://allafrica.com/stories/202606250121.html",
+          "description": "[allAfrica] The first thing you notice is the size of the Dr Fridtjof Nansen. It towers over the quay as it is docked at the Port of Mombasa under the fluttering Kenyan flag.",
+          "pubDate": "Thu, 25 Jun 2026 07:20:26 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: Puntland Announces New Security Measures, Warns Against Unauthorized Militias and Federal Activities"
+          "titleIt": "Africa: Inside the The Floating Lab Shaping Ocean Science"
+        },
+        {
+          "title": "Nairobi signs $1.2 billion airport expansion deal with China Road and Bridge Corp",
+          "link": "http://www.africanews.com/2026/06/24/nairobi-signs-12-billion-airport-expansion-deal-with-china-road-and-bridge-corp/",
+          "description": "Kenya has signed a $1.2 billion deal with China Road and Bridge Corporation to expand Nairobi’s Jomo Kenyatta International Airport, the country’s transport minister said on Tuesday.",
+          "pubDate": "Thu, 25 Jun 2026 07:10:28 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Nairobi signs $1.2 billion airport expansion deal with China Road and Bridge Corp"
+        },
+        {
+          "title": "Ethiopia is not being  dragged into war  | Opinions",
+          "link": "https://www.aljazeera.com/opinions/2026/6/25/ethiopia-is-not-being-dragged-into-war",
+          "source": "aljazeera.com",
+          "pubDate": "2026-06-25T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia is not being  dragged into war  | Opinions"
+        },
+        {
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
         },
         {
           "title": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory",
@@ -172,15 +208,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Libya's eastern government bans entry for nationals of four countries"
-        },
-        {
-          "title": "Nairobi signs $1.2 billion airport expansion deal with China Road and Bridge Corp.",
-          "link": "http://www.africanews.com/2026/06/24/nairobi-signs-12-billion-airport-expansion-deal-with-china-road-and-bridge-corp/",
-          "description": "Kenya has signed a $1.2 billion deal with China Road and Bridge Corporation to expand Nairobi’s Jomo Kenyatta International Airport, the country’s transport minister said on Tuesday.",
-          "pubDate": "Wed, 24 Jun 2026 13:07:41 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Nairobi signs $1.2 billion airport expansion deal with China Road and Bridge Corp."
         },
         {
           "title": "Ex Berlusconi villa in Sardinia sold to Qatari sheikh, ex PM",
@@ -307,24 +334,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "The target : Qatar and Ron Dermer"
-        },
-        {
-          "title": "Israel Reviews Somaliland Illegal Recognition After Global Backlash",
-          "link": "https://diplomat.so/articles/1480/Israel-Reviews-Somaliland-Illegal-Recognition-After-Global-Backlash",
-          "source": "diplomat.so",
-          "pubDate": "2026-06-22T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Reviews Somaliland Illegal Recognition After Global Backlash"
-        },
-        {
-          "title": "Kenya labour minister accused over Russian forced recruitment",
-          "link": "http://www.africanews.com/2026/06/22/kenya-labour-minister-accused-over-russian-forced-recruitment/",
-          "description": "A Kenyan family's search for opportunity has ended in tragedy and sparked serious allegations against Labour Minister Alfred Mutua.",
-          "pubDate": "Mon, 22 Jun 2026 13:12:59 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Kenya labour minister accused over Russian forced recruitment"
         }
       ]
     },
@@ -332,49 +341,49 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "The captive mind of African statecraft",
-          "link": "https://thebftonline.com/2026/06/24/the-captive-mind-of-african-statecraft/",
-          "source": "thebftonline.com",
-          "pubDate": "2026-06-24T17:45:00Z",
+          "title": "Nairobi signs $1.2 billion airport expansion deal with China Road and Bridge Corp",
+          "link": "http://www.africanews.com/2026/06/24/nairobi-signs-12-billion-airport-expansion-deal-with-china-road-and-bridge-corp/",
+          "description": "Kenya has signed a $1.2 billion deal with China Road and Bridge Corporation to expand Nairobi’s Jomo Kenyatta International Airport, the country’s transport minister said on Tuesday.",
+          "pubDate": "Thu, 25 Jun 2026 07:10:28 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "The captive mind of African statecraft"
+          "titleIt": "Nairobi signs $1.2 billion airport expansion deal with China Road and Bridge Corp"
         },
         {
-          "title": "Ethiopia initiates repatriation of nationals from Saudi Arabia after prison amnesty",
-          "link": "http://www.bignewsnetwork.com/news/279145374/ethiopia-initiates-repatriation-of-nationals-from-saudi-arabia-after-prison-amnesty",
-          "source": "bignewsnetwork.com",
-          "pubDate": "2026-06-24T16:45:00Z",
+          "title": "Libya: Eastern Libya Bans Entry of Nationals From Four African Countries Amid Migration Crackdown",
+          "link": "https://allafrica.com/stories/202606250050.html",
+          "description": "[Shabelle] Benghazi, Libya, June 24, 2026 -- Authorities in eastern Libya have banned the entry of nationals from Sudan, Eritrea, Ethiopia and Somalia, saying the measure is part of efforts to reorganize and regulate the flow of foreign nationals entering the country.",
+          "pubDate": "Thu, 25 Jun 2026 03:55:52 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia initiates repatriation of nationals from Saudi Arabia after prison amnesty"
+          "titleIt": "Libya: Eastern Libya Bans Entry of Nationals From Four African Countries Amid Migration Crackdown"
         },
         {
-          "title": "Ethiopia initiates repatriation of nationals from Saudi Arabia after prison amnesty - Xinhua",
-          "link": "https://english.news.cn/africa/20260624/3a4326951a1c4570a771bb7f01dcfcf1/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-06-24T16:45:00Z",
+          "title": "Sudan: Sudan War - Int'l Pressure Grows As Fears Mount Over Escalation in El Obeid",
+          "link": "https://allafrica.com/stories/202606250014.html",
+          "description": "[Dabanga] Kampala / El Obeid / Amsterdam -- International efforts to address Sudan's deepening crisis have intensified amid growing warnings from the United Nations and foreign governments about an expanding conflict and worsening humanitarian conditions, particularly in the city of El Obeid, capital of North Kordofan. As previously reported by Radio Dabanga, El Obeid has become the focus of mounting international concern, with diplomats and aid agencies warning that it could face a similar fate to El Fasher, where months of fighting have been",
+          "pubDate": "Thu, 25 Jun 2026 03:33:28 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia initiates repatriation of nationals from Saudi Arabia after prison amnesty - Xinhua"
+          "titleIt": "Sudan: Sudan War - Int'l Pressure Grows As Fears Mount Over Escalation in El Obeid"
         },
         {
-          "title": "Ethiopia initiates repatriation of nationals from Saudi Arabia after prison amnesty - Xinhua",
-          "link": "https://english.news.cn/20260624/7b063d06a2fe461bb50d76b8c4ea7d22/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-06-24T16:45:00Z",
+          "title": "Sudan: Opposition Grows to Proposed Chinese Copper Mining in Sudan's Red Sea State",
+          "link": "https://allafrica.com/stories/202606250015.html",
+          "description": "[Dabanga] Port Sudan -- Opposition is mounting in eastern Sudan over reports that the government is preparing to sign a long-term copper mining agreement with a Chinese company, with local political groups warning that the country's natural resources should not be committed while war continues and key questions about Sudan's future remain unresolved.",
+          "pubDate": "Thu, 25 Jun 2026 03:33:28 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia initiates repatriation of nationals from Saudi Arabia after prison amnesty - Xinhua"
+          "titleIt": "Sudan: Opposition Grows to Proposed Chinese Copper Mining in Sudan's Red Sea State"
         },
         {
-          "title": "Libya eastern government bans entry for citizens of Sudan , Eritrea , Ethiopia and Somalia",
-          "link": "https://wardheernews.com/libyas-eastern-government-bans-entry-for-citizens-of-sudan-eritrea-ethiopia-and-somalia/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-06-24T16:30:00Z",
+          "title": "Sexual violence used as a 'weapon of war' since start of Sudan conflict, UN says",
+          "link": "http://www.africanews.com/2026/06/24/sexual-violence-used-as-a-weapon-of-war-since-start-of-sudan-conflict-un-says/",
+          "description": "Sexual violence has being used “consistently as a tactic and weapon of war” since the conflict in Sudan erupted three years ago. That’s the finding of a new report by the United Nations Human Rights Office.",
+          "pubDate": "Wed, 24 Jun 2026 18:51:17 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Libya eastern government bans entry for citizens of Sudan , Eritrea , Ethiopia and Somalia"
+          "titleIt": "Sexual violence used as a 'weapon of war' since start of Sudan conflict, UN says"
         },
         {
           "title": "Rutte's statements on US flights from Italy during Iran war misleading - defence min",
@@ -384,42 +393,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Rutte's statements on US flights from Italy during Iran war misleading - defence min"
-        },
-        {
-          "title": "APO Group - Africa Newsroom / Press release | Islamic Development Bank ( IsDB ) Institute Strengthens Global Partnerships through Strategic Bilateral Engagements at 2026 Group Annual Meetings",
-          "link": "https://www.africa-newsroom.com/press/isdb-institute-strengthens-global-partnerships-through-strategic-bilateral-engagements-at-2026-group-annual-meetings",
-          "source": "africa-newsroom.com",
-          "pubDate": "2026-06-24T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "APO Group - Africa Newsroom / Press release | Islamic Development Bank ( IsDB ) Institute Strengthens Global Partnerships through Strategic Bilateral Engagements at 2026 Group Annual Meetings"
-        },
-        {
-          "title": "South Africa: DA Refers Deputy Minister Zikalala to the Public Protector Over Unlawful Appointment of Idt Chairperson",
-          "link": "https://allafrica.com/stories/202606240448.html",
-          "description": "[DA] The Democratic Alliance has laid a complaint with the Public Protector against the former Minister of Public Works and Infrastructure, Sihle Zikalala (now Deputy Minister), over his agreement, support and Caninet ratification of the former chairperson of the Independent Development Trust (IDT) Board of Trustees - an appointment the DA sees as unlawful, and a process we see as a violation of the Executive Ethics Code.",
-          "pubDate": "Wed, 24 Jun 2026 15:39:11 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "South Africa: DA Refers Deputy Minister Zikalala to the Public Protector Over Unlawful Appointment of Idt Chairperson"
-        },
-        {
-          "title": "23 June 2026 - Daily Press Briefing by the Office of the Spokesperson for the Secretary - General",
-          "link": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260623-unbrief01.htm",
-          "source": "globalsecurity.org",
-          "pubDate": "2026-06-24T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "23 June 2026 - Daily Press Briefing by the Office of the Spokesperson for the Secretary - General"
-        },
-        {
-          "title": "Libya eastern government bans entry of nationals from four African countries – Channel Africa",
-          "link": "https://www.channelafrica.co.za/channelafrica/news/libyas-eastern-government-bans-entry-of-nationals-from-four-african-countries/",
-          "source": "channelafrica.co.za",
-          "pubDate": "2026-06-24T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Libya eastern government bans entry of nationals from four African countries – Channel Africa"
         },
         {
           "title": "Ambassador Fontana Meets with Iraqi Minister of Industry",
@@ -440,15 +413,6 @@
           "titleIt": "Libya's eastern government bans entry for nationals of four countries"
         },
         {
-          "title": "Nairobi signs $1.2 billion airport expansion deal with China Road and Bridge Corp.",
-          "link": "http://www.africanews.com/2026/06/24/nairobi-signs-12-billion-airport-expansion-deal-with-china-road-and-bridge-corp/",
-          "description": "Kenya has signed a $1.2 billion deal with China Road and Bridge Corporation to expand Nairobi’s Jomo Kenyatta International Airport, the country’s transport minister said on Tuesday.",
-          "pubDate": "Wed, 24 Jun 2026 13:07:41 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Nairobi signs $1.2 billion airport expansion deal with China Road and Bridge Corp."
-        },
-        {
           "title": "Rutte's statements on US flights from Italy misleading says defence ministry",
           "link": "https://www.ansa.it/english/news/world/2026/06/24/ruttes-statements-on-us-flights-from-italy-misleading-says-defence-ministry_ffa265ea-4475-4367-afd5-9b4724a8cae1.html",
           "description": "(ANSA) - ROME, JUN 24 - The defence ministry said Wednesday that NATO Secretary General Mark Rutte's assertion that 500 US flights took off from American bases in Italy during Operation Epic Fury was misleading, stressing that Rome had only authorized the bases to be used for ordinary operations during the Iran war and not for offensive combat missions. Rutte's comments sparked a political row here, with opposition politicians saying they conflict with the government's statements about the use of the bases and calling on Premier Giorgia Meloni to report to parliament to clarify. During the war",
@@ -458,58 +422,67 @@
           "titleIt": "Rutte's statements on US flights from Italy misleading says defence ministry"
         },
         {
-          "title": "World Perspectives : Trump 2 . 0 Plunged Into Irreversible Crisis Step Up The Global Fightback",
-          "link": "https://www.socialistalternative.org/2026/06/24/world-perspectives-trump-2-0-plunged-into-irreversible-crisis-step-up-the-global-fightback/",
-          "source": "socialistalternative.org",
-          "pubDate": "2026-06-24T11:15:00Z",
+          "title": "Italy-Sweden Synergies in Cybersecurity Discussed in Stockholm",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/06/23/italy-sweden-synergies-in-cybersecurity-discussed-in-stockholm_be4e2d0b-2b4e-4f86-9ee6-a77d6c13d7b6.html",
+          "description": "(ANSA) - STOCCOLMA, 23 GIU - In the context of current global challenges, all countries are now obliged to ensure secure and “non-vulnerable” technological ecosystems. Cybersecurity is therefore a strategic element in the dialogue between Italy and Sweden as well. To better and more concretely support bilateral collaboration, the event “CyberSEcurIT - Cybersecurity Synergy between Sweden and Italy: Perspectives from Academia, Industry, and Government,” dedicated specifically to cybersecurity, was held in Stockholm on June 22 and 23, 2026. Organized by research groups specializing in cybersecur",
+          "pubDate": "Tue, 23 Jun 2026 13:57:19 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "World Perspectives : Trump 2 . 0 Plunged Into Irreversible Crisis Step Up The Global Fightback"
+          "titleIt": "Italy-Sweden Synergies in Cybersecurity Discussed in Stockholm"
         },
         {
-          "title": "Libya eastern government bans entry for citizens of Sudan , Eritrea , Ethiopia and Somalia",
-          "link": "https://www.seattletimes.com/nation-world/libyas-eastern-government-bans-entry-for-citizens-of-sudan-eritrea-ethiopia-and-somalia/",
-          "source": "seattletimes.com",
-          "pubDate": "2026-06-24T10:45:00Z",
+          "title": "IMF's new Africa chief warns of Middle East conflict fallout, sees bright future for Africa",
+          "link": "http://www.africanews.com/2026/06/23/imfs-new-africa-chief-warns-of-middle-east-conflict-fallout-sees-bright-future-for-africa/",
+          "description": "The International Monetary Fund’s new Africa chief, Zeine Zeidane, says conflict in the Middle East is creating fresh economic challenges for sub-Saharan Africa, but insists the IMF remains committed to supporting countries under pressure.",
+          "pubDate": "Tue, 23 Jun 2026 11:57:09 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Libya eastern government bans entry for citizens of Sudan , Eritrea , Ethiopia and Somalia"
+          "titleIt": "IMF's new Africa chief warns of Middle East conflict fallout, sees bright future for Africa"
         },
         {
-          "title": "British Council Cultural Protection Fund Opens New Round of Grant Funding of Up to £500k for South Asia",
-          "link": "https://propakistani.pk/2026/06/24/british-councils-cultural-protection-fund-opens-new-round-of-grant-funding-of-up-to-500k-for-south-asia/",
-          "source": "propakistani.pk",
-          "pubDate": "2026-06-24T09:45:00Z",
+          "title": "Southern Lebanon's displaced Shiites fear return of old divisions",
+          "link": "http://www.africanews.com/2026/06/23/southern-lebanons-displaced-shiites-fear-return-of-old-divisions/",
+          "description": "Israel has ordered Shiite-majority communities to be emptied, accusing residents of supporting Hezbollah, while allowing Christian, Sunni and other residents to remain. That risks aggravating sectarian tensions that have been mostly dormant since Lebanon's 1982-2000 civil war.",
+          "pubDate": "Tue, 23 Jun 2026 10:03:35 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "British Council Cultural Protection Fund Opens New Round of Grant Funding of Up to £500k for South Asia"
+          "titleIt": "Southern Lebanon's displaced Shiites fear return of old divisions"
         },
         {
-          "title": "Libya eastern government bans entry for citizens of Sudan , Eritrea , Ethiopia and Somalia | World",
-          "link": "https://www.the-messenger.com/news/world/article_8f1e715b-e9a9-535d-9c00-9a83b310d508.html",
-          "source": "the-messenger.com",
-          "pubDate": "2026-06-24T08:45:00Z",
+          "title": "Ethiopia strengthens efforts to support refugee self-reliance",
+          "link": "http://www.africanews.com/2026/06/22/ethiopia-strengthens-efforts-to-support-refugee-self-reliance/",
+          "description": "In Ethiopia’s Ura refugee settlement, High Commissioner Barham Salih urged greater support for inclusive policies that enable refugees to rebuild their lives alongside hosts.",
+          "pubDate": "Mon, 22 Jun 2026 19:34:09 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Libya eastern government bans entry for citizens of Sudan , Eritrea , Ethiopia and Somalia | World"
+          "titleIt": "Ethiopia strengthens efforts to support refugee self-reliance"
         },
         {
-          "title": "K4GGWA and CNH Brand New Holland Launch Innovation Call to Accelerate Land Restoration Across the Great Green Wall",
-          "link": "https://csrwire.com/press-release/k4ggwa-and-cnh-brand-new-holland-launch-innovation-call-accelerate-land-restoration-across/",
-          "source": "csrwire.com",
-          "pubDate": "2026-06-23T22:30:00Z",
+          "title": "More than 3000 Malawian nationals deported in South Africa",
+          "link": "http://www.africanews.com/2026/06/22/more-than-3000-malawian-nationals-deported-in-south-africa/",
+          "description": "More than 3000 Malawian nationals have been deported in South Africa after thousands protested earlier this year in Johannesburg and other parts of the country against illegal immigration that has fueled tensions between locals and foreign nationals.",
+          "pubDate": "Mon, 22 Jun 2026 10:15:39 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "K4GGWA and CNH Brand New Holland Launch Innovation Call to Accelerate Land Restoration Across the Great Green Wall"
+          "titleIt": "More than 3000 Malawian nationals deported in South Africa"
         },
         {
-          "title": "DPP Ingonga Urges Joint Horn Of Africa Fight Against Human Trafficking , Migrant Smuggling",
-          "link": "https://capitalfm.africa/dpp-ingonga-urges-joint-horn-of-africa-fight-against-human-trafficking-migrant-smuggling/",
-          "source": "capitalfm.africa",
-          "pubDate": "2026-06-23T21:15:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "DPP Ingonga Urges Joint Horn Of Africa Fight Against Human Trafficking , Migrant Smuggling"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+        },
+        {
+          "title": "As war keeps spreading, the African Union must find its teeth",
+          "link": "https://www.crisisgroup.org/opd/africa/war-keeps-spreading-african-union-must-find-its-teeth",
+          "description": "With the continental body at its weakest point since its inception, this week’s summit in Ethiopia cannot be another talk shop. A united front is crucial to resolve intensifying conflicts tearing through Africa.",
+          "pubDate": "Wednesday, February 11, 2026 - 15:04",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "As war keeps spreading, the African Union must find its teeth"
         }
       ]
     },
@@ -521,13 +494,184 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Sudan: Seven European Countries Urge 'Immediate Halt' to Sudan Violence",
-          "link": "https://allafrica.com/stories/202606240094.html",
-          "description": "[RFI] Seven European countries have called on Sudan's paramilitary Rapid Support Forces (RSF) to immediately stop their assault on El-Obeid, a city in Sudan's North Kordofan state, warning of credible signs that a major offensive could be imminent as civilians face worsening shortages of food, water and fuel.",
-          "pubDate": "Wed, 24 Jun 2026 08:20:49 GMT",
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
+        },
+        {
+          "title": "Libya: Eastern Libya Bans Entry of Nationals From Four African Countries Amid Migration Crackdown",
+          "link": "https://allafrica.com/stories/202606250050.html",
+          "description": "[Shabelle] Benghazi, Libya, June 24, 2026 -- Authorities in eastern Libya have banned the entry of nationals from Sudan, Eritrea, Ethiopia and Somalia, saying the measure is part of efforts to reorganize and regulate the flow of foreign nationals entering the country.",
+          "pubDate": "Thu, 25 Jun 2026 03:55:52 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Sudan: Seven European Countries Urge 'Immediate Halt' to Sudan Violence"
+          "titleIt": "Libya: Eastern Libya Bans Entry of Nationals From Four African Countries Amid Migration Crackdown"
+        },
+        {
+          "title": "Sudan: Sudan War - Int'l Pressure Grows As Fears Mount Over Escalation in El Obeid",
+          "link": "https://allafrica.com/stories/202606250014.html",
+          "description": "[Dabanga] Kampala / El Obeid / Amsterdam -- International efforts to address Sudan's deepening crisis have intensified amid growing warnings from the United Nations and foreign governments about an expanding conflict and worsening humanitarian conditions, particularly in the city of El Obeid, capital of North Kordofan. As previously reported by Radio Dabanga, El Obeid has become the focus of mounting international concern, with diplomats and aid agencies warning that it could face a similar fate to El Fasher, where months of fighting have been",
+          "pubDate": "Thu, 25 Jun 2026 03:33:28 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudan War - Int'l Pressure Grows As Fears Mount Over Escalation in El Obeid"
+        },
+        {
+          "title": "Sudan: Opposition Grows to Proposed Chinese Copper Mining in Sudan's Red Sea State",
+          "link": "https://allafrica.com/stories/202606250015.html",
+          "description": "[Dabanga] Port Sudan -- Opposition is mounting in eastern Sudan over reports that the government is preparing to sign a long-term copper mining agreement with a Chinese company, with local political groups warning that the country's natural resources should not be committed while war continues and key questions about Sudan's future remain unresolved.",
+          "pubDate": "Thu, 25 Jun 2026 03:33:28 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Opposition Grows to Proposed Chinese Copper Mining in Sudan's Red Sea State"
+        },
+        {
+          "title": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped",
+          "link": "https://www.engineeringnews.co.za/article/africa-adds-42-gw-new-hydropower-in-2025-only-10-of-hydropower-resources-being-tapped-2026-06-24",
+          "source": "engineeringnews.co.za",
+          "pubDate": "2026-06-24T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped"
+        },
+        {
+          "title": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy",
+          "link": "https://allafrica.com/stories/202606240040.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-24T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy"
+        },
+        {
+          "title": "Pumped Storage Additions Lead Global Hydropower Growth",
+          "link": "https://www.powermag.com/pumped-storage-additions-lead-global-hydropower-growth/",
+          "source": "powermag.com",
+          "pubDate": "2026-06-24T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
+        },
+        {
+          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
+          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
+          "source": "dw.com",
+          "pubDate": "2026-06-21T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
+        },
+        {
+          "title": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA",
+          "link": "https://www.thereporterethiopia.com/51290/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-20T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA"
+        },
+        {
+          "title": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?",
+          "link": "https://english.aawsat.com/arab-world/5286082-trumps-pledge-intervene-can-it-break-deadlock-ethiopian-renaissance-dam-crisis",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-06-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?"
+        },
+        {
+          "title": "Ethiopia : Tale of Two Ethiopias",
+          "link": "https://allafrica.com/stories/202606180628.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-19T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Tale of Two Ethiopias"
+        },
+        {
+          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
+          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-06-18T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
+        },
+        {
+          "title": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity",
+          "link": "https://larouchepub.com/other/2026/5324-ethiopia_the_uncolonized_indep.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-06-17T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity"
+        },
+        {
+          "title": "Trump Backs Egypt in Nile Dam Row",
+          "link": "https://chimpreports.com/trump-backs-egypt-in-nile-dam-row/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Backs Egypt in Nile Dam Row"
+        },
+        {
+          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+          "link": "http://www.idahostatejournal.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_c980aa94-a108-54fb-9ffa-e490dbc13918.html",
+          "source": "idahostatejournal.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
+        },
+        {
+          "title": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy",
+          "link": "https://www.garoweonline.com/en/opinions/beyond-planting-how-ethiopia-s-green-legacy-initiative-is-reshaping-society-economy-and-diplomacy",
+          "source": "garoweonline.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy"
+        },
+        {
+          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+          "link": "http://www.postregister.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_5823212b-9bc9-5415-a72d-53c1e7302dfc.html",
+          "source": "postregister.com",
+          "pubDate": "2026-06-17T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
+        },
+        {
+          "title": "Trump Raises Nile Dam Dispute in Egypt Talks",
+          "link": "https://www.newkerala.com/news/a/trump-raises-nile-dispute-talks-egypt-919.htm",
+          "source": "newkerala.com",
+          "pubDate": "2026-06-17T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Raises Nile Dam Dispute in Egypt Talks"
+        },
+        {
+          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+          "link": "https://www.newsday.com/news/nation/g7-summit-trump-ai-france-17-june-2026-f72748",
+          "source": "newsday.com",
+          "pubDate": "2026-06-17T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
+        },
+        {
+          "title": "Sisi expresses gratitude for Trump  understanding  of Egyptian position on Ethiopian dam issue",
+          "link": "https://aa.com.tr/en/middle-east/sisi-expresses-gratitude-for-trump-s-understanding-of-egyptian-position-on-ethiopian-dam-issue/3969715",
+          "source": "aa.com.tr",
+          "pubDate": "2026-06-17T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sisi expresses gratitude for Trump  understanding  of Egyptian position on Ethiopian dam issue"
         }
       ]
     }
