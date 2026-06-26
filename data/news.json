@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-06-26T11:27:58.605Z",
+  "generatedAt": "2026-06-26T18:17:01.480Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Top Somali official deported from Kenya over suspected passport fraud",
+          "link": "http://www.africanews.com/2026/06/26/top-somali-official-deported-from-kenya-over-suspected-passport-fraud/",
+          "description": "Somalia’s Second Deputy Prime Minister was deported from Kenya on Thursday over allegations of passport fraud, according to numerous reports.",
+          "pubDate": "Fri, 26 Jun 2026 15:43:33 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Top Somali official deported from Kenya over suspected passport fraud"
+        },
         {
           "title": "Somalia: Somalia Deputy Prime Minister Deported From Kenya Over Alleged Passport Fraud",
           "link": "https://allafrica.com/stories/202606260202.html",
@@ -14,33 +23,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Somalia Deputy Prime Minister Deported From Kenya Over Alleged Passport Fraud"
-        },
-        {
-          "title": "Sudan: Rights Group Reports Fresh Arrests of Sudanese Miners By Egyptian Forces",
-          "link": "https://allafrica.com/stories/202606260079.html",
-          "description": "[Dabanga] Waidi El Atri / El Rataj / Argeen / Cairo -- A Sudanese human rights organisation has accused Egyptian forces of carrying out a fresh operation against Sudanese gold miners near the Sudan-Egypt border, arresting dozens of people days after a deadly incident that survivors say killed more than 50 miners inside Sudanese territory.",
-          "pubDate": "Fri, 26 Jun 2026 04:10:57 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Rights Group Reports Fresh Arrests of Sudanese Miners By Egyptian Forces"
-        },
-        {
-          "title": "Somalia: EU Imposes New Visa Restrictions On Somali Citizens",
-          "link": "https://allafrica.com/stories/202606260058.html",
-          "description": "[Shabelle] Brussels, June 25, 2026 -- The European Union has temporarily tightened visa rules for Somali citizens, citing insufficient cooperation from Somalia in the readmission of its nationals who are staying illegally in EU member states.",
-          "pubDate": "Fri, 26 Jun 2026 04:09:43 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: EU Imposes New Visa Restrictions On Somali Citizens"
-        },
-        {
-          "title": "Libya's eastern government bans entry for nationals of four countries",
-          "link": "http://www.africanews.com/2026/06/24/libyas-eastern-government-bans-entry-for-nationals-of-four-countries/",
-          "description": "The decree prohibits citizens of Sudan, Eritrea, Ethiopia, and Somalia from entering through all land, sea, and air ports.",
-          "pubDate": "Wed, 24 Jun 2026 13:49:04 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Libya's eastern government bans entry for nationals of four countries"
         },
         {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
@@ -66,6 +48,24 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Africa: Ocean Economy Can Drive Africa's Future If Backed by Bold Investment",
+          "link": "https://allafrica.com/stories/202606260488.html",
+          "description": "[allAfrica] Mombasa, Kenya -- The blue economy is a vital source of jobs, food security, and economic opportunity across Africa and the Western Indian Ocean region. Yet, by the admission of those driving its development, the region is still only beginning to tap into what its oceans, lakes, and rivers can truly offer.",
+          "pubDate": "Fri, 26 Jun 2026 16:03:16 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Ocean Economy Can Drive Africa's Future If Backed by Bold Investment"
+        },
+        {
+          "title": "Top Somali official deported from Kenya over suspected passport fraud",
+          "link": "http://www.africanews.com/2026/06/26/top-somali-official-deported-from-kenya-over-suspected-passport-fraud/",
+          "description": "Somalia’s Second Deputy Prime Minister was deported from Kenya on Thursday over allegations of passport fraud, according to numerous reports.",
+          "pubDate": "Fri, 26 Jun 2026 15:43:33 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Top Somali official deported from Kenya over suspected passport fraud"
+        },
+        {
           "title": "Somalia: Somaliland Marks 66th Independence, Reaffirms Sovereignty",
           "link": "https://allafrica.com/stories/202606260232.html",
           "description": "[Horn Diplomat] Hargeisa -- Somaliland celebrated the 66th anniversary of its independence from Britain on Thursday, with President Abdirahman Mohamed Abdullahi Irro reaffirming the country's sovereignty, national unity and commitment to democratic statehood during a state ceremony in Hargeisa.",
@@ -84,22 +84,13 @@
           "titleIt": "Somalia: Somalia Deputy Prime Minister Deported From Kenya Over Alleged Passport Fraud"
         },
         {
-          "title": "Nairobi signs $1.2 billion airport expansion deal with China Road and Bridge Corp",
-          "link": "http://www.africanews.com/2026/06/24/nairobi-signs-12-billion-airport-expansion-deal-with-china-road-and-bridge-corp/",
-          "description": "Kenya has signed a $1.2 billion deal with China Road and Bridge Corporation to expand Nairobi’s Jomo Kenyatta International Airport, the country’s transport minister said on Tuesday.",
-          "pubDate": "Thu, 25 Jun 2026 07:10:28 +0000",
-          "source": "Africanews",
+          "title": "Kenya: Amnesty Condemns Uganda Over Karua Detention and Deportation",
+          "link": "https://allafrica.com/stories/202606260114.html",
+          "description": "[Capital FM] Nairobi -- Amnesty International has condemned the detention and deportation of Kenyan human rights lawyer Martha Karua by Ugandan authorities, describing the incident as \"unlawful and outrageous.\"",
+          "pubDate": "Fri, 26 Jun 2026 06:46:07 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Nairobi signs $1.2 billion airport expansion deal with China Road and Bridge Corp"
-        },
-        {
-          "title": "Libya's eastern government bans entry for nationals of four countries",
-          "link": "http://www.africanews.com/2026/06/24/libyas-eastern-government-bans-entry-for-nationals-of-four-countries/",
-          "description": "The decree prohibits citizens of Sudan, Eritrea, Ethiopia, and Somalia from entering through all land, sea, and air ports.",
-          "pubDate": "Wed, 24 Jun 2026 13:49:04 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Libya's eastern government bans entry for nationals of four countries"
+          "titleIt": "Kenya: Amnesty Condemns Uganda Over Karua Detention and Deportation"
         },
         {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
@@ -116,22 +107,31 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Global stars to join Birmingham celebration of Somali beauty and culture to  dispel negatives",
-          "link": "https://www.birminghammail.co.uk/whats-on/whats-on-news/global-stars-join-birmingham-celebration-34186835",
-          "source": "birminghammail.co.uk",
-          "pubDate": "2026-06-26T10:45:00Z",
+          "title": "Top Somali official deported from Kenya over suspected passport fraud",
+          "link": "http://www.africanews.com/2026/06/26/top-somali-official-deported-from-kenya-over-suspected-passport-fraud/",
+          "description": "Somalia’s Second Deputy Prime Minister was deported from Kenya on Thursday over allegations of passport fraud, according to numerous reports.",
+          "pubDate": "Fri, 26 Jun 2026 15:43:33 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Global stars to join Birmingham celebration of Somali beauty and culture to  dispel negatives"
+          "titleIt": "Top Somali official deported from Kenya over suspected passport fraud"
         },
         {
-          "title": "Turkish Drones in Africa : Ankara New Power Play",
-          "link": "https://www.riotimesonline.com/turkish-drones-africa-security-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-06-26T10:00:00Z",
+          "title": "Soccer: Nico Paz to stay at Como",
+          "link": "https://www.ansa.it/english/news/2026/06/26/soccer-nico-paz-to-stay-at-como_d0aea6d1-6da5-4e50-a92c-29593ee9e6d4.html",
+          "description": "(ANSA) - ROME, JUN 26 - 21-year-old Argentina attacking midfielder Nico Paz is to stay on loan at Serie A club Como after they reached an agreement with his owner Real Madrid, the Lariani said Friday. The news, circulating from Spain, had been in the air, but an agreement between the Como club and Real Madrid was reportedly reached in the last few hours. The Spanish club will, however, maintain control over the player, with a buy-back clause of €80 million. The overall deal involves approximately €60 million for Como, which aims to make the buy-back clause valid only for the next summer transf",
+          "pubDate": "Fri, 26 Jun 2026 17:20:06 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Turkish Drones in Africa : Ankara New Power Play"
+          "titleIt": "Soccer: Nico Paz to stay at Como"
+        },
+        {
+          "title": "Soccer: Nico Paz to stay at Como",
+          "link": "https://www.ansa.it/english/news/sports/2026/06/26/soccer-nico-paz-to-stay-at-como_404efc27-c325-454b-b530-3485cfb78325.html",
+          "description": "(ANSA) - ROME, JUN 26 - 21-year-old Argentina attacking midfielder Nico Paz is to stay on loan at Serie A club Como after they reached an agreement with his owner Real Madrid, the Lariani said Friday. The news, circulating from Spain, had been in the air, but an agreement between the Como club and Real Madrid was reportedly reached in the last few hours. The Spanish club will, however, maintain control over the player, with a buy-back clause of €80 million. The overall deal involves approximately €60 million for Como, which aims to make the buy-back clause valid only for the next summer transf",
+          "pubDate": "Fri, 26 Jun 2026 16:09:42 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Soccer: Nico Paz to stay at Como"
         },
         {
           "title": "Ethiopia: Ethiopia's Digital Revolution - From Connectivity to Competitiveness",
@@ -152,24 +152,6 @@
           "titleIt": "Somalia: Somalia Deputy Prime Minister Deported From Kenya Over Alleged Passport Fraud"
         },
         {
-          "title": "Ethiopia • Abiy Ahmed security strongmen line up against rebel threats",
-          "link": "https://www.africaintelligence.com/eastern-africa-and-the-horn/2026/06/26/abiy-ahmed-s-security-strongmen-line-up-against-rebel-threats,110830149-ar2",
-          "source": "africaintelligence.com",
-          "pubDate": "2026-06-26T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia • Abiy Ahmed security strongmen line up against rebel threats"
-        },
-        {
-          "title": "Africa Top 15 Agro - Exports Driving Trade Growth in 2026",
-          "link": "https://punchng.com/africas-top-15-agro-exports-driving-trade-growth/",
-          "source": "punchng.com",
-          "pubDate": "2026-06-26T04:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa Top 15 Agro - Exports Driving Trade Growth in 2026"
-        },
-        {
           "title": "Mexico Celebrates the Third “Made in Italy” Day",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/06/26/mexico-celebrates-the-third-made-in-italy-day_3fae5fcf-e64c-429a-b730-a334cbe11696.html",
           "description": "(ANSA) - CITTÀ DEL MESSICO, 25 GIU - The third edition of the National “Made in Italy” Day, titled “Italian Technological Excellence in Mexico in Strategic Sectors,” was held in the Mexican capital. The event was dedicated to highlighting the technological and industrial contributions of Italian companies in Mexico. The Italian Ambassador, Alessandro Modiano, confirmed the strength of trade ties, noting that “the main sector for Italian exports to Mexico is industrial machinery, which accounts for nearly 40% of the total.” Director Gravela highlighted the ICE Agency’s commitment to promoting I",
@@ -179,121 +161,40 @@
           "titleIt": "Mexico Celebrates the Third “Made in Italy” Day"
         },
         {
-          "title": "More than just refugees - The Standard",
-          "link": "https://www.thestandard.co.zw/environment/article/13014/more-than-just-refugees",
-          "source": "thestandard.co.zw",
-          "pubDate": "2026-06-26T02:45:00Z",
+          "title": "European Parliament activates urgent procedure for fertiliser price support measures",
+          "link": "https://www.ansa.it/english/news/world/2026/06/25/european-parliament-activates-urgent-procedure-for-fertiliser-price-support-measures_8ef96707-56e6-48ab-94b7-f3941d670113.html",
+          "description": "(ANSA) - ROME, JUN 25 - The European Parliament has activated the urgent procedure to approve support measures for farmers affected by soaring fertiliser prices linked to the conflict in the Middle East. The proposal for targeted amendments to the Common Agricultural Policy was presented by the European Commission last week to provide emergency support to the sector. The measures will be put to a vote during Parliament's July plenary session. Within the current 2021-2027 CAP framework, Brussels has proposed establishing a temporary liquidity scheme, allowing member states to advance direct pay",
+          "pubDate": "Thu, 25 Jun 2026 12:54:59 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "More than just refugees - The Standard"
+          "titleIt": "European Parliament activates urgent procedure for fertiliser price support measures"
         },
         {
-          "title": "Takeaways : Supreme Court hands Trump massive wins on immigration agenda",
-          "link": "https://us.cnn.com/2026/06/25/politics/takeaways-supreme-court-hands-trump-massive-wins-on-immigration-agenda",
-          "source": "us.cnn.com",
-          "pubDate": "2026-06-26T01:30:00Z",
+          "title": "EU announces up to €540 million in aid for farmers and greater CAP flexibility",
+          "link": "https://www.ansa.it/english/news/world/2026/06/25/eu-announces-up-to-540-million-in-aid-for-farmers-and-greater-cap-flexibility_81ce409c-9ebb-4151-887e-1d02a5de4ad8.html",
+          "description": "(ANSA) - ROME, JUN 25 - The European Commission has announced that up to €540 million from the CAP agricultural reserve could be mobilised to provide \"targeted and exceptional\" support to farmers affected by the conflict in the Middle East. EU member states are expected to approve the increase in available resources by the end of July. Brussels has also proposed a series of targeted CAP amendments, including a temporary liquidity scheme, greater flexibility to advance direct payments and the possibility to reprogramme funds to help farmers cope with rising fertiliser prices. Earlier this week,",
+          "pubDate": "Thu, 25 Jun 2026 12:54:31 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Takeaways : Supreme Court hands Trump massive wins on immigration agenda"
+          "titleIt": "EU announces up to €540 million in aid for farmers and greater CAP flexibility"
         },
         {
-          "title": "Quiz : Can You Name Every Country That Starts With a Vowel ?",
-          "link": "https://www.mentalfloss.com/quizzes/geography/name-every-country-starts-with-vowel",
-          "source": "mentalfloss.com",
-          "pubDate": "2026-06-26T01:00:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Quiz : Can You Name Every Country That Starts With a Vowel ?"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         },
         {
-          "title": "Harlem Rally in Support of Cuba | Pambazuka News",
-          "link": "http://www.pambazuka.org/Harlem-Rally",
-          "source": "pambazuka.org",
-          "pubDate": "2026-06-26T00:30:00Z",
+          "title": "As war keeps spreading, the African Union must find its teeth",
+          "link": "https://www.crisisgroup.org/opd/africa/war-keeps-spreading-african-union-must-find-its-teeth",
+          "description": "With the continental body at its weakest point since its inception, this week’s summit in Ethiopia cannot be another talk shop. A united front is crucial to resolve intensifying conflicts tearing through Africa.",
+          "pubDate": "Wednesday, February 11, 2026 - 15:04",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Harlem Rally in Support of Cuba | Pambazuka News"
-        },
-        {
-          "title": "Takeaways : Supreme Court hands Trump massive wins on immigration agenda",
-          "link": "https://edition.cnn.com/2026/06/25/politics/takeaways-supreme-court-hands-trump-massive-wins-on-immigration-agenda",
-          "source": "edition.cnn.com",
-          "pubDate": "2026-06-25T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Takeaways : Supreme Court hands Trump massive wins on immigration agenda"
-        },
-        {
-          "title": "Harlem Rally in Support of Cuba | Pambazuka News",
-          "link": "http://www.pambazuka.org/index.php/Harlem-Rally",
-          "source": "pambazuka.org",
-          "pubDate": "2026-06-25T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Harlem Rally in Support of Cuba | Pambazuka News"
-        },
-        {
-          "title": "A Constitution Holds , a Vote Lands , a Virus Spreads",
-          "link": "https://www.africa.com/featuresopinion/a-constitution-holds-a-vote-lands-a-virus-spreads",
-          "source": "africa.com",
-          "pubDate": "2026-06-25T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A Constitution Holds , a Vote Lands , a Virus Spreads"
-        },
-        {
-          "title": "US experts credit Qatar mediation with helping secure US - Iran ceasefire",
-          "link": "http://thepeninsulaqatar.com/article/25/06/2026/us-experts-credit-qatars-mediation-with-helping-secure-us-iran-ceasefire",
-          "source": "thepeninsulaqatar.com",
-          "pubDate": "2026-06-25T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US experts credit Qatar mediation with helping secure US - Iran ceasefire"
-        },
-        {
-          "title": "Capital Under Fire : How conflict , corrosive capital are reshaping Ethiopia foreign investment landscape",
-          "link": "https://www.premiumtimesng.com/news/top-news/890728-capital-under-fire-how-conflict-corrosive-capital-are-reshaping-ethiopias-foreign-investment-landscape.html",
-          "source": "premiumtimesng.com",
-          "pubDate": "2026-06-25T21:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Capital Under Fire : How conflict , corrosive capital are reshaping Ethiopia foreign investment landscape"
-        },
-        {
-          "title": "Ethiopia Economy Grows 9 . 3 %, But $1B Bond Talks Collapse",
-          "link": "https://www.riotimesonline.com/ethiopia-economy-imf-reform-debt-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-06-25T19:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Economy Grows 9 . 3 %, But $1B Bond Talks Collapse"
-        },
-        {
-          "title": "US experts credit Qatar mediation with helping secure US - Iran ceasefire",
-          "link": "https://www.qatar-tribune.com/article/241266/latest-news/us-experts-credit-qatars-mediation-with-helping-secure-us-iran-ceasefire",
-          "source": "qatar-tribune.com",
-          "pubDate": "2026-06-25T19:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US experts credit Qatar mediation with helping secure US - Iran ceasefire"
-        },
-        {
-          "title": "Somalia , federalism and Jubaland",
-          "link": "https://www.thenewhumanitarian.org/analysis/2013/04/16/somalia-federalism-and-jubaland",
-          "source": "thenewhumanitarian.org",
-          "pubDate": "2026-06-25T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia , federalism and Jubaland"
-        },
-        {
-          "title": "Meet the 5 African schools shortlisted for the World Best School Prizes",
-          "link": "https://www.bizcommunity.com/article/meet-the-5-african-schools-shortlisted-for-the-world-best-school-prizes-064785a",
-          "source": "bizcommunity.com",
-          "pubDate": "2026-06-25T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Meet the 5 African schools shortlisted for the World Best School Prizes"
+          "titleIt": "As war keeps spreading, the African Union must find its teeth"
         }
       ]
     },
