@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T18:17:01.480Z",
+  "generatedAt": "2026-06-26T22:48:38.520Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
@@ -200,11 +200,373 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "The Year 536 AD Was So Bad It May Have Been the Worst Time in Human History to Be Alive",
+          "link": "https://www.zmescience.com/science/news-science/536-worst-year-in-history/",
+          "source": "zmescience.com",
+          "pubDate": "2026-06-26T22:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Year 536 AD Was So Bad It May Have Been the Worst Time in Human History to Be Alive"
+        },
+        {
+          "title": "Turkey Detains 40 Undocumented Migrants , Including Citizens of Afghanistan",
+          "link": "https://www.khaama.com/turkey-detains-40-undocumented-migrants-including-citizens-of-afghanistan/",
+          "source": "khaama.com",
+          "pubDate": "2026-06-26T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkey Detains 40 Undocumented Migrants , Including Citizens of Afghanistan"
+        },
+        {
+          "title": "Syria Agriculture Minister , Egyptian businessman Sawiris discuss investment scopes",
+          "link": "https://sana.sy/en/economic/2325671/",
+          "source": "sana.sy",
+          "pubDate": "2026-06-26T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Syria Agriculture Minister , Egyptian businessman Sawiris discuss investment scopes"
+        },
+        {
+          "title": "Mediators worked through threats and strikes to broker US - Iran deal",
+          "link": "https://www.twincities.com/2026/06/26/us-iran-behind-the-mediation/",
+          "source": "twincities.com",
+          "pubDate": "2026-06-26T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mediators worked through threats and strikes to broker US - Iran deal"
+        },
+        {
+          "title": "GLP - 1 patents and Africa : The COVID - 19 lessons we still have not learned",
+          "link": "https://www.worldipreview.com/jurisdiction-reports/glp-1-patents-and-africa-the-covid-19-lessons-we-still-have-not-learned",
+          "source": "worldipreview.com",
+          "pubDate": "2026-06-26T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GLP - 1 patents and Africa : The COVID - 19 lessons we still have not learned"
+        },
+        {
+          "title": "Trump Accuses Iran Of Violating Cease - Fire With Hormuz Drone Attacks",
+          "link": "http://www.britainnews.net/news/279149948/trump-accuses-iran-of-violating-cease-fire-with-hormuz-drone-attacks",
+          "source": "britainnews.net",
+          "pubDate": "2026-06-26T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Accuses Iran Of Violating Cease - Fire With Hormuz Drone Attacks"
+        },
+        {
+          "title": "Beyond carrots and sticks",
+          "link": "https://www.clevelandjewishnews.com/jns/beyond-carrots-and-sticks/article_8528adea-e3a2-5488-8fe7-59a5667e5c60.html",
+          "source": "clevelandjewishnews.com",
+          "pubDate": "2026-06-26T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Beyond carrots and sticks"
+        },
+        {
+          "title": "Milei opens up to Ismael Cala : Childhood traumas , the Torah , and the fall of Cuba",
+          "link": "https://www.prnewswire.com/news-releases/milei-opens-up-to-ismael-cala-childhood-traumas-the-torah-and-the-fall-of-cuba-302812133.html",
+          "source": "prnewswire.com",
+          "pubDate": "2026-06-26T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Milei opens up to Ismael Cala : Childhood traumas , the Torah , and the fall of Cuba"
+        },
+        {
+          "title": "Mediators worked through threats and strikes to broker US - Iran deal",
+          "link": "https://www.citizensvoice.com/2026/06/26/us-iran-behind-the-mediation/",
+          "source": "citizensvoice.com",
+          "pubDate": "2026-06-26T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mediators worked through threats and strikes to broker US - Iran deal"
+        },
+        {
+          "title": "New York primaries signal a new force in US politics | Opinions",
+          "link": "https://www.aljazeera.com/opinions/2026/6/26/new-yorks-primaries-signal-a-new-force-in-us-politics",
+          "source": "aljazeera.com",
+          "pubDate": "2026-06-26T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "New York primaries signal a new force in US politics | Opinions"
+        },
+        {
+          "title": "Mediators worked through threats and strikes to broker the US - Iran deal , and challenges remain",
+          "link": "https://www.wboc.com/news/international/mediators-worked-through-threats-and-strikes-to-broker-the-us-iran-deal-and-challenges-remain/article_b2eda968-bf42-505c-891a-73c5820db9f3.html",
+          "source": "wboc.com",
+          "pubDate": "2026-06-26T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mediators worked through threats and strikes to broker the US - Iran deal , and challenges remain"
+        },
+        {
+          "title": "A look at how Pakistan and Qatar brokered the US - Iran deal",
+          "link": "https://www.wgauradio.com/news/world/mediators-worked/XYVLPUKLLM2MPLUYNQV645DTUQ/",
+          "source": "wgauradio.com",
+          "pubDate": "2026-06-26T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Pakistan and Qatar brokered the US - Iran deal"
+        },
+        {
+          "title": "Mediators Worked Through Threats and Strikes to Broker the US - Iran Deal , and Challenges Remain",
+          "link": "https://www.military.com/mediators-worked-through-threats-and-strikes-to-broker-the-us-iran-deal-and-challenges-remain",
+          "source": "military.com",
+          "pubDate": "2026-06-26T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mediators Worked Through Threats and Strikes to Broker the US - Iran Deal , and Challenges Remain"
+        },
+        {
+          "title": "Mediators worked through threats and strikes to broker the US - Iran deal , and challenges remain",
+          "link": "https://www.news4jax.com/news/world/2026/06/26/mediators-worked-through-threats-and-strikes-to-broker-the-us-iran-deal-and-challenges-remain/",
+          "source": "news4jax.com",
+          "pubDate": "2026-06-26T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mediators worked through threats and strikes to broker the US - Iran deal , and challenges remain"
+        },
+        {
+          "title": "Finance Minister : Better living standards remain government top priority",
+          "link": "https://www.egyptindependent.com/finance-minister-better-living-standards-remain-governments-top-priority/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-06-26T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Finance Minister : Better living standards remain government top priority"
+        },
+        {
+          "title": "How Ankara reads the US - Iran deal",
+          "link": "https://www.arabnews.com/node/2648676",
+          "source": "arabnews.com",
+          "pubDate": "2026-06-26T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How Ankara reads the US - Iran deal"
+        },
+        {
+          "title": "Expat hacks : Four ways to send money home without the headache",
+          "link": "https://whatson.ae/2026/06/expat-hacks-four-ways-to-send-money-home-without-the-headache/",
+          "source": "whatson.ae",
+          "pubDate": "2026-06-26T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Expat hacks : Four ways to send money home without the headache"
+        },
+        {
+          "title": "Afreximbank / Press release | Republic of South Africa and Afreximbank sign US$14 billion Country Programme to accelerate industrial development and trade",
+          "link": "https://afreximbank.africa-newsroom.com/press/republic-of-south-africa-and-afreximbank-sign-us14-billion-country-programme-to-accelerate-industrial-development-and-trade",
+          "source": "afreximbank.africa-newsroom.com",
+          "pubDate": "2026-06-26T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Afreximbank / Press release | Republic of South Africa and Afreximbank sign US$14 billion Country Programme to accelerate industrial development and trade"
+        },
+        {
+          "title": "How CPC contributes to global governance",
+          "link": "https://thesun.ng/how-cpc-contributes-to-global-governance/",
+          "source": "thesun.ng",
+          "pubDate": "2026-06-26T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How CPC contributes to global governance"
+        },
+        {
+          "title": "Mediators worked through threats and strikes to broker the US - Iran deal , and challenges remain",
+          "link": "https://www.2news.com/news/world/mediators-worked-through-threats-and-strikes-to-broker-the-us-iran-deal-and-challenges-remain/article_5745a5b3-45e2-5a14-bcba-5c35e9c7fd1a.html",
+          "source": "2news.com",
+          "pubDate": "2026-06-26T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mediators worked through threats and strikes to broker the US - Iran deal , and challenges remain"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": []
+      "items": [
+        {
+          "title": "Ethiopia Leap Into the Future",
+          "link": "https://allafrica.com/stories/202606250254.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Leap Into the Future"
+        },
+        {
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
+        },
+        {
+          "title": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped",
+          "link": "https://www.engineeringnews.co.za/article/africa-adds-42-gw-new-hydropower-in-2025-only-10-of-hydropower-resources-being-tapped-2026-06-24",
+          "source": "engineeringnews.co.za",
+          "pubDate": "2026-06-24T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped"
+        },
+        {
+          "title": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy",
+          "link": "https://allafrica.com/stories/202606240040.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-24T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy"
+        },
+        {
+          "title": "Pumped Storage Additions Lead Global Hydropower Growth",
+          "link": "https://www.powermag.com/pumped-storage-additions-lead-global-hydropower-growth/",
+          "source": "powermag.com",
+          "pubDate": "2026-06-24T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
+        },
+        {
+          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
+          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
+          "source": "dw.com",
+          "pubDate": "2026-06-21T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
+        },
+        {
+          "title": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA",
+          "link": "https://www.thereporterethiopia.com/51290/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-20T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA"
+        },
+        {
+          "title": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?",
+          "link": "https://english.aawsat.com/arab-world/5286082-trumps-pledge-intervene-can-it-break-deadlock-ethiopian-renaissance-dam-crisis",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-06-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?"
+        },
+        {
+          "title": "Ethiopia : Tale of Two Ethiopias",
+          "link": "https://allafrica.com/stories/202606180628.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-19T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Tale of Two Ethiopias"
+        },
+        {
+          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
+          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-06-18T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
+        },
+        {
+          "title": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity",
+          "link": "https://larouchepub.com/other/2026/5324-ethiopia_the_uncolonized_indep.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-06-17T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity"
+        },
+        {
+          "title": "Trump Backs Egypt in Nile Dam Row",
+          "link": "https://chimpreports.com/trump-backs-egypt-in-nile-dam-row/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Backs Egypt in Nile Dam Row"
+        },
+        {
+          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+          "link": "http://www.idahostatejournal.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_c980aa94-a108-54fb-9ffa-e490dbc13918.html",
+          "source": "idahostatejournal.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
+        },
+        {
+          "title": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy",
+          "link": "https://www.garoweonline.com/en/opinions/beyond-planting-how-ethiopia-s-green-legacy-initiative-is-reshaping-society-economy-and-diplomacy",
+          "source": "garoweonline.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy"
+        },
+        {
+          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+          "link": "http://www.postregister.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_5823212b-9bc9-5415-a72d-53c1e7302dfc.html",
+          "source": "postregister.com",
+          "pubDate": "2026-06-17T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
+        },
+        {
+          "title": "Trump Raises Nile Dam Dispute in Egypt Talks",
+          "link": "https://www.newkerala.com/news/a/trump-raises-nile-dispute-talks-egypt-919.htm",
+          "source": "newkerala.com",
+          "pubDate": "2026-06-17T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Raises Nile Dam Dispute in Egypt Talks"
+        },
+        {
+          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+          "link": "https://www.newsday.com/news/nation/g7-summit-trump-ai-france-17-june-2026-f72748",
+          "source": "newsday.com",
+          "pubDate": "2026-06-17T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
+        },
+        {
+          "title": "Sisi expresses gratitude for Trump  understanding  of Egyptian position on Ethiopian dam issue",
+          "link": "https://aa.com.tr/en/middle-east/sisi-expresses-gratitude-for-trump-s-understanding-of-egyptian-position-on-ethiopian-dam-issue/3969715",
+          "source": "aa.com.tr",
+          "pubDate": "2026-06-17T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sisi expresses gratitude for Trump  understanding  of Egyptian position on Ethiopian dam issue"
+        },
+        {
+          "title": "Trump Iran Deal Threats Before Signing",
+          "link": "https://athens-times.com/trump-threatens-iran-with-bombing-days-before-deal-signing/",
+          "source": "athens-times.com",
+          "pubDate": "2026-06-17T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Iran Deal Threats Before Signing"
+        },
+        {
+          "title": "The Latest : G7 summit focuses on contentious future of AI and US dominance of the industry",
+          "link": "https://www.wptf.com/2026/06/17/the-latest-g7-summit-focuses-on-contentious-future-of-ai-and-us-dominance-of-the-industry/",
+          "source": "wptf.com",
+          "pubDate": "2026-06-17T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : G7 summit focuses on contentious future of AI and US dominance of the industry"
+        }
+      ]
     }
   }
 }
