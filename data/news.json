@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-06-29T14:20:54.633Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-06-29T21:47:15.586Z",
+  "feedsChecked": 7,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Somalia: Somali President Arrives in Ethiopia for Talks With PM Abiy",
-          "link": "https://allafrica.com/stories/202606290558.html",
-          "description": "[Shabelle] Addis Ababa, June 29 -- Somali President Hassan Sheikh Mohamud arrived in Ethiopia's capital Addis Ababa on Sunday for a working visit expected to focus on security, regional stability and strengthening bilateral ties, Somalia's presidency said.",
-          "pubDate": "Mon, 29 Jun 2026 13:31:16 GMT",
+          "title": "Somalia: Saudi Arabia Executes Three Somali Nationals Convicted of Hashish Smuggling",
+          "link": "https://allafrica.com/stories/202606290628.html",
+          "description": "[Shabelle] Riyadh -- Saudi Arabia has on Sunday executed three Somali nationals convicted of smuggling hashish into the kingdom, the Interior Ministry said, as the Gulf state continues to carry out capital punishment for drug-related offences despite mounting criticism from human rights groups.",
+          "pubDate": "Mon, 29 Jun 2026 16:07:10 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: Somali President Arrives in Ethiopia for Talks With PM Abiy"
+          "titleIt": "Somalia: Saudi Arabia Executes Three Somali Nationals Convicted of Hashish Smuggling"
         },
         {
           "title": "EU imposes visa restrictions on Somalis after readmission row with Mogadishu",
@@ -32,30 +32,21 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Top Somali official deported from Kenya over suspected passport fraud"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
-        },
-        {
-          "title": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026",
-          "link": "https://www.crisisgroup.org/evt/africa/sudan-south-sudan-and-somalia-key-peace-and-security-priorities-africa-2026",
-          "description": "In this online event, Crisis Group experts discussed peace and security priorities for the African continent in 2026, zooming in on Somalia, Sudan and South Sudan ahead of the African Union's summit of heads of state.&nbsp;",
-          "pubDate": "Thursday, February 12, 2026 - 16:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Somalia: Saudi Arabia Executes Three Somali Nationals Convicted of Hashish Smuggling",
+          "link": "https://allafrica.com/stories/202606290628.html",
+          "description": "[Shabelle] Riyadh -- Saudi Arabia has on Sunday executed three Somali nationals convicted of smuggling hashish into the kingdom, the Interior Ministry said, as the Gulf state continues to carry out capital punishment for drug-related offences despite mounting criticism from human rights groups.",
+          "pubDate": "Mon, 29 Jun 2026 16:07:10 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Saudi Arabia Executes Three Somali Nationals Convicted of Hashish Smuggling"
+        },
         {
           "title": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal",
           "link": "https://allafrica.com/stories/202606290557.html",
@@ -66,31 +57,81 @@
           "titleIt": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal"
         },
         {
-          "title": "Ethiopia: Ethiopia Nears Restructuring Deal With Bondholders",
-          "link": "https://allafrica.com/stories/202606290556.html",
-          "description": "[Reporter] The Ministry of Finance announced today it has reached an agreement in principle with an Ad Hoc Committee representing investors behind its one-billion-dollar Eurobond.",
-          "pubDate": "Mon, 29 Jun 2026 13:29:29 GMT",
+          "title": "Top Somali official deported from Kenya over suspected passport fraud",
+          "link": "http://www.africanews.com/2026/06/26/top-somali-official-deported-from-kenya-over-suspected-passport-fraud/",
+          "description": "Somalia’s Second Deputy Prime Minister was deported from Kenya on Thursday over allegations of passport fraud, according to numerous reports.",
+          "pubDate": "Fri, 26 Jun 2026 15:43:33 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Top Somali official deported from Kenya over suspected passport fraud"
+        }
+      ]
+    },
+    "ethiopia-sea-access": {
+      "title": "Accesso etiope al mare",
+      "items": [
+        {
+          "title": "Somalia: Saudi Arabia Executes Three Somali Nationals Convicted of Hashish Smuggling",
+          "link": "https://allafrica.com/stories/202606290628.html",
+          "description": "[Shabelle] Riyadh -- Saudi Arabia has on Sunday executed three Somali nationals convicted of smuggling hashish into the kingdom, the Interior Ministry said, as the Gulf state continues to carry out capital punishment for drug-related offences despite mounting criticism from human rights groups.",
+          "pubDate": "Mon, 29 Jun 2026 16:07:10 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Nears Restructuring Deal With Bondholders"
+          "titleIt": "Somalia: Saudi Arabia Executes Three Somali Nationals Convicted of Hashish Smuggling"
         },
         {
-          "title": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report",
-          "link": "https://www.middleeastmonitor.com/20260629-israel-rebrands-gaza-displacement-plan-amid-backlash-over-forced-transfer-concerns-report/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-06-29T12:30:00Z",
+          "title": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal",
+          "link": "https://allafrica.com/stories/202606290557.html",
+          "description": "[Reporter] The Tigray People's Liberation Front (TPLF) has rejected European Union accusations that it is undermining Ethiopia's 2022 peace agreement, instead accusing the federal government of violating the accord and warning that the Tigray region faces a growing risk of renewed conflict.",
+          "pubDate": "Mon, 29 Jun 2026 13:30:38 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report"
+          "titleIt": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal"
         },
         {
-          "title": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System",
-          "link": "https://www.i24news.tv/en/news/middle-east/the-gulf/artc-exclusive-the-houthis-are-conducting-experiments-to-improve-their-missile-system",
-          "source": "i24news.tv",
-          "pubDate": "2026-06-29T10:45:00Z",
+          "title": "Nigeria cannot ban its way to industrialisation",
+          "link": "https://dailytrust.com/nigeria-cannot-ban-its-way-to-industrialisation/",
+          "source": "dailytrust.com",
+          "pubDate": "2026-06-29T07:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System"
+          "titleIt": "Nigeria cannot ban its way to industrialisation"
+        },
+        {
+          "title": "Ethiopian Airlines – A masterstroke of strategic planning",
+          "link": "https://newafricanmagazine.com/economy/ethiopian-airlines-an-incredible-journey/",
+          "source": "newafricanmagazine.com",
+          "pubDate": "2026-06-28T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopian Airlines – A masterstroke of strategic planning"
+        },
+        {
+          "title": "Libya targets Somali , Sudanese , Ethiopian and Eritrean migrants",
+          "link": "http://radiodalsan.com/2026/06/28/libya-targets-somali-sudanese-ethiopian-and-eritrean-migrants/",
+          "source": "radiodalsan.com",
+          "pubDate": "2026-06-28T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Libya targets Somali , Sudanese , Ethiopian and Eritrean migrants"
+        },
+        {
+          "title": "Hili Regional Dialogue charts sustainable UAE - Africa partnership",
+          "link": "http://www.nigeriasun.com/news/279153331/hili-regional-dialogue-charts-sustainable-uae-africa-partnership",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-06-28T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Hili Regional Dialogue charts sustainable UAE - Africa partnership"
+        },
+        {
+          "title": "New Ocean Forming on Earth : These are the Current 5 Oceans in the World",
+          "link": "https://www.jagranjosh.com/general-knowledge/scientists-warn-new-ocean-earth-forming-five-oceans-list-1820010161-1",
+          "source": "jagranjosh.com",
+          "pubDate": "2026-06-28T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "New Ocean Forming on Earth : These are the Current 5 Oceans in the World"
         },
         {
           "title": "The New Scramble for Africa : Setting the Stage",
@@ -111,216 +152,103 @@
           "titleIt": "How Regional Integration Is Actually Unfolding In Africa : The Pragmatics Of Integration And The Ethiopia – Djibouti Case"
         },
         {
-          "title": "Today Happenings : June 26 , 2026 - South Peace News",
-          "link": "https://www.southpeacenews.com/todays-happenings-june-26-2026/",
-          "source": "southpeacenews.com",
-          "pubDate": "2026-06-26T19:00:00Z",
+          "title": "Ethiopian Airlines – An incredible journey - New African Magazine",
+          "link": "https://newafricanmagazine.com/latest-and-current-affairs/ethiopian-airlines-an-incredible-journey/",
+          "source": "newafricanmagazine.com",
+          "pubDate": "2026-06-27T16:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Today Happenings : June 26 , 2026 - South Peace News"
+          "titleIt": "Ethiopian Airlines – An incredible journey - New African Magazine"
         },
         {
-          "title": "Top Somali official deported from Kenya over suspected passport fraud",
-          "link": "http://www.africanews.com/2026/06/26/top-somali-official-deported-from-kenya-over-suspected-passport-fraud/",
-          "description": "Somalia’s Second Deputy Prime Minister was deported from Kenya on Thursday over allegations of passport fraud, according to numerous reports.",
-          "pubDate": "Fri, 26 Jun 2026 15:43:33 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Top Somali official deported from Kenya over suspected passport fraud"
-        },
-        {
-          "title": "Houthi Leader Warns Israel Over Somaliland Plan",
-          "link": "https://diplomat.so/articles/1506/Houthi-Leader-Warns-Israel-Over-Somaliland-Plan",
-          "source": "diplomat.so",
-          "pubDate": "2026-06-26T02:00:00Z",
+          "title": "UPSC Weekly Current Affairs Quiz ( June 21 – June 27 )",
+          "link": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-weekly-current-affairs-quiz-june-21-june-27-prelims-2027-10760650/",
+          "source": "indianexpress.com",
+          "pubDate": "2026-06-27T16:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Houthi Leader Warns Israel Over Somaliland Plan"
+          "titleIt": "UPSC Weekly Current Affairs Quiz ( June 21 – June 27 )"
         },
         {
-          "title": "Somalia , federalism and Jubaland",
-          "link": "https://www.thenewhumanitarian.org/analysis/2013/04/16/somalia-federalism-and-jubaland",
-          "source": "thenewhumanitarian.org",
-          "pubDate": "2026-06-25T16:00:00Z",
+          "title": "Refugee status should not be politicized [ column ]",
+          "link": "https://lancasteronline.com/opinion/columnists/refugee-status-should-not-be-politicized-column/article_b610b4a0-2d98-4bc3-bd47-5c9863584a47.html",
+          "source": "lancasteronline.com",
+          "pubDate": "2026-06-27T10:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Somalia , federalism and Jubaland"
+          "titleIt": "Refugee status should not be politicized [ column ]"
         },
         {
-          "title": "Ethiopia is not being  dragged into war  | Opinions",
-          "link": "https://www.aljazeera.com/opinions/2026/6/25/ethiopia-is-not-being-dragged-into-war",
-          "source": "aljazeera.com",
-          "pubDate": "2026-06-25T07:00:00Z",
+          "title": "Beyond Borders : The Future Of The Horn Of Africa Depends On Cooperation",
+          "link": "https://www.thereporterethiopia.com/51500/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-27T08:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Ethiopia is not being  dragged into war  | Opinions"
+          "titleIt": "Beyond Borders : The Future Of The Horn Of Africa Depends On Cooperation"
         },
         {
-          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
-          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
-          "source": "zawya.com",
-          "pubDate": "2026-06-25T05:00:00Z",
+          "title": "Afreximbank Urges Focus On Intra - African Trade , Showcases Rising Payment System Adoption",
+          "link": "https://www.thereporterethiopia.com/51533/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-27T08:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
+          "titleIt": "Afreximbank Urges Focus On Intra - African Trade , Showcases Rising Payment System Adoption"
         },
         {
-          "title": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory",
-          "link": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260624-presstv02.htm",
-          "source": "globalsecurity.org",
-          "pubDate": "2026-06-24T14:30:00Z",
+          "title": "Seismic Shifts In Global Politics Beckon New Chapter For Ethiopia - Canada Ties",
+          "link": "https://www.thereporterethiopia.com/51517/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-27T08:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory"
+          "titleIt": "Seismic Shifts In Global Politics Beckon New Chapter For Ethiopia - Canada Ties"
         },
         {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.philippinetimes.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "philippinetimes.com",
-          "pubDate": "2026-06-24T02:00:00Z",
+          "title": "Integrating Refugees : Risk Or Opportunity ? | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/51520/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-27T08:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+          "titleIt": "Integrating Refugees : Risk Or Opportunity ? | The Reporter Ethiopia"
         },
         {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.arabherald.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "arabherald.com",
-          "pubDate": "2026-06-23T23:45:00Z",
+          "title": "Fundamentally Different : AASTU President On Higher Learning , Industry 4 . 0",
+          "link": "https://www.thereporterethiopia.com/51514/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-27T08:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+          "titleIt": "Fundamentally Different : AASTU President On Higher Learning , Industry 4 . 0"
         },
         {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.heraldglobe.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "heraldglobe.com",
-          "pubDate": "2026-06-23T22:45:00Z",
+          "title": "Ethiopia Megaproject Push Leaves Legacy Of Debt And Overexpansion , Officials Concede",
+          "link": "https://www.thereporterethiopia.com/51527/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-27T08:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+          "titleIt": "Ethiopia Megaproject Push Leaves Legacy Of Debt And Overexpansion , Officials Concede"
         },
         {
-          "title": "Ansarullah Official Issues Stark Warning Over Alleged Israeli Naval Presence Near Somalia",
-          "link": "https://wardheernews.com/ansarullah-official-issues-stark-warning-over-alleged-israeli-naval-presence-near-somalia/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-06-23T22:00:00Z",
+          "title": "Eritrea  Low - Cost  Destabilization Strategy Poses Serious Security Threat : Getachew Reda",
+          "link": "https://www.thereporterethiopia.com/51539/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-27T08:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Ansarullah Official Issues Stark Warning Over Alleged Israeli Naval Presence Near Somalia"
+          "titleIt": "Eritrea  Low - Cost  Destabilization Strategy Poses Serious Security Threat : Getachew Reda"
         },
         {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.africaleader.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "africaleader.com",
-          "pubDate": "2026-06-23T21:15:00Z",
+          "title": "Regional Health Experts Convene to Share Knowledge and Experiences on Rising Cases of NCDs and Mental Health Across Eastern and Southern Africa",
+          "link": "https://igad.int/regional-health-experts-convene-to-share-knowledge-and-experiences-on-rising-cases-of-ncds-and-mental-health-across-eastern-and-southern-africa/",
+          "source": "igad.int",
+          "pubDate": "2026-06-26T21:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
-        },
-        {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.kenyastar.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "kenyastar.com",
-          "pubDate": "2026-06-23T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
-        },
-        {
-          "title": "Links 6 / 23 / 2026 | naked capitalism",
-          "link": "https://www.nakedcapitalism.com/2026/06/links-6-23-2026.html",
-          "source": "nakedcapitalism.com",
-          "pubDate": "2026-06-23T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Links 6 / 23 / 2026 | naked capitalism"
-        }
-      ]
-    },
-    "ethiopia-sea-access": {
-      "title": "Accesso etiope al mare",
-      "items": [
-        {
-          "title": "Somalia: Somali President Arrives in Ethiopia for Talks With PM Abiy",
-          "link": "https://allafrica.com/stories/202606290558.html",
-          "description": "[Shabelle] Addis Ababa, June 29 -- Somali President Hassan Sheikh Mohamud arrived in Ethiopia's capital Addis Ababa on Sunday for a working visit expected to focus on security, regional stability and strengthening bilateral ties, Somalia's presidency said.",
-          "pubDate": "Mon, 29 Jun 2026 13:31:16 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somali President Arrives in Ethiopia for Talks With PM Abiy"
-        },
-        {
-          "title": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal",
-          "link": "https://allafrica.com/stories/202606290557.html",
-          "description": "[Reporter] The Tigray People's Liberation Front (TPLF) has rejected European Union accusations that it is undermining Ethiopia's 2022 peace agreement, instead accusing the federal government of violating the accord and warning that the Tigray region faces a growing risk of renewed conflict.",
-          "pubDate": "Mon, 29 Jun 2026 13:30:38 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal"
-        },
-        {
-          "title": "Ethiopia: Ethiopia Nears Restructuring Deal With Bondholders",
-          "link": "https://allafrica.com/stories/202606290556.html",
-          "description": "[Reporter] The Ministry of Finance announced today it has reached an agreement in principle with an Ad Hoc Committee representing investors behind its one-billion-dollar Eurobond.",
-          "pubDate": "Mon, 29 Jun 2026 13:29:29 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Nears Restructuring Deal With Bondholders"
-        },
-        {
-          "title": "Top Somali official deported from Kenya over suspected passport fraud",
-          "link": "http://www.africanews.com/2026/06/26/top-somali-official-deported-from-kenya-over-suspected-passport-fraud/",
-          "description": "Somalia’s Second Deputy Prime Minister was deported from Kenya on Thursday over allegations of passport fraud, according to numerous reports.",
-          "pubDate": "Fri, 26 Jun 2026 15:43:33 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Top Somali official deported from Kenya over suspected passport fraud"
-        },
-        {
-          "title": "Soccer: Nico Paz to stay at Como",
-          "link": "https://www.ansa.it/english/news/2026/06/26/soccer-nico-paz-to-stay-at-como_d0aea6d1-6da5-4e50-a92c-29593ee9e6d4.html",
-          "description": "(ANSA) - ROME, JUN 26 - 21-year-old Argentina attacking midfielder Nico Paz is to stay on loan at Serie A club Como after they reached an agreement with his owner Real Madrid, the Lariani said Friday. The news, circulating from Spain, had been in the air, but an agreement between the Como club and Real Madrid was reportedly reached in the last few hours. The Spanish club will, however, maintain control over the player, with a buy-back clause of €80 million. The overall deal involves approximately €60 million for Como, which aims to make the buy-back clause valid only for the next summer transf",
-          "pubDate": "Fri, 26 Jun 2026 17:20:06 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Soccer: Nico Paz to stay at Como"
-        },
-        {
-          "title": "Soccer: Nico Paz to stay at Como",
-          "link": "https://www.ansa.it/english/news/sports/2026/06/26/soccer-nico-paz-to-stay-at-como_404efc27-c325-454b-b530-3485cfb78325.html",
-          "description": "(ANSA) - ROME, JUN 26 - 21-year-old Argentina attacking midfielder Nico Paz is to stay on loan at Serie A club Como after they reached an agreement with his owner Real Madrid, the Lariani said Friday. The news, circulating from Spain, had been in the air, but an agreement between the Como club and Real Madrid was reportedly reached in the last few hours. The Spanish club will, however, maintain control over the player, with a buy-back clause of €80 million. The overall deal involves approximately €60 million for Como, which aims to make the buy-back clause valid only for the next summer transf",
-          "pubDate": "Fri, 26 Jun 2026 16:09:42 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Soccer: Nico Paz to stay at Como"
-        },
-        {
-          "title": "Mexico Celebrates the Third “Made in Italy” Day",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/06/26/mexico-celebrates-the-third-made-in-italy-day_3fae5fcf-e64c-429a-b730-a334cbe11696.html",
-          "description": "(ANSA) - CITTÀ DEL MESSICO, 25 GIU - The third edition of the National “Made in Italy” Day, titled “Italian Technological Excellence in Mexico in Strategic Sectors,” was held in the Mexican capital. The event was dedicated to highlighting the technological and industrial contributions of Italian companies in Mexico. The Italian Ambassador, Alessandro Modiano, confirmed the strength of trade ties, noting that “the main sector for Italian exports to Mexico is industrial machinery, which accounts for nearly 40% of the total.” Director Gravela highlighted the ICE Agency’s commitment to promoting I",
-          "pubDate": "Fri, 26 Jun 2026 04:58:00 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Mexico Celebrates the Third “Made in Italy” Day"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
-        },
-        {
-          "title": "As war keeps spreading, the African Union must find its teeth",
-          "link": "https://www.crisisgroup.org/opd/africa/war-keeps-spreading-african-union-must-find-its-teeth",
-          "description": "With the continental body at its weakest point since its inception, this week’s summit in Ethiopia cannot be another talk shop. A united front is crucial to resolve intensifying conflicts tearing through Africa.",
-          "pubDate": "Wednesday, February 11, 2026 - 15:04",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "As war keeps spreading, the African Union must find its teeth"
+          "titleIt": "Regional Health Experts Convene to Share Knowledge and Experiences on Rising Cases of NCDs and Mental Health Across Eastern and Southern Africa"
         }
       ]
     },
@@ -339,177 +267,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal"
-        },
-        {
-          "title": "Ethiopia: Ethiopia Nears Restructuring Deal With Bondholders",
-          "link": "https://allafrica.com/stories/202606290556.html",
-          "description": "[Reporter] The Ministry of Finance announced today it has reached an agreement in principle with an Ad Hoc Committee representing investors behind its one-billion-dollar Eurobond.",
-          "pubDate": "Mon, 29 Jun 2026 13:29:29 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Nears Restructuring Deal With Bondholders"
-        },
-        {
-          "title": "Ethiopia New Blue Nile Dams Rattle Egypt",
-          "link": "https://www.riotimesonline.com/ethiopia-blue-nile-dams-egypt-water-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-06-27T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia New Blue Nile Dams Rattle Egypt"
-        },
-        {
-          "title": "Ethiopia Leap Into the Future",
-          "link": "https://allafrica.com/stories/202606250254.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Leap Into the Future"
-        },
-        {
-          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
-          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
-          "source": "zawya.com",
-          "pubDate": "2026-06-25T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
-        },
-        {
-          "title": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped",
-          "link": "https://www.engineeringnews.co.za/article/africa-adds-42-gw-new-hydropower-in-2025-only-10-of-hydropower-resources-being-tapped-2026-06-24",
-          "source": "engineeringnews.co.za",
-          "pubDate": "2026-06-24T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped"
-        },
-        {
-          "title": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy",
-          "link": "https://allafrica.com/stories/202606240040.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-24T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy"
-        },
-        {
-          "title": "Pumped Storage Additions Lead Global Hydropower Growth",
-          "link": "https://www.powermag.com/pumped-storage-additions-lead-global-hydropower-growth/",
-          "source": "powermag.com",
-          "pubDate": "2026-06-24T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
-        },
-        {
-          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
-          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
-          "source": "dw.com",
-          "pubDate": "2026-06-21T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
-        },
-        {
-          "title": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA",
-          "link": "https://www.thereporterethiopia.com/51290/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-20T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA"
-        },
-        {
-          "title": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?",
-          "link": "https://english.aawsat.com/arab-world/5286082-trumps-pledge-intervene-can-it-break-deadlock-ethiopian-renaissance-dam-crisis",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-06-19T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?"
-        },
-        {
-          "title": "Ethiopia : Tale of Two Ethiopias",
-          "link": "https://allafrica.com/stories/202606180628.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-19T00:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Tale of Two Ethiopias"
-        },
-        {
-          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
-          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-06-18T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
-        },
-        {
-          "title": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity",
-          "link": "https://larouchepub.com/other/2026/5324-ethiopia_the_uncolonized_indep.html",
-          "source": "larouchepub.com",
-          "pubDate": "2026-06-17T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity"
-        },
-        {
-          "title": "Trump Backs Egypt in Nile Dam Row",
-          "link": "https://chimpreports.com/trump-backs-egypt-in-nile-dam-row/",
-          "source": "chimpreports.com",
-          "pubDate": "2026-06-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Backs Egypt in Nile Dam Row"
-        },
-        {
-          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
-          "link": "http://www.idahostatejournal.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_c980aa94-a108-54fb-9ffa-e490dbc13918.html",
-          "source": "idahostatejournal.com",
-          "pubDate": "2026-06-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
-        },
-        {
-          "title": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy",
-          "link": "https://www.garoweonline.com/en/opinions/beyond-planting-how-ethiopia-s-green-legacy-initiative-is-reshaping-society-economy-and-diplomacy",
-          "source": "garoweonline.com",
-          "pubDate": "2026-06-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy"
-        },
-        {
-          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
-          "link": "http://www.postregister.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_5823212b-9bc9-5415-a72d-53c1e7302dfc.html",
-          "source": "postregister.com",
-          "pubDate": "2026-06-17T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
-        },
-        {
-          "title": "Trump Raises Nile Dam Dispute in Egypt Talks",
-          "link": "https://www.newkerala.com/news/a/trump-raises-nile-dispute-talks-egypt-919.htm",
-          "source": "newkerala.com",
-          "pubDate": "2026-06-17T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Raises Nile Dam Dispute in Egypt Talks"
-        },
-        {
-          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
-          "link": "https://www.newsday.com/news/nation/g7-summit-trump-ai-france-17-june-2026-f72748",
-          "source": "newsday.com",
-          "pubDate": "2026-06-17T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
         }
       ]
     }
