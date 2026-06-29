@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-06-28T20:43:13.838Z",
+  "generatedAt": "2026-06-29T14:20:54.633Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somali President Arrives in Ethiopia for Talks With PM Abiy",
+          "link": "https://allafrica.com/stories/202606290558.html",
+          "description": "[Shabelle] Addis Ababa, June 29 -- Somali President Hassan Sheikh Mohamud arrived in Ethiopia's capital Addis Ababa on Sunday for a working visit expected to focus on security, regional stability and strengthening bilateral ties, Somalia's presidency said.",
+          "pubDate": "Mon, 29 Jun 2026 13:31:16 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somali President Arrives in Ethiopia for Talks With PM Abiy"
+        },
+        {
+          "title": "EU imposes visa restrictions on Somalis after readmission row with Mogadishu",
+          "link": "http://www.africanews.com/2026/06/29/eu-imposes-visa-restrictions-on-somalis-after-readmission-row-with-mogadishu/",
+          "description": "The European Union is imposing new restrictions on visas for Somali nationals after a disagreement with Mogadishu over the return of irregular migrants to their home country.",
+          "pubDate": "Mon, 29 Jun 2026 09:37:33 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "EU imposes visa restrictions on Somalis after readmission row with Mogadishu"
+        },
         {
           "title": "Top Somali official deported from Kenya over suspected passport fraud",
           "link": "http://www.africanews.com/2026/06/26/top-somali-official-deported-from-kenya-over-suspected-passport-fraud/",
@@ -14,15 +32,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Top Somali official deported from Kenya over suspected passport fraud"
-        },
-        {
-          "title": "Somalia: Somalia Deputy Prime Minister Deported From Kenya Over Alleged Passport Fraud",
-          "link": "https://allafrica.com/stories/202606260202.html",
-          "description": "[Capital FM] Nairobi -- Somalia's Deputy Prime Minister Jibril Abdirashid Haji was deported after he was allegedly found in possession of a fraudulently acquired Kenyan passport at Jomo Kenyatta International Airport (JKIA), according to a police incident report.",
-          "pubDate": "Fri, 26 Jun 2026 09:22:42 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia Deputy Prime Minister Deported From Kenya Over Alleged Passport Fraud"
         },
         {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
@@ -48,13 +57,67 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Africa: Ocean Economy Can Drive Africa's Future If Backed by Bold Investment",
-          "link": "https://allafrica.com/stories/202606260488.html",
-          "description": "[allAfrica] Mombasa, Kenya -- The blue economy is a vital source of jobs, food security, and economic opportunity across Africa and the Western Indian Ocean region. Yet, by the admission of those driving its development, the region is still only beginning to tap into what its oceans, lakes, and rivers can truly offer.",
-          "pubDate": "Fri, 26 Jun 2026 16:03:16 GMT",
+          "title": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal",
+          "link": "https://allafrica.com/stories/202606290557.html",
+          "description": "[Reporter] The Tigray People's Liberation Front (TPLF) has rejected European Union accusations that it is undermining Ethiopia's 2022 peace agreement, instead accusing the federal government of violating the accord and warning that the Tigray region faces a growing risk of renewed conflict.",
+          "pubDate": "Mon, 29 Jun 2026 13:30:38 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Africa: Ocean Economy Can Drive Africa's Future If Backed by Bold Investment"
+          "titleIt": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal"
+        },
+        {
+          "title": "Ethiopia: Ethiopia Nears Restructuring Deal With Bondholders",
+          "link": "https://allafrica.com/stories/202606290556.html",
+          "description": "[Reporter] The Ministry of Finance announced today it has reached an agreement in principle with an Ad Hoc Committee representing investors behind its one-billion-dollar Eurobond.",
+          "pubDate": "Mon, 29 Jun 2026 13:29:29 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Nears Restructuring Deal With Bondholders"
+        },
+        {
+          "title": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report",
+          "link": "https://www.middleeastmonitor.com/20260629-israel-rebrands-gaza-displacement-plan-amid-backlash-over-forced-transfer-concerns-report/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-06-29T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report"
+        },
+        {
+          "title": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System",
+          "link": "https://www.i24news.tv/en/news/middle-east/the-gulf/artc-exclusive-the-houthis-are-conducting-experiments-to-improve-their-missile-system",
+          "source": "i24news.tv",
+          "pubDate": "2026-06-29T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System"
+        },
+        {
+          "title": "The New Scramble for Africa : Setting the Stage",
+          "link": "https://www.greanvillepost.com/the-new-scramble-for-africa-setting-the-stage/",
+          "source": "greanvillepost.com",
+          "pubDate": "2026-06-28T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The New Scramble for Africa : Setting the Stage"
+        },
+        {
+          "title": "How Regional Integration Is Actually Unfolding In Africa : The Pragmatics Of Integration And The Ethiopia – Djibouti Case",
+          "link": "https://www.eurasiareview.com/28062026-how-regional-integration-is-actually-unfolding-in-africa-the-pragmatics-of-integration-and-the-ethiopia-djibouti-case/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-06-28T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How Regional Integration Is Actually Unfolding In Africa : The Pragmatics Of Integration And The Ethiopia – Djibouti Case"
+        },
+        {
+          "title": "Today Happenings : June 26 , 2026 - South Peace News",
+          "link": "https://www.southpeacenews.com/todays-happenings-june-26-2026/",
+          "source": "southpeacenews.com",
+          "pubDate": "2026-06-26T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Today Happenings : June 26 , 2026 - South Peace News"
         },
         {
           "title": "Top Somali official deported from Kenya over suspected passport fraud",
@@ -66,37 +129,145 @@
           "titleIt": "Top Somali official deported from Kenya over suspected passport fraud"
         },
         {
-          "title": "Somalia: Somaliland Marks 66th Independence, Reaffirms Sovereignty",
-          "link": "https://allafrica.com/stories/202606260232.html",
-          "description": "[Horn Diplomat] Hargeisa -- Somaliland celebrated the 66th anniversary of its independence from Britain on Thursday, with President Abdirahman Mohamed Abdullahi Irro reaffirming the country's sovereignty, national unity and commitment to democratic statehood during a state ceremony in Hargeisa.",
-          "pubDate": "Fri, 26 Jun 2026 10:00:46 GMT",
-          "source": "AllAfrica",
+          "title": "Houthi Leader Warns Israel Over Somaliland Plan",
+          "link": "https://diplomat.so/articles/1506/Houthi-Leader-Warns-Israel-Over-Somaliland-Plan",
+          "source": "diplomat.so",
+          "pubDate": "2026-06-26T02:00:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Somaliland Marks 66th Independence, Reaffirms Sovereignty"
+          "description": "",
+          "titleIt": "Houthi Leader Warns Israel Over Somaliland Plan"
         },
         {
-          "title": "Somalia: Somalia Deputy Prime Minister Deported From Kenya Over Alleged Passport Fraud",
-          "link": "https://allafrica.com/stories/202606260202.html",
-          "description": "[Capital FM] Nairobi -- Somalia's Deputy Prime Minister Jibril Abdirashid Haji was deported after he was allegedly found in possession of a fraudulently acquired Kenyan passport at Jomo Kenyatta International Airport (JKIA), according to a police incident report.",
-          "pubDate": "Fri, 26 Jun 2026 09:22:42 GMT",
-          "source": "AllAfrica",
+          "title": "Somalia , federalism and Jubaland",
+          "link": "https://www.thenewhumanitarian.org/analysis/2013/04/16/somalia-federalism-and-jubaland",
+          "source": "thenewhumanitarian.org",
+          "pubDate": "2026-06-25T16:00:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Somalia Deputy Prime Minister Deported From Kenya Over Alleged Passport Fraud"
+          "description": "",
+          "titleIt": "Somalia , federalism and Jubaland"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Ethiopia is not being  dragged into war  | Opinions",
+          "link": "https://www.aljazeera.com/opinions/2026/6/25/ethiopia-is-not-being-dragged-into-war",
+          "source": "aljazeera.com",
+          "pubDate": "2026-06-25T07:00:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Ethiopia is not being  dragged into war  | Opinions"
+        },
+        {
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
+        },
+        {
+          "title": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260624-presstv02.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-06-24T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.philippinetimes.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "philippinetimes.com",
+          "pubDate": "2026-06-24T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.arabherald.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "arabherald.com",
+          "pubDate": "2026-06-23T23:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.heraldglobe.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "heraldglobe.com",
+          "pubDate": "2026-06-23T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        },
+        {
+          "title": "Ansarullah Official Issues Stark Warning Over Alleged Israeli Naval Presence Near Somalia",
+          "link": "https://wardheernews.com/ansarullah-official-issues-stark-warning-over-alleged-israeli-naval-presence-near-somalia/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-06-23T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ansarullah Official Issues Stark Warning Over Alleged Israeli Naval Presence Near Somalia"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.africaleader.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "africaleader.com",
+          "pubDate": "2026-06-23T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.kenyastar.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "kenyastar.com",
+          "pubDate": "2026-06-23T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        },
+        {
+          "title": "Links 6 / 23 / 2026 | naked capitalism",
+          "link": "https://www.nakedcapitalism.com/2026/06/links-6-23-2026.html",
+          "source": "nakedcapitalism.com",
+          "pubDate": "2026-06-23T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Links 6 / 23 / 2026 | naked capitalism"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Somalia: Somali President Arrives in Ethiopia for Talks With PM Abiy",
+          "link": "https://allafrica.com/stories/202606290558.html",
+          "description": "[Shabelle] Addis Ababa, June 29 -- Somali President Hassan Sheikh Mohamud arrived in Ethiopia's capital Addis Ababa on Sunday for a working visit expected to focus on security, regional stability and strengthening bilateral ties, Somalia's presidency said.",
+          "pubDate": "Mon, 29 Jun 2026 13:31:16 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somali President Arrives in Ethiopia for Talks With PM Abiy"
+        },
+        {
+          "title": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal",
+          "link": "https://allafrica.com/stories/202606290557.html",
+          "description": "[Reporter] The Tigray People's Liberation Front (TPLF) has rejected European Union accusations that it is undermining Ethiopia's 2022 peace agreement, instead accusing the federal government of violating the accord and warning that the Tigray region faces a growing risk of renewed conflict.",
+          "pubDate": "Mon, 29 Jun 2026 13:30:38 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal"
+        },
+        {
+          "title": "Ethiopia: Ethiopia Nears Restructuring Deal With Bondholders",
+          "link": "https://allafrica.com/stories/202606290556.html",
+          "description": "[Reporter] The Ministry of Finance announced today it has reached an agreement in principle with an Ad Hoc Committee representing investors behind its one-billion-dollar Eurobond.",
+          "pubDate": "Mon, 29 Jun 2026 13:29:29 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Nears Restructuring Deal With Bondholders"
+        },
         {
           "title": "Top Somali official deported from Kenya over suspected passport fraud",
           "link": "http://www.africanews.com/2026/06/26/top-somali-official-deported-from-kenya-over-suspected-passport-fraud/",
@@ -123,24 +294,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Soccer: Nico Paz to stay at Como"
-        },
-        {
-          "title": "Ethiopia: Ethiopia's Digital Revolution - From Connectivity to Competitiveness",
-          "link": "https://allafrica.com/stories/202606260220.html",
-          "description": "[ENA] Across Africa, nations are embracing the digital revolution as a catalyst for economic growth, stronger governance, and greater global competitiveness. Among them, Ethiopia--long celebrated for its ancient civilization, rich cultural heritage, and strategic position in the Horn of Africa, is emerging as one of the continent's most ambitious digital transformation stories.",
-          "pubDate": "Fri, 26 Jun 2026 09:53:13 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia's Digital Revolution - From Connectivity to Competitiveness"
-        },
-        {
-          "title": "Somalia: Somalia Deputy Prime Minister Deported From Kenya Over Alleged Passport Fraud",
-          "link": "https://allafrica.com/stories/202606260202.html",
-          "description": "[Capital FM] Nairobi -- Somalia's Deputy Prime Minister Jibril Abdirashid Haji was deported after he was allegedly found in possession of a fraudulently acquired Kenyan passport at Jomo Kenyatta International Airport (JKIA), according to a police incident report.",
-          "pubDate": "Fri, 26 Jun 2026 09:22:42 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia Deputy Prime Minister Deported From Kenya Over Alleged Passport Fraud"
         },
         {
           "title": "Mexico Celebrates the Third “Made in Italy” Day",
@@ -177,7 +330,188 @@
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": []
+      "items": [
+        {
+          "title": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal",
+          "link": "https://allafrica.com/stories/202606290557.html",
+          "description": "[Reporter] The Tigray People's Liberation Front (TPLF) has rejected European Union accusations that it is undermining Ethiopia's 2022 peace agreement, instead accusing the federal government of violating the accord and warning that the Tigray region faces a growing risk of renewed conflict.",
+          "pubDate": "Mon, 29 Jun 2026 13:30:38 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal"
+        },
+        {
+          "title": "Ethiopia: Ethiopia Nears Restructuring Deal With Bondholders",
+          "link": "https://allafrica.com/stories/202606290556.html",
+          "description": "[Reporter] The Ministry of Finance announced today it has reached an agreement in principle with an Ad Hoc Committee representing investors behind its one-billion-dollar Eurobond.",
+          "pubDate": "Mon, 29 Jun 2026 13:29:29 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Nears Restructuring Deal With Bondholders"
+        },
+        {
+          "title": "Ethiopia New Blue Nile Dams Rattle Egypt",
+          "link": "https://www.riotimesonline.com/ethiopia-blue-nile-dams-egypt-water-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-06-27T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia New Blue Nile Dams Rattle Egypt"
+        },
+        {
+          "title": "Ethiopia Leap Into the Future",
+          "link": "https://allafrica.com/stories/202606250254.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Leap Into the Future"
+        },
+        {
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
+        },
+        {
+          "title": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped",
+          "link": "https://www.engineeringnews.co.za/article/africa-adds-42-gw-new-hydropower-in-2025-only-10-of-hydropower-resources-being-tapped-2026-06-24",
+          "source": "engineeringnews.co.za",
+          "pubDate": "2026-06-24T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped"
+        },
+        {
+          "title": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy",
+          "link": "https://allafrica.com/stories/202606240040.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-24T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy"
+        },
+        {
+          "title": "Pumped Storage Additions Lead Global Hydropower Growth",
+          "link": "https://www.powermag.com/pumped-storage-additions-lead-global-hydropower-growth/",
+          "source": "powermag.com",
+          "pubDate": "2026-06-24T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
+        },
+        {
+          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
+          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
+          "source": "dw.com",
+          "pubDate": "2026-06-21T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
+        },
+        {
+          "title": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA",
+          "link": "https://www.thereporterethiopia.com/51290/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-20T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA"
+        },
+        {
+          "title": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?",
+          "link": "https://english.aawsat.com/arab-world/5286082-trumps-pledge-intervene-can-it-break-deadlock-ethiopian-renaissance-dam-crisis",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-06-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?"
+        },
+        {
+          "title": "Ethiopia : Tale of Two Ethiopias",
+          "link": "https://allafrica.com/stories/202606180628.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-19T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Tale of Two Ethiopias"
+        },
+        {
+          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
+          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-06-18T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
+        },
+        {
+          "title": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity",
+          "link": "https://larouchepub.com/other/2026/5324-ethiopia_the_uncolonized_indep.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-06-17T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity"
+        },
+        {
+          "title": "Trump Backs Egypt in Nile Dam Row",
+          "link": "https://chimpreports.com/trump-backs-egypt-in-nile-dam-row/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Backs Egypt in Nile Dam Row"
+        },
+        {
+          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+          "link": "http://www.idahostatejournal.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_c980aa94-a108-54fb-9ffa-e490dbc13918.html",
+          "source": "idahostatejournal.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
+        },
+        {
+          "title": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy",
+          "link": "https://www.garoweonline.com/en/opinions/beyond-planting-how-ethiopia-s-green-legacy-initiative-is-reshaping-society-economy-and-diplomacy",
+          "source": "garoweonline.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy"
+        },
+        {
+          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+          "link": "http://www.postregister.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_5823212b-9bc9-5415-a72d-53c1e7302dfc.html",
+          "source": "postregister.com",
+          "pubDate": "2026-06-17T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
+        },
+        {
+          "title": "Trump Raises Nile Dam Dispute in Egypt Talks",
+          "link": "https://www.newkerala.com/news/a/trump-raises-nile-dispute-talks-egypt-919.htm",
+          "source": "newkerala.com",
+          "pubDate": "2026-06-17T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Raises Nile Dam Dispute in Egypt Talks"
+        },
+        {
+          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+          "link": "https://www.newsday.com/news/nation/g7-summit-trump-ai-france-17-june-2026-f72748",
+          "source": "newsday.com",
+          "pubDate": "2026-06-17T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
+        }
+      ]
     }
   }
 }
