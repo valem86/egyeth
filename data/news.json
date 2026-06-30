@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-29T21:47:15.586Z",
-  "feedsChecked": 7,
+  "generatedAt": "2026-06-30T10:44:16.876Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -32,6 +32,24 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Top Somali official deported from Kenya over suspected passport fraud"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+        },
+        {
+          "title": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026",
+          "link": "https://www.crisisgroup.org/evt/africa/sudan-south-sudan-and-somalia-key-peace-and-security-priorities-africa-2026",
+          "description": "In this online event, Crisis Group experts discussed peace and security priorities for the African continent in 2026, zooming in on Somalia, Sudan and South Sudan ahead of the African Union's summit of heads of state.&nbsp;",
+          "pubDate": "Thursday, February 12, 2026 - 16:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026"
         }
       ]
     },
@@ -39,6 +57,42 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Italy-Ethiopia Agreement on Economic Reforms and Climate-Resilient Development",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/06/30/italy-ethiopia-agreement-on-economic-reforms-and-climate-resilient-development_c33a2d74-6d3d-443c-8141-4386b74ece4e.html",
+          "description": "(ANSA) - NAIROBI, 30 GIU - The Ethiopian and Italian governments have signed a 70-million-euro financing package to support the macroeconomic reforms underway in Ethiopia and the country’s sustainable development agenda. The agreement was formally signed by Ethiopian Finance Minister Ahmed Shide and the Italian Ambassador to Ethiopia, Sem Fabrizi. The financing package, a testament to the strength and depth of the historic partnership between Ethiopia and Italy—founded on mutual trust and shared development priorities within the framework of the Mattei Plan for Africa— includes a €70 million c",
+          "pubDate": "Tue, 30 Jun 2026 09:59:51 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Italy-Ethiopia Agreement on Economic Reforms and Climate-Resilient Development"
+        },
+        {
+          "title": "Sudan: How the UAE Is Fuelling the RSF Through Libya",
+          "link": "https://allafrica.com/stories/202606300044.html",
+          "description": "[Ayin Network] A sprawling, covert network of military bases, complex logistics, and weapons trafficking routes operating out of eastern Libya has been exposed as a central artery sustaining the Rapid Support Forces (RSF) and the ongoing war in Sudan.",
+          "pubDate": "Tue, 30 Jun 2026 04:46:47 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: How the UAE Is Fuelling the RSF Through Libya"
+        },
+        {
+          "title": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan",
+          "link": "https://www.sott.net/article/507156-They-really-think-we-re-that-stupid-Israel-rebrands-scheme-to-ethnically-cleanse-Gaza-of-Palestinians-as-Freedom-of-Movement-Plan",
+          "source": "sott.net",
+          "pubDate": "2026-06-30T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan"
+        },
+        {
+          "title": "The EU finds itself Trumped in north Africa",
+          "link": "https://euobserver.com/224774/the-eu-finds-itself-trumped-in-north-africa/",
+          "source": "euobserver.com",
+          "pubDate": "2026-06-29T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The EU finds itself Trumped in north Africa"
+        },
+        {
           "title": "Somalia: Saudi Arabia Executes Three Somali Nationals Convicted of Hashish Smuggling",
           "link": "https://allafrica.com/stories/202606290628.html",
           "description": "[Shabelle] Riyadh -- Saudi Arabia has on Sunday executed three Somali nationals convicted of smuggling hashish into the kingdom, the Interior Ministry said, as the Gulf state continues to carry out capital punishment for drug-related offences despite mounting criticism from human rights groups.",
@@ -57,81 +111,22 @@
           "titleIt": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal"
         },
         {
-          "title": "Top Somali official deported from Kenya over suspected passport fraud",
-          "link": "http://www.africanews.com/2026/06/26/top-somali-official-deported-from-kenya-over-suspected-passport-fraud/",
-          "description": "Somalia’s Second Deputy Prime Minister was deported from Kenya on Thursday over allegations of passport fraud, according to numerous reports.",
-          "pubDate": "Fri, 26 Jun 2026 15:43:33 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Top Somali official deported from Kenya over suspected passport fraud"
-        }
-      ]
-    },
-    "ethiopia-sea-access": {
-      "title": "Accesso etiope al mare",
-      "items": [
-        {
-          "title": "Somalia: Saudi Arabia Executes Three Somali Nationals Convicted of Hashish Smuggling",
-          "link": "https://allafrica.com/stories/202606290628.html",
-          "description": "[Shabelle] Riyadh -- Saudi Arabia has on Sunday executed three Somali nationals convicted of smuggling hashish into the kingdom, the Interior Ministry said, as the Gulf state continues to carry out capital punishment for drug-related offences despite mounting criticism from human rights groups.",
-          "pubDate": "Mon, 29 Jun 2026 16:07:10 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Saudi Arabia Executes Three Somali Nationals Convicted of Hashish Smuggling"
-        },
-        {
-          "title": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal",
-          "link": "https://allafrica.com/stories/202606290557.html",
-          "description": "[Reporter] The Tigray People's Liberation Front (TPLF) has rejected European Union accusations that it is undermining Ethiopia's 2022 peace agreement, instead accusing the federal government of violating the accord and warning that the Tigray region faces a growing risk of renewed conflict.",
-          "pubDate": "Mon, 29 Jun 2026 13:30:38 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal"
-        },
-        {
-          "title": "Nigeria cannot ban its way to industrialisation",
-          "link": "https://dailytrust.com/nigeria-cannot-ban-its-way-to-industrialisation/",
-          "source": "dailytrust.com",
-          "pubDate": "2026-06-29T07:45:00Z",
+          "title": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report",
+          "link": "https://www.middleeastmonitor.com/20260629-israel-rebrands-gaza-displacement-plan-amid-backlash-over-forced-transfer-concerns-report/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-06-29T12:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nigeria cannot ban its way to industrialisation"
+          "titleIt": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report"
         },
         {
-          "title": "Ethiopian Airlines – A masterstroke of strategic planning",
-          "link": "https://newafricanmagazine.com/economy/ethiopian-airlines-an-incredible-journey/",
-          "source": "newafricanmagazine.com",
-          "pubDate": "2026-06-28T16:45:00Z",
+          "title": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System",
+          "link": "https://www.i24news.tv/en/news/middle-east/the-gulf/artc-exclusive-the-houthis-are-conducting-experiments-to-improve-their-missile-system",
+          "source": "i24news.tv",
+          "pubDate": "2026-06-29T10:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Ethiopian Airlines – A masterstroke of strategic planning"
-        },
-        {
-          "title": "Libya targets Somali , Sudanese , Ethiopian and Eritrean migrants",
-          "link": "http://radiodalsan.com/2026/06/28/libya-targets-somali-sudanese-ethiopian-and-eritrean-migrants/",
-          "source": "radiodalsan.com",
-          "pubDate": "2026-06-28T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Libya targets Somali , Sudanese , Ethiopian and Eritrean migrants"
-        },
-        {
-          "title": "Hili Regional Dialogue charts sustainable UAE - Africa partnership",
-          "link": "http://www.nigeriasun.com/news/279153331/hili-regional-dialogue-charts-sustainable-uae-africa-partnership",
-          "source": "nigeriasun.com",
-          "pubDate": "2026-06-28T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Hili Regional Dialogue charts sustainable UAE - Africa partnership"
-        },
-        {
-          "title": "New Ocean Forming on Earth : These are the Current 5 Oceans in the World",
-          "link": "https://www.jagranjosh.com/general-knowledge/scientists-warn-new-ocean-earth-forming-five-oceans-list-1820010161-1",
-          "source": "jagranjosh.com",
-          "pubDate": "2026-06-28T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "New Ocean Forming on Earth : These are the Current 5 Oceans in the World"
+          "titleIt": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System"
         },
         {
           "title": "The New Scramble for Africa : Setting the Stage",
@@ -152,113 +147,488 @@
           "titleIt": "How Regional Integration Is Actually Unfolding In Africa : The Pragmatics Of Integration And The Ethiopia – Djibouti Case"
         },
         {
-          "title": "Ethiopian Airlines – An incredible journey - New African Magazine",
-          "link": "https://newafricanmagazine.com/latest-and-current-affairs/ethiopian-airlines-an-incredible-journey/",
-          "source": "newafricanmagazine.com",
-          "pubDate": "2026-06-27T16:45:00Z",
+          "title": "Today Happenings : June 26 , 2026 - South Peace News",
+          "link": "https://www.southpeacenews.com/todays-happenings-june-26-2026/",
+          "source": "southpeacenews.com",
+          "pubDate": "2026-06-26T19:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Ethiopian Airlines – An incredible journey - New African Magazine"
+          "titleIt": "Today Happenings : June 26 , 2026 - South Peace News"
         },
         {
-          "title": "UPSC Weekly Current Affairs Quiz ( June 21 – June 27 )",
-          "link": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-weekly-current-affairs-quiz-june-21-june-27-prelims-2027-10760650/",
-          "source": "indianexpress.com",
-          "pubDate": "2026-06-27T16:15:00Z",
+          "title": "Top Somali official deported from Kenya over suspected passport fraud",
+          "link": "http://www.africanews.com/2026/06/26/top-somali-official-deported-from-kenya-over-suspected-passport-fraud/",
+          "description": "Somalia’s Second Deputy Prime Minister was deported from Kenya on Thursday over allegations of passport fraud, according to numerous reports.",
+          "pubDate": "Fri, 26 Jun 2026 15:43:33 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "UPSC Weekly Current Affairs Quiz ( June 21 – June 27 )"
+          "titleIt": "Top Somali official deported from Kenya over suspected passport fraud"
         },
         {
-          "title": "Refugee status should not be politicized [ column ]",
-          "link": "https://lancasteronline.com/opinion/columnists/refugee-status-should-not-be-politicized-column/article_b610b4a0-2d98-4bc3-bd47-5c9863584a47.html",
-          "source": "lancasteronline.com",
-          "pubDate": "2026-06-27T10:45:00Z",
+          "title": "Houthi Leader Warns Israel Over Somaliland Plan",
+          "link": "https://diplomat.so/articles/1506/Houthi-Leader-Warns-Israel-Over-Somaliland-Plan",
+          "source": "diplomat.so",
+          "pubDate": "2026-06-26T02:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Refugee status should not be politicized [ column ]"
+          "titleIt": "Houthi Leader Warns Israel Over Somaliland Plan"
         },
         {
-          "title": "Beyond Borders : The Future Of The Horn Of Africa Depends On Cooperation",
-          "link": "https://www.thereporterethiopia.com/51500/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-27T08:00:00Z",
+          "title": "Somalia , federalism and Jubaland",
+          "link": "https://www.thenewhumanitarian.org/analysis/2013/04/16/somalia-federalism-and-jubaland",
+          "source": "thenewhumanitarian.org",
+          "pubDate": "2026-06-25T16:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Beyond Borders : The Future Of The Horn Of Africa Depends On Cooperation"
+          "titleIt": "Somalia , federalism and Jubaland"
         },
         {
-          "title": "Afreximbank Urges Focus On Intra - African Trade , Showcases Rising Payment System Adoption",
-          "link": "https://www.thereporterethiopia.com/51533/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-27T08:00:00Z",
+          "title": "Ethiopia is not being  dragged into war  | Opinions",
+          "link": "https://www.aljazeera.com/opinions/2026/6/25/ethiopia-is-not-being-dragged-into-war",
+          "source": "aljazeera.com",
+          "pubDate": "2026-06-25T07:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Afreximbank Urges Focus On Intra - African Trade , Showcases Rising Payment System Adoption"
+          "titleIt": "Ethiopia is not being  dragged into war  | Opinions"
         },
         {
-          "title": "Seismic Shifts In Global Politics Beckon New Chapter For Ethiopia - Canada Ties",
-          "link": "https://www.thereporterethiopia.com/51517/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-27T08:00:00Z",
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Seismic Shifts In Global Politics Beckon New Chapter For Ethiopia - Canada Ties"
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
         },
         {
-          "title": "Integrating Refugees : Risk Or Opportunity ? | The Reporter Ethiopia",
-          "link": "https://www.thereporterethiopia.com/51520/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-27T08:00:00Z",
+          "title": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260624-presstv02.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-06-24T14:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Integrating Refugees : Risk Or Opportunity ? | The Reporter Ethiopia"
+          "titleIt": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory"
         },
         {
-          "title": "Fundamentally Different : AASTU President On Higher Learning , Industry 4 . 0",
-          "link": "https://www.thereporterethiopia.com/51514/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-27T08:00:00Z",
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.philippinetimes.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "philippinetimes.com",
+          "pubDate": "2026-06-24T02:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Fundamentally Different : AASTU President On Higher Learning , Industry 4 . 0"
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
         },
         {
-          "title": "Ethiopia Megaproject Push Leaves Legacy Of Debt And Overexpansion , Officials Concede",
-          "link": "https://www.thereporterethiopia.com/51527/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-27T08:00:00Z",
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.arabherald.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "arabherald.com",
+          "pubDate": "2026-06-23T23:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Ethiopia Megaproject Push Leaves Legacy Of Debt And Overexpansion , Officials Concede"
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
         },
         {
-          "title": "Eritrea  Low - Cost  Destabilization Strategy Poses Serious Security Threat : Getachew Reda",
-          "link": "https://www.thereporterethiopia.com/51539/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-27T08:00:00Z",
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.heraldglobe.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "heraldglobe.com",
+          "pubDate": "2026-06-23T22:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Eritrea  Low - Cost  Destabilization Strategy Poses Serious Security Threat : Getachew Reda"
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        }
+      ]
+    },
+    "ethiopia-sea-access": {
+      "title": "Accesso etiope al mare",
+      "items": [
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "http://www.reflector.com/news/national/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_9f6d3c94-5ec8-557b-989a-7e2fd8ab04a8.html",
+          "source": "reflector.com",
+          "pubDate": "2026-06-30T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
         },
         {
-          "title": "Regional Health Experts Convene to Share Knowledge and Experiences on Rising Cases of NCDs and Mental Health Across Eastern and Southern Africa",
-          "link": "https://igad.int/regional-health-experts-convene-to-share-knowledge-and-experiences-on-rising-cases-of-ncds-and-mental-health-across-eastern-and-southern-africa/",
-          "source": "igad.int",
-          "pubDate": "2026-06-26T21:45:00Z",
+          "title": "How global scammers use U . S . tech to fleece people – NBC10 Philadelphia",
+          "link": "https://www.nbcphiladelphia.com/news/tech/how-global-scammers-use-us-tech-to-fleece-people/4425191/",
+          "source": "nbcphiladelphia.com",
+          "pubDate": "2026-06-30T08:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Regional Health Experts Convene to Share Knowledge and Experiences on Rising Cases of NCDs and Mental Health Across Eastern and Southern Africa"
+          "titleIt": "How global scammers use U . S . tech to fleece people – NBC10 Philadelphia"
+        },
+        {
+          "title": "How global scammers use U . S . tech to fleece people – NBC Los Angeles",
+          "link": "https://www.nbclosangeles.com/news/national-international/how-global-scammers-use-us-tech-to-fleece-people/3910911/",
+          "source": "nbclosangeles.com",
+          "pubDate": "2026-06-30T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use U . S . tech to fleece people – NBC Los Angeles"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "https://www.union-bulletin.com/news/national/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_864c9978-7cf5-53d0-a2f1-23ca34ee4599.html",
+          "source": "union-bulletin.com",
+          "pubDate": "2026-06-30T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "DRC opposition leader Sesanga banned from leaving the country",
+          "link": "http://www.africanews.com/2026/06/30/drc-opposition-leader-sesanga-banned-from-leaving-the-country/",
+          "description": "An opposition leader in the Democratic Republic of Congo said Monday he had been banned from leaving the country and stripped of his passport, condemning it as \"intimidation\" amid tensions with the government.",
+          "pubDate": "Tue, 30 Jun 2026 08:25:09 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "DRC opposition leader Sesanga banned from leaving the country"
+        },
+        {
+          "title": "Italy-Ethiopia Agreement on Economic Reforms and Climate-Resilient Development",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/06/30/italy-ethiopia-agreement-on-economic-reforms-and-climate-resilient-development_c33a2d74-6d3d-443c-8141-4386b74ece4e.html",
+          "description": "(ANSA) - NAIROBI, 30 GIU - The Ethiopian and Italian governments have signed a 70-million-euro financing package to support the macroeconomic reforms underway in Ethiopia and the country’s sustainable development agenda. The agreement was formally signed by Ethiopian Finance Minister Ahmed Shide and the Italian Ambassador to Ethiopia, Sem Fabrizi. The financing package, a testament to the strength and depth of the historic partnership between Ethiopia and Italy—founded on mutual trust and shared development priorities within the framework of the Mattei Plan for Africa— includes a €70 million c",
+          "pubDate": "Tue, 30 Jun 2026 09:59:51 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Italy-Ethiopia Agreement on Economic Reforms and Climate-Resilient Development"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "https://www.yankton.net/news/national_ap/article_485edf2d-4c00-5bc8-9299-77898c77b08d.html",
+          "source": "yankton.net",
+          "pubDate": "2026-06-30T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "https://www.winknews.com/news/international/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_309094d9-70bf-5ffd-a0b2-2e6653b90799.html",
+          "source": "winknews.com",
+          "pubDate": "2026-06-30T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "How global scammers use U . S . tech to fleece people – NBC New York",
+          "link": "https://www.nbcnewyork.com/news/tech/how-global-scammers-use-us-tech-to-fleece-people/6519516/",
+          "source": "nbcnewyork.com",
+          "pubDate": "2026-06-30T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use U . S . tech to fleece people – NBC New York"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "https://www.weny.com/wires/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_c11d0de3-b8ea-5046-98ac-057da91487b6.html",
+          "source": "weny.com",
+          "pubDate": "2026-06-30T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people – Winnipeg Free Press",
+          "link": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/06/29/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to-fleece-people",
+          "source": "winnipegfreepress.com",
+          "pubDate": "2026-06-30T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people – Winnipeg Free Press"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "http://www.thegazette.com/news/national/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_482c2598-d36e-5f1a-9e70-512ac5c8e444.html",
+          "source": "thegazette.com",
+          "pubDate": "2026-06-30T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "http://www.gazettextra.com/news/nation_world/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_16610a8e-9f47-59c0-8fb4-0af94b61bb20.html",
+          "source": "gazettextra.com",
+          "pubDate": "2026-06-30T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "http://www.hngnews.com/nation_world/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_9d8c641c-ecd1-5e54-99a2-8e388d7ceb8b.html",
+          "source": "hngnews.com",
+          "pubDate": "2026-06-30T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "http://www.idahopress.com/ap_news/us/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_4b826755-24ad-5036-8dcb-c0f62874387b.html",
+          "source": "idahopress.com",
+          "pubDate": "2026-06-30T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "http://www.stardem.com/ap/nation/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_cf48caf2-36a8-5187-8f41-cc011a79128c.html",
+          "source": "stardem.com",
+          "pubDate": "2026-06-30T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "http://www.somdnews.com/ap/nation/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_f5aaf56f-15cc-57f9-8fb3-3146714fb211.html",
+          "source": "somdnews.com",
+          "pubDate": "2026-06-30T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Sudan: China Forgives $50m Sudan Debt",
+          "link": "https://allafrica.com/stories/202606300003.html",
+          "description": "[Dabanga] Port Sudan -- Sudan's Ministry of Finance has signed an agreement with China to cancel part of the country's debt, with Beijing agreeing to write off four interest-free loans owed by Sudan worth a total of 344.52m Chinese yuan (CNY), equivalent to about $50m. The agreement was signed in Port Sudan by Sudan's finance minister, Dr Jibril Ibrahim, on behalf of the Sudanese government, and by Xu Jian, China's chargé d'affaires in Sudan, on behalf of the Chinese government.",
+          "pubDate": "Tue, 30 Jun 2026 04:31:04 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: China Forgives $50m Sudan Debt"
+        },
+        {
+          "title": "Somalia: Saudi Arabia Executes Three Somali Nationals Convicted of Hashish Smuggling",
+          "link": "https://allafrica.com/stories/202606290628.html",
+          "description": "[Shabelle] Riyadh -- Saudi Arabia has on Sunday executed three Somali nationals convicted of smuggling hashish into the kingdom, the Interior Ministry said, as the Gulf state continues to carry out capital punishment for drug-related offences despite mounting criticism from human rights groups.",
+          "pubDate": "Mon, 29 Jun 2026 16:07:10 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Saudi Arabia Executes Three Somali Nationals Convicted of Hashish Smuggling"
+        },
+        {
+          "title": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal",
+          "link": "https://allafrica.com/stories/202606290557.html",
+          "description": "[Reporter] The Tigray People's Liberation Front (TPLF) has rejected European Union accusations that it is undermining Ethiopia's 2022 peace agreement, instead accusing the federal government of violating the accord and warning that the Tigray region faces a growing risk of renewed conflict.",
+          "pubDate": "Mon, 29 Jun 2026 13:30:38 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Energean ( LON : ENOG ) Reaches New 52 - Week Low – Should You Sell ?",
+          "link": "https://www.tickerreport.com/banking-finance/13489923/energean-lonenog-reaches-new-52-week-low-should-you-sell.html",
+          "source": "tickerreport.com",
+          "pubDate": "2026-06-30T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Energean ( LON : ENOG ) Reaches New 52 - Week Low – Should You Sell ?"
+        },
+        {
+          "title": "Goldman Sachs estimates Egyptian pound fair value at EGP 43 / USD",
+          "link": "https://www.zawya.com/en/economy/north-africa/goldman-sachs-estimates-egyptian-pounds-fair-value-at-egp-43-usd-gyc8rp16",
+          "source": "zawya.com",
+          "pubDate": "2026-06-30T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Goldman Sachs estimates Egyptian pound fair value at EGP 43 / USD"
+        },
+        {
+          "title": "IMF reaches staff - level deal with Egypt that could unlock $1 . 6bln",
+          "link": "https://www.zawya.com/en/economy/north-africa/imf-reaches-staff-level-deal-with-egypt-that-could-unlock-16bln-caffrcr2",
+          "source": "zawya.com",
+          "pubDate": "2026-06-30T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "IMF reaches staff - level deal with Egypt that could unlock $1 . 6bln"
+        },
+        {
+          "title": "Inside Pari Jihan : A Home for African & West Asian Design",
+          "link": "https://cairoscene.com/Styled/Inside-Paris-Jihan-A-Home-for-African-West-Asian-Design",
+          "source": "cairoscene.com",
+          "pubDate": "2026-06-30T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Inside Pari Jihan : A Home for African & West Asian Design"
+        },
+        {
+          "title": "Egypt Lists Four State Companies for Sale",
+          "link": "https://www.africa.com/top-10-news/egypt-lists-four-state-companies-for-sale",
+          "source": "africa.com",
+          "pubDate": "2026-06-30T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Lists Four State Companies for Sale"
+        },
+        {
+          "title": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy",
+          "link": "http://www.clevelandstar.com/news/279156410/jada-davino-new-music-drop-room-777-an-anthem-of-absolute-autonomy",
+          "source": "clevelandstar.com",
+          "pubDate": "2026-06-30T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy"
+        },
+        {
+          "title": "Glenna Marshall : Praying in Pain : How to Know Youre Heard When You Havent Been Healed",
+          "link": "https://afr.net/podcasts/the-dr-nurse-mama-show/2026/june/glenna-marshall-praying-in-pain-how-to-know-youre-heard-when-you-havent-been-healed/",
+          "source": "afr.net",
+          "pubDate": "2026-06-30T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Glenna Marshall : Praying in Pain : How to Know Youre Heard When You Havent Been Healed"
+        },
+        {
+          "title": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy",
+          "link": "http://www.baltimorestar.com/news/279156410/jada-davino-new-music-drop-room-777-an-anthem-of-absolute-autonomy",
+          "source": "baltimorestar.com",
+          "pubDate": "2026-06-30T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy"
+        },
+        {
+          "title": "國際現勢 -- 開欄文 - 時事論壇",
+          "link": "https://city.udn.com/2976/7291863?raid=7296754",
+          "source": "city.udn.com",
+          "pubDate": "2026-06-30T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "國際現勢 -- 開欄文 - 時事論壇"
+        },
+        {
+          "title": "Central African Republic Latest  Third Country  for Us Deportees",
+          "link": "https://allafrica.com/stories/202606300033.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-30T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Central African Republic Latest  Third Country  for Us Deportees"
+        },
+        {
+          "title": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy",
+          "link": "http://www.nashvilleherald.com/news/279156410/jada-davino-new-music-drop-room-777-an-anthem-of-absolute-autonomy",
+          "source": "nashvilleherald.com",
+          "pubDate": "2026-06-30T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy"
+        },
+        {
+          "title": "Multinational military gathering in Mongolia trains as UN peacekeepers",
+          "link": "https://www.stripes.com/theaters/asia_pacific/2026-06-29/mongolia-united-nations-peacekeepers-national-guard-22122041.html",
+          "source": "stripes.com",
+          "pubDate": "2026-06-30T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Multinational military gathering in Mongolia trains as UN peacekeepers"
+        },
+        {
+          "title": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy",
+          "link": "http://www.bostonstar.com/news/279156410/jada-davino-new-music-drop-room-777-an-anthem-of-absolute-autonomy",
+          "source": "bostonstar.com",
+          "pubDate": "2026-06-30T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy"
+        },
+        {
+          "title": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy",
+          "link": "http://www.pittsburghstar.com/news/279156410/jada-davino-new-music-drop-room-777-an-anthem-of-absolute-autonomy",
+          "source": "pittsburghstar.com",
+          "pubDate": "2026-06-30T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy"
+        },
+        {
+          "title": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy",
+          "link": "http://www.saltlakecitysun.com/news/279156410/jada-davino-new-music-drop-room-777-an-anthem-of-absolute-autonomy",
+          "source": "saltlakecitysun.com",
+          "pubDate": "2026-06-30T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy"
+        },
+        {
+          "title": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy",
+          "link": "http://www.phoenixherald.com/news/279156410/jada-davino-new-music-drop-room-777-an-anthem-of-absolute-autonomy",
+          "source": "phoenixherald.com",
+          "pubDate": "2026-06-30T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy"
+        },
+        {
+          "title": "We dont build for stock movement : Persistent CEO Sandeep Kalra on share slide after Nagarro buy",
+          "link": "https://www.moneycontrol.com/news/business/information-technology/we-don-t-build-for-stock-movements-persistent-ceo-sandeep-kalra-on-share-slide-after-nagarro-buy-13961777.html",
+          "source": "moneycontrol.com",
+          "pubDate": "2026-06-30T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "We dont build for stock movement : Persistent CEO Sandeep Kalra on share slide after Nagarro buy"
+        },
+        {
+          "title": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy",
+          "link": "http://www.dallassun.com/news/279156410/jada-davino-new-music-drop-room-777-an-anthem-of-absolute-autonomy",
+          "source": "dallassun.com",
+          "pubDate": "2026-06-30T04:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy"
+        },
+        {
+          "title": "Egypt secures IMF staff - level agreement , unlocking potential $1 . 6 billion",
+          "link": "https://www.middle-east-online.com/en/egypt-secures-imf-staff-level-agreement-unlocking-potential-16-billion",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-06-30T03:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt secures IMF staff - level agreement , unlocking potential $1 . 6 billion"
+        },
+        {
+          "title": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy",
+          "link": "http://www.stlouisstar.com/news/279156410/jada-davino-new-music-drop-room-777-an-anthem-of-absolute-autonomy",
+          "source": "stlouisstar.com",
+          "pubDate": "2026-06-30T03:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Jada Davino New Music Drop Room 777 : An Anthem of Absolute Autonomy"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Italy-Ethiopia Agreement on Economic Reforms and Climate-Resilient Development",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/06/30/italy-ethiopia-agreement-on-economic-reforms-and-climate-resilient-development_c33a2d74-6d3d-443c-8141-4386b74ece4e.html",
+          "description": "(ANSA) - NAIROBI, 30 GIU - The Ethiopian and Italian governments have signed a 70-million-euro financing package to support the macroeconomic reforms underway in Ethiopia and the country’s sustainable development agenda. The agreement was formally signed by Ethiopian Finance Minister Ahmed Shide and the Italian Ambassador to Ethiopia, Sem Fabrizi. The financing package, a testament to the strength and depth of the historic partnership between Ethiopia and Italy—founded on mutual trust and shared development priorities within the framework of the Mattei Plan for Africa— includes a €70 million c",
+          "pubDate": "Tue, 30 Jun 2026 09:59:51 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Italy-Ethiopia Agreement on Economic Reforms and Climate-Resilient Development"
+        },
+        {
+          "title": "Sudan: China Forgives $50m Sudan Debt",
+          "link": "https://allafrica.com/stories/202606300003.html",
+          "description": "[Dabanga] Port Sudan -- Sudan's Ministry of Finance has signed an agreement with China to cancel part of the country's debt, with Beijing agreeing to write off four interest-free loans owed by Sudan worth a total of 344.52m Chinese yuan (CNY), equivalent to about $50m. The agreement was signed in Port Sudan by Sudan's finance minister, Dr Jibril Ibrahim, on behalf of the Sudanese government, and by Xu Jian, China's chargé d'affaires in Sudan, on behalf of the Chinese government.",
+          "pubDate": "Tue, 30 Jun 2026 04:31:04 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: China Forgives $50m Sudan Debt"
+        },
         {
           "title": "Ethiopia: TPLF Rejects EU Criticism, Says Govt Violating Peace Deal",
           "link": "https://allafrica.com/stories/202606290557.html",
