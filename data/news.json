@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-01T09:06:41.530Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-07-01T17:34:28.826Z",
+  "feedsChecked": 7,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Somalia: Somalia Says Turkish F-16 Airstrike Kills 35 Al-Shabab Fighters",
-          "link": "https://allafrica.com/stories/202606300582.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's military, backed by Turkish forces, carried out airstrikes using F-16 fighter jets on Tuesday targeting al-Shabab positions in the Godey area of the Lower Shabelle region, the Ministry of Defence said.",
-          "pubDate": "Tue, 30 Jun 2026 16:23:57 GMT",
+          "title": "Somalia: Somali Opposition Group Urges Dialogue, Warns Against Interference in Puntland",
+          "link": "https://allafrica.com/stories/202607010509.html",
+          "description": "[Shabelle] Mogadishu -- The Somali Future Council congratulated Somalis on the 66th anniversary of the country's independence and unification, while warning that Somalia continues to face deepening political and security challenges.",
+          "pubDate": "Wed, 01 Jul 2026 15:44:54 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: Somalia Says Turkish F-16 Airstrike Kills 35 Al-Shabab Fighters"
+          "titleIt": "Somalia: Somali Opposition Group Urges Dialogue, Warns Against Interference in Puntland"
         },
         {
           "title": "EU imposes visa restrictions on Somalis after readmission row with Mogadishu",
@@ -23,24 +23,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "EU imposes visa restrictions on Somalis after readmission row with Mogadishu"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
-        },
-        {
-          "title": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026",
-          "link": "https://www.crisisgroup.org/evt/africa/sudan-south-sudan-and-somalia-key-peace-and-security-priorities-africa-2026",
-          "description": "In this online event, Crisis Group experts discussed peace and security priorities for the African continent in 2026, zooming in on Somalia, Sudan and South Sudan ahead of the African Union's summit of heads of state.&nbsp;",
-          "pubDate": "Thursday, February 12, 2026 - 16:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026"
         }
       ]
     },
@@ -48,13 +30,40 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Cabinet Okays Kenya-U.S. Health Deal to Strengthen Disease Surveillance",
-          "link": "https://allafrica.com/stories/202607010036.html",
-          "description": "[Capital FM] Nairobi -- Kenya and the United States are set to deepen cooperation in public health after the Cabinet approved a new bilateral health framework.",
-          "pubDate": "Wed, 01 Jul 2026 04:56:57 GMT",
+          "title": "Somalia: Somali Opposition Group Urges Dialogue, Warns Against Interference in Puntland",
+          "link": "https://allafrica.com/stories/202607010509.html",
+          "description": "[Shabelle] Mogadishu -- The Somali Future Council congratulated Somalis on the 66th anniversary of the country's independence and unification, while warning that Somalia continues to face deepening political and security challenges.",
+          "pubDate": "Wed, 01 Jul 2026 15:44:54 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Cabinet Okays Kenya-U.S. Health Deal to Strengthen Disease Surveillance"
+          "titleIt": "Somalia: Somali Opposition Group Urges Dialogue, Warns Against Interference in Puntland"
+        },
+        {
+          "title": "How haircuts are helping men recover at a Kenyan mental health hospital",
+          "link": "http://www.africanews.com/2026/07/01/how-haircuts-are-helping-men-recover-at-a-kenyan-mental-health-hospital/",
+          "description": "At Kenya’s largest mental health referral hospital, male patients are offered a different kind of therapy: a personal grooming session provided by two visiting barbers. Healthcare workers say personal grooming is an important aspect of recovery, as patients often lose interest in self-care.",
+          "pubDate": "Wed, 01 Jul 2026 14:48:44 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "How haircuts are helping men recover at a Kenyan mental health hospital"
+        },
+        {
+          "title": "Nigeria's Dangote refinery imports first crude oil from UAE",
+          "link": "http://www.africanews.com/2026/07/01/nigerias-dangote-refinery-imports-first-crude-oil-from-uae/",
+          "description": "Nigeria’s Dangote Petroleum Refinery has imported two cargoes of crude oil from the United Arab Emirates this month, marking its first ever purchase from a Middle Eastern supplier, S&P Global Commodity Insights reported last week.",
+          "pubDate": "Wed, 01 Jul 2026 14:08:43 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Nigeria's Dangote refinery imports first crude oil from UAE"
+        },
+        {
+          "title": "Somalia: Somalia Marks 66th Anniversary of Independence and Unification",
+          "link": "https://allafrica.com/stories/202607010465.html",
+          "description": "[Shabelle] Mogadishu -- Somali President Hassan Sheikh Mohamud joined a national flag-raising ceremony in Mogadishu at midnight on Tuesday to commemorate the 66th anniversary of the independence of the country's southern regions and their union with the north, which established the Somali Republic.",
+          "pubDate": "Wed, 01 Jul 2026 13:57:21 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia Marks 66th Anniversary of Independence and Unification"
         },
         {
           "title": "Italy-Ethiopia Agreement on Economic Reforms and Climate-Resilient Development",
@@ -66,19 +75,307 @@
           "titleIt": "Italy-Ethiopia Agreement on Economic Reforms and Climate-Resilient Development"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan",
+          "link": "https://www.sott.net/article/507156-They-really-think-we-re-that-stupid-Israel-rebrands-scheme-to-ethnically-cleanse-Gaza-of-Palestinians-as-Freedom-of-Movement-Plan",
+          "source": "sott.net",
+          "pubDate": "2026-06-30T02:30:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan"
+        },
+        {
+          "title": "The EU finds itself Trumped in north Africa",
+          "link": "https://euobserver.com/224774/the-eu-finds-itself-trumped-in-north-africa/",
+          "source": "euobserver.com",
+          "pubDate": "2026-06-29T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The EU finds itself Trumped in north Africa"
+        },
+        {
+          "title": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report",
+          "link": "https://www.middleeastmonitor.com/20260629-israel-rebrands-gaza-displacement-plan-amid-backlash-over-forced-transfer-concerns-report/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-06-29T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report"
+        },
+        {
+          "title": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System",
+          "link": "https://www.i24news.tv/en/news/middle-east/the-gulf/artc-exclusive-the-houthis-are-conducting-experiments-to-improve-their-missile-system",
+          "source": "i24news.tv",
+          "pubDate": "2026-06-29T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System"
+        },
+        {
+          "title": "The New Scramble for Africa : Setting the Stage",
+          "link": "https://www.greanvillepost.com/the-new-scramble-for-africa-setting-the-stage/",
+          "source": "greanvillepost.com",
+          "pubDate": "2026-06-28T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The New Scramble for Africa : Setting the Stage"
+        },
+        {
+          "title": "How Regional Integration Is Actually Unfolding In Africa : The Pragmatics Of Integration And The Ethiopia – Djibouti Case",
+          "link": "https://www.eurasiareview.com/28062026-how-regional-integration-is-actually-unfolding-in-africa-the-pragmatics-of-integration-and-the-ethiopia-djibouti-case/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-06-28T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How Regional Integration Is Actually Unfolding In Africa : The Pragmatics Of Integration And The Ethiopia – Djibouti Case"
+        },
+        {
+          "title": "Today Happenings : June 26 , 2026 - South Peace News",
+          "link": "https://www.southpeacenews.com/todays-happenings-june-26-2026/",
+          "source": "southpeacenews.com",
+          "pubDate": "2026-06-26T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Today Happenings : June 26 , 2026 - South Peace News"
+        },
+        {
+          "title": "Houthi Leader Warns Israel Over Somaliland Plan",
+          "link": "https://diplomat.so/articles/1506/Houthi-Leader-Warns-Israel-Over-Somaliland-Plan",
+          "source": "diplomat.so",
+          "pubDate": "2026-06-26T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthi Leader Warns Israel Over Somaliland Plan"
+        },
+        {
+          "title": "Somalia , federalism and Jubaland",
+          "link": "https://www.thenewhumanitarian.org/analysis/2013/04/16/somalia-federalism-and-jubaland",
+          "source": "thenewhumanitarian.org",
+          "pubDate": "2026-06-25T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia , federalism and Jubaland"
+        },
+        {
+          "title": "Ethiopia is not being  dragged into war  | Opinions",
+          "link": "https://www.aljazeera.com/opinions/2026/6/25/ethiopia-is-not-being-dragged-into-war",
+          "source": "aljazeera.com",
+          "pubDate": "2026-06-25T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia is not being  dragged into war  | Opinions"
+        },
+        {
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
+        },
+        {
+          "title": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260624-presstv02.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-06-24T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.philippinetimes.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "philippinetimes.com",
+          "pubDate": "2026-06-24T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.arabherald.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "arabherald.com",
+          "pubDate": "2026-06-23T23:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.heraldglobe.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "heraldglobe.com",
+          "pubDate": "2026-06-23T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ambassador Nicoletti’s Mission to the Argentine Province of Catamarca",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/01/ambassador-nicolettis-mission-to-the-argentine-province-of-catamarca_032b468d-d754-4b85-87cb-7daf1a6080c3.html",
+          "description": "(ANSA) - BUENOS AIRES, 01 LUG - The Italian Ambassador to Argentina, Fabrizio Nicoletti, undertook an institutional mission to the Province of Catamarca on June 29 and 30, with the aim of consolidating dialogue with provincial and municipal authorities and strengthening ties with the historic Italian community in the region. According to a press release, the visit represented an important opportunity to explore opportunities for collaboration between Italy and Catamarca in strategic sectors such as the mining industry, technological innovation, and sustainability. The mission began with a work",
+          "pubDate": "Wed, 1 Jul 2026 18:57:33 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Ambassador Nicoletti’s Mission to the Argentine Province of Catamarca"
+        },
+        {
+          "title": "How global scammers use US tech to fleece people",
+          "link": "https://www.sun-sentinel.com/2026/06/30/global-scammers-us-tech/",
+          "source": "sun-sentinel.com",
+          "pubDate": "2026-06-30T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "How global scammers use US tech to fleece people",
+          "link": "https://www.twincities.com/2026/06/30/global-scammers-us-tech/",
+          "source": "twincities.com",
+          "pubDate": "2026-06-30T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "How global scammers use US tech to fleece people",
+          "link": "https://www.courant.com/2026/06/30/global-scammers-us-tech/",
+          "source": "courant.com",
+          "pubDate": "2026-06-30T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "https://www.adn.com/nation-world/2026/06/30/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to-fleece-people/",
+          "source": "adn.com",
+          "pubDate": "2026-06-30T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "How global scammers use US tech to fleece people",
+          "link": "https://www.fortmorgantimes.com/2026/06/30/global-scammers-us-tech/",
+          "source": "fortmorgantimes.com",
+          "pubDate": "2026-06-30T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "How global scammers use US tech to fleece people",
+          "link": "https://www.dailycamera.com/2026/06/30/global-scammers-us-tech/",
+          "source": "dailycamera.com",
+          "pubDate": "2026-06-30T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "How global scammers use US tech to fleece people",
+          "link": "https://www.orlandosentinel.com/2026/06/30/global-scammers-us-tech/",
+          "source": "orlandosentinel.com",
+          "pubDate": "2026-06-30T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people - Las Vegas Sun News",
+          "link": "https://lasvegassun.com/news/2026/jun/30/four-days-to-make-victims-fall-in-love-how-global/",
+          "source": "lasvegassun.com",
+          "pubDate": "2026-06-30T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people - Las Vegas Sun News"
+        },
+        {
+          "title": "AJC policy chief has front - row seat to history",
+          "link": "https://www.clevelandjewishnews.com/news/local_news/ajc-policy-chief-has-front-row-seat-to-history/article_5fec4553-0f4d-4d01-a35b-b3559e06e134.html",
+          "source": "clevelandjewishnews.com",
+          "pubDate": "2026-06-30T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AJC policy chief has front - row seat to history"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "https://mymotherlode.com/news/world/10961426/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to-fleece-people.html",
+          "source": "mymotherlode.com",
+          "pubDate": "2026-06-30T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "https://www.wfmj.com/news/national/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_736ce2cb-d984-5fa8-981e-a71e6020e3e7.html",
+          "source": "wfmj.com",
+          "pubDate": "2026-06-30T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Story of Kerala Man Trafficked to AI - Integrated Scam Centre in Myanmar",
+          "link": "https://www.deccanchronicle.com/southern-states/kerala/story-of-kerala-man-trafficked-to-ai-integrated-scam-centre-in-myanmar-1967299",
+          "source": "deccanchronicle.com",
+          "pubDate": "2026-06-30T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Story of Kerala Man Trafficked to AI - Integrated Scam Centre in Myanmar"
+        },
+        {
+          "title": "How Global Scammers Use US Tech To Fleece People Worldwide",
+          "link": "https://www.deccanchronicle.com/technology/in-other-news/how-global-scammers-use-us-tech-to-fleece-people-worldwide-1967298",
+          "source": "deccanchronicle.com",
+          "pubDate": "2026-06-30T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How Global Scammers Use US Tech To Fleece People Worldwide"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "http://www.reflector.com/news/national/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_9f6d3c94-5ec8-557b-989a-7e2fd8ab04a8.html",
+          "source": "reflector.com",
+          "pubDate": "2026-06-30T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "How global scammers use U . S . tech to fleece people – NBC10 Philadelphia",
+          "link": "https://www.nbcphiladelphia.com/news/tech/how-global-scammers-use-us-tech-to-fleece-people/4425191/",
+          "source": "nbcphiladelphia.com",
+          "pubDate": "2026-06-30T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use U . S . tech to fleece people – NBC10 Philadelphia"
+        },
+        {
+          "title": "How global scammers use U . S . tech to fleece people – NBC Los Angeles",
+          "link": "https://www.nbclosangeles.com/news/national-international/how-global-scammers-use-us-tech-to-fleece-people/3910911/",
+          "source": "nbclosangeles.com",
+          "pubDate": "2026-06-30T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use U . S . tech to fleece people – NBC Los Angeles"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "https://www.union-bulletin.com/news/national/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_864c9978-7cf5-53d0-a2f1-23ca34ee4599.html",
+          "source": "union-bulletin.com",
+          "pubDate": "2026-06-30T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
         {
           "title": "DRC opposition leader Sesanga banned from leaving the country",
           "link": "http://www.africanews.com/2026/06/30/drc-opposition-leader-sesanga-banned-from-leaving-the-country/",
@@ -96,60 +393,268 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Italy-Ethiopia Agreement on Economic Reforms and Climate-Resilient Development"
-        },
-        {
-          "title": "Soccer: Nico Paz to stay at Como",
-          "link": "https://www.ansa.it/english/news/2026/06/26/soccer-nico-paz-to-stay-at-como_d0aea6d1-6da5-4e50-a92c-29593ee9e6d4.html",
-          "description": "(ANSA) - ROME, JUN 26 - 21-year-old Argentina attacking midfielder Nico Paz is to stay on loan at Serie A club Como after they reached an agreement with his owner Real Madrid, the Lariani said Friday. The news, circulating from Spain, had been in the air, but an agreement between the Como club and Real Madrid was reportedly reached in the last few hours. The Spanish club will, however, maintain control over the player, with a buy-back clause of €80 million. The overall deal involves approximately €60 million for Como, which aims to make the buy-back clause valid only for the next summer transf",
-          "pubDate": "Fri, 26 Jun 2026 17:20:06 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Soccer: Nico Paz to stay at Como"
-        },
-        {
-          "title": "Soccer: Nico Paz to stay at Como",
-          "link": "https://www.ansa.it/english/news/sports/2026/06/26/soccer-nico-paz-to-stay-at-como_404efc27-c325-454b-b530-3485cfb78325.html",
-          "description": "(ANSA) - ROME, JUN 26 - 21-year-old Argentina attacking midfielder Nico Paz is to stay on loan at Serie A club Como after they reached an agreement with his owner Real Madrid, the Lariani said Friday. The news, circulating from Spain, had been in the air, but an agreement between the Como club and Real Madrid was reportedly reached in the last few hours. The Spanish club will, however, maintain control over the player, with a buy-back clause of €80 million. The overall deal involves approximately €60 million for Como, which aims to make the buy-back clause valid only for the next summer transf",
-          "pubDate": "Fri, 26 Jun 2026 16:09:42 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Soccer: Nico Paz to stay at Como"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
-        },
-        {
-          "title": "As war keeps spreading, the African Union must find its teeth",
-          "link": "https://www.crisisgroup.org/opd/africa/war-keeps-spreading-african-union-must-find-its-teeth",
-          "description": "With the continental body at its weakest point since its inception, this week’s summit in Ethiopia cannot be another talk shop. A united front is crucial to resolve intensifying conflicts tearing through Africa.",
-          "pubDate": "Wednesday, February 11, 2026 - 15:04",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "As war keeps spreading, the African Union must find its teeth"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Egyptian Banks Raise Deposit Rates as Loan Demand Strengthens - The Middle East Observer",
+          "link": "https://meobserver.org/middle-east/egypt/2026/06/30/egyptian-banks-raise-deposit-rates-as-loan-demand-strengthens/",
+          "source": "meobserver.org",
+          "pubDate": "2026-06-30T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egyptian Banks Raise Deposit Rates as Loan Demand Strengthens - The Middle East Observer"
+        },
+        {
+          "title": "Bank of America : The Greek investment story is entering a more mature phase",
+          "link": "https://sofokleous10.gr/2026/06/30/bank-of-america-the-greek-investment-story-is-entering-a-more-mature-phase/",
+          "source": "sofokleous10.gr",
+          "pubDate": "2026-06-30T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bank of America : The Greek investment story is entering a more mature phase"
+        },
+        {
+          "title": "Army only airborne rabbi finds his congregation wherever he lands",
+          "link": "https://jweekly.com/2026/06/30/armys-only-airborne-rabbi-finds-his-congregation-wherever-he-lands/",
+          "source": "jweekly.com",
+          "pubDate": "2026-06-30T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Army only airborne rabbi finds his congregation wherever he lands"
+        },
+        {
+          "title": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033",
+          "link": "https://www.ksat.com/business/2026/06/30/cypriot-natural-gas-could-start-flowing-from-exxonmobils-discoveries-by-2033/",
+          "source": "ksat.com",
+          "pubDate": "2026-06-30T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033"
+        },
+        {
+          "title": "United Oil & Gas ( LON : UOG ) Shares Up 13 . 5 % – Still a Buy ?",
+          "link": "https://www.dailypolitical.com/2026/06/30/united-oil-gas-lonuog-shares-up-13-5-still-a-buy.html",
+          "source": "dailypolitical.com",
+          "pubDate": "2026-06-30T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "United Oil & Gas ( LON : UOG ) Shares Up 13 . 5 % – Still a Buy ?"
+        },
+        {
+          "title": "Suez Canal Revenue Rises 23 Percent in the 2025 / 2026 Fiscal Year as Regional Tensions Ease",
+          "link": "https://egyptianstreets.com/2026/06/30/suez-canal-revenue-rises-23-percent-in-the-2025-2026-fiscal-year-as-regional-tensions-ease/",
+          "source": "egyptianstreets.com",
+          "pubDate": "2026-06-30T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Suez Canal Revenue Rises 23 Percent in the 2025 / 2026 Fiscal Year as Regional Tensions Ease"
+        },
+        {
+          "title": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033",
+          "link": "https://www.clickorlando.com/business/2026/06/30/cypriot-natural-gas-could-start-flowing-from-exxonmobils-discoveries-by-2033/",
+          "source": "clickorlando.com",
+          "pubDate": "2026-06-30T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033"
+        },
+        {
+          "title": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033",
+          "link": "https://finance.yahoo.com/energy/articles/cypriot-natural-gas-could-start-113437915.html",
+          "source": "finance.yahoo.com",
+          "pubDate": "2026-06-30T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033"
+        },
+        {
+          "title": "Why the world wealthy are moving to Greece : what Henley and Knight Frank reveal",
+          "link": "https://sofokleous10.gr/2026/06/30/why-the-worlds-wealthy-are-moving-to-greece-what-henley-and-knight-frank-reveal/",
+          "source": "sofokleous10.gr",
+          "pubDate": "2026-06-30T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why the world wealthy are moving to Greece : what Henley and Knight Frank reveal"
+        },
+        {
+          "title": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033",
+          "link": "https://www.news4jax.com/business/2026/06/30/cypriot-natural-gas-could-start-flowing-from-exxonmobils-discoveries-by-2033/",
+          "source": "news4jax.com",
+          "pubDate": "2026-06-30T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033"
+        },
+        {
+          "title": "Cyprus declares Glaucus , Pegasus gas fields commercially viable",
+          "link": "https://en.philenews.com/insider/cyprus-glaucus-pegasus-gas-fields-commerciality-declaration/",
+          "source": "en.philenews.com",
+          "pubDate": "2026-06-30T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cyprus declares Glaucus , Pegasus gas fields commercially viable"
+        },
+        {
+          "title": "Rubio hosts Saddam Haftar as US pushes Libya unity initiative",
+          "link": "https://www.middle-east-online.com/en/rubio-hosts-saddam-haftar-us-pushes-libya-unity-initiative",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-06-30T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rubio hosts Saddam Haftar as US pushes Libya unity initiative"
+        },
+        {
+          "title": "Damascus producers keep Syria centuries - old Qamar al - Din tradition alive",
+          "link": "https://sana.sy/en/miscellaneous/2326374/",
+          "source": "sana.sy",
+          "pubDate": "2026-06-30T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Damascus producers keep Syria centuries - old Qamar al - Din tradition alive"
+        },
+        {
+          "title": "On Engagement with the Syrian Diaspora",
+          "link": "https://english.aawsat.com/opinion/5290358-engagement-syrian-diaspora",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-06-30T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "On Engagement with the Syrian Diaspora"
+        },
+        {
+          "title": "Negotiations with Israel over natural gas dispute at  very advanced stage",
+          "link": "https://cyprus-mail.com/2026/06/30/negotiations-with-israel-over-natural-gas-dispute-at-very-advanced-stage",
+          "source": "cyprus-mail.com",
+          "pubDate": "2026-06-30T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Negotiations with Israel over natural gas dispute at  very advanced stage"
+        },
+        {
+          "title": "AJC policy chief has front - row seat to history",
+          "link": "https://www.clevelandjewishnews.com/news/local_news/ajc-policy-chief-has-front-row-seat-to-history/article_5fec4553-0f4d-4d01-a35b-b3559e06e134.html",
+          "source": "clevelandjewishnews.com",
+          "pubDate": "2026-06-30T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AJC policy chief has front - row seat to history"
+        },
+        {
+          "title": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033",
+          "link": "http://www.bozemandailychronicle.com/ap_news/business/cypriot-natural-gas-could-start-flowing-from-exxonmobils-discoveries-by-2033/article_6e7ba77f-94c3-516b-a04c-637b4a9a4378.html",
+          "source": "bozemandailychronicle.com",
+          "pubDate": "2026-06-30T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033"
+        },
+        {
+          "title": "Egypt steps up efforts to secure release of sailors on ship hijacked by pirates off Somalia",
+          "link": "https://www.thenationalnews.com/news/mena/2026/06/30/egypt-steps-up-efforts-to-secure-release-of-sailors-on-ship-hijacked-by-pirates-off-somalia/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-06-30T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt steps up efforts to secure release of sailors on ship hijacked by pirates off Somalia"
+        },
+        {
+          "title": "IMF Reaches Staff - level Deal with Egypt that Could Unlock $1 . 6 Billion",
+          "link": "https://english.aawsat.com/business/5290335-imf-reaches-staff-level-deal-egypt-could-unlock-16-billion",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-06-30T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "IMF Reaches Staff - level Deal with Egypt that Could Unlock $1 . 6 Billion"
+        },
+        {
+          "title": "Chokepoint Hormuz : Epic Fury and Italy Mediterranean Strategy | Center for International Maritime Security",
+          "link": "https://cimsec.org/chokepoint-hormuz-epic-fury-and-italys-mediterranean-strategy/",
+          "source": "cimsec.org",
+          "pubDate": "2026-06-30T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chokepoint Hormuz : Epic Fury and Italy Mediterranean Strategy | Center for International Maritime Security"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Egypt: Egypt Sweat On Salah Fitness Ahead of Historic World Cup Clash With Australia",
-          "link": "https://allafrica.com/stories/202607010131.html",
-          "description": "[CAF] Egypt are facing major injury concerns ahead of their Round of 32 clash with Australia at the 2026 FIFA World Cup, with captain Mohamed Salah among three key players being monitored by the medical team.",
-          "pubDate": "Wed, 01 Jul 2026 08:44:13 GMT",
-          "source": "AllAfrica",
+          "title": "Sudan's RSF committed ethnic cleansing, Amnesty report alleges",
+          "link": "http://www.africanews.com/2026/07/01/sudans-rsf-committed-ethnic-cleansing-amnesty-report-alleges/",
+          "description": "Sudan's paramilitary Rapid Support Forces committed crimes against humanity and ethnic cleansing during their campaign to seize El-Fasher between 2024 and 2025, according to a new report from Amnesty International released on Wednesday.",
+          "pubDate": "Wed, 01 Jul 2026 14:35:15 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "titleIt": "Egypt: Egypt Sweat On Salah Fitness Ahead of Historic World Cup Clash With Australia"
+          "titleIt": "Sudan's RSF committed ethnic cleansing, Amnesty report alleges"
+        },
+        {
+          "title": "Italian woman released in Egypt after Tajani intervenes",
+          "link": "https://www.ansa.it/english/news/general_news/2026/07/01/italian-woman-released-in-egypt-after-tajani-intervenes_d1599885-2d57-48a7-bad4-ed84b8523ae7.html",
+          "description": "(ANSA) - ROME, JUL 1 - Nessy Guerra, an Italian woman currently obliged to live in Egypt with her three-year-old daughter due to a custody battle with her estranged Egyptian husband, was released on Wednesday following an intervention by Foreign Minister Antonio Tajani after Egyptian police went to her Cairo home and took her to a station overnight, sources said. Guerra has returned home with her daughter, the sources said. The Egyptian police said Guerra had been detained in relation to an order by an Egyptian judge saying the father must have access to the child. Guerra received assistance f",
+          "pubDate": "Wed, 1 Jul 2026 15:37:14 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Italian woman released in Egypt after Tajani intervenes"
+        },
+        {
+          "title": "Cairo embassy has requested pardon for Nessy Guerra says Tajani",
+          "link": "https://www.ansa.it/english/news/world/2026/07/01/cairo-embassy-has-requested-pardon-for-nessy-guerra-says-tajani_971d064c-c657-49e5-acdd-73c536bfa646.html",
+          "description": "(ANSA) - ROME, JUL 1 - Deputy Premier and Foreign Minister Antonio Tajani said Wednesday that Italy's embassy in Cairo has made a formal request to the Egyptian authorities for a presidential pardon for an adultery conviction for Nessy Guerra, an Italian woman currently obliged to live in Egypt with her three-year-old daughter due to a custody battle with her estranged Egyptian husband. During a question time session in the Lower House, the minister confirmed that he intervened personally, speaking to his Egyptian counterpart for Guerra's release after she was taken from her home in Cairo over",
+          "pubDate": "Wed, 1 Jul 2026 15:36:22 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Cairo embassy has requested pardon for Nessy Guerra says Tajani"
+        },
+        {
+          "title": "Cairo embassy has requested pardon for Nessy Guerra says Tajani",
+          "link": "https://www.ansa.it/english/news/2026/07/01/cairo-embassy-has-requested-pardon-for-nessy-guerra-says-tajani_76c1fb05-6557-401c-b6ed-4cb625f044aa.html",
+          "description": "(ANSA) - ROME, JUL 1 - Deputy Premier and Foreign Minister Antonio Tajani said Wednesday that Italy's embassy in Cairo has made a formal request to the Egyptian authorities for a presidential pardon for an adultery conviction for Nessy Guerra, an Italian woman currently obliged to live in Egypt with her three-year-old daughter due to a custody battle with her estranged Egyptian husband. During a question time session in the Lower House, the minister confirmed that he intervened personally, speaking to his Egyptian counterpart for Guerra's release after she was taken from her home in Cairo over",
+          "pubDate": "Wed, 1 Jul 2026 15:36:17 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Cairo embassy has requested pardon for Nessy Guerra says Tajani"
+        },
+        {
+          "title": "In Sudan's Kordofan, a key city reels as paramilitary offensive looms",
+          "link": "http://www.africanews.com/2026/07/01/in-sudans-kordofan-a-key-city-reels-as-paramilitary-offensive-looms/",
+          "description": "In a displacement camp near El-Obeid in Sudan's southern Kordofan region, Agsam Hamad trudges through searing heat to fetch murky water from a distant well, as paramilitary forces unleash their fiercest assault yet on the strategic city.",
+          "pubDate": "Wed, 01 Jul 2026 12:38:34 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "In Sudan's Kordofan, a key city reels as paramilitary offensive looms"
+        },
+        {
+          "title": "Working to bring Nessy Guerra and daughter back to Italy says Tajani",
+          "link": "https://www.ansa.it/english/news/general_news/2026/07/01/working-to-bring-nessy-guerra-and-daughter-back-to-italy-says-tajani_05c3b1f9-7865-42c8-9fd3-71a2e9bb6bbd.html",
+          "description": "(ANSA) - ROME, JUL 1 - The government is working to make it possible for Nessy Guerra, an Italian woman currently obliged to live in Egypt with her three-year-old daughter due to a custody battle with her estranged Egyptian husband, to return to Italy, Deputy Premier and Foreign Minister Antonio Tajani said on Wednesday. Tajani commented on the case via X following his intervention to have Guerra released after she was taken from her home in Cairo overnight and held at a police station. \"Nessy Guerra has been released and has already returned home with her daughter,\" Tajani said. \"I express my",
+          "pubDate": "Wed, 1 Jul 2026 11:51:40 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Working to bring Nessy Guerra and daughter back to Italy says Tajani"
+        },
+        {
+          "title": "Working to bring Nessy Guerra and daughter back to Italy says Tajani",
+          "link": "https://www.ansa.it/english/news/2026/07/01/working-to-bring-nessy-guerra-and-daughter-back-to-italy-says-tajani_0d49930d-fbd2-4315-a37d-568215e6f933.html",
+          "description": "(ANSA) - ROME, JUL 1 - The government is working to make it possible for Nessy Guerra, an Italian woman currently obliged to live in Egypt with her three-year-old daughter due to a custody battle with her estranged Egyptian husband, to return to Italy, Deputy Premier and Foreign Minister Antonio Tajani said on Wednesday. Tajani commented on the case via X following his intervention to have Guerra released after she was taken from her home in Cairo overnight and held at a police station. \"Nessy Guerra has been released and has already returned home with her daughter,\" Tajani said. \"I express my",
+          "pubDate": "Wed, 1 Jul 2026 11:51:37 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Working to bring Nessy Guerra and daughter back to Italy says Tajani"
+        },
+        {
+          "title": "Italian woman released in Egypt after Tajani intervenes",
+          "link": "https://www.ansa.it/english/news/2026/07/01/italian-woman-released-in-egypt-after-tajani-intervenes_4b4786a0-c2e5-4c39-878a-7f3611d4ca21.html",
+          "description": "(ANSA) - ROME, JUL 1 - Nessy Guerra, an Italian woman currently obliged to live in Egypt with her three-year-old daughter due to a custody battle with her estranged Egyptian husband, was released on Wednesday following an intervention by Foreign Minister Antonio Tajani after Egyptian police went to her Cairo home and took her to a station overnight, sources said. Guerra has returned home with her daughter, the sources said. The Egyptian police said Guerra had been detained in relation to an order by an Egyptian judge saying the father must have access to the child. Guerra received assistance f",
+          "pubDate": "Wed, 1 Jul 2026 11:10:55 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Italian woman released in Egypt after Tajani intervenes"
         },
         {
           "title": "Italy-Ethiopia Agreement on Economic Reforms and Climate-Resilient Development",
@@ -159,6 +664,105 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Italy-Ethiopia Agreement on Economic Reforms and Climate-Resilient Development"
+        },
+        {
+          "title": "Ethiopia New Blue Nile Dams Rattle Egypt",
+          "link": "https://www.riotimesonline.com/ethiopia-blue-nile-dams-egypt-water-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-06-27T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia New Blue Nile Dams Rattle Egypt"
+        },
+        {
+          "title": "Ethiopia Leap Into the Future",
+          "link": "https://allafrica.com/stories/202606250254.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Leap Into the Future"
+        },
+        {
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
+        },
+        {
+          "title": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped",
+          "link": "https://www.engineeringnews.co.za/article/africa-adds-42-gw-new-hydropower-in-2025-only-10-of-hydropower-resources-being-tapped-2026-06-24",
+          "source": "engineeringnews.co.za",
+          "pubDate": "2026-06-24T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped"
+        },
+        {
+          "title": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy",
+          "link": "https://allafrica.com/stories/202606240040.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-24T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy"
+        },
+        {
+          "title": "Pumped Storage Additions Lead Global Hydropower Growth",
+          "link": "https://www.powermag.com/pumped-storage-additions-lead-global-hydropower-growth/",
+          "source": "powermag.com",
+          "pubDate": "2026-06-24T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
+        },
+        {
+          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
+          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
+          "source": "dw.com",
+          "pubDate": "2026-06-21T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
+        },
+        {
+          "title": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA",
+          "link": "https://www.thereporterethiopia.com/51290/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-20T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA"
+        },
+        {
+          "title": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?",
+          "link": "https://english.aawsat.com/arab-world/5286082-trumps-pledge-intervene-can-it-break-deadlock-ethiopian-renaissance-dam-crisis",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-06-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?"
+        },
+        {
+          "title": "Ethiopia : Tale of Two Ethiopias",
+          "link": "https://allafrica.com/stories/202606180628.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-19T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Tale of Two Ethiopias"
+        },
+        {
+          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
+          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-06-18T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
         }
       ]
     }
