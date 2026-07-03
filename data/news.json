@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-03T17:06:27.054Z",
+  "generatedAt": "2026-07-03T21:52:28.877Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "African Union peacekeeping mission in Somalia at risk amid US funding cuts",
+          "link": "http://www.africanews.com/2026/07/03/african-union-peacekeeping-mission-in-somalia-at-risk-amid-us-funding-cuts/",
+          "description": "Washington said its decision was due the government’s lack of progress in containing the al-Shabaab group or in taking ownership of its own security.",
+          "pubDate": "Fri, 03 Jul 2026 16:33:56 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "African Union peacekeeping mission in Somalia at risk amid US funding cuts"
+        },
         {
           "title": "Somalia: African Union Calls Emergency Meeting As U.S. Ends Somalia Army Funds",
           "link": "https://allafrica.com/stories/202607030467.html",
@@ -84,24 +93,6 @@
           "titleIt": "US to block UN funding for Somalia in blow to AU peace mission"
         },
         {
-          "title": "How haircuts are helping men recover at a Kenyan mental health hospital",
-          "link": "http://www.africanews.com/2026/07/01/how-haircuts-are-helping-men-recover-at-a-kenyan-mental-health-hospital/",
-          "description": "At Kenya’s largest mental health referral hospital, male patients are offered a different kind of therapy: a personal grooming session provided by two visiting barbers. Healthcare workers say personal grooming is an important aspect of recovery, as patients often lose interest in self-care.",
-          "pubDate": "Wed, 01 Jul 2026 14:48:44 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "How haircuts are helping men recover at a Kenyan mental health hospital"
-        },
-        {
-          "title": "Nigeria's Dangote refinery imports first crude oil from UAE",
-          "link": "http://www.africanews.com/2026/07/01/nigerias-dangote-refinery-imports-first-crude-oil-from-uae/",
-          "description": "Nigeria’s Dangote Petroleum Refinery has imported two cargoes of crude oil from the United Arab Emirates this month, marking its first ever purchase from a Middle Eastern supplier, S&P Global Commodity Insights reported last week.",
-          "pubDate": "Wed, 01 Jul 2026 14:08:43 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Nigeria's Dangote refinery imports first crude oil from UAE"
-        },
-        {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
           "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
           "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
@@ -161,139 +152,22 @@
           "titleIt": "Ambassador Nicoletti’s Mission to the Argentine Province of Catamarca"
         },
         {
-          "title": "How global scammers use US tech to fleece people",
-          "link": "https://www.sun-sentinel.com/2026/06/30/global-scammers-us-tech/",
-          "source": "sun-sentinel.com",
-          "pubDate": "2026-06-30T18:15:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "How global scammers use US tech to fleece people"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         },
         {
-          "title": "How global scammers use US tech to fleece people",
-          "link": "https://www.twincities.com/2026/06/30/global-scammers-us-tech/",
-          "source": "twincities.com",
-          "pubDate": "2026-06-30T18:00:00Z",
+          "title": "As war keeps spreading, the African Union must find its teeth",
+          "link": "https://www.crisisgroup.org/opd/africa/war-keeps-spreading-african-union-must-find-its-teeth",
+          "description": "With the continental body at its weakest point since its inception, this week’s summit in Ethiopia cannot be another talk shop. A united front is crucial to resolve intensifying conflicts tearing through Africa.",
+          "pubDate": "Wednesday, February 11, 2026 - 15:04",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "How global scammers use US tech to fleece people"
-        },
-        {
-          "title": "How global scammers use US tech to fleece people",
-          "link": "https://www.courant.com/2026/06/30/global-scammers-us-tech/",
-          "source": "courant.com",
-          "pubDate": "2026-06-30T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How global scammers use US tech to fleece people"
-        },
-        {
-          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
-          "link": "https://www.adn.com/nation-world/2026/06/30/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to-fleece-people/",
-          "source": "adn.com",
-          "pubDate": "2026-06-30T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
-        },
-        {
-          "title": "How global scammers use US tech to fleece people",
-          "link": "https://www.fortmorgantimes.com/2026/06/30/global-scammers-us-tech/",
-          "source": "fortmorgantimes.com",
-          "pubDate": "2026-06-30T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How global scammers use US tech to fleece people"
-        },
-        {
-          "title": "How global scammers use US tech to fleece people",
-          "link": "https://www.dailycamera.com/2026/06/30/global-scammers-us-tech/",
-          "source": "dailycamera.com",
-          "pubDate": "2026-06-30T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How global scammers use US tech to fleece people"
-        },
-        {
-          "title": "How global scammers use US tech to fleece people",
-          "link": "https://www.orlandosentinel.com/2026/06/30/global-scammers-us-tech/",
-          "source": "orlandosentinel.com",
-          "pubDate": "2026-06-30T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How global scammers use US tech to fleece people"
-        },
-        {
-          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people - Las Vegas Sun News",
-          "link": "https://lasvegassun.com/news/2026/jun/30/four-days-to-make-victims-fall-in-love-how-global/",
-          "source": "lasvegassun.com",
-          "pubDate": "2026-06-30T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people - Las Vegas Sun News"
-        },
-        {
-          "title": "AJC policy chief has front - row seat to history",
-          "link": "https://www.clevelandjewishnews.com/news/local_news/ajc-policy-chief-has-front-row-seat-to-history/article_5fec4553-0f4d-4d01-a35b-b3559e06e134.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-06-30T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AJC policy chief has front - row seat to history"
-        },
-        {
-          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
-          "link": "https://mymotherlode.com/news/world/10961426/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to-fleece-people.html",
-          "source": "mymotherlode.com",
-          "pubDate": "2026-06-30T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
-        },
-        {
-          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
-          "link": "https://www.wfmj.com/news/national/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_736ce2cb-d984-5fa8-981e-a71e6020e3e7.html",
-          "source": "wfmj.com",
-          "pubDate": "2026-06-30T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
-        },
-        {
-          "title": "Story of Kerala Man Trafficked to AI - Integrated Scam Centre in Myanmar",
-          "link": "https://www.deccanchronicle.com/southern-states/kerala/story-of-kerala-man-trafficked-to-ai-integrated-scam-centre-in-myanmar-1967299",
-          "source": "deccanchronicle.com",
-          "pubDate": "2026-06-30T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Story of Kerala Man Trafficked to AI - Integrated Scam Centre in Myanmar"
-        },
-        {
-          "title": "How Global Scammers Use US Tech To Fleece People Worldwide",
-          "link": "https://www.deccanchronicle.com/technology/in-other-news/how-global-scammers-use-us-tech-to-fleece-people-worldwide-1967298",
-          "source": "deccanchronicle.com",
-          "pubDate": "2026-06-30T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How Global Scammers Use US Tech To Fleece People Worldwide"
-        },
-        {
-          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
-          "link": "http://www.reflector.com/news/national/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_9f6d3c94-5ec8-557b-989a-7e2fd8ab04a8.html",
-          "source": "reflector.com",
-          "pubDate": "2026-06-30T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
-        },
-        {
-          "title": "How global scammers use U . S . tech to fleece people – NBC10 Philadelphia",
-          "link": "https://www.nbcphiladelphia.com/news/tech/how-global-scammers-use-us-tech-to-fleece-people/4425191/",
-          "source": "nbcphiladelphia.com",
-          "pubDate": "2026-06-30T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How global scammers use U . S . tech to fleece people – NBC10 Philadelphia"
+          "titleIt": "As war keeps spreading, the African Union must find its teeth"
         }
       ]
     },
@@ -522,15 +396,6 @@
           "titleIt": "Cairo embassy has requested pardon for Nessy Guerra says Tajani"
         },
         {
-          "title": "In Sudan's Kordofan, a key city reels as paramilitary offensive looms",
-          "link": "http://www.africanews.com/2026/07/01/in-sudans-kordofan-a-key-city-reels-as-paramilitary-offensive-looms/",
-          "description": "In a displacement camp near El-Obeid in Sudan's southern Kordofan region, Agsam Hamad trudges through searing heat to fetch murky water from a distant well, as paramilitary forces unleash their fiercest assault yet on the strategic city.",
-          "pubDate": "Wed, 01 Jul 2026 12:38:34 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "In Sudan's Kordofan, a key city reels as paramilitary offensive looms"
-        },
-        {
           "title": "Working to bring Nessy Guerra and daughter back to Italy says Tajani",
           "link": "https://www.ansa.it/english/news/general_news/2026/07/01/working-to-bring-nessy-guerra-and-daughter-back-to-italy-says-tajani_05c3b1f9-7865-42c8-9fd3-71a2e9bb6bbd.html",
           "description": "(ANSA) - ROME, JUL 1 - The government is working to make it possible for Nessy Guerra, an Italian woman currently obliged to live in Egypt with her three-year-old daughter due to a custody battle with her estranged Egyptian husband, to return to Italy, Deputy Premier and Foreign Minister Antonio Tajani said on Wednesday. Tajani commented on the case via X following his intervention to have Guerra released after she was taken from her home in Cairo overnight and held at a police station. \"Nessy Guerra has been released and has already returned home with her daughter,\" Tajani said. \"I express my",
@@ -556,6 +421,123 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Italian woman released in Egypt after Tajani intervenes"
+        },
+        {
+          "title": "Ethiopia New Blue Nile Dams Rattle Egypt",
+          "link": "https://www.riotimesonline.com/ethiopia-blue-nile-dams-egypt-water-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-06-27T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia New Blue Nile Dams Rattle Egypt"
+        },
+        {
+          "title": "Ethiopia Leap Into the Future",
+          "link": "https://allafrica.com/stories/202606250254.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Leap Into the Future"
+        },
+        {
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
+        },
+        {
+          "title": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped",
+          "link": "https://www.engineeringnews.co.za/article/africa-adds-42-gw-new-hydropower-in-2025-only-10-of-hydropower-resources-being-tapped-2026-06-24",
+          "source": "engineeringnews.co.za",
+          "pubDate": "2026-06-24T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped"
+        },
+        {
+          "title": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy",
+          "link": "https://allafrica.com/stories/202606240040.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-24T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy"
+        },
+        {
+          "title": "Pumped Storage Additions Lead Global Hydropower Growth",
+          "link": "https://www.powermag.com/pumped-storage-additions-lead-global-hydropower-growth/",
+          "source": "powermag.com",
+          "pubDate": "2026-06-24T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
+        },
+        {
+          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
+          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
+          "source": "dw.com",
+          "pubDate": "2026-06-21T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
+        },
+        {
+          "title": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA",
+          "link": "https://www.thereporterethiopia.com/51290/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-20T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA"
+        },
+        {
+          "title": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?",
+          "link": "https://english.aawsat.com/arab-world/5286082-trumps-pledge-intervene-can-it-break-deadlock-ethiopian-renaissance-dam-crisis",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-06-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?"
+        },
+        {
+          "title": "Ethiopia : Tale of Two Ethiopias",
+          "link": "https://allafrica.com/stories/202606180628.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-19T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Tale of Two Ethiopias"
+        },
+        {
+          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
+          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-06-18T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
+        },
+        {
+          "title": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity",
+          "link": "https://larouchepub.com/other/2026/5324-ethiopia_the_uncolonized_indep.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-06-17T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity"
+        },
+        {
+          "title": "Trump Backs Egypt in Nile Dam Row",
+          "link": "https://chimpreports.com/trump-backs-egypt-in-nile-dam-row/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Backs Egypt in Nile Dam Row"
         }
       ]
     }
