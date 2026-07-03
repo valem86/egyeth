@@ -1,15 +1,88 @@
 {
-  "generatedAt": "2026-07-03T10:19:13.107Z",
-  "feedsChecked": 7,
+  "generatedAt": "2026-07-03T17:06:27.054Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
-      "items": []
+      "items": [
+        {
+          "title": "Somalia: African Union Calls Emergency Meeting As U.S. Ends Somalia Army Funds",
+          "link": "https://allafrica.com/stories/202607030467.html",
+          "description": "[Vanguard] The African Union called an emergency meeting on its military mission in Somalia on Friday after Washington announced it would end critical funding over the lack of progress against Islamist insurgents.",
+          "pubDate": "Fri, 03 Jul 2026 16:26:59 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: African Union Calls Emergency Meeting As U.S. Ends Somalia Army Funds"
+        },
+        {
+          "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/humanitarian-corridors-27-refugees-from-ethiopia-arrive-in-italy_49720f78-d083-4e65-833d-2500683c2014.html",
+          "description": "(ANSA) - NAIROBI, 03 LUG - The process that enabled 27 Somali and Sudanese refugees from Ethiopia to depart for Italy—carried out through the “humanitarian corridors” program—has been successfully completed. The initiative, the result of a memorandum of understanding between the Community of Sant’Egidio, the Ministries of the Interior and of Foreign Affairs and International Cooperation, and the Italian Episcopal Conference, represents a significant example of institutional cooperation and international solidarity. The embassy, which has been collaborating with the Community of Sant’Egidio on ",
+          "pubDate": "Fri, 3 Jul 2026 16:24:51 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy"
+        },
+        {
+          "title": "US to block UN funding for Somalia in blow to AU peace mission",
+          "link": "http://www.africanews.com/2026/07/03/us-to-block-un-funding-for-somalia-in-blow-to-au-peace-mission/",
+          "description": "In a diplomatic note to the African Union seen by Reuters, the US has vowed to block any spending of UN funds on the AU Support ​and Stabilisation Mission in Somalia (AUSSOM).",
+          "pubDate": "Fri, 03 Jul 2026 12:35:23 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "US to block UN funding for Somalia in blow to AU peace mission"
+        },
+        {
+          "title": "Somalia Honors Italy for Health Cooperation",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/somalia-honors-italy-for-health-cooperation_1b575aee-3b57-452f-8c7c-58dcaa28b5cd.html",
+          "description": "(ANSA) - NAIROBI, 03 LUG - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, received an honorary award from the management of the Forlanini Hospital in Mogadishu—which was recently modernized thanks to funding from Italian Cooperation—at the conclusion of a meeting dedicated to healthcare cooperation between the two countries. During the meeting, the hospital’s general director, Mohamed Jafar Ali, outlined the progress made by the facility, focusing on the healthcare services offered, ongoing development projects, and the creation of new wards, particularly those dedicated to women’s",
+          "pubDate": "Fri, 3 Jul 2026 13:00:24 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Somalia Honors Italy for Health Cooperation"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+        },
+        {
+          "title": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026",
+          "link": "https://www.crisisgroup.org/evt/africa/sudan-south-sudan-and-somalia-key-peace-and-security-priorities-africa-2026",
+          "description": "In this online event, Crisis Group experts discussed peace and security priorities for the African continent in 2026, zooming in on Somalia, Sudan and South Sudan ahead of the African Union's summit of heads of state.&nbsp;",
+          "pubDate": "Thursday, February 12, 2026 - 16:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026"
+        }
+      ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/humanitarian-corridors-27-refugees-from-ethiopia-arrive-in-italy_49720f78-d083-4e65-833d-2500683c2014.html",
+          "description": "(ANSA) - NAIROBI, 03 LUG - The process that enabled 27 Somali and Sudanese refugees from Ethiopia to depart for Italy—carried out through the “humanitarian corridors” program—has been successfully completed. The initiative, the result of a memorandum of understanding between the Community of Sant’Egidio, the Ministries of the Interior and of Foreign Affairs and International Cooperation, and the Italian Episcopal Conference, represents a significant example of institutional cooperation and international solidarity. The embassy, which has been collaborating with the Community of Sant’Egidio on ",
+          "pubDate": "Fri, 3 Jul 2026 16:24:51 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy"
+        },
+        {
+          "title": "US to block UN funding for Somalia in blow to AU peace mission",
+          "link": "http://www.africanews.com/2026/07/03/us-to-block-un-funding-for-somalia-in-blow-to-au-peace-mission/",
+          "description": "In a diplomatic note to the African Union seen by Reuters, the US has vowed to block any spending of UN funds on the AU Support ​and Stabilisation Mission in Somalia (AUSSOM).",
+          "pubDate": "Fri, 03 Jul 2026 12:35:23 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "US to block UN funding for Somalia in blow to AU peace mission"
+        },
         {
           "title": "How haircuts are helping men recover at a Kenyan mental health hospital",
           "link": "http://www.africanews.com/2026/07/01/how-haircuts-are-helping-men-recover-at-a-kenyan-mental-health-hospital/",
@@ -29,166 +102,13 @@
           "titleIt": "Nigeria's Dangote refinery imports first crude oil from UAE"
         },
         {
-          "title": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan",
-          "link": "https://www.sott.net/article/507156-They-really-think-we-re-that-stupid-Israel-rebrands-scheme-to-ethnically-cleanse-Gaza-of-Palestinians-as-Freedom-of-Movement-Plan",
-          "source": "sott.net",
-          "pubDate": "2026-06-30T02:30:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan"
-        },
-        {
-          "title": "The EU finds itself Trumped in north Africa",
-          "link": "https://euobserver.com/224774/the-eu-finds-itself-trumped-in-north-africa/",
-          "source": "euobserver.com",
-          "pubDate": "2026-06-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The EU finds itself Trumped in north Africa"
-        },
-        {
-          "title": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report",
-          "link": "https://www.middleeastmonitor.com/20260629-israel-rebrands-gaza-displacement-plan-amid-backlash-over-forced-transfer-concerns-report/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-06-29T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report"
-        },
-        {
-          "title": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System",
-          "link": "https://www.i24news.tv/en/news/middle-east/the-gulf/artc-exclusive-the-houthis-are-conducting-experiments-to-improve-their-missile-system",
-          "source": "i24news.tv",
-          "pubDate": "2026-06-29T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System"
-        },
-        {
-          "title": "The New Scramble for Africa : Setting the Stage",
-          "link": "https://www.greanvillepost.com/the-new-scramble-for-africa-setting-the-stage/",
-          "source": "greanvillepost.com",
-          "pubDate": "2026-06-28T02:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The New Scramble for Africa : Setting the Stage"
-        },
-        {
-          "title": "How Regional Integration Is Actually Unfolding In Africa : The Pragmatics Of Integration And The Ethiopia – Djibouti Case",
-          "link": "https://www.eurasiareview.com/28062026-how-regional-integration-is-actually-unfolding-in-africa-the-pragmatics-of-integration-and-the-ethiopia-djibouti-case/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-06-28T00:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How Regional Integration Is Actually Unfolding In Africa : The Pragmatics Of Integration And The Ethiopia – Djibouti Case"
-        },
-        {
-          "title": "Today Happenings : June 26 , 2026 - South Peace News",
-          "link": "https://www.southpeacenews.com/todays-happenings-june-26-2026/",
-          "source": "southpeacenews.com",
-          "pubDate": "2026-06-26T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Today Happenings : June 26 , 2026 - South Peace News"
-        },
-        {
-          "title": "Houthi Leader Warns Israel Over Somaliland Plan",
-          "link": "https://diplomat.so/articles/1506/Houthi-Leader-Warns-Israel-Over-Somaliland-Plan",
-          "source": "diplomat.so",
-          "pubDate": "2026-06-26T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Houthi Leader Warns Israel Over Somaliland Plan"
-        },
-        {
-          "title": "Somalia , federalism and Jubaland",
-          "link": "https://www.thenewhumanitarian.org/analysis/2013/04/16/somalia-federalism-and-jubaland",
-          "source": "thenewhumanitarian.org",
-          "pubDate": "2026-06-25T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia , federalism and Jubaland"
-        },
-        {
-          "title": "Ethiopia is not being  dragged into war  | Opinions",
-          "link": "https://www.aljazeera.com/opinions/2026/6/25/ethiopia-is-not-being-dragged-into-war",
-          "source": "aljazeera.com",
-          "pubDate": "2026-06-25T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia is not being  dragged into war  | Opinions"
-        },
-        {
-          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
-          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
-          "source": "zawya.com",
-          "pubDate": "2026-06-25T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
-        },
-        {
-          "title": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory",
-          "link": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260624-presstv02.htm",
-          "source": "globalsecurity.org",
-          "pubDate": "2026-06-24T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory"
-        },
-        {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.philippinetimes.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "philippinetimes.com",
-          "pubDate": "2026-06-24T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
-        },
-        {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.arabherald.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "arabherald.com",
-          "pubDate": "2026-06-23T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
-        },
-        {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.heraldglobe.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "heraldglobe.com",
-          "pubDate": "2026-06-23T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
-        },
-        {
-          "title": "Ansarullah Official Issues Stark Warning Over Alleged Israeli Naval Presence Near Somalia",
-          "link": "https://wardheernews.com/ansarullah-official-issues-stark-warning-over-alleged-israeli-naval-presence-near-somalia/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-06-23T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ansarullah Official Issues Stark Warning Over Alleged Israeli Naval Presence Near Somalia"
-        },
-        {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.africaleader.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "africaleader.com",
-          "pubDate": "2026-06-23T21:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
-        },
-        {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.kenyastar.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "kenyastar.com",
-          "pubDate": "2026-06-23T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -196,13 +116,22 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Nigeria: Death Toll Climbs to 18 in Niger Land Dispute",
-          "link": "https://allafrica.com/stories/202607030042.html",
-          "description": "[Premium Times] PREMIUM TIMES had earlier reported that the crisis, believed to have stemmed from a longstanding land dispute between two communities in Godoro village, claimed two lives.",
-          "pubDate": "Fri, 03 Jul 2026 04:42:53 GMT",
-          "source": "AllAfrica",
+          "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/humanitarian-corridors-27-refugees-from-ethiopia-arrive-in-italy_49720f78-d083-4e65-833d-2500683c2014.html",
+          "description": "(ANSA) - NAIROBI, 03 LUG - The process that enabled 27 Somali and Sudanese refugees from Ethiopia to depart for Italy—carried out through the “humanitarian corridors” program—has been successfully completed. The initiative, the result of a memorandum of understanding between the Community of Sant’Egidio, the Ministries of the Interior and of Foreign Affairs and International Cooperation, and the Italian Episcopal Conference, represents a significant example of institutional cooperation and international solidarity. The embassy, which has been collaborating with the Community of Sant’Egidio on ",
+          "pubDate": "Fri, 3 Jul 2026 16:24:51 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "titleIt": "Nigeria: Death Toll Climbs to 18 in Niger Land Dispute"
+          "titleIt": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy"
+        },
+        {
+          "title": "US to block UN funding for Somalia in blow to AU peace mission",
+          "link": "http://www.africanews.com/2026/07/03/us-to-block-un-funding-for-somalia-in-blow-to-au-peace-mission/",
+          "description": "In a diplomatic note to the African Union seen by Reuters, the US has vowed to block any spending of UN funds on the AU Support ​and Stabilisation Mission in Somalia (AUSSOM).",
+          "pubDate": "Fri, 03 Jul 2026 12:35:23 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "US to block UN funding for Somalia in blow to AU peace mission"
         },
         {
           "title": "US-Italy ties excellent, Trump and Meloni have long-standing relationship - Fertitta",
@@ -230,6 +159,141 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador Nicoletti’s Mission to the Argentine Province of Catamarca"
+        },
+        {
+          "title": "How global scammers use US tech to fleece people",
+          "link": "https://www.sun-sentinel.com/2026/06/30/global-scammers-us-tech/",
+          "source": "sun-sentinel.com",
+          "pubDate": "2026-06-30T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "How global scammers use US tech to fleece people",
+          "link": "https://www.twincities.com/2026/06/30/global-scammers-us-tech/",
+          "source": "twincities.com",
+          "pubDate": "2026-06-30T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "How global scammers use US tech to fleece people",
+          "link": "https://www.courant.com/2026/06/30/global-scammers-us-tech/",
+          "source": "courant.com",
+          "pubDate": "2026-06-30T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "https://www.adn.com/nation-world/2026/06/30/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to-fleece-people/",
+          "source": "adn.com",
+          "pubDate": "2026-06-30T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "How global scammers use US tech to fleece people",
+          "link": "https://www.fortmorgantimes.com/2026/06/30/global-scammers-us-tech/",
+          "source": "fortmorgantimes.com",
+          "pubDate": "2026-06-30T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "How global scammers use US tech to fleece people",
+          "link": "https://www.dailycamera.com/2026/06/30/global-scammers-us-tech/",
+          "source": "dailycamera.com",
+          "pubDate": "2026-06-30T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "How global scammers use US tech to fleece people",
+          "link": "https://www.orlandosentinel.com/2026/06/30/global-scammers-us-tech/",
+          "source": "orlandosentinel.com",
+          "pubDate": "2026-06-30T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people - Las Vegas Sun News",
+          "link": "https://lasvegassun.com/news/2026/jun/30/four-days-to-make-victims-fall-in-love-how-global/",
+          "source": "lasvegassun.com",
+          "pubDate": "2026-06-30T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people - Las Vegas Sun News"
+        },
+        {
+          "title": "AJC policy chief has front - row seat to history",
+          "link": "https://www.clevelandjewishnews.com/news/local_news/ajc-policy-chief-has-front-row-seat-to-history/article_5fec4553-0f4d-4d01-a35b-b3559e06e134.html",
+          "source": "clevelandjewishnews.com",
+          "pubDate": "2026-06-30T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AJC policy chief has front - row seat to history"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "https://mymotherlode.com/news/world/10961426/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to-fleece-people.html",
+          "source": "mymotherlode.com",
+          "pubDate": "2026-06-30T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "https://www.wfmj.com/news/national/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_736ce2cb-d984-5fa8-981e-a71e6020e3e7.html",
+          "source": "wfmj.com",
+          "pubDate": "2026-06-30T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "Story of Kerala Man Trafficked to AI - Integrated Scam Centre in Myanmar",
+          "link": "https://www.deccanchronicle.com/southern-states/kerala/story-of-kerala-man-trafficked-to-ai-integrated-scam-centre-in-myanmar-1967299",
+          "source": "deccanchronicle.com",
+          "pubDate": "2026-06-30T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Story of Kerala Man Trafficked to AI - Integrated Scam Centre in Myanmar"
+        },
+        {
+          "title": "How Global Scammers Use US Tech To Fleece People Worldwide",
+          "link": "https://www.deccanchronicle.com/technology/in-other-news/how-global-scammers-use-us-tech-to-fleece-people-worldwide-1967298",
+          "source": "deccanchronicle.com",
+          "pubDate": "2026-06-30T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How Global Scammers Use US Tech To Fleece People Worldwide"
+        },
+        {
+          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
+          "link": "http://www.reflector.com/news/national/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_9f6d3c94-5ec8-557b-989a-7e2fd8ab04a8.html",
+          "source": "reflector.com",
+          "pubDate": "2026-06-30T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+        },
+        {
+          "title": "How global scammers use U . S . tech to fleece people – NBC10 Philadelphia",
+          "link": "https://www.nbcphiladelphia.com/news/tech/how-global-scammers-use-us-tech-to-fleece-people/4425191/",
+          "source": "nbcphiladelphia.com",
+          "pubDate": "2026-06-30T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How global scammers use U . S . tech to fleece people – NBC10 Philadelphia"
         }
       ]
     },
@@ -492,114 +556,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Italian woman released in Egypt after Tajani intervenes"
-        },
-        {
-          "title": "Ethiopia New Blue Nile Dams Rattle Egypt",
-          "link": "https://www.riotimesonline.com/ethiopia-blue-nile-dams-egypt-water-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-06-27T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia New Blue Nile Dams Rattle Egypt"
-        },
-        {
-          "title": "Ethiopia Leap Into the Future",
-          "link": "https://allafrica.com/stories/202606250254.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Leap Into the Future"
-        },
-        {
-          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
-          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
-          "source": "zawya.com",
-          "pubDate": "2026-06-25T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
-        },
-        {
-          "title": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped",
-          "link": "https://www.engineeringnews.co.za/article/africa-adds-42-gw-new-hydropower-in-2025-only-10-of-hydropower-resources-being-tapped-2026-06-24",
-          "source": "engineeringnews.co.za",
-          "pubDate": "2026-06-24T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped"
-        },
-        {
-          "title": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy",
-          "link": "https://allafrica.com/stories/202606240040.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-24T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy"
-        },
-        {
-          "title": "Pumped Storage Additions Lead Global Hydropower Growth",
-          "link": "https://www.powermag.com/pumped-storage-additions-lead-global-hydropower-growth/",
-          "source": "powermag.com",
-          "pubDate": "2026-06-24T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
-        },
-        {
-          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
-          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
-          "source": "dw.com",
-          "pubDate": "2026-06-21T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
-        },
-        {
-          "title": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA",
-          "link": "https://www.thereporterethiopia.com/51290/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-20T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA"
-        },
-        {
-          "title": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?",
-          "link": "https://english.aawsat.com/arab-world/5286082-trumps-pledge-intervene-can-it-break-deadlock-ethiopian-renaissance-dam-crisis",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-06-19T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?"
-        },
-        {
-          "title": "Ethiopia : Tale of Two Ethiopias",
-          "link": "https://allafrica.com/stories/202606180628.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-19T00:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Tale of Two Ethiopias"
-        },
-        {
-          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
-          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-06-18T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
-        },
-        {
-          "title": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity",
-          "link": "https://larouchepub.com/other/2026/5324-ethiopia_the_uncolonized_indep.html",
-          "source": "larouchepub.com",
-          "pubDate": "2026-06-17T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity"
         }
       ]
     }
