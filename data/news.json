@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T12:18:50.664Z",
+  "generatedAt": "2026-07-04T15:51:18.002Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
@@ -93,15 +93,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Ethiopia: Ethiopian Honored With 'Connectivity Award' At 2026 Aviation & Tourism Ceremony",
-          "link": "https://allafrica.com/stories/202607030415.html",
-          "description": "[ENA] Addis Ababa -- Ethiopian Airlines has been honored with the prestigious 'Connectivity Award' at the 2026 Aviation & Tourism Award Ceremony hosted by Air Transport News.",
-          "pubDate": "Fri, 03 Jul 2026 15:46:08 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopian Honored With 'Connectivity Award' At 2026 Aviation & Tourism Ceremony"
-        },
-        {
           "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/humanitarian-corridors-27-refugees-from-ethiopia-arrive-in-italy_49720f78-d083-4e65-833d-2500683c2014.html",
           "description": "(ANSA) - NAIROBI, 03 LUG - The process that enabled 27 Somali and Sudanese refugees from Ethiopia to depart for Italy—carried out through the “humanitarian corridors” program—has been successfully completed. The initiative, the result of a memorandum of understanding between the Community of Sant’Egidio, the Ministries of the Interior and of Foreign Affairs and International Cooperation, and the Italian Episcopal Conference, represents a significant example of institutional cooperation and international solidarity. The embassy, which has been collaborating with the Community of Sant’Egidio on ",
@@ -109,15 +100,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy"
-        },
-        {
-          "title": "Ethiopia: Ethiopia's Coffee Export Earnings Reach Historic U.S.$3 Billion Milestone",
-          "link": "https://allafrica.com/stories/202607030377.html",
-          "description": "[ENA] Addis Ababa -- Ethiopia has achieved a historic milestone in its coffee industry, generating a record 3 billion USD in export earnings during the current fiscal year, its highest coffee export revenue on record.",
-          "pubDate": "Fri, 03 Jul 2026 12:37:00 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia's Coffee Export Earnings Reach Historic U.S.$3 Billion Milestone"
         },
         {
           "title": "US to block UN funding for Somalia in blow to AU peace mission",
@@ -129,163 +111,19 @@
           "titleIt": "US to block UN funding for Somalia in blow to AU peace mission"
         },
         {
-          "title": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan",
-          "link": "https://www.sott.net/article/507156-They-really-think-we-re-that-stupid-Israel-rebrands-scheme-to-ethnically-cleanse-Gaza-of-Palestinians-as-Freedom-of-Movement-Plan",
-          "source": "sott.net",
-          "pubDate": "2026-06-30T02:30:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan"
-        },
-        {
-          "title": "The EU finds itself Trumped in north Africa",
-          "link": "https://euobserver.com/224774/the-eu-finds-itself-trumped-in-north-africa/",
-          "source": "euobserver.com",
-          "pubDate": "2026-06-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The EU finds itself Trumped in north Africa"
-        },
-        {
-          "title": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report",
-          "link": "https://www.middleeastmonitor.com/20260629-israel-rebrands-gaza-displacement-plan-amid-backlash-over-forced-transfer-concerns-report/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-06-29T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report"
-        },
-        {
-          "title": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System",
-          "link": "https://www.i24news.tv/en/news/middle-east/the-gulf/artc-exclusive-the-houthis-are-conducting-experiments-to-improve-their-missile-system",
-          "source": "i24news.tv",
-          "pubDate": "2026-06-29T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System"
-        },
-        {
-          "title": "The New Scramble for Africa : Setting the Stage",
-          "link": "https://www.greanvillepost.com/the-new-scramble-for-africa-setting-the-stage/",
-          "source": "greanvillepost.com",
-          "pubDate": "2026-06-28T02:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The New Scramble for Africa : Setting the Stage"
-        },
-        {
-          "title": "How Regional Integration Is Actually Unfolding In Africa : The Pragmatics Of Integration And The Ethiopia – Djibouti Case",
-          "link": "https://www.eurasiareview.com/28062026-how-regional-integration-is-actually-unfolding-in-africa-the-pragmatics-of-integration-and-the-ethiopia-djibouti-case/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-06-28T00:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How Regional Integration Is Actually Unfolding In Africa : The Pragmatics Of Integration And The Ethiopia – Djibouti Case"
-        },
-        {
-          "title": "Today Happenings : June 26 , 2026 - South Peace News",
-          "link": "https://www.southpeacenews.com/todays-happenings-june-26-2026/",
-          "source": "southpeacenews.com",
-          "pubDate": "2026-06-26T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Today Happenings : June 26 , 2026 - South Peace News"
-        },
-        {
-          "title": "Houthi Leader Warns Israel Over Somaliland Plan",
-          "link": "https://diplomat.so/articles/1506/Houthi-Leader-Warns-Israel-Over-Somaliland-Plan",
-          "source": "diplomat.so",
-          "pubDate": "2026-06-26T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Houthi Leader Warns Israel Over Somaliland Plan"
-        },
-        {
-          "title": "Somalia , federalism and Jubaland",
-          "link": "https://www.thenewhumanitarian.org/analysis/2013/04/16/somalia-federalism-and-jubaland",
-          "source": "thenewhumanitarian.org",
-          "pubDate": "2026-06-25T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia , federalism and Jubaland"
-        },
-        {
-          "title": "Ethiopia is not being  dragged into war  | Opinions",
-          "link": "https://www.aljazeera.com/opinions/2026/6/25/ethiopia-is-not-being-dragged-into-war",
-          "source": "aljazeera.com",
-          "pubDate": "2026-06-25T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia is not being  dragged into war  | Opinions"
-        },
-        {
-          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
-          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
-          "source": "zawya.com",
-          "pubDate": "2026-06-25T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
-        },
-        {
-          "title": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory",
-          "link": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260624-presstv02.htm",
-          "source": "globalsecurity.org",
-          "pubDate": "2026-06-24T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory"
-        },
-        {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.philippinetimes.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "philippinetimes.com",
-          "pubDate": "2026-06-24T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
-        },
-        {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.arabherald.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "arabherald.com",
-          "pubDate": "2026-06-23T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
-        },
-        {
-          "title": "Speech : Seize the opportunity for decisive action in Somalia",
-          "link": "http://www.heraldglobe.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
-          "source": "heraldglobe.com",
-          "pubDate": "2026-06-23T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
-        },
-        {
-          "title": "Ansarullah Official Issues Stark Warning Over Alleged Israeli Naval Presence Near Somalia",
-          "link": "https://wardheernews.com/ansarullah-official-issues-stark-warning-over-alleged-israeli-naval-presence-near-somalia/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-06-23T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ansarullah Official Issues Stark Warning Over Alleged Israeli Naval Presence Near Somalia"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Ethiopia: Ethiopian Honored With 'Connectivity Award' At 2026 Aviation & Tourism Ceremony",
-          "link": "https://allafrica.com/stories/202607030415.html",
-          "description": "[ENA] Addis Ababa -- Ethiopian Airlines has been honored with the prestigious 'Connectivity Award' at the 2026 Aviation & Tourism Award Ceremony hosted by Air Transport News.",
-          "pubDate": "Fri, 03 Jul 2026 15:46:08 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopian Honored With 'Connectivity Award' At 2026 Aviation & Tourism Ceremony"
-        },
         {
           "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/humanitarian-corridors-27-refugees-from-ethiopia-arrive-in-italy_49720f78-d083-4e65-833d-2500683c2014.html",
@@ -294,15 +132,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy"
-        },
-        {
-          "title": "Ethiopia: Ethiopia's Coffee Export Earnings Reach Historic U.S.$3 Billion Milestone",
-          "link": "https://allafrica.com/stories/202607030377.html",
-          "description": "[ENA] Addis Ababa -- Ethiopia has achieved a historic milestone in its coffee industry, generating a record 3 billion USD in export earnings during the current fiscal year, its highest coffee export revenue on record.",
-          "pubDate": "Fri, 03 Jul 2026 12:37:00 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia's Coffee Export Earnings Reach Historic U.S.$3 Billion Milestone"
         },
         {
           "title": "US to block UN funding for Somalia in blow to AU peace mission",
@@ -341,76 +170,162 @@
           "titleIt": "Ambassador Nicoletti’s Mission to the Argentine Province of Catamarca"
         },
         {
-          "title": "How global scammers use US tech to fleece people",
-          "link": "https://www.sun-sentinel.com/2026/06/30/global-scammers-us-tech/",
-          "source": "sun-sentinel.com",
-          "pubDate": "2026-06-30T18:15:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "How global scammers use US tech to fleece people"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         },
         {
-          "title": "How global scammers use US tech to fleece people",
-          "link": "https://www.twincities.com/2026/06/30/global-scammers-us-tech/",
-          "source": "twincities.com",
+          "title": "As war keeps spreading, the African Union must find its teeth",
+          "link": "https://www.crisisgroup.org/opd/africa/war-keeps-spreading-african-union-must-find-its-teeth",
+          "description": "With the continental body at its weakest point since its inception, this week’s summit in Ethiopia cannot be another talk shop. A united front is crucial to resolve intensifying conflicts tearing through Africa.",
+          "pubDate": "Wednesday, February 11, 2026 - 15:04",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "As war keeps spreading, the African Union must find its teeth"
+        }
+      ]
+    },
+    "egypt-economy": {
+      "title": "Fragilità economica egiziana",
+      "items": [
+        {
+          "title": "Egyptian Banks Raise Deposit Rates as Loan Demand Strengthens - The Middle East Observer",
+          "link": "https://meobserver.org/middle-east/egypt/2026/06/30/egyptian-banks-raise-deposit-rates-as-loan-demand-strengthens/",
+          "source": "meobserver.org",
+          "pubDate": "2026-06-30T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egyptian Banks Raise Deposit Rates as Loan Demand Strengthens - The Middle East Observer"
+        },
+        {
+          "title": "Bank of America : The Greek investment story is entering a more mature phase",
+          "link": "https://sofokleous10.gr/2026/06/30/bank-of-america-the-greek-investment-story-is-entering-a-more-mature-phase/",
+          "source": "sofokleous10.gr",
           "pubDate": "2026-06-30T18:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "How global scammers use US tech to fleece people"
+          "titleIt": "Bank of America : The Greek investment story is entering a more mature phase"
         },
         {
-          "title": "How global scammers use US tech to fleece people",
-          "link": "https://www.courant.com/2026/06/30/global-scammers-us-tech/",
-          "source": "courant.com",
+          "title": "Army only airborne rabbi finds his congregation wherever he lands",
+          "link": "https://jweekly.com/2026/06/30/armys-only-airborne-rabbi-finds-his-congregation-wherever-he-lands/",
+          "source": "jweekly.com",
           "pubDate": "2026-06-30T18:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "How global scammers use US tech to fleece people"
+          "titleIt": "Army only airborne rabbi finds his congregation wherever he lands"
         },
         {
-          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
-          "link": "https://www.adn.com/nation-world/2026/06/30/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to-fleece-people/",
-          "source": "adn.com",
-          "pubDate": "2026-06-30T17:45:00Z",
+          "title": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033",
+          "link": "https://www.ksat.com/business/2026/06/30/cypriot-natural-gas-could-start-flowing-from-exxonmobils-discoveries-by-2033/",
+          "source": "ksat.com",
+          "pubDate": "2026-06-30T18:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
+          "titleIt": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033"
         },
         {
-          "title": "How global scammers use US tech to fleece people",
-          "link": "https://www.fortmorgantimes.com/2026/06/30/global-scammers-us-tech/",
-          "source": "fortmorgantimes.com",
-          "pubDate": "2026-06-30T17:45:00Z",
+          "title": "United Oil & Gas ( LON : UOG ) Shares Up 13 . 5 % – Still a Buy ?",
+          "link": "https://www.dailypolitical.com/2026/06/30/united-oil-gas-lonuog-shares-up-13-5-still-a-buy.html",
+          "source": "dailypolitical.com",
+          "pubDate": "2026-06-30T18:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "How global scammers use US tech to fleece people"
+          "titleIt": "United Oil & Gas ( LON : UOG ) Shares Up 13 . 5 % – Still a Buy ?"
         },
         {
-          "title": "How global scammers use US tech to fleece people",
-          "link": "https://www.dailycamera.com/2026/06/30/global-scammers-us-tech/",
-          "source": "dailycamera.com",
-          "pubDate": "2026-06-30T17:45:00Z",
+          "title": "Suez Canal Revenue Rises 23 Percent in the 2025 / 2026 Fiscal Year as Regional Tensions Ease",
+          "link": "https://egyptianstreets.com/2026/06/30/suez-canal-revenue-rises-23-percent-in-the-2025-2026-fiscal-year-as-regional-tensions-ease/",
+          "source": "egyptianstreets.com",
+          "pubDate": "2026-06-30T16:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "How global scammers use US tech to fleece people"
+          "titleIt": "Suez Canal Revenue Rises 23 Percent in the 2025 / 2026 Fiscal Year as Regional Tensions Ease"
         },
         {
-          "title": "How global scammers use US tech to fleece people",
-          "link": "https://www.orlandosentinel.com/2026/06/30/global-scammers-us-tech/",
-          "source": "orlandosentinel.com",
-          "pubDate": "2026-06-30T17:45:00Z",
+          "title": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033",
+          "link": "https://www.clickorlando.com/business/2026/06/30/cypriot-natural-gas-could-start-flowing-from-exxonmobils-discoveries-by-2033/",
+          "source": "clickorlando.com",
+          "pubDate": "2026-06-30T16:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "How global scammers use US tech to fleece people"
+          "titleIt": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033"
         },
         {
-          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people - Las Vegas Sun News",
-          "link": "https://lasvegassun.com/news/2026/jun/30/four-days-to-make-victims-fall-in-love-how-global/",
-          "source": "lasvegassun.com",
-          "pubDate": "2026-06-30T17:30:00Z",
+          "title": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033",
+          "link": "https://finance.yahoo.com/energy/articles/cypriot-natural-gas-could-start-113437915.html",
+          "source": "finance.yahoo.com",
+          "pubDate": "2026-06-30T16:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people - Las Vegas Sun News"
+          "titleIt": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033"
+        },
+        {
+          "title": "Why the world wealthy are moving to Greece : what Henley and Knight Frank reveal",
+          "link": "https://sofokleous10.gr/2026/06/30/why-the-worlds-wealthy-are-moving-to-greece-what-henley-and-knight-frank-reveal/",
+          "source": "sofokleous10.gr",
+          "pubDate": "2026-06-30T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why the world wealthy are moving to Greece : what Henley and Knight Frank reveal"
+        },
+        {
+          "title": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033",
+          "link": "https://www.news4jax.com/business/2026/06/30/cypriot-natural-gas-could-start-flowing-from-exxonmobils-discoveries-by-2033/",
+          "source": "news4jax.com",
+          "pubDate": "2026-06-30T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033"
+        },
+        {
+          "title": "Cyprus declares Glaucus , Pegasus gas fields commercially viable",
+          "link": "https://en.philenews.com/insider/cyprus-glaucus-pegasus-gas-fields-commerciality-declaration/",
+          "source": "en.philenews.com",
+          "pubDate": "2026-06-30T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cyprus declares Glaucus , Pegasus gas fields commercially viable"
+        },
+        {
+          "title": "Rubio hosts Saddam Haftar as US pushes Libya unity initiative",
+          "link": "https://www.middle-east-online.com/en/rubio-hosts-saddam-haftar-us-pushes-libya-unity-initiative",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-06-30T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rubio hosts Saddam Haftar as US pushes Libya unity initiative"
+        },
+        {
+          "title": "Damascus producers keep Syria centuries - old Qamar al - Din tradition alive",
+          "link": "https://sana.sy/en/miscellaneous/2326374/",
+          "source": "sana.sy",
+          "pubDate": "2026-06-30T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Damascus producers keep Syria centuries - old Qamar al - Din tradition alive"
+        },
+        {
+          "title": "On Engagement with the Syrian Diaspora",
+          "link": "https://english.aawsat.com/opinion/5290358-engagement-syrian-diaspora",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-06-30T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "On Engagement with the Syrian Diaspora"
+        },
+        {
+          "title": "Negotiations with Israel over natural gas dispute at  very advanced stage",
+          "link": "https://cyprus-mail.com/2026/06/30/negotiations-with-israel-over-natural-gas-dispute-at-very-advanced-stage",
+          "source": "cyprus-mail.com",
+          "pubDate": "2026-06-30T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Negotiations with Israel over natural gas dispute at  very advanced stage"
         },
         {
           "title": "AJC policy chief has front - row seat to history",
@@ -422,46 +337,42 @@
           "titleIt": "AJC policy chief has front - row seat to history"
         },
         {
-          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
-          "link": "https://mymotherlode.com/news/world/10961426/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to-fleece-people.html",
-          "source": "mymotherlode.com",
+          "title": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033",
+          "link": "http://www.bozemandailychronicle.com/ap_news/business/cypriot-natural-gas-could-start-flowing-from-exxonmobils-discoveries-by-2033/article_6e7ba77f-94c3-516b-a04c-637b4a9a4378.html",
+          "source": "bozemandailychronicle.com",
+          "pubDate": "2026-06-30T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cypriot natural gas could start flowing from ExxonMobil discoveries by 2033"
+        },
+        {
+          "title": "Egypt steps up efforts to secure release of sailors on ship hijacked by pirates off Somalia",
+          "link": "https://www.thenationalnews.com/news/mena/2026/06/30/egypt-steps-up-efforts-to-secure-release-of-sailors-on-ship-hijacked-by-pirates-off-somalia/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-06-30T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt steps up efforts to secure release of sailors on ship hijacked by pirates off Somalia"
+        },
+        {
+          "title": "IMF Reaches Staff - level Deal with Egypt that Could Unlock $1 . 6 Billion",
+          "link": "https://english.aawsat.com/business/5290335-imf-reaches-staff-level-deal-egypt-could-unlock-16-billion",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-06-30T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "IMF Reaches Staff - level Deal with Egypt that Could Unlock $1 . 6 Billion"
+        },
+        {
+          "title": "Chokepoint Hormuz : Epic Fury and Italy Mediterranean Strategy | Center for International Maritime Security",
+          "link": "https://cimsec.org/chokepoint-hormuz-epic-fury-and-italys-mediterranean-strategy/",
+          "source": "cimsec.org",
           "pubDate": "2026-06-30T11:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
-        },
-        {
-          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
-          "link": "https://www.wfmj.com/news/national/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_736ce2cb-d984-5fa8-981e-a71e6020e3e7.html",
-          "source": "wfmj.com",
-          "pubDate": "2026-06-30T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
-        },
-        {
-          "title": "Story of Kerala Man Trafficked to AI - Integrated Scam Centre in Myanmar",
-          "link": "https://www.deccanchronicle.com/southern-states/kerala/story-of-kerala-man-trafficked-to-ai-integrated-scam-centre-in-myanmar-1967299",
-          "source": "deccanchronicle.com",
-          "pubDate": "2026-06-30T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Story of Kerala Man Trafficked to AI - Integrated Scam Centre in Myanmar"
-        },
-        {
-          "title": "How Global Scammers Use US Tech To Fleece People Worldwide",
-          "link": "https://www.deccanchronicle.com/technology/in-other-news/how-global-scammers-use-us-tech-to-fleece-people-worldwide-1967298",
-          "source": "deccanchronicle.com",
-          "pubDate": "2026-06-30T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How Global Scammers Use US Tech To Fleece People Worldwide"
+          "titleIt": "Chokepoint Hormuz : Epic Fury and Italy Mediterranean Strategy | Center for International Maritime Security"
         }
       ]
-    },
-    "egypt-economy": {
-      "title": "Fragilità economica egiziana",
-      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
