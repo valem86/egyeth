@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-04T08:14:25.190Z",
-  "feedsChecked": 7,
+  "generatedAt": "2026-07-04T12:18:50.664Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Ambassador Tommasi Leaves Sudan: ‘Compromises Necessary for Lasting Peace’",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/04/ambassador-tommasi-leaves-sudan-compromises-necessary-for-lasting-peace_4361aebc-0aef-4de4-8b15-9f8cbc60a6fe.html",
+          "description": "(ANSA) - IL CAIRO, 04 LUG - Italy’s Ambassador to Sudan, Michele Tommasi, carried out his final mission in Port Sudan at the end of his four-year term. “I take with me a deep admiration for the dignity and resilience of the women and men of this country ,” he said during a farewell reception, “as well as the confidence that they will find the strength and wisdom necessary to reach the compromises essential for building lasting peace and a future of stability and prosperity.” The visit also provided a further opportunity to strengthen the bilateral partnership, with a particular focus on the he",
+          "pubDate": "Sat, 4 Jul 2026 10:38:38 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Ambassador Tommasi Leaves Sudan: ‘Compromises Necessary for Lasting Peace’"
+        },
         {
           "title": "African Union peacekeeping mission in Somalia at risk amid US funding cuts",
           "link": "http://www.africanews.com/2026/07/03/african-union-peacekeeping-mission-in-somalia-at-risk-amid-us-funding-cuts/",
@@ -59,12 +68,39 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Somalia Honors Italy for Health Cooperation"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+        },
+        {
+          "title": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026",
+          "link": "https://www.crisisgroup.org/evt/africa/sudan-south-sudan-and-somalia-key-peace-and-security-priorities-africa-2026",
+          "description": "In this online event, Crisis Group experts discussed peace and security priorities for the African continent in 2026, zooming in on Somalia, Sudan and South Sudan ahead of the African Union's summit of heads of state.&nbsp;",
+          "pubDate": "Thursday, February 12, 2026 - 16:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Ethiopia: Ethiopian Honored With 'Connectivity Award' At 2026 Aviation & Tourism Ceremony",
+          "link": "https://allafrica.com/stories/202607030415.html",
+          "description": "[ENA] Addis Ababa -- Ethiopian Airlines has been honored with the prestigious 'Connectivity Award' at the 2026 Aviation & Tourism Award Ceremony hosted by Air Transport News.",
+          "pubDate": "Fri, 03 Jul 2026 15:46:08 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopian Honored With 'Connectivity Award' At 2026 Aviation & Tourism Ceremony"
+        },
         {
           "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/humanitarian-corridors-27-refugees-from-ethiopia-arrive-in-italy_49720f78-d083-4e65-833d-2500683c2014.html",
@@ -75,6 +111,15 @@
           "titleIt": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy"
         },
         {
+          "title": "Ethiopia: Ethiopia's Coffee Export Earnings Reach Historic U.S.$3 Billion Milestone",
+          "link": "https://allafrica.com/stories/202607030377.html",
+          "description": "[ENA] Addis Ababa -- Ethiopia has achieved a historic milestone in its coffee industry, generating a record 3 billion USD in export earnings during the current fiscal year, its highest coffee export revenue on record.",
+          "pubDate": "Fri, 03 Jul 2026 12:37:00 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia's Coffee Export Earnings Reach Historic U.S.$3 Billion Milestone"
+        },
+        {
           "title": "US to block UN funding for Somalia in blow to AU peace mission",
           "link": "http://www.africanews.com/2026/07/03/us-to-block-un-funding-for-somalia-in-blow-to-au-peace-mission/",
           "description": "In a diplomatic note to the African Union seen by Reuters, the US has vowed to block any spending of UN funds on the AU Support ​and Stabilisation Mission in Somalia (AUSSOM).",
@@ -82,12 +127,165 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "US to block UN funding for Somalia in blow to AU peace mission"
+        },
+        {
+          "title": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan",
+          "link": "https://www.sott.net/article/507156-They-really-think-we-re-that-stupid-Israel-rebrands-scheme-to-ethnically-cleanse-Gaza-of-Palestinians-as-Freedom-of-Movement-Plan",
+          "source": "sott.net",
+          "pubDate": "2026-06-30T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan"
+        },
+        {
+          "title": "The EU finds itself Trumped in north Africa",
+          "link": "https://euobserver.com/224774/the-eu-finds-itself-trumped-in-north-africa/",
+          "source": "euobserver.com",
+          "pubDate": "2026-06-29T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The EU finds itself Trumped in north Africa"
+        },
+        {
+          "title": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report",
+          "link": "https://www.middleeastmonitor.com/20260629-israel-rebrands-gaza-displacement-plan-amid-backlash-over-forced-transfer-concerns-report/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-06-29T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report"
+        },
+        {
+          "title": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System",
+          "link": "https://www.i24news.tv/en/news/middle-east/the-gulf/artc-exclusive-the-houthis-are-conducting-experiments-to-improve-their-missile-system",
+          "source": "i24news.tv",
+          "pubDate": "2026-06-29T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System"
+        },
+        {
+          "title": "The New Scramble for Africa : Setting the Stage",
+          "link": "https://www.greanvillepost.com/the-new-scramble-for-africa-setting-the-stage/",
+          "source": "greanvillepost.com",
+          "pubDate": "2026-06-28T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The New Scramble for Africa : Setting the Stage"
+        },
+        {
+          "title": "How Regional Integration Is Actually Unfolding In Africa : The Pragmatics Of Integration And The Ethiopia – Djibouti Case",
+          "link": "https://www.eurasiareview.com/28062026-how-regional-integration-is-actually-unfolding-in-africa-the-pragmatics-of-integration-and-the-ethiopia-djibouti-case/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-06-28T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How Regional Integration Is Actually Unfolding In Africa : The Pragmatics Of Integration And The Ethiopia – Djibouti Case"
+        },
+        {
+          "title": "Today Happenings : June 26 , 2026 - South Peace News",
+          "link": "https://www.southpeacenews.com/todays-happenings-june-26-2026/",
+          "source": "southpeacenews.com",
+          "pubDate": "2026-06-26T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Today Happenings : June 26 , 2026 - South Peace News"
+        },
+        {
+          "title": "Houthi Leader Warns Israel Over Somaliland Plan",
+          "link": "https://diplomat.so/articles/1506/Houthi-Leader-Warns-Israel-Over-Somaliland-Plan",
+          "source": "diplomat.so",
+          "pubDate": "2026-06-26T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthi Leader Warns Israel Over Somaliland Plan"
+        },
+        {
+          "title": "Somalia , federalism and Jubaland",
+          "link": "https://www.thenewhumanitarian.org/analysis/2013/04/16/somalia-federalism-and-jubaland",
+          "source": "thenewhumanitarian.org",
+          "pubDate": "2026-06-25T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia , federalism and Jubaland"
+        },
+        {
+          "title": "Ethiopia is not being  dragged into war  | Opinions",
+          "link": "https://www.aljazeera.com/opinions/2026/6/25/ethiopia-is-not-being-dragged-into-war",
+          "source": "aljazeera.com",
+          "pubDate": "2026-06-25T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia is not being  dragged into war  | Opinions"
+        },
+        {
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
+        },
+        {
+          "title": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260624-presstv02.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-06-24T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Report : Israeli forces deployed to Somaliland in covert mission after recognition of breakaway territory"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.philippinetimes.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "philippinetimes.com",
+          "pubDate": "2026-06-24T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.arabherald.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "arabherald.com",
+          "pubDate": "2026-06-23T23:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        },
+        {
+          "title": "Speech : Seize the opportunity for decisive action in Somalia",
+          "link": "http://www.heraldglobe.com/news/279143429/speech-seize-the-opportunity-for-decisive-action-in-somalia",
+          "source": "heraldglobe.com",
+          "pubDate": "2026-06-23T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Speech : Seize the opportunity for decisive action in Somalia"
+        },
+        {
+          "title": "Ansarullah Official Issues Stark Warning Over Alleged Israeli Naval Presence Near Somalia",
+          "link": "https://wardheernews.com/ansarullah-official-issues-stark-warning-over-alleged-israeli-naval-presence-near-somalia/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-06-23T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ansarullah Official Issues Stark Warning Over Alleged Israeli Naval Presence Near Somalia"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ethiopia: Ethiopian Honored With 'Connectivity Award' At 2026 Aviation & Tourism Ceremony",
+          "link": "https://allafrica.com/stories/202607030415.html",
+          "description": "[ENA] Addis Ababa -- Ethiopian Airlines has been honored with the prestigious 'Connectivity Award' at the 2026 Aviation & Tourism Award Ceremony hosted by Air Transport News.",
+          "pubDate": "Fri, 03 Jul 2026 15:46:08 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopian Honored With 'Connectivity Award' At 2026 Aviation & Tourism Ceremony"
+        },
         {
           "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/humanitarian-corridors-27-refugees-from-ethiopia-arrive-in-italy_49720f78-d083-4e65-833d-2500683c2014.html",
@@ -96,6 +294,15 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy"
+        },
+        {
+          "title": "Ethiopia: Ethiopia's Coffee Export Earnings Reach Historic U.S.$3 Billion Milestone",
+          "link": "https://allafrica.com/stories/202607030377.html",
+          "description": "[ENA] Addis Ababa -- Ethiopia has achieved a historic milestone in its coffee industry, generating a record 3 billion USD in export earnings during the current fiscal year, its highest coffee export revenue on record.",
+          "pubDate": "Fri, 03 Jul 2026 12:37:00 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia's Coffee Export Earnings Reach Historic U.S.$3 Billion Milestone"
         },
         {
           "title": "US to block UN funding for Somalia in blow to AU peace mission",
@@ -249,24 +456,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "How Global Scammers Use US Tech To Fleece People Worldwide"
-        },
-        {
-          "title": "Four days to make victims fall in love : How global scammers use US tech to fleece people",
-          "link": "http://www.reflector.com/news/national/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to/article_9f6d3c94-5ec8-557b-989a-7e2fd8ab04a8.html",
-          "source": "reflector.com",
-          "pubDate": "2026-06-30T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Four days to make victims fall in love : How global scammers use US tech to fleece people"
-        },
-        {
-          "title": "How global scammers use U . S . tech to fleece people – NBC10 Philadelphia",
-          "link": "https://www.nbcphiladelphia.com/news/tech/how-global-scammers-use-us-tech-to-fleece-people/4425191/",
-          "source": "nbcphiladelphia.com",
-          "pubDate": "2026-06-30T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How global scammers use U . S . tech to fleece people – NBC10 Philadelphia"
         }
       ]
     },
@@ -281,7 +470,7 @@
           "title": "Egypt makes history, heartbreak for Cape Verde at World Cup",
           "link": "http://www.africanews.com/2026/07/04/egypt-makes-history-heartbreak-for-cape-verde-at-world-cup/",
           "description": "Heartbreak for Cape Verde as the World Cup debutants bowed out after a thrilling 3-2 extra-time defeat to defending champions Argentina. The Blue Sharks twice battled back to level the match, pushing Lionel Messi's side to the limit in one of the tournament's biggest surprise performances.",
-          "pubDate": "Sat, 04 Jul 2026 07:50:15 +0000",
+          "pubDate": "Sat, 04 Jul 2026 07:50:35 +0000",
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt makes history, heartbreak for Cape Verde at World Cup"
