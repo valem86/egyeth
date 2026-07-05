@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T09:53:55.873Z",
+  "generatedAt": "2026-07-05T15:03:25.181Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
@@ -93,6 +93,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Ethiopia: Ethiopian Honored With 'Connectivity Award' At 2026 Aviation & Tourism Ceremony",
+          "link": "https://allafrica.com/stories/202607030415.html",
+          "description": "[ENA] Addis Ababa -- Ethiopian Airlines has been honored with the prestigious 'Connectivity Award' at the 2026 Aviation & Tourism Award Ceremony hosted by Air Transport News.",
+          "pubDate": "Fri, 03 Jul 2026 15:46:08 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopian Honored With 'Connectivity Award' At 2026 Aviation & Tourism Ceremony"
+        },
+        {
           "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/humanitarian-corridors-27-refugees-from-ethiopia-arrive-in-italy_49720f78-d083-4e65-833d-2500683c2014.html",
           "description": "(ANSA) - NAIROBI, 03 LUG - The process that enabled 27 Somali and Sudanese refugees from Ethiopia to depart for Italy—carried out through the “humanitarian corridors” program—has been successfully completed. The initiative, the result of a memorandum of understanding between the Community of Sant’Egidio, the Ministries of the Interior and of Foreign Affairs and International Cooperation, and the Italian Episcopal Conference, represents a significant example of institutional cooperation and international solidarity. The embassy, which has been collaborating with the Community of Sant’Egidio on ",
@@ -124,6 +133,15 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ethiopia: Ethiopian Honored With 'Connectivity Award' At 2026 Aviation & Tourism Ceremony",
+          "link": "https://allafrica.com/stories/202607030415.html",
+          "description": "[ENA] Addis Ababa -- Ethiopian Airlines has been honored with the prestigious 'Connectivity Award' at the 2026 Aviation & Tourism Award Ceremony hosted by Air Transport News.",
+          "pubDate": "Fri, 03 Jul 2026 15:46:08 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopian Honored With 'Connectivity Award' At 2026 Aviation & Tourism Ceremony"
+        },
         {
           "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/humanitarian-corridors-27-refugees-from-ethiopia-arrive-in-italy_49720f78-d083-4e65-833d-2500683c2014.html",
@@ -191,7 +209,188 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Egypt says it is expecting a further $1.7 billion from Europe within days",
+          "link": "http://www.africanews.com/2026/07/05/egypt-says-it-is-expecting-a-further-17-billion-from-europe-within-days/",
+          "description": "It is part a $5.7 billion EU macro-financial assistance package within the framework of Europe’s strategy to stabilise Egypt's economy.",
+          "pubDate": "Sun, 05 Jul 2026 14:32:21 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egypt says it is expecting a further $1.7 billion from Europe within days"
+        },
+        {
+          "title": "Byzantine City Discovered in Dakhla Oasis",
+          "link": "https://cairoscene.com/News/Byzantine-City-Discovered-in-Dakhla-Oasis",
+          "source": "cairoscene.com",
+          "pubDate": "2026-07-05T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Byzantine City Discovered in Dakhla Oasis"
+        },
+        {
+          "title": "Bangladesh says Saudi fertilizer support eased food security risks during Hormuz closure",
+          "link": "https://www.arabnews.com/node/2649744/world",
+          "source": "arabnews.com",
+          "pubDate": "2026-07-05T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bangladesh says Saudi fertilizer support eased food security risks during Hormuz closure"
+        },
+        {
+          "title": "How Cairo Chaos Became Part of Its Appeal",
+          "link": "https://egyptianstreets.com/2026/07/05/how-cairos-chaos-became-part-of-its-appeal/",
+          "source": "egyptianstreets.com",
+          "pubDate": "2026-07-05T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How Cairo Chaos Became Part of Its Appeal"
+        },
+        {
+          "title": "India to host BRICS heads of anti - drug agencies meeting in Guwahati",
+          "link": "http://www.kenyastar.com/news/279168050/india-to-host-brics-heads-of-anti-drug-agencies-meeting-in-guwahati",
+          "source": "kenyastar.com",
+          "pubDate": "2026-07-05T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India to host BRICS heads of anti - drug agencies meeting in Guwahati"
+        },
+        {
+          "title": "Full List : Top 20 most improved container ports in the World",
+          "link": "https://tribuneonlineng.com/full-list-top-20-most-improved-container-ports-in-the-world/",
+          "source": "tribuneonlineng.com",
+          "pubDate": "2026-07-05T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Full List : Top 20 most improved container ports in the World"
+        },
+        {
+          "title": "El - Sisi Launches The Octagon , Charting Egypt Next Phase of Security and Reform",
+          "link": "https://meobserver.org/military/2026/07/05/el-sisi-launches-the-octagon-charting-egypts-next-phase-of-security-and-reform/",
+          "source": "meobserver.org",
+          "pubDate": "2026-07-05T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "El - Sisi Launches The Octagon , Charting Egypt Next Phase of Security and Reform"
+        },
+        {
+          "title": "Gulf Investors Eye Stake in Egypt $150m Arab API Pharmaceutical Ingredients Project",
+          "link": "https://meobserver.org/business-economix/industry-insights/2026/07/05/gulf-investors-eye-stake-in-egypts-150m-arab-api-pharmaceutical-ingredients-project/",
+          "source": "meobserver.org",
+          "pubDate": "2026-07-05T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gulf Investors Eye Stake in Egypt $150m Arab API Pharmaceutical Ingredients Project"
+        },
+        {
+          "title": "EGX Edges Higher as Foreign Buying Extends Market Recovery - The Middle East Observer",
+          "link": "https://meobserver.org/business-economix/market-updates-finance/2026/07/05/egx-edges-higher-as-foreign-buying-extends-market-recovery/",
+          "source": "meobserver.org",
+          "pubDate": "2026-07-05T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "EGX Edges Higher as Foreign Buying Extends Market Recovery - The Middle East Observer"
+        },
+        {
+          "title": "India to host BRICS heads of anti - drug agencies meeting in Guwahati",
+          "link": "https://news.webindia123.com/news/Articles/World/20260705/4471401.html",
+          "source": "news.webindia123.com",
+          "pubDate": "2026-07-05T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India to host BRICS heads of anti - drug agencies meeting in Guwahati"
+        },
+        {
+          "title": "India to host BRICS heads of anti - drug agencies meeting in Guwahati",
+          "link": "http://www.calcuttanews.net/news/279168050/india-to-host-brics-heads-of-anti-drug-agencies-meeting-in-guwahati",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-07-05T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India to host BRICS heads of anti - drug agencies meeting in Guwahati"
+        },
+        {
+          "title": "El Sisi opens vast  Octagon  state HQ in new Egyptian capital",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/05/el-sisi-opens-vast-octagon-state-hq-in-new-egyptian-capital/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-05T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "El Sisi opens vast  Octagon  state HQ in new Egyptian capital"
+        },
+        {
+          "title": "India to host BRICS heads of anti - drug agencies meeting in Guwahati",
+          "link": "http://www.iraqsun.com/news/279168050/india-to-host-brics-heads-of-anti-drug-agencies-meeting-in-guwahati",
+          "source": "iraqsun.com",
+          "pubDate": "2026-07-05T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India to host BRICS heads of anti - drug agencies meeting in Guwahati"
+        },
+        {
+          "title": "Marriage of convenience between Ankara , Riyadh , Cairo , Islamabad",
+          "link": "https://www.dailysabah.com/opinion/op-ed/marriage-of-convenience-between-ankara-riyadh-cairo-islamabad",
+          "source": "dailysabah.com",
+          "pubDate": "2026-07-05T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Marriage of convenience between Ankara , Riyadh , Cairo , Islamabad"
+        },
+        {
+          "title": "Byzantine - era desert city , decorated tombs unearthed in Egypt",
+          "link": "https://www.dailysabah.com/life/history/byzantine-era-desert-city-decorated-tombs-unearthed-in-egypt",
+          "source": "dailysabah.com",
+          "pubDate": "2026-07-05T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Byzantine - era desert city , decorated tombs unearthed in Egypt"
+        },
+        {
+          "title": "India Hosts BRICS Anti - Drug Agencies Meet in Guwahati",
+          "link": "https://www.newkerala.com/news/a/india-host-brics-heads-anti-drug-agencies-meeting-guwahati-423.htm",
+          "source": "newkerala.com",
+          "pubDate": "2026-07-05T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India Hosts BRICS Anti - Drug Agencies Meet in Guwahati"
+        },
+        {
+          "title": "Middle Eastern Leaders Congratulate US , President Trump on July 4 and 250th Anniversary",
+          "link": "https://themedialine.org/top-stories/middle-eastern-leaders-congratulate-us-president-trump-on-july-4-and-250th-anniversary/",
+          "source": "themedialine.org",
+          "pubDate": "2026-07-05T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Middle Eastern Leaders Congratulate US , President Trump on July 4 and 250th Anniversary"
+        },
+        {
+          "title": "Egypt finds 2 , 000 - year - old coastal tombs and desert Byzantine city",
+          "link": "https://dunyanews.tv/en/WeirdNews/960890-egypt-finds-2000yearold-coastal-tombs-and-desert-byzantine-city",
+          "source": "dunyanews.tv",
+          "pubDate": "2026-07-05T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt finds 2 , 000 - year - old coastal tombs and desert Byzantine city"
+        },
+        {
+          "title": "Egypt expects €1 . 5B EU payment under support package",
+          "link": "https://www.hurriyetdailynews.com/egypt-expects-1-5b-eu-payment-under-support-package-224004",
+          "source": "hurriyetdailynews.com",
+          "pubDate": "2026-07-05T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt expects €1 . 5B EU payment under support package"
+        },
+        {
+          "title": "BRICS meet in India to advance women - led development",
+          "link": "https://www.mangalorean.com/brics-meet-in-india-to-advance-women-led-development/",
+          "source": "mangalorean.com",
+          "pubDate": "2026-07-05T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS meet in India to advance women - led development"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
