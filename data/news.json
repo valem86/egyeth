@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-07-06T12:33:35.619Z",
+  "generatedAt": "2026-07-06T21:04:03.687Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somalia's Intelligence Agency Arrests Two Suspects Over Illegal Weapons",
+          "link": "https://allafrica.com/stories/202607060720.html",
+          "description": "[Shabelle] Mogadishu -- Somalia's National Intelligence and Security Agency (NISA) said on Monday it had arrested two men in the central Galgaduud region and transferred them to Mogadishu to face prosecution over alleged illegal possession of firearms.",
+          "pubDate": "Mon, 06 Jul 2026 16:14:49 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia's Intelligence Agency Arrests Two Suspects Over Illegal Weapons"
+        },
+        {
+          "title": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions",
+          "link": "https://allafrica.com/stories/202607060694.html",
+          "description": "[Shabelle] Mogadishu -- The European Union's asylum agency has warned that Somalia's security situation has significantly worsened, citing deepening political divisions and growing instability that have allowed the Al-Shabaab militant group to expand its influence.",
+          "pubDate": "Mon, 06 Jul 2026 15:55:10 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions"
+        },
         {
           "title": "Somalia: Mogadishu Port Chief Visits Seattle to Strengthen Institutional Cooperation",
           "link": "https://allafrica.com/stories/202607060315.html",
@@ -84,13 +102,13 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Missing Files Delay Arraignment of Seven Keumbu Violence Suspects",
-          "link": "https://allafrica.com/stories/202607060488.html",
-          "description": "[Capital FM] Nairobi -- Seven suspects arrested in connection with the violent attack on a Linda Mwananchi convoy at Keumbu along the Kisii-Keroka Road were arraigned before a Kisii Magistrate's Court but did not take plea after their case files were reported missing.",
-          "pubDate": "Mon, 06 Jul 2026 12:18:22 GMT",
+          "title": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions",
+          "link": "https://allafrica.com/stories/202607060694.html",
+          "description": "[Shabelle] Mogadishu -- The European Union's asylum agency has warned that Somalia's security situation has significantly worsened, citing deepening political divisions and growing instability that have allowed the Al-Shabaab militant group to expand its influence.",
+          "pubDate": "Mon, 06 Jul 2026 15:55:10 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Missing Files Delay Arraignment of Seven Keumbu Violence Suspects"
+          "titleIt": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions"
         },
         {
           "title": "Somalia: Mogadishu Port Chief Visits Seattle to Strengthen Institutional Cooperation",
@@ -143,13 +161,112 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "APO Group - Africa Newsroom / Press release | World leaders and leaders of international organisations come together to congratulate Seychelles on the occasion of its 50th anniversary of its Independence",
+          "link": "https://www.africa-newsroom.com/press/world-leaders-and-leaders-of-international-organisations-come-together-to-congratulate-seychelles-on-the-occasion-of-its-50th-anniversary-of-its-independence",
+          "source": "africa-newsroom.com",
+          "pubDate": "2026-07-06T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "APO Group - Africa Newsroom / Press release | World leaders and leaders of international organisations come together to congratulate Seychelles on the occasion of its 50th anniversary of its Independence"
+        },
+        {
+          "title": "Africa Emerges As The World Sesame Powerhouse As Nigeria Eyes Bigger Export Windfall",
+          "link": "https://naija247news.com/africa-emerges-as-the-worlds-sesame-powerhouse-as-nigeria-eyes-bigger-export-windfall/",
+          "source": "naija247news.com",
+          "pubDate": "2026-07-06T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa Emerges As The World Sesame Powerhouse As Nigeria Eyes Bigger Export Windfall"
+        },
+        {
+          "title": "Can Lamu Port sustain its Gulf conflict windfall ?",
+          "link": "https://www.zawya.com/en/economy/africa/can-lamu-port-sustain-its-gulf-conflict-windfall-hcnii0w7",
+          "source": "zawya.com",
+          "pubDate": "2026-07-06T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Can Lamu Port sustain its Gulf conflict windfall ?"
+        },
+        {
+          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
+          "link": "http://www.africaleader.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
+          "source": "africaleader.com",
+          "pubDate": "2026-07-06T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
+        },
+        {
+          "title": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions",
+          "link": "https://allafrica.com/stories/202607060694.html",
+          "description": "[Shabelle] Mogadishu -- The European Union's asylum agency has warned that Somalia's security situation has significantly worsened, citing deepening political divisions and growing instability that have allowed the Al-Shabaab militant group to expand its influence.",
+          "pubDate": "Mon, 06 Jul 2026 15:55:10 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions"
+        },
+        {
+          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
+          "link": "http://www.calcuttanews.net/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-07-06T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
+        },
+        {
+          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
+          "link": "http://www.nigeriasun.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-07-06T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
+        },
+        {
+          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
+          "link": "http://www.zimbabwestar.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
+          "source": "zimbabwestar.com",
+          "pubDate": "2026-07-06T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
+        },
+        {
+          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
+          "link": "http://www.bignewsnetwork.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-07-06T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
+        },
+        {
+          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
+          "link": "http://www.vietnamtribune.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
+          "source": "vietnamtribune.com",
+          "pubDate": "2026-07-06T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
+        },
+        {
           "title": "Woman describes 'ordeal' after ECHR reverses Italy 'sexist verdict'",
           "link": "https://www.ansa.it/english/news/general_news/2026/07/06/woman-describes-ordeal-after-echr-reverses-italy-sexist-verdict_0256f26a-b865-45ea-9bda-302961ff4b11.html",
           "description": "(ANSA) - ROME, JUL 6 - A woman who was awarded damages after the European Court of Human Rights quashed what it called a \"sexist and stereotypical\" verdict\" acquitting her sexually abusive husband because \"it's normal for a man to overcome a woman's resistance\" before sex told an Italian daily Monday that she had been through an \"ordeal\" since she reported the domestic rape in 2021. \"Justice has finally been done. It doesn't seem real after so long. I went through an ordeal,\" Audrey Ubeda, now 42, said in an interview with la Repubblica, after the ECHR ruled in her favour, ordering Italy to co",
-          "pubDate": "Mon, 6 Jul 2026 14:09:16 +0200",
+          "pubDate": "Mon, 6 Jul 2026 14:45:26 +0200",
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Woman describes 'ordeal' after ECHR reverses Italy 'sexist verdict'"
+        },
+        {
+          "title": "India proposes dedicated BRICS Virtual Working Group to combat drug trafficking",
+          "link": "https://economictimes.indiatimes.com/news/india/india-proposes-dedicated-brics-virtual-working-group-to-combat-drug-trafficking/articleshow/132216355.cms",
+          "source": "economictimes.indiatimes.com",
+          "pubDate": "2026-07-06T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India proposes dedicated BRICS Virtual Working Group to combat drug trafficking"
         },
         {
           "title": "Woman describes 'ordeal' after ECHR reverses Italy 'sexist verdict'",
@@ -159,6 +276,15 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Woman describes 'ordeal' after ECHR reverses Italy 'sexist verdict'"
+        },
+        {
+          "title": "Beyond Infrastructure : How China Growing Educational Influence Is Reshaping Ghana Future – Ghanamma . com",
+          "link": "https://www.ghanamma.com/2026/07/06/beyond-infrastructure-how-chinas-growing-educational-influence-is-reshaping-ghanas-future/",
+          "source": "ghanamma.com",
+          "pubDate": "2026-07-06T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Beyond Infrastructure : How China Growing Educational Influence Is Reshaping Ghana Future – Ghanamma . com"
         },
         {
           "title": "Somalia: Mogadishu Port Chief Visits Seattle to Strengthen Institutional Cooperation",
@@ -179,6 +305,33 @@
           "titleIt": "OPEC+ boosts oil production as Gulf exports recover"
         },
         {
+          "title": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?",
+          "link": "https://allafrica.com/stories/202607060020.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-06T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?"
+        },
+        {
+          "title": "The Abandoned Quest : How America Lost Its Redemptive Narrative and Faced Its Darkest Hour",
+          "link": "https://promptnewsonline.com/the-abandoned-quest-how-america-lost-its-redemptive-narrative-and-faced-its-darkest-hour/",
+          "source": "promptnewsonline.com",
+          "pubDate": "2026-07-05T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Abandoned Quest : How America Lost Its Redemptive Narrative and Faced Its Darkest Hour"
+        },
+        {
+          "title": "Dangote to Build Port and Power Plant in Tanzania",
+          "link": "https://www.africa.com/top-10-news/dangote-to-build-port-and-power-plant-in-tanzania",
+          "source": "africa.com",
+          "pubDate": "2026-07-05T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dangote to Build Port and Power Plant in Tanzania"
+        },
+        {
           "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/humanitarian-corridors-27-refugees-from-ethiopia-arrive-in-italy_49720f78-d083-4e65-833d-2500683c2014.html",
           "description": "(ANSA) - NAIROBI, 03 LUG - The process that enabled 27 Somali and Sudanese refugees from Ethiopia to depart for Italy—carried out through the “humanitarian corridors” program—has been successfully completed. The initiative, the result of a memorandum of understanding between the Community of Sant’Egidio, the Ministries of the Interior and of Foreign Affairs and International Cooperation, and the Italian Episcopal Conference, represents a significant example of institutional cooperation and international solidarity. The embassy, which has been collaborating with the Community of Sant’Egidio on ",
@@ -186,51 +339,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy"
-        },
-        {
-          "title": "US to block UN funding for Somalia in blow to AU peace mission",
-          "link": "http://www.africanews.com/2026/07/03/us-to-block-un-funding-for-somalia-in-blow-to-au-peace-mission/",
-          "description": "In a diplomatic note to the African Union seen by Reuters, the US has vowed to block any spending of UN funds on the AU Support ​and Stabilisation Mission in Somalia (AUSSOM).",
-          "pubDate": "Fri, 03 Jul 2026 12:35:23 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "US to block UN funding for Somalia in blow to AU peace mission"
-        },
-        {
-          "title": "US-Italy ties excellent, Trump and Meloni have long-standing relationship - Fertitta",
-          "link": "https://www.ansa.it/english/news/2026/07/02/us-italy-ties-excellent-trump-and-meloni-have-long-standing-relationship_a80196f7-33c0-49f0-a478-9000adde2c61.html",
-          "description": "(ANSA) - ROME, JUL 2 - US-Italy relations are excellent and leaders Donald Trump and Giorgia Meloni have a long-standing relationship, Us Ambassador to Rome Tilman J. Fertitta said after recent strains over the Iran war and the American president's claim the Italian premier begged for a photo at the G7 summit in France. \"I would say relations between the US and Italy are excellent,\" Fertitta said, responding to reporters at the reception celebrating the 250th anniversary of US independence at Villa Taverna. \"I deal with everyone every day, from the prime minister on down, and we collaborate on",
-          "pubDate": "Thu, 2 Jul 2026 19:13:52 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "US-Italy ties excellent, Trump and Meloni have long-standing relationship - Fertitta"
-        },
-        {
-          "title": "US-Italy ties excellent, Trump and Meloni have long-standing relationship - Fertitta",
-          "link": "https://www.ansa.it/english/news/world/2026/07/02/us-italy-ties-excellent-trump-and-meloni-have-long-standing-relationship_e1d087a0-dc30-4a5c-a8fb-a3febff55ca7.html",
-          "description": "(ANSA) - ROME, JUL 2 - US-Italy relations are excellent and leaders Donald Trump and Giorgia Meloni have a long-standing relationship, Us Ambassador to Rome Tilman J. Fertitta said after recent strains over the Iran war and the American president's claim the Italian premier begged for a photo at the G7 summit in France. \"I would say relations between the US and Italy are excellent,\" Fertitta said, responding to reporters at the reception celebrating the 250th anniversary of US independence at Villa Taverna. \"I deal with everyone every day, from the prime minister on down, and we collaborate on",
-          "pubDate": "Thu, 2 Jul 2026 19:13:50 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "US-Italy ties excellent, Trump and Meloni have long-standing relationship - Fertitta"
-        },
-        {
-          "title": "Ambassador Nicoletti’s Mission to the Argentine Province of Catamarca",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/01/ambassador-nicolettis-mission-to-the-argentine-province-of-catamarca_032b468d-d754-4b85-87cb-7daf1a6080c3.html",
-          "description": "(ANSA) - BUENOS AIRES, 01 LUG - The Italian Ambassador to Argentina, Fabrizio Nicoletti, undertook an institutional mission to the Province of Catamarca on June 29 and 30, with the aim of consolidating dialogue with provincial and municipal authorities and strengthening ties with the historic Italian community in the region. According to a press release, the visit represented an important opportunity to explore opportunities for collaboration between Italy and Catamarca in strategic sectors such as the mining industry, technological innovation, and sustainability. The mission began with a work",
-          "pubDate": "Wed, 1 Jul 2026 18:57:33 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Ambassador Nicoletti’s Mission to the Argentine Province of Catamarca"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -238,184 +346,13 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Seminar in Beijing offers wisdom for Global South cooperation",
-          "link": "http://www.bruneinews.net/news/279169857/seminar-in-beijing-offers-wisdom-for-global-south-cooperation",
-          "source": "bruneinews.net",
-          "pubDate": "2026-07-06T11:30:00Z",
+          "title": "Egypt says it is expecting a further $1.7 billion from Europe within days",
+          "link": "http://www.africanews.com/2026/07/05/egypt-says-it-is-expecting-a-further-17-billion-from-europe-within-days/",
+          "description": "It is part a $5.7 billion EU macro-financial assistance package within the framework of Europe’s strategy to stabilise Egypt's economy.",
+          "pubDate": "Sun, 05 Jul 2026 14:32:21 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Seminar in Beijing offers wisdom for Global South cooperation"
-        },
-        {
-          "title": "EGX Extends Recovery as Foreign Investors Rebuild Egyptian Positions",
-          "link": "https://meobserver.org/business-economix/market-updates-finance/2026/07/06/egx-extends-recovery-as-foreign-investors-rebuild-egyptian-positions/",
-          "source": "meobserver.org",
-          "pubDate": "2026-07-06T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "EGX Extends Recovery as Foreign Investors Rebuild Egyptian Positions"
-        },
-        {
-          "title": "Egypt Stabilisation Drive Gains Momentum as External Buffers Strengthen",
-          "link": "https://meobserver.org/economy/2026/07/06/egypts-stabilisation-drive-gains-momentum-as-external-buffers-strengthen/",
-          "source": "meobserver.org",
-          "pubDate": "2026-07-06T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Stabilisation Drive Gains Momentum as External Buffers Strengthen"
-        },
-        {
-          "title": "Beyond Infrastructure : How China Growing Educational Influence Is Reshaping Ghana Future – Ghanamma . com",
-          "link": "https://www.ghanamma.com/2026/07/06/beyond-infrastructure-how-chinas-growing-educational-influence-is-reshaping-ghanas-future/",
-          "source": "ghanamma.com",
-          "pubDate": "2026-07-06T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Beyond Infrastructure : How China Growing Educational Influence Is Reshaping Ghana Future – Ghanamma . com"
-        },
-        {
-          "title": "Seminar in Beijing offers wisdom for Global South cooperation",
-          "link": "http://www.malaysiasun.com/news/279169857/seminar-in-beijing-offers-wisdom-for-global-south-cooperation",
-          "source": "malaysiasun.com",
-          "pubDate": "2026-07-06T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Seminar in Beijing offers wisdom for Global South cooperation"
-        },
-        {
-          "title": "15th Saeima candidates reveal million - euro debts and massive property portfolios",
-          "link": "https://bnn-news.com/15th-saeima-candidates-declarations-reveal-record-holdings-27-properties-25-vehicles-and-more-than-e1-million-in-debt-281670",
-          "source": "bnn-news.com",
-          "pubDate": "2026-07-06T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "15th Saeima candidates reveal million - euro debts and massive property portfolios"
-        },
-        {
-          "title": "Liam Gallagher says he  ready  to perform Wonderwall at World Cup final in message of support to Harry Kane",
-          "link": "https://www.mirror.co.uk/3am/celebrity-news/liam-gallagher-harry-kane-england-37391543",
-          "source": "mirror.co.uk",
-          "pubDate": "2026-07-06T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Liam Gallagher says he  ready  to perform Wonderwall at World Cup final in message of support to Harry Kane"
-        },
-        {
-          "title": "Nigeria , 8 other countries account for 83 % of global gas flaring Report",
-          "link": "https://tribuneonlineng.com/nigeria-8-others-countries-account-for-83-of-global-gas-flaring-report/",
-          "source": "tribuneonlineng.com",
-          "pubDate": "2026-07-06T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nigeria , 8 other countries account for 83 % of global gas flaring Report"
-        },
-        {
-          "title": "Interreligious Solidarity Against Oppression as a Path Beyond Tribalism , Ego and Empire",
-          "link": "https://countercurrents.org/2026/07/interreligious-solidarity-against-oppression-as-a-path-beyond-tribalism-ego-and-empire/",
-          "source": "countercurrents.org",
-          "pubDate": "2026-07-06T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Interreligious Solidarity Against Oppression as a Path Beyond Tribalism , Ego and Empire"
-        },
-        {
-          "title": "GUPCO to Add 2 , 500 bpd from New North Safa Well in Gulf of Suez",
-          "link": "https://meobserver.org/energy/2026/07/06/gupco-to-add-2500-bpd-from-new-north-safa-well-in-gulf-of-suez/",
-          "source": "meobserver.org",
-          "pubDate": "2026-07-06T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "GUPCO to Add 2 , 500 bpd from New North Safa Well in Gulf of Suez"
-        },
-        {
-          "title": "Africa : Climate Investor Catalyst Fund Reaches $30m Second Close",
-          "link": "https://allafrica.com/stories/202607060011.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-06T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : Climate Investor Catalyst Fund Reaches $30m Second Close"
-        },
-        {
-          "title": "Liam Gallagher says he  ready  to perform Wonderwall at World Cup final in message of support to Harry Kane",
-          "link": "https://www.mirror.co.uk/3am/celebrity-news/liam-gallagher-says-hes-ready-37391543",
-          "source": "mirror.co.uk",
-          "pubDate": "2026-07-06T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Liam Gallagher says he  ready  to perform Wonderwall at World Cup final in message of support to Harry Kane"
-        },
-        {
-          "title": "Dangote Cement increases dividend by 50 percent , shareholders get N753 . 8bn",
-          "link": "https://hallmarknews.com/dangote-cement-increases-dividend-by-50-percent-shareholders-get-n753-8bn/",
-          "source": "hallmarknews.com",
-          "pubDate": "2026-07-06T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dangote Cement increases dividend by 50 percent , shareholders get N753 . 8bn"
-        },
-        {
-          "title": "Klinsmann : Belgium Favored Over united states in World Cup Last - 16",
-          "link": "https://www.newkerala.com/news/a/fifa-wc-klinsmann-feels-belgium-favourites-against-usa-365.htm",
-          "source": "newkerala.com",
-          "pubDate": "2026-07-06T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Klinsmann : Belgium Favored Over united states in World Cup Last - 16"
-        },
-        {
-          "title": "Monday briefing : Who are the people trying to protect our right to protest ?",
-          "link": "https://www.aol.co.uk/articles/monday-briefing-people-trying-protect-054834000.html",
-          "source": "aol.co.uk",
-          "pubDate": "2026-07-06T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Monday briefing : Who are the people trying to protect our right to protest ?"
-        },
-        {
-          "title": "Ancient Greek city of Leukaspis yields sealed tombs and rare treasures in Egypt",
-          "link": "https://neoskosmos.com/en/2026/07/06/news/ancient-greek-city-of-leukaspis-yields-sealed-tombs-and-rare-treasures-in-egypt/",
-          "source": "neoskosmos.com",
-          "pubDate": "2026-07-06T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ancient Greek city of Leukaspis yields sealed tombs and rare treasures in Egypt"
-        },
-        {
-          "title": "Experts Criticize Egypt Tourism Development Threatening the Cultural Heritage",
-          "link": "https://www.tourism-review.com/egypt-to-invest-in-tourism-despite-danger-for-cultural-heritage-news15550",
-          "source": "tourism-review.com",
-          "pubDate": "2026-07-06T04:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Experts Criticize Egypt Tourism Development Threatening the Cultural Heritage"
-        },
-        {
-          "title": "Ruto at G7 Summit : Pan - African Rhetoric , Harsh Realities",
-          "link": "https://punchng.com/ruto-at-g7-pan-african-rhetoric-harsh-realities/",
-          "source": "punchng.com",
-          "pubDate": "2026-07-06T04:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ruto at G7 Summit : Pan - African Rhetoric , Harsh Realities"
-        },
-        {
-          "title": "BRICS meet in India to advance women - led development",
-          "link": "https://www.easternmirrornagaland.com:443/brics-meet-in-india-to-advance-women-led-development",
-          "source": "easternmirrornagaland.com",
-          "pubDate": "2026-07-06T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS meet in India to advance women - led development"
-        },
-        {
-          "title": "The bordered activities of Reporters Without Borders – Part I",
-          "link": "https://news.az/news/the-bordered-activities-of-reporters-without-borders-part-i",
-          "source": "news.az",
-          "pubDate": "2026-07-05T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The bordered activities of Reporters Without Borders – Part I"
+          "titleIt": "Egypt says it is expecting a further $1.7 billion from Europe within days"
         }
       ]
     },
@@ -430,24 +367,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt makes history, heartbreak for Cape Verde at World Cup"
-        },
-        {
-          "title": "Cairo embassy has requested pardon for Nessy Guerra says Tajani",
-          "link": "https://www.ansa.it/english/news/world/2026/07/01/cairo-embassy-has-requested-pardon-for-nessy-guerra-says-tajani_971d064c-c657-49e5-acdd-73c536bfa646.html",
-          "description": "(ANSA) - ROME, JUL 1 - Deputy Premier and Foreign Minister Antonio Tajani said Wednesday that Italy's embassy in Cairo has made a formal request to the Egyptian authorities for a presidential pardon for an adultery conviction for Nessy Guerra, an Italian woman currently obliged to live in Egypt with her three-year-old daughter due to a custody battle with her estranged Egyptian husband. During a question time session in the Lower House, the minister confirmed that he intervened personally, speaking to his Egyptian counterpart for Guerra's release after she was taken from her home in Cairo over",
-          "pubDate": "Wed, 1 Jul 2026 15:36:22 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Cairo embassy has requested pardon for Nessy Guerra says Tajani"
-        },
-        {
-          "title": "Cairo embassy has requested pardon for Nessy Guerra says Tajani",
-          "link": "https://www.ansa.it/english/news/2026/07/01/cairo-embassy-has-requested-pardon-for-nessy-guerra-says-tajani_76c1fb05-6557-401c-b6ed-4cb625f044aa.html",
-          "description": "(ANSA) - ROME, JUL 1 - Deputy Premier and Foreign Minister Antonio Tajani said Wednesday that Italy's embassy in Cairo has made a formal request to the Egyptian authorities for a presidential pardon for an adultery conviction for Nessy Guerra, an Italian woman currently obliged to live in Egypt with her three-year-old daughter due to a custody battle with her estranged Egyptian husband. During a question time session in the Lower House, the minister confirmed that he intervened personally, speaking to his Egyptian counterpart for Guerra's release after she was taken from her home in Cairo over",
-          "pubDate": "Wed, 1 Jul 2026 15:36:17 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Cairo embassy has requested pardon for Nessy Guerra says Tajani"
         }
       ]
     }
