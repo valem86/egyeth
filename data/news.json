@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-07T10:38:46.431Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-07-07T19:22:27.137Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somalia's Defence Minister Visits Troops On Front Lines in Middle Shabelle Region",
+          "link": "https://allafrica.com/stories/202607070501.html",
+          "description": "[Shabelle] Wargaadhi -- Somalia's Defence Minister Ahmed Moallim Fiqi and the commander of the Somali National Army (SNA), Brigadier General Ibrahim Mohamed Mohamud, visited military units and local forces stationed in Wargaadhi, in the Middle Shabelle region, the government said.",
+          "pubDate": "Tue, 07 Jul 2026 16:06:47 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia's Defence Minister Visits Troops On Front Lines in Middle Shabelle Region"
+        },
         {
           "title": "Egypt: Refugees, Asylum Seekers Arrested, Deported",
           "link": "https://allafrica.com/stories/202607070084.html",
@@ -14,15 +23,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Egypt: Refugees, Asylum Seekers Arrested, Deported"
-        },
-        {
-          "title": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions",
-          "link": "https://allafrica.com/stories/202607060694.html",
-          "description": "[Shabelle] Mogadishu -- The European Union's asylum agency has warned that Somalia's security situation has significantly worsened, citing deepening political divisions and growing instability that have allowed the Al-Shabaab militant group to expand its influence.",
-          "pubDate": "Mon, 06 Jul 2026 15:55:10 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions"
         },
         {
           "title": "Ambassador Tommasi Leaves Sudan: ‘Compromises Necessary for Lasting Peace’",
@@ -34,15 +34,6 @@
           "titleIt": "Ambassador Tommasi Leaves Sudan: ‘Compromises Necessary for Lasting Peace’"
         },
         {
-          "title": "African Union peacekeeping mission in Somalia at risk amid US funding cuts",
-          "link": "http://www.africanews.com/2026/07/03/african-union-peacekeeping-mission-in-somalia-at-risk-amid-us-funding-cuts/",
-          "description": "Washington said its decision was due the government’s lack of progress in containing the al-Shabaab group or in taking ownership of its own security.",
-          "pubDate": "Fri, 03 Jul 2026 16:33:56 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "African Union peacekeeping mission in Somalia at risk amid US funding cuts"
-        },
-        {
           "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/humanitarian-corridors-27-refugees-from-ethiopia-arrive-in-italy_49720f78-d083-4e65-833d-2500683c2014.html",
           "description": "(ANSA) - NAIROBI, 03 LUG - The process that enabled 27 Somali and Sudanese refugees from Ethiopia to depart for Italy—carried out through the “humanitarian corridors” program—has been successfully completed. The initiative, the result of a memorandum of understanding between the Community of Sant’Egidio, the Ministries of the Interior and of Foreign Affairs and International Cooperation, and the Italian Episcopal Conference, represents a significant example of institutional cooperation and international solidarity. The embassy, which has been collaborating with the Community of Sant’Egidio on ",
@@ -50,24 +41,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy"
-        },
-        {
-          "title": "US to block UN funding for Somalia in blow to AU peace mission",
-          "link": "http://www.africanews.com/2026/07/03/us-to-block-un-funding-for-somalia-in-blow-to-au-peace-mission/",
-          "description": "In a diplomatic note to the African Union seen by Reuters, the US has vowed to block any spending of UN funds on the AU Support ​and Stabilisation Mission in Somalia (AUSSOM).",
-          "pubDate": "Fri, 03 Jul 2026 12:35:23 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "US to block UN funding for Somalia in blow to AU peace mission"
-        },
-        {
-          "title": "Somalia Honors Italy for Health Cooperation",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/somalia-honors-italy-for-health-cooperation_1b575aee-3b57-452f-8c7c-58dcaa28b5cd.html",
-          "description": "(ANSA) - NAIROBI, 03 LUG - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, received an honorary award from the management of the Forlanini Hospital in Mogadishu—which was recently modernized thanks to funding from Italian Cooperation—at the conclusion of a meeting dedicated to healthcare cooperation between the two countries. During the meeting, the hospital’s general director, Mohamed Jafar Ali, outlined the progress made by the facility, focusing on the healthcare services offered, ongoing development projects, and the creation of new wards, particularly those dedicated to women’s",
-          "pubDate": "Fri, 3 Jul 2026 13:00:24 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Somalia Honors Italy for Health Cooperation"
         },
         {
           "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
@@ -93,22 +66,22 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Police Tighten Nairobi Security With Checkpoints Ahead of Defiant Saba Saba Protests",
-          "link": "https://allafrica.com/stories/202607070044.html",
-          "description": "[Capital FM] Nairobi -- Police will mount enhanced checkpoints across Nairobi on Tuesday in a major security operation ahead of planned Saba Saba demonstrations, even as activists insist they will proceed with the protests despite warnings that any gathering will be treated as unlawful.",
-          "pubDate": "Tue, 07 Jul 2026 05:14:09 GMT",
+          "title": "Kenya: Nairobi Police Report 10 Arrests As Heavy Security Keeps Saba Saba Protests Off CBD",
+          "link": "https://allafrica.com/stories/202607070499.html",
+          "description": "[Capital FM] Nairobi -- Ten people were arrested in Nairobi during the Saba Saba commemorations as police credited an extensive security operation and public cooperation for the relative calm witnessed across the capital.",
+          "pubDate": "Tue, 07 Jul 2026 16:05:39 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Police Tighten Nairobi Security With Checkpoints Ahead of Defiant Saba Saba Protests"
+          "titleIt": "Kenya: Nairobi Police Report 10 Arrests As Heavy Security Keeps Saba Saba Protests Off CBD"
         },
         {
-          "title": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions",
-          "link": "https://allafrica.com/stories/202607060694.html",
-          "description": "[Shabelle] Mogadishu -- The European Union's asylum agency has warned that Somalia's security situation has significantly worsened, citing deepening political divisions and growing instability that have allowed the Al-Shabaab militant group to expand its influence.",
-          "pubDate": "Mon, 06 Jul 2026 15:55:10 GMT",
+          "title": "Kenya: Orderly Protest Held in Mombasa After Police Agreement",
+          "link": "https://allafrica.com/stories/202607070360.html",
+          "description": "[Capital FM] Nairobi -- Residents in Mombasa were allowed to stage a 15-minute march protest through the city's Central Business District after consultations with police officers.",
+          "pubDate": "Tue, 07 Jul 2026 11:22:02 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions"
+          "titleIt": "Kenya: Orderly Protest Held in Mombasa After Police Agreement"
         },
         {
           "title": "OPEC+ boosts oil production as Gulf exports recover",
@@ -129,15 +102,6 @@
           "titleIt": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy"
         },
         {
-          "title": "US to block UN funding for Somalia in blow to AU peace mission",
-          "link": "http://www.africanews.com/2026/07/03/us-to-block-un-funding-for-somalia-in-blow-to-au-peace-mission/",
-          "description": "In a diplomatic note to the African Union seen by Reuters, the US has vowed to block any spending of UN funds on the AU Support ​and Stabilisation Mission in Somalia (AUSSOM).",
-          "pubDate": "Fri, 03 Jul 2026 12:35:23 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "US to block UN funding for Somalia in blow to AU peace mission"
-        },
-        {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
           "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
           "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
@@ -152,132 +116,6 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "China , Brazil and African agriculture : what has changed ?",
-          "link": "https://www.thezimbabwean.co/2026/07/china-brazil-and-african-agriculture-what-has-changed/",
-          "source": "thezimbabwean.co",
-          "pubDate": "2026-07-07T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China , Brazil and African agriculture : what has changed ?"
-        },
-        {
-          "title": "Africa : UN Maritime Agency Seeks Release of 44 Detained Seafarers As Food Runs Low",
-          "link": "https://allafrica.com/stories/202607070013.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-07T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : UN Maritime Agency Seeks Release of 44 Detained Seafarers As Food Runs Low"
-        },
-        {
-          "title": "Egypt Arrests , Deports Refugees and Asylum Seekers",
-          "link": "https://www.miragenews.com/egypt-arrests-deports-refugees-and-asylum-1705724/",
-          "source": "miragenews.com",
-          "pubDate": "2026-07-07T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Arrests , Deports Refugees and Asylum Seekers"
-        },
-        {
-          "title": "UN maritime agency seeks release of 44 detained seafarers as food runs low",
-          "link": "https://www.globalissues.org/news/2026/07/06/43500",
-          "source": "globalissues.org",
-          "pubDate": "2026-07-06T20:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "UN maritime agency seeks release of 44 detained seafarers as food runs low"
-        },
-        {
-          "title": "APO Group - Africa Newsroom / Press release | World leaders and leaders of international organisations come together to congratulate Seychelles on the occasion of its 50th anniversary of its Independence",
-          "link": "https://www.africa-newsroom.com/press/world-leaders-and-leaders-of-international-organisations-come-together-to-congratulate-seychelles-on-the-occasion-of-its-50th-anniversary-of-its-independence",
-          "source": "africa-newsroom.com",
-          "pubDate": "2026-07-06T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "APO Group - Africa Newsroom / Press release | World leaders and leaders of international organisations come together to congratulate Seychelles on the occasion of its 50th anniversary of its Independence"
-        },
-        {
-          "title": "Africa Emerges As The World Sesame Powerhouse As Nigeria Eyes Bigger Export Windfall",
-          "link": "https://naija247news.com/africa-emerges-as-the-worlds-sesame-powerhouse-as-nigeria-eyes-bigger-export-windfall/",
-          "source": "naija247news.com",
-          "pubDate": "2026-07-06T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa Emerges As The World Sesame Powerhouse As Nigeria Eyes Bigger Export Windfall"
-        },
-        {
-          "title": "Can Lamu Port sustain its Gulf conflict windfall ?",
-          "link": "https://www.zawya.com/en/economy/africa/can-lamu-port-sustain-its-gulf-conflict-windfall-hcnii0w7",
-          "source": "zawya.com",
-          "pubDate": "2026-07-06T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Can Lamu Port sustain its Gulf conflict windfall ?"
-        },
-        {
-          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
-          "link": "http://www.africaleader.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
-          "source": "africaleader.com",
-          "pubDate": "2026-07-06T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
-        },
-        {
-          "title": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions",
-          "link": "https://allafrica.com/stories/202607060694.html",
-          "description": "[Shabelle] Mogadishu -- The European Union's asylum agency has warned that Somalia's security situation has significantly worsened, citing deepening political divisions and growing instability that have allowed the Al-Shabaab militant group to expand its influence.",
-          "pubDate": "Mon, 06 Jul 2026 15:55:10 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: A Report Warns Somalia Security Deteriorating Amid Political Divisions"
-        },
-        {
-          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
-          "link": "http://www.calcuttanews.net/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
-          "source": "calcuttanews.net",
-          "pubDate": "2026-07-06T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
-        },
-        {
-          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
-          "link": "http://www.nigeriasun.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
-          "source": "nigeriasun.com",
-          "pubDate": "2026-07-06T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
-        },
-        {
-          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
-          "link": "http://www.zimbabwestar.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
-          "source": "zimbabwestar.com",
-          "pubDate": "2026-07-06T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
-        },
-        {
-          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
-          "link": "http://www.bignewsnetwork.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
-          "source": "bignewsnetwork.com",
-          "pubDate": "2026-07-06T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
-        },
-        {
-          "title": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India",
-          "link": "http://www.vietnamtribune.com/news/279170315/brics-will-focus-on-drug-problem-says-charge-d-affaires-ethiopia-to-india",
-          "source": "vietnamtribune.com",
-          "pubDate": "2026-07-06T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS will focus on drug problem , says Charge d  Affaires Ethiopia to India"
-        },
-        {
           "title": "Woman describes 'ordeal' after ECHR reverses Italy 'sexist verdict'",
           "link": "https://www.ansa.it/english/news/general_news/2026/07/06/woman-describes-ordeal-after-echr-reverses-italy-sexist-verdict_0256f26a-b865-45ea-9bda-302961ff4b11.html",
           "description": "(ANSA) - ROME, JUL 6 - A woman who was awarded damages after the European Court of Human Rights quashed what it called a \"sexist and stereotypical\" verdict\" acquitting her sexually abusive husband because \"it's normal for a man to overcome a woman's resistance\" before sex told an Italian daily Monday that she had been through an \"ordeal\" since she reported the domestic rape in 2021. \"Justice has finally been done. It doesn't seem real after so long. I went through an ordeal,\" Audrey Ubeda, now 42, said in an interview with la Repubblica, after the ECHR ruled in her favour, ordering Italy to co",
@@ -285,15 +123,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Woman describes 'ordeal' after ECHR reverses Italy 'sexist verdict'"
-        },
-        {
-          "title": "India proposes dedicated BRICS Virtual Working Group to combat drug trafficking",
-          "link": "https://economictimes.indiatimes.com/news/india/india-proposes-dedicated-brics-virtual-working-group-to-combat-drug-trafficking/articleshow/132216355.cms",
-          "source": "economictimes.indiatimes.com",
-          "pubDate": "2026-07-06T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India proposes dedicated BRICS Virtual Working Group to combat drug trafficking"
         },
         {
           "title": "Woman describes 'ordeal' after ECHR reverses Italy 'sexist verdict'",
@@ -305,15 +134,6 @@
           "titleIt": "Woman describes 'ordeal' after ECHR reverses Italy 'sexist verdict'"
         },
         {
-          "title": "Beyond Infrastructure : How China Growing Educational Influence Is Reshaping Ghana Future – Ghanamma . com",
-          "link": "https://www.ghanamma.com/2026/07/06/beyond-infrastructure-how-chinas-growing-educational-influence-is-reshaping-ghanas-future/",
-          "source": "ghanamma.com",
-          "pubDate": "2026-07-06T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Beyond Infrastructure : How China Growing Educational Influence Is Reshaping Ghana Future – Ghanamma . com"
-        },
-        {
           "title": "OPEC+ boosts oil production as Gulf exports recover",
           "link": "http://www.africanews.com/2026/07/06/opec-boosts-oil-production-as-gulf-exports-recover/",
           "description": "Seven OPEC+ producers have agreed to increase oil production from August, signalling confidence that Gulf exports are recovering after months of disruption caused by the Middle East conflict. The move comes as shipping through the Strait of Hormuz gradually returns to normal.",
@@ -323,13 +143,22 @@
           "titleIt": "OPEC+ boosts oil production as Gulf exports recover"
         },
         {
-          "title": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?",
-          "link": "https://allafrica.com/stories/202607060020.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-06T09:45:00Z",
+          "title": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/03/humanitarian-corridors-27-refugees-from-ethiopia-arrive-in-italy_49720f78-d083-4e65-833d-2500683c2014.html",
+          "description": "(ANSA) - NAIROBI, 03 LUG - The process that enabled 27 Somali and Sudanese refugees from Ethiopia to depart for Italy—carried out through the “humanitarian corridors” program—has been successfully completed. The initiative, the result of a memorandum of understanding between the Community of Sant’Egidio, the Ministries of the Interior and of Foreign Affairs and International Cooperation, and the Italian Episcopal Conference, represents a significant example of institutional cooperation and international solidarity. The embassy, which has been collaborating with the Community of Sant’Egidio on ",
+          "pubDate": "Fri, 3 Jul 2026 16:24:51 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?"
+          "titleIt": "Humanitarian Corridors: 27 Refugees from Ethiopia Arrive in Italy"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -349,188 +178,7 @@
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": [
-        {
-          "title": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?",
-          "link": "https://allafrica.com/stories/202607060020.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-06T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?"
-        },
-        {
-          "title": "Egypt makes history, heartbreak for Cape Verde at World Cup",
-          "link": "http://www.africanews.com/2026/07/04/egypt-makes-history-heartbreak-for-cape-verde-at-world-cup/",
-          "description": "Heartbreak for Cape Verde as the World Cup debutants bowed out after a thrilling 3-2 extra-time defeat to defending champions Argentina. The Blue Sharks twice battled back to level the match, pushing Lionel Messi's side to the limit in one of the tournament's biggest surprise performances.",
-          "pubDate": "Sat, 04 Jul 2026 07:50:35 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Egypt makes history, heartbreak for Cape Verde at World Cup"
-        },
-        {
-          "title": "Ethiopia New Blue Nile Dams Rattle Egypt",
-          "link": "https://www.riotimesonline.com/ethiopia-blue-nile-dams-egypt-water-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-06-27T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia New Blue Nile Dams Rattle Egypt"
-        },
-        {
-          "title": "Ethiopia Leap Into the Future",
-          "link": "https://allafrica.com/stories/202606250254.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Leap Into the Future"
-        },
-        {
-          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
-          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
-          "source": "zawya.com",
-          "pubDate": "2026-06-25T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
-        },
-        {
-          "title": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped",
-          "link": "https://www.engineeringnews.co.za/article/africa-adds-42-gw-new-hydropower-in-2025-only-10-of-hydropower-resources-being-tapped-2026-06-24",
-          "source": "engineeringnews.co.za",
-          "pubDate": "2026-06-24T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped"
-        },
-        {
-          "title": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy",
-          "link": "https://allafrica.com/stories/202606240040.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-24T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy"
-        },
-        {
-          "title": "Pumped Storage Additions Lead Global Hydropower Growth",
-          "link": "https://www.powermag.com/pumped-storage-additions-lead-global-hydropower-growth/",
-          "source": "powermag.com",
-          "pubDate": "2026-06-24T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
-        },
-        {
-          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
-          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
-          "source": "dw.com",
-          "pubDate": "2026-06-21T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
-        },
-        {
-          "title": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA",
-          "link": "https://www.thereporterethiopia.com/51290/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-20T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA"
-        },
-        {
-          "title": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?",
-          "link": "https://english.aawsat.com/arab-world/5286082-trumps-pledge-intervene-can-it-break-deadlock-ethiopian-renaissance-dam-crisis",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-06-19T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?"
-        },
-        {
-          "title": "Ethiopia : Tale of Two Ethiopias",
-          "link": "https://allafrica.com/stories/202606180628.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-19T00:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Tale of Two Ethiopias"
-        },
-        {
-          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
-          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-06-18T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
-        },
-        {
-          "title": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity",
-          "link": "https://larouchepub.com/other/2026/5324-ethiopia_the_uncolonized_indep.html",
-          "source": "larouchepub.com",
-          "pubDate": "2026-06-17T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity"
-        },
-        {
-          "title": "Trump Backs Egypt in Nile Dam Row",
-          "link": "https://chimpreports.com/trump-backs-egypt-in-nile-dam-row/",
-          "source": "chimpreports.com",
-          "pubDate": "2026-06-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Backs Egypt in Nile Dam Row"
-        },
-        {
-          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
-          "link": "http://www.idahostatejournal.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_c980aa94-a108-54fb-9ffa-e490dbc13918.html",
-          "source": "idahostatejournal.com",
-          "pubDate": "2026-06-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
-        },
-        {
-          "title": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy",
-          "link": "https://www.garoweonline.com/en/opinions/beyond-planting-how-ethiopia-s-green-legacy-initiative-is-reshaping-society-economy-and-diplomacy",
-          "source": "garoweonline.com",
-          "pubDate": "2026-06-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy"
-        },
-        {
-          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
-          "link": "http://www.postregister.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_5823212b-9bc9-5415-a72d-53c1e7302dfc.html",
-          "source": "postregister.com",
-          "pubDate": "2026-06-17T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
-        },
-        {
-          "title": "Trump Raises Nile Dam Dispute in Egypt Talks",
-          "link": "https://www.newkerala.com/news/a/trump-raises-nile-dispute-talks-egypt-919.htm",
-          "source": "newkerala.com",
-          "pubDate": "2026-06-17T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Raises Nile Dam Dispute in Egypt Talks"
-        },
-        {
-          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
-          "link": "https://www.newsday.com/news/nation/g7-summit-trump-ai-france-17-june-2026-f72748",
-          "source": "newsday.com",
-          "pubDate": "2026-06-17T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
-        }
-      ]
+      "items": []
     }
   }
 }
