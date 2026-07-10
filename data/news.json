@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-07-10T12:15:42.550Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-07-10T18:12:19.618Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Egypt: Ahead of Appeal Ruling, CPJ and Partners Call On Egypt to Release Ahmed Douma",
-          "link": "https://allafrica.com/stories/202607100039.html",
-          "description": "[CPJ] In a joint statement, the Committee to Protect Journalists joined several press freedom and human rights organizations on Thursday, urging Egyptian authorities to immediately and unconditionally release political writer Ahmed Douma.",
-          "pubDate": "Fri, 10 Jul 2026 05:07:47 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Egypt: Ahead of Appeal Ruling, CPJ and Partners Call On Egypt to Release Ahmed Douma"
-        },
         {
           "title": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Information",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/08/somalia-ambassador-dacco-coppi-meets-with-the-minister-of-information_02f59c2f-acaf-4de8-9301-8e267cbce33c.html",
@@ -23,24 +14,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Information"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -48,51 +21,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Africa : Intra - African Diplomatic Relations Should Not Dictate the External Foreign Policies of African States",
-          "link": "https://allafrica.com/stories/202607090067.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-09T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : Intra - African Diplomatic Relations Should Not Dictate the External Foreign Policies of African States"
-        },
-        {
-          "title": "The Israel - Emirates Axis and the Zionist Quest to Take over Somalia Gulf of Aden Coast",
-          "link": "https://wardheernews.com/the-israel-emirates-axis-and-the-zionist-quest-to-take-over-somalias-gulf-of-aden-coast/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-09T04:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Israel - Emirates Axis and the Zionist Quest to Take over Somalia Gulf of Aden Coast"
-        },
-        {
-          "title": "America retreat is reshaping the Gulf , driving Oman toward Iran | JNS",
-          "link": "https://www.clevelandjewishnews.com/jns/america-s-retreat-is-reshaping-the-gulf-driving-oman-toward-iran/article_10ff54ab-84a6-5725-88a4-0ccb4ce3c87d.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-07-08T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "America retreat is reshaping the Gulf , driving Oman toward Iran | JNS"
-        },
-        {
-          "title": "African Development Bank Brokers Zambia Debt - for - Energy Swap",
-          "link": "https://foreignpolicy.com/2026/07/08/zambia-debt-swap-economics-energy-power-copper/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-07-08T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African Development Bank Brokers Zambia Debt - for - Energy Swap"
-        },
-        {
-          "title": "America retreat is reshaping the Gulf , driving Oman toward Iran - Christians for Israel International",
-          "link": "https://www.whyisrael.org/jns-org/americas-retreat-is-reshaping-the-gulf-driving-oman-toward-iran/",
-          "source": "whyisrael.org",
-          "pubDate": "2026-07-08T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "America retreat is reshaping the Gulf , driving Oman toward Iran - Christians for Israel International"
-        },
-        {
           "title": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Information",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/08/somalia-ambassador-dacco-coppi-meets-with-the-minister-of-information_02f59c2f-acaf-4de8-9301-8e267cbce33c.html",
           "description": "(ANSA) - NAIROBI, 08 LUG - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with the Somali Minister of Information, Culture, and Tourism, Abdifatah Qasim, with whom he visited the National Theater and the headquarters of Somali state radio and television. The National Theater is a building dating back to the 1960s that retains considerable architectural value within Mogadishu’s urban landscape and serves as a cultural landmark that the authorities hope to revitalize and promote after more than 35 years of inactivity. Minister Qasim emphasized the importance of cultural promotion",
@@ -100,300 +28,12 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Information"
-        },
-        {
-          "title": "Somali Pirates Are Back But the Coalition That Beat Them Isnt Coming",
-          "link": "https://warontherocks.com/somali-pirates-are-back-but-the-coalition-that-beat-them-isnt-coming/",
-          "source": "warontherocks.com",
-          "pubDate": "2026-07-08T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somali Pirates Are Back But the Coalition That Beat Them Isnt Coming"
-        },
-        {
-          "title": "Italian Smart Living 2026 has arrived in Addis Ababa",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/08/italian-smart-living-2026-has-arrived-in-addis-ababa_93faa12e-dda0-4e63-ac88-8b1a7cf1c8e3.html",
-          "description": "(ANSA) - ROMA, 08 LUG - Italian Smart Living 2026 has arrived in Addis Ababa. The business and design initiative is promoted by the Italian Trade Agency (ICE) and the National Confederation of Crafts and SMEs, with the support of the Ethiopian Embassy. The event is designed to strengthen commercial and institutional ties between Italy and Ethiopia, showcasing the excellence of “Made in Italy” solutions in the fields of design, construction, and smart living. Hosted at the Ethiopian Science Museum, the initiative serves as a platform connecting Italian manufacturers, designers, and solution pro",
-          "pubDate": "Wed, 8 Jul 2026 12:47:19 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italian Smart Living 2026 has arrived in Addis Ababa"
-        },
-        {
-          "title": "From center to periphery : Eritrea forced disengagement from Ethiopia – Awate . com",
-          "link": "https://awate.com/from-center-to-periphery-eritreas-forced-disengagement-from-ethiopia/",
-          "source": "awate.com",
-          "pubDate": "2026-07-08T04:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "From center to periphery : Eritrea forced disengagement from Ethiopia – Awate . com"
-        },
-        {
-          "title": "Somalia : Somaliland President Backs Modern Voter Registration Rollout",
-          "link": "https://allafrica.com/stories/202607070041.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-07T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland President Backs Modern Voter Registration Rollout"
-        },
-        {
-          "title": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan",
-          "link": "https://www.sott.net/article/507156-They-really-think-we-re-that-stupid-Israel-rebrands-scheme-to-ethnically-cleanse-Gaza-of-Palestinians-as-Freedom-of-Movement-Plan",
-          "source": "sott.net",
-          "pubDate": "2026-06-30T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan"
-        },
-        {
-          "title": "The EU finds itself Trumped in north Africa",
-          "link": "https://euobserver.com/224774/the-eu-finds-itself-trumped-in-north-africa/",
-          "source": "euobserver.com",
-          "pubDate": "2026-06-29T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The EU finds itself Trumped in north Africa"
-        },
-        {
-          "title": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report",
-          "link": "https://www.middleeastmonitor.com/20260629-israel-rebrands-gaza-displacement-plan-amid-backlash-over-forced-transfer-concerns-report/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-06-29T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel rebrands Gaza displacement plan amid backlash over forced transfer concerns : Report"
-        },
-        {
-          "title": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System",
-          "link": "https://www.i24news.tv/en/news/middle-east/the-gulf/artc-exclusive-the-houthis-are-conducting-experiments-to-improve-their-missile-system",
-          "source": "i24news.tv",
-          "pubDate": "2026-06-29T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Exclusive : The Houthis Are Conducting Experiments To Improve Their Missile System"
-        },
-        {
-          "title": "The New Scramble for Africa : Setting the Stage",
-          "link": "https://www.greanvillepost.com/the-new-scramble-for-africa-setting-the-stage/",
-          "source": "greanvillepost.com",
-          "pubDate": "2026-06-28T02:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The New Scramble for Africa : Setting the Stage"
-        },
-        {
-          "title": "How Regional Integration Is Actually Unfolding In Africa : The Pragmatics Of Integration And The Ethiopia – Djibouti Case",
-          "link": "https://www.eurasiareview.com/28062026-how-regional-integration-is-actually-unfolding-in-africa-the-pragmatics-of-integration-and-the-ethiopia-djibouti-case/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-06-28T00:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How Regional Integration Is Actually Unfolding In Africa : The Pragmatics Of Integration And The Ethiopia – Djibouti Case"
-        },
-        {
-          "title": "Today Happenings : June 26 , 2026 - South Peace News",
-          "link": "https://www.southpeacenews.com/todays-happenings-june-26-2026/",
-          "source": "southpeacenews.com",
-          "pubDate": "2026-06-26T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Today Happenings : June 26 , 2026 - South Peace News"
-        },
-        {
-          "title": "Houthi Leader Warns Israel Over Somaliland Plan",
-          "link": "https://diplomat.so/articles/1506/Houthi-Leader-Warns-Israel-Over-Somaliland-Plan",
-          "source": "diplomat.so",
-          "pubDate": "2026-06-26T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Houthi Leader Warns Israel Over Somaliland Plan"
-        },
-        {
-          "title": "Somalia , federalism and Jubaland",
-          "link": "https://www.thenewhumanitarian.org/analysis/2013/04/16/somalia-federalism-and-jubaland",
-          "source": "thenewhumanitarian.org",
-          "pubDate": "2026-06-25T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia , federalism and Jubaland"
-        },
-        {
-          "title": "Ethiopia is not being  dragged into war  | Opinions",
-          "link": "https://www.aljazeera.com/opinions/2026/6/25/ethiopia-is-not-being-dragged-into-war",
-          "source": "aljazeera.com",
-          "pubDate": "2026-06-25T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia is not being  dragged into war  | Opinions"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Caged Somalia : Can it be Liberated from a Demonic elite ?",
-          "link": "http://www.pambazuka.org/index.php/Caged-Somalia",
-          "source": "pambazuka.org",
-          "pubDate": "2026-07-10T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Caged Somalia : Can it be Liberated from a Demonic elite ?"
-        },
-        {
-          "title": "Ethiopian PM Says Sudan , Eritrea and TPLF Pose No Threat to Ethiopia",
-          "link": "https://allafrica.com/stories/202607100011.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-10T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopian PM Says Sudan , Eritrea and TPLF Pose No Threat to Ethiopia"
-        },
-        {
-          "title": "South Africa: Embassy Visit, Event-Snooping - South Africa 'Spy' Portia Anyamba's Secret U.S. Reports for Cash",
-          "link": "https://allafrica.com/stories/202607100045.html",
-          "description": "[Daily Maverick] Former SA Air Force brigadier general Portia 'Posh' Anyamba, who has been sentenced to jail in the United States for being a foreign agent for South Africa, was apparently paid to go to events and secretly report back to officials from this country. These and other accusations and admissions are contained in a plea agreement.",
-          "pubDate": "Fri, 10 Jul 2026 05:11:20 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "South Africa: Embassy Visit, Event-Snooping - South Africa 'Spy' Portia Anyamba's Secret U.S. Reports for Cash"
-        },
-        {
-          "title": "Essaouira Gnawa Festival Report 2026",
-          "link": "https://www.afropop.org/articles/essaouira-gnawa-festival-report-2026",
-          "source": "afropop.org",
-          "pubDate": "2026-07-10T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Essaouira Gnawa Festival Report 2026"
-        },
-        {
-          "title": "WSJ :  Fight Over Hormuz Boils Down to One Poorly Worded Clause in Trump Deal",
-          "link": "https://thenewamerican.com/world-news/middle-east/wsj-fight-over-hormuz-boils-down-to-one-poorly-worded-clause-in-trumps-deal/",
-          "source": "thenewamerican.com",
-          "pubDate": "2026-07-10T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "WSJ :  Fight Over Hormuz Boils Down to One Poorly Worded Clause in Trump Deal"
-        },
-        {
-          "title": "Dangote Kenya Refinery : Lamu Chosen for $17bn Plant",
-          "link": "https://www.riotimesonline.com/dangote-kenya-refinery-lamu-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-07-09T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dangote Kenya Refinery : Lamu Chosen for $17bn Plant"
-        },
-        {
-          "title": "Ethiopian PM says Sudan , Eritrea and TPLF pose no threat to Ethiopia",
-          "link": "https://www.dabangasudan.org/en/all-news/article/ethiopian-pm-says-sudan-eritrea-and-tplf-pose-no-threat-to-ethiopia",
-          "source": "dabangasudan.org",
-          "pubDate": "2026-07-09T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopian PM says Sudan , Eritrea and TPLF pose no threat to Ethiopia"
-        },
-        {
-          "title": "Loss of Haitians due to Supreme Court decision poised to hit ag and food industries",
-          "link": "https://www.agri-pulse.com/articles/24945-loss-of-haitians-due-to-supreme-court-decision-poised-to-hit-ag-and-food-industries",
-          "source": "agri-pulse.com",
-          "pubDate": "2026-07-09T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Loss of Haitians due to Supreme Court decision poised to hit ag and food industries"
-        },
-        {
-          "title": "Chaîne des Rôtisseurs Grand Chapitre of Portugal",
-          "link": "https://www.theportugalnews.com/news/2026-07-09/chaine-des-rotisseurs-grand-chapitre-of-portugal/1052738",
-          "source": "theportugalnews.com",
-          "pubDate": "2026-07-09T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Chaîne des Rôtisseurs Grand Chapitre of Portugal"
-        },
-        {
-          "title": "El Niño : How F & B will be impacted",
-          "link": "https://www.foodnavigator.com/Article/2026/07/07/el-nino-how-fb-will-be-impacted/",
-          "source": "foodnavigator.com",
-          "pubDate": "2026-07-09T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "El Niño : How F & B will be impacted"
-        },
-        {
-          "title": "El Niño : How F & B will be impacted",
-          "link": "https://www.dairyreporter.com/Article/2026/07/07/el-nino-how-fb-will-be-impacted/",
-          "source": "dairyreporter.com",
-          "pubDate": "2026-07-09T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "El Niño : How F & B will be impacted"
-        },
-        {
-          "title": "Sirens sound in Jordan , Kuwait and Bahrain as Iran launches missile , drone attacks",
-          "link": "https://www.jns.org/news/world/sirens-sound-in-jordan-kuwait-and-bahrain-as-iran-launches-missile-drone-attacks",
-          "source": "jns.org",
-          "pubDate": "2026-07-09T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sirens sound in Jordan , Kuwait and Bahrain as Iran launches missile , drone attacks"
-        },
-        {
-          "title": "The Great Green Wall was pitched in 2007 as an 8 , 000 - kilometre tree barrier but 15 years in , only about 4 % of the trees are actually in the ground",
-          "link": "https://spacedaily.com/sd-v-the-great-green-wall-was-pitched-in-2007-as-an-8-000-kilometre-tree-barrier-but-15-years-in-only-about-4-of-the-trees-are-actually-in-the-ground/",
-          "source": "spacedaily.com",
-          "pubDate": "2026-07-09T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Great Green Wall was pitched in 2007 as an 8 , 000 - kilometre tree barrier but 15 years in , only about 4 % of the trees are actually in the ground"
-        },
-        {
-          "title": "Kenya Foreign Investment Surges to Record High of Sh414 Billion : A Closer Look at Economic Growth Drivers – Ghanamma . com",
-          "link": "https://www.ghanamma.com/2026/07/09/kenyas-foreign-investment-surges-to-record-high-of-sh414-billion-a-closer-look-at-economic-growth-drivers/",
-          "source": "ghanamma.com",
-          "pubDate": "2026-07-09T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kenya Foreign Investment Surges to Record High of Sh414 Billion : A Closer Look at Economic Growth Drivers – Ghanamma . com"
-        },
-        {
-          "title": "African Development Bank Brokers Zambia Debt - for - Energy Swap",
-          "link": "https://foreignpolicy.com/2026/07/08/zambia-debt-swap-economics-energy-power-copper/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-07-08T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African Development Bank Brokers Zambia Debt - for - Energy Swap"
-        },
-        {
-          "title": "Controversies surrounding Royal Dutch Shell – Royal Dutch Shell Plc . com",
-          "link": "https://royaldutchshellplc.com/2010/09/27/controversies-surrounding-royal-dutch-shell-2/",
-          "source": "royaldutchshellplc.com",
-          "pubDate": "2026-07-08T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Controversies surrounding Royal Dutch Shell – Royal Dutch Shell Plc . com"
-        },
-        {
-          "title": "Ethiopia : How the Defunct TPLF Moved From Economic Sabotage to the Trafficking of Tigray Youth ?",
-          "link": "https://allafrica.com/stories/202607080664.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-08T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : How the Defunct TPLF Moved From Economic Sabotage to the Trafficking of Tigray Youth ?"
-        },
-        {
-          "title": "East Africa : Ethiopia MPs Directing Queries to Prime Minister Abiy",
-          "link": "https://allafrica.com/stories/202607080603.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-08T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa : Ethiopia MPs Directing Queries to Prime Minister Abiy"
-        },
         {
           "title": "Ambassador Davoli signed a cooperation agreement with the Court of Auditors of Ecuador",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/08/ambassador-davoli-signed-a-cooperation-agreement-with-the-court-of-auditors-of-ecuador_536a769f-a099-49a2-b249-9b92d104e986.html",
@@ -411,193 +51,66 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Italy supports the training of Ecuadorian legal officials"
+        },
+        {
+          "title": "Spain bad, Italy good, beyond minor disagreements NATO united says Trump",
+          "link": "https://www.ansa.it/english/news/2026/07/08/spain-bad-italy-good-beyond-minor-disagreements-nato-united-says_8854a5d8-d7d5-4a33-b1d0-b5805e374bf5.html",
+          "description": "(ANSA) - ROME, JUL 8 - Spain has been bad while Italy has been good and NATO as a whole has been good despite minor disagreements with the United States, President Donald Trump said after a summit in Ankara on Wednesday. \"Spain was bad, Italy was good, and almost everyone was good; they had a bad moment,\" he said referring to lack of support for the Iran war. \"Beyond minor disagreements, we love each other.\" The president then reaffirmed the unity within NATO: \"I've never seen anything like it.\" (ANSA). Read article...",
+          "pubDate": "Wed, 8 Jul 2026 18:58:10 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Spain bad, Italy good, beyond minor disagreements NATO united says Trump"
+        },
+        {
+          "title": "Spain bad, Italy good, beyond minor disagreements NATO united says Trump",
+          "link": "https://www.ansa.it/english/news/world/2026/07/08/spain-bad-italy-good-beyond-minor-disagreements-nato-united-says_ab475e25-721b-4613-9ad4-27467822e98d.html",
+          "description": "(ANSA) - ROME, JUL 8 - Spain has been bad while Italy has been good and NATO as a whole has been good despite minor disagreements with the United States, President Donald Trump said after a summit in Ankara on Wednesday. \"Spain was bad, Italy was good, and almost everyone was good; they had a bad moment,\" he said referring to lack of support for the Iran war. \"Beyond minor disagreements, we love each other.\" The president then reaffirmed the unity within NATO: \"I've never seen anything like it.\" (ANSA). Read article...",
+          "pubDate": "Wed, 8 Jul 2026 18:58:10 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Spain bad, Italy good, beyond minor disagreements NATO united says Trump"
+        },
+        {
+          "title": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Information",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/08/somalia-ambassador-dacco-coppi-meets-with-the-minister-of-information_02f59c2f-acaf-4de8-9301-8e267cbce33c.html",
+          "description": "(ANSA) - NAIROBI, 08 LUG - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with the Somali Minister of Information, Culture, and Tourism, Abdifatah Qasim, with whom he visited the National Theater and the headquarters of Somali state radio and television. The National Theater is a building dating back to the 1960s that retains considerable architectural value within Mogadishu’s urban landscape and serves as a cultural landmark that the authorities hope to revitalize and promote after more than 35 years of inactivity. Minister Qasim emphasized the importance of cultural promotion",
+          "pubDate": "Wed, 8 Jul 2026 18:40:12 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Information"
+        },
+        {
+          "title": "In Ukraine, Italy is investing in the future and in the health of mothers and children",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/08/in-ukraine-italy-is-investing-in-the-future-and-in-the-health-of-mothers-and_e3bb55b0-8467-4a9e-b14c-b16217df8752.html",
+          "description": "(ANSA) - ROMA, 08 LUG - Every child born in Ukraine represents a promise for the future. Ensuring they receive quality care, from the very first days of life—even in the context of war—means contributing not only to saving lives but also to laying the foundations for the country’s recovery. This is the vision that inspires Italy’s commitment to supporting the Ukrainian healthcare system. At the international conference *“Neonatal Care in War-Torn Ukraine”*, organized by CUAMM – Doctors with Africa in Odessa, Italy reaffirmed that maternal and child health is a strategic priority in its coopera",
+          "pubDate": "Wed, 8 Jul 2026 16:30:07 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "In Ukraine, Italy is investing in the future and in the health of mothers and children"
+        },
+        {
+          "title": "Govt parties present bills to boost repatriations, tighten rules on citizenship",
+          "link": "https://www.ansa.it/english/news/politics/2026/07/08/govt-parties-present-bills-to-boost-repatriations-tighten-rules-on-citizenship_a352b53f-cbaf-4d54-b686-b90be67cde2c.html",
+          "description": "(ANSA) - ROME, JUL 8 - Premier Giorgia Meloni's right-wing Brothers of Italy (FdI) party and Deputy Premier and Transport Minister Matteo Salvini's right-wing League party have presented bills in parliament to make it easier for Italy to send migrants back to their countries of origin and tighten the rules on Italian citizenship. Under a bill presented by FdI, all non-EU nationals given prison terms of more than one year will be deported to their home countries via bilateral agreements to be negotiated with those countries. FdI House whip Galeazzo Bignami said the crackdown was made possible b",
+          "pubDate": "Wed, 8 Jul 2026 14:16:42 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Govt parties present bills to boost repatriations, tighten rules on citizenship"
+        },
+        {
+          "title": "Govt parties present bills to boost repatriations, tighten rules on citizenship",
+          "link": "https://www.ansa.it/english/news/2026/07/08/govt-parties-present-bills-to-boost-repatriations-tighten-rules-on-citizenship_f63d2373-c880-4cbd-ac16-ead57bfad11c.html",
+          "description": "(ANSA) - ROME, JUL 8 - Premier Giorgia Meloni's right-wing Brothers of Italy (FdI) party and Deputy Premier and Transport Minister Matteo Salvini's right-wing League party have presented bills in parliament to make it easier for Italy to send migrants back to their countries of origin and tighten the rules on Italian citizenship. Under a bill presented by FdI, all non-EU nationals given prison terms of more than one year will be deported to their home countries via bilateral agreements to be negotiated with those countries. FdI House whip Galeazzo Bignami said the crackdown was made possible b",
+          "pubDate": "Wed, 8 Jul 2026 14:02:15 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Govt parties present bills to boost repatriations, tighten rules on citizenship"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Today . Az - Ankara Africa strategy lifts exports to record first half",
-          "link": "http://today.az/news/regions/268835.html",
-          "source": "today.az",
-          "pubDate": "2026-07-10T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Today . Az - Ankara Africa strategy lifts exports to record first half"
-        },
-        {
-          "title": "Is Iran Dragging America Into A Long War ?",
-          "link": "https://kashmirlife.net/is-iran-dragging-america-into-a-long-war-442458/",
-          "source": "kashmirlife.net",
-          "pubDate": "2026-07-10T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Is Iran Dragging America Into A Long War ?"
-        },
-        {
-          "title": "Range Financial Group LLC Lowers Holdings in APA Corporation $APA",
-          "link": "https://www.themarketsdaily.com/2026/07/10/range-financial-group-llc-lowers-holdings-in-apa-corporation-apa.html",
-          "source": "themarketsdaily.com",
-          "pubDate": "2026-07-10T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Range Financial Group LLC Lowers Holdings in APA Corporation $APA"
-        },
-        {
-          "title": "Nigeria Ranks Africa First On Global AI Ranking Index",
-          "link": "https://leadership.ng/nigeria-ranks-africas-first-on-global-ai-ranking-index/",
-          "source": "leadership.ng",
-          "pubDate": "2026-07-10T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nigeria Ranks Africa First On Global AI Ranking Index"
-        },
-        {
-          "title": "Transforming Egypt Economy through Petrochemicals : Minister Badawi Unveils Major Projects",
-          "link": "https://meobserver.org/business-economix/industry-insights/2024/09/25/transforming-egypts-economy-through-petrochemicals-minister-badawi-unveils-major-projects/",
-          "source": "meobserver.org",
-          "pubDate": "2026-07-10T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Transforming Egypt Economy through Petrochemicals : Minister Badawi Unveils Major Projects"
-        },
-        {
-          "title": "MSMEDA & Banque Misr Launch LE 500 Million Microfinance Programme",
-          "link": "https://cairoscene.com/Business/MSMEDA-Banque-Misr-Launch-LE-500-Million-Microfinance-Programme",
-          "source": "cairoscene.com",
-          "pubDate": "2026-07-10T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "MSMEDA & Banque Misr Launch LE 500 Million Microfinance Programme"
-        },
-        {
-          "title": "Egypt elevates crisis command amid mounting regional threats",
-          "link": "https://www.middle-east-online.com/en/egypt-elevates-crisis-command-amid-mounting-regional-threats",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-10T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt elevates crisis command amid mounting regional threats"
-        },
-        {
-          "title": "Mbappe , Dembele fire France past Morocco into World Cup semi - finals",
-          "link": "https://www.bssnews.net/news-flash/404200",
-          "source": "bssnews.net",
-          "pubDate": "2026-07-10T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mbappe , Dembele fire France past Morocco into World Cup semi - finals"
-        },
-        {
-          "title": "The Nightmare Is Repeating Itself : Filmmaker Julia Steers On Sudan War From El Fasher To El Obeid",
-          "link": "https://www.scoop.co.nz/stories/WO2607/S00107/the-nightmare-is-repeating-itself-filmmaker-julia-steers-on-sudan-war-from-el-fasher-to-el-obeid.htm",
-          "source": "scoop.co.nz",
-          "pubDate": "2026-07-10T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Nightmare Is Repeating Itself : Filmmaker Julia Steers On Sudan War From El Fasher To El Obeid"
-        },
-        {
-          "title": "Despite Trump wishes , Iran is dragging the US into a long war - 10 - Jul - 2026",
-          "link": "https://home.nzcity.co.nz/news/article.aspx?id=449628&fm=psp,tsf",
-          "source": "home.nzcity.co.nz",
-          "pubDate": "2026-07-10T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Despite Trump wishes , Iran is dragging the US into a long war - 10 - Jul - 2026"
-        },
-        {
-          "title": "Despite Trump wishes , Iran is dragging the US into a long war - 10 - Jul - 2026",
-          "link": "https://home.nzcity.co.nz/news/article.aspx?id=449628&fm=psp,tst",
-          "source": "home.nzcity.co.nz",
-          "pubDate": "2026-07-10T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Despite Trump wishes , Iran is dragging the US into a long war - 10 - Jul - 2026"
-        },
-        {
-          "title": "Legends in tears - The Hindu",
-          "link": "https://www.thehindu.com/newsletter/fifa/legends-in-tears/article71205294.ece",
-          "source": "thehindu.com",
-          "pubDate": "2026-07-10T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Legends in tears - The Hindu"
-        },
-        {
-          "title": "What is next for the Gulf ?",
-          "link": "https://asianews.network/what-is-next-for-the-gulf/",
-          "source": "asianews.network",
-          "pubDate": "2026-07-10T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "What is next for the Gulf ?"
-        },
-        {
-          "title": "Despite Trump wishes , Iran is dragging the US into a long war - 10 - Jul - 2026",
-          "link": "https://home.nzcity.co.nz/news/article.aspx?id=449628",
-          "source": "home.nzcity.co.nz",
-          "pubDate": "2026-07-10T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Despite Trump wishes , Iran is dragging the US into a long war - 10 - Jul - 2026"
-        },
-        {
-          "title": "Steady in the Storm : How India Navigates Oil Shock , Middle East Turmoil and Energy Security Challenges",
-          "link": "https://openthemagazine.com/world/steady-in-the-storm-india-navigates-oil-shock-and-an-uncertain-middle-east",
-          "source": "openthemagazine.com",
-          "pubDate": "2026-07-10T04:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Steady in the Storm : How India Navigates Oil Shock , Middle East Turmoil and Energy Security Challenges"
-        },
-        {
-          "title": "Maersk and Hapag - Lloyd Signal Suez Canal Recovery as Confidence Gradually Returns",
-          "link": "https://meobserver.org/ports/2026/07/07/maersk-and-hapag-lloyd-signal-suez-canal-recovery-as-confidence-gradually-returns/",
-          "source": "meobserver.org",
-          "pubDate": "2026-07-10T04:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Maersk and Hapag - Lloyd Signal Suez Canal Recovery as Confidence Gradually Returns"
-        },
-        {
-          "title": "New attacks raise questions about what comes next in the Iran war",
-          "link": "https://www.newdelhitimes.com/new-attacks-raise-questions-about-what-comes-next-in-the-iran-war/",
-          "source": "newdelhitimes.com",
-          "pubDate": "2026-07-10T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "New attacks raise questions about what comes next in the Iran war"
-        },
-        {
-          "title": "FIFA World Cup 2026 : Archbishop invokes Messi words ahead of Switzerland clash",
-          "link": "http://www.caribbeanherald.com/news/279177904/fifa-world-cup-2026-archbishop-invokes-messi-words-ahead-of-switzerland-clash",
-          "source": "caribbeanherald.com",
-          "pubDate": "2026-07-10T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "FIFA World Cup 2026 : Archbishop invokes Messi words ahead of Switzerland clash"
-        },
-        {
-          "title": "Colombia Resets Foreign Policy With Omar Bula as Incoming Foreign Minister",
-          "link": "https://thecitypaperbogota.com/news/colombia-resets-foreign-policy-with-omar-bula-as-incoming-foreign-minister/",
-          "source": "thecitypaperbogota.com",
-          "pubDate": "2026-07-10T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Colombia Resets Foreign Policy With Omar Bula as Incoming Foreign Minister"
-        },
-        {
-          "title": "FIFA World Cup 2026 : Archbishop invokes Messi words ahead of Switzerland clash",
-          "link": "http://www.brazilsun.com/news/279177904/fifa-world-cup-2026-archbishop-invokes-messi-words-ahead-of-switzerland-clash",
-          "source": "brazilsun.com",
-          "pubDate": "2026-07-10T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "FIFA World Cup 2026 : Archbishop invokes Messi words ahead of Switzerland clash"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
@@ -610,177 +123,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "South Sudan: Fifteen Years of Independence for South Sudan, but Still Little to Celebrate"
-        },
-        {
-          "title": "Egypt: Ahead of Appeal Ruling, CPJ and Partners Call On Egypt to Release Ahmed Douma",
-          "link": "https://allafrica.com/stories/202607100039.html",
-          "description": "[CPJ] In a joint statement, the Committee to Protect Journalists joined several press freedom and human rights organizations on Thursday, urging Egyptian authorities to immediately and unconditionally release political writer Ahmed Douma.",
-          "pubDate": "Fri, 10 Jul 2026 05:07:47 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Egypt: Ahead of Appeal Ruling, CPJ and Partners Call On Egypt to Release Ahmed Douma"
-        },
-        {
-          "title": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?",
-          "link": "https://allafrica.com/stories/202607060020.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-06T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?"
-        },
-        {
-          "title": "Ethiopia New Blue Nile Dams Rattle Egypt",
-          "link": "https://www.riotimesonline.com/ethiopia-blue-nile-dams-egypt-water-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-06-27T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia New Blue Nile Dams Rattle Egypt"
-        },
-        {
-          "title": "Ethiopia Leap Into the Future",
-          "link": "https://allafrica.com/stories/202606250254.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Leap Into the Future"
-        },
-        {
-          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
-          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
-          "source": "zawya.com",
-          "pubDate": "2026-06-25T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
-        },
-        {
-          "title": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped",
-          "link": "https://www.engineeringnews.co.za/article/africa-adds-42-gw-new-hydropower-in-2025-only-10-of-hydropower-resources-being-tapped-2026-06-24",
-          "source": "engineeringnews.co.za",
-          "pubDate": "2026-06-24T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped"
-        },
-        {
-          "title": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy",
-          "link": "https://allafrica.com/stories/202606240040.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-24T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy"
-        },
-        {
-          "title": "Pumped Storage Additions Lead Global Hydropower Growth",
-          "link": "https://www.powermag.com/pumped-storage-additions-lead-global-hydropower-growth/",
-          "source": "powermag.com",
-          "pubDate": "2026-06-24T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
-        },
-        {
-          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
-          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
-          "source": "dw.com",
-          "pubDate": "2026-06-21T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
-        },
-        {
-          "title": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA",
-          "link": "https://www.thereporterethiopia.com/51290/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-20T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA"
-        },
-        {
-          "title": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?",
-          "link": "https://english.aawsat.com/arab-world/5286082-trumps-pledge-intervene-can-it-break-deadlock-ethiopian-renaissance-dam-crisis",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-06-19T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?"
-        },
-        {
-          "title": "Ethiopia : Tale of Two Ethiopias",
-          "link": "https://allafrica.com/stories/202606180628.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-19T00:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Tale of Two Ethiopias"
-        },
-        {
-          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
-          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-06-18T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
-        },
-        {
-          "title": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity",
-          "link": "https://larouchepub.com/other/2026/5324-ethiopia_the_uncolonized_indep.html",
-          "source": "larouchepub.com",
-          "pubDate": "2026-06-17T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity"
-        },
-        {
-          "title": "Trump Backs Egypt in Nile Dam Row",
-          "link": "https://chimpreports.com/trump-backs-egypt-in-nile-dam-row/",
-          "source": "chimpreports.com",
-          "pubDate": "2026-06-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Backs Egypt in Nile Dam Row"
-        },
-        {
-          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
-          "link": "http://www.idahostatejournal.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_c980aa94-a108-54fb-9ffa-e490dbc13918.html",
-          "source": "idahostatejournal.com",
-          "pubDate": "2026-06-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
-        },
-        {
-          "title": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy",
-          "link": "https://www.garoweonline.com/en/opinions/beyond-planting-how-ethiopia-s-green-legacy-initiative-is-reshaping-society-economy-and-diplomacy",
-          "source": "garoweonline.com",
-          "pubDate": "2026-06-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BEYOND PLANTING : How Ethiopia Green Legacy Initiative is Reshaping Society , Economy , and Diplomacy"
-        },
-        {
-          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
-          "link": "http://www.postregister.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_5823212b-9bc9-5415-a72d-53c1e7302dfc.html",
-          "source": "postregister.com",
-          "pubDate": "2026-06-17T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
-        },
-        {
-          "title": "Trump Raises Nile Dam Dispute in Egypt Talks",
-          "link": "https://www.newkerala.com/news/a/trump-raises-nile-dispute-talks-egypt-919.htm",
-          "source": "newkerala.com",
-          "pubDate": "2026-06-17T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Raises Nile Dam Dispute in Egypt Talks"
         }
       ]
     }
