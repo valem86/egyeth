@@ -1,38 +1,11 @@
 {
-  "generatedAt": "2026-07-12T19:35:00.677Z",
+  "generatedAt": "2026-07-12T21:10:03.549Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Egitto: porto di East Port Said riceve nave con 173 mila tonnellate di minerale di ferro dalla Mauritania (2)",
-          "link": "https://www.agenzianova.com/a/6a53ec622a39d4.84523767/7597857/2026-07-12/egitto-porto-di-east-port-said-riceve-nave-con-173-mila-tonnellate-di-minerale-di-ferro-dalla-mauritania-2",
-          "description": "12 lug 18:17 - (Agenzia Nova) - Ad aprile scorso la Mv Paroship, anch'essa proveniente dalla Mauritania, aveva trasportato 180 mila tonnellate... (Cae)",
-          "pubDate": "2026-07-12T18:17:02+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: porto di East Port Said riceve nave con 173 mila tonnellate di minerale di ferro dalla Mauritania (2)"
-        },
-        {
-          "title": "Egitto: porto di East Port Said riceve nave con 173 mila tonnellate di minerale di ferro dalla Mauritania",
-          "link": "https://www.agenzianova.com/a/6a53ec622a9622.37937891/7597855/2026-07-12/egitto-porto-di-east-port-said-riceve-nave-con-173-mila-tonnellate-di-minerale-di-ferro-dalla-mauritania",
-          "description": "12 lug 18:17 - (Agenzia Nova) - Il porto egiziano di East Port Said, in Egitto, ha accolto la nave portarinfuse Genco Lion, giunta dalla Mauritania... (Cae)",
-          "pubDate": "2026-07-12T18:17:02+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: porto di East Port Said riceve nave con 173 mila tonnellate di minerale di ferro dalla Mauritania"
-        },
-        {
-          "title": "Egitto-Turchia: ministro Difesa Zaher in visita ad Ankara per rafforzare cooperazione militare",
-          "link": "https://www.agenzianova.com/a/6a53ec622ace58.49677192/7597858/2026-07-12/egitto-turchia-ministro-difesa-zaher-in-visita-ad-ankara-per-rafforzare-cooperazione-militare",
-          "description": "12 lug 18:16 - (Agenzia Nova) - Il ministro egiziano della Difesa e della Produzione militare, generale Ashraf Salem Zaher, e' partito per... (Cae)",
-          "pubDate": "2026-07-12T18:16:24+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto-Turchia: ministro Difesa Zaher in visita ad Ankara per rafforzare cooperazione militare"
-        },
         {
           "title": "Egypt receive a warm welcome home",
           "link": "https://www.bbc.co.uk/sport/videos/ce8jlv22r6vo?at_medium=RSS&at_campaign=rss",
@@ -290,188 +263,7 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Archaeologists uncover 3 , 000 - year - old tomb near Egypt Luxor",
-          "link": "https://www.geo.tv/latest/672756-archaeologists-uncover-3000-year-old-tomb-near-egypts-luxor",
-          "source": "geo.tv",
-          "pubDate": "2026-07-12T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Archaeologists uncover 3 , 000 - year - old tomb near Egypt Luxor"
-        },
-        {
-          "title": "The making of Israel retreat into isolation",
-          "link": "https://www.thehindu.com/opinion/op-ed/the-making-of-israels-retreat-into-isolation/article71214521.ece",
-          "source": "thehindu.com",
-          "pubDate": "2026-07-12T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The making of Israel retreat into isolation"
-        },
-        {
-          "title": "Transcript : Rahm Emanuel on  Face the Nation with Margaret Brennan , July 12 , 2026",
-          "link": "https://www.cbsnews.com/news/rahm-emanuel-face-the-nation-transcript-07-12-2026/",
-          "source": "cbsnews.com",
-          "pubDate": "2026-07-12T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Transcript : Rahm Emanuel on  Face the Nation with Margaret Brennan , July 12 , 2026"
-        },
-        {
-          "title": "OIC Ministerial Conference on Women begins in Islamabad",
-          "link": "https://www.radio.gov.pk/12-07-2026/9th-oic-ministerial-conference-on-women-begins-in-islamabad",
-          "source": "radio.gov.pk",
-          "pubDate": "2026-07-12T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "OIC Ministerial Conference on Women begins in Islamabad"
-        },
-        {
-          "title": "World leaders offer condolences to Qatar over the death of Father Amir",
-          "link": "https://www.qatar-tribune.com/article/244005/latest-news/world-leaders-offer-condolences-to-qatar-over-the-death-of-father-amir",
-          "source": "qatar-tribune.com",
-          "pubDate": "2026-07-12T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "World leaders offer condolences to Qatar over the death of Father Amir"
-        },
-        {
-          "title": "Ruler Who Modernized Qatar , Then Turned Over Power , Dies",
-          "link": "https://www.newser.com/story/392681/ruler-who-modernized-qatar-then-turned-over-power-dies.html",
-          "source": "newser.com",
-          "pubDate": "2026-07-12T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ruler Who Modernized Qatar , Then Turned Over Power , Dies"
-        },
-        {
-          "title": "Egypt wins off the field , as World Cup heightens tourist appetite",
-          "link": "https://www.egyptindependent.com/egypt-wins-off-the-field-as-world-cup-heightens-tourist-appetite/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-07-12T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt wins off the field , as World Cup heightens tourist appetite"
-        },
-        {
-          "title": "Messi and Argentina survive another close call to reach the World Cup semifinals",
-          "link": "https://www.ideastream.org/npr-news/2026-07-11/messi-and-argentina-survive-another-close-call-to-reach-the-world-cup-semifinals",
-          "source": "ideastream.org",
-          "pubDate": "2026-07-12T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Messi and Argentina survive another close call to reach the World Cup semifinals"
-        },
-        {
-          "title": "China pushes African nations to repay debt in yuan ; missile launch in South Pacific raises geopolitical concerns",
-          "link": "https://www.ibtimes.co.in/china-pushes-african-nations-repay-debt-yuan-missile-launch-south-pacific-raises-geopolitical-903798",
-          "source": "ibtimes.co.in",
-          "pubDate": "2026-07-12T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China pushes African nations to repay debt in yuan ; missile launch in South Pacific raises geopolitical concerns"
-        },
-        {
-          "title": "Latest Articles",
-          "link": "https://freerepublic.com/tag/*/index?more=4387663",
-          "source": "freerepublic.com",
-          "pubDate": "2026-07-12T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Latest Articles"
-        },
-        {
-          "title": "How Sheikh Hamad built influence that transformed Qatar into a Middle East power",
-          "link": "http://www.jpost.com/middle-east/article-902243",
-          "source": "jpost.com",
-          "pubDate": "2026-07-12T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How Sheikh Hamad built influence that transformed Qatar into a Middle East power"
-        },
-        {
-          "title": "Messi and Argentina survive another close call to reach the World Cup semifinals",
-          "link": "https://www.nhpr.org/national/2026-07-11/messi-and-argentina-survive-another-close-call-to-reach-the-world-cup-semifinals",
-          "source": "nhpr.org",
-          "pubDate": "2026-07-12T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Messi and Argentina survive another close call to reach the World Cup semifinals"
-        },
-        {
-          "title": "Demography is Destiny : Why India population trends matter",
-          "link": "https://avenuemail.in/demography-is-destiny-why-indias-population-trends-matter/",
-          "source": "avenuemail.in",
-          "pubDate": "2026-07-12T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Demography is Destiny : Why India population trends matter"
-        },
-        {
-          "title": "Mediators call for parley amid re - escalation in Middle East - Newspaper",
-          "link": "https://www.dawn.com/news/2014543/mediators-call-for-parley-amid-re-escalation-in-middle-east",
-          "source": "dawn.com",
-          "pubDate": "2026-07-12T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mediators call for parley amid re - escalation in Middle East - Newspaper"
-        },
-        {
-          "title": "What The  70s Oil Crisis Can Teach Us About Living Through Fuel Shortages",
-          "link": "https://www.jalopnik.com/2212267/what-1970s-oil-crisis-teaches-us-about-fuel-shortages/",
-          "source": "jalopnik.com",
-          "pubDate": "2026-07-12T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "What The  70s Oil Crisis Can Teach Us About Living Through Fuel Shortages"
-        },
-        {
-          "title": "How to holiday like high society ! Tatler reveals socialite chicest getaway homes - including the Rothschild Greek chateau and the Guinness family Italian oasis",
-          "link": "https://www.dailymail.com/news/royals/article-15944527/How-holiday-like-high-society-Tatler-reveals-socialites-chicest-getaway-homes-including-Rothschilds-Greek-chateau-Guinness-familys-Italian-oasis.html",
-          "source": "dailymail.com",
-          "pubDate": "2026-07-12T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How to holiday like high society ! Tatler reveals socialite chicest getaway homes - including the Rothschild Greek chateau and the Guinness family Italian oasis"
-        },
-        {
-          "title": "Managing Editor",
-          "link": "https://gcaptain.com/author/mike/",
-          "source": "gcaptain.com",
-          "pubDate": "2026-07-12T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Managing Editor"
-        },
-        {
-          "title": "Ask Dr . Scott : Sweltering Europe suffers heat illnesses , while rejecting American - style air conditioning",
-          "link": "https://www.dailyrepublic.com/lifestyle/ask-dr-scott-sweltering-europe-suffers-heat-illnesses-while-rejecting-american-style-air-conditioning/article_908d7488-a403-4949-b409-928c9c0ba663.html",
-          "source": "dailyrepublic.com",
-          "pubDate": "2026-07-12T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ask Dr . Scott : Sweltering Europe suffers heat illnesses , while rejecting American - style air conditioning"
-        },
-        {
-          "title": "Scholar Says Africa Nears Digital Tipping Point",
-          "link": "https://www.newsghana.com.gh/scholar-says-africa-nears-digital-tipping-point/",
-          "source": "newsghana.com.gh",
-          "pubDate": "2026-07-12T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Scholar Says Africa Nears Digital Tipping Point"
-        },
-        {
-          "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies : Reactions - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-reactions/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-07-12T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies : Reactions - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
@@ -493,15 +285,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: Senator Sanders Statement on Civil War and Genocide in Sudan"
-        },
-        {
-          "title": "South Sudan: Fifteen Years of Independence for South Sudan, but Still Little to Celebrate",
-          "link": "https://allafrica.com/stories/202607100141.html",
-          "description": "[RFI] South Sudan, the world's youngest country, on Thursday marks the 15th anniversary of its independence, following decades of war with Sudan, a 2005 peace agreement and a 2011 self-determination referendum in which almost 99 percent of voters backed statehood. But the hopes that came with it have given way to renewed conflict, economic collapse and political deadlock.",
-          "pubDate": "Fri, 10 Jul 2026 08:11:28 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "South Sudan: Fifteen Years of Independence for South Sudan, but Still Little to Celebrate"
         }
       ]
     }
