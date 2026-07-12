@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T11:47:53.302Z",
+  "generatedAt": "2026-07-12T13:59:37.053Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -7,13 +7,13 @@
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Crema: De Corato (Fd'I), 19enne ucciso a coltellate, applicare Decreto sicurezza",
-          "link": "https://www.agenzianova.com/a/6a537ee4da1992.34945432/7597560/2026-07-12/crema-de-corato-fd-i-19enne-ucciso-a-coltellate-applicare-decreto-sicurezza",
-          "description": "12 lug 12:56 - (Agenzia Nova) - \"Apprendo con sconcerto che un egiziano di soli 19 anni e' stato accoltellato a morte a Crema nella notte.... (Com)",
-          "pubDate": "2026-07-12T12:56:57+02:00",
+          "title": "Arabia Saudita: fonti, Riad finanzia programma di addestramento di 5 mila somali (3)",
+          "link": "https://www.agenzianova.com/a/6a539dc4a131c8.96222064/7597740/2026-07-12/arabia-saudita-fonti-riad-finanzia-programma-di-addestramento-di-5-mila-somali-3",
+          "description": "12 lug 15:50 - (Agenzia Nova) - Le fonti che hanno diffuso le accuse esprimono infine timori per le possibili conseguenze sulla sicurezza del... (Suk)",
+          "pubDate": "2026-07-12T15:50:06+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Crema: De Corato (Fd'I), 19enne ucciso a coltellate, applicare Decreto sicurezza"
+          "titleIt": "Arabia Saudita: fonti, Riad finanzia programma di addestramento di 5 mila somali (3)"
         },
         {
           "title": "Egypt receive a warm welcome home",
@@ -88,6 +88,15 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ethiopia: Ethiopian PM Says Sudan, Eritrea and TPLF Pose No Threat to Ethiopia",
+          "link": "https://allafrica.com/stories/202607100011.html",
+          "description": "[Dabanga] Addis Ababa / Khartoum -- Ethiopian Prime Minister Abiy Ahmed has dismissed concerns over an alleged alliance between Sudan, Eritrea and the Tigray People's Liberation Front (TPLF), insisting the grouping poses no threat to Ethiopia's sovereignty.",
+          "pubDate": "Fri, 10 Jul 2026 04:53:36 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopian PM Says Sudan, Eritrea and TPLF Pose No Threat to Ethiopia"
+        },
         {
           "title": "Ambassador Davoli signed a cooperation agreement with the Court of Auditors of Ecuador",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/08/ambassador-davoli-signed-a-cooperation-agreement-with-the-court-of-auditors-of-ecuador_536a769f-a099-49a2-b249-9b92d104e986.html",
@@ -170,6 +179,51 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
+          "title": "Sudan: Ue \"allarmata\" da situazione a El Obeid, cessare assedio e riprendere negoziati",
+          "link": "https://www.agenzianova.com/a/6a539dc4a1a8e8.38311576/7597711/2026-07-12/sudan-ue-allarmata-da-situazione-a-el-obeid-cessare-assedio-e-riprendere-negoziati",
+          "description": "12 lug 15:41 - (Agenzia Nova) - L'Unione europea (Ue) si e' detta \"seriamente allarmata\" dalla situazione nella citta' sudanese di El Obeid,... (Suk)",
+          "pubDate": "2026-07-12T15:41:34+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Sudan: Ue \"allarmata\" da situazione a El Obeid, cessare assedio e riprendere negoziati"
+        },
+        {
+          "title": "Ethiopia , Kenya ink electricity supply deal",
+          "link": "https://capitalfm.africa/ethiopia-kenya-ink-electricity-supply-deal/",
+          "source": "capitalfm.africa",
+          "pubDate": "2026-07-12T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia , Kenya ink electricity supply deal"
+        },
+        {
+          "title": "Ethiopia , Kenya ink electricity supply deal amid expanding regional energy connectivity - Xinhua",
+          "link": "https://english.news.cn/20260711/d33f5fbca80e4daf9a3b4f313a9ea59e/c.html",
+          "source": "english.news.cn",
+          "pubDate": "2026-07-11T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia , Kenya ink electricity supply deal amid expanding regional energy connectivity - Xinhua"
+        },
+        {
+          "title": "Ethiopia Pan - African Blueprint : Sovereignty , Solidarity , And Sustainability",
+          "link": "https://www.thereporterethiopia.com/51760/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-11T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Pan - African Blueprint : Sovereignty , Solidarity , And Sustainability"
+        },
+        {
+          "title": "You cant pause the IWT",
+          "link": "https://www.geo.tv/latest/672562-you-cant-pause-the-iwt",
+          "source": "geo.tv",
+          "pubDate": "2026-07-11T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "You cant pause the IWT"
+        },
+        {
           "title": "South Sudan: South Sudan - UN Acts Ahead of Drought to Protect Thousands",
           "link": "https://allafrica.com/stories/202607100565.html",
           "description": "[UN News] As drought risk intensifies in South Sudan's Eastern Equatoria state, a new UN-backed plan aims to protect thousands of people before the worst impacts take hold.",
@@ -177,6 +231,132 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "South Sudan: South Sudan - UN Acts Ahead of Drought to Protect Thousands"
+        },
+        {
+          "title": "Sudan: Senator Sanders Statement on Civil War and Genocide in Sudan",
+          "link": "https://allafrica.com/stories/202607100564.html",
+          "description": "[United States Senate] Burlington, VT -- Sen. Bernie Sanders (I-Vt.) today released the following statement:",
+          "pubDate": "Fri, 10 Jul 2026 23:15:46 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Senator Sanders Statement on Civil War and Genocide in Sudan"
+        },
+        {
+          "title": "South Sudan: Fifteen Years of Independence for South Sudan, but Still Little to Celebrate",
+          "link": "https://allafrica.com/stories/202607100141.html",
+          "description": "[RFI] South Sudan, the world's youngest country, on Thursday marks the 15th anniversary of its independence, following decades of war with Sudan, a 2005 peace agreement and a 2011 self-determination referendum in which almost 99 percent of voters backed statehood. But the hopes that came with it have given way to renewed conflict, economic collapse and political deadlock.",
+          "pubDate": "Fri, 10 Jul 2026 08:11:28 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "South Sudan: Fifteen Years of Independence for South Sudan, but Still Little to Celebrate"
+        },
+        {
+          "title": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?",
+          "link": "https://allafrica.com/stories/202607060020.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-06T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?"
+        },
+        {
+          "title": "Ethiopia New Blue Nile Dams Rattle Egypt",
+          "link": "https://www.riotimesonline.com/ethiopia-blue-nile-dams-egypt-water-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-06-27T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia New Blue Nile Dams Rattle Egypt"
+        },
+        {
+          "title": "Ethiopia Leap Into the Future",
+          "link": "https://allafrica.com/stories/202606250254.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Leap Into the Future"
+        },
+        {
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
+        },
+        {
+          "title": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped",
+          "link": "https://www.engineeringnews.co.za/article/africa-adds-42-gw-new-hydropower-in-2025-only-10-of-hydropower-resources-being-tapped-2026-06-24",
+          "source": "engineeringnews.co.za",
+          "pubDate": "2026-06-24T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped"
+        },
+        {
+          "title": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy",
+          "link": "https://allafrica.com/stories/202606240040.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-24T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy"
+        },
+        {
+          "title": "Pumped Storage Additions Lead Global Hydropower Growth",
+          "link": "https://www.powermag.com/pumped-storage-additions-lead-global-hydropower-growth/",
+          "source": "powermag.com",
+          "pubDate": "2026-06-24T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
+        },
+        {
+          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
+          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
+          "source": "dw.com",
+          "pubDate": "2026-06-21T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
+        },
+        {
+          "title": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA",
+          "link": "https://www.thereporterethiopia.com/51290/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-20T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA"
+        },
+        {
+          "title": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?",
+          "link": "https://english.aawsat.com/arab-world/5286082-trumps-pledge-intervene-can-it-break-deadlock-ethiopian-renaissance-dam-crisis",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-06-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?"
+        },
+        {
+          "title": "Ethiopia : Tale of Two Ethiopias",
+          "link": "https://allafrica.com/stories/202606180628.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-19T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Tale of Two Ethiopias"
+        },
+        {
+          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
+          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-06-18T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
         }
       ]
     }
