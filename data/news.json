@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-13T04:04:25.107Z",
+  "generatedAt": "2026-07-13T07:43:20.637Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "East Africa: Somalia, Egypt FMs Discuss Bilateral Ties, Horn of Africa, Reject Recognition of Somaliland",
+          "link": "https://allafrica.com/stories/202607130071.html",
+          "description": "[Shabelle] Mogadishu -- Somalia's Foreign Minister Abdisalam Ali Dhaay held a telephone conversation with his Egyptian counterpart, Badr Abdelatty, to discuss bilateral relations and regional developments, with a particular focus on the Horn of Africa, Somalia's foreign ministry said on Sunday.",
+          "pubDate": "Mon, 13 Jul 2026 05:03:26 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "East Africa: Somalia, Egypt FMs Discuss Bilateral Ties, Horn of Africa, Reject Recognition of Somaliland"
+        },
         {
           "title": "Egypt receive a warm welcome home",
           "link": "https://www.bbc.co.uk/sport/videos/ce8jlv22r6vo?at_medium=RSS&at_campaign=rss",
@@ -48,13 +57,40 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: World Population Day - Renewing Our Promise to Every Woman and Every Newborn Everywhere",
-          "link": "https://allafrica.com/stories/202607100563.html",
-          "description": "[allAfrica] On World Population Day, we are often asked to look at numbers such as how many people we are, how fast we are growing, and what our population will need in the years ahead. They should help us understand the conditions into which people are born, the systems that shape their health and opportunity, and the futures they are able to build.",
-          "pubDate": "Fri, 10 Jul 2026 21:39:24 GMT",
+          "title": "Kenya: Wetang'ula Urges Bungoma Residents to Back Ruto's 2027 Re-Election Bid",
+          "link": "https://allafrica.com/stories/202607130128.html",
+          "description": "[Capital FM] Nairobi -- National Assembly Speaker Moses Wetang'ula has urged residents of Bungoma County to support President William Ruto's re-election in 2027, saying the Kenya Kwanza administration has fulfilled key development pledges that are transforming lives across the region.",
+          "pubDate": "Mon, 13 Jul 2026 06:27:55 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: World Population Day - Renewing Our Promise to Every Woman and Every Newborn Everywhere"
+          "titleIt": "Kenya: Wetang'ula Urges Bungoma Residents to Back Ruto's 2027 Re-Election Bid"
+        },
+        {
+          "title": "Kenya: Road Crashes Claim 13 Lives Nationwide in 12-Hour Period",
+          "link": "https://allafrica.com/stories/202607130126.html",
+          "description": "[Capital FM] Nairobi -- A total of 13 people lost their lives in road accidents reported across the country within a 12-hour period, according to preliminary traffic reports.",
+          "pubDate": "Mon, 13 Jul 2026 06:27:54 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Road Crashes Claim 13 Lives Nationwide in 12-Hour Period"
+        },
+        {
+          "title": "Kenya: State Under Pressure Over Rising Goon Violence As Armed Attacks Fuel Election Fears",
+          "link": "https://allafrica.com/stories/202607130124.html",
+          "description": "[Capital FM] Nairobi -- The government is facing mounting pressure over what critics describe as a failure to decisively crack down on organized political violence, after armed groups disrupted political activities in Kisumu and Nyahururu over the weekend, deepening concerns that Kenya could be sliding toward a dangerous election-era culture of impunity.",
+          "pubDate": "Mon, 13 Jul 2026 06:27:53 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: State Under Pressure Over Rising Goon Violence As Armed Attacks Fuel Election Fears"
+        },
+        {
+          "title": "East Africa: Somalia, Egypt FMs Discuss Bilateral Ties, Horn of Africa, Reject Recognition of Somaliland",
+          "link": "https://allafrica.com/stories/202607130071.html",
+          "description": "[Shabelle] Mogadishu -- Somalia's Foreign Minister Abdisalam Ali Dhaay held a telephone conversation with his Egyptian counterpart, Badr Abdelatty, to discuss bilateral relations and regional developments, with a particular focus on the Horn of Africa, Somalia's foreign ministry said on Sunday.",
+          "pubDate": "Mon, 13 Jul 2026 05:03:26 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "East Africa: Somalia, Egypt FMs Discuss Bilateral Ties, Horn of Africa, Reject Recognition of Somaliland"
         },
         {
           "title": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Information",
@@ -80,6 +116,33 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row",
+          "link": "https://www.cnn.com/2026/07/13/africa/ethiopian-migrants-saudi-arabia-death-row-intl",
+          "source": "cnn.com",
+          "pubDate": "2026-07-13T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row"
+        },
+        {
+          "title": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row",
+          "link": "https://www.yahoo.com/news/world/articles/m-dead-man-walking-ethiopian-040125920.html",
+          "source": "yahoo.com",
+          "pubDate": "2026-07-13T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row"
+        },
+        {
+          "title": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row",
+          "link": "https://us.cnn.com/2026/07/13/africa/ethiopian-migrants-saudi-arabia-death-row-intl",
+          "source": "us.cnn.com",
+          "pubDate": "2026-07-13T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row"
+        },
+        {
           "title": "Algeria: First ATR Aircraft for Domestic Flights Delivered",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/12/algeria-first-atr-aircraft-for-domestic-flights-delivered_8c288897-d196-497a-ab40-77b8110131a0.html",
           "description": "(ANSA) - ALGERI, 12 LUG - The Italian Ambassador to Algeria, Alessandra Schiavo, attended yesterday’s handover ceremony for the first of the 16 ATR 72-600s ordered by the national carrier Air Algérie. The aircraft is intended for domestic flights and will be operated by the new airline Domestic Airlines, a subsidiary of Air Algérie. In her remarks, as reported by the Italian Embassy in Algiers on its social media channels, Schiavo emphasized that Italian industrial excellence is once again at the heart of a strategic project for Algeria, which will help enhance regional connectivity and local ",
@@ -89,76 +152,148 @@
           "titleIt": "Algeria: First ATR Aircraft for Domestic Flights Delivered"
         },
         {
-          "title": "Ethiopia: Ethiopian PM Says Sudan, Eritrea and TPLF Pose No Threat to Ethiopia",
-          "link": "https://allafrica.com/stories/202607100011.html",
-          "description": "[Dabanga] Addis Ababa / Khartoum -- Ethiopian Prime Minister Abiy Ahmed has dismissed concerns over an alleged alliance between Sudan, Eritrea and the Tigray People's Liberation Front (TPLF), insisting the grouping poses no threat to Ethiopia's sovereignty.",
-          "pubDate": "Fri, 10 Jul 2026 04:53:36 GMT",
-          "source": "AllAfrica",
+          "title": "Canton Fair capitalizes on China new zero - tariff policy for 53 African nations",
+          "link": "https://capitalethiopia.com/2026/07/12/canton-fair-capitalizes-on-chinas-new-zero-tariff-policy-for-53-african-nations/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-07-12T13:15:00Z",
           "lang": "en",
-          "titleIt": "Ethiopia: Ethiopian PM Says Sudan, Eritrea and TPLF Pose No Threat to Ethiopia"
+          "description": "",
+          "titleIt": "Canton Fair capitalizes on China new zero - tariff policy for 53 African nations"
         },
         {
-          "title": "Ambassador Davoli signed a cooperation agreement with the Court of Auditors of Ecuador",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/08/ambassador-davoli-signed-a-cooperation-agreement-with-the-court-of-auditors-of-ecuador_536a769f-a099-49a2-b249-9b92d104e986.html",
-          "description": "(ANSA) - QUITO, 08 LUG - The Italian Ambassador to Ecuador, Giovanni Davoli, attended as a guest of honor at the signing of the agreement between Ecuador’s “Contraloría General” (Court of Auditors) and the Itajus legal diplomacy program. The Contraloría General thus joins the long list of Ecuadorian institutions receiving assistance from Italian legal diplomacy, in the form of support and training for its officials, amid the security crisis the country is facing due to the mafia’s offensive. The Contralor General, Xavier Torres, expressed his gratitude to the Italian government for its support",
-          "pubDate": "Wed, 8 Jul 2026 20:16:15 +0200",
-          "source": "ANSA English",
+          "title": "Gold and coffee deepen dominance as Ethiopia export basket remains narrow",
+          "link": "https://capitalethiopia.com/2026/07/12/gold-and-coffee-deepen-dominance-as-ethiopias-export-basket-remains-narrow/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-07-12T13:15:00Z",
           "lang": "en",
-          "titleIt": "Ambassador Davoli signed a cooperation agreement with the Court of Auditors of Ecuador"
+          "description": "",
+          "titleIt": "Gold and coffee deepen dominance as Ethiopia export basket remains narrow"
         },
         {
-          "title": "Italy supports the training of Ecuadorian legal officials",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/08/italy-supports-the-training-of-ecuadorian-legal-officials_114b99d1-ae3c-4927-85e8-51f44354c85d.html",
-          "description": "(ANSA) - ROMA, 08 LUG - The Italian Ambassador to Ecuador, Giovanni Davoli, was present at the signing of the agreement between Ecuador’s “Contraloria General” (Court of Auditors) and the Itajus legal diplomacy program. The Contraloría General thus joins the list of Ecuadorian institutions receiving support from Italian legal diplomacy, in the form of assistance and training for its officials, amid the security crisis the country is facing due to the mafia’s offensive. The Contralor General, Xavier Torres, expressed his gratitude to the Italian government for its support of the work carried ou",
-          "pubDate": "Wed, 8 Jul 2026 20:06:56 +0200",
-          "source": "ANSA English",
+          "title": "Ethiopia , Kenya ink electricity supply deal",
+          "link": "https://capitalfm.africa/ethiopia-kenya-ink-electricity-supply-deal/",
+          "source": "capitalfm.africa",
+          "pubDate": "2026-07-12T12:00:00Z",
           "lang": "en",
-          "titleIt": "Italy supports the training of Ecuadorian legal officials"
+          "description": "",
+          "titleIt": "Ethiopia , Kenya ink electricity supply deal"
         },
         {
-          "title": "Spain bad, Italy good, beyond minor disagreements NATO united says Trump",
-          "link": "https://www.ansa.it/english/news/2026/07/08/spain-bad-italy-good-beyond-minor-disagreements-nato-united-says_8854a5d8-d7d5-4a33-b1d0-b5805e374bf5.html",
-          "description": "(ANSA) - ROME, JUL 8 - Spain has been bad while Italy has been good and NATO as a whole has been good despite minor disagreements with the United States, President Donald Trump said after a summit in Ankara on Wednesday. \"Spain was bad, Italy was good, and almost everyone was good; they had a bad moment,\" he said referring to lack of support for the Iran war. \"Beyond minor disagreements, we love each other.\" The president then reaffirmed the unity within NATO: \"I've never seen anything like it.\" (ANSA). Read article...",
-          "pubDate": "Wed, 8 Jul 2026 18:58:10 +0200",
-          "source": "ANSA English",
+          "title": "TTW Announces the Top 50 Food Destinations Around the World for 2026",
+          "link": "https://www.prnewswire.com/news-releases/ttw-announces-the-top-50-food-destinations-around-the-world-for-2026-302823288.html",
+          "source": "prnewswire.com",
+          "pubDate": "2026-07-11T20:00:00Z",
           "lang": "en",
-          "titleIt": "Spain bad, Italy good, beyond minor disagreements NATO united says Trump"
+          "description": "",
+          "titleIt": "TTW Announces the Top 50 Food Destinations Around the World for 2026"
         },
         {
-          "title": "Spain bad, Italy good, beyond minor disagreements NATO united says Trump",
-          "link": "https://www.ansa.it/english/news/world/2026/07/08/spain-bad-italy-good-beyond-minor-disagreements-nato-united-says_ab475e25-721b-4613-9ad4-27467822e98d.html",
-          "description": "(ANSA) - ROME, JUL 8 - Spain has been bad while Italy has been good and NATO as a whole has been good despite minor disagreements with the United States, President Donald Trump said after a summit in Ankara on Wednesday. \"Spain was bad, Italy was good, and almost everyone was good; they had a bad moment,\" he said referring to lack of support for the Iran war. \"Beyond minor disagreements, we love each other.\" The president then reaffirmed the unity within NATO: \"I've never seen anything like it.\" (ANSA). Read article...",
-          "pubDate": "Wed, 8 Jul 2026 18:58:10 +0200",
-          "source": "ANSA English",
+          "title": "While the West talks isolation , Lavrov solidifies ties",
+          "link": "http://www.russiaherald.com/news/279180648/while-the-west-talks-isolation-lavrov-solidifies-ties",
+          "source": "russiaherald.com",
+          "pubDate": "2026-07-11T18:00:00Z",
           "lang": "en",
-          "titleIt": "Spain bad, Italy good, beyond minor disagreements NATO united says Trump"
+          "description": "",
+          "titleIt": "While the West talks isolation , Lavrov solidifies ties"
         },
         {
-          "title": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Information",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/08/somalia-ambassador-dacco-coppi-meets-with-the-minister-of-information_02f59c2f-acaf-4de8-9301-8e267cbce33c.html",
-          "description": "(ANSA) - NAIROBI, 08 LUG - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with the Somali Minister of Information, Culture, and Tourism, Abdifatah Qasim, with whom he visited the National Theater and the headquarters of Somali state radio and television. The National Theater is a building dating back to the 1960s that retains considerable architectural value within Mogadishu’s urban landscape and serves as a cultural landmark that the authorities hope to revitalize and promote after more than 35 years of inactivity. Minister Qasim emphasized the importance of cultural promotion",
-          "pubDate": "Wed, 8 Jul 2026 18:40:12 +0200",
-          "source": "ANSA English",
+          "title": "From Makati to Trieste : In pursuit of coffee mastery",
+          "link": "https://www.philstar.com/business/2026/07/12/2541461/makati-trieste-pursuit-coffee-mastery",
+          "source": "philstar.com",
+          "pubDate": "2026-07-11T17:15:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Information"
+          "description": "",
+          "titleIt": "From Makati to Trieste : In pursuit of coffee mastery"
         },
         {
-          "title": "In Ukraine, Italy is investing in the future and in the health of mothers and children",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/08/in-ukraine-italy-is-investing-in-the-future-and-in-the-health-of-mothers-and_e3bb55b0-8467-4a9e-b14c-b16217df8752.html",
-          "description": "(ANSA) - ROMA, 08 LUG - Every child born in Ukraine represents a promise for the future. Ensuring they receive quality care, from the very first days of life—even in the context of war—means contributing not only to saving lives but also to laying the foundations for the country’s recovery. This is the vision that inspires Italy’s commitment to supporting the Ukrainian healthcare system. At the international conference *“Neonatal Care in War-Torn Ukraine”*, organized by CUAMM – Doctors with Africa in Odessa, Italy reaffirmed that maternal and child health is a strategic priority in its coopera",
-          "pubDate": "Wed, 8 Jul 2026 16:30:07 +0200",
-          "source": "ANSA English",
+          "title": "Ethiopia , Kenya ink electricity supply deal amid expanding regional energy connectivity - Xinhua",
+          "link": "https://english.news.cn/20260711/d33f5fbca80e4daf9a3b4f313a9ea59e/c.html",
+          "source": "english.news.cn",
+          "pubDate": "2026-07-11T16:00:00Z",
           "lang": "en",
-          "titleIt": "In Ukraine, Italy is investing in the future and in the health of mothers and children"
+          "description": "",
+          "titleIt": "Ethiopia , Kenya ink electricity supply deal amid expanding regional energy connectivity - Xinhua"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "While the West talks isolation , Lavrov solidifies ties",
+          "link": "http://www.europesun.com/news/279180648/while-the-west-talks-isolation-lavrov-solidifies-ties",
+          "source": "europesun.com",
+          "pubDate": "2026-07-11T15:15:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "While the West talks isolation , Lavrov solidifies ties"
+        },
+        {
+          "title": "Gadkari calls for deeper cooperation among BRICs nations to shape future of global mobility",
+          "link": "https://www.moneycontrol.com/news/business/gadkari-calls-for-deeper-cooperation-among-brics-nations-to-shape-future-of-global-mobility-13971597.html",
+          "source": "moneycontrol.com",
+          "pubDate": "2026-07-11T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gadkari calls for deeper cooperation among BRICs nations to shape future of global mobility"
+        },
+        {
+          "title": "Lavrov puts Russias Africa strategy in working mode",
+          "link": "http://www.greekherald.com/news/279180501/lavrov-puts-russias-africa-strategy-in-working-mode",
+          "source": "greekherald.com",
+          "pubDate": "2026-07-11T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Lavrov puts Russias Africa strategy in working mode"
+        },
+        {
+          "title": "While the West talks isolation , Lavrov solidifies ties",
+          "link": "http://www.greekherald.com/news/279180648/while-the-west-talks-isolation-lavrov-solidifies-ties",
+          "source": "greekherald.com",
+          "pubDate": "2026-07-11T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "While the West talks isolation , Lavrov solidifies ties"
+        },
+        {
+          "title": "Morocco Becomes Top African Market for Turkish Exports , Trade Reaches $2 . 1 Billion",
+          "link": "https://www.moroccoworldnews.com/2026/07/328639/morocco-becomes-top-african-market-for-turkish-exports-trade-reaches-2-1-billion/",
+          "source": "moroccoworldnews.com",
+          "pubDate": "2026-07-11T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Morocco Becomes Top African Market for Turkish Exports , Trade Reaches $2 . 1 Billion"
+        },
+        {
+          "title": "The Law Of The Elders : Ancient Laws , Modern Relevance",
+          "link": "https://www.thereporterethiopia.com/51770/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-11T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Law Of The Elders : Ancient Laws , Modern Relevance"
+        },
+        {
+          "title": "Ethiopia Pan - African Blueprint : Sovereignty , Solidarity , And Sustainability",
+          "link": "https://www.thereporterethiopia.com/51760/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-11T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Pan - African Blueprint : Sovereignty , Solidarity , And Sustainability"
+        },
+        {
+          "title": "The Hurdles Ahead Remain Immense : Independent MP And Veteran Politician Dima Negewo",
+          "link": "https://www.thereporterethiopia.com/51776/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-11T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Hurdles Ahead Remain Immense : Independent MP And Veteran Politician Dima Negewo"
+        },
+        {
+          "title": "Lavrov puts Russia Africa strategy in working mode",
+          "link": "http://www.zimbabwestar.com/news/279180521/lavrov-puts-russia-africa-strategy-in-working-mode",
+          "source": "zimbabwestar.com",
+          "pubDate": "2026-07-11T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Lavrov puts Russia Africa strategy in working mode"
         }
       ]
     },
@@ -168,35 +303,7 @@
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": [
-        {
-          "title": "South Sudan: South Sudan - UN Acts Ahead of Drought to Protect Thousands",
-          "link": "https://allafrica.com/stories/202607100565.html",
-          "description": "[UN News] As drought risk intensifies in South Sudan's Eastern Equatoria state, a new UN-backed plan aims to protect thousands of people before the worst impacts take hold.",
-          "pubDate": "Fri, 10 Jul 2026 23:16:58 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "South Sudan: South Sudan - UN Acts Ahead of Drought to Protect Thousands"
-        },
-        {
-          "title": "Sudan: Senator Sanders Statement on Civil War and Genocide in Sudan",
-          "link": "https://allafrica.com/stories/202607100564.html",
-          "description": "[United States Senate] Burlington, VT -- Sen. Bernie Sanders (I-Vt.) today released the following statement:",
-          "pubDate": "Fri, 10 Jul 2026 23:15:46 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Senator Sanders Statement on Civil War and Genocide in Sudan"
-        },
-        {
-          "title": "South Sudan: Fifteen Years of Independence for South Sudan, but Still Little to Celebrate",
-          "link": "https://allafrica.com/stories/202607100141.html",
-          "description": "[RFI] South Sudan, the world's youngest country, on Thursday marks the 15th anniversary of its independence, following decades of war with Sudan, a 2005 peace agreement and a 2011 self-determination referendum in which almost 99 percent of voters backed statehood. But the hopes that came with it have given way to renewed conflict, economic collapse and political deadlock.",
-          "pubDate": "Fri, 10 Jul 2026 08:11:28 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "South Sudan: Fifteen Years of Independence for South Sudan, but Still Little to Celebrate"
-        }
-      ]
+      "items": []
     }
   }
 }
