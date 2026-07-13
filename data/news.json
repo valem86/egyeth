@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-13T11:32:24.644Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-07-13T15:15:07.855Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Speciale difesa: De Corato (Fd'I), 19enne ucciso a coltellate, applicare Decreto sicurezza",
-          "link": "https://www.agenzianova.com/a/6a54ccc42e4a36.35480412/7597650/2026-07-13/speciale-difesa-de-corato-fd-i-19enne-ucciso-a-coltellate-applicare-decreto-sicurezza",
-          "description": "13 lug 13:30 - (Agenzia Nova) - \"Apprendo con sconcerto che un egiziano di soli 19 anni e' stato accoltellato a morte a Crema. Gli investigatori... (Com)",
-          "pubDate": "2026-07-13T13:30:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale difesa: De Corato (Fd'I), 19enne ucciso a coltellate, applicare Decreto sicurezza"
+          "title": "Somalia: Somali Army Says Airstrikes Kill 26 Al-Shabaab Fighters in Middle Shabelle",
+          "link": "https://allafrica.com/stories/202607130504.html",
+          "description": "[Shabelle] Mogadishu -- Somalia's army, backed by international partners, carried out airstrikes targeting Al-Shabaab positions in the Middle Shabelle region, killing 26 militants and destroying military equipment, the defence ministry said on Sunday.",
+          "pubDate": "Mon, 13 Jul 2026 11:37:24 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somali Army Says Airstrikes Kill 26 Al-Shabaab Fighters in Middle Shabelle"
         },
         {
           "title": "Uganda: UPDF, Somali Army Joint Patrol Strengthens Security in Barawe, Says Col Musenene",
@@ -41,12 +41,39 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Egypt receive a warm welcome home"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Ethiopia: Ehrco Demands Halt to Forced Conscription in Tigray",
+          "link": "https://allafrica.com/stories/202607130720.html",
+          "description": "[Reporter] The Ethiopian Human Rights Council (EHRCO) issued an urgent appeal on July 12, 2026, demanding an immediate end to systemic rights violations as a mandatory military recruitment drive sweeps across the northern Tigray region.",
+          "pubDate": "Mon, 13 Jul 2026 15:00:35 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ehrco Demands Halt to Forced Conscription in Tigray"
+        },
         {
           "title": "Uganda: UPDF, Somali Army Joint Patrol Strengthens Security in Barawe, Says Col Musenene",
           "link": "https://allafrica.com/stories/202607130367.html",
@@ -64,12 +91,30 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "East Africa: Somalia, Egypt FMs Discuss Bilateral Ties, Horn of Africa, Reject Recognition of Somaliland"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ethiopia: Ehrco Demands Halt to Forced Conscription in Tigray",
+          "link": "https://allafrica.com/stories/202607130720.html",
+          "description": "[Reporter] The Ethiopian Human Rights Council (EHRCO) issued an urgent appeal on July 12, 2026, demanding an immediate end to systemic rights violations as a mandatory military recruitment drive sweeps across the northern Tigray region.",
+          "pubDate": "Mon, 13 Jul 2026 15:00:35 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ehrco Demands Halt to Forced Conscription in Tigray"
+        },
         {
           "title": "Uganda: UPDF, Somali Army Joint Patrol Strengthens Security in Barawe, Says Col Musenene",
           "link": "https://allafrica.com/stories/202607130367.html",
@@ -89,13 +134,13 @@
           "titleIt": "Algeria: First ATR Aircraft for Domestic Flights Delivered"
         },
         {
-          "title": "Ambassador Davoli signed a cooperation agreement with the Court of Auditors of Ecuador",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/08/ambassador-davoli-signed-a-cooperation-agreement-with-the-court-of-auditors-of-ecuador_536a769f-a099-49a2-b249-9b92d104e986.html",
-          "description": "(ANSA) - QUITO, 08 LUG - The Italian Ambassador to Ecuador, Giovanni Davoli, attended as a guest of honor at the signing of the agreement between Ecuador’s “Contraloría General” (Court of Auditors) and the Itajus legal diplomacy program. The Contraloría General thus joins the long list of Ecuadorian institutions receiving assistance from Italian legal diplomacy, in the form of support and training for its officials, amid the security crisis the country is facing due to the mafia’s offensive. The Contralor General, Xavier Torres, expressed his gratitude to the Italian government for its support",
-          "pubDate": "Wed, 8 Jul 2026 20:16:15 +0200",
-          "source": "ANSA English",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "titleIt": "Ambassador Davoli signed a cooperation agreement with the Court of Auditors of Ecuador"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
