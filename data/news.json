@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T19:53:28.355Z",
+  "generatedAt": "2026-07-13T21:15:46.776Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -141,7 +141,188 @@
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": []
+      "items": [
+        {
+          "title": "Egypt issues warning to Ethiopia over  unacceptable  GERD steps",
+          "link": "https://www.egyptindependent.com/egypt-issues-warning-to-ethiopia-over-unacceptable-gerd-steps/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-07-13T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt issues warning to Ethiopia over  unacceptable  GERD steps"
+        },
+        {
+          "title": "Ethiopia , Kenya ink electricity supply deal",
+          "link": "https://capitalfm.africa/ethiopia-kenya-ink-electricity-supply-deal/",
+          "source": "capitalfm.africa",
+          "pubDate": "2026-07-12T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia , Kenya ink electricity supply deal"
+        },
+        {
+          "title": "Ethiopia , Kenya ink electricity supply deal amid expanding regional energy connectivity - Xinhua",
+          "link": "https://english.news.cn/20260711/d33f5fbca80e4daf9a3b4f313a9ea59e/c.html",
+          "source": "english.news.cn",
+          "pubDate": "2026-07-11T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia , Kenya ink electricity supply deal amid expanding regional energy connectivity - Xinhua"
+        },
+        {
+          "title": "Ethiopia Pan - African Blueprint : Sovereignty , Solidarity , And Sustainability",
+          "link": "https://www.thereporterethiopia.com/51760/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-11T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Pan - African Blueprint : Sovereignty , Solidarity , And Sustainability"
+        },
+        {
+          "title": "You cant pause the IWT",
+          "link": "https://www.geo.tv/latest/672562-you-cant-pause-the-iwt",
+          "source": "geo.tv",
+          "pubDate": "2026-07-11T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "You cant pause the IWT"
+        },
+        {
+          "title": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?",
+          "link": "https://allafrica.com/stories/202607060020.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-06T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?"
+        },
+        {
+          "title": "Ethiopia New Blue Nile Dams Rattle Egypt",
+          "link": "https://www.riotimesonline.com/ethiopia-blue-nile-dams-egypt-water-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-06-27T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia New Blue Nile Dams Rattle Egypt"
+        },
+        {
+          "title": "Ethiopia Leap Into the Future",
+          "link": "https://allafrica.com/stories/202606250254.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Leap Into the Future"
+        },
+        {
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
+        },
+        {
+          "title": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped",
+          "link": "https://www.engineeringnews.co.za/article/africa-adds-42-gw-new-hydropower-in-2025-only-10-of-hydropower-resources-being-tapped-2026-06-24",
+          "source": "engineeringnews.co.za",
+          "pubDate": "2026-06-24T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped"
+        },
+        {
+          "title": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy",
+          "link": "https://allafrica.com/stories/202606240040.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-24T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy"
+        },
+        {
+          "title": "Pumped Storage Additions Lead Global Hydropower Growth",
+          "link": "https://www.powermag.com/pumped-storage-additions-lead-global-hydropower-growth/",
+          "source": "powermag.com",
+          "pubDate": "2026-06-24T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
+        },
+        {
+          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
+          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
+          "source": "dw.com",
+          "pubDate": "2026-06-21T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
+        },
+        {
+          "title": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA",
+          "link": "https://www.thereporterethiopia.com/51290/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-06-20T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA"
+        },
+        {
+          "title": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?",
+          "link": "https://english.aawsat.com/arab-world/5286082-trumps-pledge-intervene-can-it-break-deadlock-ethiopian-renaissance-dam-crisis",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-06-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?"
+        },
+        {
+          "title": "Ethiopia : Tale of Two Ethiopias",
+          "link": "https://allafrica.com/stories/202606180628.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-19T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Tale of Two Ethiopias"
+        },
+        {
+          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
+          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-06-18T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
+        },
+        {
+          "title": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity",
+          "link": "https://larouchepub.com/other/2026/5324-ethiopia_the_uncolonized_indep.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-06-17T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity"
+        },
+        {
+          "title": "Trump Backs Egypt in Nile Dam Row",
+          "link": "https://chimpreports.com/trump-backs-egypt-in-nile-dam-row/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Backs Egypt in Nile Dam Row"
+        },
+        {
+          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+          "link": "http://www.idahostatejournal.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_c980aa94-a108-54fb-9ffa-e490dbc13918.html",
+          "source": "idahostatejournal.com",
+          "pubDate": "2026-06-17T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
+        }
+      ]
     }
   }
 }
