@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T21:15:46.776Z",
+  "generatedAt": "2026-07-13T23:16:43.720Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -89,6 +89,33 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row",
+          "link": "https://krdo.com/news/2026/07/13/im-a-dead-man-walking-the-ethiopian-migrants-waiting-on-saudi-arabias-death-row/",
+          "source": "krdo.com",
+          "pubDate": "2026-07-13T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row"
+        },
+        {
+          "title": "NBE lifts credit cap , raises policy rate | Capital Newspaper",
+          "link": "https://capitalethiopia.com/2026/07/13/nbe-lifts-credit-cap-raises-policy-rate/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-07-13T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "NBE lifts credit cap , raises policy rate | Capital Newspaper"
+        },
+        {
+          "title": "Opinion : Kazakhstan Demining Expertise Could Provide Boost to Afghanistan",
+          "link": "https://timesca.com/kazakhstan-demining-afghanistan/",
+          "source": "timesca.com",
+          "pubDate": "2026-07-13T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Opinion : Kazakhstan Demining Expertise Could Provide Boost to Afghanistan"
+        },
+        {
           "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
           "link": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
           "description": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually \"in the long run\".",
@@ -96,6 +123,15 @@
           "source": "BBC World",
           "lang": "en",
           "titleIt": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates"
+        },
+        {
+          "title": "The missing corridor",
+          "link": "https://www.omanobserver.om/article/1192773/opinion/the-missing-corridor",
+          "source": "omanobserver.om",
+          "pubDate": "2026-07-13T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The missing corridor"
         },
         {
           "title": "Ethiopia: Ehrco Demands Halt to Forced Conscription in Tigray",
@@ -107,6 +143,51 @@
           "titleIt": "Ethiopia: Ehrco Demands Halt to Forced Conscription in Tigray"
         },
         {
+          "title": "News Briefing : Church in the World",
+          "link": "https://www.thetablet.co.uk/news/news-briefing-church-in-the-world-83/",
+          "source": "thetablet.co.uk",
+          "pubDate": "2026-07-13T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "News Briefing : Church in the World"
+        },
+        {
+          "title": "Talent cultivation and sci - tech self - reliance - Newsday Zimbabwe",
+          "link": "https://www.newsday.co.zw/opinion-analysis/article/200058269/talent-cultivation-and-sci-tech-self-reliance",
+          "source": "newsday.co.zw",
+          "pubDate": "2026-07-13T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Talent cultivation and sci - tech self - reliance - Newsday Zimbabwe"
+        },
+        {
+          "title": "Customs Commission Closes Year With 738bln In Revenue",
+          "link": "https://www.thereporterethiopia.com/51787/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-13T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Customs Commission Closes Year With 738bln In Revenue"
+        },
+        {
+          "title": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row",
+          "link": "https://abc17news.com/news/national-world/cnn-world/2026/07/12/im-a-dead-man-walking-the-ethiopian-migrants-waiting-on-saudi-arabias-death-row/",
+          "source": "abc17news.com",
+          "pubDate": "2026-07-13T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row"
+        },
+        {
+          "title": "Uganda Growing Defence Partnership With China",
+          "link": "https://allafrica.com/stories/202607130375.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-13T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Uganda Growing Defence Partnership With China"
+        },
+        {
           "title": "Uganda: UPDF, Somali Army Joint Patrol Strengthens Security in Barawe, Says Col Musenene",
           "link": "https://allafrica.com/stories/202607130367.html",
           "description": "[Nile Post] The Commander of Battle Group 45 serving under the African Union Support and Stabilization Mission in Somalia (AUSSOM), Colonel Justus Musenene, has said the joint security patrol conducted by the Uganda Peoples' Defence Forces (UPDF) and the Somali National Army (SNA) in the Barawe Sub-Sector demonstrates the strength of teamwork and the shared commitment to enhancing peace and stability in the area.",
@@ -116,22 +197,76 @@
           "titleIt": "Uganda: UPDF, Somali Army Joint Patrol Strengthens Security in Barawe, Says Col Musenene"
         },
         {
-          "title": "Algeria: First ATR Aircraft for Domestic Flights Delivered",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/12/algeria-first-atr-aircraft-for-domestic-flights-delivered_8c288897-d196-497a-ab40-77b8110131a0.html",
-          "description": "(ANSA) - ALGERI, 12 LUG - The Italian Ambassador to Algeria, Alessandra Schiavo, attended yesterday’s handover ceremony for the first of the 16 ATR 72-600s ordered by the national carrier Air Algérie. The aircraft is intended for domestic flights and will be operated by the new airline Domestic Airlines, a subsidiary of Air Algérie. In her remarks, as reported by the Italian Embassy in Algiers on its social media channels, Schiavo emphasized that Italian industrial excellence is once again at the heart of a strategic project for Algeria, which will help enhance regional connectivity and local ",
-          "pubDate": "Sun, 12 Jul 2026 17:47:40 +0200",
-          "source": "ANSA English",
+          "title": "BRICS and Cuba",
+          "link": "https://cpa.org.au/guardian/issue-2198/brics-and-cuba/",
+          "source": "cpa.org.au",
+          "pubDate": "2026-07-13T10:00:00Z",
           "lang": "en",
-          "titleIt": "Algeria: First ATR Aircraft for Domestic Flights Delivered"
+          "description": "",
+          "titleIt": "BRICS and Cuba"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "The New Humanitarian | EXCLUSIVE : Health woes , outrage , and toxins near Ethiopia gold mine",
+          "link": "https://www.thenewhumanitarian.org/investigation/2020/05/27/Ethiopia-Oromia-Shakiso-gold-mine-health-problems",
+          "source": "thenewhumanitarian.org",
+          "pubDate": "2026-07-13T10:00:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "The New Humanitarian | EXCLUSIVE : Health woes , outrage , and toxins near Ethiopia gold mine"
+        },
+        {
+          "title": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row",
+          "link": "https://keyt.com/news/national-world/cnn-world/2026/07/12/im-a-dead-man-walking-the-ethiopian-migrants-waiting-on-saudi-arabias-death-row/",
+          "source": "keyt.com",
+          "pubDate": "2026-07-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row"
+        },
+        {
+          "title": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row",
+          "link": "https://kesq.com/news/national-world/cnn-world/2026/07/12/im-a-dead-man-walking-the-ethiopian-migrants-waiting-on-saudi-arabias-death-row/",
+          "source": "kesq.com",
+          "pubDate": "2026-07-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row"
+        },
+        {
+          "title": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row - LocalNews8 . com",
+          "link": "https://localnews8.com/news/national-world/cnn-world/2026/07/12/im-a-dead-man-walking-the-ethiopian-migrants-waiting-on-saudi-arabias-death-row/",
+          "source": "localnews8.com",
+          "pubDate": "2026-07-13T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row - LocalNews8 . com"
+        },
+        {
+          "title": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row",
+          "link": "https://krdo.com/news/2026/07/12/im-a-dead-man-walking-the-ethiopian-migrants-waiting-on-saudi-arabias-death-row/",
+          "source": "krdo.com",
+          "pubDate": "2026-07-13T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row"
+        },
+        {
+          "title": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row",
+          "link": "https://kvia.com/news/us-world/cnn-world/2026/07/12/im-a-dead-man-walking-the-ethiopian-migrants-waiting-on-saudi-arabias-death-row/",
+          "source": "kvia.com",
+          "pubDate": "2026-07-13T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row"
+        },
+        {
+          "title": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row",
+          "link": "https://edition.cnn.com/2026/07/13/africa/ethiopian-migrants-saudi-arabia-death-row-intl",
+          "source": "edition.cnn.com",
+          "pubDate": "2026-07-13T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row"
         }
       ]
     },
@@ -141,188 +276,7 @@
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": [
-        {
-          "title": "Egypt issues warning to Ethiopia over  unacceptable  GERD steps",
-          "link": "https://www.egyptindependent.com/egypt-issues-warning-to-ethiopia-over-unacceptable-gerd-steps/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-07-13T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt issues warning to Ethiopia over  unacceptable  GERD steps"
-        },
-        {
-          "title": "Ethiopia , Kenya ink electricity supply deal",
-          "link": "https://capitalfm.africa/ethiopia-kenya-ink-electricity-supply-deal/",
-          "source": "capitalfm.africa",
-          "pubDate": "2026-07-12T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia , Kenya ink electricity supply deal"
-        },
-        {
-          "title": "Ethiopia , Kenya ink electricity supply deal amid expanding regional energy connectivity - Xinhua",
-          "link": "https://english.news.cn/20260711/d33f5fbca80e4daf9a3b4f313a9ea59e/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-07-11T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia , Kenya ink electricity supply deal amid expanding regional energy connectivity - Xinhua"
-        },
-        {
-          "title": "Ethiopia Pan - African Blueprint : Sovereignty , Solidarity , And Sustainability",
-          "link": "https://www.thereporterethiopia.com/51760/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-07-11T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Pan - African Blueprint : Sovereignty , Solidarity , And Sustainability"
-        },
-        {
-          "title": "You cant pause the IWT",
-          "link": "https://www.geo.tv/latest/672562-you-cant-pause-the-iwt",
-          "source": "geo.tv",
-          "pubDate": "2026-07-11T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "You cant pause the IWT"
-        },
-        {
-          "title": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?",
-          "link": "https://allafrica.com/stories/202607060020.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-06T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?"
-        },
-        {
-          "title": "Ethiopia New Blue Nile Dams Rattle Egypt",
-          "link": "https://www.riotimesonline.com/ethiopia-blue-nile-dams-egypt-water-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-06-27T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia New Blue Nile Dams Rattle Egypt"
-        },
-        {
-          "title": "Ethiopia Leap Into the Future",
-          "link": "https://allafrica.com/stories/202606250254.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Leap Into the Future"
-        },
-        {
-          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
-          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
-          "source": "zawya.com",
-          "pubDate": "2026-06-25T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
-        },
-        {
-          "title": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped",
-          "link": "https://www.engineeringnews.co.za/article/africa-adds-42-gw-new-hydropower-in-2025-only-10-of-hydropower-resources-being-tapped-2026-06-24",
-          "source": "engineeringnews.co.za",
-          "pubDate": "2026-06-24T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped"
-        },
-        {
-          "title": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy",
-          "link": "https://allafrica.com/stories/202606240040.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-24T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy"
-        },
-        {
-          "title": "Pumped Storage Additions Lead Global Hydropower Growth",
-          "link": "https://www.powermag.com/pumped-storage-additions-lead-global-hydropower-growth/",
-          "source": "powermag.com",
-          "pubDate": "2026-06-24T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
-        },
-        {
-          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
-          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
-          "source": "dw.com",
-          "pubDate": "2026-06-21T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
-        },
-        {
-          "title": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA",
-          "link": "https://www.thereporterethiopia.com/51290/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-20T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA"
-        },
-        {
-          "title": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?",
-          "link": "https://english.aawsat.com/arab-world/5286082-trumps-pledge-intervene-can-it-break-deadlock-ethiopian-renaissance-dam-crisis",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-06-19T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Pledge to Intervene : Can It Break the Deadlock in the Ethiopian Renaissance Dam Crisis ?"
-        },
-        {
-          "title": "Ethiopia : Tale of Two Ethiopias",
-          "link": "https://allafrica.com/stories/202606180628.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-06-19T00:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Tale of Two Ethiopias"
-        },
-        {
-          "title": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam",
-          "link": "https://www.egyptindependent.com/trump-talks-with-sisi-about-grand-ethiopian-renaissance-dam/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-06-18T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump talks with Sisi about Grand Ethiopian Renaissance Dam"
-        },
-        {
-          "title": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity",
-          "link": "https://larouchepub.com/other/2026/5324-ethiopia_the_uncolonized_indep.html",
-          "source": "larouchepub.com",
-          "pubDate": "2026-06-17T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia The Uncolonized Independent Beacon and Its Path to Prosperity"
-        },
-        {
-          "title": "Trump Backs Egypt in Nile Dam Row",
-          "link": "https://chimpreports.com/trump-backs-egypt-in-nile-dam-row/",
-          "source": "chimpreports.com",
-          "pubDate": "2026-06-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Backs Egypt in Nile Dam Row"
-        },
-        {
-          "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
-          "link": "http://www.idahostatejournal.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_c980aa94-a108-54fb-9ffa-e490dbc13918.html",
-          "source": "idahostatejournal.com",
-          "pubDate": "2026-06-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit"
-        }
-      ]
+      "items": []
     }
   }
 }
