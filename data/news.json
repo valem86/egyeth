@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-13T15:15:07.855Z",
+  "generatedAt": "2026-07-13T18:12:43.258Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somalia, Pakistan Discuss Expanding Human Rights Cooperation",
+          "link": "https://allafrica.com/stories/202607130505.html",
+          "description": "[Shabelle] Islamabad -- Somalia's Minister of Family and Human Rights Development, Khadiija Mohamed Al-Makhzoumi, held talks with Pakistan's Minister for Human Rights, Senator Azam Nazeer Tarar, in Islamabad on Sunday, as the two countries explored ways to strengthen cooperation on human rights and institutional development.",
+          "pubDate": "Mon, 13 Jul 2026 11:37:42 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia, Pakistan Discuss Expanding Human Rights Cooperation"
+        },
         {
           "title": "Somalia: Somali Army Says Airstrikes Kill 26 Al-Shabaab Fighters in Middle Shabelle",
           "link": "https://allafrica.com/stories/202607130504.html",
@@ -23,15 +32,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Uganda: UPDF, Somali Army Joint Patrol Strengthens Security in Barawe, Says Col Musenene"
-        },
-        {
-          "title": "East Africa: Somalia, Egypt FMs Discuss Bilateral Ties, Horn of Africa, Reject Recognition of Somaliland",
-          "link": "https://allafrica.com/stories/202607130071.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's Foreign Minister Abdisalam Ali Dhaay held a telephone conversation with his Egyptian counterpart, Badr Abdelatty, to discuss bilateral relations and regional developments, with a particular focus on the Horn of Africa, Somalia's foreign ministry said on Sunday.",
-          "pubDate": "Mon, 13 Jul 2026 05:03:26 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "East Africa: Somalia, Egypt FMs Discuss Bilateral Ties, Horn of Africa, Reject Recognition of Somaliland"
         },
         {
           "title": "Egypt receive a warm welcome home",
@@ -84,15 +84,6 @@
           "titleIt": "Uganda: UPDF, Somali Army Joint Patrol Strengthens Security in Barawe, Says Col Musenene"
         },
         {
-          "title": "East Africa: Somalia, Egypt FMs Discuss Bilateral Ties, Horn of Africa, Reject Recognition of Somaliland",
-          "link": "https://allafrica.com/stories/202607130071.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's Foreign Minister Abdisalam Ali Dhaay held a telephone conversation with his Egyptian counterpart, Badr Abdelatty, to discuss bilateral relations and regional developments, with a particular focus on the Horn of Africa, Somalia's foreign ministry said on Sunday.",
-          "pubDate": "Mon, 13 Jul 2026 05:03:26 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "East Africa: Somalia, Egypt FMs Discuss Bilateral Ties, Horn of Africa, Reject Recognition of Somaliland"
-        },
-        {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
           "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
           "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
@@ -106,6 +97,15 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
+          "link": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
+          "description": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually \"in the long run\".",
+          "pubDate": "Mon, 13 Jul 2026 16:05:13 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates"
+        },
         {
           "title": "Ethiopia: Ehrco Demands Halt to Forced Conscription in Tigray",
           "link": "https://allafrica.com/stories/202607130720.html",
@@ -146,7 +146,188 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Trump says US will blockade Iran in the Strait of Hormuz",
+          "link": "https://www.wjcl.com/article/trump-reinstates-blockade-iran-strait-of-hormuz/71918482",
+          "source": "wjcl.com",
+          "pubDate": "2026-07-13T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says US will blockade Iran in the Strait of Hormuz"
+        },
+        {
+          "title": "Trump says US will blockade Iran in the Strait of Hormuz",
+          "link": "https://www.wesh.com/article/trump-reinstates-blockade-iran-strait-of-hormuz/71918482",
+          "source": "wesh.com",
+          "pubDate": "2026-07-13T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says US will blockade Iran in the Strait of Hormuz"
+        },
+        {
+          "title": "Trump says US will blockade Iran in the Strait of Hormuz",
+          "link": "https://www.mynbc5.com/article/trump-reinstates-blockade-iran-strait-of-hormuz/71918482",
+          "source": "mynbc5.com",
+          "pubDate": "2026-07-13T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says US will blockade Iran in the Strait of Hormuz"
+        },
+        {
+          "title": "Trump says US will blockade Iran in the Strait of Hormuz",
+          "link": "https://www.wlky.com/article/trump-reinstates-blockade-iran-strait-of-hormuz/71918482",
+          "source": "wlky.com",
+          "pubDate": "2026-07-13T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says US will blockade Iran in the Strait of Hormuz"
+        },
+        {
+          "title": "US will blockade Iran in the Strait of Hormuz , charge ships for safe passage , Trump says | Politics and Government",
+          "link": "https://www.reviewjournal.com/news/politics-and-government/us-and-iran-each-assert-they-control-the-strait-of-hormuz-after-another-heavy-exchange-of-fire-3849850/",
+          "source": "reviewjournal.com",
+          "pubDate": "2026-07-13T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US will blockade Iran in the Strait of Hormuz , charge ships for safe passage , Trump says | Politics and Government"
+        },
+        {
+          "title": "It looks like a war . How a $38 Armenian brisket sandwich ignited debate over culture and cost",
+          "link": "https://www.latimes.com/food/story/2026-07-13/it-looks-like-war-how-38-armenian-brisket-sandwich-ignited-debate-over-culture-cost",
+          "source": "latimes.com",
+          "pubDate": "2026-07-13T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "It looks like a war . How a $38 Armenian brisket sandwich ignited debate over culture and cost"
+        },
+        {
+          "title": "US and Iran each assert they control the Strait of Hormuz after another heavy exchange of fire",
+          "link": "https://www.phillytrib.com/news/us-and-iran-each-assert-they-control-the-strait-of-hormuz-after-another-heavy-exchange/article_1cd5fac2-8492-4cb8-9f16-d63d4017a00c.html",
+          "source": "phillytrib.com",
+          "pubDate": "2026-07-13T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US and Iran each assert they control the Strait of Hormuz after another heavy exchange of fire"
+        },
+        {
+          "title": "Trump says US will blockade Iran in the Strait of Hormuz",
+          "link": "https://www.ketv.com/article/trump-reinstates-blockade-iran-strait-of-hormuz/71918482",
+          "source": "ketv.com",
+          "pubDate": "2026-07-13T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says US will blockade Iran in the Strait of Hormuz"
+        },
+        {
+          "title": "US and Iran each assert they control the Strait of Hormuz after another heavy exchange of fire",
+          "link": "https://www.kmvt.com/2026/07/13/us-iran-each-assert-they-control-strait-hormuz-after-another-heavy-exchange-fire/",
+          "source": "kmvt.com",
+          "pubDate": "2026-07-13T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US and Iran each assert they control the Strait of Hormuz after another heavy exchange of fire"
+        },
+        {
+          "title": "Trump says US will blockade Iran in the Strait of Hormuz",
+          "link": "https://www.wmtw.com/article/trump-reinstates-blockade-iran-strait-of-hormuz/71918482",
+          "source": "wmtw.com",
+          "pubDate": "2026-07-13T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says US will blockade Iran in the Strait of Hormuz"
+        },
+        {
+          "title": "U . S . and Iran each assert they control the Strait of Hormuz after another heavy exchange of fire",
+          "link": "https://www.butlereagle.com/20260713/u-s-and-iran-each-assert-they-control-the-strait-of-hormuz-after-another-heavy-exchange-of-fire/",
+          "source": "butlereagle.com",
+          "pubDate": "2026-07-13T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . and Iran each assert they control the Strait of Hormuz after another heavy exchange of fire"
+        },
+        {
+          "title": "Trump says ships will pay for safe passage through Hormuz",
+          "link": "https://www.orissapost.com/trump-says-ships-will-pay-for-safe-passage-through-hormuz/",
+          "source": "orissapost.com",
+          "pubDate": "2026-07-13T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says ships will pay for safe passage through Hormuz"
+        },
+        {
+          "title": "Trump says US will blockade Iran in the Strait of Hormuz and will charge ships for safe passage",
+          "link": "https://www.ktsa.com/us-and-iran-vie-for-strait-of-hormuz-waterway-key-to-global-energy-supplies-in-latest-attacks/",
+          "source": "ktsa.com",
+          "pubDate": "2026-07-13T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says US will blockade Iran in the Strait of Hormuz and will charge ships for safe passage"
+        },
+        {
+          "title": "Trump says US will blockade Iran in Strait of Hormuz and charge ships",
+          "link": "https://www.redlandsdailyfacts.com/2026/07/13/us-iran-vie-strait-of-hormuz/",
+          "source": "redlandsdailyfacts.com",
+          "pubDate": "2026-07-13T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says US will blockade Iran in Strait of Hormuz and charge ships"
+        },
+        {
+          "title": "Trump says U . S . will blockade Iran in the Strait of Hormuz , charge ships",
+          "link": "https://www.bnnbloomberg.ca/business/2026/07/13/trump-says-us-will-blockade-iran-in-the-strait-of-hormuz-and-will-charge-ships-for-safe-passage/",
+          "source": "bnnbloomberg.ca",
+          "pubDate": "2026-07-13T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says U . S . will blockade Iran in the Strait of Hormuz , charge ships"
+        },
+        {
+          "title": "Donald Trump says US will reinstate Hormuz blockade",
+          "link": "https://www.thenational.scot/news/26276453.donald-trump-says-us-will-reinstate-hormuz-blockade/",
+          "source": "thenational.scot",
+          "pubDate": "2026-07-13T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Donald Trump says US will reinstate Hormuz blockade"
+        },
+        {
+          "title": "Trump says US will blockade Iran in Strait of Hormuz and charge ships",
+          "link": "https://www.sgvtribune.com/2026/07/13/us-iran-vie-strait-of-hormuz/",
+          "source": "sgvtribune.com",
+          "pubDate": "2026-07-13T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says US will blockade Iran in Strait of Hormuz and charge ships"
+        },
+        {
+          "title": "US and Iran each assert they control the Strait of Hormuz after another heavy exchange of fire",
+          "link": "https://www.ksjbam.com/2026/07/13/us-and-iran-each-assert-they-control-the-strait-of-hormuz-after-another-heavy-exchange-of-fire/",
+          "source": "ksjbam.com",
+          "pubDate": "2026-07-13T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US and Iran each assert they control the Strait of Hormuz after another heavy exchange of fire"
+        },
+        {
+          "title": "Iran persecutes Bahai minority in year of protests , war : rights groups",
+          "link": "https://www.mainlinemedianews.com/2026/07/13/iran-bahai-minority/",
+          "source": "mainlinemedianews.com",
+          "pubDate": "2026-07-13T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran persecutes Bahai minority in year of protests , war : rights groups"
+        },
+        {
+          "title": "Iran persecutes Bahai minority in year of protests , war : rights groups",
+          "link": "https://www.capitalgazette.com/2026/07/13/iran-bahai-minority/",
+          "source": "capitalgazette.com",
+          "pubDate": "2026-07-13T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran persecutes Bahai minority in year of protests , war : rights groups"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
