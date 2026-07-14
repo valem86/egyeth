@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T19:46:57.722Z",
+  "generatedAt": "2026-07-14T21:17:41.477Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -8,7 +8,7 @@
       "items": [
         {
           "title": "Iran: presidente egiziano al Sisi ribadisce la piena solidarieta' al re del Bahrein",
-          "link": "https://www.agenzianova.com/a/6a56922d333676.11801236/7606690/2026-07-14/iran-presidente-egiziano-al-sisi-ribadisce-la-piena-solidarieta-al-re-del-bahrein",
+          "link": "https://www.agenzianova.com/a/6a56a770eaf031.31200664/7606690/2026-07-14/iran-presidente-egiziano-al-sisi-ribadisce-la-piena-solidarieta-al-re-del-bahrein",
           "description": "14 lug 20:30 - (Agenzia Nova) - Il presidente egiziano Abdel Fattah al Sisi ha ribadito il sostegno dell'Egitto alla sicurezza e alla stabilita'... (Cae)",
           "pubDate": "2026-07-14T20:30:52+02:00",
           "source": "Agenzia Nova",
@@ -93,82 +93,163 @@
           "titleIt": "Kenya: IEBC Fines Gikaria Sh2.5mn Over Ol Kalou Remarks, Orders Apology and Retraction"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "https://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T12:15:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "http://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-14T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
+        },
+        {
+          "title": "Puntland President Warns Against  Predetermined Election as Federal Election Dispute Deepens",
+          "link": "https://wardheernews.com/puntland-president-warns-against-predetermined-elections-as-federal-election-dispute-deepens/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-13T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Puntland President Warns Against  Predetermined Election as Federal Election Dispute Deepens"
+        },
+        {
+          "title": "Emiratis Hang On in the Gulf of Aden",
+          "link": "https://maritime-executive.com/article/emiratis-hang-on-in-the-gulf-of-aden",
+          "source": "maritime-executive.com",
+          "pubDate": "2026-07-13T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Emiratis Hang On in the Gulf of Aden"
+        },
+        {
+          "title": "Super El Nino will hit women the hardest , charity warns :  We should be very worried",
+          "link": "https://www.independent.co.uk/climate-change/el-nino-climate-super-crisis-women-b3011246.html",
+          "source": "independent.co.uk",
+          "pubDate": "2026-07-12T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Super El Nino will hit women the hardest , charity warns :  We should be very worried"
+        },
+        {
+          "title": "Turkey brokers intra - Somalia talks as federal rifts test Ankara influence",
+          "link": "https://horseedmedia.net/turkey-brokers-intra-somalia-talks-as-federal-rifts-test-ankaras-influence/423594/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-07-10T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkey brokers intra - Somalia talks as federal rifts test Ankara influence"
+        },
+        {
+          "title": "Africa : Intra - African Diplomatic Relations Should Not Dictate the External Foreign Policies of African States",
+          "link": "https://allafrica.com/stories/202607090067.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-09T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Intra - African Diplomatic Relations Should Not Dictate the External Foreign Policies of African States"
+        },
+        {
+          "title": "The Israel - Emirates Axis and the Zionist Quest to Take over Somalia Gulf of Aden Coast",
+          "link": "https://wardheernews.com/the-israel-emirates-axis-and-the-zionist-quest-to-take-over-somalias-gulf-of-aden-coast/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-09T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Israel - Emirates Axis and the Zionist Quest to Take over Somalia Gulf of Aden Coast"
+        },
+        {
+          "title": "America retreat is reshaping the Gulf , driving Oman toward Iran | JNS",
+          "link": "https://www.clevelandjewishnews.com/jns/america-s-retreat-is-reshaping-the-gulf-driving-oman-toward-iran/article_10ff54ab-84a6-5725-88a4-0ccb4ce3c87d.html",
+          "source": "clevelandjewishnews.com",
+          "pubDate": "2026-07-08T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "America retreat is reshaping the Gulf , driving Oman toward Iran | JNS"
+        },
+        {
+          "title": "African Development Bank Brokers Zambia Debt - for - Energy Swap",
+          "link": "https://foreignpolicy.com/2026/07/08/zambia-debt-swap-economics-energy-power-copper/",
+          "source": "foreignpolicy.com",
+          "pubDate": "2026-07-08T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African Development Bank Brokers Zambia Debt - for - Energy Swap"
+        },
+        {
+          "title": "America retreat is reshaping the Gulf , driving Oman toward Iran - Christians for Israel International",
+          "link": "https://www.whyisrael.org/jns-org/americas-retreat-is-reshaping-the-gulf-driving-oman-toward-iran/",
+          "source": "whyisrael.org",
+          "pubDate": "2026-07-08T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "America retreat is reshaping the Gulf , driving Oman toward Iran - Christians for Israel International"
+        },
+        {
+          "title": "Somali Pirates Are Back But the Coalition That Beat Them Isnt Coming",
+          "link": "https://warontherocks.com/somali-pirates-are-back-but-the-coalition-that-beat-them-isnt-coming/",
+          "source": "warontherocks.com",
+          "pubDate": "2026-07-08T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somali Pirates Are Back But the Coalition That Beat Them Isnt Coming"
+        },
+        {
+          "title": "From center to periphery : Eritrea forced disengagement from Ethiopia – Awate . com",
+          "link": "https://awate.com/from-center-to-periphery-eritreas-forced-disengagement-from-ethiopia/",
+          "source": "awate.com",
+          "pubDate": "2026-07-08T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From center to periphery : Eritrea forced disengagement from Ethiopia – Awate . com"
+        },
+        {
+          "title": "Somalia : Somaliland President Backs Modern Voter Registration Rollout",
+          "link": "https://allafrica.com/stories/202607070041.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-07T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland President Backs Modern Voter Registration Rollout"
+        },
+        {
+          "title": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan",
+          "link": "https://www.sott.net/article/507156-They-really-think-we-re-that-stupid-Israel-rebrands-scheme-to-ethnically-cleanse-Gaza-of-Palestinians-as-Freedom-of-Movement-Plan",
+          "source": "sott.net",
+          "pubDate": "2026-06-30T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan"
+        },
+        {
+          "title": "The EU finds itself Trumped in north Africa",
+          "link": "https://euobserver.com/224774/the-eu-finds-itself-trumped-in-north-africa/",
+          "source": "euobserver.com",
+          "pubDate": "2026-06-29T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The EU finds itself Trumped in north Africa"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
-          "link": "http://www.northkoreatimes.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
-          "source": "northkoreatimes.com",
-          "pubDate": "2026-07-14T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
-        },
-        {
-          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
-          "link": "http://www.bignewsnetwork.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
-          "source": "bignewsnetwork.com",
-          "pubDate": "2026-07-14T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
-        },
-        {
-          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
-          "link": "http://www.irishsun.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
-          "source": "irishsun.com",
-          "pubDate": "2026-07-14T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
-        },
-        {
-          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
-          "link": "http://www.africaleader.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
-          "source": "africaleader.com",
-          "pubDate": "2026-07-14T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
-        },
-        {
-          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
-          "link": "http://www.indiagazette.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
-          "source": "indiagazette.com",
-          "pubDate": "2026-07-14T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
-        },
-        {
-          "title": "Ethiopia debt problem",
-          "link": "https://africasacountry.com/2026/07/ethiopias-debt-problem",
-          "source": "africasacountry.com",
-          "pubDate": "2026-07-14T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia debt problem"
-        },
-        {
-          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
-          "link": "http://www.massachusettssun.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
-          "source": "massachusettssun.com",
-          "pubDate": "2026-07-14T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
-        },
         {
           "title": "Udine mayor probed for vote buying",
           "link": "https://www.ansa.it/english/news/general_news/2026/07/14/udine-mayor-probed-for-vote-buying_b9d4ee86-4d38-4524-9b06-42ffdc1c1836.html",
@@ -188,42 +269,6 @@
           "titleIt": "Udine mayor probed for vote buying"
         },
         {
-          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
-          "link": "https://news.webindia123.com/news/Articles/World/20260714/4474748.html",
-          "source": "news.webindia123.com",
-          "pubDate": "2026-07-14T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
-        },
-        {
-          "title": "BRICS Conference in Moscow : Connectivity & Tech Sovereignty",
-          "link": "https://www.newkerala.com/news/a/brics-conference-moscow-highlights-connectivity-technological-sovereignty-215.htm",
-          "source": "newkerala.com",
-          "pubDate": "2026-07-14T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Conference in Moscow : Connectivity & Tech Sovereignty"
-        },
-        {
-          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
-          "link": "https://www.jpost.com/middle-east/article-902454",
-          "source": "jpost.com",
-          "pubDate": "2026-07-14T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
-        },
-        {
-          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
-          "link": "http://www.jpost.com/middle-east/article-902454",
-          "source": "jpost.com",
-          "pubDate": "2026-07-14T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
-        },
-        {
           "title": "EU bans purchase and import of Sudanese gold in bid to curb war economy",
           "link": "http://www.africanews.com/2026/07/14/eu-bans-purchase-and-import-of-sudanese-gold-in-bid-to-curb-war-economy/",
           "description": "The European Union is banning the purchase, import and transfer of Sudanese gold in a bid to curb sources of financing for the country’s devastating conflict.",
@@ -233,245 +278,28 @@
           "titleIt": "EU bans purchase and import of Sudanese gold in bid to curb war economy"
         },
         {
-          "title": "Tourist visa fees : What EU travellers can expect to pay",
-          "link": "https://www.euronews.com/travel/2026/07/14/revealed-these-are-the-worlds-most-expensive-tourist-visas-for-eu-citizens",
-          "source": "euronews.com",
-          "pubDate": "2026-07-14T09:15:00Z",
+          "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
+          "link": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
+          "description": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually \"in the long run\".",
+          "pubDate": "Mon, 13 Jul 2026 16:05:13 GMT",
+          "source": "BBC World",
           "lang": "en",
-          "description": "",
-          "titleIt": "Tourist visa fees : What EU travellers can expect to pay"
+          "titleIt": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates"
         },
         {
-          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
-          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-07-14T08:15:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
-        },
-        {
-          "title": "Birds of Saudi Arabia : Sinai Agama ( Tabuk ) – Record by Viv Wilson",
-          "link": "https://www.birdsofsaudiarabia.com/2013/08/sinai-agama-tabuk-record-by-viv-wilson.html",
-          "source": "birdsofsaudiarabia.com",
-          "pubDate": "2026-07-14T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Birds of Saudi Arabia : Sinai Agama ( Tabuk ) – Record by Viv Wilson"
-        },
-        {
-          "title": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row",
-          "link": "https://krdo.com/news/2026/07/13/im-a-dead-man-walking-the-ethiopian-migrants-waiting-on-saudi-arabias-death-row/",
-          "source": "krdo.com",
-          "pubDate": "2026-07-13T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row"
-        },
-        {
-          "title": "NBE lifts credit cap , raises policy rate | Capital Newspaper",
-          "link": "https://capitalethiopia.com/2026/07/13/nbe-lifts-credit-cap-raises-policy-rate/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-07-13T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "NBE lifts credit cap , raises policy rate | Capital Newspaper"
-        },
-        {
-          "title": "Opinion : Kazakhstan Demining Expertise Could Provide Boost to Afghanistan",
-          "link": "https://timesca.com/kazakhstan-demining-afghanistan/",
-          "source": "timesca.com",
-          "pubDate": "2026-07-13T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Opinion : Kazakhstan Demining Expertise Could Provide Boost to Afghanistan"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
-          "link": "http://www.northkoreatimes.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
-          "source": "northkoreatimes.com",
-          "pubDate": "2026-07-14T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
-        },
-        {
-          "title": "Somalia : Somali Minister Holds Bilateral Meetings On Sidelines of Oic Women Conference",
-          "link": "https://allafrica.com/stories/202607140603.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-14T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somali Minister Holds Bilateral Meetings On Sidelines of Oic Women Conference"
-        },
-        {
-          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
-          "link": "http://www.bignewsnetwork.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
-          "source": "bignewsnetwork.com",
-          "pubDate": "2026-07-14T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
-        },
-        {
-          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
-          "link": "http://www.irishsun.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
-          "source": "irishsun.com",
-          "pubDate": "2026-07-14T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
-        },
-        {
-          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
-          "link": "http://www.africaleader.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
-          "source": "africaleader.com",
-          "pubDate": "2026-07-14T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
-        },
-        {
-          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
-          "link": "http://www.indiagazette.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
-          "source": "indiagazette.com",
-          "pubDate": "2026-07-14T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
-        },
-        {
-          "title": "Ethiopia debt problem",
-          "link": "https://africasacountry.com/2026/07/ethiopias-debt-problem",
-          "source": "africasacountry.com",
-          "pubDate": "2026-07-14T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia debt problem"
-        },
-        {
-          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
-          "link": "http://www.massachusettssun.com/news/279187464/brics-conference-in-moscow-highlights-connectivity-and-technological-sovereignty",
-          "source": "massachusettssun.com",
-          "pubDate": "2026-07-14T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
-        },
-        {
-          "title": "OIC conference adopts Islamabad Ministerial Declaration",
-          "link": "https://www.radio.gov.pk/14-07-2026/oic-conference-adopts-islamabad-ministerial-declaration",
-          "source": "radio.gov.pk",
-          "pubDate": "2026-07-14T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "OIC conference adopts Islamabad Ministerial Declaration"
-        },
-        {
-          "title": "Why FAAN Canada mission matters , by Muhammad Garba - Blueprint Newspapers Limited",
-          "link": "https://blueprint.ng/why-faans-canada-mission-matters-by-muhammad-garba/",
-          "source": "blueprint.ng",
-          "pubDate": "2026-07-14T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why FAAN Canada mission matters , by Muhammad Garba - Blueprint Newspapers Limited"
-        },
-        {
-          "title": "Former president Sall to visit Senegal as he campaigns for UN chief post",
-          "link": "https://www.cnbcafrica.com/2026/former-president-sall-to-visit-senegal-as-he-campaigns-for-un-chief-post",
-          "source": "cnbcafrica.com",
-          "pubDate": "2026-07-14T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Former president Sall to visit Senegal as he campaigns for UN chief post"
-        },
-        {
-          "title": "IT - BPM industry lowers outlook",
-          "link": "https://www.philstar.com/business/2026/07/15/2542137/it-bpm-industry-lowers-outlook",
-          "source": "philstar.com",
-          "pubDate": "2026-07-14T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "IT - BPM industry lowers outlook"
-        },
-        {
-          "title": "Trump says US will blockade Iran in Strait of Hormuz , will charge ships for passage",
-          "link": "https://norfolkdailynews.com/news/national/news_national/trump-says-us-will-blockade-iran-in-strait-of-hormuz-will-charge-ships-for-passage/article_90b9e33c-5610-4b77-87dd-6fb91180e7aa.html",
-          "source": "norfolkdailynews.com",
-          "pubDate": "2026-07-14T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump says US will blockade Iran in Strait of Hormuz , will charge ships for passage"
-        },
-        {
-          "title": "The Battle Over Hormuz : Money or Sovereignty ?",
-          "link": "https://themedialine.org/mideast-mindset/the-battle-over-hormuz-money-or-sovereignty/",
-          "source": "themedialine.org",
-          "pubDate": "2026-07-14T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Battle Over Hormuz : Money or Sovereignty ?"
-        },
-        {
-          "title": "Egypt tax revenues rise 28 % in FY2025 / 26 as business climate improves : Kouchouk",
-          "link": "https://www.zawya.com/en/economy/north-africa/egypts-tax-revenues-rise-28-in-fy2025-26-as-business-climate-improves-kouchouk-uel80q2j",
-          "source": "zawya.com",
-          "pubDate": "2026-07-14T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt tax revenues rise 28 % in FY2025 / 26 as business climate improves : Kouchouk"
-        },
-        {
-          "title": "Can Gulf countries defend themselves against renewed Iranian attacks ?",
-          "link": "https://www.aljazeera.com/news/2026/7/14/can-gulf-countries-defend-themselves-against-renewed-iranian-attacks",
-          "source": "aljazeera.com",
-          "pubDate": "2026-07-14T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Can Gulf countries defend themselves against renewed Iranian attacks ?"
-        },
-        {
-          "title": "Former president Sall to visit Senegal as he campaigns for UN chief post",
-          "link": "https://www.straitstimes.com/world/former-president-sall-to-visit-senegal-as-he-campaigns-for-un-chief-post",
-          "source": "straitstimes.com",
-          "pubDate": "2026-07-14T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Former president Sall to visit Senegal as he campaigns for UN chief post"
-        },
-        {
-          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
-          "link": "https://news.webindia123.com/news/Articles/World/20260714/4474748.html",
-          "source": "news.webindia123.com",
-          "pubDate": "2026-07-14T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
-        },
-        {
-          "title": "BRICS Conference in Moscow : Connectivity & Tech Sovereignty",
-          "link": "https://www.newkerala.com/news/a/brics-conference-moscow-highlights-connectivity-technological-sovereignty-215.htm",
-          "source": "newkerala.com",
-          "pubDate": "2026-07-14T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Conference in Moscow : Connectivity & Tech Sovereignty"
-        },
-        {
-          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
-          "link": "https://www.jpost.com/middle-east/article-902454",
-          "source": "jpost.com",
-          "pubDate": "2026-07-14T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
