@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T14:17:20.122Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-07-14T15:52:58.233Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -32,30 +32,21 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Egypt receive a warm welcome home"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenyan grandmothers find health, friendship and purpose through football",
+          "link": "http://www.africanews.com/2026/07/14/kenyan-grandmothers-find-health-friendship-and-purpose-through-football/",
+          "description": "For these women, football is about far more than the final score. It is helping them stay healthy, reduce isolation and build confidence—showing that it's never too late to embrace sport and that ageing can be active, joyful and full of new possibilities",
+          "pubDate": "Tue, 14 Jul 2026 14:49:01 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Kenyan grandmothers find health, friendship and purpose through football"
+        },
         {
           "title": "Uganda: Malaba Traffic Snarl Deepens As Ura Defends Reinstated Cargo Seals",
           "link": "https://allafrica.com/stories/202607140527.html",
@@ -75,28 +66,163 @@
           "titleIt": "Kenya: IEBC Fines Gikaria Sh2.5mn Over Ol Kalou Remarks, Orders Apology and Retraction"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "https://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T12:15:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "http://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-14T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
+        },
+        {
+          "title": "Puntland President Warns Against  Predetermined Election as Federal Election Dispute Deepens",
+          "link": "https://wardheernews.com/puntland-president-warns-against-predetermined-elections-as-federal-election-dispute-deepens/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-13T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Puntland President Warns Against  Predetermined Election as Federal Election Dispute Deepens"
+        },
+        {
+          "title": "Emiratis Hang On in the Gulf of Aden",
+          "link": "https://maritime-executive.com/article/emiratis-hang-on-in-the-gulf-of-aden",
+          "source": "maritime-executive.com",
+          "pubDate": "2026-07-13T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Emiratis Hang On in the Gulf of Aden"
+        },
+        {
+          "title": "Super El Nino will hit women the hardest , charity warns :  We should be very worried",
+          "link": "https://www.independent.co.uk/climate-change/el-nino-climate-super-crisis-women-b3011246.html",
+          "source": "independent.co.uk",
+          "pubDate": "2026-07-12T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Super El Nino will hit women the hardest , charity warns :  We should be very worried"
+        },
+        {
+          "title": "Turkey brokers intra - Somalia talks as federal rifts test Ankara influence",
+          "link": "https://horseedmedia.net/turkey-brokers-intra-somalia-talks-as-federal-rifts-test-ankaras-influence/423594/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-07-10T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkey brokers intra - Somalia talks as federal rifts test Ankara influence"
+        },
+        {
+          "title": "Africa : Intra - African Diplomatic Relations Should Not Dictate the External Foreign Policies of African States",
+          "link": "https://allafrica.com/stories/202607090067.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-09T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Intra - African Diplomatic Relations Should Not Dictate the External Foreign Policies of African States"
+        },
+        {
+          "title": "The Israel - Emirates Axis and the Zionist Quest to Take over Somalia Gulf of Aden Coast",
+          "link": "https://wardheernews.com/the-israel-emirates-axis-and-the-zionist-quest-to-take-over-somalias-gulf-of-aden-coast/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-09T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Israel - Emirates Axis and the Zionist Quest to Take over Somalia Gulf of Aden Coast"
+        },
+        {
+          "title": "America retreat is reshaping the Gulf , driving Oman toward Iran | JNS",
+          "link": "https://www.clevelandjewishnews.com/jns/america-s-retreat-is-reshaping-the-gulf-driving-oman-toward-iran/article_10ff54ab-84a6-5725-88a4-0ccb4ce3c87d.html",
+          "source": "clevelandjewishnews.com",
+          "pubDate": "2026-07-08T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "America retreat is reshaping the Gulf , driving Oman toward Iran | JNS"
+        },
+        {
+          "title": "African Development Bank Brokers Zambia Debt - for - Energy Swap",
+          "link": "https://foreignpolicy.com/2026/07/08/zambia-debt-swap-economics-energy-power-copper/",
+          "source": "foreignpolicy.com",
+          "pubDate": "2026-07-08T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African Development Bank Brokers Zambia Debt - for - Energy Swap"
+        },
+        {
+          "title": "America retreat is reshaping the Gulf , driving Oman toward Iran - Christians for Israel International",
+          "link": "https://www.whyisrael.org/jns-org/americas-retreat-is-reshaping-the-gulf-driving-oman-toward-iran/",
+          "source": "whyisrael.org",
+          "pubDate": "2026-07-08T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "America retreat is reshaping the Gulf , driving Oman toward Iran - Christians for Israel International"
+        },
+        {
+          "title": "Somali Pirates Are Back But the Coalition That Beat Them Isnt Coming",
+          "link": "https://warontherocks.com/somali-pirates-are-back-but-the-coalition-that-beat-them-isnt-coming/",
+          "source": "warontherocks.com",
+          "pubDate": "2026-07-08T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somali Pirates Are Back But the Coalition That Beat Them Isnt Coming"
+        },
+        {
+          "title": "From center to periphery : Eritrea forced disengagement from Ethiopia – Awate . com",
+          "link": "https://awate.com/from-center-to-periphery-eritreas-forced-disengagement-from-ethiopia/",
+          "source": "awate.com",
+          "pubDate": "2026-07-08T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From center to periphery : Eritrea forced disengagement from Ethiopia – Awate . com"
+        },
+        {
+          "title": "Somalia : Somaliland President Backs Modern Voter Registration Rollout",
+          "link": "https://allafrica.com/stories/202607070041.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-07T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland President Backs Modern Voter Registration Rollout"
+        },
+        {
+          "title": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan",
+          "link": "https://www.sott.net/article/507156-They-really-think-we-re-that-stupid-Israel-rebrands-scheme-to-ethnically-cleanse-Gaza-of-Palestinians-as-Freedom-of-Movement-Plan",
+          "source": "sott.net",
+          "pubDate": "2026-06-30T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "They really think were that stupid : Israel rebrands scheme to ethnically cleanse Gaza of Palestinians as  Freedom of Movement Plan"
+        },
+        {
+          "title": "The EU finds itself Trumped in north Africa",
+          "link": "https://euobserver.com/224774/the-eu-finds-itself-trumped-in-north-africa/",
+          "source": "euobserver.com",
+          "pubDate": "2026-06-29T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The EU finds itself Trumped in north Africa"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Ucraina-Francia: Zelensky, firmato importante accordo nel settore della difesa",
-          "link": "https://www.agenzianova.com/a/6a5644ebc9e4b0.60351623/7605661/2026-07-14/ucraina-francia-zelensky-firmato-importante-accordo-nel-settore-della-difesa",
-          "description": "14 lug 16:08 - (Agenzia Nova) - Il risultato dei negoziati tra il presidente ucraino Volodymyr Zelensky e l'omologo francese Emmanuel Macron... (Kiu)",
-          "pubDate": "2026-07-14T16:08:58+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Ucraina-Francia: Zelensky, firmato importante accordo nel settore della difesa"
-        },
         {
           "title": "Udine mayor probed for vote buying",
           "link": "https://www.ansa.it/english/news/general_news/2026/07/14/udine-mayor-probed-for-vote-buying_b9d4ee86-4d38-4524-9b06-42ffdc1c1836.html",
@@ -116,6 +242,42 @@
           "titleIt": "Udine mayor probed for vote buying"
         },
         {
+          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
+          "link": "https://news.webindia123.com/news/Articles/World/20260714/4474748.html",
+          "source": "news.webindia123.com",
+          "pubDate": "2026-07-14T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
+        },
+        {
+          "title": "BRICS Conference in Moscow : Connectivity & Tech Sovereignty",
+          "link": "https://www.newkerala.com/news/a/brics-conference-moscow-highlights-connectivity-technological-sovereignty-215.htm",
+          "source": "newkerala.com",
+          "pubDate": "2026-07-14T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Conference in Moscow : Connectivity & Tech Sovereignty"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "https://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "http://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
           "title": "EU bans purchase and import of Sudanese gold in bid to curb war economy",
           "link": "http://www.africanews.com/2026/07/14/eu-bans-purchase-and-import-of-sudanese-gold-in-bid-to-curb-war-economy/",
           "description": "The European Union is banning the purchase, import and transfer of Sudanese gold in a bid to curb sources of financing for the country’s devastating conflict.",
@@ -123,6 +285,60 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "EU bans purchase and import of Sudanese gold in bid to curb war economy"
+        },
+        {
+          "title": "Tourist visa fees : What EU travellers can expect to pay",
+          "link": "https://www.euronews.com/travel/2026/07/14/revealed-these-are-the-worlds-most-expensive-tourist-visas-for-eu-citizens",
+          "source": "euronews.com",
+          "pubDate": "2026-07-14T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tourist visa fees : What EU travellers can expect to pay"
+        },
+        {
+          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-14T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
+        },
+        {
+          "title": "Birds of Saudi Arabia : Sinai Agama ( Tabuk ) – Record by Viv Wilson",
+          "link": "https://www.birdsofsaudiarabia.com/2013/08/sinai-agama-tabuk-record-by-viv-wilson.html",
+          "source": "birdsofsaudiarabia.com",
+          "pubDate": "2026-07-14T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Birds of Saudi Arabia : Sinai Agama ( Tabuk ) – Record by Viv Wilson"
+        },
+        {
+          "title": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row",
+          "link": "https://krdo.com/news/2026/07/13/im-a-dead-man-walking-the-ethiopian-migrants-waiting-on-saudi-arabias-death-row/",
+          "source": "krdo.com",
+          "pubDate": "2026-07-13T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row"
+        },
+        {
+          "title": "NBE lifts credit cap , raises policy rate | Capital Newspaper",
+          "link": "https://capitalethiopia.com/2026/07/13/nbe-lifts-credit-cap-raises-policy-rate/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-07-13T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "NBE lifts credit cap , raises policy rate | Capital Newspaper"
+        },
+        {
+          "title": "Opinion : Kazakhstan Demining Expertise Could Provide Boost to Afghanistan",
+          "link": "https://timesca.com/kazakhstan-demining-afghanistan/",
+          "source": "timesca.com",
+          "pubDate": "2026-07-13T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Opinion : Kazakhstan Demining Expertise Could Provide Boost to Afghanistan"
         },
         {
           "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
@@ -134,19 +350,245 @@
           "titleIt": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "The missing corridor",
+          "link": "https://www.omanobserver.om/article/1192773/opinion/the-missing-corridor",
+          "source": "omanobserver.om",
+          "pubDate": "2026-07-13T16:00:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "The missing corridor"
+        },
+        {
+          "title": "News Briefing : Church in the World",
+          "link": "https://www.thetablet.co.uk/news/news-briefing-church-in-the-world-83/",
+          "source": "thetablet.co.uk",
+          "pubDate": "2026-07-13T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "News Briefing : Church in the World"
+        },
+        {
+          "title": "Talent cultivation and sci - tech self - reliance - Newsday Zimbabwe",
+          "link": "https://www.newsday.co.zw/opinion-analysis/article/200058269/talent-cultivation-and-sci-tech-self-reliance",
+          "source": "newsday.co.zw",
+          "pubDate": "2026-07-13T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Talent cultivation and sci - tech self - reliance - Newsday Zimbabwe"
+        },
+        {
+          "title": "Customs Commission Closes Year With 738bln In Revenue",
+          "link": "https://www.thereporterethiopia.com/51787/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-13T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Customs Commission Closes Year With 738bln In Revenue"
+        },
+        {
+          "title": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row",
+          "link": "https://abc17news.com/news/national-world/cnn-world/2026/07/12/im-a-dead-man-walking-the-ethiopian-migrants-waiting-on-saudi-arabias-death-row/",
+          "source": "abc17news.com",
+          "pubDate": "2026-07-13T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Im a dead man walking : The Ethiopian migrants waiting on Saudi Arabia death row"
+        },
+        {
+          "title": "Uganda Growing Defence Partnership With China",
+          "link": "https://allafrica.com/stories/202607130375.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-13T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Uganda Growing Defence Partnership With China"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Can Gulf countries defend themselves against renewed Iranian attacks ?",
+          "link": "https://www.aljazeera.com/news/2026/7/14/can-gulf-countries-defend-themselves-against-renewed-iranian-attacks",
+          "source": "aljazeera.com",
+          "pubDate": "2026-07-14T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Can Gulf countries defend themselves against renewed Iranian attacks ?"
+        },
+        {
+          "title": "Former president Sall to visit Senegal as he campaigns for UN chief post",
+          "link": "https://www.straitstimes.com/world/former-president-sall-to-visit-senegal-as-he-campaigns-for-un-chief-post",
+          "source": "straitstimes.com",
+          "pubDate": "2026-07-14T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Former president Sall to visit Senegal as he campaigns for UN chief post"
+        },
+        {
+          "title": "BRICS Conference in Moscow highlights connectivity and technological sovereignty",
+          "link": "https://news.webindia123.com/news/Articles/World/20260714/4474748.html",
+          "source": "news.webindia123.com",
+          "pubDate": "2026-07-14T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Conference in Moscow highlights connectivity and technological sovereignty"
+        },
+        {
+          "title": "BRICS Conference in Moscow : Connectivity & Tech Sovereignty",
+          "link": "https://www.newkerala.com/news/a/brics-conference-moscow-highlights-connectivity-technological-sovereignty-215.htm",
+          "source": "newkerala.com",
+          "pubDate": "2026-07-14T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Conference in Moscow : Connectivity & Tech Sovereignty"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "https://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Indian solar companies turn to Africa as Gujarat - based Navitas Solar enters EPC market with Zambia project",
+          "link": "https://www.thehindubusinessline.com/news/indian-solar-companies-turn-to-africa-as-gujarat-based-navitas-solar-enters-epc-market-with-zambia-project/article71220858.ece",
+          "source": "thehindubusinessline.com",
+          "pubDate": "2026-07-14T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Indian solar companies turn to Africa as Gujarat - based Navitas Solar enters EPC market with Zambia project"
+        },
+        {
+          "title": "Our land , our sky : West Bank Palestinians fly kites in defiance of Israeli settlers",
+          "link": "https://english.pnn.ps/news/48202",
+          "source": "english.pnn.ps",
+          "pubDate": "2026-07-14T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Our land , our sky : West Bank Palestinians fly kites in defiance of Israeli settlers"
+        },
+        {
+          "title": "Rare McCullagh coin collection hits Roxbury auction block | Narooma News",
+          "link": "https://www.naroomanewsonline.com.au/story/9310630/rare-mccullagh-coin-collection-hits-roxburys-auction-block/",
+          "source": "naroomanewsonline.com.au",
+          "pubDate": "2026-07-14T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rare McCullagh coin collection hits Roxbury auction block | Narooma News"
+        },
+        {
+          "title": "Rare McCullagh coin collection hits Roxbury auction block | Crookwell Gazette",
+          "link": "https://www.crookwellgazette.com.au/story/9310630/rare-mccullagh-coin-collection-hits-roxburys-auction-block/",
+          "source": "crookwellgazette.com.au",
+          "pubDate": "2026-07-14T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rare McCullagh coin collection hits Roxbury auction block | Crookwell Gazette"
+        },
+        {
+          "title": "Rare McCullagh coin collection hits Roxbury auction block | Yass Tribune",
+          "link": "https://www.yasstribune.com.au/story/9310630/rare-mccullagh-coin-collection-hits-roxburys-auction-block/",
+          "source": "yasstribune.com.au",
+          "pubDate": "2026-07-14T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rare McCullagh coin collection hits Roxbury auction block | Yass Tribune"
+        },
+        {
+          "title": "PM : Egypt intensifying efforts to secure strategic petroleum reserves",
+          "link": "https://www.egyptindependent.com/pm-egypt-intensifying-efforts-to-secure-strategic-petroleum-reserves/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-07-14T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "PM : Egypt intensifying efforts to secure strategic petroleum reserves"
+        },
+        {
+          "title": "Rare McCullagh coin collection hits Roxbury auction block | Harden Murrumburrah Express",
+          "link": "https://www.hardenexpress.com.au/story/9310630/rare-mccullagh-coin-collection-hits-roxburys-auction-block/",
+          "source": "hardenexpress.com.au",
+          "pubDate": "2026-07-14T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rare McCullagh coin collection hits Roxbury auction block | Harden Murrumburrah Express"
+        },
+        {
+          "title": "Rare McCullagh coin collection hits Roxbury auction block | Camden Haven Courier",
+          "link": "https://www.camdencourier.com.au/story/9310630/rare-mccullagh-coin-collection-hits-roxburys-auction-block/",
+          "source": "camdencourier.com.au",
+          "pubDate": "2026-07-14T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rare McCullagh coin collection hits Roxbury auction block | Camden Haven Courier"
+        },
+        {
+          "title": "How the World Cup brought out the best and worst of America",
+          "link": "https://www.middleeasteye.net/discover/how-world-cup-brought-out-best-and-worst-america",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-07-14T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How the World Cup brought out the best and worst of America"
+        },
+        {
+          "title": "Rare McCullagh coin collection hits Roxbury auction block | Central Western Daily",
+          "link": "https://www.centralwesterndaily.com.au/story/9310630/rare-mccullagh-coin-collection-hits-roxburys-auction-block/",
+          "source": "centralwesterndaily.com.au",
+          "pubDate": "2026-07-14T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rare McCullagh coin collection hits Roxbury auction block | Central Western Daily"
+        },
+        {
+          "title": "Egypt , FAO discuss support for  Productive Village Revival  initiative",
+          "link": "https://www.egyptindependent.com/egypt-fao-discuss-support-for-productive-village-revival-initiative/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-07-14T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt , FAO discuss support for  Productive Village Revival  initiative"
+        },
+        {
+          "title": "In his final term as WJC president , Ronald Lauder looks for the next generation to step up",
+          "link": "https://ejewishphilanthropy.com/in-his-final-term-as-wjc-president-ronald-lauder-looks-for-the-next-generation-to-step-up/",
+          "source": "ejewishphilanthropy.com",
+          "pubDate": "2026-07-14T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "In his final term as WJC president , Ronald Lauder looks for the next generation to step up"
+        },
+        {
+          "title": "Egypt reviews Red Sea sustainable blue economy projects , marine conservation plans",
+          "link": "https://www.zawya.com/en/business/travel-and-tourism/egypt-reviews-red-sea-sustainable-blue-economy-projects-marine-conservation-plans-yp5qvfbs",
+          "source": "zawya.com",
+          "pubDate": "2026-07-14T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt reviews Red Sea sustainable blue economy projects , marine conservation plans"
+        },
+        {
+          "title": "Egypt trade deficit up 20 . 2 % YoY in April 2026 : CAPMAS",
+          "link": "https://www.zawya.com/en/economy/north-africa/egypts-trade-deficit-up-202-yoy-in-april-2026-capmas-oowck2k8",
+          "source": "zawya.com",
+          "pubDate": "2026-07-14T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt trade deficit up 20 . 2 % YoY in April 2026 : CAPMAS"
+        },
+        {
+          "title": "Rare McCullagh coin collection hits Roxbury auction block | Glen Innes Examiner",
+          "link": "https://www.gleninnesexaminer.com.au/story/9310630/rare-mccullagh-coin-collection-hits-roxburys-auction-block/",
+          "source": "gleninnesexaminer.com.au",
+          "pubDate": "2026-07-14T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rare McCullagh coin collection hits Roxbury auction block | Glen Innes Examiner"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
