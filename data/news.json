@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T23:15:36.632Z",
+  "generatedAt": "2026-07-16T03:42:35.271Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -88,6 +88,24 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Colombia-Israele: accordo per il pieno ripristino dei rapporti bilaterali e trasferimento ambasciata a Gerusalemme (2)",
+          "link": "https://www.agenzianova.com/a/6a5853270af029.41718597/7611765/2026-07-16/colombia-israele-accordo-per-il-pieno-ripristino-dei-rapporti-bilaterali-e-trasferimento-ambasciata-a-gerusalemme-2",
+          "description": "16 lug 02:27 - (Agenzia Nova) - La decisione segna una netta inversione rispetto alla linea del presidente uscente Gustavo Petro, che nel 2024... (Was)",
+          "pubDate": "2026-07-16T02:27:51+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Colombia-Israele: accordo per il pieno ripristino dei rapporti bilaterali e trasferimento ambasciata a Gerusalemme (2)"
+        },
+        {
+          "title": "Colombia-Israele: accordo per il pieno ripristino dei rapporti bilaterali e trasferimento ambasciata a Gerusalemme",
+          "link": "https://www.agenzianova.com/a/6a5853270b09a3.02430032/7611764/2026-07-16/colombia-israele-accordo-per-il-pieno-ripristino-dei-rapporti-bilaterali-e-trasferimento-ambasciata-a-gerusalemme",
+          "description": "16 lug 02:27 - (Agenzia Nova) - Il governo colombiano del presidente eletto Abelardo de la Espriella ripristinera' integralmente le relazioni... (Was)",
+          "pubDate": "2026-07-16T02:27:51+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Colombia-Israele: accordo per il pieno ripristino dei rapporti bilaterali e trasferimento ambasciata a Gerusalemme"
+        },
         {
           "title": "Italy-Japan Innovation Forum in Milan",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/15/italy-japan-innovation-forum-in-milan_4ce6604d-94df-4004-b42c-ddfdbfb4012b.html",
@@ -182,188 +200,7 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Across - the - board gains for U . S . stocks Wednesday",
-          "link": "http://www.bruneinews.net/news/279189817/across-the-board-gains-for-u-s-stocks-wednesday",
-          "source": "bruneinews.net",
-          "pubDate": "2026-07-15T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Across - the - board gains for U . S . stocks Wednesday"
-        },
-        {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.tucsonpost.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "tucsonpost.com",
-          "pubDate": "2026-07-15T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
-        },
-        {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.asiabulletin.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "asiabulletin.com",
-          "pubDate": "2026-07-15T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
-        },
-        {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.srilankasource.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "srilankasource.com",
-          "pubDate": "2026-07-15T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
-        },
-        {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.bostonstar.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "bostonstar.com",
-          "pubDate": "2026-07-15T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
-        },
-        {
-          "title": "Across - the - board gains for U . S . stocks Wednesday",
-          "link": "http://www.australiannews.net/news/279189817/across-the-board-gains-for-u-s-stocks-wednesday",
-          "source": "australiannews.net",
-          "pubDate": "2026-07-15T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Across - the - board gains for U . S . stocks Wednesday"
-        },
-        {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.afghanistansun.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "afghanistansun.com",
-          "pubDate": "2026-07-15T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
-        },
-        {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.jamaicantimes.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "jamaicantimes.com",
-          "pubDate": "2026-07-15T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
-        },
-        {
-          "title": "Across - the - board gains for U . S . stocks Wednesday",
-          "link": "http://www.thailandnews.net/news/279189817/across-the-board-gains-for-u-s-stocks-wednesday",
-          "source": "thailandnews.net",
-          "pubDate": "2026-07-15T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Across - the - board gains for U . S . stocks Wednesday"
-        },
-        {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.pakistantelegraph.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "pakistantelegraph.com",
-          "pubDate": "2026-07-15T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
-        },
-        {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.hongkongherald.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "hongkongherald.com",
-          "pubDate": "2026-07-15T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
-        },
-        {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.texasguardian.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "texasguardian.com",
-          "pubDate": "2026-07-15T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
-        },
-        {
-          "title": "Greater Israel , an unfinished war and Pakistan balancing act",
-          "link": "https://tribune.com.pk/story/2618450/greater-israel-an-unfinished-war-and-pakistans-balancing-act",
-          "source": "tribune.com.pk",
-          "pubDate": "2026-07-15T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Greater Israel , an unfinished war and Pakistan balancing act"
-        },
-        {
-          "title": "Middle East new security paradigm",
-          "link": "https://tribune.com.pk/story/2618449/middle-easts-new-security-paradigm",
-          "source": "tribune.com.pk",
-          "pubDate": "2026-07-15T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Middle East new security paradigm"
-        },
-        {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.iraqsun.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "iraqsun.com",
-          "pubDate": "2026-07-15T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
-        },
-        {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.zimbabwestar.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "zimbabwestar.com",
-          "pubDate": "2026-07-15T21:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
-        },
-        {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.pittsburghstar.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "pittsburghstar.com",
-          "pubDate": "2026-07-15T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
-        },
-        {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.tennesseedaily.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "tennesseedaily.com",
-          "pubDate": "2026-07-15T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
-        },
-        {
-          "title": "Nasdaq leads charge as tech stocks surge again",
-          "link": "http://www.ohiostandard.com/news/279189817/nasdaq-leads-charge-as-tech-stocks-surge-again",
-          "source": "ohiostandard.com",
-          "pubDate": "2026-07-15T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq leads charge as tech stocks surge again"
-        },
-        {
-          "title": "Across - the - board gains for U . S . stocks Wednesday",
-          "link": "http://www.calcuttanews.net/news/279189817/across-the-board-gains-for-u-s-stocks-wednesday",
-          "source": "calcuttanews.net",
-          "pubDate": "2026-07-15T21:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Across - the - board gains for U . S . stocks Wednesday"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
