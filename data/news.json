@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-07-16T03:42:35.271Z",
+  "generatedAt": "2026-07-16T06:34:40.510Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: Somali Army Destroys Al-Shabaab Hideouts in Lower Shabelle Operation",
-          "link": "https://allafrica.com/stories/202607150600.html",
-          "description": "[Shabelle] Mogadishu -- The Somali National Army (SNA) said it carried out a planned operation in villages near Sablaale district in the Lower Shabelle region, targeting positions used by the Islamist militant group Al-Shabaab.",
-          "pubDate": "Wed, 15 Jul 2026 16:26:14 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somali Army Destroys Al-Shabaab Hideouts in Lower Shabelle Operation"
-        },
         {
           "title": "Regeni verdict September 28",
           "link": "https://www.ansa.it/english/news/2026/07/14/regeni-verdict-september-28_d8199d10-f925-42a0-a33e-f6ed70bd0004.html",
@@ -88,24 +79,6 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Colombia-Israele: accordo per il pieno ripristino dei rapporti bilaterali e trasferimento ambasciata a Gerusalemme (2)",
-          "link": "https://www.agenzianova.com/a/6a5853270af029.41718597/7611765/2026-07-16/colombia-israele-accordo-per-il-pieno-ripristino-dei-rapporti-bilaterali-e-trasferimento-ambasciata-a-gerusalemme-2",
-          "description": "16 lug 02:27 - (Agenzia Nova) - La decisione segna una netta inversione rispetto alla linea del presidente uscente Gustavo Petro, che nel 2024... (Was)",
-          "pubDate": "2026-07-16T02:27:51+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Colombia-Israele: accordo per il pieno ripristino dei rapporti bilaterali e trasferimento ambasciata a Gerusalemme (2)"
-        },
-        {
-          "title": "Colombia-Israele: accordo per il pieno ripristino dei rapporti bilaterali e trasferimento ambasciata a Gerusalemme",
-          "link": "https://www.agenzianova.com/a/6a5853270b09a3.02430032/7611764/2026-07-16/colombia-israele-accordo-per-il-pieno-ripristino-dei-rapporti-bilaterali-e-trasferimento-ambasciata-a-gerusalemme",
-          "description": "16 lug 02:27 - (Agenzia Nova) - Il governo colombiano del presidente eletto Abelardo de la Espriella ripristinera' integralmente le relazioni... (Was)",
-          "pubDate": "2026-07-16T02:27:51+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Colombia-Israele: accordo per il pieno ripristino dei rapporti bilaterali e trasferimento ambasciata a Gerusalemme"
-        },
         {
           "title": "Italy-Japan Innovation Forum in Milan",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/15/italy-japan-innovation-forum-in-milan_4ce6604d-94df-4004-b42c-ddfdbfb4012b.html",
@@ -200,7 +173,188 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "U . S . House passes bill with US$500 million in military financing for Taiwan",
+          "link": "https://focustaiwan.tw/politics/202607160008",
+          "source": "focustaiwan.tw",
+          "pubDate": "2026-07-16T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . House passes bill with US$500 million in military financing for Taiwan"
+        },
+        {
+          "title": "U . S . House passes bill with US$500 million in military financing for Taiwan",
+          "link": "https://focustaiwan.tw:443/politics/202607160008",
+          "source": "focustaiwan.tw",
+          "pubDate": "2026-07-16T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . House passes bill with US$500 million in military financing for Taiwan"
+        },
+        {
+          "title": "International Business : Global stocks edge up after drop in US inflation reading",
+          "link": "https://www.gdnonline.com:443/Details/1400784",
+          "source": "gdnonline.com",
+          "pubDate": "2026-07-16T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "International Business : Global stocks edge up after drop in US inflation reading"
+        },
+        {
+          "title": "Africa Startup Funding Holds Steady As Early - Stage Deals Dip",
+          "link": "https://allafrica.com/stories/202607160031.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-16T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa Startup Funding Holds Steady As Early - Stage Deals Dip"
+        },
+        {
+          "title": "Messi and Argentina set for World Cup final showdown with Spain - Breaking News",
+          "link": "https://www.dailymirror.lk/breaking-news/Messi-and-Argentina-set-for-World-Cup-final-showdown-with-Spain/108-345740",
+          "source": "dailymirror.lk",
+          "pubDate": "2026-07-16T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Messi and Argentina set for World Cup final showdown with Spain - Breaking News"
+        },
+        {
+          "title": "Africa : China Is Funding African Farmers but Not Food Processing and Storage - Why It a Problem",
+          "link": "https://allafrica.com/stories/202607160042.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-16T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : China Is Funding African Farmers but Not Food Processing and Storage - Why It a Problem"
+        },
+        {
+          "title": "AfDB Approves USD 66 Million for Egypt Dandara Solar Project",
+          "link": "https://cairoscene.com/News/AfDB-Approves-USD-66-Million-for-Egypt-s-Dandara-Solar-Project",
+          "source": "cairoscene.com",
+          "pubDate": "2026-07-16T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AfDB Approves USD 66 Million for Egypt Dandara Solar Project"
+        },
+        {
+          "title": "All Socialists Are Ignorant , But Some Are More Ignorant Than Others ...",
+          "link": "https://www.zerohedge.com/political/all-socialists-are-ignorant-some-are-more-ignorant-others",
+          "source": "zerohedge.com",
+          "pubDate": "2026-07-16T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "All Socialists Are Ignorant , But Some Are More Ignorant Than Others ..."
+        },
+        {
+          "title": "Macau mascot strategy | MACAU DAILY TIMES 澳門每日時報",
+          "link": "https://macaudailytimes.com.mo/macaus-mascot-strategy.html",
+          "source": "macaudailytimes.com.mo",
+          "pubDate": "2026-07-16T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Macau mascot strategy | MACAU DAILY TIMES 澳門每日時報"
+        },
+        {
+          "title": "Indonesia urges BRICS members to strengthen future skills forecasting",
+          "link": "https://en.antaranews.com/news/422852/indonesia-urges-brics-members-to-strengthen-future-skills-forecasting",
+          "source": "en.antaranews.com",
+          "pubDate": "2026-07-16T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Indonesia urges BRICS members to strengthen future skills forecasting"
+        },
+        {
+          "title": "Fresh capital not enough to boost bank value – Proshare",
+          "link": "https://thesun.ng/fresh-capital-not-enough-to-boost-banks-value-proshare/",
+          "source": "thesun.ng",
+          "pubDate": "2026-07-16T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fresh capital not enough to boost bank value – Proshare"
+        },
+        {
+          "title": "Pacific . scoop . co . nz » UN Forum Concludes With Renewed Commitment To Accelerate Action On The Sustainable Development Goals",
+          "link": "https://pacific.scoop.co.nz/2026/07/un-forum-concludes-with-renewed-commitment-to-accelerate-action-on-the-sustainable-development-goals/",
+          "source": "pacific.scoop.co.nz",
+          "pubDate": "2026-07-16T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pacific . scoop . co . nz » UN Forum Concludes With Renewed Commitment To Accelerate Action On The Sustainable Development Goals"
+        },
+        {
+          "title": "Shipping Tribune",
+          "link": "https://www.shippingtribune.com/news/shipping/Global+liquefied+natural+gas+trade+volumes+reached+record+high+in+2025",
+          "source": "shippingtribune.com",
+          "pubDate": "2026-07-16T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Shipping Tribune"
+        },
+        {
+          "title": "Argentina rallies late again to beat England , return to World Cup final",
+          "link": "https://www.timesfreepress.com/news/2026/jul/15/argentina-rallies-late-again-to-beat-England/",
+          "source": "timesfreepress.com",
+          "pubDate": "2026-07-16T04:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Argentina rallies late again to beat England , return to World Cup final"
+        },
+        {
+          "title": "These 5 Indian stocks trade below book value . Here what the market sees",
+          "link": "https://www.livemint.com/market/stock-market-news/these-5-indian-stocks-trade-below-book-value-heres-what-the-market-sees-11784114522689.html",
+          "source": "livemint.com",
+          "pubDate": "2026-07-16T03:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "These 5 Indian stocks trade below book value . Here what the market sees"
+        },
+        {
+          "title": "Dems split on Massie effort to zero out Israel security aid",
+          "link": "https://rollcall.com/2026/07/15/dems-split-on-massie-effort-to-zero-out-israel-security-aid/",
+          "source": "rollcall.com",
+          "pubDate": "2026-07-16T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dems split on Massie effort to zero out Israel security aid"
+        },
+        {
+          "title": "Global liquefied natural gas trade volumes reached record high in 2025 | Hellenic Shipping News Worldwide",
+          "link": "https://www.hellenicshippingnews.com/global-liquefied-natural-gas-trade-volumes-reached-record-high-in-2025/",
+          "source": "hellenicshippingnews.com",
+          "pubDate": "2026-07-16T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Global liquefied natural gas trade volumes reached record high in 2025 | Hellenic Shipping News Worldwide"
+        },
+        {
+          "title": "UN Forum Concludes With Renewed Commitment To Accelerate Action On The Sustainable Development Goals",
+          "link": "https://www.scoop.co.nz/stories/WO2607/S00147/un-forum-concludes-with-renewed-commitment-to-accelerate-action-on-the-sustainable-development-goals.htm",
+          "source": "scoop.co.nz",
+          "pubDate": "2026-07-16T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UN Forum Concludes With Renewed Commitment To Accelerate Action On The Sustainable Development Goals"
+        },
+        {
+          "title": "The Revenge of Amoris Laetitia",
+          "link": "https://www.catholicculture.org/commentary/revenge-amoris-laetitia/",
+          "source": "catholicculture.org",
+          "pubDate": "2026-07-16T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Revenge of Amoris Laetitia"
+        },
+        {
+          "title": "Operationalizing the Trilateral Framework Agreement",
+          "link": "https://www.washingtoninstitute.org/policy-analysis/operationalizing-trilateral-framework-agreement",
+          "source": "washingtoninstitute.org",
+          "pubDate": "2026-07-16T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Operationalizing the Trilateral Framework Agreement"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
