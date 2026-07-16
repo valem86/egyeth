@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T19:37:02.840Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-07-16T21:19:42.122Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -23,30 +23,21 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Egypt receive a warm welcome home"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Iran: esplosioni presso citta' portuale di Bushehr",
+          "link": "https://www.agenzianova.com/a/6a594ae9acf5a3.65523563/7616227/2026-07-16/iran-esplosioni-presso-citta-portuale-di-bushehr",
+          "description": "16 lug 22:01 - (Agenzia Nova) - Le autorita' iraniane hanno riportato esplosioni nei pressi di Busherh, citta' meridionale con porto sul Golfo... (Res)",
+          "pubDate": "2026-07-16T22:01:26+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Iran: esplosioni presso citta' portuale di Bushehr"
+        },
         {
           "title": "Could Somalia See The World Next Major Oil Discovery ?",
           "link": "https://oilprice.com/Energy/Crude-Oil/Could-Somalia-See-The-Worlds-Next-Major-Oil-Discovery.html",
@@ -217,15 +208,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "America retreat is reshaping the Gulf , driving Oman toward Iran | JNS"
-        },
-        {
-          "title": "African Development Bank Brokers Zambia Debt - for - Energy Swap",
-          "link": "https://foreignpolicy.com/2026/07/08/zambia-debt-swap-economics-energy-power-copper/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-07-08T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African Development Bank Brokers Zambia Debt - for - Energy Swap"
         }
       ]
     },
@@ -233,13 +215,22 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Algeria-Germania: lanciata a Berlino una nuova agenda strategica di partenariato (2)",
-          "link": "https://www.agenzianova.com/a/6a5932dc6cbd45.12888269/7615979/2026-07-16/algeria-germania-lanciata-a-berlino-una-nuova-agenda-strategica-di-partenariato-2",
-          "description": "16 lug 19:38 - (Agenzia Nova) - Il settore energetico occupa una posizione centrale nella nuova agenda. Le parti hanno ribadito l'importanza... (Ala)",
-          "pubDate": "2026-07-16T19:38:16+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Algeria-Germania: lanciata a Berlino una nuova agenda strategica di partenariato (2)"
+          "title": "A 500 - mile crack splitting Kenya and Ethiopia has been growing for years , and the thing tearing open beneath that dry red earth turns out to be the beginning of a brand new ocean , with more than 1 , 200 human fossils caught in the middle",
+          "link": "https://www.ecoportal.net/en/east-african-rift-new-ocean-fossils-ethiopia-kenya/29244/",
+          "source": "ecoportal.net",
+          "pubDate": "2026-07-16T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A 500 - mile crack splitting Kenya and Ethiopia has been growing for years , and the thing tearing open beneath that dry red earth turns out to be the beginning of a brand new ocean , with more than 1 , 200 human fossils caught in the middle"
+        },
+        {
+          "title": "The Horn Of Africa States : The Invisible Money Revolution - OpEd",
+          "link": "https://www.eurasiareview.com/16072026-the-horn-of-africa-states-the-invisible-money-revolution-oped/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-07-16T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Horn Of Africa States : The Invisible Money Revolution - OpEd"
         },
         {
           "title": "Ethiopia: U.S. Ambassador Touches Down in Gondar to Champion Trade, Regional Stability",
@@ -269,6 +260,87 @@
           "titleIt": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini"
         },
         {
+          "title": "African Nexus Summit discusses innovative approaches to build climate resilience – Ghanamma . com",
+          "link": "https://www.ghanamma.com/2026/07/16/african-nexus-summit-discusses-innovative-approaches-to-build-climate-resilience/",
+          "source": "ghanamma.com",
+          "pubDate": "2026-07-16T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African Nexus Summit discusses innovative approaches to build climate resilience – Ghanamma . com"
+        },
+        {
+          "title": "Foreign Affairs Council : Remarks by High Representative Kaja Kallas at the press conference",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260713-eeas01.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-07-16T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Foreign Affairs Council : Remarks by High Representative Kaja Kallas at the press conference"
+        },
+        {
+          "title": "Ethiopia : PM Abiy Calls On Natl Dialogue Conference Participants to Embrace Responsibility , Safeguard Sovereignty",
+          "link": "https://allafrica.com/stories/202607160056.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-16T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : PM Abiy Calls On Natl Dialogue Conference Participants to Embrace Responsibility , Safeguard Sovereignty"
+        },
+        {
+          "title": "Africa : Ethiopia National Dialogue Can Serve As Exemplary Model for Africa - PM Abiy",
+          "link": "https://allafrica.com/stories/202607160059.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-16T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Ethiopia National Dialogue Can Serve As Exemplary Model for Africa - PM Abiy"
+        },
+        {
+          "title": "Ethiopia : As War Fears Grow in Ethiopia , Women Soldiers Recount the Sexual Violence They Experienced",
+          "link": "https://allafrica.com/stories/202607160038.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-16T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : As War Fears Grow in Ethiopia , Women Soldiers Recount the Sexual Violence They Experienced"
+        },
+        {
+          "title": "Ibovespa : Brazil Financial Morning Call for Thursday",
+          "link": "https://www.riotimesonline.com/brazils-financial-morning-call-for-thursday-july-16-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-07-16T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ibovespa : Brazil Financial Morning Call for Thursday"
+        },
+        {
+          "title": "American Sanctions Didnt Improve Eritrea Brutal Government - The American Conservative",
+          "link": "https://www.theamericanconservative.com/american-sanctions-didnt-improve-eritreas-brutal-government/",
+          "source": "theamericanconservative.com",
+          "pubDate": "2026-07-16T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "American Sanctions Didnt Improve Eritrea Brutal Government - The American Conservative"
+        },
+        {
+          "title": "Resource - for - security deals reshape power dynamics in Africa",
+          "link": "https://www.riotimesonline.com/resource-for-security-deals-reshaping-power-africa-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-07-15T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Resource - for - security deals reshape power dynamics in Africa"
+        },
+        {
+          "title": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information",
+          "link": "https://shabait.com/2026/07/15/ethiopias-prosperity-party-delusional-precepts-as-tools-of-regional-destabilization/",
+          "source": "shabait.com",
+          "pubDate": "2026-07-15T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information"
+        },
+        {
           "title": "Italy-Japan Innovation Forum in Milan",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/15/italy-japan-innovation-forum-in-milan_4ce6604d-94df-4004-b42c-ddfdbfb4012b.html",
           "description": "(ANSA) - ROMA, 15 LUG - The roundtable discussion “Lombardy and Japan: Shaping Innovation Together,” organized by the Lombardy Region, Assolombarda, Promos Italia, and JETRO Milan, was held in Milan at the Belvedere of Palazzo Lombardia. The initiative brought together a select delegation of Japanese companies with the aim of exploring opportunities for industrial and commercial collaboration with innovative Italian startups and SMEs active in international markets. Discussions focused in particular on the life sciences and renewable energy sectors, identified as strategic areas for developing",
@@ -287,6 +359,24 @@
           "titleIt": "EU report: Agri' markets expected to remain resilient in 2026 despite heat risks"
         },
         {
+          "title": "Newborn giraffe named after Jude Bellingham at Hythe wildlife park",
+          "link": "https://www.bbc.co.uk/news/articles/cdr4r7v5l7go",
+          "source": "bbc.co.uk",
+          "pubDate": "2026-07-15T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Newborn giraffe named after Jude Bellingham at Hythe wildlife park"
+        },
+        {
+          "title": "GCW768",
+          "link": "https://www.globalcement.com/news/tags/gcw768",
+          "source": "globalcement.com",
+          "pubDate": "2026-07-15T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GCW768"
+        },
+        {
           "title": "Markets may be underestimating risks, sharp correction possible - BoI's Panetta",
           "link": "https://www.ansa.it/english/news/business/2026/07/15/markets-may-be-underestimating-risks-sharp-correction-possible-bois-panetta_04b32105-5519-4653-8488-2919b4449d07.html",
           "description": "(ANSA) - ROME, JUL 15 - Bank of Italy Governor Fabio Panetta said Wednesday that the financial markets may be underestimating the risks the global economy faces and a major corrections could be in store. \"The speed of the market recovery (following shock of the Iran war) should be interpreted with caution,\" Panetta said during a speech at the assembly of Italian banking association ABI. \"It may indicate confidence in the global economy's ability to absorb these tensions. \"However, it may also signal an underestimation of the risks, a hypothesis that is supported by various indicators. \"The ris",
@@ -303,33 +393,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Markets may be underestimating risks, sharp correction possible - BoI's Panetta"
-        },
-        {
-          "title": "UN warns terrorist threat Is spreading across west Africa and the sahel",
-          "link": "http://www.africanews.com/2026/07/15/un-warns-terrorist-threat-is-spreading-across-west-africa-and-the-sahel/",
-          "description": "The UN says lasting stability in the region will require sustained international support, investment in humanitarian assistance and stronger regional cooperation to tackle both the security threats and the underlying causes of conflict.",
-          "pubDate": "Wed, 15 Jul 2026 05:59:22 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "UN warns terrorist threat Is spreading across west Africa and the sahel"
-        },
-        {
-          "title": "Villa warned over sportswashing after Visit Rwanda deal",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
-          "description": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record.",
-          "pubDate": "Tue, 14 Jul 2026 18:44:04 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -338,7 +401,7 @@
       "items": [
         {
           "title": "Egitto: lanciato progetto \"Villaggio produttivo\" per creare posti lavoro e frenare emigrazione (2)",
-          "link": "https://www.agenzianova.com/a/6a5932dc6bfe41.72844222/7616011/2026-07-16/egitto-lanciato-progetto-villaggio-produttivo-per-creare-posti-lavoro-e-frenare-emigrazione-2",
+          "link": "https://www.agenzianova.com/a/6a594ae9ae7e32.41615081/7616011/2026-07-16/egitto-lanciato-progetto-villaggio-produttivo-per-creare-posti-lavoro-e-frenare-emigrazione-2",
           "description": "16 lug 19:45 - (Agenzia Nova) - Il governo egiziano ha condotto indagini e visite sul campo nei villaggi individuati per valutarne le capacita'... (Cae)",
           "pubDate": "2026-07-16T19:45:23+02:00",
           "source": "Agenzia Nova",
@@ -352,7 +415,7 @@
       "items": [
         {
           "title": "Egitto: lanciato progetto \"Villaggio produttivo\" per creare posti lavoro e frenare emigrazione (4)",
-          "link": "https://www.agenzianova.com/a/6a5932dc6bd199.51520751/7616013/2026-07-16/egitto-lanciato-progetto-villaggio-produttivo-per-creare-posti-lavoro-e-frenare-emigrazione-4",
+          "link": "https://www.agenzianova.com/a/6a594ae9ae58e7.32922052/7616013/2026-07-16/egitto-lanciato-progetto-villaggio-produttivo-per-creare-posti-lavoro-e-frenare-emigrazione-4",
           "description": "16 lug 19:45 - (Agenzia Nova) - La semplificazione delle procedure di rilascio delle licenze per le attivita' industriali al di fuori delle... (Cae)",
           "pubDate": "2026-07-16T19:45:23+02:00",
           "source": "Agenzia Nova",
