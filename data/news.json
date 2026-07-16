@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-16T06:34:40.510Z",
+  "generatedAt": "2026-07-16T10:23:21.883Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Austria-Egitto: ministri Esteri tengono a Vienna il primo ciclo di consultazioni politiche (2)",
+          "link": "https://www.agenzianova.com/a/6a58b11586fb53.71723696/7613566/2026-07-16/austria-egitto-ministri-esteri-tengono-a-vienna-il-primo-ciclo-di-consultazioni-politiche-2",
+          "description": "16 lug 12:12 - (Agenzia Nova) - Durante la visita in Austria, Abdelatty ha firmato un accordo bilaterale sui servizi aerei per ampliare i collegamenti... (Cae)",
+          "pubDate": "2026-07-16T12:12:36+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Austria-Egitto: ministri Esteri tengono a Vienna il primo ciclo di consultazioni politiche (2)"
+        },
         {
           "title": "Regeni verdict September 28",
           "link": "https://www.ansa.it/english/news/2026/07/14/regeni-verdict-september-28_d8199d10-f925-42a0-a33e-f6ed70bd0004.html",
@@ -56,6 +65,24 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenya: NBA Tightens GMO Import Rules, Requires Mandatory Clearance",
+          "link": "https://allafrica.com/stories/202607160311.html",
+          "description": "[Capital FM] Nairobi -- Importers of genetically modified organisms (GMOs) will now be required to obtain clearance from the National Biosafety Authority (NBA) before their products are released into the country.",
+          "pubDate": "Thu, 16 Jul 2026 09:46:45 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: NBA Tightens GMO Import Rules, Requires Mandatory Clearance"
+        },
+        {
+          "title": "Iran targets military bases as US launches wave of strikes",
+          "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+          "description": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
+          "pubDate": "Thu, 16 Jul 2026 08:50:02 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Iran targets military bases as US launches wave of strikes"
+        },
         {
           "title": "Kenyan grandmothers find health, friendship and purpose through football",
           "link": "http://www.africanews.com/2026/07/14/kenyan-grandmothers-find-health-friendship-and-purpose-through-football/",
@@ -175,190 +202,199 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "U . S . House passes bill with US$500 million in military financing for Taiwan",
-          "link": "https://focustaiwan.tw/politics/202607160008",
-          "source": "focustaiwan.tw",
-          "pubDate": "2026-07-16T05:45:00Z",
+          "title": "Common standardisation framework will be win - win for all : Pralhad Joshi as India hosts 5th BRICS NSBs meeting",
+          "link": "http://www.brazilsun.com/news/279190877/common-standardisation-framework-will-be-win-win-for-all-pralhad-joshi-as-india-hosts-5th-brics-nsbs-meeting",
+          "source": "brazilsun.com",
+          "pubDate": "2026-07-16T09:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "U . S . House passes bill with US$500 million in military financing for Taiwan"
+          "titleIt": "Common standardisation framework will be win - win for all : Pralhad Joshi as India hosts 5th BRICS NSBs meeting"
         },
         {
-          "title": "U . S . House passes bill with US$500 million in military financing for Taiwan",
-          "link": "https://focustaiwan.tw:443/politics/202607160008",
-          "source": "focustaiwan.tw",
-          "pubDate": "2026-07-16T05:45:00Z",
+          "title": "Argentina new Falklands insult as it files complaint over  illegal  Royal Navy ship near islands after players held Malvinas banner in wake of World Cup win",
+          "link": "https://www.dailymail.com/news/article-15981671/Argentina-files-complaint-illegal-Royal-Navy-warship-near-Falklands-statement-released-World-Cup-semi-final-win-England.html",
+          "source": "dailymail.com",
+          "pubDate": "2026-07-16T09:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "U . S . House passes bill with US$500 million in military financing for Taiwan"
+          "titleIt": "Argentina new Falklands insult as it files complaint over  illegal  Royal Navy ship near islands after players held Malvinas banner in wake of World Cup win"
         },
         {
-          "title": "International Business : Global stocks edge up after drop in US inflation reading",
-          "link": "https://www.gdnonline.com:443/Details/1400784",
-          "source": "gdnonline.com",
-          "pubDate": "2026-07-16T05:30:00Z",
+          "title": "Common standardisation framework will be win - win for all : Pralhad Joshi as India hosts 5th BRICS NSBs meeting",
+          "link": "http://www.africaleader.com/news/279190877/common-standardisation-framework-will-be-win-win-for-all-pralhad-joshi-as-india-hosts-5th-brics-nsbs-meeting",
+          "source": "africaleader.com",
+          "pubDate": "2026-07-16T09:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "International Business : Global stocks edge up after drop in US inflation reading"
+          "titleIt": "Common standardisation framework will be win - win for all : Pralhad Joshi as India hosts 5th BRICS NSBs meeting"
         },
         {
-          "title": "Africa Startup Funding Holds Steady As Early - Stage Deals Dip",
-          "link": "https://allafrica.com/stories/202607160031.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-16T05:15:00Z",
+          "title": "Common standardisation framework will be win - win for all : Pralhad Joshi as India hosts 5th BRICS NSBs meeting",
+          "link": "http://www.russiaherald.com/news/279190877/common-standardisation-framework-will-be-win-win-for-all-pralhad-joshi-as-india-hosts-5th-brics-nsbs-meeting",
+          "source": "russiaherald.com",
+          "pubDate": "2026-07-16T09:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Africa Startup Funding Holds Steady As Early - Stage Deals Dip"
+          "titleIt": "Common standardisation framework will be win - win for all : Pralhad Joshi as India hosts 5th BRICS NSBs meeting"
         },
         {
-          "title": "Messi and Argentina set for World Cup final showdown with Spain - Breaking News",
-          "link": "https://www.dailymirror.lk/breaking-news/Messi-and-Argentina-set-for-World-Cup-final-showdown-with-Spain/108-345740",
-          "source": "dailymirror.lk",
-          "pubDate": "2026-07-16T05:15:00Z",
+          "title": "No Asian team managed to go far this World Cup ( again ). What holding them back ?",
+          "link": "https://www.kuaf.com/npr-news/2026-07-16/no-asian-team-managed-to-go-far-this-world-cup-again-whats-holding-them-back",
+          "source": "kuaf.com",
+          "pubDate": "2026-07-16T09:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Messi and Argentina set for World Cup final showdown with Spain - Breaking News"
+          "titleIt": "No Asian team managed to go far this World Cup ( again ). What holding them back ?"
         },
         {
-          "title": "Africa : China Is Funding African Farmers but Not Food Processing and Storage - Why It a Problem",
-          "link": "https://allafrica.com/stories/202607160042.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-16T05:15:00Z",
+          "title": "No Asian team managed to go far this World Cup ( again ). What holding them back ?",
+          "link": "https://www.kacu.org/2026-07-16/no-asian-team-managed-to-go-far-this-world-cup-again-whats-holding-them-back",
+          "source": "kacu.org",
+          "pubDate": "2026-07-16T09:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Africa : China Is Funding African Farmers but Not Food Processing and Storage - Why It a Problem"
+          "titleIt": "No Asian team managed to go far this World Cup ( again ). What holding them back ?"
         },
         {
-          "title": "AfDB Approves USD 66 Million for Egypt Dandara Solar Project",
-          "link": "https://cairoscene.com/News/AfDB-Approves-USD-66-Million-for-Egypt-s-Dandara-Solar-Project",
-          "source": "cairoscene.com",
-          "pubDate": "2026-07-16T05:15:00Z",
+          "title": "No Asian team managed to go far this World Cup ( again ). What holding them back ?",
+          "link": "https://www.wglt.org/2026-07-16/no-asian-team-managed-to-go-far-this-world-cup-again-whats-holding-them-back",
+          "source": "wglt.org",
+          "pubDate": "2026-07-16T09:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "AfDB Approves USD 66 Million for Egypt Dandara Solar Project"
+          "titleIt": "No Asian team managed to go far this World Cup ( again ). What holding them back ?"
         },
         {
-          "title": "All Socialists Are Ignorant , But Some Are More Ignorant Than Others ...",
-          "link": "https://www.zerohedge.com/political/all-socialists-are-ignorant-some-are-more-ignorant-others",
-          "source": "zerohedge.com",
-          "pubDate": "2026-07-16T05:00:00Z",
+          "title": "No Asian team managed to go far this World Cup ( again ). What holding them back ?",
+          "link": "https://www.kwbu.org/latest-from-npr/2026-07-16/no-asian-team-managed-to-go-far-this-world-cup-again-whats-holding-them-back",
+          "source": "kwbu.org",
+          "pubDate": "2026-07-16T09:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "All Socialists Are Ignorant , But Some Are More Ignorant Than Others ..."
+          "titleIt": "No Asian team managed to go far this World Cup ( again ). What holding them back ?"
         },
         {
-          "title": "Macau mascot strategy | MACAU DAILY TIMES 澳門每日時報",
-          "link": "https://macaudailytimes.com.mo/macaus-mascot-strategy.html",
-          "source": "macaudailytimes.com.mo",
-          "pubDate": "2026-07-16T05:00:00Z",
+          "title": "No Asian team managed to go far this World Cup ( again ). What holding them back ?",
+          "link": "https://www.ksut.org/2026-07-16/no-asian-team-managed-to-go-far-this-world-cup-again-whats-holding-them-back",
+          "source": "ksut.org",
+          "pubDate": "2026-07-16T09:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Macau mascot strategy | MACAU DAILY TIMES 澳門每日時報"
+          "titleIt": "No Asian team managed to go far this World Cup ( again ). What holding them back ?"
         },
         {
-          "title": "Indonesia urges BRICS members to strengthen future skills forecasting",
-          "link": "https://en.antaranews.com/news/422852/indonesia-urges-brics-members-to-strengthen-future-skills-forecasting",
-          "source": "en.antaranews.com",
-          "pubDate": "2026-07-16T05:00:00Z",
+          "title": "The Peace That Redistributes War : What Camp David Reveals About Lebanon and Iran",
+          "link": "https://warontherocks.com/the-peace-that-redistributes-war-what-camp-david-reveals-about-lebanon-and-iran/",
+          "source": "warontherocks.com",
+          "pubDate": "2026-07-16T09:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Indonesia urges BRICS members to strengthen future skills forecasting"
+          "titleIt": "The Peace That Redistributes War : What Camp David Reveals About Lebanon and Iran"
         },
         {
-          "title": "Fresh capital not enough to boost bank value – Proshare",
-          "link": "https://thesun.ng/fresh-capital-not-enough-to-boost-banks-value-proshare/",
-          "source": "thesun.ng",
-          "pubDate": "2026-07-16T04:45:00Z",
+          "title": "Common standardisation framework will be win - win for all : Pralhad Joshi as India hosts 5th BRICS NSBs meeting",
+          "link": "http://www.bignewsnetwork.com/news/279190877/common-standardisation-framework-will-be-win-win-for-all-pralhad-joshi-as-india-hosts-5th-brics-nsbs-meeting",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-07-16T08:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Fresh capital not enough to boost bank value – Proshare"
+          "titleIt": "Common standardisation framework will be win - win for all : Pralhad Joshi as India hosts 5th BRICS NSBs meeting"
         },
         {
-          "title": "Pacific . scoop . co . nz » UN Forum Concludes With Renewed Commitment To Accelerate Action On The Sustainable Development Goals",
-          "link": "https://pacific.scoop.co.nz/2026/07/un-forum-concludes-with-renewed-commitment-to-accelerate-action-on-the-sustainable-development-goals/",
-          "source": "pacific.scoop.co.nz",
-          "pubDate": "2026-07-16T04:30:00Z",
+          "title": "10 African food giants",
+          "link": "https://www.foodnavigator.com/Article/2026/07/16/10-african-food-giants/",
+          "source": "foodnavigator.com",
+          "pubDate": "2026-07-16T08:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Pacific . scoop . co . nz » UN Forum Concludes With Renewed Commitment To Accelerate Action On The Sustainable Development Goals"
+          "titleIt": "10 African food giants"
         },
         {
-          "title": "Shipping Tribune",
-          "link": "https://www.shippingtribune.com/news/shipping/Global+liquefied+natural+gas+trade+volumes+reached+record+high+in+2025",
-          "source": "shippingtribune.com",
-          "pubDate": "2026-07-16T04:30:00Z",
+          "title": "By defeating aggression and terrorism , peace is created , Leiter tells JNS after Rome talks | World News",
+          "link": "https://www.clevelandjewishnews.com/news/world_news/by-defeating-aggression-and-terrorism-peace-is-created-leiter-tells-jns-after-rome-talks/article_f5eb5d3c-0bb0-52a2-b0b1-b3d5fcc194cd.html",
+          "source": "clevelandjewishnews.com",
+          "pubDate": "2026-07-16T08:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Shipping Tribune"
+          "titleIt": "By defeating aggression and terrorism , peace is created , Leiter tells JNS after Rome talks | World News"
         },
         {
-          "title": "Argentina rallies late again to beat England , return to World Cup final",
-          "link": "https://www.timesfreepress.com/news/2026/jul/15/argentina-rallies-late-again-to-beat-England/",
-          "source": "timesfreepress.com",
-          "pubDate": "2026-07-16T04:00:00Z",
+          "title": "Common standardisation framework will be win - win for all : Pralhad Joshi as India hosts 5th BRICS NSBs meeting",
+          "link": "https://aninews.in/news/world/asia/common-standardisation-framework-will-be-win-win-for-all-pralhad-joshi-as-india-hosts-5th-brics-nsbs-meeting20260716114534/",
+          "source": "aninews.in",
+          "pubDate": "2026-07-16T08:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Argentina rallies late again to beat England , return to World Cup final"
+          "titleIt": "Common standardisation framework will be win - win for all : Pralhad Joshi as India hosts 5th BRICS NSBs meeting"
         },
         {
-          "title": "These 5 Indian stocks trade below book value . Here what the market sees",
-          "link": "https://www.livemint.com/market/stock-market-news/these-5-indian-stocks-trade-below-book-value-heres-what-the-market-sees-11784114522689.html",
-          "source": "livemint.com",
-          "pubDate": "2026-07-16T03:30:00Z",
+          "title": "US House passes bill with US$500m in military financing for Taiwan",
+          "link": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/16/2003860850",
+          "source": "taipeitimes.com",
+          "pubDate": "2026-07-16T08:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "These 5 Indian stocks trade below book value . Here what the market sees"
+          "titleIt": "US House passes bill with US$500m in military financing for Taiwan"
         },
         {
-          "title": "Dems split on Massie effort to zero out Israel security aid",
-          "link": "https://rollcall.com/2026/07/15/dems-split-on-massie-effort-to-zero-out-israel-security-aid/",
-          "source": "rollcall.com",
-          "pubDate": "2026-07-16T02:45:00Z",
+          "title": "China , Poverty Eradication And The Global South",
+          "link": "https://leadership.ng/china-poverty-eradication-and-the-global-south/",
+          "source": "leadership.ng",
+          "pubDate": "2026-07-16T07:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Dems split on Massie effort to zero out Israel security aid"
+          "titleIt": "China , Poverty Eradication And The Global South"
         },
         {
-          "title": "Global liquefied natural gas trade volumes reached record high in 2025 | Hellenic Shipping News Worldwide",
-          "link": "https://www.hellenicshippingnews.com/global-liquefied-natural-gas-trade-volumes-reached-record-high-in-2025/",
-          "source": "hellenicshippingnews.com",
-          "pubDate": "2026-07-16T02:00:00Z",
+          "title": "BRICS Standardisation Framework : Win - Win for All : Pralhad Joshi",
+          "link": "https://www.newkerala.com/news/a/common-standardisation-framework-will-win-win-all-pralhad-joshi-857.htm",
+          "source": "newkerala.com",
+          "pubDate": "2026-07-16T07:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Global liquefied natural gas trade volumes reached record high in 2025 | Hellenic Shipping News Worldwide"
+          "titleIt": "BRICS Standardisation Framework : Win - Win for All : Pralhad Joshi"
         },
         {
-          "title": "UN Forum Concludes With Renewed Commitment To Accelerate Action On The Sustainable Development Goals",
-          "link": "https://www.scoop.co.nz/stories/WO2607/S00147/un-forum-concludes-with-renewed-commitment-to-accelerate-action-on-the-sustainable-development-goals.htm",
-          "source": "scoop.co.nz",
-          "pubDate": "2026-07-16T02:00:00Z",
+          "title": "China Investment in African Farmers but Not Food Processing and Storage : Why It a Growing Problem",
+          "link": "https://www.downtoearth.org.in/africa/china-is-funding-african-farmers-but-not-food-processing-and-storage-why-its-a-problem",
+          "source": "downtoearth.org.in",
+          "pubDate": "2026-07-16T07:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "UN Forum Concludes With Renewed Commitment To Accelerate Action On The Sustainable Development Goals"
+          "titleIt": "China Investment in African Farmers but Not Food Processing and Storage : Why It a Growing Problem"
         },
         {
-          "title": "The Revenge of Amoris Laetitia",
-          "link": "https://www.catholicculture.org/commentary/revenge-amoris-laetitia/",
-          "source": "catholicculture.org",
-          "pubDate": "2026-07-16T02:00:00Z",
+          "title": "Donald Trump :  End of the  American Century ? - CounterPunch . org",
+          "link": "https://www.counterpunch.org/2026/07/16/donald-trump-end-of-the-american-century/",
+          "source": "counterpunch.org",
+          "pubDate": "2026-07-16T06:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "The Revenge of Amoris Laetitia"
+          "titleIt": "Donald Trump :  End of the  American Century ? - CounterPunch . org"
         },
         {
-          "title": "Operationalizing the Trilateral Framework Agreement",
-          "link": "https://www.washingtoninstitute.org/policy-analysis/operationalizing-trilateral-framework-agreement",
-          "source": "washingtoninstitute.org",
-          "pubDate": "2026-07-16T02:00:00Z",
+          "title": "Laurie Fisher final Wallabies Test ; GWS Giants Rising Star call | The Canberra Times",
+          "link": "https://www.canberratimes.com.au/story/9308778/laurie-fishers-final-wallabies-test-gws-giants-rising-star-call/",
+          "source": "canberratimes.com.au",
+          "pubDate": "2026-07-16T06:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Operationalizing the Trilateral Framework Agreement"
+          "titleIt": "Laurie Fisher final Wallabies Test ; GWS Giants Rising Star call | The Canberra Times"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Austria-Egitto: ministri Esteri tengono a Vienna il primo ciclo di consultazioni politiche (2)",
+          "link": "https://www.agenzianova.com/a/6a58b11586fb53.71723696/7613566/2026-07-16/austria-egitto-ministri-esteri-tengono-a-vienna-il-primo-ciclo-di-consultazioni-politiche-2",
+          "description": "16 lug 12:12 - (Agenzia Nova) - Durante la visita in Austria, Abdelatty ha firmato un accordo bilaterale sui servizi aerei per ampliare i collegamenti... (Cae)",
+          "pubDate": "2026-07-16T12:12:36+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Austria-Egitto: ministri Esteri tengono a Vienna il primo ciclo di consultazioni politiche (2)"
+        },
         {
           "title": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD",
           "link": "https://allafrica.com/stories/202607150066.html",
@@ -529,15 +565,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
-        },
-        {
-          "title": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA",
-          "link": "https://www.thereporterethiopia.com/51290/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-06-20T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Hydrogen Ambitions Face Financing Hurdle As Africa Projects Stall : IEA"
         }
       ]
     }
