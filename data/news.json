@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T23:14:17.046Z",
+  "generatedAt": "2026-07-17T03:42:13.102Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -47,15 +47,6 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Iran: esplosioni presso citta' portuale di Bushehr",
-          "link": "https://www.agenzianova.com/a/6a5965c48fc1e7.52241911/7616227/2026-07-16/iran-esplosioni-presso-citta-portuale-di-bushehr",
-          "description": "16 lug 22:01 - (Agenzia Nova) - Le autorita' iraniane hanno riportato esplosioni nei pressi di Busherh, citta' meridionale con porto sul Golfo... (Res)",
-          "pubDate": "2026-07-16T22:01:26+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Iran: esplosioni presso citta' portuale di Bushehr"
-        },
         {
           "title": "Kenya: IEBC Disowns Armed Hooded Men Reported in Ol Kalou By Election",
           "link": "https://allafrica.com/stories/202607160673.html",
@@ -197,13 +188,13 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Egitto: lanciato progetto \"Villaggio produttivo\" per creare posti lavoro e frenare emigrazione (4)",
-          "link": "https://www.agenzianova.com/a/6a5965c49197a2.19856268/7616013/2026-07-16/egitto-lanciato-progetto-villaggio-produttivo-per-creare-posti-lavoro-e-frenare-emigrazione-4",
-          "description": "16 lug 19:45 - (Agenzia Nova) - La semplificazione delle procedure di rilascio delle licenze per le attivita' industriali al di fuori delle... (Cae)",
-          "pubDate": "2026-07-16T19:45:23+02:00",
+          "title": "Sudan: G7 rivolge appello per cessate il fuoco a El Obeid (2)",
+          "link": "https://www.agenzianova.com/a/6a59a490e003b7.37045020/7616274/2026-07-17/sudan-g7-rivolge-appello-per-cessate-il-fuoco-a-el-obeid-2",
+          "description": "17 lug 01:39 - (Agenzia Nova) - Nel comunicato, il G7 ha invitato le parti a cessare immediatamente le ostilita' e ad avviare negoziati diretti... (Was)",
+          "pubDate": "2026-07-17T01:39:01+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Egitto: lanciato progetto \"Villaggio produttivo\" per creare posti lavoro e frenare emigrazione (4)"
+          "titleIt": "Sudan: G7 rivolge appello per cessate il fuoco a El Obeid (2)"
         },
         {
           "title": "Sudan: Sudan Cotton Company Director Reviews Progress of Post-War Rehabilitation Work",
