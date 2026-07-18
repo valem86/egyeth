@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T06:22:59.689Z",
+  "generatedAt": "2026-07-18T09:48:58.851Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -48,15 +48,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Armed Assailants Seize Chemical Tanker Off Yemen",
-          "link": "https://www.marinelink.com/news/armed-assailants-seize-chemical-tanker-541327",
-          "source": "marinelink.com",
-          "pubDate": "2026-07-17T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Armed Assailants Seize Chemical Tanker Off Yemen"
-        },
-        {
           "title": "Kenya: Ruto Warned Against Underestimating Gachagua",
           "link": "https://allafrica.com/stories/202607170571.html",
           "description": "[Capital FM] Nairobi -- Former Law Society of Kenya (LSK) President Nelson Havi has warned President William Ruto and leaders of the Broad-Based Government against dismissing Rigathi Gachagua's growing political influence, arguing that the Ol Kalou by-election has demonstrated the former Deputy President's strength in the Mt Kenya region.",
@@ -75,157 +66,31 @@
           "titleIt": "Kenya: Uber to Acquire Glovo in Kenya, Other Markets in Sh1.95tn Deal"
         },
         {
-          "title": "Could Somalia See The World Next Major Oil Discovery ?",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Could-Somalia-See-The-Worlds-Next-Major-Oil-Discovery.html",
-          "source": "oilprice.com",
-          "pubDate": "2026-07-16T19:00:00Z",
+          "title": "Kenya: UDA Stares At 2027 Reset As Kindiki Signals Rethink After Crushing Ol Kalou Drubbing",
+          "link": "https://allafrica.com/stories/202607170428.html",
+          "description": "[Capital FM] Nairobi -- The ruling United Democratic Alliance (UDA) is facing mounting pressure to recalibrate its political strategy ahead of President William Ruto's 2027 re-election bid after suffering a crushing defeat in the Ol Kalou parliamentary by-election, a contest widely viewed as the clearest electoral test yet of the administration's standing in the vote-rich Mt Kenya region.",
+          "pubDate": "Fri, 17 Jul 2026 12:20:40 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Could Somalia See The World Next Major Oil Discovery ?"
+          "titleIt": "Kenya: UDA Stares At 2027 Reset As Kindiki Signals Rethink After Crushing Ol Kalou Drubbing"
         },
         {
-          "title": "Middle East new security paradigm",
-          "link": "https://tribune.com.pk/story/2618449/middle-easts-new-security-paradigm",
-          "source": "tribune.com.pk",
-          "pubDate": "2026-07-15T22:00:00Z",
+          "title": "Kenya: Health PS Pushes for Urgent Sickle Cell Reforms As Donor Support Declines",
+          "link": "https://allafrica.com/stories/202607170427.html",
+          "description": "[Capital FM] Nairobi -- Health Principal Secretary Dr. Ouma Oluga has challenged health stakeholders to urgently strengthen sickle cell disease care, warning that Kenya cannot continue relying on donor funding as international support declines.",
+          "pubDate": "Fri, 17 Jul 2026 12:20:16 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Middle East new security paradigm"
+          "titleIt": "Kenya: Health PS Pushes for Urgent Sickle Cell Reforms As Donor Support Declines"
         },
         {
-          "title": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information",
-          "link": "https://shabait.com/2026/07/15/ethiopias-prosperity-party-delusional-precepts-as-tools-of-regional-destabilization/",
-          "source": "shabait.com",
-          "pubDate": "2026-07-15T14:45:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information"
-        },
-        {
-          "title": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation",
-          "link": "https://allafrica.com/stories/202607150058.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-15T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation"
-        },
-        {
-          "title": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements",
-          "link": "https://wardheernews.com/the-geopolitical-theatre-of-the-horn-of-africa-sovereignty-rentier-statecraft-and-the-spectacle-of-security-agreements/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-15T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements"
-        },
-        {
-          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
-          "link": "https://www.jpost.com/middle-east/article-902454",
-          "source": "jpost.com",
-          "pubDate": "2026-07-14T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
-        },
-        {
-          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
-          "link": "http://www.jpost.com/middle-east/article-902454",
-          "source": "jpost.com",
-          "pubDate": "2026-07-14T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
-        },
-        {
-          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
-          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-07-14T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
-        },
-        {
-          "title": "Puntland President Warns Against  Predetermined Election as Federal Election Dispute Deepens",
-          "link": "https://wardheernews.com/puntland-president-warns-against-predetermined-elections-as-federal-election-dispute-deepens/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-13T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Puntland President Warns Against  Predetermined Election as Federal Election Dispute Deepens"
-        },
-        {
-          "title": "Emiratis Hang On in the Gulf of Aden",
-          "link": "https://maritime-executive.com/article/emiratis-hang-on-in-the-gulf-of-aden",
-          "source": "maritime-executive.com",
-          "pubDate": "2026-07-13T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Emiratis Hang On in the Gulf of Aden"
-        },
-        {
-          "title": "Super El Nino will hit women the hardest , charity warns :  We should be very worried",
-          "link": "https://www.independent.co.uk/climate-change/el-nino-climate-super-crisis-women-b3011246.html",
-          "source": "independent.co.uk",
-          "pubDate": "2026-07-12T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Super El Nino will hit women the hardest , charity warns :  We should be very worried"
-        },
-        {
-          "title": "Turkey brokers intra - Somalia talks as federal rifts test Ankara influence",
-          "link": "https://horseedmedia.net/turkey-brokers-intra-somalia-talks-as-federal-rifts-test-ankaras-influence/423594/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-07-10T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkey brokers intra - Somalia talks as federal rifts test Ankara influence"
-        },
-        {
-          "title": "Africa : Intra - African Diplomatic Relations Should Not Dictate the External Foreign Policies of African States",
-          "link": "https://allafrica.com/stories/202607090067.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-09T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : Intra - African Diplomatic Relations Should Not Dictate the External Foreign Policies of African States"
-        },
-        {
-          "title": "The Israel - Emirates Axis and the Zionist Quest to Take over Somalia Gulf of Aden Coast",
-          "link": "https://wardheernews.com/the-israel-emirates-axis-and-the-zionist-quest-to-take-over-somalias-gulf-of-aden-coast/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-09T04:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Israel - Emirates Axis and the Zionist Quest to Take over Somalia Gulf of Aden Coast"
-        },
-        {
-          "title": "America retreat is reshaping the Gulf , driving Oman toward Iran | JNS",
-          "link": "https://www.clevelandjewishnews.com/jns/america-s-retreat-is-reshaping-the-gulf-driving-oman-toward-iran/article_10ff54ab-84a6-5725-88a4-0ccb4ce3c87d.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-07-08T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "America retreat is reshaping the Gulf , driving Oman toward Iran | JNS"
-        },
-        {
-          "title": "African Development Bank Brokers Zambia Debt - for - Energy Swap",
-          "link": "https://foreignpolicy.com/2026/07/08/zambia-debt-swap-economics-energy-power-copper/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-07-08T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African Development Bank Brokers Zambia Debt - for - Energy Swap"
-        },
-        {
-          "title": "America retreat is reshaping the Gulf , driving Oman toward Iran - Christians for Israel International",
-          "link": "https://www.whyisrael.org/jns-org/americas-retreat-is-reshaping-the-gulf-driving-oman-toward-iran/",
-          "source": "whyisrael.org",
-          "pubDate": "2026-07-08T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "America retreat is reshaping the Gulf , driving Oman toward Iran - Christians for Israel International"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -294,7 +159,188 @@
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": []
+      "items": [
+        {
+          "title": "From abundance to retreat : what happened to Nile water levels in Sudan ?",
+          "link": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
+          "source": "dabangasudan.org",
+          "pubDate": "2026-07-16T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From abundance to retreat : what happened to Nile water levels in Sudan ?"
+        },
+        {
+          "title": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD",
+          "link": "https://allafrica.com/stories/202607150066.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-15T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD"
+        },
+        {
+          "title": "Ethiopia debt problem",
+          "link": "https://africasacountry.com/2026/07/ethiopias-debt-problem",
+          "source": "africasacountry.com",
+          "pubDate": "2026-07-14T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia debt problem"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "https://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "http://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-14T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
+        },
+        {
+          "title": "Egypt built the Aswan High Dam to tame the Nile floods , but scientists now say the project starved the delta of fertile sediments and accelerated coastal erosion",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/egypt-built-the-aswan-high-dam-to-tame-the-niles-floods-but-scientists-now-say-the-project-starved-the-delta-of-fertile-sediments-and-accelerated-coastal-erosion/articleshow/132363327.cms",
+          "source": "timesofindia.indiatimes.com",
+          "pubDate": "2026-07-14T04:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt built the Aswan High Dam to tame the Nile floods , but scientists now say the project starved the delta of fertile sediments and accelerated coastal erosion"
+        },
+        {
+          "title": "Egypt issues warning to Ethiopia over  unacceptable  GERD steps",
+          "link": "https://www.egyptindependent.com/egypt-issues-warning-to-ethiopia-over-unacceptable-gerd-steps/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-07-13T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt issues warning to Ethiopia over  unacceptable  GERD steps"
+        },
+        {
+          "title": "Ethiopia , Kenya ink electricity supply deal",
+          "link": "https://capitalfm.africa/ethiopia-kenya-ink-electricity-supply-deal/",
+          "source": "capitalfm.africa",
+          "pubDate": "2026-07-12T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia , Kenya ink electricity supply deal"
+        },
+        {
+          "title": "Ethiopia , Kenya ink electricity supply deal amid expanding regional energy connectivity - Xinhua",
+          "link": "https://english.news.cn/20260711/d33f5fbca80e4daf9a3b4f313a9ea59e/c.html",
+          "source": "english.news.cn",
+          "pubDate": "2026-07-11T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia , Kenya ink electricity supply deal amid expanding regional energy connectivity - Xinhua"
+        },
+        {
+          "title": "Ethiopia Pan - African Blueprint : Sovereignty , Solidarity , And Sustainability",
+          "link": "https://www.thereporterethiopia.com/51760/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-11T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Pan - African Blueprint : Sovereignty , Solidarity , And Sustainability"
+        },
+        {
+          "title": "You cant pause the IWT",
+          "link": "https://www.geo.tv/latest/672562-you-cant-pause-the-iwt",
+          "source": "geo.tv",
+          "pubDate": "2026-07-11T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "You cant pause the IWT"
+        },
+        {
+          "title": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?",
+          "link": "https://allafrica.com/stories/202607060020.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-06T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?"
+        },
+        {
+          "title": "Ethiopia New Blue Nile Dams Rattle Egypt",
+          "link": "https://www.riotimesonline.com/ethiopia-blue-nile-dams-egypt-water-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-06-27T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia New Blue Nile Dams Rattle Egypt"
+        },
+        {
+          "title": "Ethiopia Leap Into the Future",
+          "link": "https://allafrica.com/stories/202606250254.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Leap Into the Future"
+        },
+        {
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
+        },
+        {
+          "title": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped",
+          "link": "https://www.engineeringnews.co.za/article/africa-adds-42-gw-new-hydropower-in-2025-only-10-of-hydropower-resources-being-tapped-2026-06-24",
+          "source": "engineeringnews.co.za",
+          "pubDate": "2026-06-24T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa adds 4 . 2 GW new hydropower in 2025 , only 10 % of hydropower resources being tapped"
+        },
+        {
+          "title": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy",
+          "link": "https://allafrica.com/stories/202606240040.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-24T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy"
+        },
+        {
+          "title": "Pumped Storage Additions Lead Global Hydropower Growth",
+          "link": "https://www.powermag.com/pumped-storage-additions-lead-global-hydropower-growth/",
+          "source": "powermag.com",
+          "pubDate": "2026-06-24T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
+        },
+        {
+          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
+          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
+          "source": "dw.com",
+          "pubDate": "2026-06-21T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
+        }
+      ]
     }
   }
 }
