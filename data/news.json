@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T19:35:42.414Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-07-18T21:08:44.984Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -23,30 +23,30 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Egypt receive a warm welcome home"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Egypt and Turkey : Rapidly growing alliance putting old rivalry aside and alarming Israel",
-          "link": "https://www.thenationalnews.com/news/mena/2026/07/18/egypt-and-turkey-rapidly-growing-alliance-putting-old-rivalry-aside-and-alarming-israel/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-07-18T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt and Turkey : Rapidly growing alliance putting old rivalry aside and alarming Israel"
-        },
-        {
-          "title": "Armed Assailants Seize Chemical Tanker Off Yemen",
-          "link": "https://www.marinelink.com/news/armed-assailants-seize-chemical-tanker-541327",
-          "source": "marinelink.com",
-          "pubDate": "2026-07-17T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Armed Assailants Seize Chemical Tanker Off Yemen"
-        },
         {
           "title": "Kenya: Ruto Warned Against Underestimating Gachagua",
           "link": "https://allafrica.com/stories/202607170571.html",
@@ -57,157 +57,13 @@
           "titleIt": "Kenya: Ruto Warned Against Underestimating Gachagua"
         },
         {
-          "title": "Could Somalia See The World Next Major Oil Discovery ?",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Could-Somalia-See-The-Worlds-Next-Major-Oil-Discovery.html",
-          "source": "oilprice.com",
-          "pubDate": "2026-07-16T19:00:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Could Somalia See The World Next Major Oil Discovery ?"
-        },
-        {
-          "title": "Middle East new security paradigm",
-          "link": "https://tribune.com.pk/story/2618449/middle-easts-new-security-paradigm",
-          "source": "tribune.com.pk",
-          "pubDate": "2026-07-15T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Middle East new security paradigm"
-        },
-        {
-          "title": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information",
-          "link": "https://shabait.com/2026/07/15/ethiopias-prosperity-party-delusional-precepts-as-tools-of-regional-destabilization/",
-          "source": "shabait.com",
-          "pubDate": "2026-07-15T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information"
-        },
-        {
-          "title": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation",
-          "link": "https://allafrica.com/stories/202607150058.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-15T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation"
-        },
-        {
-          "title": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements",
-          "link": "https://wardheernews.com/the-geopolitical-theatre-of-the-horn-of-africa-sovereignty-rentier-statecraft-and-the-spectacle-of-security-agreements/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-15T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements"
-        },
-        {
-          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
-          "link": "https://www.jpost.com/middle-east/article-902454",
-          "source": "jpost.com",
-          "pubDate": "2026-07-14T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
-        },
-        {
-          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
-          "link": "http://www.jpost.com/middle-east/article-902454",
-          "source": "jpost.com",
-          "pubDate": "2026-07-14T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
-        },
-        {
-          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
-          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-07-14T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
-        },
-        {
-          "title": "Puntland President Warns Against  Predetermined Election as Federal Election Dispute Deepens",
-          "link": "https://wardheernews.com/puntland-president-warns-against-predetermined-elections-as-federal-election-dispute-deepens/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-13T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Puntland President Warns Against  Predetermined Election as Federal Election Dispute Deepens"
-        },
-        {
-          "title": "Emiratis Hang On in the Gulf of Aden",
-          "link": "https://maritime-executive.com/article/emiratis-hang-on-in-the-gulf-of-aden",
-          "source": "maritime-executive.com",
-          "pubDate": "2026-07-13T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Emiratis Hang On in the Gulf of Aden"
-        },
-        {
-          "title": "Super El Nino will hit women the hardest , charity warns :  We should be very worried",
-          "link": "https://www.independent.co.uk/climate-change/el-nino-climate-super-crisis-women-b3011246.html",
-          "source": "independent.co.uk",
-          "pubDate": "2026-07-12T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Super El Nino will hit women the hardest , charity warns :  We should be very worried"
-        },
-        {
-          "title": "Turkey brokers intra - Somalia talks as federal rifts test Ankara influence",
-          "link": "https://horseedmedia.net/turkey-brokers-intra-somalia-talks-as-federal-rifts-test-ankaras-influence/423594/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-07-10T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkey brokers intra - Somalia talks as federal rifts test Ankara influence"
-        },
-        {
-          "title": "Africa : Intra - African Diplomatic Relations Should Not Dictate the External Foreign Policies of African States",
-          "link": "https://allafrica.com/stories/202607090067.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-09T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : Intra - African Diplomatic Relations Should Not Dictate the External Foreign Policies of African States"
-        },
-        {
-          "title": "The Israel - Emirates Axis and the Zionist Quest to Take over Somalia Gulf of Aden Coast",
-          "link": "https://wardheernews.com/the-israel-emirates-axis-and-the-zionist-quest-to-take-over-somalias-gulf-of-aden-coast/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-09T04:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Israel - Emirates Axis and the Zionist Quest to Take over Somalia Gulf of Aden Coast"
-        },
-        {
-          "title": "America retreat is reshaping the Gulf , driving Oman toward Iran | JNS",
-          "link": "https://www.clevelandjewishnews.com/jns/america-s-retreat-is-reshaping-the-gulf-driving-oman-toward-iran/article_10ff54ab-84a6-5725-88a4-0ccb4ce3c87d.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-07-08T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "America retreat is reshaping the Gulf , driving Oman toward Iran | JNS"
-        },
-        {
-          "title": "African Development Bank Brokers Zambia Debt - for - Energy Swap",
-          "link": "https://foreignpolicy.com/2026/07/08/zambia-debt-swap-economics-energy-power-copper/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-07-08T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African Development Bank Brokers Zambia Debt - for - Energy Swap"
-        },
-        {
-          "title": "America retreat is reshaping the Gulf , driving Oman toward Iran - Christians for Israel International",
-          "link": "https://www.whyisrael.org/jns-org/americas-retreat-is-reshaping-the-gulf-driving-oman-toward-iran/",
-          "source": "whyisrael.org",
-          "pubDate": "2026-07-08T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "America retreat is reshaping the Gulf , driving Oman toward Iran - Christians for Israel International"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -215,82 +71,371 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Golfo di Aden: nave dirottata e condotta nelle acque territoriali somale",
-          "link": "https://www.agenzianova.com/a/6a5bd58bd3db02.82663924/7621094/2026-07-18/golfo-di-aden-nave-dirottata-e-condotta-nelle-acque-territoriali-somale",
-          "description": "18 lug 19:16 - (Agenzia Nova) - Una nave e' stata dirottata nel Golfo di Aden e condotta nelle acque territoriali della Somalia. Lo riferisce... (Res)",
-          "pubDate": "2026-07-18T19:16:07+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Golfo di Aden: nave dirottata e condotta nelle acque territoriali somale"
+          "title": "Economic Watch : China AI solutions power development , improve safety across Global South",
+          "link": "http://www.cambodiantimes.com/news/279195632/economic-watch-china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "cambodiantimes.com",
+          "pubDate": "2026-07-18T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Economic Watch : China AI solutions power development , improve safety across Global South"
         },
         {
-          "title": "Ethiopians march against alleged forced mobilisation in Tigray",
-          "link": "http://www.africanews.com/2026/07/18/ethiopians-march-against-alleged-forced-mobilisation-in-tigray/",
-          "description": "Thousands rally in Ethiopia's capital Addis Ababa to protest the alleged forced recruitment of civilians in the Tigray region by Tigray People's Liberation Front (TPLF) forces, the breakaway region's main political party, amid months of escalating tensions with Ethiopia's federal government",
-          "pubDate": "Sat, 18 Jul 2026 14:31:39 +0000",
-          "source": "Africanews",
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.texasguardian.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "texasguardian.com",
+          "pubDate": "2026-07-18T17:45:00Z",
           "lang": "en",
-          "titleIt": "Ethiopians march against alleged forced mobilisation in Tigray"
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
         },
         {
-          "title": "Cote d'Ivoire: U.S. Backs Ivory Coast With Digital, Health, Logistics Deals",
-          "link": "https://allafrica.com/stories/202607170713.html",
-          "description": "[Daba Finance] The United States announced a series of investment and trade agreements with Côte d'Ivoire during a visit by Assistant Secretary of State for African Affairs Frank Garcia, including approval for Starlink to launch commercial satellite internet services in the country.",
-          "pubDate": "Fri, 17 Jul 2026 23:28:32 GMT",
-          "source": "AllAfrica",
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.orlandoecho.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "orlandoecho.com",
+          "pubDate": "2026-07-18T17:45:00Z",
           "lang": "en",
-          "titleIt": "Cote d'Ivoire: U.S. Backs Ivory Coast With Digital, Health, Logistics Deals"
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
         },
         {
-          "title": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio",
-          "link": "https://www.ansa.it/english/news/2026/07/17/gdp-up-0.4-q2-inflation-returns-to-2.5-in-july-says-confcommercio_988b6077-7200-4492-b2d9-1de711f383ce.html",
-          "description": "(ANSA) - ROME, JUL 17 - Italy's GDP was up 0.4% in the second quarter of this tear while inflation fell back to 2.5% in July, retail group Confcommercio said Friday. The geopolitical scenario, after a brief period of respite, has seen renewed tensions in the Middle East, making forecasts for the Italian economy \"slightly more uncertain and complex,\" \"still experiencing undeniable signs of liveliness overall,\" Confcommercio stated in its latest report, estimating a second quarter of further growth of 0.4%, with a 1.2% increase compared to the same period in 2025. The growth achieved to date all",
-          "pubDate": "Fri, 17 Jul 2026 13:12:44 +0200",
-          "source": "ANSA English",
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.afghanistannews.net/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "afghanistannews.net",
+          "pubDate": "2026-07-18T17:45:00Z",
           "lang": "en",
-          "titleIt": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio"
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
         },
         {
-          "title": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio",
-          "link": "https://www.ansa.it/english/news/business/2026/07/17/gdp-up-0.4-q2-inflation-returns-to-2.5-in-july-says-confcommercio_ae6094ff-a558-4d8c-b814-18993f4d81b1.html",
-          "description": "(ANSA) - ROME, JUL 17 - Italy's GDP was up 0.4% in the second quarter of this tear while inflation fell back to 2.5% in July, retail group Confcommercio said Friday. The geopolitical scenario, after a brief period of respite, has seen renewed tensions in the Middle East, making forecasts for the Italian economy \"slightly more uncertain and complex,\" \"still experiencing undeniable signs of liveliness overall,\" Confcommercio stated in its latest report, estimating a second quarter of further growth of 0.4%, with a 1.2% increase compared to the same period in 2025. The growth achieved to date all",
-          "pubDate": "Fri, 17 Jul 2026 13:12:03 +0200",
-          "source": "ANSA English",
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.taiwansun.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "taiwansun.com",
+          "pubDate": "2026-07-18T17:45:00Z",
           "lang": "en",
-          "titleIt": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio"
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
         },
         {
-          "title": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini",
-          "link": "https://www.ansa.it/english/news/2026/07/16/sanctions-on-moscow-wont-stop-war-hope-there-arent-another-20-packages_e5a6e493-3d4c-499a-88ee-72e092674a79.html",
-          "description": "(ANSA) - ROME, JUL 16 - Right-wing League party leader, Deputy Premier and Transport Minister Matteo Salvini said Thursday that European Union sanctions on Moscow would not stop the UKraine war and he hoped there would not be another 20 packages of them. \"It doesn't seem to me that the sanctions have brought an end to the conflict... and I hope there aren't another 20 sanctions packages before we reach the end of this war. At the negotiating table, because this conflict won't end with a clear winner,\" Salvini said this during a video conference at a meeting of Gim Unimpresa, the association of",
-          "pubDate": "Thu, 16 Jul 2026 18:43:38 +0200",
-          "source": "ANSA English",
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.cincinnatisun.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "cincinnatisun.com",
+          "pubDate": "2026-07-18T17:45:00Z",
           "lang": "en",
-          "titleIt": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini"
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
         },
         {
-          "title": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini",
-          "link": "https://www.ansa.it/english/news/world/2026/07/16/sanctions-on-moscow-wont-stop-war-hope-there-arent-another-20-packages_212069b4-1df5-4ada-9efb-fbf8e326e90a.html",
-          "description": "(ANSA) - ROME, JUL 16 - Right-wing League party leader, Deputy Premier and Transport Minister Matteo Salvini said Thursday that European Union sanctions on Moscow would not stop the UKraine war and he hoped there would not be another 20 packages of them. \"It doesn't seem to me that the sanctions have brought an end to the conflict... and I hope there aren't another 20 sanctions packages before we reach the end of this war. At the negotiating table, because this conflict won't end with a clear winner,\" Salvini said this during a video conference at a meeting of Gim Unimpresa, the association of",
-          "pubDate": "Thu, 16 Jul 2026 18:22:16 +0200",
-          "source": "ANSA English",
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.nepalnational.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "nepalnational.com",
+          "pubDate": "2026-07-18T17:45:00Z",
           "lang": "en",
-          "titleIt": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini"
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
         },
         {
-          "title": "Villa warned over sportswashing after Visit Rwanda deal",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
-          "description": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record.",
-          "pubDate": "Tue, 14 Jul 2026 18:44:04 GMT",
-          "source": "BBC Africa",
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.mainemirror.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "mainemirror.com",
+          "pubDate": "2026-07-18T17:45:00Z",
           "lang": "en",
-          "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.northkoreatimes.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "northkoreatimes.com",
+          "pubDate": "2026-07-18T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.cambodiantimes.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "cambodiantimes.com",
+          "pubDate": "2026-07-18T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.srilankasource.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "srilankasource.com",
+          "pubDate": "2026-07-18T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.shanghaisun.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "shanghaisun.com",
+          "pubDate": "2026-07-18T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.jamaicantimes.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "jamaicantimes.com",
+          "pubDate": "2026-07-18T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "Economic Watch : China AI solutions power development , improve safety across Global South",
+          "link": "http://www.brazilsun.com/news/279195632/economic-watch-china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "brazilsun.com",
+          "pubDate": "2026-07-18T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Economic Watch : China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.oklahomacitysun.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "oklahomacitysun.com",
+          "pubDate": "2026-07-18T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.hongkongherald.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "hongkongherald.com",
+          "pubDate": "2026-07-18T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.birminghamstar.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "birminghamstar.com",
+          "pubDate": "2026-07-18T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.kenyastar.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "kenyastar.com",
+          "pubDate": "2026-07-18T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.oklahomastar.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "oklahomastar.com",
+          "pubDate": "2026-07-18T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.shanghainews.net/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "shanghainews.net",
+          "pubDate": "2026-07-18T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Startup Wrap : MENA startup funding stands as $1 . 7bn in H1 2026",
+          "link": "https://www.arabnews.com/node/2651443/business-economy",
+          "source": "arabnews.com",
+          "pubDate": "2026-07-18T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Startup Wrap : MENA startup funding stands as $1 . 7bn in H1 2026"
+        },
+        {
+          "title": "From founder formation to exits : where MENA venture capital journey needs to go next",
+          "link": "https://www.arabnews.com/node/2651440/business-economy",
+          "source": "arabnews.com",
+          "pubDate": "2026-07-18T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From founder formation to exits : where MENA venture capital journey needs to go next"
+        },
+        {
+          "title": "Iraq - Syria Pipeline Heads $60 Billion Deal Package as Syria Re - emerges as Regional Corridor",
+          "link": "https://radiofreesyria.com/iraq-syria-pipeline-heads-60-billion-deal-package-as-syria-re-emerges-as-regional-corridor/",
+          "source": "radiofreesyria.com",
+          "pubDate": "2026-07-18T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iraq - Syria Pipeline Heads $60 Billion Deal Package as Syria Re - emerges as Regional Corridor"
+        },
+        {
+          "title": "Hopes for US - Iran diplomacy still alive as fighting intensifies over the Strait of Hormuz | News , Sports , Jobs",
+          "link": "https://www.mauinews.com/wire/?category=5187&ID=396066",
+          "source": "mauinews.com",
+          "pubDate": "2026-07-18T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Hopes for US - Iran diplomacy still alive as fighting intensifies over the Strait of Hormuz | News , Sports , Jobs"
+        },
+        {
+          "title": "Arab League , Gulf Cooperation Council condemn Iranian strikes on member states ; Tehran says MoU suspended after US attacks",
+          "link": "https://news.webindia123.com/news/Articles/World/20260718/4476390.html",
+          "source": "news.webindia123.com",
+          "pubDate": "2026-07-18T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab League , Gulf Cooperation Council condemn Iranian strikes on member states ; Tehran says MoU suspended after US attacks"
+        },
+        {
+          "title": "The Odyssey : Who Were the Sea People and Why Are They So Scary ?",
+          "link": "https://www.denofgeek.com/movies/the-odyssey-who-were-the-sea-people-why-so-scary/",
+          "source": "denofgeek.com",
+          "pubDate": "2026-07-18T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Odyssey : Who Were the Sea People and Why Are They So Scary ?"
+        },
+        {
+          "title": "Tanzania , Egypt agree to deepen cooperation across key economic sectors",
+          "link": "http://www.bignewsnetwork.com/news/279195929/tanzania-egypt-agree-to-deepen-cooperation-across-key-economic-sectors",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-07-18T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tanzania , Egypt agree to deepen cooperation across key economic sectors"
+        },
+        {
+          "title": "Arab League , Gulf Cooperation Council condemn Iranian strikes on member states ; Tehran says MoU suspended after US attacks",
+          "link": "https://aninews.in/news/world/middle-east/arab-league-gulf-cooperation-council-condemn-iranian-strikes-on-member-states-tehran-says-mou-suspended-after-us-attacks20260718220139/",
+          "source": "aninews.in",
+          "pubDate": "2026-07-18T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab League , Gulf Cooperation Council condemn Iranian strikes on member states ; Tehran says MoU suspended after US attacks"
+        },
+        {
+          "title": "Spain vs . Argentina Livestream : How to Watch the FIFA World Cup Final Live Online for Free",
+          "link": "https://www.pcmag.com/news/how-to-watch-spain-vs-argentina-fifa-world-cup-final-live-for-free",
+          "source": "pcmag.com",
+          "pubDate": "2026-07-18T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Spain vs . Argentina Livestream : How to Watch the FIFA World Cup Final Live Online for Free"
+        },
+        {
+          "title": "Tinubu is another Lee Kuan Yew - Uzodinma",
+          "link": "https://pmnewsnigeria.com/2026/07/18/tinubu-is-another-lee-kuan-yew-uzodinma/",
+          "source": "pmnewsnigeria.com",
+          "pubDate": "2026-07-18T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tinubu is another Lee Kuan Yew - Uzodinma"
+        },
+        {
+          "title": "World Cup final : Messi , Argentina plan to  give it our all  – Twin Cities",
+          "link": "https://www.twincities.com/2026/07/18/world-cup-final-messi-argentina-plan-to-give-it-our-all/",
+          "source": "twincities.com",
+          "pubDate": "2026-07-18T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "World Cup final : Messi , Argentina plan to  give it our all  – Twin Cities"
+        },
+        {
+          "title": "Lionel Messi Speaks in Advance of World Cup Final , Says Argentina  Will Give it Our All",
+          "link": "https://english.aawsat.com/sports/5297438-lionel-messi-speaks-advance-world-cup-final-says-argentina-will-give-it-our-all",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-07-18T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Lionel Messi Speaks in Advance of World Cup Final , Says Argentina  Will Give it Our All"
+        },
+        {
+          "title": "Saudi Arabia Tourism Package Visa puts visitor convenience first",
+          "link": "https://www.arabnews.com/node/2651404/saudi-arabia",
+          "source": "arabnews.com",
+          "pubDate": "2026-07-18T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia Tourism Package Visa puts visitor convenience first"
+        },
+        {
+          "title": "Tinubu is Nigeria Lee Kuan Yew , says Uzodimma",
+          "link": "https://quicknews-africa.net/tinubu-is-nigerias-lee-kuan-yew-says-uzodimma/",
+          "source": "quicknews-africa.net",
+          "pubDate": "2026-07-18T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tinubu is Nigeria Lee Kuan Yew , says Uzodimma"
+        },
+        {
+          "title": "UK visa squeeze shutters Kenyan father dream",
+          "link": "https://www.standardmedia.co.ke/opinion/article/2001553137/uk-visa-squeeze-shutters-kenyan-fathers-dream",
+          "source": "standardmedia.co.ke",
+          "pubDate": "2026-07-18T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UK visa squeeze shutters Kenyan father dream"
+        },
+        {
+          "title": "中東風雲錄 -- 開欄文 ： 埃及的加薩重建方案 -- Al Jazeera - 時事論壇",
+          "link": "https://city.udn.com/2976/7247690?raid=7297232",
+          "source": "city.udn.com",
+          "pubDate": "2026-07-18T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "中東風雲錄 -- 開欄文 ： 埃及的加薩重建方案 -- Al Jazeera - 時事論壇"
+        },
+        {
+          "title": "About ZAWYA",
+          "link": "https://www.zawya.com/en/about-zawya",
+          "source": "zawya.com",
+          "pubDate": "2026-07-18T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "About ZAWYA"
+        },
+        {
+          "title": "Links 7 / 18 / 2026 | naked capitalism",
+          "link": "https://www.nakedcapitalism.com/2026/07/links-7-18-2026.html",
+          "source": "nakedcapitalism.com",
+          "pubDate": "2026-07-18T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Links 7 / 18 / 2026 | naked capitalism"
+        },
+        {
+          "title": "GoCab deploys 100 EVs in Abidjan as part of Yango fleet",
+          "link": "https://techcabal.com/2026/07/18/gocab-yango/",
+          "source": "techcabal.com",
+          "pubDate": "2026-07-18T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GoCab deploys 100 EVs in Abidjan as part of Yango fleet"
+        },
+        {
+          "title": "How international students bring a huge economic boost to Coventry - especially one part",
+          "link": "https://www.coventrytelegraph.net/news/coventry-news/how-international-students-bring-huge-34284216",
+          "source": "coventrytelegraph.net",
+          "pubDate": "2026-07-18T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How international students bring a huge economic boost to Coventry - especially one part"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
