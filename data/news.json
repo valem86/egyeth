@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T03:36:32.244Z",
+  "generatedAt": "2026-07-18T06:22:59.689Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -48,6 +48,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Armed Assailants Seize Chemical Tanker Off Yemen",
+          "link": "https://www.marinelink.com/news/armed-assailants-seize-chemical-tanker-541327",
+          "source": "marinelink.com",
+          "pubDate": "2026-07-17T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Armed Assailants Seize Chemical Tanker Off Yemen"
+        },
+        {
           "title": "Kenya: Ruto Warned Against Underestimating Gachagua",
           "link": "https://allafrica.com/stories/202607170571.html",
           "description": "[Capital FM] Nairobi -- Former Law Society of Kenya (LSK) President Nelson Havi has warned President William Ruto and leaders of the Broad-Based Government against dismissing Rigathi Gachagua's growing political influence, arguing that the Ol Kalou by-election has demonstrated the former Deputy President's strength in the Mt Kenya region.",
@@ -57,28 +66,172 @@
           "titleIt": "Kenya: Ruto Warned Against Underestimating Gachagua"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Kenya: Uber to Acquire Glovo in Kenya, Other Markets in Sh1.95tn Deal",
+          "link": "https://allafrica.com/stories/202607170533.html",
+          "description": "[Capital FM] Nairobi -- U.S.-based mobility and delivery platform Uber is set to acquire Glovo Kenya after striking a deal to buy Berlin-based Delivery Hero's food delivery business across 50 markets.",
+          "pubDate": "Fri, 17 Jul 2026 16:19:24 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "titleIt": "Kenya: Uber to Acquire Glovo in Kenya, Other Markets in Sh1.95tn Deal"
+        },
+        {
+          "title": "Could Somalia See The World Next Major Oil Discovery ?",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Could-Somalia-See-The-Worlds-Next-Major-Oil-Discovery.html",
+          "source": "oilprice.com",
+          "pubDate": "2026-07-16T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Could Somalia See The World Next Major Oil Discovery ?"
+        },
+        {
+          "title": "Middle East new security paradigm",
+          "link": "https://tribune.com.pk/story/2618449/middle-easts-new-security-paradigm",
+          "source": "tribune.com.pk",
+          "pubDate": "2026-07-15T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Middle East new security paradigm"
+        },
+        {
+          "title": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information",
+          "link": "https://shabait.com/2026/07/15/ethiopias-prosperity-party-delusional-precepts-as-tools-of-regional-destabilization/",
+          "source": "shabait.com",
+          "pubDate": "2026-07-15T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information"
+        },
+        {
+          "title": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation",
+          "link": "https://allafrica.com/stories/202607150058.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-15T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation"
+        },
+        {
+          "title": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements",
+          "link": "https://wardheernews.com/the-geopolitical-theatre-of-the-horn-of-africa-sovereignty-rentier-statecraft-and-the-spectacle-of-security-agreements/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-15T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "https://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "http://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-14T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
+        },
+        {
+          "title": "Puntland President Warns Against  Predetermined Election as Federal Election Dispute Deepens",
+          "link": "https://wardheernews.com/puntland-president-warns-against-predetermined-elections-as-federal-election-dispute-deepens/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-13T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Puntland President Warns Against  Predetermined Election as Federal Election Dispute Deepens"
+        },
+        {
+          "title": "Emiratis Hang On in the Gulf of Aden",
+          "link": "https://maritime-executive.com/article/emiratis-hang-on-in-the-gulf-of-aden",
+          "source": "maritime-executive.com",
+          "pubDate": "2026-07-13T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Emiratis Hang On in the Gulf of Aden"
+        },
+        {
+          "title": "Super El Nino will hit women the hardest , charity warns :  We should be very worried",
+          "link": "https://www.independent.co.uk/climate-change/el-nino-climate-super-crisis-women-b3011246.html",
+          "source": "independent.co.uk",
+          "pubDate": "2026-07-12T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Super El Nino will hit women the hardest , charity warns :  We should be very worried"
+        },
+        {
+          "title": "Turkey brokers intra - Somalia talks as federal rifts test Ankara influence",
+          "link": "https://horseedmedia.net/turkey-brokers-intra-somalia-talks-as-federal-rifts-test-ankaras-influence/423594/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-07-10T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkey brokers intra - Somalia talks as federal rifts test Ankara influence"
+        },
+        {
+          "title": "Africa : Intra - African Diplomatic Relations Should Not Dictate the External Foreign Policies of African States",
+          "link": "https://allafrica.com/stories/202607090067.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-09T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Intra - African Diplomatic Relations Should Not Dictate the External Foreign Policies of African States"
+        },
+        {
+          "title": "The Israel - Emirates Axis and the Zionist Quest to Take over Somalia Gulf of Aden Coast",
+          "link": "https://wardheernews.com/the-israel-emirates-axis-and-the-zionist-quest-to-take-over-somalias-gulf-of-aden-coast/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-09T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Israel - Emirates Axis and the Zionist Quest to Take over Somalia Gulf of Aden Coast"
+        },
+        {
+          "title": "America retreat is reshaping the Gulf , driving Oman toward Iran | JNS",
+          "link": "https://www.clevelandjewishnews.com/jns/america-s-retreat-is-reshaping-the-gulf-driving-oman-toward-iran/article_10ff54ab-84a6-5725-88a4-0ccb4ce3c87d.html",
+          "source": "clevelandjewishnews.com",
+          "pubDate": "2026-07-08T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "America retreat is reshaping the Gulf , driving Oman toward Iran | JNS"
+        },
+        {
+          "title": "African Development Bank Brokers Zambia Debt - for - Energy Swap",
+          "link": "https://foreignpolicy.com/2026/07/08/zambia-debt-swap-economics-energy-power-copper/",
+          "source": "foreignpolicy.com",
+          "pubDate": "2026-07-08T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African Development Bank Brokers Zambia Debt - for - Energy Swap"
+        },
+        {
+          "title": "America retreat is reshaping the Gulf , driving Oman toward Iran - Christians for Israel International",
+          "link": "https://www.whyisrael.org/jns-org/americas-retreat-is-reshaping-the-gulf-driving-oman-toward-iran/",
+          "source": "whyisrael.org",
+          "pubDate": "2026-07-08T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "America retreat is reshaping the Gulf , driving Oman toward Iran - Christians for Israel International"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Energia: Ghirelli (Infracorp), sia leva strategica al servizio dello sviluppo e della competitivita'",
-          "link": "https://www.agenzianova.com/a/6a5af4bbc41a36.19791360/7620070/2026-07-17/energia-ghirelli-infracorp-sia-leva-strategica-al-servizio-dello-sviluppo-e-della-competitivita",
-          "description": "17 lug 21:01 - (Agenzia Nova) - Il settore energetico \"e' chiamato a rispondere a una domanda in costante crescita, trainata anche dal ruolo... (Com)",
-          "pubDate": "2026-07-17T21:01:54+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Energia: Ghirelli (Infracorp), sia leva strategica al servizio dello sviluppo e della competitivita'"
-        },
         {
           "title": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio",
           "link": "https://www.ansa.it/english/news/2026/07/17/gdp-up-0.4-q2-inflation-returns-to-2.5-in-july-says-confcommercio_988b6077-7200-4492-b2d9-1de711f383ce.html",
