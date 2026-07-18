@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T11:20:32.590Z",
+  "generatedAt": "2026-07-18T13:53:41.132Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -48,6 +48,33 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya: Linda Mwananchi Camp Concedes Defeat in Battle for ODM, Says Party Has Been Captured",
+          "link": "https://allafrica.com/stories/202607170605.html",
+          "description": "[Capital FM] Nairobi -- A group of senior Orange Democratic Movement (ODM) leaders aligned to the Linda Mwananchi movement has declared that it has abandoned its bid to reclaim the party, saying it believes ODM has drifted away from the ideals of its late leader Raila Odinga and fallen under the influence of the Kenya Kwanza administration.",
+          "pubDate": "Fri, 17 Jul 2026 16:38:53 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Linda Mwananchi Camp Concedes Defeat in Battle for ODM, Says Party Has Been Captured"
+        },
+        {
+          "title": "Kenya: Makau Mutua Dismisses Ol Kalou Poll As 'Nothingburger', Says 2027 Will Not Be Decided in Mt Kenya",
+          "link": "https://allafrica.com/stories/202607170600.html",
+          "description": "[Capital FM] Nairobi -- Presidential Advisor Makau Mutua has downplayed the political significance of the Ol Kalou parliamentary by-election, dismissing attempts to portray the opposition's victory as a bellwether for the 2027 General Election.",
+          "pubDate": "Fri, 17 Jul 2026 16:36:28 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Makau Mutua Dismisses Ol Kalou Poll As 'Nothingburger', Says 2027 Will Not Be Decided in Mt Kenya"
+        },
+        {
+          "title": "Kenya: Ganatra Elected As Inaugural President of Motorsport Kenya Federation",
+          "link": "https://allafrica.com/stories/202607170574.html",
+          "description": "[Capital FM] Nairobi -- Altaf Ganatra has been elected as the inaugural president of the Motorsport Kenya Federation (MKF) in elections held on Friday at a Nairobi hotel.",
+          "pubDate": "Fri, 17 Jul 2026 16:30:10 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Ganatra Elected As Inaugural President of Motorsport Kenya Federation"
+        },
+        {
           "title": "Kenya: Ruto Warned Against Underestimating Gachagua",
           "link": "https://allafrica.com/stories/202607170571.html",
           "description": "[Capital FM] Nairobi -- Former Law Society of Kenya (LSK) President Nelson Havi has warned President William Ruto and leaders of the Broad-Based Government against dismissing Rigathi Gachagua's growing political influence, arguing that the Ol Kalou by-election has demonstrated the former Deputy President's strength in the Mt Kenya region.",
@@ -57,6 +84,15 @@
           "titleIt": "Kenya: Ruto Warned Against Underestimating Gachagua"
         },
         {
+          "title": "Ethiopia: Libyan Professor Says Ethiopia's Pursuit to Sea Access Legal Right",
+          "link": "https://allafrica.com/stories/202607170543.html",
+          "description": "[ENA] Addis Ababa -- Ethiopia's quest for sea access is firmly grounded in established legal principles, international law and regional agreements that guarantee landlocked states the right of access to the sea, the Libyan Professor Saad Salama, said.",
+          "pubDate": "Fri, 17 Jul 2026 16:23:23 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Libyan Professor Says Ethiopia's Pursuit to Sea Access Legal Right"
+        },
+        {
           "title": "Kenya: Uber to Acquire Glovo in Kenya, Other Markets in Sh1.95tn Deal",
           "link": "https://allafrica.com/stories/202607170533.html",
           "description": "[Capital FM] Nairobi -- U.S.-based mobility and delivery platform Uber is set to acquire Glovo Kenya after striking a deal to buy Berlin-based Delivery Hero's food delivery business across 50 markets.",
@@ -64,24 +100,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: Uber to Acquire Glovo in Kenya, Other Markets in Sh1.95tn Deal"
-        },
-        {
-          "title": "Kenya: UDA Stares At 2027 Reset As Kindiki Signals Rethink After Crushing Ol Kalou Drubbing",
-          "link": "https://allafrica.com/stories/202607170428.html",
-          "description": "[Capital FM] Nairobi -- The ruling United Democratic Alliance (UDA) is facing mounting pressure to recalibrate its political strategy ahead of President William Ruto's 2027 re-election bid after suffering a crushing defeat in the Ol Kalou parliamentary by-election, a contest widely viewed as the clearest electoral test yet of the administration's standing in the vote-rich Mt Kenya region.",
-          "pubDate": "Fri, 17 Jul 2026 12:20:40 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: UDA Stares At 2027 Reset As Kindiki Signals Rethink After Crushing Ol Kalou Drubbing"
-        },
-        {
-          "title": "Kenya: Health PS Pushes for Urgent Sickle Cell Reforms As Donor Support Declines",
-          "link": "https://allafrica.com/stories/202607170427.html",
-          "description": "[Capital FM] Nairobi -- Health Principal Secretary Dr. Ouma Oluga has challenged health stakeholders to urgently strengthen sickle cell disease care, warning that Kenya cannot continue relying on donor funding as international support declines.",
-          "pubDate": "Fri, 17 Jul 2026 12:20:16 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Health PS Pushes for Urgent Sickle Cell Reforms As Donor Support Declines"
         },
         {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
@@ -97,6 +115,105 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.thailandnews.net/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "thailandnews.net",
+          "pubDate": "2026-07-18T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.zimbabwestar.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "zimbabwestar.com",
+          "pubDate": "2026-07-18T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.chinanationalnews.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "chinanationalnews.com",
+          "pubDate": "2026-07-18T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.floridastatesman.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "floridastatesman.com",
+          "pubDate": "2026-07-18T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.utahindependent.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "utahindependent.com",
+          "pubDate": "2026-07-18T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.asiabulletin.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "asiabulletin.com",
+          "pubDate": "2026-07-18T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.sandiegosun.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "sandiegosun.com",
+          "pubDate": "2026-07-18T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "China AI solutions power development , improve safety across Global South",
+          "link": "http://www.japanherald.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
+          "source": "japanherald.com",
+          "pubDate": "2026-07-18T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China AI solutions power development , improve safety across Global South"
+        },
+        {
+          "title": "Economic Watch : China AI solutions power development , improve safety across Global South - Xinhua",
+          "link": "https://english.news.cn/20260718/52346fc442a24752a004c548e5bd1d62/c.html",
+          "source": "english.news.cn",
+          "pubDate": "2026-07-18T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Economic Watch : China AI solutions power development , improve safety across Global South - Xinhua"
+        },
+        {
+          "title": "Thousands Gather In Addis Ababa For Long - Awaited National Dialogue",
+          "link": "https://www.thereporterethiopia.com/51938/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-18T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Thousands Gather In Addis Ababa For Long - Awaited National Dialogue"
+        },
+        {
+          "title": "Small boat arrivals to the united kingdom are falling . But no one really knows why",
+          "link": "https://www.independent.co.uk/news/uk/home-news/small-boat-uk-immigration-arrivals-migration-b3014450.html",
+          "source": "independent.co.uk",
+          "pubDate": "2026-07-18T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Small boat arrivals to the united kingdom are falling . But no one really knows why"
+        },
         {
           "title": "Egypt and Turkey : Rapidly growing alliance putting old rivalry aside and alarming Israel",
           "link": "https://www.thenationalnews.com/news/mena/2026/07/18/egypt-and-turkey-rapidly-growing-alliance-putting-old-rivalry-aside-and-alarming-israel/",
@@ -177,105 +294,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "An adventurous spirit led him from the plains to life as a pilot , soldier and spy"
-        },
-        {
-          "title": "Ethiopia largest wind power project advances following $110 million AfDB funding approval",
-          "link": "https://capitalethiopia.com/2026/07/17/ethiopias-largest-wind-power-project-advances-following-110-million-afdb-funding-approval/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-07-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia largest wind power project advances following $110 million AfDB funding approval"
-        },
-        {
-          "title": "An adventurous spirit led him from the plains to life as a pilot , soldier and spy",
-          "link": "https://www.bemidjipioneer.com/news/the-vault/an-adventurous-spirit-led-him-from-the-plains-to-life-as-a-pilot-soldier-and-spy",
-          "source": "bemidjipioneer.com",
-          "pubDate": "2026-07-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "An adventurous spirit led him from the plains to life as a pilot , soldier and spy"
-        },
-        {
-          "title": "Palestine Action defendant  missed the last year  of his mother life while behind bars",
-          "link": "https://www.middleeasteye.net/news/palestine-action-defendant-missed-last-year-his-mothers-life-while-behind-bars",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-07-17T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Palestine Action defendant  missed the last year  of his mother life while behind bars"
-        },
-        {
-          "title": "An adventurous spirit led him from the plains to life as a pilot , soldier and spy",
-          "link": "https://www.inforum.com/news/the-vault/an-adventurous-spirit-led-him-from-the-plains-to-life-as-a-pilot-soldier-and-spy",
-          "source": "inforum.com",
-          "pubDate": "2026-07-17T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "An adventurous spirit led him from the plains to life as a pilot , soldier and spy"
-        },
-        {
-          "title": "An adventurous spirit led him from the plains to life as a pilot , soldier and spy",
-          "link": "https://www.jamestownsun.com/news/the-vault/an-adventurous-spirit-led-him-from-the-plains-to-life-as-a-pilot-soldier-and-spy",
-          "source": "jamestownsun.com",
-          "pubDate": "2026-07-17T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "An adventurous spirit led him from the plains to life as a pilot , soldier and spy"
-        },
-        {
-          "title": "An adventurous spirit led him from the plains to life as a pilot , soldier and spy",
-          "link": "https://www.thedickinsonpress.com/news/the-vault/an-adventurous-spirit-led-him-from-the-plains-to-life-as-a-pilot-soldier-and-spy",
-          "source": "thedickinsonpress.com",
-          "pubDate": "2026-07-17T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "An adventurous spirit led him from the plains to life as a pilot , soldier and spy"
-        },
-        {
-          "title": "An adventurous spirit led him from the plains to life as a pilot , soldier and spy",
-          "link": "https://www.parkrapidsenterprise.com/news/the-vault/an-adventurous-spirit-led-him-from-the-plains-to-life-as-a-pilot-soldier-and-spy",
-          "source": "parkrapidsenterprise.com",
-          "pubDate": "2026-07-17T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "An adventurous spirit led him from the plains to life as a pilot , soldier and spy"
-        },
-        {
-          "title": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio",
-          "link": "https://www.ansa.it/english/news/2026/07/17/gdp-up-0.4-q2-inflation-returns-to-2.5-in-july-says-confcommercio_988b6077-7200-4492-b2d9-1de711f383ce.html",
-          "description": "(ANSA) - ROME, JUL 17 - Italy's GDP was up 0.4% in the second quarter of this tear while inflation fell back to 2.5% in July, retail group Confcommercio said Friday. The geopolitical scenario, after a brief period of respite, has seen renewed tensions in the Middle East, making forecasts for the Italian economy \"slightly more uncertain and complex,\" \"still experiencing undeniable signs of liveliness overall,\" Confcommercio stated in its latest report, estimating a second quarter of further growth of 0.4%, with a 1.2% increase compared to the same period in 2025. The growth achieved to date all",
-          "pubDate": "Fri, 17 Jul 2026 13:12:44 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio"
-        },
-        {
-          "title": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio",
-          "link": "https://www.ansa.it/english/news/business/2026/07/17/gdp-up-0.4-q2-inflation-returns-to-2.5-in-july-says-confcommercio_ae6094ff-a558-4d8c-b814-18993f4d81b1.html",
-          "description": "(ANSA) - ROME, JUL 17 - Italy's GDP was up 0.4% in the second quarter of this tear while inflation fell back to 2.5% in July, retail group Confcommercio said Friday. The geopolitical scenario, after a brief period of respite, has seen renewed tensions in the Middle East, making forecasts for the Italian economy \"slightly more uncertain and complex,\" \"still experiencing undeniable signs of liveliness overall,\" Confcommercio stated in its latest report, estimating a second quarter of further growth of 0.4%, with a 1.2% increase compared to the same period in 2025. The growth achieved to date all",
-          "pubDate": "Fri, 17 Jul 2026 13:12:03 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio"
-        },
-        {
-          "title": "Kenya : High Input Costs , Taxes Dim Kenya Appeal to Investors",
-          "link": "https://allafrica.com/stories/202607170068.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-17T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kenya : High Input Costs , Taxes Dim Kenya Appeal to Investors"
-        },
-        {
-          "title": "Behind the front lines , Sar - El volunteers help keep the IDF running",
-          "link": "https://www.clevelandjewishnews.com/news/world_news/behind-the-front-lines-sar-el-volunteers-help-keep-the-idf-running/article_13cb0950-8e1c-5834-a64b-fe6698458e79.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-07-17T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Behind the front lines , Sar - El volunteers help keep the IDF running"
         }
       ]
     },
@@ -286,6 +304,15 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Ethiopia: Libyan Professor Says Ethiopia's Pursuit to Sea Access Legal Right",
+          "link": "https://allafrica.com/stories/202607170543.html",
+          "description": "[ENA] Addis Ababa -- Ethiopia's quest for sea access is firmly grounded in established legal principles, international law and regional agreements that guarantee landlocked states the right of access to the sea, the Libyan Professor Saad Salama, said.",
+          "pubDate": "Fri, 17 Jul 2026 16:23:23 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Libyan Professor Says Ethiopia's Pursuit to Sea Access Legal Right"
+        },
         {
           "title": "From abundance to retreat : what happened to Nile water levels in Sudan ?",
           "link": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
@@ -456,15 +483,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
-        },
-        {
-          "title": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander",
-          "link": "https://www.dw.com/en/ethiopias-pm-abiy-ahmed-from-nobel-winner-to-war-commander/a-77647920",
-          "source": "dw.com",
-          "pubDate": "2026-06-21T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia PM Abiy Ahmed : From Nobel winner to war commander"
         }
       ]
     }
