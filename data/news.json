@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-19T10:03:52.397Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-07-19T11:33:55.227Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -23,24 +23,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Egypt receive a warm welcome home"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -66,13 +48,13 @@
           "titleIt": "Kenya: Uber to Acquire Glovo in Kenya, Other Markets in Sh1.95tn Deal"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Kenya: UDA Stares At 2027 Reset As Kindiki Signals Rethink After Crushing Ol Kalou Drubbing",
+          "link": "https://allafrica.com/stories/202607170428.html",
+          "description": "[Capital FM] Nairobi -- The ruling United Democratic Alliance (UDA) is facing mounting pressure to recalibrate its political strategy ahead of President William Ruto's 2027 re-election bid after suffering a crushing defeat in the Ol Kalou parliamentary by-election, a contest widely viewed as the clearest electoral test yet of the administration's standing in the vote-rich Mt Kenya region.",
+          "pubDate": "Fri, 17 Jul 2026 12:20:40 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "titleIt": "Kenya: UDA Stares At 2027 Reset As Kindiki Signals Rethink After Crushing Ol Kalou Drubbing"
         }
       ]
     },
@@ -132,21 +114,193 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "NASSIR : Allow more flights so Mombasa and Coast can take off economically",
+          "link": "https://www.the-star.co.ke/siasa/2026-07-19-nassir-unlocking-mombasa-begins-with-smarter-aviation-policy",
+          "source": "the-star.co.ke",
+          "pubDate": "2026-07-19T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "NASSIR : Allow more flights so Mombasa and Coast can take off economically"
+        },
+        {
+          "title": "Mbappe vs Messi : Kylian Mbappe Leads World Cup Golden Boot Race Heading Into Sunday Final",
+          "link": "https://www.ibtimes.com.au/mbappe-leads-world-cup-golden-boot-race-1872547",
+          "source": "ibtimes.com.au",
+          "pubDate": "2026-07-19T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mbappe vs Messi : Kylian Mbappe Leads World Cup Golden Boot Race Heading Into Sunday Final"
+        },
+        {
+          "title": "Mohammed bin Rashid : UAE non - oil foreign trade approaches AED2 trillion in H12026 - a growth of 13 . 1 % as exports hit a record AED452 . 8 billion",
+          "link": "http://www.bignewsnetwork.com/news/279196898/mohammed-bin-rashid-uae-non-oil-foreign-trade-approaches-aed2-trillion-in-h12026-a-growth-of-131-as-exports-hit-a-record-aed4528-billion",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-07-19T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mohammed bin Rashid : UAE non - oil foreign trade approaches AED2 trillion in H12026 - a growth of 13 . 1 % as exports hit a record AED452 . 8 billion"
+        },
+        {
+          "title": "Peru Opens Largest - Ever Archaeological Exhibition in Shanghai",
+          "link": "https://www.riotimesonline.com/peru-largest-archaeological-exhibition-shanghai-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-07-19T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Peru Opens Largest - Ever Archaeological Exhibition in Shanghai"
+        },
+        {
+          "title": "how to navigate what roger hallam calls humanity  darkest hour .....",
+          "link": "https://yourdemocracy.net/drupal/node/60497",
+          "source": "yourdemocracy.net",
+          "pubDate": "2026-07-19T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "how to navigate what roger hallam calls humanity  darkest hour ....."
+        },
+        {
+          "title": "Iran : Cashing Chips Won in War",
+          "link": "https://www.gatestoneinstitute.org/22713/iran-cashing-chips-won-in-war",
+          "source": "gatestoneinstitute.org",
+          "pubDate": "2026-07-19T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran : Cashing Chips Won in War"
+        },
+        {
+          "title": "Uzodimma : Tinubu is Nigeria Lee Kuan Yew , His Performance Will Earn Him Second Term in 2027 – THISDAYLIVE",
+          "link": "https://www.thisdaylive.com/2026/07/19/uzodimma-tinubu-is-nigerias-lee-kuan-yew-his-performance-will-earn-him-second-term-in-2027/",
+          "source": "thisdaylive.com",
+          "pubDate": "2026-07-19T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Uzodimma : Tinubu is Nigeria Lee Kuan Yew , His Performance Will Earn Him Second Term in 2027 – THISDAYLIVE"
+        },
+        {
+          "title": "Gulf escalation - Newspaper",
+          "link": "https://www.dawn.com/news/2016629/gulf-escalation",
+          "source": "dawn.com",
+          "pubDate": "2026-07-19T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gulf escalation - Newspaper"
+        },
+        {
+          "title": "Overnight News Digest : July 18 , 2026",
+          "link": "https://www.dailykos.com/stories/2026/7/18/800071980/community/overnight-news-digest-july-18-2026/",
+          "source": "dailykos.com",
+          "pubDate": "2026-07-19T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Overnight News Digest : July 18 , 2026"
+        },
+        {
+          "title": "Female Genital Mutilation in India : Hidden Practice , Health Risks and Supreme Court Battle for Women Rights",
+          "link": "https://openthemagazine.com/india/female-genital-mutilation-the-unkindest-cut",
+          "source": "openthemagazine.com",
+          "pubDate": "2026-07-19T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Female Genital Mutilation in India : Hidden Practice , Health Risks and Supreme Court Battle for Women Rights"
+        },
+        {
+          "title": "The Best Pub Trivia Questions to Test Your Knowledge",
+          "link": "https://www.mentalfloss.com/random-facts/best-pub-trivia-questions-test-your-knowledge",
+          "source": "mentalfloss.com",
+          "pubDate": "2026-07-19T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Best Pub Trivia Questions to Test Your Knowledge"
+        },
+        {
+          "title": "61 Historical Photos That Remind Us Of The Days We Will Never Be Able To Experience ( New Pics )",
+          "link": "https://tvovermind.com/old-vintage-photos-historical-capsule/",
+          "source": "tvovermind.com",
+          "pubDate": "2026-07-18T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "61 Historical Photos That Remind Us Of The Days We Will Never Be Able To Experience ( New Pics )"
+        },
+        {
+          "title": "Hopes for US - Iran diplomacy still alive as fighting intensifies over the Strait of Hormuz | News , Sports , Jobs",
+          "link": "https://www.vindy.com/wire/?category=6&ID=396066",
+          "source": "vindy.com",
+          "pubDate": "2026-07-18T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Hopes for US - Iran diplomacy still alive as fighting intensifies over the Strait of Hormuz | News , Sports , Jobs"
+        },
+        {
+          "title": "Startup Wrap : MENA startup funding stands as $1 . 7bn in H1 2026",
+          "link": "https://www.arabnews.com/node/2651443/business-economy",
+          "source": "arabnews.com",
+          "pubDate": "2026-07-18T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Startup Wrap : MENA startup funding stands as $1 . 7bn in H1 2026"
+        },
+        {
+          "title": "From founder formation to exits : where MENA venture capital journey needs to go next",
+          "link": "https://www.arabnews.com/node/2651440/business-economy",
+          "source": "arabnews.com",
+          "pubDate": "2026-07-18T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From founder formation to exits : where MENA venture capital journey needs to go next"
+        },
+        {
+          "title": "Iraq - Syria Pipeline Heads $60 Billion Deal Package as Syria Re - emerges as Regional Corridor",
+          "link": "https://radiofreesyria.com/iraq-syria-pipeline-heads-60-billion-deal-package-as-syria-re-emerges-as-regional-corridor/",
+          "source": "radiofreesyria.com",
+          "pubDate": "2026-07-18T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iraq - Syria Pipeline Heads $60 Billion Deal Package as Syria Re - emerges as Regional Corridor"
+        },
+        {
+          "title": "Hopes for US - Iran diplomacy still alive as fighting intensifies over the Strait of Hormuz | News , Sports , Jobs",
+          "link": "https://www.mauinews.com/wire/?category=5187&ID=396066",
+          "source": "mauinews.com",
+          "pubDate": "2026-07-18T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Hopes for US - Iran diplomacy still alive as fighting intensifies over the Strait of Hormuz | News , Sports , Jobs"
+        },
+        {
+          "title": "Arab League , Gulf Cooperation Council condemn Iranian strikes on member states ; Tehran says MoU suspended after US attacks",
+          "link": "https://news.webindia123.com/news/Articles/World/20260718/4476390.html",
+          "source": "news.webindia123.com",
+          "pubDate": "2026-07-18T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab League , Gulf Cooperation Council condemn Iranian strikes on member states ; Tehran says MoU suspended after US attacks"
+        },
+        {
+          "title": "The Odyssey : Who Were the Sea People and Why Are They So Scary ?",
+          "link": "https://www.denofgeek.com/movies/the-odyssey-who-were-the-sea-people-why-so-scary/",
+          "source": "denofgeek.com",
+          "pubDate": "2026-07-18T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Odyssey : Who Were the Sea People and Why Are They So Scary ?"
+        },
+        {
+          "title": "Tanzania , Egypt agree to deepen cooperation across key economic sectors",
+          "link": "http://www.bignewsnetwork.com/news/279195929/tanzania-egypt-agree-to-deepen-cooperation-across-key-economic-sectors",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-07-18T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tanzania , Egypt agree to deepen cooperation across key economic sectors"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
