@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-07-19T13:58:08.935Z",
+  "generatedAt": "2026-07-19T15:18:16.224Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Medio Oriente: Egitto condanna apertura ambasciata del Somaliland a Gerusalemme (2)",
+          "link": "https://www.agenzianova.com/a/6a5ceab3b82ef9.62597337/7621648/2026-07-19/medio-oriente-egitto-condanna-apertura-ambasciata-del-somaliland-a-gerusalemme-2",
+          "description": "19 lug 16:58 - (Agenzia Nova) - I due ministri hanno discusso anche dell'ampliamento della cooperazione bilaterale. Abdelatty ha sottolineato... (Cae)",
+          "pubDate": "2026-07-19T16:58:40+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Medio Oriente: Egitto condanna apertura ambasciata del Somaliland a Gerusalemme (2)"
+        },
+        {
+          "title": "Medio Oriente: Egitto condanna apertura ambasciata del Somaliland a Gerusalemme",
+          "link": "https://www.agenzianova.com/a/6a5ceab3b84984.07194658/7621647/2026-07-19/medio-oriente-egitto-condanna-apertura-ambasciata-del-somaliland-a-gerusalemme",
+          "description": "19 lug 16:58 - (Agenzia Nova) - Il ministro degli Esteri egiziano Badr Abdelatty ha condannato oggi l'apertura di una presunta ambasciata del... (Cae)",
+          "pubDate": "2026-07-19T16:58:40+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Medio Oriente: Egitto condanna apertura ambasciata del Somaliland a Gerusalemme"
+        },
         {
           "title": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/19/an-expert-from-the-guardia-di-finanza-at-the-italian-embassy-in-riyadh_63c6c89e-7291-4ccf-b91e-63b3321a493a.html",
@@ -88,6 +106,15 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Egypt , Tanzania expand partnership with focus on food security",
+          "link": "https://www.middle-east-online.com/en/egypt-tanzania-expand-partnership-focus-food-security",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-07-19T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt , Tanzania expand partnership with focus on food security"
+        },
         {
           "title": "Egypt eyes land reclamation projects in Tanzania",
           "link": "https://www.middleeastmonitor.com/20260719-egypt-eyes-land-reclamation-projects-in-tanzania/",
@@ -258,15 +285,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "China AI solutions power development , improve safety across Global South"
-        },
-        {
-          "title": "China AI solutions power development , improve safety across Global South",
-          "link": "http://www.jamaicantimes.com/news/279195665/china-ai-solutions-power-development-improve-safety-across-global-south",
-          "source": "jamaicantimes.com",
-          "pubDate": "2026-07-18T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China AI solutions power development , improve safety across Global South"
         }
       ]
     },
@@ -287,6 +305,15 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Egitto: intervista a un giornalista israeliano di \"Haaretz\" scatena polemiche",
+          "link": "https://www.agenzianova.com/a/6a5ceab3b7a378.62967684/7621654/2026-07-19/egitto-intervista-a-un-giornalista-israeliano-di-haaretz-scatena-polemiche",
+          "description": "19 lug 17:07 - (Agenzia Nova) - Un'intervista rilasciata dal giornalista israeliano Gideon Levy al canale televisivo egiziano \"Al Qahera News\"... (Res)",
+          "pubDate": "2026-07-19T17:07:54+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: intervista a un giornalista israeliano di \"Haaretz\" scatena polemiche"
+        },
         {
           "title": "Ethiopians march against alleged forced mobilisation in Tigray",
           "link": "http://www.africanews.com/2026/07/18/ethiopians-march-against-alleged-forced-mobilisation-in-tigray/",
@@ -457,15 +484,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Ethiopia Economic Reform Delivering Tangible Results Across Sectors , Says PM Abiy"
-        },
-        {
-          "title": "Pumped Storage Additions Lead Global Hydropower Growth",
-          "link": "https://www.powermag.com/pumped-storage-additions-lead-global-hydropower-growth/",
-          "source": "powermag.com",
-          "pubDate": "2026-06-24T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pumped Storage Additions Lead Global Hydropower Growth"
         }
       ]
     }
