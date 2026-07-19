@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-07-19T06:45:41.429Z",
+  "generatedAt": "2026-07-19T10:03:52.397Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Business news: Cheiron ottiene finanziamento da 550 milioni di dollari per giacimenti egiziani",
-          "link": "https://www.agenzianova.com/a/6a5c7290e8a590.12490542/7619040/2026-07-19/business-news-cheiron-ottiene-finanziamento-da-550-milioni-di-dollari-per-giacimenti-egiziani",
-          "description": "19 lug 04:00 - (Agenzia Nova) - Cheiron Finance Limited, controllata della compagnia Cheiron Energy, ha sottoscritto un accordo di finanziamento... (Cae)",
-          "pubDate": "2026-07-19T04:00:33+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Business news: Cheiron ottiene finanziamento da 550 milioni di dollari per giacimenti egiziani"
-        },
         {
           "title": "University Mission to Dakar for Psychology Education in Senegal",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/16/university-mission-to-dakar-for-psychology-education-in-senegal_0622d785-dffb-445c-aa0b-dd157621bf0c.html",
@@ -57,15 +48,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Business news: Gulf Keystone riporta la produzione del giacimento di Shaikan sopra 43 mila barili al giorno",
-          "link": "https://www.agenzianova.com/a/6a5c7290e88d96.74861965/7619041/2026-07-19/business-news-gulf-keystone-riporta-la-produzione-del-giacimento-di-shaikan-sopra-43-mila-barili-al-giorno",
-          "description": "19 lug 04:00 - (Agenzia Nova) - La compagnia petrolifera Gulf Keystone Petroleum (Gkp), quotata alla Borsa di Londra, ha riportato la produzione... (Irb)",
-          "pubDate": "2026-07-19T04:00:33+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Business news: Gulf Keystone riporta la produzione del giacimento di Shaikan sopra 43 mila barili al giorno"
-        },
-        {
           "title": "Kenya: Ruto Warned Against Underestimating Gachagua",
           "link": "https://allafrica.com/stories/202607170571.html",
           "description": "[Capital FM] Nairobi -- Former Law Society of Kenya (LSK) President Nelson Havi has warned President William Ruto and leaders of the Broad-Based Government against dismissing Rigathi Gachagua's growing political influence, arguing that the Ol Kalou by-election has demonstrated the former Deputy President's strength in the Mt Kenya region.",
@@ -73,6 +55,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: Ruto Warned Against Underestimating Gachagua"
+        },
+        {
+          "title": "Kenya: Uber to Acquire Glovo in Kenya, Other Markets in Sh1.95tn Deal",
+          "link": "https://allafrica.com/stories/202607170533.html",
+          "description": "[Capital FM] Nairobi -- U.S.-based mobility and delivery platform Uber is set to acquire Glovo Kenya after striking a deal to buy Berlin-based Delivery Hero's food delivery business across 50 markets.",
+          "pubDate": "Fri, 17 Jul 2026 16:19:24 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Uber to Acquire Glovo in Kenya, Other Markets in Sh1.95tn Deal"
         },
         {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
@@ -88,24 +79,6 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Business news: Congo-Kinshasa, Usa accolgono concessione Corridoio di Lobito a portoghese Mota-Engil",
-          "link": "https://www.agenzianova.com/a/6a5c7290e792f9.36353719/7618391/2026-07-19/business-news-congo-kinshasa-usa-accolgono-concessione-corridoio-di-lobito-a-portoghese-mota-engil",
-          "description": "19 lug 06:00 - (Agenzia Nova) - Attraverso l'Accordo di partenariato strategico tra Stati Uniti e Repubblica democratica del Congo (Rdc),i... (Was)",
-          "pubDate": "2026-07-19T06:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Business news: Congo-Kinshasa, Usa accolgono concessione Corridoio di Lobito a portoghese Mota-Engil"
-        },
-        {
-          "title": "Business news: Algeria-Germania, 31 intese a Berlino, dal gas ai farmaci e ai trasporti",
-          "link": "https://www.agenzianova.com/a/6a5c7290e83e95.58244293/7619288/2026-07-19/business-news-algeria-germania-31-intese-a-berlino-dal-gas-ai-farmaci-e-ai-trasporti",
-          "description": "19 lug 05:00 - (Agenzia Nova) - Imprese ed enti di Algeria e Germania hanno sottoscritto a Berlino 31 tra accordi e memorandum d'intesa nei... (Ala)",
-          "pubDate": "2026-07-19T05:00:51+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Business news: Algeria-Germania, 31 intese a Berlino, dal gas ai farmaci e ai trasporti"
-        },
         {
           "title": "Ethiopians march against alleged forced mobilisation in Tigray",
           "link": "http://www.africanews.com/2026/07/18/ethiopians-march-against-alleged-forced-mobilisation-in-tigray/",
@@ -173,30 +146,11 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Business news: Cheiron ottiene finanziamento da 550 milioni di dollari per giacimenti egiziani",
-          "link": "https://www.agenzianova.com/a/6a5c7290e8a590.12490542/7619040/2026-07-19/business-news-cheiron-ottiene-finanziamento-da-550-milioni-di-dollari-per-giacimenti-egiziani",
-          "description": "19 lug 04:00 - (Agenzia Nova) - Cheiron Finance Limited, controllata della compagnia Cheiron Energy, ha sottoscritto un accordo di finanziamento... (Cae)",
-          "pubDate": "2026-07-19T04:00:33+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Business news: Cheiron ottiene finanziamento da 550 milioni di dollari per giacimenti egiziani"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Business news: Cheiron ottiene finanziamento da 550 milioni di dollari per giacimenti egiziani",
-          "link": "https://www.agenzianova.com/a/6a5c7290e8a590.12490542/7619040/2026-07-19/business-news-cheiron-ottiene-finanziamento-da-550-milioni-di-dollari-per-giacimenti-egiziani",
-          "description": "19 lug 04:00 - (Agenzia Nova) - Cheiron Finance Limited, controllata della compagnia Cheiron Energy, ha sottoscritto un accordo di finanziamento... (Cae)",
-          "pubDate": "2026-07-19T04:00:33+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Business news: Cheiron ottiene finanziamento da 550 milioni di dollari per giacimenti egiziani"
-        },
         {
           "title": "Ethiopians march against alleged forced mobilisation in Tigray",
           "link": "http://www.africanews.com/2026/07/18/ethiopians-march-against-alleged-forced-mobilisation-in-tigray/",
