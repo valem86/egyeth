@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T18:23:13.029Z",
+  "generatedAt": "2026-07-20T21:36:00.176Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -57,6 +57,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Former North Eastern State MP Fahiima Quuje Receives Warm Welcome in Hargeisa",
+          "link": "https://wardheernews.com/former-north-eastern-state-mp-fahiima-quuje-receives-warm-welcome-in-hargeisa/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-20T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Former North Eastern State MP Fahiima Quuje Receives Warm Welcome in Hargeisa"
+        },
+        {
           "title": "FIGC reportedly approached Guardiola for Italy job",
           "link": "https://www.ansa.it/english/news/sports/2026/07/20/figc-reportedly-approached-guardiola-for-italy-job_440e85d1-ec33-4bd4-b49c-2e8586eaaa2a.html",
           "description": "(ANSA) - ROME, JUL 20 - Italian Soccer Federation (FIGC) technical director Paolo Maldini and consultant Leonardo have been spotted in Barcelona, amid reports by Sky Sport that they met Pep Guardiola at the weekend to talk to him about the vacant position of Italy coach. The former Barcelona, Bayern Munich and Manchester City boss is currently taking a break from soccer after 10 years in the Premier League. Other options include Andrea Pirlo and Roberto Mancini. 2006 World Cup hero Pirlo is the manager of UAE First Division League club Dubai United, while former Italy coach Mancini is currentl",
@@ -93,13 +102,139 @@
           "titleIt": "Kenya: DCI Launches Investigation Into Violence During Ol Kalou By-Election"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Can the US and Israel sustain a war of attrition with Iran ?",
+          "link": "https://www.jpost.com/middle-east/iran-news/article-903000",
+          "source": "jpost.com",
+          "pubDate": "2026-07-19T19:15:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Can the US and Israel sustain a war of attrition with Iran ?"
+        },
+        {
+          "title": "Egypt condemns Somaliland purported Jerusalem mission during talks with Somalia",
+          "link": "https://horseedmedia.net/egypt-condemns-somalilands-purported-jerusalem-mission-during-talks-with-somalia/423886/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-07-19T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt condemns Somaliland purported Jerusalem mission during talks with Somalia"
+        },
+        {
+          "title": "Egypt Urges Somalia to Secure Release of Kidnapped Sailors",
+          "link": "https://www.garoweonline.com/en/news/somalia/egypt-urges-somalia-to-secure-release-of-kidnapped-sailors",
+          "source": "garoweonline.com",
+          "pubDate": "2026-07-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Urges Somalia to Secure Release of Kidnapped Sailors"
+        },
+        {
+          "title": "Egypt and Turkey : Rapidly growing alliance putting old rivalry aside and alarming Israel",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/18/egypt-and-turkey-rapidly-growing-alliance-putting-old-rivalry-aside-and-alarming-israel/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-18T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt and Turkey : Rapidly growing alliance putting old rivalry aside and alarming Israel"
+        },
+        {
+          "title": "Armed Assailants Seize Chemical Tanker Off Yemen",
+          "link": "https://www.marinelink.com/news/armed-assailants-seize-chemical-tanker-541327",
+          "source": "marinelink.com",
+          "pubDate": "2026-07-17T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Armed Assailants Seize Chemical Tanker Off Yemen"
+        },
+        {
+          "title": "Could Somalia See The World Next Major Oil Discovery ?",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Could-Somalia-See-The-Worlds-Next-Major-Oil-Discovery.html",
+          "source": "oilprice.com",
+          "pubDate": "2026-07-16T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Could Somalia See The World Next Major Oil Discovery ?"
+        },
+        {
+          "title": "Middle East new security paradigm",
+          "link": "https://tribune.com.pk/story/2618449/middle-easts-new-security-paradigm",
+          "source": "tribune.com.pk",
+          "pubDate": "2026-07-15T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Middle East new security paradigm"
+        },
+        {
+          "title": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information",
+          "link": "https://shabait.com/2026/07/15/ethiopias-prosperity-party-delusional-precepts-as-tools-of-regional-destabilization/",
+          "source": "shabait.com",
+          "pubDate": "2026-07-15T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information"
+        },
+        {
+          "title": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation",
+          "link": "https://allafrica.com/stories/202607150058.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-15T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation"
+        },
+        {
+          "title": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements",
+          "link": "https://wardheernews.com/the-geopolitical-theatre-of-the-horn-of-africa-sovereignty-rentier-statecraft-and-the-spectacle-of-security-agreements/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-15T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "https://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "http://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-14T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
+        },
+        {
+          "title": "Puntland President Warns Against  Predetermined Election as Federal Election Dispute Deepens",
+          "link": "https://wardheernews.com/puntland-president-warns-against-predetermined-elections-as-federal-election-dispute-deepens/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-13T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Puntland President Warns Against  Predetermined Election as Federal Election Dispute Deepens"
+        },
+        {
+          "title": "Emiratis Hang On in the Gulf of Aden",
+          "link": "https://maritime-executive.com/article/emiratis-hang-on-in-the-gulf-of-aden",
+          "source": "maritime-executive.com",
+          "pubDate": "2026-07-13T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Emiratis Hang On in the Gulf of Aden"
         }
       ]
     },
@@ -116,175 +251,67 @@
           "titleIt": "Ghana: Middle East Crisis Tests Ghana's Forex Resilience As Oil Import Bills Soar"
         },
         {
-          "title": "Xinhua Commentary :  China Squeeze  or squeeze China ?",
-          "link": "http://news.cnwest.com/szyw/a/2026/07/20/23397338.html",
-          "source": "news.cnwest.com",
-          "pubDate": "2026-07-20T11:00:00Z",
+          "title": "Ethiopians march against alleged forced mobilisation in Tigray",
+          "link": "http://www.africanews.com/2026/07/18/ethiopians-march-against-alleged-forced-mobilisation-in-tigray/",
+          "description": "Thousands rally in Ethiopia's capital Addis Ababa to protest the alleged forced recruitment of civilians in the Tigray region by Tigray People's Liberation Front (TPLF) forces, the breakaway region's main political party, amid months of escalating tensions with Ethiopia's federal government",
+          "pubDate": "Sat, 18 Jul 2026 14:31:39 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Xinhua Commentary :  China Squeeze  or squeeze China ?"
+          "titleIt": "Ethiopians march against alleged forced mobilisation in Tigray"
         },
         {
-          "title": "Beyond the Northern Security Trust Fund Board  - Blueprint Newspapers Limited",
-          "link": "https://blueprint.ng/beyond-the-northern-security-trust-fund-board/",
-          "source": "blueprint.ng",
-          "pubDate": "2026-07-20T08:45:00Z",
+          "title": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio",
+          "link": "https://www.ansa.it/english/news/2026/07/17/gdp-up-0.4-q2-inflation-returns-to-2.5-in-july-says-confcommercio_988b6077-7200-4492-b2d9-1de711f383ce.html",
+          "description": "(ANSA) - ROME, JUL 17 - Italy's GDP was up 0.4% in the second quarter of this tear while inflation fell back to 2.5% in July, retail group Confcommercio said Friday. The geopolitical scenario, after a brief period of respite, has seen renewed tensions in the Middle East, making forecasts for the Italian economy \"slightly more uncertain and complex,\" \"still experiencing undeniable signs of liveliness overall,\" Confcommercio stated in its latest report, estimating a second quarter of further growth of 0.4%, with a 1.2% increase compared to the same period in 2025. The growth achieved to date all",
+          "pubDate": "Fri, 17 Jul 2026 13:12:44 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Beyond the Northern Security Trust Fund Board  - Blueprint Newspapers Limited"
+          "titleIt": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio"
         },
         {
-          "title": "Ethiopia : Corridor Devt Transforms Addis Into Major Tourism Destination , Helps Host Over 221 International Conferences",
-          "link": "https://allafrica.com/stories/202607200050.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-20T08:30:00Z",
+          "title": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio",
+          "link": "https://www.ansa.it/english/news/business/2026/07/17/gdp-up-0.4-q2-inflation-returns-to-2.5-in-july-says-confcommercio_ae6094ff-a558-4d8c-b814-18993f4d81b1.html",
+          "description": "(ANSA) - ROME, JUL 17 - Italy's GDP was up 0.4% in the second quarter of this tear while inflation fell back to 2.5% in July, retail group Confcommercio said Friday. The geopolitical scenario, after a brief period of respite, has seen renewed tensions in the Middle East, making forecasts for the Italian economy \"slightly more uncertain and complex,\" \"still experiencing undeniable signs of liveliness overall,\" Confcommercio stated in its latest report, estimating a second quarter of further growth of 0.4%, with a 1.2% increase compared to the same period in 2025. The growth achieved to date all",
+          "pubDate": "Fri, 17 Jul 2026 13:12:03 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Corridor Devt Transforms Addis Into Major Tourism Destination , Helps Host Over 221 International Conferences"
+          "titleIt": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio"
         },
         {
-          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
-          "link": "https://allafrica.com/stories/202607200017.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-20T08:30:00Z",
+          "title": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini",
+          "link": "https://www.ansa.it/english/news/2026/07/16/sanctions-on-moscow-wont-stop-war-hope-there-arent-another-20-packages_e5a6e493-3d4c-499a-88ee-72e092674a79.html",
+          "description": "(ANSA) - ROME, JUL 16 - Right-wing League party leader, Deputy Premier and Transport Minister Matteo Salvini said Thursday that European Union sanctions on Moscow would not stop the UKraine war and he hoped there would not be another 20 packages of them. \"It doesn't seem to me that the sanctions have brought an end to the conflict... and I hope there aren't another 20 sanctions packages before we reach the end of this war. At the negotiating table, because this conflict won't end with a clear winner,\" Salvini said this during a video conference at a meeting of Gim Unimpresa, the association of",
+          "pubDate": "Thu, 16 Jul 2026 18:43:38 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
+          "titleIt": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini"
         },
         {
-          "title": "Ethiopia : EU Foreign Policy Chief Confident Ethiopia National Dialogue Will Deliver Concrete Results",
-          "link": "https://allafrica.com/stories/202607200059.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-20T08:30:00Z",
+          "title": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini",
+          "link": "https://www.ansa.it/english/news/world/2026/07/16/sanctions-on-moscow-wont-stop-war-hope-there-arent-another-20-packages_212069b4-1df5-4ada-9efb-fbf8e326e90a.html",
+          "description": "(ANSA) - ROME, JUL 16 - Right-wing League party leader, Deputy Premier and Transport Minister Matteo Salvini said Thursday that European Union sanctions on Moscow would not stop the UKraine war and he hoped there would not be another 20 packages of them. \"It doesn't seem to me that the sanctions have brought an end to the conflict... and I hope there aren't another 20 sanctions packages before we reach the end of this war. At the negotiating table, because this conflict won't end with a clear winner,\" Salvini said this during a video conference at a meeting of Gim Unimpresa, the association of",
+          "pubDate": "Thu, 16 Jul 2026 18:22:16 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : EU Foreign Policy Chief Confident Ethiopia National Dialogue Will Deliver Concrete Results"
+          "titleIt": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini"
         },
         {
-          "title": "Can the US and Israel sustain a war of attrition with Iran ?",
-          "link": "https://www.jpost.com/middle-east/iran-news/article-903000",
-          "source": "jpost.com",
-          "pubDate": "2026-07-19T19:15:00Z",
+          "title": "Villa warned over sportswashing after Visit Rwanda deal",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
+          "description": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record.",
+          "pubDate": "Tue, 14 Jul 2026 18:44:04 GMT",
+          "source": "BBC Africa",
           "lang": "en",
-          "description": "",
-          "titleIt": "Can the US and Israel sustain a war of attrition with Iran ?"
+          "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
         },
         {
-          "title": "Somalia races to save Radio Mogadishu fading archive",
-          "link": "https://horseedmedia.net/somalia-races-to-save-radio-mogadishus-fading-archive/423871/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-07-19T18:30:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Somalia races to save Radio Mogadishu fading archive"
-        },
-        {
-          "title": "Eritrea Vanishing Youth : A Demographic Crisis and a Nation on the Brink ( Part 1 ) – Awate . com",
-          "link": "https://awate.com/eritreas-vanishing-youth-a-demographic-crisis-and-a-nation-on-the-brink-part-1/",
-          "source": "awate.com",
-          "pubDate": "2026-07-19T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea Vanishing Youth : A Demographic Crisis and a Nation on the Brink ( Part 1 ) – Awate . com"
-        },
-        {
-          "title": "RUTO : WE MUST RUTHLESSLY DISMANTLE TERROR NETWORKS IN THE HORN OF AFRICA",
-          "link": "http://www.president.go.ke/ruto-we-must-ruthlessly-dismantle-terror-networks-in-the-horn-of-africa/",
-          "source": "president.go.ke",
-          "pubDate": "2026-07-19T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "RUTO : WE MUST RUTHLESSLY DISMANTLE TERROR NETWORKS IN THE HORN OF AFRICA"
-        },
-        {
-          "title": "Private property cannot be taken without just compensation",
-          "link": "https://capitalethiopia.com/2026/07/19/private-property-cannot-be-taken-without-just-compensation/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-07-19T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Private property cannot be taken without just compensation"
-        },
-        {
-          "title": "Egypt , Tanzania expand partnership with focus on food security",
-          "link": "https://www.middle-east-online.com/en/egypt-tanzania-expand-partnership-focus-food-security",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-19T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt , Tanzania expand partnership with focus on food security"
-        },
-        {
-          "title": "Egypt eyes land reclamation projects in Tanzania",
-          "link": "https://www.middleeastmonitor.com/20260719-egypt-eyes-land-reclamation-projects-in-tanzania/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-07-19T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt eyes land reclamation projects in Tanzania"
-        },
-        {
-          "title": "How global scammers use US tech to fleece people",
-          "link": "https://www.pasadenastarnews.com/2026/06/30/global-scammers-us-tech/",
-          "source": "pasadenastarnews.com",
-          "pubDate": "2026-07-19T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How global scammers use US tech to fleece people"
-        },
-        {
-          "title": "How global scammers use US tech to fleece people",
-          "link": "https://www.ocregister.com/2026/06/30/global-scammers-us-tech/",
-          "source": "ocregister.com",
-          "pubDate": "2026-07-19T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How global scammers use US tech to fleece people"
-        },
-        {
-          "title": "Female Genital Mutilation in India : Hidden Practice , Health Risks and Supreme Court Battle for Women Rights",
-          "link": "https://openthemagazine.com/india/female-genital-mutilation-the-unkindest-cut",
-          "source": "openthemagazine.com",
-          "pubDate": "2026-07-19T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Female Genital Mutilation in India : Hidden Practice , Health Risks and Supreme Court Battle for Women Rights"
-        },
-        {
-          "title": "Somalia races to save Radio Mogadishu fading archive | Media News",
-          "link": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive",
-          "source": "aljazeera.com",
-          "pubDate": "2026-07-19T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia races to save Radio Mogadishu fading archive | Media News"
-        },
-        {
-          "title": "China AI solutions power development , improve safety across Global South",
-          "link": "http://www.china.org.cn/2026-07/18/content_118606660.shtml",
-          "source": "china.org.cn",
-          "pubDate": "2026-07-19T03:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China AI solutions power development , improve safety across Global South"
-        },
-        {
-          "title": "Thousands of Ethiopians rally against Tigray recruitment drive",
-          "link": "https://www.arabnews.com/node/2651452/world",
-          "source": "arabnews.com",
-          "pubDate": "2026-07-18T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Thousands of Ethiopians rally against Tigray recruitment drive"
-        },
-        {
-          "title": "Economic Watch : China AI solutions power development , improve safety across Global South",
-          "link": "http://www.cambodiantimes.com/news/279195632/economic-watch-china-ai-solutions-power-development-improve-safety-across-global-south",
-          "source": "cambodiantimes.com",
-          "pubDate": "2026-07-18T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Economic Watch : China AI solutions power development , improve safety across Global South"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -292,184 +319,13 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "AIPAC has spent a record amount on Michigan Senate primary , the biggest test of its influence yet",
-          "link": "https://mymotherlode.com/news/national/general-election/11003401/aipac-has-spent-a-record-amount-on-michigans-senate-primary-the-biggest-test-of-its-influence-yet.html",
-          "source": "mymotherlode.com",
-          "pubDate": "2026-07-20T17:15:00Z",
+          "title": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/19/an-expert-from-the-guardia-di-finanza-at-the-italian-embassy-in-riyadh_63c6c89e-7291-4ccf-b91e-63b3321a493a.html",
+          "description": "(ANSA) - IL CAIRO, 19 LUG - The Italian Embassy in Riyadh has strengthened its structure with the establishment of a Guardia di Finanza Office, headed by Colonel Alessandro Coscarelli in his capacity as an expert from the Corps. The opening of the new office represents an important step in consolidating the partnership between Italy and Saudi Arabia, with the goal of strengthening cooperation in the field of economic and financial security. It joins the other 29 Financial Police Expert offices currently part of the Corps’ overseas network at bilateral and multilateral diplomatic missions. The ",
+          "pubDate": "Sun, 19 Jul 2026 15:52:33 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "AIPAC has spent a record amount on Michigan Senate primary , the biggest test of its influence yet"
-        },
-        {
-          "title": "Ted Grant : the unbroken thread of Marxism",
-          "link": "https://marxist.com/ted-grant-the-unbroken-thread-of-marxism.htm",
-          "source": "marxist.com",
-          "pubDate": "2026-07-20T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ted Grant : the unbroken thread of Marxism"
-        },
-        {
-          "title": "A tax on sugary drinks in Egypt could reduce disease and save US$1 . 8 billion in healthcare costs : modelling study",
-          "link": "https://theconversation.com/a-tax-on-sugary-drinks-in-egypt-could-reduce-disease-and-save-us-1-8-billion-in-healthcare-costs-modelling-study-286445",
-          "source": "theconversation.com",
-          "pubDate": "2026-07-20T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A tax on sugary drinks in Egypt could reduce disease and save US$1 . 8 billion in healthcare costs : modelling study"
-        },
-        {
-          "title": "Seven Ancient Wonders of the World : Lighthouse of Alexandria",
-          "link": "https://www.theepochtimes.com/bright/seven-ancient-wonders-of-the-world-lighthouse-of-alexandria-6063599",
-          "source": "theepochtimes.com",
-          "pubDate": "2026-07-20T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Seven Ancient Wonders of the World : Lighthouse of Alexandria"
-        },
-        {
-          "title": "Captured  Ansaru leader make U - turn , plead guilty to 32 terrorism charges",
-          "link": "https://www.premiumtimesng.com/news/headlines/896747-breaking-captured-ansaru-leaders-make-u-turn-plead-guilty-to-32-terrorism-charges.html",
-          "source": "premiumtimesng.com",
-          "pubDate": "2026-07-20T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Captured  Ansaru leader make U - turn , plead guilty to 32 terrorism charges"
-        },
-        {
-          "title": "Who Moving : Macmillan , Cyrenians , Greenpeace and more",
-          "link": "https://www.civilsociety.co.uk/news/who-s-moving-macmillan-cyrenians-greenpeace-and-more.html",
-          "source": "civilsociety.co.uk",
-          "pubDate": "2026-07-20T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who Moving : Macmillan , Cyrenians , Greenpeace and more"
-        },
-        {
-          "title": "AIPAC has spent a record amount on Michigan Senate primary , the biggest test of its influence yet",
-          "link": "https://www.wndu.com/2026/07/20/aipac-has-spent-record-amount-michigans-senate-primary-biggest-test-its-influence-yet/",
-          "source": "wndu.com",
-          "pubDate": "2026-07-20T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AIPAC has spent a record amount on Michigan Senate primary , the biggest test of its influence yet"
-        },
-        {
-          "title": "Expert : UAE acts as hub for Belarus to enter markets of third countries",
-          "link": "https://www.sb.by/en/expert-uae-acts-as-hub-for-belarus-to-enter-markets-of-third-countries-.html",
-          "source": "sb.by",
-          "pubDate": "2026-07-20T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Expert : UAE acts as hub for Belarus to enter markets of third countries"
-        },
-        {
-          "title": "Merchant Mariners : Unseen in Peacetime and Forgotten in Conflict",
-          "link": "https://www.justsecurity.org/146064/merchant-mariners-forgotten-in-conflict/",
-          "source": "justsecurity.org",
-          "pubDate": "2026-07-20T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Merchant Mariners : Unseen in Peacetime and Forgotten in Conflict"
-        },
-        {
-          "title": "As Spain lifts World Cup trophy , tournament success leaves lasting memories in North Texas",
-          "link": "https://www.keranews.org/news/2026-07-20/as-spain-lifts-world-cup-trophy-tournaments-success-leaves-lasting-memories-in-north-texas",
-          "source": "keranews.org",
-          "pubDate": "2026-07-20T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "As Spain lifts World Cup trophy , tournament success leaves lasting memories in North Texas"
-        },
-        {
-          "title": "Sudan : bringing to justice those who make the war possible",
-          "link": "https://www.justiceinfo.net/en/162112-sudan-bringing-to-justice-those-who-make-the-war-possible.html",
-          "source": "justiceinfo.net",
-          "pubDate": "2026-07-20T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : bringing to justice those who make the war possible"
-        },
-        {
-          "title": "The capitulation of Brussels : Why Europe anti - Israel boycotts expose a dying civili",
-          "link": "https://www.ynetnews.com/opinions-analysis/article/by2edsseml",
-          "source": "ynetnews.com",
-          "pubDate": "2026-07-20T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The capitulation of Brussels : Why Europe anti - Israel boycotts expose a dying civili"
-        },
-        {
-          "title": "Turkiye and Libya Haftar are boosting military ties . Is Egypt worried ? | Military News",
-          "link": "https://www.aljazeera.com/news/2026/7/20/turkiye-and-libyas-haftar-are-boosting-military-ties-is-egypt-worried",
-          "source": "aljazeera.com",
-          "pubDate": "2026-07-20T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkiye and Libya Haftar are boosting military ties . Is Egypt worried ? | Military News"
-        },
-        {
-          "title": "The biggest dramas and wildest storylines of the World Cup 2026",
-          "link": "https://www.gqindia.com/content/fifa-2026-controversies",
-          "source": "gqindia.com",
-          "pubDate": "2026-07-20T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The biggest dramas and wildest storylines of the World Cup 2026"
-        },
-        {
-          "title": "Not on Our Watch : Defending Democracy from the Playbook That Broke Lisbon , Madrid , Berlin , and Rome Nearly 100 Years Ago and Aims to Break Washington , DC Today",
-          "link": "https://www.dailykos.com/stories/2026/7/19/800069572/community/why-was-alkebulan-renamed-africa-the-forgotten-history-everyone-should-be-talking-about/",
-          "source": "dailykos.com",
-          "pubDate": "2026-07-20T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Not on Our Watch : Defending Democracy from the Playbook That Broke Lisbon , Madrid , Berlin , and Rome Nearly 100 Years Ago and Aims to Break Washington , DC Today"
-        },
-        {
-          "title": "Iran : Cashing Chips Won in War | United with Israel",
-          "link": "https://unitedwithisrael.org/iran-cashing-chips-won-in-war/",
-          "source": "unitedwithisrael.org",
-          "pubDate": "2026-07-20T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran : Cashing Chips Won in War | United with Israel"
-        },
-        {
-          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
-          "link": "https://allafrica.com/stories/202607200017.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-20T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
-        },
-        {
-          "title": "Tanzania : Samia , El - Sisi Broaden Ties",
-          "link": "https://allafrica.com/stories/202607200043.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-20T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tanzania : Samia , El - Sisi Broaden Ties"
-        },
-        {
-          "title": "Egypt Pledges to Fast - Track Joint Strategic Projects",
-          "link": "https://allafrica.com/stories/202607200044.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-20T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Pledges to Fast - Track Joint Strategic Projects"
-        },
-        {
-          "title": "Ghana and India Forge Groundbreaking Solar Energy Partnership : Solex Energy Vision for Local Manufacturing and Clean Energy Transition – Ghanamma . com",
-          "link": "https://www.ghanamma.com/2026/07/20/ghana-and-india-forge-groundbreaking-solar-energy-partnership-solex-energys-vision-for-local-manufacturing-and-clean-energy-transition/",
-          "source": "ghanamma.com",
-          "pubDate": "2026-07-20T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ghana and India Forge Groundbreaking Solar Energy Partnership : Solex Energy Vision for Local Manufacturing and Clean Energy Transition – Ghanamma . com"
+          "titleIt": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh"
         }
       ]
     },
@@ -486,6 +342,24 @@
           "titleIt": "Sudan: Sudan Rejects U.S. Sanctions, Reaffirms Commitment to International Agreements"
         },
         {
+          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
+          "link": "https://allafrica.com/stories/202607200017.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-20T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
+        },
+        {
+          "title": "Rural Ethiopia still left in the dark as reliable electricity lags",
+          "link": "https://capitalethiopia.com/2026/07/19/rural-ethiopia-still-left-in-the-dark-as-reliable-electricity-lags/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-07-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rural Ethiopia still left in the dark as reliable electricity lags"
+        },
+        {
           "title": "Ethiopians march against alleged forced mobilisation in Tigray",
           "link": "http://www.africanews.com/2026/07/18/ethiopians-march-against-alleged-forced-mobilisation-in-tigray/",
           "description": "Thousands rally in Ethiopia's capital Addis Ababa to protest the alleged forced recruitment of civilians in the Tigray region by Tigray People's Liberation Front (TPLF) forces, the breakaway region's main political party, amid months of escalating tensions with Ethiopia's federal government",
@@ -493,6 +367,150 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopians march against alleged forced mobilisation in Tigray"
+        },
+        {
+          "title": "From abundance to retreat : what happened to Nile water levels in Sudan ?",
+          "link": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
+          "source": "dabangasudan.org",
+          "pubDate": "2026-07-16T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From abundance to retreat : what happened to Nile water levels in Sudan ?"
+        },
+        {
+          "title": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD",
+          "link": "https://allafrica.com/stories/202607150066.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-15T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD"
+        },
+        {
+          "title": "Ethiopia debt problem",
+          "link": "https://africasacountry.com/2026/07/ethiopias-debt-problem",
+          "source": "africasacountry.com",
+          "pubDate": "2026-07-14T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia debt problem"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "https://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "http://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-14T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
+        },
+        {
+          "title": "Egypt built the Aswan High Dam to tame the Nile floods , but scientists now say the project starved the delta of fertile sediments and accelerated coastal erosion",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/egypt-built-the-aswan-high-dam-to-tame-the-niles-floods-but-scientists-now-say-the-project-starved-the-delta-of-fertile-sediments-and-accelerated-coastal-erosion/articleshow/132363327.cms",
+          "source": "timesofindia.indiatimes.com",
+          "pubDate": "2026-07-14T04:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt built the Aswan High Dam to tame the Nile floods , but scientists now say the project starved the delta of fertile sediments and accelerated coastal erosion"
+        },
+        {
+          "title": "Egypt issues warning to Ethiopia over  unacceptable  GERD steps",
+          "link": "https://www.egyptindependent.com/egypt-issues-warning-to-ethiopia-over-unacceptable-gerd-steps/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-07-13T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt issues warning to Ethiopia over  unacceptable  GERD steps"
+        },
+        {
+          "title": "Ethiopia , Kenya ink electricity supply deal",
+          "link": "https://capitalfm.africa/ethiopia-kenya-ink-electricity-supply-deal/",
+          "source": "capitalfm.africa",
+          "pubDate": "2026-07-12T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia , Kenya ink electricity supply deal"
+        },
+        {
+          "title": "Ethiopia , Kenya ink electricity supply deal amid expanding regional energy connectivity - Xinhua",
+          "link": "https://english.news.cn/20260711/d33f5fbca80e4daf9a3b4f313a9ea59e/c.html",
+          "source": "english.news.cn",
+          "pubDate": "2026-07-11T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia , Kenya ink electricity supply deal amid expanding regional energy connectivity - Xinhua"
+        },
+        {
+          "title": "Ethiopia Pan - African Blueprint : Sovereignty , Solidarity , And Sustainability",
+          "link": "https://www.thereporterethiopia.com/51760/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-11T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Pan - African Blueprint : Sovereignty , Solidarity , And Sustainability"
+        },
+        {
+          "title": "You cant pause the IWT",
+          "link": "https://www.geo.tv/latest/672562-you-cant-pause-the-iwt",
+          "source": "geo.tv",
+          "pubDate": "2026-07-11T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "You cant pause the IWT"
+        },
+        {
+          "title": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?",
+          "link": "https://allafrica.com/stories/202607060020.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-06T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Will Abiy Ahmed Be Ethiopia Bismarck or Its Mandela ?"
+        },
+        {
+          "title": "Ethiopia New Blue Nile Dams Rattle Egypt",
+          "link": "https://www.riotimesonline.com/ethiopia-blue-nile-dams-egypt-water-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-06-27T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia New Blue Nile Dams Rattle Egypt"
+        },
+        {
+          "title": "Ethiopia Leap Into the Future",
+          "link": "https://allafrica.com/stories/202606250254.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-06-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Leap Into the Future"
+        },
+        {
+          "title": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide",
+          "link": "https://www.zawya.com/en/economy/africa/abiy-turns-to-nile-and-red-sea-ambitions-after-ethiopia-election-landslide-lc65kwng",
+          "source": "zawya.com",
+          "pubDate": "2026-06-25T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abiy turns to Nile and Red Sea ambitions after Ethiopia election landslide"
         }
       ]
     }
