@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-21T14:27:23.013Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-07-21T17:48:44.816Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: One Dead As Puntland Security Forces Clash in Bosaso",
+          "link": "https://allafrica.com/stories/202607210648.html",
+          "description": "[Radio Dalsan] At least one Puntland Security Force soldier was killed on Sunday after gunfire erupted between PSF troops and Puntland's Dervish forces in the Madar-Jiif area, between the town of Laag and the port city of Bosaso, according to security sources.",
+          "pubDate": "Tue, 21 Jul 2026 13:58:36 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: One Dead As Puntland Security Forces Clash in Bosaso"
+        },
         {
           "title": "Ambassador to Senegal Opens Goreé School for Sustainable Migration",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/21/ambassador-to-senegal-opens-goree-school-for-sustainable-migration_b5abe349-a065-4483-be5b-c270792c7dec.html",
@@ -41,6 +50,24 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Egypt receive a warm welcome home"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -48,13 +75,49 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Somalia: From Facebook Appeals to a Lifesaving Network - One Man's Mission to Transform Blood Donation in Somaliland",
+          "title": "Christian convert poisoned to death in Somaliland",
+          "link": "https://www.christianpost.com/news/christian-convert-poisoned-to-death-in-somaliland.html",
+          "source": "christianpost.com",
+          "pubDate": "2026-07-21T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Christian convert poisoned to death in Somaliland"
+        },
+        {
+          "title": "Somalia : From Facebook Appeals to a Lifesaving Network - One Man Mission to Transform Blood Donation in Somaliland",
           "link": "https://allafrica.com/stories/202607210639.html",
-          "description": "[Horn Diplomat] Hargeisa, Somaliland -- For twelve years, medical laboratory professional Abdilaahi Abdi Muse has helped connect patients with blood donors through volunteer networks. Today, his grassroots humanitarian effort has evolved into Badbaado Blood, a digital platform designed to speed up life-saving blood donations across Somaliland",
-          "pubDate": "Tue, 21 Jul 2026 13:51:11 GMT",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-21T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : From Facebook Appeals to a Lifesaving Network - One Man Mission to Transform Blood Donation in Somaliland"
+        },
+        {
+          "title": "Somalia: One Dead As Puntland Security Forces Clash in Bosaso",
+          "link": "https://allafrica.com/stories/202607210648.html",
+          "description": "[Radio Dalsan] At least one Puntland Security Force soldier was killed on Sunday after gunfire erupted between PSF troops and Puntland's Dervish forces in the Madar-Jiif area, between the town of Laag and the port city of Bosaso, according to security sources.",
+          "pubDate": "Tue, 21 Jul 2026 13:58:36 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: From Facebook Appeals to a Lifesaving Network - One Man's Mission to Transform Blood Donation in Somaliland"
+          "titleIt": "Somalia: One Dead As Puntland Security Forces Clash in Bosaso"
+        },
+        {
+          "title": "Turkey still keeps Somalia out of its e - Visa system despite over $1 billion in aid , oil deals and access to the Horn of Africa",
+          "link": "https://horseedmedia.net/turkey-still-keeps-somalia-out-of-its-e-visa-system-despite-over-1-billion-in-aid-oil-deals-and-access-to-the-horn-of-africa/423951/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-07-20T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkey still keeps Somalia out of its e - Visa system despite over $1 billion in aid , oil deals and access to the Horn of Africa"
+        },
+        {
+          "title": "Former North Eastern State MP Fahiima Quuje Receives Warm Welcome in Hargeisa",
+          "link": "https://wardheernews.com/former-north-eastern-state-mp-fahiima-quuje-receives-warm-welcome-in-hargeisa/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-20T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Former North Eastern State MP Fahiima Quuje Receives Warm Welcome in Hargeisa"
         },
         {
           "title": "FIGC reportedly approached Guardiola for Italy job",
@@ -73,12 +136,219 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "FIGC reportedly approached Guardiola for Italy job"
+        },
+        {
+          "title": "Can the US and Israel sustain a war of attrition with Iran ?",
+          "link": "https://www.jpost.com/middle-east/iran-news/article-903000",
+          "source": "jpost.com",
+          "pubDate": "2026-07-19T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Can the US and Israel sustain a war of attrition with Iran ?"
+        },
+        {
+          "title": "Egypt condemns Somaliland purported Jerusalem mission during talks with Somalia",
+          "link": "https://horseedmedia.net/egypt-condemns-somalilands-purported-jerusalem-mission-during-talks-with-somalia/423886/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-07-19T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt condemns Somaliland purported Jerusalem mission during talks with Somalia"
+        },
+        {
+          "title": "Egypt Urges Somalia to Secure Release of Kidnapped Sailors",
+          "link": "https://www.garoweonline.com/en/news/somalia/egypt-urges-somalia-to-secure-release-of-kidnapped-sailors",
+          "source": "garoweonline.com",
+          "pubDate": "2026-07-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Urges Somalia to Secure Release of Kidnapped Sailors"
+        },
+        {
+          "title": "Egypt and Turkey : Rapidly growing alliance putting old rivalry aside and alarming Israel",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/18/egypt-and-turkey-rapidly-growing-alliance-putting-old-rivalry-aside-and-alarming-israel/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-18T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt and Turkey : Rapidly growing alliance putting old rivalry aside and alarming Israel"
+        },
+        {
+          "title": "Armed Assailants Seize Chemical Tanker Off Yemen",
+          "link": "https://www.marinelink.com/news/armed-assailants-seize-chemical-tanker-541327",
+          "source": "marinelink.com",
+          "pubDate": "2026-07-17T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Armed Assailants Seize Chemical Tanker Off Yemen"
+        },
+        {
+          "title": "Could Somalia See The World Next Major Oil Discovery ?",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Could-Somalia-See-The-Worlds-Next-Major-Oil-Discovery.html",
+          "source": "oilprice.com",
+          "pubDate": "2026-07-16T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Could Somalia See The World Next Major Oil Discovery ?"
+        },
+        {
+          "title": "Middle East new security paradigm",
+          "link": "https://tribune.com.pk/story/2618449/middle-easts-new-security-paradigm",
+          "source": "tribune.com.pk",
+          "pubDate": "2026-07-15T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Middle East new security paradigm"
+        },
+        {
+          "title": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information",
+          "link": "https://shabait.com/2026/07/15/ethiopias-prosperity-party-delusional-precepts-as-tools-of-regional-destabilization/",
+          "source": "shabait.com",
+          "pubDate": "2026-07-15T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information"
+        },
+        {
+          "title": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation",
+          "link": "https://allafrica.com/stories/202607150058.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-15T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation"
+        },
+        {
+          "title": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements",
+          "link": "https://wardheernews.com/the-geopolitical-theatre-of-the-horn-of-africa-sovereignty-rentier-statecraft-and-the-spectacle-of-security-agreements/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-15T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "https://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "http://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-14T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Comuni: Anci, firmata la preintesa rinnovo contratto, primo passo per perequazione stipendi (2)",
+          "link": "https://www.agenzianova.com/a/6a5fb0f8ca6c09.84505566/7629053/2026-07-21/comuni-anci-firmata-la-preintesa-rinnovo-contratto-primo-passo-per-perequazione-stipendi-2",
+          "description": "21 lug 19:42 - (Agenzia Nova) - \"Va ricordato tuttavia che questo rinnovo - aggiunge Messina - comporta comunque un costo di 740 milioni di... (Com)",
+          "pubDate": "2026-07-21T19:42:54+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Comuni: Anci, firmata la preintesa rinnovo contratto, primo passo per perequazione stipendi (2)"
+        },
+        {
+          "title": "Marocco: accordo con societa' Usa per espandere industria aerospaziale a Casablanca (3)",
+          "link": "https://www.agenzianova.com/a/6a5fb0f8cd2b92.67322856/7629035/2026-07-21/marocco-accordo-con-societa-usa-per-espandere-industria-aerospaziale-a-casablanca-3",
+          "description": "21 lug 19:22 - (Agenzia Nova) - Il direttore generale dell'Agenzia marocchina per lo sviluppo degli investimenti e delle esportazioni (Amdie),... (Tut)",
+          "pubDate": "2026-07-21T19:22:01+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Marocco: accordo con societa' Usa per espandere industria aerospaziale a Casablanca (3)"
+        },
+        {
+          "title": "Tigray old grapevines have survived against the odds : new research uncovers their genetic and historic value",
+          "link": "https://theconversation.com/tigrays-old-grapevines-have-survived-against-the-odds-new-research-uncovers-their-genetic-and-historic-value-286393",
+          "source": "theconversation.com",
+          "pubDate": "2026-07-21T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tigray old grapevines have survived against the odds : new research uncovers their genetic and historic value"
+        },
+        {
+          "title": "Christian convert poisoned to death in Somaliland",
+          "link": "https://www.christianpost.com/news/christian-convert-poisoned-to-death-in-somaliland.html",
+          "source": "christianpost.com",
+          "pubDate": "2026-07-21T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Christian convert poisoned to death in Somaliland"
+        },
+        {
+          "title": "The Horn Of Africa States : Gulf Banking And Finance Under The Seemingly Endless War And Its Impact On The Region - OpEd",
+          "link": "https://www.eurasiareview.com/21072026-the-horn-of-africa-states-gulf-banking-and-finance-under-the-seemingly-endless-war-and-its-impact-on-the-region-oped/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-07-21T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Horn Of Africa States : Gulf Banking And Finance Under The Seemingly Endless War And Its Impact On The Region - OpEd"
+        },
+        {
+          "title": "South Africa : Trump Watch - Roelf Meyer Wants Trump Afrikaner Refugee Plan Stopped",
+          "link": "https://allafrica.com/stories/202607210645.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-21T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "South Africa : Trump Watch - Roelf Meyer Wants Trump Afrikaner Refugee Plan Stopped"
+        },
+        {
+          "title": "Turkish Medical Association investigates doctor advertising  female circumcision",
+          "link": "https://bianet.org/haber/turkish-medical-association-investigates-doctor-advertising-female-circumcision-321739",
+          "source": "bianet.org",
+          "pubDate": "2026-07-21T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkish Medical Association investigates doctor advertising  female circumcision"
+        },
+        {
+          "title": "Italy to use escape clause for energy investments says Meloni",
+          "link": "https://www.ansa.it/english/news/2026/07/21/italy-to-use-escape-clause-for-energy-investments-says-meloni_91917435-d51c-461d-a936-ec8dc06e9866.html",
+          "description": "(ANSA) - ROME, JUL 21 - Premier Giorgia Meloni said Tuesday that Italy will use the escape clause created by the European Commission after Italy called for the flexibility in the Stability and Growth Pact for defence spending to be extended to energy investments in the wake of the price spikes triggered by the Iran war. Her office said that the decision was made during a meeting with the leaders of the other parties supporting her ruling coalition. \"There was full agreement on the proposal to make use of the greater flexibility allowed by European rules and to concentrate greater spending capa",
+          "pubDate": "Tue, 21 Jul 2026 17:40:51 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Italy to use escape clause for energy investments says Meloni"
+        },
+        {
+          "title": "Primate Ayodele warns presidents of African countries",
+          "link": "https://theeagleonline.com.ng/primate-ayodele-warns-presidents-of-african-countries/",
+          "source": "theeagleonline.com.ng",
+          "pubDate": "2026-07-21T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Primate Ayodele warns presidents of African countries"
+        },
+        {
+          "title": "Somalia: One Dead As Puntland Security Forces Clash in Bosaso",
+          "link": "https://allafrica.com/stories/202607210648.html",
+          "description": "[Radio Dalsan] At least one Puntland Security Force soldier was killed on Sunday after gunfire erupted between PSF troops and Puntland's Dervish forces in the Madar-Jiif area, between the town of Laag and the port city of Bosaso, according to security sources.",
+          "pubDate": "Tue, 21 Jul 2026 13:58:36 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: One Dead As Puntland Security Forces Clash in Bosaso"
+        },
         {
           "title": "South Africa: Gauteng Taxis Could Shut Down Next Week",
           "link": "https://allafrica.com/stories/202607210646.html",
@@ -89,64 +359,235 @@
           "titleIt": "South Africa: Gauteng Taxis Could Shut Down Next Week"
         },
         {
-          "title": "Ethiopians march against alleged forced mobilisation in Tigray",
-          "link": "http://www.africanews.com/2026/07/18/ethiopians-march-against-alleged-forced-mobilisation-in-tigray/",
-          "description": "Thousands rally in Ethiopia's capital Addis Ababa to protest the alleged forced recruitment of civilians in the Tigray region by Tigray People's Liberation Front (TPLF) forces, the breakaway region's main political party, amid months of escalating tensions with Ethiopia's federal government",
-          "pubDate": "Sat, 18 Jul 2026 14:31:39 +0000",
-          "source": "Africanews",
+          "title": "America killed my son : The Ethiopians bombed by US in Yemen prison strike",
+          "link": "https://www.middleeasteye.net/news/america-killed-my-son-ethiopians-bombed-us-yemen",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-07-21T13:00:00Z",
           "lang": "en",
-          "titleIt": "Ethiopians march against alleged forced mobilisation in Tigray"
+          "description": "",
+          "titleIt": "America killed my son : The Ethiopians bombed by US in Yemen prison strike"
         },
         {
-          "title": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio",
-          "link": "https://www.ansa.it/english/news/2026/07/17/gdp-up-0.4-q2-inflation-returns-to-2.5-in-july-says-confcommercio_988b6077-7200-4492-b2d9-1de711f383ce.html",
-          "description": "(ANSA) - ROME, JUL 17 - Italy's GDP was up 0.4% in the second quarter of this tear while inflation fell back to 2.5% in July, retail group Confcommercio said Friday. The geopolitical scenario, after a brief period of respite, has seen renewed tensions in the Middle East, making forecasts for the Italian economy \"slightly more uncertain and complex,\" \"still experiencing undeniable signs of liveliness overall,\" Confcommercio stated in its latest report, estimating a second quarter of further growth of 0.4%, with a 1.2% increase compared to the same period in 2025. The growth achieved to date all",
-          "pubDate": "Fri, 17 Jul 2026 13:12:44 +0200",
-          "source": "ANSA English",
+          "title": "Ethiopia earns 128 mln USD from annual livestock exports despite Middle East instability",
+          "link": "http://www.bignewsnetwork.com/news/279201083/ethiopia-earns-128-mln-usd-from-annual-livestock-exports-despite-middle-east-instability",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-07-21T13:00:00Z",
           "lang": "en",
-          "titleIt": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio"
+          "description": "",
+          "titleIt": "Ethiopia earns 128 mln USD from annual livestock exports despite Middle East instability"
         },
         {
-          "title": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio",
-          "link": "https://www.ansa.it/english/news/business/2026/07/17/gdp-up-0.4-q2-inflation-returns-to-2.5-in-july-says-confcommercio_ae6094ff-a558-4d8c-b814-18993f4d81b1.html",
-          "description": "(ANSA) - ROME, JUL 17 - Italy's GDP was up 0.4% in the second quarter of this tear while inflation fell back to 2.5% in July, retail group Confcommercio said Friday. The geopolitical scenario, after a brief period of respite, has seen renewed tensions in the Middle East, making forecasts for the Italian economy \"slightly more uncertain and complex,\" \"still experiencing undeniable signs of liveliness overall,\" Confcommercio stated in its latest report, estimating a second quarter of further growth of 0.4%, with a 1.2% increase compared to the same period in 2025. The growth achieved to date all",
-          "pubDate": "Fri, 17 Jul 2026 13:12:03 +0200",
-          "source": "ANSA English",
+          "title": "Bantu Holomisa keynote address at the Defence Industry Lekgotla | UDM",
+          "link": "https://udm.org.za/post/bantu-holomisas-keynote-address-at-the-defence-industry-lekgotla",
+          "source": "udm.org.za",
+          "pubDate": "2026-07-21T12:45:00Z",
           "lang": "en",
-          "titleIt": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio"
+          "description": "",
+          "titleIt": "Bantu Holomisa keynote address at the Defence Industry Lekgotla | UDM"
         },
         {
-          "title": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini",
-          "link": "https://www.ansa.it/english/news/2026/07/16/sanctions-on-moscow-wont-stop-war-hope-there-arent-another-20-packages_e5a6e493-3d4c-499a-88ee-72e092674a79.html",
-          "description": "(ANSA) - ROME, JUL 16 - Right-wing League party leader, Deputy Premier and Transport Minister Matteo Salvini said Thursday that European Union sanctions on Moscow would not stop the UKraine war and he hoped there would not be another 20 packages of them. \"It doesn't seem to me that the sanctions have brought an end to the conflict... and I hope there aren't another 20 sanctions packages before we reach the end of this war. At the negotiating table, because this conflict won't end with a clear winner,\" Salvini said this during a video conference at a meeting of Gim Unimpresa, the association of",
-          "pubDate": "Thu, 16 Jul 2026 18:43:38 +0200",
-          "source": "ANSA English",
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
+          "source": "dominicanrepublicpost.com",
+          "pubDate": "2026-07-21T05:30:00Z",
           "lang": "en",
-          "titleIt": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini"
+          "description": "",
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
         },
         {
-          "title": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini",
-          "link": "https://www.ansa.it/english/news/world/2026/07/16/sanctions-on-moscow-wont-stop-war-hope-there-arent-another-20-packages_212069b4-1df5-4ada-9efb-fbf8e326e90a.html",
-          "description": "(ANSA) - ROME, JUL 16 - Right-wing League party leader, Deputy Premier and Transport Minister Matteo Salvini said Thursday that European Union sanctions on Moscow would not stop the UKraine war and he hoped there would not be another 20 packages of them. \"It doesn't seem to me that the sanctions have brought an end to the conflict... and I hope there aren't another 20 sanctions packages before we reach the end of this war. At the negotiating table, because this conflict won't end with a clear winner,\" Salvini said this during a video conference at a meeting of Gim Unimpresa, the association of",
-          "pubDate": "Thu, 16 Jul 2026 18:22:16 +0200",
-          "source": "ANSA English",
+          "title": "As Sudan war crosses borders and millions are made refugees , could Ethiopia plan solve  humanity migration issue ? | Global development",
+          "link": "https://www.theguardian.com/global-development/2026/jul/21/ethiopian-plan-sudanese-refugees-migration-crisis-education-work",
+          "source": "theguardian.com",
+          "pubDate": "2026-07-21T05:15:00Z",
           "lang": "en",
-          "titleIt": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini"
+          "description": "",
+          "titleIt": "As Sudan war crosses borders and millions are made refugees , could Ethiopia plan solve  humanity migration issue ? | Global development"
         },
         {
-          "title": "Villa warned over sportswashing after Visit Rwanda deal",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
-          "description": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record.",
-          "pubDate": "Tue, 14 Jul 2026 18:44:04 GMT",
-          "source": "BBC Africa",
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
+          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
+          "source": "aljazeera.com",
+          "pubDate": "2026-07-21T05:15:00Z",
           "lang": "en",
-          "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
+          "description": "",
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
+        },
+        {
+          "title": "As Sudan war crosses borders and millions are made refugees , could Ethiopia plan solve  humanity migration issue ?",
+          "link": "https://www.aol.co.uk/articles/sudan-war-crosses-borders-millions-040009000.html",
+          "source": "aol.co.uk",
+          "pubDate": "2026-07-21T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "As Sudan war crosses borders and millions are made refugees , could Ethiopia plan solve  humanity migration issue ?"
+        },
+        {
+          "title": "AFRICA TO CHAMPION CLIMATE ACTION FOR SUSTAINABLE GROWTH",
+          "link": "http://www.president.go.ke/africa-to-champion-climate-action-for-sustainable-growth/",
+          "source": "president.go.ke",
+          "pubDate": "2026-07-21T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AFRICA TO CHAMPION CLIMATE ACTION FOR SUSTAINABLE GROWTH"
+        },
+        {
+          "title": "Nigeria Steel Industry : Unlocking $4bn Opportunity with Rail",
+          "link": "https://punchng.com/nigeria-and-the-missed-opportunities-in-4bn-steel-industry-2/",
+          "source": "punchng.com",
+          "pubDate": "2026-07-21T03:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nigeria Steel Industry : Unlocking $4bn Opportunity with Rail"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "The World Cup is over . Here how to make it even better next time .",
+          "link": "https://reason.com/2026/07/21/the-2026-world-cup-is-over-heres-how-to-make-it-even-better-next-time/",
+          "source": "reason.com",
+          "pubDate": "2026-07-21T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The World Cup is over . Here how to make it even better next time ."
+        },
+        {
+          "title": "South Africa : Trump Watch - Roelf Meyer Wants Trump Afrikaner Refugee Plan Stopped",
+          "link": "https://allafrica.com/stories/202607210645.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-21T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "South Africa : Trump Watch - Roelf Meyer Wants Trump Afrikaner Refugee Plan Stopped"
+        },
+        {
+          "title": "AI could lift Sub - Saharan Africa economy 4 % if power , internet improve , IMF says",
+          "link": "https://www.cnbcafrica.com/2026/ai-could-lift-sub-saharan-africa-economy-4-if-power-internet-improve-imf-says",
+          "source": "cnbcafrica.com",
+          "pubDate": "2026-07-21T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AI could lift Sub - Saharan Africa economy 4 % if power , internet improve , IMF says"
+        },
+        {
+          "title": "NetNewsLedger - Top News for July 21 , 2026 : Wildfires , U . S . Tariffs and Middle East War Lead the Day",
+          "link": "https://www.netnewsledger.com/2026/07/21/top-news-for-july-21-2026-wildfires-u-s-tariffs-and-middle-east-war-lead-the-day/",
+          "source": "netnewsledger.com",
+          "pubDate": "2026-07-21T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "NetNewsLedger - Top News for July 21 , 2026 : Wildfires , U . S . Tariffs and Middle East War Lead the Day"
+        },
+        {
+          "title": "Latest Articles",
+          "link": "https://freerepublic.com/tag/*/index?more=4388770",
+          "source": "freerepublic.com",
+          "pubDate": "2026-07-21T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Latest Articles"
+        },
+        {
+          "title": "Why India Youth Movement Must Rethink Its Strategy",
+          "link": "https://countercurrents.org/2026/07/why-indias-youth-movement-must-rethink-its-strategy/",
+          "source": "countercurrents.org",
+          "pubDate": "2026-07-21T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why India Youth Movement Must Rethink Its Strategy"
+        },
+        {
+          "title": "Without power and internet , Africa risks missing AI revolution",
+          "link": "https://www.middle-east-online.com/en/without-power-and-internet-africa-risks-missing-ai-revolution",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-07-21T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Without power and internet , Africa risks missing AI revolution"
+        },
+        {
+          "title": "Africa Forum Opens Talks on Work and Displacement",
+          "link": "https://www.miragenews.com/africa-forum-opens-talks-on-work-and-1713736/",
+          "source": "miragenews.com",
+          "pubDate": "2026-07-21T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa Forum Opens Talks on Work and Displacement"
+        },
+        {
+          "title": "Bab el - Mandeb and the coming age of chokepoint warfare",
+          "link": "https://www.middleeastmonitor.com/20260721-bab-el-mandeb-and-the-coming-age-of-chokepoint-warfare/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-07-21T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bab el - Mandeb and the coming age of chokepoint warfare"
+        },
+        {
+          "title": "Indian refiners come to the rescue of Russia oil exporters",
+          "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indian-refiners-come-to-the-rescue-of-russias-oil-exporters/articleshow/132540105.cms",
+          "source": "economictimes.indiatimes.com",
+          "pubDate": "2026-07-21T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Indian refiners come to the rescue of Russia oil exporters"
+        },
+        {
+          "title": "Three oil tankers turn back in Red Sea after attack threat from Houthi rebels in Yemen",
+          "link": "https://www.moneycontrol.com/world/three-oil-tankers-turn-back-in-red-sea-after-attack-threat-from-houthi-rebels-in-yemen-article-13979849.html",
+          "source": "moneycontrol.com",
+          "pubDate": "2026-07-21T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Three oil tankers turn back in Red Sea after attack threat from Houthi rebels in Yemen"
+        },
+        {
+          "title": "Cheers and Jeers : Tuesday",
+          "link": "https://www.dailykos.com/stories/2026/7/21/800071857/community/cheers-and-jeers-monday/",
+          "source": "dailykos.com",
+          "pubDate": "2026-07-21T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cheers and Jeers : Tuesday"
+        },
+        {
+          "title": "Report : Hamas planned  second October 7  across Europe with weapons caches , sleeper c",
+          "link": "https://www.ynetnews.com/article/b1strxtnmg",
+          "source": "ynetnews.com",
+          "pubDate": "2026-07-21T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Report : Hamas planned  second October 7  across Europe with weapons caches , sleeper c"
+        },
+        {
+          "title": "Egyptian Court Convicts StreamEast Operators in Landmark Criminal Piracy Case",
+          "link": "https://www.manilatimes.net/2026/07/21/tmt-newswire/globenewswire/egyptian-court-convicts-streameast-operators-in-landmark-criminal-piracy-case/2388669",
+          "source": "manilatimes.net",
+          "pubDate": "2026-07-21T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egyptian Court Convicts StreamEast Operators in Landmark Criminal Piracy Case"
+        },
+        {
+          "title": "Progressive Charlestown : The Richest 10 % Cause up to $5 . 7 Trillion in Environmental Damage Each Year",
+          "link": "https://www.progressive-charlestown.com/2026/07/the-richest-10-cause-up-to-57-trillion.html",
+          "source": "progressive-charlestown.com",
+          "pubDate": "2026-07-21T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Progressive Charlestown : The Richest 10 % Cause up to $5 . 7 Trillion in Environmental Damage Each Year"
+        },
+        {
+          "title": "Romanian Naval Authority says Gas Lisbon fire under constant monitoring , no risk to coast",
+          "link": "https://www.stiripesurse.ro/romanian-naval-authority-says-gas-lisbon-fire-under-constant-monitoring-no-risk-to-coast_3905332",
+          "source": "stiripesurse.ro",
+          "pubDate": "2026-07-21T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Romanian Naval Authority says Gas Lisbon fire under constant monitoring , no risk to coast"
+        },
         {
           "title": "AI could lift Sub - Saharan Africa economy 4 % if power , internet improve , IMF says",
           "link": "https://www.engineeringnews.co.za/article/ai-could-lift-sub-saharan-africa-economy-4-if-power-internet-improve-imf-says-2026-07-21",
@@ -182,150 +623,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "A History of Modern Syria"
-        },
-        {
-          "title": "Houthi blockade threat opens new front in global energy crisis",
-          "link": "https://www.middle-east-online.com/en/houthi-blockade-threat-opens-new-front-global-energy-crisis",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-21T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Houthi blockade threat opens new front in global energy crisis"
-        },
-        {
-          "title": "Iran Proposes 10 - Day Ceasefire with U . S .",
-          "link": "https://athens-times.com/iran-proposed-10-day-ceasefire-with-u-s-amid-escalating-attacks-seeks-corridor-in-strait-of-hormuz/",
-          "source": "athens-times.com",
-          "pubDate": "2026-07-21T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Proposes 10 - Day Ceasefire with U . S ."
-        },
-        {
-          "title": "In Vino Veritas and the Algorithm of Time - By Tony Agbonasevbaefe",
-          "link": "https://www.opinionnigeria.com/in-vino-veritas-and-the-algorithm-of-time-by-tony-agbonasevbaefe/",
-          "source": "opinionnigeria.com",
-          "pubDate": "2026-07-21T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "In Vino Veritas and the Algorithm of Time - By Tony Agbonasevbaefe"
-        },
-        {
-          "title": "Money talks : As the Iran war continues , Hormuz tolls gain traction",
-          "link": "https://fortune.com/2026/07/21/money-talks-as-iran-war-continues-options-for-strait-of-hormuz-are-coalescing-around-one-solution-tolls/",
-          "source": "fortune.com",
-          "pubDate": "2026-07-21T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Money talks : As the Iran war continues , Hormuz tolls gain traction"
-        },
-        {
-          "title": "Houthi Red Sea blockade could trigger surge in crude oil prices",
-          "link": "https://bworldonline.com/world/2026/07/21/764955/houthi-red-sea-blockade-could-trigger-surge-in-crude-oil-prices/",
-          "source": "bworldonline.com",
-          "pubDate": "2026-07-21T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Houthi Red Sea blockade could trigger surge in crude oil prices"
-        },
-        {
-          "title": "Israeli media says Turkey was ready to intervene over Kurdish incursion into Iran",
-          "link": "https://www.middleeasteye.net/news/israeli-media-says-turkey-was-ready-intervene-over-kurdish-incursion-iran",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-07-21T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israeli media says Turkey was ready to intervene over Kurdish incursion into Iran"
-        },
-        {
-          "title": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes",
-          "link": "https://www.asiaone.com:443/world/us-and-iran-dig-over-strait-hormuz-showing-limits-intensifying-airstrikes",
-          "source": "asiaone.com",
-          "pubDate": "2026-07-21T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes"
-        },
-        {
-          "title": "Houthi blockade on Saudi Arabia ,",
-          "link": "https://www.bankingnews.gr/diethni/articles/889435/houthi-blockade-on-saudi-arabia-dragging-a-major-nuclear-power-into-war-new-front-in-the-middle-east%20title=",
-          "source": "bankingnews.gr",
-          "pubDate": "2026-07-21T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Houthi blockade on Saudi Arabia ,"
-        },
-        {
-          "title": "Head of International Data Center Authority to Asharq Al - Awsat : Saudi Arabia leads AI race",
-          "link": "https://www.arabnews.com/node/2651715/business-economy",
-          "source": "arabnews.com",
-          "pubDate": "2026-07-21T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Head of International Data Center Authority to Asharq Al - Awsat : Saudi Arabia leads AI race"
-        },
-        {
-          "title": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes",
-          "link": "https://www.wfmz.com/news/ap/us-and-iran-dig-in-over-the-strait-of-hormuz-showing-the-limits-of-intensifying/article_6b05b4a3-cc1c-5324-bae7-fc1c58c9570a.html",
-          "source": "wfmz.com",
-          "pubDate": "2026-07-21T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes"
-        },
-        {
-          "title": "Recce Pharmaceuticals advances dual Phase 3 programs and MENA licensing strategy in strong June quarter",
-          "link": "https://www.proactiveinvestors.com/companies/news/1095750/recce-pharmaceuticals-advances-dual-phase-3-programs-and-mena-licensing-strategy-in-strong-june-quarter-1095750.html",
-          "source": "proactiveinvestors.com",
-          "pubDate": "2026-07-21T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Recce Pharmaceuticals advances dual Phase 3 programs and MENA licensing strategy in strong June quarter"
-        },
-        {
-          "title": "CIB 2Q26 Earnings Release | Company Announcement",
-          "link": "https://www.investegate.co.uk/announcement/rns/commercial-international-bank-egypt-sae-gdr-reg-s---cbkd/cib-2q26-earnings-release/9678491",
-          "source": "investegate.co.uk",
-          "pubDate": "2026-07-21T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "CIB 2Q26 Earnings Release | Company Announcement"
-        },
-        {
-          "title": "El - Sisi pushes ahead with Egypt militarisation – Middle East Monitor",
-          "link": "https://www.middleeastmonitor.com/20260721-el-sisi-pushes-ahead-with-egypts-militarisation/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-07-21T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "El - Sisi pushes ahead with Egypt militarisation – Middle East Monitor"
-        },
-        {
-          "title": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes",
-          "link": "https://isp.netscape.com:443/news/world/story/0001/20260721/8c42c6ddc0c32d53ce452ace92a62b9a",
-          "source": "isp.netscape.com",
-          "pubDate": "2026-07-21T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes"
-        },
-        {
-          "title": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes - Las Vegas Sun News",
-          "link": "https://lasvegassun.com/news/2026/jul/20/us-and-iran-dig-in-over-the-strait-of-hormuz-showi/",
-          "source": "lasvegassun.com",
-          "pubDate": "2026-07-21T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes - Las Vegas Sun News"
-        },
-        {
-          "title": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes",
-          "link": "https://www.news4jax.com/news/world/2026/07/21/us-and-iran-dig-in-over-the-strait-of-hormuz-showing-the-limits-of-intensifying-airstrikes/",
-          "source": "news4jax.com",
-          "pubDate": "2026-07-21T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes"
         }
       ]
     },
