@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-21T10:36:30.668Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-07-21T14:27:23.013Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Ambassador to Senegal Opens Goreé School for Sustainable Migration",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/21/ambassador-to-senegal-opens-goree-school-for-sustainable-migration_b5abe349-a065-4483-be5b-c270792c7dec.html",
+          "description": "(ANSA) - IL CAIRO, 21 LUG - Italian Ambassador to Senegal Michele Tommasi attended the opening ceremony of the Gorée School 2026, organized as part of the project “Training, Dignity, Inclusion, and Innovation in Senegal,” funded by Italian Cooperation. Organized by the Institute for the Rights of Migrant Workers, in partnership with Inca Cgil Senegal, VIS, and numerous Italian and Senegalese institutional and social actors, the Gorée School serves as a unique forum for dialogue and exchange. It brings together institutions, labor unions, development cooperation actors, civil society organizati",
+          "pubDate": "Tue, 21 Jul 2026 14:18:36 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Ambassador to Senegal Opens Goreé School for Sustainable Migration"
+        },
         {
           "title": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/19/an-expert-from-the-guardia-di-finanza-at-the-italian-embassy-in-riyadh_63c6c89e-7291-4ccf-b91e-63b3321a493a.html",
@@ -32,30 +41,21 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Egypt receive a warm welcome home"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Somalia: From Facebook Appeals to a Lifesaving Network - One Man's Mission to Transform Blood Donation in Somaliland",
+          "link": "https://allafrica.com/stories/202607210639.html",
+          "description": "[Horn Diplomat] Hargeisa, Somaliland -- For twelve years, medical laboratory professional Abdilaahi Abdi Muse has helped connect patients with blood donors through volunteer networks. Today, his grassroots humanitarian effort has evolved into Badbaado Blood, a digital platform designed to speed up life-saving blood donations across Somaliland",
+          "pubDate": "Tue, 21 Jul 2026 13:51:11 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: From Facebook Appeals to a Lifesaving Network - One Man's Mission to Transform Blood Donation in Somaliland"
+        },
         {
           "title": "FIGC reportedly approached Guardiola for Italy job",
           "link": "https://www.ansa.it/english/news/sports/2026/07/20/figc-reportedly-approached-guardiola-for-italy-job_440e85d1-ec33-4bd4-b49c-2e8586eaaa2a.html",
@@ -73,15 +73,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "FIGC reportedly approached Guardiola for Italy job"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -89,184 +80,67 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-07-21T05:30:00Z",
+          "title": "South Africa: Gauteng Taxis Could Shut Down Next Week",
+          "link": "https://allafrica.com/stories/202607210646.html",
+          "description": "[Scrolla] SANTACO and the Gauteng National Taxi Alliance have given Premier Panyaza Lesufi seven days to resolve their dispute with transport MEC Kedibone Diale-Tlabela. The industry says the MEC bypassed its elected leadership by meeting directly with individual taxi associations, breaking long-standing protocol.",
+          "pubDate": "Tue, 21 Jul 2026 13:57:47 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
+          "titleIt": "South Africa: Gauteng Taxis Could Shut Down Next Week"
         },
         {
-          "title": "As Sudan war crosses borders and millions are made refugees , could Ethiopia plan solve  humanity migration issue ? | Global development",
-          "link": "https://www.theguardian.com/global-development/2026/jul/21/ethiopian-plan-sudanese-refugees-migration-crisis-education-work",
-          "source": "theguardian.com",
-          "pubDate": "2026-07-21T05:15:00Z",
+          "title": "Ethiopians march against alleged forced mobilisation in Tigray",
+          "link": "http://www.africanews.com/2026/07/18/ethiopians-march-against-alleged-forced-mobilisation-in-tigray/",
+          "description": "Thousands rally in Ethiopia's capital Addis Ababa to protest the alleged forced recruitment of civilians in the Tigray region by Tigray People's Liberation Front (TPLF) forces, the breakaway region's main political party, amid months of escalating tensions with Ethiopia's federal government",
+          "pubDate": "Sat, 18 Jul 2026 14:31:39 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "As Sudan war crosses borders and millions are made refugees , could Ethiopia plan solve  humanity migration issue ? | Global development"
+          "titleIt": "Ethiopians march against alleged forced mobilisation in Tigray"
         },
         {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
-          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
-          "source": "aljazeera.com",
-          "pubDate": "2026-07-21T05:15:00Z",
+          "title": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio",
+          "link": "https://www.ansa.it/english/news/2026/07/17/gdp-up-0.4-q2-inflation-returns-to-2.5-in-july-says-confcommercio_988b6077-7200-4492-b2d9-1de711f383ce.html",
+          "description": "(ANSA) - ROME, JUL 17 - Italy's GDP was up 0.4% in the second quarter of this tear while inflation fell back to 2.5% in July, retail group Confcommercio said Friday. The geopolitical scenario, after a brief period of respite, has seen renewed tensions in the Middle East, making forecasts for the Italian economy \"slightly more uncertain and complex,\" \"still experiencing undeniable signs of liveliness overall,\" Confcommercio stated in its latest report, estimating a second quarter of further growth of 0.4%, with a 1.2% increase compared to the same period in 2025. The growth achieved to date all",
+          "pubDate": "Fri, 17 Jul 2026 13:12:44 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
+          "titleIt": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio"
         },
         {
-          "title": "As Sudan war crosses borders and millions are made refugees , could Ethiopia plan solve  humanity migration issue ?",
-          "link": "https://www.aol.co.uk/articles/sudan-war-crosses-borders-millions-040009000.html",
-          "source": "aol.co.uk",
-          "pubDate": "2026-07-21T04:45:00Z",
+          "title": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio",
+          "link": "https://www.ansa.it/english/news/business/2026/07/17/gdp-up-0.4-q2-inflation-returns-to-2.5-in-july-says-confcommercio_ae6094ff-a558-4d8c-b814-18993f4d81b1.html",
+          "description": "(ANSA) - ROME, JUL 17 - Italy's GDP was up 0.4% in the second quarter of this tear while inflation fell back to 2.5% in July, retail group Confcommercio said Friday. The geopolitical scenario, after a brief period of respite, has seen renewed tensions in the Middle East, making forecasts for the Italian economy \"slightly more uncertain and complex,\" \"still experiencing undeniable signs of liveliness overall,\" Confcommercio stated in its latest report, estimating a second quarter of further growth of 0.4%, with a 1.2% increase compared to the same period in 2025. The growth achieved to date all",
+          "pubDate": "Fri, 17 Jul 2026 13:12:03 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "As Sudan war crosses borders and millions are made refugees , could Ethiopia plan solve  humanity migration issue ?"
+          "titleIt": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio"
         },
         {
-          "title": "AFRICA TO CHAMPION CLIMATE ACTION FOR SUSTAINABLE GROWTH",
-          "link": "http://www.president.go.ke/africa-to-champion-climate-action-for-sustainable-growth/",
-          "source": "president.go.ke",
-          "pubDate": "2026-07-21T04:30:00Z",
+          "title": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini",
+          "link": "https://www.ansa.it/english/news/2026/07/16/sanctions-on-moscow-wont-stop-war-hope-there-arent-another-20-packages_e5a6e493-3d4c-499a-88ee-72e092674a79.html",
+          "description": "(ANSA) - ROME, JUL 16 - Right-wing League party leader, Deputy Premier and Transport Minister Matteo Salvini said Thursday that European Union sanctions on Moscow would not stop the UKraine war and he hoped there would not be another 20 packages of them. \"It doesn't seem to me that the sanctions have brought an end to the conflict... and I hope there aren't another 20 sanctions packages before we reach the end of this war. At the negotiating table, because this conflict won't end with a clear winner,\" Salvini said this during a video conference at a meeting of Gim Unimpresa, the association of",
+          "pubDate": "Thu, 16 Jul 2026 18:43:38 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "AFRICA TO CHAMPION CLIMATE ACTION FOR SUSTAINABLE GROWTH"
+          "titleIt": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini"
         },
         {
-          "title": "Nigeria Steel Industry : Unlocking $4bn Opportunity with Rail",
-          "link": "https://punchng.com/nigeria-and-the-missed-opportunities-in-4bn-steel-industry-2/",
-          "source": "punchng.com",
-          "pubDate": "2026-07-21T03:45:00Z",
+          "title": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini",
+          "link": "https://www.ansa.it/english/news/world/2026/07/16/sanctions-on-moscow-wont-stop-war-hope-there-arent-another-20-packages_212069b4-1df5-4ada-9efb-fbf8e326e90a.html",
+          "description": "(ANSA) - ROME, JUL 16 - Right-wing League party leader, Deputy Premier and Transport Minister Matteo Salvini said Thursday that European Union sanctions on Moscow would not stop the UKraine war and he hoped there would not be another 20 packages of them. \"It doesn't seem to me that the sanctions have brought an end to the conflict... and I hope there aren't another 20 sanctions packages before we reach the end of this war. At the negotiating table, because this conflict won't end with a clear winner,\" Salvini said this during a video conference at a meeting of Gim Unimpresa, the association of",
+          "pubDate": "Thu, 16 Jul 2026 18:22:16 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Nigeria Steel Industry : Unlocking $4bn Opportunity with Rail"
+          "titleIt": "Sanctions on Moscow won't stop war, hope there aren't another 20 packages - Salvini"
         },
         {
-          "title": "Turkey still keeps Somalia out of its e - Visa system despite over $1 billion in aid , oil deals and access to the Horn of Africa",
-          "link": "https://horseedmedia.net/turkey-still-keeps-somalia-out-of-its-e-visa-system-despite-over-1-billion-in-aid-oil-deals-and-access-to-the-horn-of-africa/423951/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-07-20T22:45:00Z",
+          "title": "Villa warned over sportswashing after Visit Rwanda deal",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
+          "description": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record.",
+          "pubDate": "Tue, 14 Jul 2026 18:44:04 GMT",
+          "source": "BBC Africa",
           "lang": "en",
-          "description": "",
-          "titleIt": "Turkey still keeps Somalia out of its e - Visa system despite over $1 billion in aid , oil deals and access to the Horn of Africa"
-        },
-        {
-          "title": "East Africa Catholic bishops commit to young people as pastoral priority for next 4 years",
-          "link": "https://www.myspiritfm.com/News?view=post&blogid=Catholic%2DNews&articleid=301627",
-          "source": "myspiritfm.com",
-          "pubDate": "2026-07-20T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa Catholic bishops commit to young people as pastoral priority for next 4 years"
-        },
-        {
-          "title": "Xinhua Commentary :  China Squeeze  or squeeze China ?",
-          "link": "http://news.cnwest.com/szyw/a/2026/07/20/23397338.html",
-          "source": "news.cnwest.com",
-          "pubDate": "2026-07-20T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Xinhua Commentary :  China Squeeze  or squeeze China ?"
-        },
-        {
-          "title": "Beyond the Northern Security Trust Fund Board  - Blueprint Newspapers Limited",
-          "link": "https://blueprint.ng/beyond-the-northern-security-trust-fund-board/",
-          "source": "blueprint.ng",
-          "pubDate": "2026-07-20T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Beyond the Northern Security Trust Fund Board  - Blueprint Newspapers Limited"
-        },
-        {
-          "title": "Ethiopia : Corridor Devt Transforms Addis Into Major Tourism Destination , Helps Host Over 221 International Conferences",
-          "link": "https://allafrica.com/stories/202607200050.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-20T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Corridor Devt Transforms Addis Into Major Tourism Destination , Helps Host Over 221 International Conferences"
-        },
-        {
-          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
-          "link": "https://allafrica.com/stories/202607200017.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-20T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
-        },
-        {
-          "title": "Ethiopia : EU Foreign Policy Chief Confident Ethiopia National Dialogue Will Deliver Concrete Results",
-          "link": "https://allafrica.com/stories/202607200059.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-20T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : EU Foreign Policy Chief Confident Ethiopia National Dialogue Will Deliver Concrete Results"
-        },
-        {
-          "title": "Can the US and Israel sustain a war of attrition with Iran ?",
-          "link": "https://www.jpost.com/middle-east/iran-news/article-903000",
-          "source": "jpost.com",
-          "pubDate": "2026-07-19T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Can the US and Israel sustain a war of attrition with Iran ?"
-        },
-        {
-          "title": "Somalia races to save Radio Mogadishu fading archive",
-          "link": "https://horseedmedia.net/somalia-races-to-save-radio-mogadishus-fading-archive/423871/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-07-19T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia races to save Radio Mogadishu fading archive"
-        },
-        {
-          "title": "Eritrea Vanishing Youth : A Demographic Crisis and a Nation on the Brink ( Part 1 ) – Awate . com",
-          "link": "https://awate.com/eritreas-vanishing-youth-a-demographic-crisis-and-a-nation-on-the-brink-part-1/",
-          "source": "awate.com",
-          "pubDate": "2026-07-19T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea Vanishing Youth : A Demographic Crisis and a Nation on the Brink ( Part 1 ) – Awate . com"
-        },
-        {
-          "title": "RUTO : WE MUST RUTHLESSLY DISMANTLE TERROR NETWORKS IN THE HORN OF AFRICA",
-          "link": "http://www.president.go.ke/ruto-we-must-ruthlessly-dismantle-terror-networks-in-the-horn-of-africa/",
-          "source": "president.go.ke",
-          "pubDate": "2026-07-19T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "RUTO : WE MUST RUTHLESSLY DISMANTLE TERROR NETWORKS IN THE HORN OF AFRICA"
-        },
-        {
-          "title": "Private property cannot be taken without just compensation",
-          "link": "https://capitalethiopia.com/2026/07/19/private-property-cannot-be-taken-without-just-compensation/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-07-19T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Private property cannot be taken without just compensation"
-        },
-        {
-          "title": "Egypt , Tanzania expand partnership with focus on food security",
-          "link": "https://www.middle-east-online.com/en/egypt-tanzania-expand-partnership-focus-food-security",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-19T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt , Tanzania expand partnership with focus on food security"
-        },
-        {
-          "title": "Egypt eyes land reclamation projects in Tanzania",
-          "link": "https://www.middleeastmonitor.com/20260719-egypt-eyes-land-reclamation-projects-in-tanzania/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-07-19T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt eyes land reclamation projects in Tanzania"
+          "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
         }
       ]
     },
@@ -274,37 +148,190 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/19/an-expert-from-the-guardia-di-finanza-at-the-italian-embassy-in-riyadh_63c6c89e-7291-4ccf-b91e-63b3321a493a.html",
-          "description": "(ANSA) - IL CAIRO, 19 LUG - The Italian Embassy in Riyadh has strengthened its structure with the establishment of a Guardia di Finanza Office, headed by Colonel Alessandro Coscarelli in his capacity as an expert from the Corps. The opening of the new office represents an important step in consolidating the partnership between Italy and Saudi Arabia, with the goal of strengthening cooperation in the field of economic and financial security. It joins the other 29 Financial Police Expert offices currently part of the Corps’ overseas network at bilateral and multilateral diplomatic missions. The ",
-          "pubDate": "Sun, 19 Jul 2026 15:52:33 +0200",
-          "source": "ANSA English",
+          "title": "AI could lift Sub - Saharan Africa economy 4 % if power , internet improve , IMF says",
+          "link": "https://www.engineeringnews.co.za/article/ai-could-lift-sub-saharan-africa-economy-4-if-power-internet-improve-imf-says-2026-07-21",
+          "source": "engineeringnews.co.za",
+          "pubDate": "2026-07-21T13:45:00Z",
           "lang": "en",
-          "titleIt": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh"
+          "description": "",
+          "titleIt": "AI could lift Sub - Saharan Africa economy 4 % if power , internet improve , IMF says"
+        },
+        {
+          "title": "Saudi oil tankers bound for China and India make U - turn after Houthi threat in Red Sea",
+          "link": "https://www.livemint.com/news/world/saudi-oil-tankers-bound-for-china-and-india-make-u-turn-after-houthi-threat-in-red-sea-11784639412243.html",
+          "source": "livemint.com",
+          "pubDate": "2026-07-21T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi oil tankers bound for China and India make U - turn after Houthi threat in Red Sea"
+        },
+        {
+          "title": "AI could lift Sub - Saharan Africa economy 4 % if power , internet improve , IMF says",
+          "link": "https://finance.yahoo.com/economy/policy/articles/ai-could-lift-sub-saharan-120527890.html",
+          "source": "finance.yahoo.com",
+          "pubDate": "2026-07-21T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AI could lift Sub - Saharan Africa economy 4 % if power , internet improve , IMF says"
+        },
+        {
+          "title": "A History of Modern Syria",
+          "link": "https://www.middleeastmonitor.com/20260721-a-history-of-modern-syria/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-07-21T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A History of Modern Syria"
+        },
+        {
+          "title": "Houthi blockade threat opens new front in global energy crisis",
+          "link": "https://www.middle-east-online.com/en/houthi-blockade-threat-opens-new-front-global-energy-crisis",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-07-21T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthi blockade threat opens new front in global energy crisis"
+        },
+        {
+          "title": "Iran Proposes 10 - Day Ceasefire with U . S .",
+          "link": "https://athens-times.com/iran-proposed-10-day-ceasefire-with-u-s-amid-escalating-attacks-seeks-corridor-in-strait-of-hormuz/",
+          "source": "athens-times.com",
+          "pubDate": "2026-07-21T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran Proposes 10 - Day Ceasefire with U . S ."
+        },
+        {
+          "title": "In Vino Veritas and the Algorithm of Time - By Tony Agbonasevbaefe",
+          "link": "https://www.opinionnigeria.com/in-vino-veritas-and-the-algorithm-of-time-by-tony-agbonasevbaefe/",
+          "source": "opinionnigeria.com",
+          "pubDate": "2026-07-21T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "In Vino Veritas and the Algorithm of Time - By Tony Agbonasevbaefe"
+        },
+        {
+          "title": "Money talks : As the Iran war continues , Hormuz tolls gain traction",
+          "link": "https://fortune.com/2026/07/21/money-talks-as-iran-war-continues-options-for-strait-of-hormuz-are-coalescing-around-one-solution-tolls/",
+          "source": "fortune.com",
+          "pubDate": "2026-07-21T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Money talks : As the Iran war continues , Hormuz tolls gain traction"
+        },
+        {
+          "title": "Houthi Red Sea blockade could trigger surge in crude oil prices",
+          "link": "https://bworldonline.com/world/2026/07/21/764955/houthi-red-sea-blockade-could-trigger-surge-in-crude-oil-prices/",
+          "source": "bworldonline.com",
+          "pubDate": "2026-07-21T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthi Red Sea blockade could trigger surge in crude oil prices"
+        },
+        {
+          "title": "Israeli media says Turkey was ready to intervene over Kurdish incursion into Iran",
+          "link": "https://www.middleeasteye.net/news/israeli-media-says-turkey-was-ready-intervene-over-kurdish-incursion-iran",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-07-21T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israeli media says Turkey was ready to intervene over Kurdish incursion into Iran"
+        },
+        {
+          "title": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes",
+          "link": "https://www.asiaone.com:443/world/us-and-iran-dig-over-strait-hormuz-showing-limits-intensifying-airstrikes",
+          "source": "asiaone.com",
+          "pubDate": "2026-07-21T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes"
+        },
+        {
+          "title": "Houthi blockade on Saudi Arabia ,",
+          "link": "https://www.bankingnews.gr/diethni/articles/889435/houthi-blockade-on-saudi-arabia-dragging-a-major-nuclear-power-into-war-new-front-in-the-middle-east%20title=",
+          "source": "bankingnews.gr",
+          "pubDate": "2026-07-21T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthi blockade on Saudi Arabia ,"
+        },
+        {
+          "title": "Head of International Data Center Authority to Asharq Al - Awsat : Saudi Arabia leads AI race",
+          "link": "https://www.arabnews.com/node/2651715/business-economy",
+          "source": "arabnews.com",
+          "pubDate": "2026-07-21T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Head of International Data Center Authority to Asharq Al - Awsat : Saudi Arabia leads AI race"
+        },
+        {
+          "title": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes",
+          "link": "https://www.wfmz.com/news/ap/us-and-iran-dig-in-over-the-strait-of-hormuz-showing-the-limits-of-intensifying/article_6b05b4a3-cc1c-5324-bae7-fc1c58c9570a.html",
+          "source": "wfmz.com",
+          "pubDate": "2026-07-21T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes"
+        },
+        {
+          "title": "Recce Pharmaceuticals advances dual Phase 3 programs and MENA licensing strategy in strong June quarter",
+          "link": "https://www.proactiveinvestors.com/companies/news/1095750/recce-pharmaceuticals-advances-dual-phase-3-programs-and-mena-licensing-strategy-in-strong-june-quarter-1095750.html",
+          "source": "proactiveinvestors.com",
+          "pubDate": "2026-07-21T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Recce Pharmaceuticals advances dual Phase 3 programs and MENA licensing strategy in strong June quarter"
+        },
+        {
+          "title": "CIB 2Q26 Earnings Release | Company Announcement",
+          "link": "https://www.investegate.co.uk/announcement/rns/commercial-international-bank-egypt-sae-gdr-reg-s---cbkd/cib-2q26-earnings-release/9678491",
+          "source": "investegate.co.uk",
+          "pubDate": "2026-07-21T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "CIB 2Q26 Earnings Release | Company Announcement"
+        },
+        {
+          "title": "El - Sisi pushes ahead with Egypt militarisation – Middle East Monitor",
+          "link": "https://www.middleeastmonitor.com/20260721-el-sisi-pushes-ahead-with-egypts-militarisation/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-07-21T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "El - Sisi pushes ahead with Egypt militarisation – Middle East Monitor"
+        },
+        {
+          "title": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes",
+          "link": "https://isp.netscape.com:443/news/world/story/0001/20260721/8c42c6ddc0c32d53ce452ace92a62b9a",
+          "source": "isp.netscape.com",
+          "pubDate": "2026-07-21T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes"
+        },
+        {
+          "title": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes - Las Vegas Sun News",
+          "link": "https://lasvegassun.com/news/2026/jul/20/us-and-iran-dig-in-over-the-strait-of-hormuz-showi/",
+          "source": "lasvegassun.com",
+          "pubDate": "2026-07-21T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes - Las Vegas Sun News"
+        },
+        {
+          "title": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes",
+          "link": "https://www.news4jax.com/news/world/2026/07/21/us-and-iran-dig-in-over-the-strait-of-hormuz-showing-the-limits-of-intensifying-airstrikes/",
+          "source": "news4jax.com",
+          "pubDate": "2026-07-21T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US and Iran dig in over the Strait of Hormuz , showing the limits of intensifying airstrikes"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Torino: contrasto alla criminalita' giovanile, controlli nelle zone della movida e di periferia (3)",
-          "link": "https://www.agenzianova.com/a/6a5f4bab4e20e3.80882166/7626871/2026-07-21/torino-contrasto-alla-criminalita-giovanile-controlli-nelle-zone-della-movida-e-di-periferia-3",
-          "description": "21 lug 12:15 - (Agenzia Nova) - A seguito di una preventiva attivita' di analisi e monitoraggio del territorio, sono stati pianificati mirati... (Rpi)",
-          "pubDate": "2026-07-21T12:15:18+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Torino: contrasto alla criminalita' giovanile, controlli nelle zone della movida e di periferia (3)"
-        },
-        {
-          "title": "Sudan: Sudan Rejects U.S. Sanctions, Reaffirms Commitment to International Agreements",
-          "link": "https://allafrica.com/stories/202607200431.html",
-          "description": "[SNA] KHARTOUM, July 20, 2026 (SUNA) - The Ministry of Foreign Affairs has issued a statement expressing the country's outright rejection of the unilateral and unlawful sanctions announced by the United States against Sudan based on false allegations that the Sudanese Armed Forces used chemical weapons.",
-          "pubDate": "Mon, 20 Jul 2026 12:13:04 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Sudan Rejects U.S. Sanctions, Reaffirms Commitment to International Agreements"
-        },
         {
           "title": "Ethiopians march against alleged forced mobilisation in Tigray",
           "link": "http://www.africanews.com/2026/07/18/ethiopians-march-against-alleged-forced-mobilisation-in-tigray/",
