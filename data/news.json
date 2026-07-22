@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-22T17:44:21.014Z",
+  "generatedAt": "2026-07-22T19:46:57.889Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Africa: Egypt's Reme-D Gets $1.45m to Scale Molecular Diagnostics in Africa",
+          "link": "https://allafrica.com/stories/202607220724.html",
+          "description": "[Daba Finance] Egyptian healthtech startup Reme-D has raised $1.45 million in a Pre-Series A funding round led by Anara Impact Capital to expand production of its molecular diagnostic tests and grow its presence across Africa and other underserved markets.",
+          "pubDate": "Wed, 22 Jul 2026 18:27:15 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Egypt's Reme-D Gets $1.45m to Scale Molecular Diagnostics in Africa"
+        },
         {
           "title": "Somalia: Turkey Renews Somalia Military Deployment for Two More Years",
           "link": "https://allafrica.com/stories/202607220290.html",
@@ -97,15 +106,6 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Sardegna: Forestas, insediato il Comitato territoriale per il raccordo con i Comuni",
-          "link": "https://www.agenzianova.com/a/6a610171466556.54946122/7632132/2026-07-22/sardegna-forestas-insediato-il-comitato-territoriale-per-il-raccordo-con-i-comuni",
-          "description": "22 lug 19:30 - (Agenzia Nova) - Rafforzare il collegamento tra Agenzia FoReSTAS e amministrazioni locali, portando le esigenze dei territori... (Rsc)",
-          "pubDate": "2026-07-22T19:30:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Sardegna: Forestas, insediato il Comitato territoriale per il raccordo con i Comuni"
-        },
         {
           "title": "Liberia: Eugene Nagbe Alleges Official Collusion in Liberia's Cocaine Trade, Disputes Government's U.S.$19 Million Valuation",
           "link": "https://allafrica.com/stories/202607220536.html",
@@ -276,6 +276,15 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Italy to use escape clause for energy investments says Meloni"
+        },
+        {
+          "title": "Primate Ayodele warns presidents of African countries",
+          "link": "https://theeagleonline.com.ng/primate-ayodele-warns-presidents-of-african-countries/",
+          "source": "theeagleonline.com.ng",
+          "pubDate": "2026-07-21T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Primate Ayodele warns presidents of African countries"
         }
       ]
     },
@@ -283,148 +292,13 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Paul McCartney Album Closing Songs Ranked",
-          "link": "https://1057thehawk.com/ixp/295/p/paul-mccartney-album-closing-songs-ranked/",
-          "source": "1057thehawk.com",
-          "pubDate": "2026-07-22T16:45:00Z",
+          "title": "Africa: Egypt's Reme-D Gets $1.45m to Scale Molecular Diagnostics in Africa",
+          "link": "https://allafrica.com/stories/202607220724.html",
+          "description": "[Daba Finance] Egyptian healthtech startup Reme-D has raised $1.45 million in a Pre-Series A funding round led by Anara Impact Capital to expand production of its molecular diagnostic tests and grow its presence across Africa and other underserved markets.",
+          "pubDate": "Wed, 22 Jul 2026 18:27:15 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Paul McCartney Album Closing Songs Ranked"
-        },
-        {
-          "title": "VALEO SE : Valeo - H1 2026 Results",
-          "link": "https://www.finanznachrichten.de/nachrichten-2026-07/69096656-valeo-se-valeo-h1-2026-results-399.htm",
-          "source": "finanznachrichten.de",
-          "pubDate": "2026-07-22T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "VALEO SE : Valeo - H1 2026 Results"
-        },
-        {
-          "title": "Gateway to Opportunities : Where Innovation Serves People -- Hangzhou Journey from Countryside to Robotics Labs",
-          "link": "http://www.malaysiasun.com/news/279203095/gateway-to-opportunities-where-innovation-serves-people-hangzhou-journey-from-countryside-to-robotics-labs",
-          "source": "malaysiasun.com",
-          "pubDate": "2026-07-22T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gateway to Opportunities : Where Innovation Serves People -- Hangzhou Journey from Countryside to Robotics Labs"
-        },
-        {
-          "title": "The USDA reveals the foods Americans eat more than anything else",
-          "link": "https://www.aol.com/articles/usda-reveals-foods-americans-eat-170143000.html",
-          "source": "aol.com",
-          "pubDate": "2026-07-22T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The USDA reveals the foods Americans eat more than anything else"
-        },
-        {
-          "title": "Tankers make sharp U - turns after Houthi shipping threat",
-          "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo",
-          "source": "bbc.co.uk",
-          "pubDate": "2026-07-22T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tankers make sharp U - turns after Houthi shipping threat"
-        },
-        {
-          "title": "Iran war : Threat by Yemen Houthis could put trade chokepoint at risk",
-          "link": "https://www.cp24.com/news/world/2026/07/22/a-new-threat-by-yemens-houthis-could-widen-the-iran-war-and-put-another-trade-chokepoint-at-risk/",
-          "source": "cp24.com",
-          "pubDate": "2026-07-22T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran war : Threat by Yemen Houthis could put trade chokepoint at risk"
-        },
-        {
-          "title": "Paul McCartney Album Closing Songs Ranked",
-          "link": "https://koolfmabilene.com/ixp/295/p/paul-mccartney-album-closing-songs-ranked/",
-          "source": "koolfmabilene.com",
-          "pubDate": "2026-07-22T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Paul McCartney Album Closing Songs Ranked"
-        },
-        {
-          "title": "Paul McCartney Album Closing Songs Ranked",
-          "link": "https://krna.com/ixp/295/p/paul-mccartney-album-closing-songs-ranked/",
-          "source": "krna.com",
-          "pubDate": "2026-07-22T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Paul McCartney Album Closing Songs Ranked"
-        },
-        {
-          "title": "Paul McCartney Album Closing Songs Ranked",
-          "link": "https://wpdh.com/ixp/295/p/paul-mccartney-album-closing-songs-ranked/",
-          "source": "wpdh.com",
-          "pubDate": "2026-07-22T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Paul McCartney Album Closing Songs Ranked"
-        },
-        {
-          "title": "All signatures secured for Aphrodite gas sales MoU with Egypt",
-          "link": "https://cyprus-mail.com/2026/07/22/all-signatures-secured-for-aphrodite-gas-sales-mou-with-egypt",
-          "source": "cyprus-mail.com",
-          "pubDate": "2026-07-22T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "All signatures secured for Aphrodite gas sales MoU with Egypt"
-        },
-        {
-          "title": "EBRD appoints Hashem Abdel Hakim Director for the eastern Mediterranean region",
-          "link": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-appoints-hashem-abdel-hakim-director-for-the-eastern-medite.html",
-          "source": "ebrd.com",
-          "pubDate": "2026-07-22T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "EBRD appoints Hashem Abdel Hakim Director for the eastern Mediterranean region"
-        },
-        {
-          "title": "The Nashville Ledger",
-          "link": "http://www.tnledger.com/editorial/Article.aspx?id=205764",
-          "source": "tnledger.com",
-          "pubDate": "2026-07-22T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Nashville Ledger"
-        },
-        {
-          "title": "Paul McCartney Album Closing Songs Ranked",
-          "link": "https://kmhk.com/ixp/295/p/paul-mccartney-album-closing-songs-ranked/",
-          "source": "kmhk.com",
-          "pubDate": "2026-07-22T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Paul McCartney Album Closing Songs Ranked"
-        },
-        {
-          "title": "Paul McCartney Album Closing Songs Ranked",
-          "link": "https://kool1079.com/ixp/295/p/paul-mccartney-album-closing-songs-ranked/",
-          "source": "kool1079.com",
-          "pubDate": "2026-07-22T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Paul McCartney Album Closing Songs Ranked"
-        },
-        {
-          "title": "Egypt uncovers Nile Delta tomb with 560 funerary figurines",
-          "link": "http://www.middleeaststar.com/news/279203153/egypt-uncovers-nile-delta-tomb-with-560-funerary-figurines",
-          "source": "middleeaststar.com",
-          "pubDate": "2026-07-22T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt uncovers Nile Delta tomb with 560 funerary figurines"
-        },
-        {
-          "title": "Paul McCartney Album Closing Songs Ranked",
-          "link": "https://classicrock961.com/ixp/295/p/paul-mccartney-album-closing-songs-ranked/",
-          "source": "classicrock961.com",
-          "pubDate": "2026-07-22T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Paul McCartney Album Closing Songs Ranked"
+          "titleIt": "Africa: Egypt's Reme-D Gets $1.45m to Scale Molecular Diagnostics in Africa"
         },
         {
           "title": "Egypt's intense heatwave strains workers and disrupts economy",
@@ -454,13 +328,13 @@
           "titleIt": "Woman, 55, dies two months after being hit in Modena car attack"
         },
         {
-          "title": "Why Gold Threatens Peace in South Sudan",
-          "link": "https://www.justsecurity.org/146977/gold-threatens-peace-south-sudan/",
-          "source": "justsecurity.org",
-          "pubDate": "2026-07-22T14:00:00Z",
+          "title": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/19/an-expert-from-the-guardia-di-finanza-at-the-italian-embassy-in-riyadh_63c6c89e-7291-4ccf-b91e-63b3321a493a.html",
+          "description": "(ANSA) - IL CAIRO, 19 LUG - The Italian Embassy in Riyadh has strengthened its structure with the establishment of a Guardia di Finanza Office, headed by Colonel Alessandro Coscarelli in his capacity as an expert from the Corps. The opening of the new office represents an important step in consolidating the partnership between Italy and Saudi Arabia, with the goal of strengthening cooperation in the field of economic and financial security. It joins the other 29 Financial Police Expert offices currently part of the Corps’ overseas network at bilateral and multilateral diplomatic missions. The ",
+          "pubDate": "Sun, 19 Jul 2026 15:52:33 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Why Gold Threatens Peace in South Sudan"
+          "titleIt": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh"
         }
       ]
     },
@@ -493,159 +367,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: Call for Public Health Emergency Amid Dengue Outbreak in Sudan's Blue Nile State"
-        },
-        {
-          "title": "Society - Egypt - Ahram Online",
-          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
-          "source": "english.ahram.org.eg",
-          "pubDate": "2026-07-22T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Society - Egypt - Ahram Online"
-        },
-        {
-          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
-          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-21T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-07-21T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
-          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
-          "source": "aljazeera.com",
-          "pubDate": "2026-07-21T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
-        },
-        {
-          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
-          "link": "https://allafrica.com/stories/202607200017.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-20T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
-        },
-        {
-          "title": "Rural Ethiopia still left in the dark as reliable electricity lags",
-          "link": "https://capitalethiopia.com/2026/07/19/rural-ethiopia-still-left-in-the-dark-as-reliable-electricity-lags/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-07-19T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Rural Ethiopia still left in the dark as reliable electricity lags"
-        },
-        {
-          "title": "From abundance to retreat : what happened to Nile water levels in Sudan ?",
-          "link": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
-          "source": "dabangasudan.org",
-          "pubDate": "2026-07-16T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "From abundance to retreat : what happened to Nile water levels in Sudan ?"
-        },
-        {
-          "title": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD",
-          "link": "https://allafrica.com/stories/202607150066.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-15T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD"
-        },
-        {
-          "title": "Ethiopia debt problem",
-          "link": "https://africasacountry.com/2026/07/ethiopias-debt-problem",
-          "source": "africasacountry.com",
-          "pubDate": "2026-07-14T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia debt problem"
-        },
-        {
-          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
-          "link": "https://www.jpost.com/middle-east/article-902454",
-          "source": "jpost.com",
-          "pubDate": "2026-07-14T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
-        },
-        {
-          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
-          "link": "http://www.jpost.com/middle-east/article-902454",
-          "source": "jpost.com",
-          "pubDate": "2026-07-14T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
-        },
-        {
-          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
-          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-07-14T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
-        },
-        {
-          "title": "Egypt built the Aswan High Dam to tame the Nile floods , but scientists now say the project starved the delta of fertile sediments and accelerated coastal erosion",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/egypt-built-the-aswan-high-dam-to-tame-the-niles-floods-but-scientists-now-say-the-project-starved-the-delta-of-fertile-sediments-and-accelerated-coastal-erosion/articleshow/132363327.cms",
-          "source": "timesofindia.indiatimes.com",
-          "pubDate": "2026-07-14T04:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt built the Aswan High Dam to tame the Nile floods , but scientists now say the project starved the delta of fertile sediments and accelerated coastal erosion"
-        },
-        {
-          "title": "Egypt issues warning to Ethiopia over  unacceptable  GERD steps",
-          "link": "https://www.egyptindependent.com/egypt-issues-warning-to-ethiopia-over-unacceptable-gerd-steps/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-07-13T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt issues warning to Ethiopia over  unacceptable  GERD steps"
-        },
-        {
-          "title": "Ethiopia , Kenya ink electricity supply deal",
-          "link": "https://capitalfm.africa/ethiopia-kenya-ink-electricity-supply-deal/",
-          "source": "capitalfm.africa",
-          "pubDate": "2026-07-12T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia , Kenya ink electricity supply deal"
-        },
-        {
-          "title": "Ethiopia , Kenya ink electricity supply deal amid expanding regional energy connectivity - Xinhua",
-          "link": "https://english.news.cn/20260711/d33f5fbca80e4daf9a3b4f313a9ea59e/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-07-11T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia , Kenya ink electricity supply deal amid expanding regional energy connectivity - Xinhua"
-        },
-        {
-          "title": "Ethiopia Pan - African Blueprint : Sovereignty , Solidarity , And Sustainability",
-          "link": "https://www.thereporterethiopia.com/51760/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-07-11T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Pan - African Blueprint : Sovereignty , Solidarity , And Sustainability"
         }
       ]
     }
