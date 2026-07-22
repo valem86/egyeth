@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T06:44:32.519Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-07-22T10:36:43.754Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -34,19 +34,37 @@
           "titleIt": "University Mission to Dakar for Psychology Education in Senegal"
         },
         {
-          "title": "Egypt receive a warm welcome home",
-          "link": "https://www.bbc.co.uk/sport/videos/ce8jlv22r6vo?at_medium=RSS&at_campaign=rss",
-          "description": "Watch as the Egyptian football team return to a hero's welcome from their fans.",
-          "pubDate": "Fri, 10 Jul 2026 16:05:47 GMT",
-          "source": "BBC Africa",
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
           "lang": "en",
-          "titleIt": "Egypt receive a warm welcome home"
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenya: Nairobi-Based Lawyer Arrested Over Alleged Land Fraud Scheme",
+          "link": "https://allafrica.com/stories/202607220238.html",
+          "description": "[Capital FM] Nairobi -- Detectives from the Directorate of Criminal Investigations (DCI) have arrested a Nairobi-based lawyer over an alleged land fraud scheme aimed at depriving a property owner of her land.",
+          "pubDate": "Wed, 22 Jul 2026 10:16:11 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Nairobi-Based Lawyer Arrested Over Alleged Land Fraud Scheme"
+        },
         {
           "title": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History",
           "link": "https://www.maravipost.com/cure-blindness-project-releases-2025-impact-report-marking-most-impactful-year-in-organizations-history-3/",
@@ -217,15 +235,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
-        },
-        {
-          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
-          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-07-14T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
         }
       ]
     },
@@ -233,94 +242,40 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Sardegna: Cagliari, al via EdA-Z: natura, sport e inclusione per la Generazione Z (4)",
-          "link": "https://www.agenzianova.com/a/6a6066cc22eb16.44011889/7628822/2026-07-22/sardegna-cagliari-al-via-eda-z-natura-sport-e-inclusione-per-la-generazione-z-4",
-          "description": "22 lug 08:30 - (Agenzia Nova) - La dirigente alla Pianificazione, programmazione, controllo strategico e di gestione, Maria Franca Urru, ha... (Rsc)",
-          "pubDate": "2026-07-22T08:30:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Sardegna: Cagliari, al via EdA-Z: natura, sport e inclusione per la Generazione Z (4)"
+          "title": "Gabon: Gabon and France Deepen Industrial Cooperation With Eramet Manganese Deal",
+          "link": "https://allafrica.com/stories/202607220239.html",
+          "description": "[RFI] French mining group Eramet is considering a major expansion of manganese processing in Gabon under an agreement that could strengthen the country's industrial base, modernise its railway network and reduce its reliance on exports of unprocessed ore.",
+          "pubDate": "Wed, 22 Jul 2026 10:16:26 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Gabon: Gabon and France Deepen Industrial Cooperation With Eramet Manganese Deal"
         },
         {
-          "title": "Unparalleled Outstanding Leadership : The Case Of Atse Menelik II , Emperor Of Ethiopia - OpEd",
-          "link": "https://www.eurasiareview.com/21072026-unparalleled-outstanding-leadership-the-case-of-atse-menelik-ii-emperor-of-ethiopia-oped/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-07-22T04:45:00Z",
+          "title": "Rome to host meeting for Two-State solution July 28-29 - Tajani",
+          "link": "https://www.ansa.it/english/news/politics/2026/07/22/rome-to-host-meeting-for-two-state-solution-july-28-29-tajani_f5b1c764-2825-4109-9f2a-7627c2fbc285.html",
+          "description": "(ANSA) - ROME, JUL 22 - Rome will host a meeting of the Global Alliance for a Two-State Solution to the Israeli-Palestinian conflict, Deputy Premier and Foreign Minister Antonio Tajani said on Wednesday as he reported to parliament on the recent NATO summit. \"On July 28 and 29 I will chair a meeting in Rome of the Global Alliance for the Two-State Solution together with the Saudi Foreign Minister,\" Tajani told a joint hearing of the foreign affairs and defence committees of the Senate and the Lower House. \"We will give new impetus to the New York Declaration, which we signed last year. \"The me",
+          "pubDate": "Wed, 22 Jul 2026 11:49:02 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Unparalleled Outstanding Leadership : The Case Of Atse Menelik II , Emperor Of Ethiopia - OpEd"
+          "titleIt": "Rome to host meeting for Two-State solution July 28-29 - Tajani"
         },
         {
-          "title": "Column : Those who conjure up so - called  China Squeeze  ignore historical reality - Xinhua",
-          "link": "https://english.news.cn/20260721/f4b42fd5a6d84771b5870879ff755310/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-07-22T00:15:00Z",
+          "title": "Rome to host meeting for Two-State solution July 28-29 - Tajani",
+          "link": "https://www.ansa.it/english/news/2026/07/22/rome-to-host-meeting-for-two-state-solution-july-28-29-tajani_513b1a68-399b-4dd5-a974-d1fd1d707e08.html",
+          "description": "(ANSA) - ROME, JUL 22 - Rome will host a meeting of the Global Alliance for a Two-State Solution to the Israeli-Palestinian conflict, Deputy Premier and Foreign Minister Antonio Tajani said on Wednesday as he reported to parliament on the recent NATO summit. \"On July 28 and 29 I will chair a meeting in Rome of the Global Alliance for the Two-State Solution together with the Saudi Foreign Minister,\" Tajani told a joint hearing of the foreign affairs and defence committees of the Senate and the Lower House. \"We will give new impetus to the New York Declaration, which we signed last year. \"The me",
+          "pubDate": "Wed, 22 Jul 2026 11:44:10 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Column : Those who conjure up so - called  China Squeeze  ignore historical reality - Xinhua"
+          "titleIt": "Rome to host meeting for Two-State solution July 28-29 - Tajani"
         },
         {
-          "title": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History",
-          "link": "https://www.maravipost.com/cure-blindness-project-releases-2025-impact-report-marking-most-impactful-year-in-organizations-history-3/",
-          "source": "maravipost.com",
-          "pubDate": "2026-07-21T23:00:00Z",
+          "title": "Ethiopia opposition accuses government of pushing Tigray towards new war",
+          "link": "http://www.africanews.com/2026/07/22/ethiopia-opposition-accuses-government-of-pushing-tigray-towards-new-war/",
+          "description": "Ethiopia's opposition People's Revolutionary Party has accused the federal government of pushing the northern Tigray region towards a new war. The EPRP says Addis Ababa is waging a propaganda campaign to psychologically prepare public opinion for conflict.",
+          "pubDate": "Wed, 22 Jul 2026 09:24:24 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History"
-        },
-        {
-          "title": "Ethiopia police arrest alleged leader of multi - million - dollar trafficking ring",
-          "link": "https://www.bbc.co.uk/news/articles/c4gklwpv1wyo",
-          "source": "bbc.co.uk",
-          "pubDate": "2026-07-21T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia police arrest alleged leader of multi - million - dollar trafficking ring"
-        },
-        {
-          "title": "The Horn Of Africa States : Gulf Banking And Finance Under The Seemingly Endless War And Its Impact On The Region - OpEd",
-          "link": "https://www.eurasiareview.com/21072026-the-horn-of-africa-states-gulf-banking-and-finance-under-the-seemingly-endless-war-and-its-impact-on-the-region-oped/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-07-21T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Horn Of Africa States : Gulf Banking And Finance Under The Seemingly Endless War And Its Impact On The Region - OpEd"
-        },
-        {
-          "title": "Tigray old grapevines have survived against the odds : new research uncovers their genetic and historic value",
-          "link": "https://theconversation.com/tigrays-old-grapevines-have-survived-against-the-odds-new-research-uncovers-their-genetic-and-historic-value-286393",
-          "source": "theconversation.com",
-          "pubDate": "2026-07-21T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tigray old grapevines have survived against the odds : new research uncovers their genetic and historic value"
-        },
-        {
-          "title": "Christian convert poisoned to death in Somaliland",
-          "link": "https://www.christianpost.com/news/christian-convert-poisoned-to-death-in-somaliland.html",
-          "source": "christianpost.com",
-          "pubDate": "2026-07-21T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Christian convert poisoned to death in Somaliland"
-        },
-        {
-          "title": "South Africa : Trump Watch - Roelf Meyer Wants Trump Afrikaner Refugee Plan Stopped",
-          "link": "https://allafrica.com/stories/202607210645.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-21T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "South Africa : Trump Watch - Roelf Meyer Wants Trump Afrikaner Refugee Plan Stopped"
-        },
-        {
-          "title": "Turkish Medical Association investigates doctor advertising  female circumcision",
-          "link": "https://bianet.org/haber/turkish-medical-association-investigates-doctor-advertising-female-circumcision-321739",
-          "source": "bianet.org",
-          "pubDate": "2026-07-21T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkish Medical Association investigates doctor advertising  female circumcision"
+          "titleIt": "Ethiopia opposition accuses government of pushing Tigray towards new war"
         },
         {
           "title": "Italy to use escape clause for energy investments says Meloni",
@@ -332,15 +287,6 @@
           "titleIt": "Italy to use escape clause for energy investments says Meloni"
         },
         {
-          "title": "Primate Ayodele warns presidents of African countries",
-          "link": "https://theeagleonline.com.ng/primate-ayodele-warns-presidents-of-african-countries/",
-          "source": "theeagleonline.com.ng",
-          "pubDate": "2026-07-21T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Primate Ayodele warns presidents of African countries"
-        },
-        {
           "title": "South Africa: Gauteng Taxis Could Shut Down Next Week",
           "link": "https://allafrica.com/stories/202607210646.html",
           "description": "[Scrolla] SANTACO and the Gauteng National Taxi Alliance have given Premier Panyaza Lesufi seven days to resolve their dispute with transport MEC Kedibone Diale-Tlabela. The industry says the MEC bypassed its elected leadership by meeting directly with individual taxi associations, breaking long-standing protocol.",
@@ -350,67 +296,40 @@
           "titleIt": "South Africa: Gauteng Taxis Could Shut Down Next Week"
         },
         {
-          "title": "America killed my son : The Ethiopians bombed by US in Yemen prison strike",
-          "link": "https://www.middleeasteye.net/news/america-killed-my-son-ethiopians-bombed-us-yemen",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-07-21T13:00:00Z",
+          "title": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio",
+          "link": "https://www.ansa.it/english/news/2026/07/17/gdp-up-0.4-q2-inflation-returns-to-2.5-in-july-says-confcommercio_988b6077-7200-4492-b2d9-1de711f383ce.html",
+          "description": "(ANSA) - ROME, JUL 17 - Italy's GDP was up 0.4% in the second quarter of this tear while inflation fell back to 2.5% in July, retail group Confcommercio said Friday. The geopolitical scenario, after a brief period of respite, has seen renewed tensions in the Middle East, making forecasts for the Italian economy \"slightly more uncertain and complex,\" \"still experiencing undeniable signs of liveliness overall,\" Confcommercio stated in its latest report, estimating a second quarter of further growth of 0.4%, with a 1.2% increase compared to the same period in 2025. The growth achieved to date all",
+          "pubDate": "Fri, 17 Jul 2026 13:12:44 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "America killed my son : The Ethiopians bombed by US in Yemen prison strike"
+          "titleIt": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio"
         },
         {
-          "title": "Ethiopia earns 128 mln USD from annual livestock exports despite Middle East instability",
-          "link": "http://www.bignewsnetwork.com/news/279201083/ethiopia-earns-128-mln-usd-from-annual-livestock-exports-despite-middle-east-instability",
-          "source": "bignewsnetwork.com",
-          "pubDate": "2026-07-21T13:00:00Z",
+          "title": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio",
+          "link": "https://www.ansa.it/english/news/business/2026/07/17/gdp-up-0.4-q2-inflation-returns-to-2.5-in-july-says-confcommercio_ae6094ff-a558-4d8c-b814-18993f4d81b1.html",
+          "description": "(ANSA) - ROME, JUL 17 - Italy's GDP was up 0.4% in the second quarter of this tear while inflation fell back to 2.5% in July, retail group Confcommercio said Friday. The geopolitical scenario, after a brief period of respite, has seen renewed tensions in the Middle East, making forecasts for the Italian economy \"slightly more uncertain and complex,\" \"still experiencing undeniable signs of liveliness overall,\" Confcommercio stated in its latest report, estimating a second quarter of further growth of 0.4%, with a 1.2% increase compared to the same period in 2025. The growth achieved to date all",
+          "pubDate": "Fri, 17 Jul 2026 13:12:03 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia earns 128 mln USD from annual livestock exports despite Middle East instability"
+          "titleIt": "GDP up 0.4% Q2, inflation returns to 2.5% in July says Confcommercio"
         },
         {
-          "title": "Bantu Holomisa keynote address at the Defence Industry Lekgotla | UDM",
-          "link": "https://udm.org.za/post/bantu-holomisas-keynote-address-at-the-defence-industry-lekgotla",
-          "source": "udm.org.za",
-          "pubDate": "2026-07-21T12:45:00Z",
+          "title": "Villa warned over sportswashing after Visit Rwanda deal",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
+          "description": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record.",
+          "pubDate": "Tue, 14 Jul 2026 18:44:04 GMT",
+          "source": "BBC Africa",
           "lang": "en",
-          "description": "",
-          "titleIt": "Bantu Holomisa keynote address at the Defence Industry Lekgotla | UDM"
+          "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
         },
         {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-07-21T05:30:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
-        },
-        {
-          "title": "As Sudan war crosses borders and millions are made refugees , could Ethiopia plan solve  humanity migration issue ? | Global development",
-          "link": "https://www.theguardian.com/global-development/2026/jul/21/ethiopian-plan-sudanese-refugees-migration-crisis-education-work",
-          "source": "theguardian.com",
-          "pubDate": "2026-07-21T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "As Sudan war crosses borders and millions are made refugees , could Ethiopia plan solve  humanity migration issue ? | Global development"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
-          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
-          "source": "aljazeera.com",
-          "pubDate": "2026-07-21T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
-        },
-        {
-          "title": "As Sudan war crosses borders and millions are made refugees , could Ethiopia plan solve  humanity migration issue ?",
-          "link": "https://www.aol.co.uk/articles/sudan-war-crosses-borders-millions-040009000.html",
-          "source": "aol.co.uk",
-          "pubDate": "2026-07-21T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "As Sudan war crosses borders and millions are made refugees , could Ethiopia plan solve  humanity migration issue ?"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -418,13 +337,184 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/19/an-expert-from-the-guardia-di-finanza-at-the-italian-embassy-in-riyadh_63c6c89e-7291-4ccf-b91e-63b3321a493a.html",
-          "description": "(ANSA) - IL CAIRO, 19 LUG - The Italian Embassy in Riyadh has strengthened its structure with the establishment of a Guardia di Finanza Office, headed by Colonel Alessandro Coscarelli in his capacity as an expert from the Corps. The opening of the new office represents an important step in consolidating the partnership between Italy and Saudi Arabia, with the goal of strengthening cooperation in the field of economic and financial security. It joins the other 29 Financial Police Expert offices currently part of the Corps’ overseas network at bilateral and multilateral diplomatic missions. The ",
-          "pubDate": "Sun, 19 Jul 2026 15:52:33 +0200",
-          "source": "ANSA English",
+          "title": "Submarines : Russian SSBN 15 Year Modernization",
+          "link": "http://www.strategypage.com/htmw/htsub/articles/2026072245155.aspx",
+          "source": "strategypage.com",
+          "pubDate": "2026-07-22T10:00:00Z",
           "lang": "en",
-          "titleIt": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh"
+          "description": "",
+          "titleIt": "Submarines : Russian SSBN 15 Year Modernization"
+        },
+        {
+          "title": "Yoga is recognised all over the world : Union Health Secretary Punya Salila Srivastava",
+          "link": "http://www.mexicostar.com/news/279202444/yoga-is-recognised-all-over-the-world-union-health-secretary-punya-salila-srivastava",
+          "source": "mexicostar.com",
+          "pubDate": "2026-07-22T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yoga is recognised all over the world : Union Health Secretary Punya Salila Srivastava"
+        },
+        {
+          "title": "Nigeria , Rwanda among Africa fastest markets for expansion , report says",
+          "link": "https://techcabal.com/2026/07/22/norebase-report-nigeria-rwanda-lead-africas-fastest-incorporation-markets/",
+          "source": "techcabal.com",
+          "pubDate": "2026-07-22T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nigeria , Rwanda among Africa fastest markets for expansion , report says"
+        },
+        {
+          "title": "Yoga is recognised all over the world : Union Health Secretary Punya Salila Srivastava",
+          "link": "http://www.heraldglobe.com/news/279202444/yoga-is-recognised-all-over-the-world-union-health-secretary-punya-salila-srivastava",
+          "source": "heraldglobe.com",
+          "pubDate": "2026-07-22T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yoga is recognised all over the world : Union Health Secretary Punya Salila Srivastava"
+        },
+        {
+          "title": "Ukraine - Russia war latest : Zelensky sacks armed forces chief in biggest military shakeup since Putin invasion",
+          "link": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-strikes-zelensky-military-chief-b3019222.html",
+          "source": "independent.co.uk",
+          "pubDate": "2026-07-22T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ukraine - Russia war latest : Zelensky sacks armed forces chief in biggest military shakeup since Putin invasion"
+        },
+        {
+          "title": "Houthi blockade of Saudi shipping threatens global oil and trade routes",
+          "link": "https://www.mcall.com/2026/07/21/houthi-blockade-saudi-shipping-global-trade/",
+          "source": "mcall.com",
+          "pubDate": "2026-07-22T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthi blockade of Saudi shipping threatens global oil and trade routes"
+        },
+        {
+          "title": "The Lesson Trump Can Take From Herodotu Paradox - The American Conservative",
+          "link": "https://www.theamericanconservative.com/the-lesson-trump-can-take-from-herodotus-paradox/",
+          "source": "theamericanconservative.com",
+          "pubDate": "2026-07-22T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Lesson Trump Can Take From Herodotu Paradox - The American Conservative"
+        },
+        {
+          "title": "Unlocking Shandong BRI Potential : From Comparative Advantage to Competitive Strategy",
+          "link": "https://pakobserver.net/unlocking-shandongs-bri-potential-from-comparative-advantage-to-competitive-strategy/",
+          "source": "pakobserver.net",
+          "pubDate": "2026-07-22T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Unlocking Shandong BRI Potential : From Comparative Advantage to Competitive Strategy"
+        },
+        {
+          "title": "War widens as US , Iran trade attacks",
+          "link": "http://global.chinadaily.com.cn/a/202607/22/WS6a6021cca310986e2b4669dd.html",
+          "source": "global.chinadaily.com.cn",
+          "pubDate": "2026-07-22T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "War widens as US , Iran trade attacks"
+        },
+        {
+          "title": "Energean ( LON : ENOG ) Trading 2 . 7 % Higher – Here What Happened",
+          "link": "https://www.tickerreport.com/banking-finance/13510719/energean-lonenog-trading-2-7-higher-heres-what-happened.html",
+          "source": "tickerreport.com",
+          "pubDate": "2026-07-22T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Energean ( LON : ENOG ) Trading 2 . 7 % Higher – Here What Happened"
+        },
+        {
+          "title": "Energean ( LON : ENOG ) Stock Price Up 2 . 7 % – Should You Buy ?",
+          "link": "https://www.dailypolitical.com/2026/07/21/energean-lonenog-stock-price-up-2-7-should-you-buy.html",
+          "source": "dailypolitical.com",
+          "pubDate": "2026-07-22T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Energean ( LON : ENOG ) Stock Price Up 2 . 7 % – Should You Buy ?"
+        },
+        {
+          "title": "Yoga is recognised all over the world : Union Health Secretary Punya Salila Srivastava",
+          "link": "http://www.batonrougepost.com/news/279202444/yoga-is-recognised-all-over-the-world-union-health-secretary-punya-salila-srivastava",
+          "source": "batonrougepost.com",
+          "pubDate": "2026-07-22T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yoga is recognised all over the world : Union Health Secretary Punya Salila Srivastava"
+        },
+        {
+          "title": "Why Trump Allies in Israel & AIPAC on the Hill are in Trouble",
+          "link": "https://www.juancole.com/2026/07/trumps-allies-trouble.html",
+          "source": "juancole.com",
+          "pubDate": "2026-07-22T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why Trump Allies in Israel & AIPAC on the Hill are in Trouble"
+        },
+        {
+          "title": "Yoga is recognised all over the world : Union Health Secretary Punya Salila Srivastava",
+          "link": "http://www.middleeaststar.com/news/279202444/yoga-is-recognised-all-over-the-world-union-health-secretary-punya-salila-srivastava",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-07-22T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yoga is recognised all over the world : Union Health Secretary Punya Salila Srivastava"
+        },
+        {
+          "title": "Yoga is recognised all over the world : Union Health Secretary Punya Salila Srivastava",
+          "link": "http://www.austinglobe.com/news/279202444/yoga-is-recognised-all-over-the-world-union-health-secretary-punya-salila-srivastava",
+          "source": "austinglobe.com",
+          "pubDate": "2026-07-22T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yoga is recognised all over the world : Union Health Secretary Punya Salila Srivastava"
+        },
+        {
+          "title": "The Big Read : Can Nigeria Become West Africa AI Compute Hub ?",
+          "link": "https://naija247news.com/the-big-read-can-nigeria-become-west-africas-ai-compute-hub/",
+          "source": "naija247news.com",
+          "pubDate": "2026-07-22T03:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Big Read : Can Nigeria Become West Africa AI Compute Hub ?"
+        },
+        {
+          "title": "Asian refiners look to Suez Canal to move Saudi oil amid Houthi shipping threats",
+          "link": "https://www.asiaone.com/asia/asian-refiners-look-suez-canal-move-saudi-oil-amid-houthi-shipping-threats",
+          "source": "asiaone.com",
+          "pubDate": "2026-07-22T03:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian refiners look to Suez Canal to move Saudi oil amid Houthi shipping threats"
+        },
+        {
+          "title": "中東風雲錄 -- 開欄文 ： 埃及的加薩重建方案 -- Al Jazeera - 時事論壇",
+          "link": "https://city.udn.com/2976/7247690?raid=7297303",
+          "source": "city.udn.com",
+          "pubDate": "2026-07-22T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "中東風雲錄 -- 開欄文 ： 埃及的加薩重建方案 -- Al Jazeera - 時事論壇"
+        },
+        {
+          "title": "Ryanair Earnings call April to June quarter 2026",
+          "link": "https://www.travelextra.ie/ryanair-earnings-call-april-to-june-quarter-2027/",
+          "source": "travelextra.ie",
+          "pubDate": "2026-07-22T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ryanair Earnings call April to June quarter 2026"
+        },
+        {
+          "title": "War widens as US , Iran trade attacks",
+          "link": "http://usa.chinadaily.com.cn/a/202607/22/WS6a6021cca310986e2b4669dd.html",
+          "source": "usa.chinadaily.com.cn",
+          "pubDate": "2026-07-22T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "War widens as US , Iran trade attacks"
         }
       ]
     },
