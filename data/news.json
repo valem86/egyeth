@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-07-21T23:16:03.084Z",
+  "generatedAt": "2026-07-22T03:51:34.603Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: One Dead As Puntland Security Forces Clash in Bosaso",
-          "link": "https://allafrica.com/stories/202607210648.html",
-          "description": "[Radio Dalsan] At least one Puntland Security Force soldier was killed on Sunday after gunfire erupted between PSF troops and Puntland's Dervish forces in the Madar-Jiif area, between the town of Laag and the port city of Bosaso, according to security sources.",
-          "pubDate": "Tue, 21 Jul 2026 13:58:36 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: One Dead As Puntland Security Forces Clash in Bosaso"
-        },
         {
           "title": "Ambassador to Senegal Opens Goreé School for Sustainable Migration",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/21/ambassador-to-senegal-opens-goree-school-for-sustainable-migration_b5abe349-a065-4483-be5b-c270792c7dec.html",
@@ -75,31 +66,67 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Somalia: One Dead As Puntland Security Forces Clash in Bosaso",
-          "link": "https://allafrica.com/stories/202607210648.html",
-          "description": "[Radio Dalsan] At least one Puntland Security Force soldier was killed on Sunday after gunfire erupted between PSF troops and Puntland's Dervish forces in the Madar-Jiif area, between the town of Laag and the port city of Bosaso, according to security sources.",
-          "pubDate": "Tue, 21 Jul 2026 13:58:36 GMT",
+          "title": "Ethiopia: Tigray's Old Grapevines Have Survived Against the Odds - New Research Uncovers Their Genetic and Historic Value",
+          "link": "https://allafrica.com/stories/202607220023.html",
+          "description": "[The Conversation Africa] The northern highlands of Ethiopia are among Africa's oldest agricultural landscapes. Some of the world's most important crops originated here, particularly pulses and grains, including teff. Yet another crop has a less well-known history in Ethiopia's Tigray region: the grapevine.",
+          "pubDate": "Wed, 22 Jul 2026 03:45:46 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: One Dead As Puntland Security Forces Clash in Bosaso"
+          "titleIt": "Ethiopia: Tigray's Old Grapevines Have Survived Against the Odds - New Research Uncovers Their Genetic and Historic Value"
         },
         {
-          "title": "Kenya: Disregard Fake Kenyans.Co.Ke Graphic Falsely Attributing Mt Kenya MP Rankings to Infotrak",
-          "link": "https://allafrica.com/stories/202607210642.html",
-          "description": "[Africa Check] IN SHORT: A graphic carrying the Kenyans.co.ke branding falsely claims polling firm InfoTrak ranked the worst-performing MPs in Kenya's Mt Kenya region. We found no such report, while the graphic contains fabricated scores, spelling mistakes and other signs it is fake.",
-          "pubDate": "Tue, 21 Jul 2026 13:53:51 GMT",
+          "title": "Kenya: What Happens After Dandora? Kenya's Green Transition Faces Its Hardest Test",
+          "link": "https://allafrica.com/stories/202607220013.html",
+          "description": "[African Arguments] For decades, thousands of Nairobi's poorest residents have quietly carried out one of the city's most important environmental services. Every day, informal waste pickers at Dandora sort, salvage and recover plastic, metal, paper, glass and electronic waste that would otherwise remain buried beneath one of Africa's largest and oldest dumpsites. In doing so, they help sustain Nairobi's recycling economy. Yet despite performing work that cities increasingly celebrate as part of the circular economy, they",
+          "pubDate": "Wed, 22 Jul 2026 03:45:35 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Disregard Fake Kenyans.Co.Ke Graphic Falsely Attributing Mt Kenya MP Rankings to Infotrak"
+          "titleIt": "Kenya: What Happens After Dandora? Kenya's Green Transition Faces Its Hardest Test"
         },
         {
-          "title": "Somalia: From Facebook Appeals to a Lifesaving Network - One Man's Mission to Transform Blood Donation in Somaliland",
+          "title": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History",
+          "link": "https://www.maravipost.com/cure-blindness-project-releases-2025-impact-report-marking-most-impactful-year-in-organizations-history-3/",
+          "source": "maravipost.com",
+          "pubDate": "2026-07-21T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History"
+        },
+        {
+          "title": "Christian convert poisoned to death in Somaliland",
+          "link": "https://www.christianpost.com/news/christian-convert-poisoned-to-death-in-somaliland.html",
+          "source": "christianpost.com",
+          "pubDate": "2026-07-21T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Christian convert poisoned to death in Somaliland"
+        },
+        {
+          "title": "Somalia : From Facebook Appeals to a Lifesaving Network - One Man Mission to Transform Blood Donation in Somaliland",
           "link": "https://allafrica.com/stories/202607210639.html",
-          "description": "[Horn Diplomat] Hargeisa, Somaliland -- For twelve years, medical laboratory professional Abdilaahi Abdi Muse has helped connect patients with blood donors through volunteer networks. Today, his grassroots humanitarian effort has evolved into Badbaado Blood, a digital platform designed to speed up life-saving blood donations across Somaliland",
-          "pubDate": "Tue, 21 Jul 2026 13:51:11 GMT",
-          "source": "AllAfrica",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-21T15:45:00Z",
           "lang": "en",
-          "titleIt": "Somalia: From Facebook Appeals to a Lifesaving Network - One Man's Mission to Transform Blood Donation in Somaliland"
+          "description": "",
+          "titleIt": "Somalia : From Facebook Appeals to a Lifesaving Network - One Man Mission to Transform Blood Donation in Somaliland"
+        },
+        {
+          "title": "Turkey still keeps Somalia out of its e - Visa system despite over $1 billion in aid , oil deals and access to the Horn of Africa",
+          "link": "https://horseedmedia.net/turkey-still-keeps-somalia-out-of-its-e-visa-system-despite-over-1-billion-in-aid-oil-deals-and-access-to-the-horn-of-africa/423951/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-07-20T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkey still keeps Somalia out of its e - Visa system despite over $1 billion in aid , oil deals and access to the Horn of Africa"
+        },
+        {
+          "title": "Former North Eastern State MP Fahiima Quuje Receives Warm Welcome in Hargeisa",
+          "link": "https://wardheernews.com/former-north-eastern-state-mp-fahiima-quuje-receives-warm-welcome-in-hargeisa/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-20T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Former North Eastern State MP Fahiima Quuje Receives Warm Welcome in Hargeisa"
         },
         {
           "title": "FIGC reportedly approached Guardiola for Italy job",
@@ -120,19 +147,118 @@
           "titleIt": "FIGC reportedly approached Guardiola for Italy job"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Can the US and Israel sustain a war of attrition with Iran ?",
+          "link": "https://www.jpost.com/middle-east/iran-news/article-903000",
+          "source": "jpost.com",
+          "pubDate": "2026-07-19T19:15:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Can the US and Israel sustain a war of attrition with Iran ?"
+        },
+        {
+          "title": "Egypt condemns Somaliland purported Jerusalem mission during talks with Somalia",
+          "link": "https://horseedmedia.net/egypt-condemns-somalilands-purported-jerusalem-mission-during-talks-with-somalia/423886/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-07-19T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt condemns Somaliland purported Jerusalem mission during talks with Somalia"
+        },
+        {
+          "title": "Egypt Urges Somalia to Secure Release of Kidnapped Sailors",
+          "link": "https://www.garoweonline.com/en/news/somalia/egypt-urges-somalia-to-secure-release-of-kidnapped-sailors",
+          "source": "garoweonline.com",
+          "pubDate": "2026-07-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Urges Somalia to Secure Release of Kidnapped Sailors"
+        },
+        {
+          "title": "Egypt and Turkey : Rapidly growing alliance putting old rivalry aside and alarming Israel",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/18/egypt-and-turkey-rapidly-growing-alliance-putting-old-rivalry-aside-and-alarming-israel/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-18T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt and Turkey : Rapidly growing alliance putting old rivalry aside and alarming Israel"
+        },
+        {
+          "title": "Armed Assailants Seize Chemical Tanker Off Yemen",
+          "link": "https://www.marinelink.com/news/armed-assailants-seize-chemical-tanker-541327",
+          "source": "marinelink.com",
+          "pubDate": "2026-07-17T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Armed Assailants Seize Chemical Tanker Off Yemen"
+        },
+        {
+          "title": "Could Somalia See The World Next Major Oil Discovery ?",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Could-Somalia-See-The-Worlds-Next-Major-Oil-Discovery.html",
+          "source": "oilprice.com",
+          "pubDate": "2026-07-16T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Could Somalia See The World Next Major Oil Discovery ?"
+        },
+        {
+          "title": "Middle East new security paradigm",
+          "link": "https://tribune.com.pk/story/2618449/middle-easts-new-security-paradigm",
+          "source": "tribune.com.pk",
+          "pubDate": "2026-07-15T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Middle East new security paradigm"
+        },
+        {
+          "title": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information",
+          "link": "https://shabait.com/2026/07/15/ethiopias-prosperity-party-delusional-precepts-as-tools-of-regional-destabilization/",
+          "source": "shabait.com",
+          "pubDate": "2026-07-15T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Prosperity Party : Delusional Precepts as Tools of Regional Destabilization – Eritrea Ministry Of Information"
+        },
+        {
+          "title": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation",
+          "link": "https://allafrica.com/stories/202607150058.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-15T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland , united kingdom Discuss Deeper Strategic Cooperation"
+        },
+        {
+          "title": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements",
+          "link": "https://wardheernews.com/the-geopolitical-theatre-of-the-horn-of-africa-sovereignty-rentier-statecraft-and-the-spectacle-of-security-agreements/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-15T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Geopolitical Theatre of the Horn of Africa : Sovereignty , Rentier Statecraft , and the Spectacle of Security Agreements"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "https://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ethiopia: Tigray's Old Grapevines Have Survived Against the Odds - New Research Uncovers Their Genetic and Historic Value",
+          "link": "https://allafrica.com/stories/202607220023.html",
+          "description": "[The Conversation Africa] The northern highlands of Ethiopia are among Africa's oldest agricultural landscapes. Some of the world's most important crops originated here, particularly pulses and grains, including teff. Yet another crop has a less well-known history in Ethiopia's Tigray region: the grapevine.",
+          "pubDate": "Wed, 22 Jul 2026 03:45:46 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Tigray's Old Grapevines Have Survived Against the Odds - New Research Uncovers Their Genetic and Historic Value"
+        },
         {
           "title": "Italy to use escape clause for energy investments says Meloni",
           "link": "https://www.ansa.it/english/news/2026/07/21/italy-to-use-escape-clause-for-energy-investments-says-meloni_91917435-d51c-461d-a936-ec8dc06e9866.html",
@@ -141,15 +267,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Italy to use escape clause for energy investments says Meloni"
-        },
-        {
-          "title": "Somalia: One Dead As Puntland Security Forces Clash in Bosaso",
-          "link": "https://allafrica.com/stories/202607210648.html",
-          "description": "[Radio Dalsan] At least one Puntland Security Force soldier was killed on Sunday after gunfire erupted between PSF troops and Puntland's Dervish forces in the Madar-Jiif area, between the town of Laag and the port city of Bosaso, according to security sources.",
-          "pubDate": "Tue, 21 Jul 2026 13:58:36 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: One Dead As Puntland Security Forces Clash in Bosaso"
         },
         {
           "title": "South Africa: Gauteng Taxis Could Shut Down Next Week",
@@ -202,190 +319,38 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Today in Africa : WAFCON 2026 in Morocco , U . S . tariff deadline threatens African exports",
-          "link": "https://www.okayafrica.com/today-in-africa-july-21-2026-wafcon-returns-africas-exports-to-the-us-face-tariff-uncertainty/1435779",
-          "source": "okayafrica.com",
-          "pubDate": "2026-07-21T22:45:00Z",
+          "title": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/19/an-expert-from-the-guardia-di-finanza-at-the-italian-embassy-in-riyadh_63c6c89e-7291-4ccf-b91e-63b3321a493a.html",
+          "description": "(ANSA) - IL CAIRO, 19 LUG - The Italian Embassy in Riyadh has strengthened its structure with the establishment of a Guardia di Finanza Office, headed by Colonel Alessandro Coscarelli in his capacity as an expert from the Corps. The opening of the new office represents an important step in consolidating the partnership between Italy and Saudi Arabia, with the goal of strengthening cooperation in the field of economic and financial security. It joins the other 29 Financial Police Expert offices currently part of the Corps’ overseas network at bilateral and multilateral diplomatic missions. The ",
+          "pubDate": "Sun, 19 Jul 2026 15:52:33 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Today in Africa : WAFCON 2026 in Morocco , U . S . tariff deadline threatens African exports"
-        },
-        {
-          "title": "Dow Jones jumps 386 points as global stocks take off",
-          "link": "http://www.newyorktelegraph.com/news/279201899/dow-jones-jumps-386-points-as-global-stocks-take-off",
-          "source": "newyorktelegraph.com",
-          "pubDate": "2026-07-21T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones jumps 386 points as global stocks take off"
-        },
-        {
-          "title": "Spain wins 2026 FIFA World Cup | Amandala Newspaper",
-          "link": "https://amandala.com.bz/news/spain-wins-2026-fifa-world-cup/",
-          "source": "amandala.com.bz",
-          "pubDate": "2026-07-21T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Spain wins 2026 FIFA World Cup | Amandala Newspaper"
-        },
-        {
-          "title": "Dow Jones jumps 386 points as global stocks take off",
-          "link": "http://www.parisguardian.com/news/279201899/dow-jones-jumps-386-points-as-global-stocks-take-off",
-          "source": "parisguardian.com",
-          "pubDate": "2026-07-21T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones jumps 386 points as global stocks take off"
-        },
-        {
-          "title": "Dow Jones jumps 386 points as global stocks take off",
-          "link": "http://www.phoenixherald.com/news/279201899/dow-jones-jumps-386-points-as-global-stocks-take-off",
-          "source": "phoenixherald.com",
-          "pubDate": "2026-07-21T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones jumps 386 points as global stocks take off"
-        },
-        {
-          "title": "Dow Jones jumps 386 points as global stocks take off",
-          "link": "http://www.philippinetimes.com/news/279201899/dow-jones-jumps-386-points-as-global-stocks-take-off",
-          "source": "philippinetimes.com",
-          "pubDate": "2026-07-21T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones jumps 386 points as global stocks take off"
-        },
-        {
-          "title": "Dow Jones jumps 386 points as global stocks take off",
-          "link": "http://www.tucsonpost.com/news/279201899/dow-jones-jumps-386-points-as-global-stocks-take-off",
-          "source": "tucsonpost.com",
-          "pubDate": "2026-07-21T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones jumps 386 points as global stocks take off"
-        },
-        {
-          "title": "Houthi blockade of Saudi shipping threatens global oil and trade routes",
-          "link": "https://www.fortmorgantimes.com/2026/07/21/houthi-blockade-saudi-shipping-global-trade/",
-          "source": "fortmorgantimes.com",
-          "pubDate": "2026-07-21T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Houthi blockade of Saudi shipping threatens global oil and trade routes"
-        },
-        {
-          "title": "Dow Jones jumps 386 points as global stocks take off",
-          "link": "http://www.newzealandstar.com/news/279201899/dow-jones-jumps-386-points-as-global-stocks-take-off",
-          "source": "newzealandstar.com",
-          "pubDate": "2026-07-21T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones jumps 386 points as global stocks take off"
-        },
-        {
-          "title": "Wall Street marches sharply higher as buyers climb back on board",
-          "link": "http://www.myanmarnews.net/news/279201899/wall-street-marches-sharply-higher-as-buyers-climb-back-on-board",
-          "source": "myanmarnews.net",
-          "pubDate": "2026-07-21T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street marches sharply higher as buyers climb back on board"
-        },
-        {
-          "title": "Wall Street marches sharply higher as buyers climb back on board",
-          "link": "http://www.australiannews.net/news/279201899/wall-street-marches-sharply-higher-as-buyers-climb-back-on-board",
-          "source": "australiannews.net",
-          "pubDate": "2026-07-21T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street marches sharply higher as buyers climb back on board"
-        },
-        {
-          "title": "Dow Jones jumps 386 points as global stocks take off",
-          "link": "http://www.brazilsun.com/news/279201899/dow-jones-jumps-386-points-as-global-stocks-take-off",
-          "source": "brazilsun.com",
-          "pubDate": "2026-07-21T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones jumps 386 points as global stocks take off"
-        },
-        {
-          "title": "Wall Street marches sharply higher as buyers climb back on board",
-          "link": "http://www.thailandnews.net/news/279201899/wall-street-marches-sharply-higher-as-buyers-climb-back-on-board",
-          "source": "thailandnews.net",
-          "pubDate": "2026-07-21T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street marches sharply higher as buyers climb back on board"
-        },
-        {
-          "title": "Dow Jones jumps 386 points as global stocks take off",
-          "link": "http://www.memphissun.com/news/279201899/dow-jones-jumps-386-points-as-global-stocks-take-off",
-          "source": "memphissun.com",
-          "pubDate": "2026-07-21T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones jumps 386 points as global stocks take off"
-        },
-        {
-          "title": "Beyond Algorithms : The Physical Assets Underpinning Africa AI Boom",
-          "link": "https://naija247news.com/beyond-algorithms-the-physical-assets-underpinning-africas-ai-boom/",
-          "source": "naija247news.com",
-          "pubDate": "2026-07-21T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Beyond Algorithms : The Physical Assets Underpinning Africa AI Boom"
-        },
-        {
-          "title": "Dow Jones jumps 386 points as global stocks take off",
-          "link": "http://www.vietnamtribune.com/news/279201899/dow-jones-jumps-386-points-as-global-stocks-take-off",
-          "source": "vietnamtribune.com",
-          "pubDate": "2026-07-21T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones jumps 386 points as global stocks take off"
-        },
-        {
-          "title": "Dow Jones jumps 386 points as global stocks take off",
-          "link": "http://www.taiwansun.com/news/279201899/dow-jones-jumps-386-points-as-global-stocks-take-off",
-          "source": "taiwansun.com",
-          "pubDate": "2026-07-21T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones jumps 386 points as global stocks take off"
-        },
-        {
-          "title": "Houthi blockade of Saudi shipping threatens global oil and trade routes",
-          "link": "https://www.mainlinemedianews.com/2026/07/21/houthi-blockade-saudi-shipping-global-trade/",
-          "source": "mainlinemedianews.com",
-          "pubDate": "2026-07-21T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Houthi blockade of Saudi shipping threatens global oil and trade routes"
-        },
-        {
-          "title": "Dow Jones jumps 386 points as global stocks take off",
-          "link": "http://www.baltimorestar.com/news/279201899/dow-jones-jumps-386-points-as-global-stocks-take-off",
-          "source": "baltimorestar.com",
-          "pubDate": "2026-07-21T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones jumps 386 points as global stocks take off"
-        },
-        {
-          "title": "Dow Jones jumps 386 points as global stocks take off",
-          "link": "http://www.utahindependent.com/news/279201899/dow-jones-jumps-386-points-as-global-stocks-take-off",
-          "source": "utahindependent.com",
-          "pubDate": "2026-07-21T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones jumps 386 points as global stocks take off"
+          "titleIt": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": []
+      "items": [
+        {
+          "title": "Sudan: Sudan Inflation Accelerates As Food and Transport Costs Drive Fresh Price Surge",
+          "link": "https://allafrica.com/stories/202607220017.html",
+          "description": "[Dabanga] Khartoum / Amsterdam -- Report by Suleiman Siri for Radio Dabanga",
+          "pubDate": "Wed, 22 Jul 2026 03:45:40 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudan Inflation Accelerates As Food and Transport Costs Drive Fresh Price Surge"
+        },
+        {
+          "title": "Sudan: Sudan's Health Minister - Cholera Outbreak in North Kordofan 'Contained'",
+          "link": "https://allafrica.com/stories/202607220016.html",
+          "description": "[Dabanga] Amsterdam / Khartoum / Kampala -- Sudan's Federal Minister of Health, Dr Haitham Mohamed Ibrahim, says cholera cases in the Mazroub area of North Kordofan have declined compared with recent weeks, while only a small number of cases have been recorded in Sheikan locality, with no evidence of wider transmission.",
+          "pubDate": "Wed, 22 Jul 2026 03:45:39 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudan's Health Minister - Cholera Outbreak in North Kordofan 'Contained'"
+        }
+      ]
     }
   }
 }
