@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T10:37:33.338Z",
+  "generatedAt": "2026-07-23T14:36:33.680Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -14,15 +14,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador to Senegal Opens Goreé School for Sustainable Migration"
-        },
-        {
-          "title": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/19/an-expert-from-the-guardia-di-finanza-at-the-italian-embassy-in-riyadh_63c6c89e-7291-4ccf-b91e-63b3321a493a.html",
-          "description": "(ANSA) - IL CAIRO, 19 LUG - The Italian Embassy in Riyadh has strengthened its structure with the establishment of a Guardia di Finanza Office, headed by Colonel Alessandro Coscarelli in his capacity as an expert from the Corps. The opening of the new office represents an important step in consolidating the partnership between Italy and Saudi Arabia, with the goal of strengthening cooperation in the field of economic and financial security. It joins the other 29 Financial Police Expert offices currently part of the Corps’ overseas network at bilateral and multilateral diplomatic missions. The ",
-          "pubDate": "Sun, 19 Jul 2026 15:52:33 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh"
         },
         {
           "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
@@ -47,6 +38,15 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenya: Nationwide Crackdown Ordered On Gangs",
+          "link": "https://allafrica.com/stories/202607230344.html",
+          "description": "[Capital FM] Nairobi -- Interior Cabinet Secretary Kipchumba Murkomen has directed police and detectives to intensify the crackdown on criminal gangs, saying Kenya has now reached a national consensus that goons must be dealt with firmly.",
+          "pubDate": "Thu, 23 Jul 2026 11:37:36 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Nationwide Crackdown Ordered On Gangs"
+        },
         {
           "title": "Kenya: Treasury Reverses 2026 Economic Growth From 5.3pc to 5pc",
           "link": "https://allafrica.com/stories/202607230194.html",
@@ -88,6 +88,42 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Calcio: Rocca attacca Lotito su Lazio, \"nessun rapporto, e' in conflitto con se stesso\" (2)",
+          "link": "https://www.agenzianova.com/a/6a6226ef2a2b35.98381693/7635663/2026-07-23/calcio-rocca-attacca-lotito-su-lazio-nessun-rapporto-e-in-conflitto-con-se-stesso-2",
+          "description": "23 lug 16:32 - (Agenzia Nova) - Il governatore ha spiegato di non aver piu' sentito il presidente biancoceleste dopo le sue ultime esternazioni:... (Rer)",
+          "pubDate": "2026-07-23T16:32:30+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Calcio: Rocca attacca Lotito su Lazio, \"nessun rapporto, e' in conflitto con se stesso\" (2)"
+        },
+        {
+          "title": "Calcio: Rocca attacca Lotito su Lazio, \"nessun rapporto, e' in conflitto con se stesso\"",
+          "link": "https://www.agenzianova.com/a/6a6226ef2a4ed2.23463072/7635662/2026-07-23/calcio-rocca-attacca-lotito-su-lazio-nessun-rapporto-e-in-conflitto-con-se-stesso",
+          "description": "23 lug 16:32 - (Agenzia Nova) - Nuovo affondo del presidente della Regione Lazio, Francesco Rocca, nei confronti di Claudio Lotito. Rocca e'... (Rer)",
+          "pubDate": "2026-07-23T16:32:30+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Calcio: Rocca attacca Lotito su Lazio, \"nessun rapporto, e' in conflitto con se stesso\""
+        },
+        {
+          "title": "No rush to find new Italy coach says Maldini",
+          "link": "https://www.ansa.it/english/news/sports/2026/07/23/no-rush-to-find-new-italy-coach-says-maldini_edac5db3-5536-4ab7-bc45-8494f10635be.html",
+          "description": "(ANSA) - ROME, JUL 23 - The Italian Soccer Federation's (FIGC) new Technical Director Paolo Maldini said Thursday that he was not in a rush to appoint a new coach for the national team. Earlier this week FIGC President Giovanni Malagò confirmed reports that the federation had approached Pep Guardiola about taking on the role and Maldini added on Thursday that they have looked up Brazil coach Carlo Ancelotti too. \"Ideally, it would be this week, but, above all, we need to wait for the person we really want,\" Maldini said after he, Malagò and FIGC consultant Leonardo had a meeting with Serie A c",
+          "pubDate": "Thu, 23 Jul 2026 15:25:37 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "No rush to find new Italy coach says Maldini"
+        },
+        {
+          "title": "No rush to find new Italy coach says Maldini",
+          "link": "https://www.ansa.it/english/news/2026/07/23/no-rush-to-find-new-italy-coach-says-maldini_826da0ed-e7c6-4219-a443-83754d94cf60.html",
+          "description": "(ANSA) - ROME, JUL 23 - The Italian Soccer Federation's (FIGC) new Technical Director Paolo Maldini said Thursday that he was not in a rush to appoint a new coach for the national team. Earlier this week FIGC President Giovanni Malagò confirmed reports that the federation had approached Pep Guardiola about taking on the role and Maldini added on Thursday that they have looked up Brazil coach Carlo Ancelotti too. \"Ideally, it would be this week, but, above all, we need to wait for the person we really want,\" Maldini said after he, Malagò and FIGC consultant Leonardo had a meeting with Serie A c",
+          "pubDate": "Thu, 23 Jul 2026 15:22:41 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "No rush to find new Italy coach says Maldini"
+        },
         {
           "title": "Liberia: Eugene Nagbe Alleges Official Collusion in Liberia's Cocaine Trade, Disputes Government's U.S.$19 Million Valuation",
           "link": "https://allafrica.com/stories/202607220536.html",
@@ -182,40 +218,12 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Woman, 55, dies two months after being hit in Modena car attack"
-        },
-        {
-          "title": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/19/an-expert-from-the-guardia-di-finanza-at-the-italian-embassy-in-riyadh_63c6c89e-7291-4ccf-b91e-63b3321a493a.html",
-          "description": "(ANSA) - IL CAIRO, 19 LUG - The Italian Embassy in Riyadh has strengthened its structure with the establishment of a Guardia di Finanza Office, headed by Colonel Alessandro Coscarelli in his capacity as an expert from the Corps. The opening of the new office represents an important step in consolidating the partnership between Italy and Saudi Arabia, with the goal of strengthening cooperation in the field of economic and financial security. It joins the other 29 Financial Police Expert offices currently part of the Corps’ overseas network at bilateral and multilateral diplomatic missions. The ",
-          "pubDate": "Sun, 19 Jul 2026 15:52:33 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "An expert from the Guardia di Finanza at the Italian Embassy in Riyadh"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": [
-        {
-          "title": "Lavoro: Roccella, cresce il lavoro femminile, assegno unico garantito",
-          "link": "https://www.agenzianova.com/a/6a61eeeadfba23.88640130/7634563/2026-07-23/lavoro-roccella-cresce-il-lavoro-femminile-assegno-unico-garantito",
-          "description": "23 lug 12:33 - (Agenzia Nova) - \"Il piccolo grande record che abbiamo raggiunto e' significativo proprio perche' per molti anni il livello... (Rin)",
-          "pubDate": "2026-07-23T12:33:37+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Lavoro: Roccella, cresce il lavoro femminile, assegno unico garantito"
-        },
-        {
-          "title": "Sudan: Hunger, Disease, Dispair - Darfur's Displaced Bear Ever-Mounting Toll of Sudan War",
-          "link": "https://allafrica.com/stories/202607220394.html",
-          "description": "[Dabanga] Darfur / Amsterdam -- The General Coordination of Camps for the Displaced and Refugees in Darfur warns of a catastrophic deterioration in humanitarian conditions across displacement camps in Sudan's Darfur region. Yagoub Furi, the coordination's general coordinator, tells Radio Dabanga that camps in North Darfur - with the exception of Tawila camp - are experiencing a complete absence of food aid, particularly the camps at Fata Borno, Kutum and Kassab.",
-          "pubDate": "Wed, 22 Jul 2026 12:21:39 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Hunger, Disease, Dispair - Darfur's Displaced Bear Ever-Mounting Toll of Sudan War"
-        }
-      ]
+      "items": []
     }
   }
 }
