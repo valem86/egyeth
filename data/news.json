@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-24T10:30:48.898Z",
+  "generatedAt": "2026-07-24T14:16:28.874Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Africa: AU, U.S. Envoy Discuss Aussom's Future Amid Funding Uncertainty",
+          "link": "https://allafrica.com/stories/202607240402.html",
+          "description": "[Shabelle] Mogadishu -- The head of the African Union Support and Stabilization Mission in Somalia (AUSSOM) met the acting U.S. ambassador to Somalia in Mogadishu to discuss the mission's future as it faces growing financial uncertainty, the AU mission said.",
+          "pubDate": "Fri, 24 Jul 2026 12:20:52 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: AU, U.S. Envoy Discuss Aussom's Future Amid Funding Uncertainty"
+        },
         {
           "title": "Ambassador to Senegal Opens Goreé School for Sustainable Migration",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/21/ambassador-to-senegal-opens-goree-school-for-sustainable-migration_b5abe349-a065-4483-be5b-c270792c7dec.html",
@@ -38,6 +47,15 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Africa: AU, U.S. Envoy Discuss Aussom's Future Amid Funding Uncertainty",
+          "link": "https://allafrica.com/stories/202607240402.html",
+          "description": "[Shabelle] Mogadishu -- The head of the African Union Support and Stabilization Mission in Somalia (AUSSOM) met the acting U.S. ambassador to Somalia in Mogadishu to discuss the mission's future as it faces growing financial uncertainty, the AU mission said.",
+          "pubDate": "Fri, 24 Jul 2026 12:20:52 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: AU, U.S. Envoy Discuss Aussom's Future Amid Funding Uncertainty"
+        },
         {
           "title": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf",
           "link": "https://www.ansa.it/english/news/business/2026/07/24/confindustria-sounds-alarm-about-outlook-amid-fresh-conflict-in-the-gulf_3bba7108-3ccb-4174-b87a-60ff87a88521.html",
@@ -111,15 +129,6 @@
           "titleIt": "Gate of Tears : How key shipping route Bab al - Mandab became next front in the US - Iran war"
         },
         {
-          "title": "Kenya: Nationwide Crackdown Ordered On Gangs",
-          "link": "https://allafrica.com/stories/202607230344.html",
-          "description": "[Capital FM] Nairobi -- Interior Cabinet Secretary Kipchumba Murkomen has directed police and detectives to intensify the crackdown on criminal gangs, saying Kenya has now reached a national consensus that goons must be dealt with firmly.",
-          "pubDate": "Thu, 23 Jul 2026 11:37:36 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Nationwide Crackdown Ordered On Gangs"
-        },
-        {
           "title": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History",
           "link": "https://www.maravipost.com/cure-blindness-project-releases-2025-impact-report-marking-most-impactful-year-in-organizations-history-3/",
           "source": "maravipost.com",
@@ -165,24 +174,6 @@
           "titleIt": "Former North Eastern State MP Fahiima Quuje Receives Warm Welcome in Hargeisa"
         },
         {
-          "title": "FIGC reportedly approached Guardiola for Italy job",
-          "link": "https://www.ansa.it/english/news/sports/2026/07/20/figc-reportedly-approached-guardiola-for-italy-job_440e85d1-ec33-4bd4-b49c-2e8586eaaa2a.html",
-          "description": "(ANSA) - ROME, JUL 20 - Italian Soccer Federation (FIGC) technical director Paolo Maldini and consultant Leonardo have been spotted in Barcelona, amid reports by Sky Sport that they met Pep Guardiola at the weekend to talk to him about the vacant position of Italy coach. The former Barcelona, Bayern Munich and Manchester City boss is currently taking a break from soccer after 10 years in the Premier League. Other options include Andrea Pirlo and Roberto Mancini. 2006 World Cup hero Pirlo is the manager of UAE First Division League club Dubai United, while former Italy coach Mancini is currentl",
-          "pubDate": "Mon, 20 Jul 2026 18:04:42 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "FIGC reportedly approached Guardiola for Italy job"
-        },
-        {
-          "title": "FIGC reportedly approached Guardiola for Italy job",
-          "link": "https://www.ansa.it/english/news/2026/07/20/figc-reportedly-approached-guardiola-for-italy-job_d2590bf0-657c-4c91-958c-89a4742d27b7.html",
-          "description": "(ANSA) - ROME, JUL 20 - Italian Soccer Federation (FIGC) technical director Paolo Maldini and consultant Leonardo have been spotted in Barcelona, amid reports by Sky Sport that they met Pep Guardiola at the weekend to talk to him about the vacant position of Italy coach. The former Barcelona, Bayern Munich and Manchester City boss is currently taking a break from soccer after 10 years in the Premier League. Other options include Andrea Pirlo and Roberto Mancini. 2006 World Cup hero Pirlo is the manager of UAE First Division League club Dubai United, while former Italy coach Mancini is currentl",
-          "pubDate": "Mon, 20 Jul 2026 17:53:50 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "FIGC reportedly approached Guardiola for Italy job"
-        },
-        {
           "title": "Can the US and Israel sustain a war of attrition with Iran ?",
           "link": "https://www.jpost.com/middle-east/iran-news/article-903000",
           "source": "jpost.com",
@@ -217,12 +208,39 @@
           "lang": "en",
           "description": "",
           "titleIt": "Egypt and Turkey : Rapidly growing alliance putting old rivalry aside and alarming Israel"
+        },
+        {
+          "title": "Armed Assailants Seize Chemical Tanker Off Yemen",
+          "link": "https://www.marinelink.com/news/armed-assailants-seize-chemical-tanker-541327",
+          "source": "marinelink.com",
+          "pubDate": "2026-07-17T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Armed Assailants Seize Chemical Tanker Off Yemen"
+        },
+        {
+          "title": "Could Somalia See The World Next Major Oil Discovery ?",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Could-Somalia-See-The-Worlds-Next-Major-Oil-Discovery.html",
+          "source": "oilprice.com",
+          "pubDate": "2026-07-16T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Could Somalia See The World Next Major Oil Discovery ?"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Africa: AU, U.S. Envoy Discuss Aussom's Future Amid Funding Uncertainty",
+          "link": "https://allafrica.com/stories/202607240402.html",
+          "description": "[Shabelle] Mogadishu -- The head of the African Union Support and Stabilization Mission in Somalia (AUSSOM) met the acting U.S. ambassador to Somalia in Mogadishu to discuss the mission's future as it faces growing financial uncertainty, the AU mission said.",
+          "pubDate": "Fri, 24 Jul 2026 12:20:52 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: AU, U.S. Envoy Discuss Aussom's Future Amid Funding Uncertainty"
+        },
         {
           "title": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf",
           "link": "https://www.ansa.it/english/news/business/2026/07/24/confindustria-sounds-alarm-about-outlook-amid-fresh-conflict-in-the-gulf_3bba7108-3ccb-4174-b87a-60ff87a88521.html",
@@ -278,15 +296,6 @@
           "titleIt": "Rome to host meeting for Two-State solution July 28-29 - Tajani"
         },
         {
-          "title": "Ethiopia opposition accuses government of pushing Tigray towards new war",
-          "link": "http://www.africanews.com/2026/07/22/ethiopia-opposition-accuses-government-of-pushing-tigray-towards-new-war/",
-          "description": "Ethiopia's opposition People's Revolutionary Party has accused the federal government of pushing the northern Tigray region towards a new war. The EPRP says Addis Ababa is waging a propaganda campaign to psychologically prepare public opinion for conflict.",
-          "pubDate": "Wed, 22 Jul 2026 09:24:24 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopia opposition accuses government of pushing Tigray towards new war"
-        },
-        {
           "title": "Italy to use escape clause for energy investments says Meloni",
           "link": "https://www.ansa.it/english/news/2026/07/21/italy-to-use-escape-clause-for-energy-investments-says-meloni_91917435-d51c-461d-a936-ec8dc06e9866.html",
           "description": "(ANSA) - ROME, JUL 21 - Premier Giorgia Meloni said Tuesday that Italy will use the escape clause created by the European Commission after Italy called for the flexibility in the Stability and Growth Pact for defence spending to be extended to energy investments in the wake of the price spikes triggered by the Iran war. Her office said that the decision was made during a meeting with the leaders of the other parties supporting her ruling coalition. \"There was full agreement on the proposal to make use of the greater flexibility allowed by European rules and to concentrate greater spending capa",
@@ -319,15 +328,6 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Egitto-Italia: il 3 settembre forum imprenditoriale al Cairo (2)",
-          "link": "https://www.agenzianova.com/a/6a633e75641c13.22267835/7638477/2026-07-24/egitto-italia-il-3-settembre-forum-imprenditoriale-al-cairo-2",
-          "description": "24 lug 12:05 - (Agenzia Nova) - L'economia egiziana, come sottolineato da Agenzia Ice, sta attraversando una fase di ripresa, sostenuta da... (Res)",
-          "pubDate": "2026-07-24T12:05:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto-Italia: il 3 settembre forum imprenditoriale al Cairo (2)"
-        },
-        {
           "title": "Egypt's intense heatwave strains workers and disrupts economy",
           "link": "http://www.africanews.com/2026/07/22/egypts-intense-heatwave-strains-workers-and-disrupts-economy/",
           "description": "With the intense heat expected to continue over the next few days, officials are urging citizens to avoid direct sun exposure during peak hours and to stay well-hydrated.",
@@ -359,6 +359,15 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "South Sudan: Arms Smuggling - a Key Threat to South Sudan's December Elections",
+          "link": "https://allafrica.com/stories/202607240403.html",
+          "description": "[ISS] South Sudan's fragile transition is increasingly shaped by forces beyond its borders that drive illicit arms flows into the country.",
+          "pubDate": "Fri, 24 Jul 2026 12:21:33 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "South Sudan: Arms Smuggling - a Key Threat to South Sudan's December Elections"
+        },
         {
           "title": "Sudan: 80 Sudanese Leave Uganda On Voluntary Return Flight",
           "link": "https://allafrica.com/stories/202607230891.html",
