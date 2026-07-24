@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-24T17:55:08.834Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-07-24T19:50:42.802Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/24/launch-of-a-cooperation-project-for-womens-and-girls-leadership-in-senegal_462cdc6a-ba23-42f4-aaee-e4f0d3190049.html",
+          "description": "(ANSA) - IL CAIRO, 24 LUG - The Italian Ambassador to Senegal, Michele Tommasi, spoke at the first meeting of the National Steering Committee for the Parel/F project—an initiative funded by Italian Cooperation to strengthen the leadership and socioeconomic inclusion of women and girls in Senegal—to reaffirm Italy’s support for this initiative. The meeting was opened by the Chief of Staff of the Ministry of Family, Social Action, and Solidarity, Amadou Diaw, and by the Director of AICS Dakar, Giovanni Grandi, officially launching the project’s operational phase. This first meeting made it possi",
+          "pubDate": "Fri, 24 Jul 2026 19:55:54 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal"
+        },
         {
           "title": "Africa: AU, U.S. Envoy Discuss Aussom's Future Amid Funding Uncertainty",
           "link": "https://allafrica.com/stories/202607240402.html",
@@ -23,24 +32,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador to Senegal Opens Goreé School for Sustainable Migration"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -51,10 +42,19 @@
           "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
           "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
           "description": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
-          "pubDate": "Fri, 24 Jul 2026 15:22:40 GMT",
+          "pubDate": "Fri, 24 Jul 2026 18:13:02 GMT",
           "source": "BBC World",
           "lang": "en",
           "titleIt": "US and Iran trade more strikes in Gulf as fears of escalation mount"
+        },
+        {
+          "title": "Golfo: \"Wsj\", caccia Bahrein e Kuwait hanno colpito l'Iran, e' la prima rappresaglia diretta (5)",
+          "link": "https://www.agenzianova.com/a/6a63c163c8cc10.91788334/7640582/2026-07-24/golfo-wsj-caccia-bahrein-e-kuwait-hanno-colpito-l-iran-e-la-prima-rappresaglia-diretta-5",
+          "description": "24 lug 20:06 - (Agenzia Nova) - Nel corso del conflitto, ormai giunto al quinto mese, le esportazioni di petrolio del Golfo sono state gravemente... (Was)",
+          "pubDate": "2026-07-24T20:06:32+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Golfo: \"Wsj\", caccia Bahrein e Kuwait hanno colpito l'Iran, e' la prima rappresaglia diretta (5)"
         },
         {
           "title": "Africa: AU, U.S. Envoy Discuss Aussom's Future Amid Funding Uncertainty",
@@ -217,21 +217,30 @@
           "lang": "en",
           "description": "",
           "titleIt": "Armed Assailants Seize Chemical Tanker Off Yemen"
-        },
-        {
-          "title": "Could Somalia See The World Next Major Oil Discovery ?",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Could-Somalia-See-The-Worlds-Next-Major-Oil-Discovery.html",
-          "source": "oilprice.com",
-          "pubDate": "2026-07-16T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Could Somalia See The World Next Major Oil Discovery ?"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Golfo: \"Wsj\", caccia Bahrein e Kuwait hanno colpito l'Iran, e' la prima rappresaglia diretta (5)",
+          "link": "https://www.agenzianova.com/a/6a63c163c8cc10.91788334/7640582/2026-07-24/golfo-wsj-caccia-bahrein-e-kuwait-hanno-colpito-l-iran-e-la-prima-rappresaglia-diretta-5",
+          "description": "24 lug 20:06 - (Agenzia Nova) - Nel corso del conflitto, ormai giunto al quinto mese, le esportazioni di petrolio del Golfo sono state gravemente... (Was)",
+          "pubDate": "2026-07-24T20:06:32+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Golfo: \"Wsj\", caccia Bahrein e Kuwait hanno colpito l'Iran, e' la prima rappresaglia diretta (5)"
+        },
+        {
+          "title": "Golfo: \"Wsj\", caccia Bahrein e Kuwait hanno colpito l'Iran, e' la prima rappresaglia diretta (2)",
+          "link": "https://www.agenzianova.com/a/6a63c163c92975.25213356/7640579/2026-07-24/golfo-wsj-caccia-bahrein-e-kuwait-hanno-colpito-l-iran-e-la-prima-rappresaglia-diretta-2",
+          "description": "24 lug 20:06 - (Agenzia Nova) - Gli Emirati hanno dichiarato di sostenere una riduzione delle tensioni nella regione, inclusa la piena riapertura... (Was)",
+          "pubDate": "2026-07-24T20:06:32+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Golfo: \"Wsj\", caccia Bahrein e Kuwait hanno colpito l'Iran, e' la prima rappresaglia diretta (2)"
+        },
         {
           "title": "Africa Intelligence Brief July 24 : The Verdict and the Vigil",
           "link": "https://www.riotimesonline.com/africa-intelligence-brief-friday-july-24-2026/",
@@ -393,24 +402,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "FECCLAHA , ACCORD and NCA collaborate for the Annual Faith Women Mediation Network Forum – ACCORD"
-        },
-        {
-          "title": "What the history of foreign troops on Kenyan soil ? Here a brief rundown",
-          "link": "https://theconversation.com/whats-the-history-of-foreign-troops-on-kenyan-soil-heres-a-brief-rundown-172687",
-          "source": "theconversation.com",
-          "pubDate": "2026-07-23T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "What the history of foreign troops on Kenyan soil ? Here a brief rundown"
-        },
-        {
-          "title": "No rush to find new Italy coach says Maldini",
-          "link": "https://www.ansa.it/english/news/sports/2026/07/23/no-rush-to-find-new-italy-coach-says-maldini_edac5db3-5536-4ab7-bc45-8494f10635be.html",
-          "description": "(ANSA) - ROME, JUL 23 - The Italian Soccer Federation's (FIGC) new Technical Director Paolo Maldini said Thursday that he was not in a rush to appoint a new coach for the national team. Earlier this week FIGC President Giovanni Malagò confirmed reports that the federation had approached Pep Guardiola about taking on the role and Maldini added on Thursday that they have looked up Brazil coach Carlo Ancelotti too. \"Ideally, it would be this week, but, above all, we need to wait for the person we really want,\" Maldini said after he, Malagò and FIGC consultant Leonardo had a meeting with Serie A c",
-          "pubDate": "Thu, 23 Jul 2026 15:25:37 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "No rush to find new Italy coach says Maldini"
         }
       ]
     },
@@ -418,184 +409,31 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "US sanctions  Muslim Brotherhood ,  Hamas Financial Networks",
-          "link": "https://aninews.in/news/world/us/us-sanctions-muslim-brotherhood-hamas-financial-networks20260724211015/",
-          "source": "aninews.in",
-          "pubDate": "2026-07-24T17:30:00Z",
+          "title": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/24/launch-of-a-cooperation-project-for-womens-and-girls-leadership-in-senegal_462cdc6a-ba23-42f4-aaee-e4f0d3190049.html",
+          "description": "(ANSA) - IL CAIRO, 24 LUG - The Italian Ambassador to Senegal, Michele Tommasi, spoke at the first meeting of the National Steering Committee for the Parel/F project—an initiative funded by Italian Cooperation to strengthen the leadership and socioeconomic inclusion of women and girls in Senegal—to reaffirm Italy’s support for this initiative. The meeting was opened by the Chief of Staff of the Ministry of Family, Social Action, and Solidarity, Amadou Diaw, and by the Director of AICS Dakar, Giovanni Grandi, officially launching the project’s operational phase. This first meeting made it possi",
+          "pubDate": "Fri, 24 Jul 2026 19:55:54 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "US sanctions  Muslim Brotherhood ,  Hamas Financial Networks"
+          "titleIt": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal"
         },
         {
-          "title": "Trump set to impose sweeping tariffs on 60 trade partners",
-          "link": "https://www.kake.com/news/national/trump-set-to-impose-sweeping-tariffs-on-60-trade-partners/article_35a9fec0-d99f-4b3a-b993-22e21b22f224.html",
-          "source": "kake.com",
-          "pubDate": "2026-07-24T17:30:00Z",
+          "title": "Woman, 55, dies two months after being hit in Modena car attack",
+          "link": "https://www.ansa.it/english/news/general_news/2026/07/22/woman-55-dies-two-months-after-being-hit-in-modena-car-attack_3644f5fc-3054-4fc0-ab52-f5e9b280caf5.html",
+          "description": "(ANSA) - ROME, JUL 22 - A 55-year-old woman who was among the people hit by a car attack in the northern city of Modena on May 16 has died, the hospital she was being treated at said on Wednesday. Monica Esposito never regained consciousness after the attack by a 31-year-old Italian citizen of Moroccan origin with mental-health problems, Salim El Koudri. After driving into the pedestrians with his car, El Koudri pulled a knife when passers-by, including two Egyptian men, grappled him to ground. Esposito was among eight people injured in the attack. El Koudri is an economics graduate who had no",
+          "pubDate": "Wed, 22 Jul 2026 16:04:12 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Trump set to impose sweeping tariffs on 60 trade partners"
+          "titleIt": "Woman, 55, dies two months after being hit in Modena car attack"
         },
         {
-          "title": "Africa Growth Surge Threatens Latin America Clout",
-          "link": "https://www.riotimesonline.com/a-new-growth-pole-how-africa-s-surge-reorders-the-global-2026-07-24/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-07-24T17:30:00Z",
+          "title": "Woman, 55, dies two months after being hit in Modena car attack",
+          "link": "https://www.ansa.it/english/news/2026/07/22/woman-55-dies-two-months-after-being-hit-in-modena-car-attack_dd1afbb5-d5a2-4568-a9ce-13218f265f0b.html",
+          "description": "(ANSA) - ROME, JUL 22 - A 55-year-old woman who was among the people hit by a car attack in the northern city of Modena on May 16 has died, the hospital she was being treated at said on Wednesday. Monica Esposito never regained consciousness after the attack by a 31-year-old Italian citizen of Moroccan origin with mental-health problems, Salim El Koudri. After driving into the pedestrians with his car, El Koudri pulled a knife when passers-by, including two Egyptian men, grappled him to ground. Esposito was among eight people injured in the attack. El Koudri is an economics graduate who had no",
+          "pubDate": "Wed, 22 Jul 2026 16:03:02 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Africa Growth Surge Threatens Latin America Clout"
-        },
-        {
-          "title": "North Africa $104 . 9B Gap : What Latin America Learned",
-          "link": "https://www.riotimesonline.com/the-limits-of-policy-without-growth-north-africa-s-strain-2026-07-24/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-07-24T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "North Africa $104 . 9B Gap : What Latin America Learned"
-        },
-        {
-          "title": "China technological rise offers new opportunities for digital transformation in developing economies -- expert",
-          "link": "http://www.hongkongherald.com/news/279207848/china-technological-rise-offers-new-opportunities-for-digital-transformation-in-developing-economies-expert",
-          "source": "hongkongherald.com",
-          "pubDate": "2026-07-24T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China technological rise offers new opportunities for digital transformation in developing economies -- expert"
-        },
-        {
-          "title": "U . S . military launches new strikes on Iran as clashes escalate over shipping routes",
-          "link": "https://www.santafenewmexican.com/news/u-s-military-launches-new-strikes-on-iran-as-clashes-escalate-over-shipping-routes/article_c797d646-71ac-5147-b455-43d9a2660773.html",
-          "source": "santafenewmexican.com",
-          "pubDate": "2026-07-24T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . military launches new strikes on Iran as clashes escalate over shipping routes"
-        },
-        {
-          "title": "TERROR FINANCE CRACKDOWN : U . S . Sanctions Muslim Brotherhood And Hamas Networks",
-          "link": "https://www.theyeshivaworld.com/news/israel-news/2578305/terror-finance-crackdown-u-s-sanctions-muslim-brotherhood-and-hamas-networks.html",
-          "source": "theyeshivaworld.com",
-          "pubDate": "2026-07-24T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "TERROR FINANCE CRACKDOWN : U . S . Sanctions Muslim Brotherhood And Hamas Networks"
-        },
-        {
-          "title": "Food security and child nutrition crises persist in Gaza despite fragile gains due to increased humanitarian assistance and commercial traffic",
-          "link": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260723-fao01.htm",
-          "source": "globalsecurity.org",
-          "pubDate": "2026-07-24T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Food security and child nutrition crises persist in Gaza despite fragile gains due to increased humanitarian assistance and commercial traffic"
-        },
-        {
-          "title": "Food security and child nutrition crises persist in Gaza despite fragile gains due to increased humanitarian assistance and commercial traffic",
-          "link": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260723-unicef01.htm",
-          "source": "globalsecurity.org",
-          "pubDate": "2026-07-24T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Food security and child nutrition crises persist in Gaza despite fragile gains due to increased humanitarian assistance and commercial traffic"
-        },
-        {
-          "title": "Bumpy grapefruit and orange sales , a divided lemon season , and variety innovation in the mandarin portfolio",
-          "link": "https://www.freshplaza.com/north-america/article/9860543/bumpy-grapefruit-and-orange-sales-a-divided-lemon-season-and-variety-innovation-in-the-mandarin-portfolio/",
-          "source": "freshplaza.com",
-          "pubDate": "2026-07-24T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Bumpy grapefruit and orange sales , a divided lemon season , and variety innovation in the mandarin portfolio"
-        },
-        {
-          "title": "Open Call for Arab Youth Hackathon - fundsforNGOs",
-          "link": "https://www2.fundsforngos.org/innovation/open-call-for-arab-youth-hackathon/",
-          "source": "fundsforngos.org",
-          "pubDate": "2026-07-24T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Open Call for Arab Youth Hackathon - fundsforNGOs"
-        },
-        {
-          "title": "Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks",
-          "link": "https://www.globalsecurity.org/security/library/news/2026/07/sec-260723-treasury02.htm",
-          "source": "globalsecurity.org",
-          "pubDate": "2026-07-24T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks"
-        },
-        {
-          "title": "Transcript of the Press Briefing by the Spokesperson on Thursday 23rd July 2026",
-          "link": "https://www.globalsecurity.org/wmd/library/news/pakistan/2026/pakistan-260723-pakistan-mfab01.htm",
-          "source": "globalsecurity.org",
-          "pubDate": "2026-07-24T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Transcript of the Press Briefing by the Spokesperson on Thursday 23rd July 2026"
-        },
-        {
-          "title": "The Fourth Assault on American Democracy Has Already Begun . This Fall Decides Whether It Ends .",
-          "link": "https://www.dailykos.com/stories/2026/7/24/800074421/community/the-fourth-assault-on-american-democracy-has-already-begun-this-fall-decides-whether-it-ends/",
-          "source": "dailykos.com",
-          "pubDate": "2026-07-24T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Fourth Assault on American Democracy Has Already Begun . This Fall Decides Whether It Ends ."
-        },
-        {
-          "title": "Call for Public Comparative Procedure for Christian Minorities 2026",
-          "link": "https://www2.fundsforngos.org/religion/call-for-public-comparative-procedure-for-christian-minorities-2026/",
-          "source": "fundsforngos.org",
-          "pubDate": "2026-07-24T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Call for Public Comparative Procedure for Christian Minorities 2026"
-        },
-        {
-          "title": "The fourth edition of Regina di Puglia kicks off",
-          "link": "https://www.freshplaza.com/north-america/article/9860597/the-fourth-edition-of-regina-di-puglia-kicks-off/",
-          "source": "freshplaza.com",
-          "pubDate": "2026-07-24T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The fourth edition of Regina di Puglia kicks off"
-        },
-        {
-          "title": "Interview : China technological rise offers new opportunities for digital transformation in developing economies -- expert - Xinhua",
-          "link": "https://english.news.cn/20260724/23007a1293914903b5f0b2a4ba4a8351/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-07-24T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Interview : China technological rise offers new opportunities for digital transformation in developing economies -- expert - Xinhua"
-        },
-        {
-          "title": "EU disburses 1 . 5 billion to Egypt under aid programme",
-          "link": "http://www.arabherald.com/news/279207553/eu-disburses-15-billion-to-egypt-under-aid-programme",
-          "source": "arabherald.com",
-          "pubDate": "2026-07-24T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "EU disburses 1 . 5 billion to Egypt under aid programme"
-        },
-        {
-          "title": "Saudi money , Chinese weapons , American patronage : Can Pakistan balance all three ?",
-          "link": "https://timesofindia.indiatimes.com/world/pakistan/saudi-money-chinese-weapons-american-patronage-can-pakistan-balance-all-three/articleshow/132608633.cms",
-          "source": "timesofindia.indiatimes.com",
-          "pubDate": "2026-07-24T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi money , Chinese weapons , American patronage : Can Pakistan balance all three ?"
-        },
-        {
-          "title": "Iran Interior Minister urges BRICS members to condemn US strikes on its civilian infra , calls for clear stance against",
-          "link": "http://www.arabherald.com/news/279207350/iran-interior-minister-urges-brics-members-to-condemn-us-strikes-on-its-civilian-infra-calls-for-clear-stance-against-aggression",
-          "source": "arabherald.com",
-          "pubDate": "2026-07-24T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Interior Minister urges BRICS members to condemn US strikes on its civilian infra , calls for clear stance against"
+          "titleIt": "Woman, 55, dies two months after being hit in Modena car attack"
         }
       ]
     },
@@ -621,24 +459,6 @@
           "titleIt": "South Sudan: Arms Smuggling - a Key Threat to South Sudan's December Elections"
         },
         {
-          "title": "Aid cuts call for innovation - Nation Online",
-          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
-          "source": "mwnation.com",
-          "pubDate": "2026-07-24T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Aid cuts call for innovation - Nation Online"
-        },
-        {
-          "title": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan",
-          "link": "https://allafrica.com/stories/202607230892.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-24T00:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan"
-        },
-        {
           "title": "Sudan: 80 Sudanese Leave Uganda On Voluntary Return Flight",
           "link": "https://allafrica.com/stories/202607230891.html",
           "description": "[Dabanga] Amsterdam / Kampala -- The 11th voluntary return flight carrying Sudanese refugees from Uganda to Sudan departed on Thursday with 80 returnees on board. The flight travelled to Port Sudan Airport aboard a Tarco Aviation aircraft and was sponsored by Sudan's General Intelligence Service.",
@@ -646,141 +466,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: 80 Sudanese Leave Uganda On Voluntary Return Flight"
-        },
-        {
-          "title": "Society - Egypt - Ahram Online",
-          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
-          "source": "english.ahram.org.eg",
-          "pubDate": "2026-07-22T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Society - Egypt - Ahram Online"
-        },
-        {
-          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
-          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-21T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-07-21T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
-          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
-          "source": "aljazeera.com",
-          "pubDate": "2026-07-21T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
-        },
-        {
-          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
-          "link": "https://allafrica.com/stories/202607200017.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-20T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
-        },
-        {
-          "title": "Rural Ethiopia still left in the dark as reliable electricity lags",
-          "link": "https://capitalethiopia.com/2026/07/19/rural-ethiopia-still-left-in-the-dark-as-reliable-electricity-lags/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-07-19T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Rural Ethiopia still left in the dark as reliable electricity lags"
-        },
-        {
-          "title": "From abundance to retreat : what happened to Nile water levels in Sudan ?",
-          "link": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
-          "source": "dabangasudan.org",
-          "pubDate": "2026-07-16T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "From abundance to retreat : what happened to Nile water levels in Sudan ?"
-        },
-        {
-          "title": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD",
-          "link": "https://allafrica.com/stories/202607150066.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-15T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD"
-        },
-        {
-          "title": "Ethiopia debt problem",
-          "link": "https://africasacountry.com/2026/07/ethiopias-debt-problem",
-          "source": "africasacountry.com",
-          "pubDate": "2026-07-14T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia debt problem"
-        },
-        {
-          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
-          "link": "https://www.jpost.com/middle-east/article-902454",
-          "source": "jpost.com",
-          "pubDate": "2026-07-14T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
-        },
-        {
-          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
-          "link": "http://www.jpost.com/middle-east/article-902454",
-          "source": "jpost.com",
-          "pubDate": "2026-07-14T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
-        },
-        {
-          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
-          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-07-14T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
-        },
-        {
-          "title": "Egypt built the Aswan High Dam to tame the Nile floods , but scientists now say the project starved the delta of fertile sediments and accelerated coastal erosion",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/egypt-built-the-aswan-high-dam-to-tame-the-niles-floods-but-scientists-now-say-the-project-starved-the-delta-of-fertile-sediments-and-accelerated-coastal-erosion/articleshow/132363327.cms",
-          "source": "timesofindia.indiatimes.com",
-          "pubDate": "2026-07-14T04:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt built the Aswan High Dam to tame the Nile floods , but scientists now say the project starved the delta of fertile sediments and accelerated coastal erosion"
-        },
-        {
-          "title": "Egypt issues warning to Ethiopia over  unacceptable  GERD steps",
-          "link": "https://www.egyptindependent.com/egypt-issues-warning-to-ethiopia-over-unacceptable-gerd-steps/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-07-13T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt issues warning to Ethiopia over  unacceptable  GERD steps"
-        },
-        {
-          "title": "Ethiopia , Kenya ink electricity supply deal",
-          "link": "https://capitalfm.africa/ethiopia-kenya-ink-electricity-supply-deal/",
-          "source": "capitalfm.africa",
-          "pubDate": "2026-07-12T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia , Kenya ink electricity supply deal"
         }
       ]
     }
