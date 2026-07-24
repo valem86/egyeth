@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T23:14:30.248Z",
+  "generatedAt": "2026-07-24T03:47:57.412Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -196,7 +196,17 @@
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": []
+      "items": [
+        {
+          "title": "Sudan: 80 Sudanese Leave Uganda On Voluntary Return Flight",
+          "link": "https://allafrica.com/stories/202607230891.html",
+          "description": "[Dabanga] Amsterdam / Kampala -- The 11th voluntary return flight carrying Sudanese refugees from Uganda to Sudan departed on Thursday with 80 returnees on board. The flight travelled to Port Sudan Airport aboard a Tarco Aviation aircraft and was sponsored by Sudan's General Intelligence Service.",
+          "pubDate": "Thu, 23 Jul 2026 23:31:46 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: 80 Sudanese Leave Uganda On Voluntary Return Flight"
+        }
+      ]
     }
   }
 }
