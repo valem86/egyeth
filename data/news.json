@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T03:42:38.585Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-07-25T06:32:23.147Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -25,6 +25,15 @@
           "titleIt": "Africa: AU, U.S. Envoy Discuss Aussom's Future Amid Funding Uncertainty"
         },
         {
+          "title": "Africa: AU Asks Somalia to Nominate Delegates for Talks On Aussom's Future",
+          "link": "https://allafrica.com/stories/202607240401.html",
+          "description": "[Shabelle] Addis Ababa -- The African Union has asked Somalia to urgently nominate representatives for a series of consultations on the future of the African Union Support and Stabilization Mission in Somalia (AUSSOM), as the mission faces mounting financial challenges that have raised concerns over its long-term sustainability.",
+          "pubDate": "Fri, 24 Jul 2026 12:19:24 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: AU Asks Somalia to Nominate Delegates for Talks On Aussom's Future"
+        },
+        {
           "title": "Ambassador to Senegal Opens Goreé School for Sustainable Migration",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/21/ambassador-to-senegal-opens-goree-school-for-sustainable-migration_b5abe349-a065-4483-be5b-c270792c7dec.html",
           "description": "(ANSA) - IL CAIRO, 21 LUG - Italian Ambassador to Senegal Michele Tommasi attended the opening ceremony of the Gorée School 2026, organized as part of the project “Training, Dignity, Inclusion, and Innovation in Senegal,” funded by Italian Cooperation. Organized by the Institute for the Rights of Migrant Workers, in partnership with Inca Cgil Senegal, VIS, and numerous Italian and Senegalese institutional and social actors, the Gorée School serves as a unique forum for dialogue and exchange. It brings together institutions, labor unions, development cooperation actors, civil society organizati",
@@ -32,21 +41,30 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador to Senegal Opens Goreé School for Sustainable Migration"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-          "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-          "description": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
-          "pubDate": "Fri, 24 Jul 2026 18:13:02 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "US and Iran trade more strikes in Gulf as fears of escalation mount"
-        },
         {
           "title": "Africa: AU, U.S. Envoy Discuss Aussom's Future Amid Funding Uncertainty",
           "link": "https://allafrica.com/stories/202607240402.html",
@@ -55,6 +73,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Africa: AU, U.S. Envoy Discuss Aussom's Future Amid Funding Uncertainty"
+        },
+        {
+          "title": "Africa: AU Asks Somalia to Nominate Delegates for Talks On Aussom's Future",
+          "link": "https://allafrica.com/stories/202607240401.html",
+          "description": "[Shabelle] Addis Ababa -- The African Union has asked Somalia to urgently nominate representatives for a series of consultations on the future of the African Union Support and Stabilization Mission in Somalia (AUSSOM), as the mission faces mounting financial challenges that have raised concerns over its long-term sustainability.",
+          "pubDate": "Fri, 24 Jul 2026 12:19:24 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: AU Asks Somalia to Nominate Delegates for Talks On Aussom's Future"
         },
         {
           "title": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf",
@@ -73,6 +100,15 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -105,6 +141,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Africa: AU, U.S. Envoy Discuss Aussom's Future Amid Funding Uncertainty"
+        },
+        {
+          "title": "Africa: AU Asks Somalia to Nominate Delegates for Talks On Aussom's Future",
+          "link": "https://allafrica.com/stories/202607240401.html",
+          "description": "[Shabelle] Addis Ababa -- The African Union has asked Somalia to urgently nominate representatives for a series of consultations on the future of the African Union Support and Stabilization Mission in Somalia (AUSSOM), as the mission faces mounting financial challenges that have raised concerns over its long-term sustainability.",
+          "pubDate": "Fri, 24 Jul 2026 12:19:24 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: AU Asks Somalia to Nominate Delegates for Talks On Aussom's Future"
         },
         {
           "title": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf",
@@ -177,6 +222,15 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
