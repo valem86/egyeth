@@ -1,11 +1,47 @@
 {
-  "generatedAt": "2026-07-25T23:15:06.128Z",
+  "generatedAt": "2026-07-26T03:58:48.729Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Business News: Egitto, export di prodotti ingegneristici in aumento del 6,6 per cento in primo semestre",
+          "link": "https://www.agenzianova.com/a/6a65855969e8d5.80684715/7639355/2026-07-26/business-news-egitto-export-di-prodotti-ingegneristici-in-aumento-del-6-6-per-cento-in-primo-semestre",
+          "description": "26 lug 04:00 - (Agenzia Nova) - Le esportazioni dei prodotti ingegneristici egiziani hanno registrato un aumento del 6,6 per cento su base... (Cae)",
+          "pubDate": "2026-07-26T04:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business News: Egitto, export di prodotti ingegneristici in aumento del 6,6 per cento in primo semestre"
+        },
+        {
+          "title": "Business News: Russia concede approvazione preliminare per voli stagionali per Alessandria e El Alamein",
+          "link": "https://www.agenzianova.com/a/6a6585596a4d89.56666030/7639351/2026-07-26/business-news-russia-concede-approvazione-preliminare-per-voli-stagionali-per-alessandria-e-el-alamein",
+          "description": "26 lug 04:00 - (Agenzia Nova) - La Russia ha concesso l'approvazione preliminare agli aeroporti internazionali egiziani di El Alamein e Alessandria,... (Cae)",
+          "pubDate": "2026-07-26T04:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business News: Russia concede approvazione preliminare per voli stagionali per Alessandria e El Alamein"
+        },
+        {
+          "title": "Business News: Egitto-Montenegro, intesa per rafforzare cooperazione marittima e portuale",
+          "link": "https://www.agenzianova.com/a/6a6585596adda9.09372826/7639295/2026-07-26/business-news-egitto-montenegro-intesa-per-rafforzare-cooperazione-marittima-e-portuale",
+          "description": "26 lug 02:00 - (Agenzia Nova) - Egitto e Montenegro hanno siglato un memorandum d'intesa per ampliare la cooperazione nel settore del trasporto... (Cae)",
+          "pubDate": "2026-07-26T02:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business News: Egitto-Montenegro, intesa per rafforzare cooperazione marittima e portuale"
+        },
+        {
+          "title": "Business News: Egitto, Italia primo importatore europeo ad aprile",
+          "link": "https://www.agenzianova.com/a/6a6585596b2fd1.45185081/7639291/2026-07-26/business-news-egitto-italia-primo-importatore-europeo-ad-aprile",
+          "description": "26 lug 02:00 - (Agenzia Nova) - L'Italia si e' classificata ad aprile al primo posto tra i Paesi europei importatori dell'Egitto. E' quanto... (Cae)",
+          "pubDate": "2026-07-26T02:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business News: Egitto, Italia primo importatore europeo ad aprile"
+        },
         {
           "title": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/24/launch-of-a-cooperation-project-for-womens-and-girls-leadership-in-senegal_462cdc6a-ba23-42f4-aaee-e4f0d3190049.html",
@@ -23,15 +59,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Africa: AU, U.S. Envoy Discuss Aussom's Future Amid Funding Uncertainty"
-        },
-        {
-          "title": "Africa: AU Asks Somalia to Nominate Delegates for Talks On Aussom's Future",
-          "link": "https://allafrica.com/stories/202607240401.html",
-          "description": "[Shabelle] Addis Ababa -- The African Union has asked Somalia to urgently nominate representatives for a series of consultations on the future of the African Union Support and Stabilization Mission in Somalia (AUSSOM), as the mission faces mounting financial challenges that have raised concerns over its long-term sustainability.",
-          "pubDate": "Fri, 24 Jul 2026 12:19:24 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: AU Asks Somalia to Nominate Delegates for Talks On Aussom's Future"
         },
         {
           "title": "Ambassador to Senegal Opens Goreé School for Sustainable Migration",
@@ -91,15 +118,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Africa: AU, U.S. Envoy Discuss Aussom's Future Amid Funding Uncertainty"
-        },
-        {
-          "title": "Africa: AU Asks Somalia to Nominate Delegates for Talks On Aussom's Future",
-          "link": "https://allafrica.com/stories/202607240401.html",
-          "description": "[Shabelle] Addis Ababa -- The African Union has asked Somalia to urgently nominate representatives for a series of consultations on the future of the African Union Support and Stabilization Mission in Somalia (AUSSOM), as the mission faces mounting financial challenges that have raised concerns over its long-term sustainability.",
-          "pubDate": "Fri, 24 Jul 2026 12:19:24 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: AU Asks Somalia to Nominate Delegates for Talks On Aussom's Future"
         },
         {
           "title": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf",
@@ -244,12 +262,30 @@
           "lang": "en",
           "description": "",
           "titleIt": "Egypt and Turkey : Rapidly growing alliance putting old rivalry aside and alarming Israel"
+        },
+        {
+          "title": "Armed Assailants Seize Chemical Tanker Off Yemen",
+          "link": "https://www.marinelink.com/news/armed-assailants-seize-chemical-tanker-541327",
+          "source": "marinelink.com",
+          "pubDate": "2026-07-17T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Armed Assailants Seize Chemical Tanker Off Yemen"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Business News: Egitto-Montenegro, intesa per rafforzare cooperazione marittima e portuale",
+          "link": "https://www.agenzianova.com/a/6a6585596adda9.09372826/7639295/2026-07-26/business-news-egitto-montenegro-intesa-per-rafforzare-cooperazione-marittima-e-portuale",
+          "description": "26 lug 02:00 - (Agenzia Nova) - Egitto e Montenegro hanno siglato un memorandum d'intesa per ampliare la cooperazione nel settore del trasporto... (Cae)",
+          "pubDate": "2026-07-26T02:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business News: Egitto-Montenegro, intesa per rafforzare cooperazione marittima e portuale"
+        },
         {
           "title": "Italy’s SACE and Bank of Africa in Rabat Join Forces for the Mattei Plan",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/24/italys-sace-and-bank-of-africa-in-rabat-join-forces-for-the_14180ec2-3052-49bc-8e1d-d11fac665ac9.html",
@@ -260,15 +296,6 @@
           "titleIt": "Italy’s SACE and Bank of Africa in Rabat Join Forces for the Mattei Plan"
         },
         {
-          "title": "Sudan: Civilians Killed in Wave of Attacks Across Blue Nile, Kordofan As Sudan's Conflict Widens",
-          "link": "https://allafrica.com/stories/202607240405.html",
-          "description": "[Darfur Network for Human Rights] A series of attacks across Blue Nile and Kordofan states this week left dozens of civilians dead, including children, as fighting between the Sudanese army, the Rapid Support Forces (RSF), and allied groups continues to spread into new regions of the country.",
-          "pubDate": "Fri, 24 Jul 2026 12:22:00 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Civilians Killed in Wave of Attacks Across Blue Nile, Kordofan As Sudan's Conflict Widens"
-        },
-        {
           "title": "Africa: AU, U.S. Envoy Discuss Aussom's Future Amid Funding Uncertainty",
           "link": "https://allafrica.com/stories/202607240402.html",
           "description": "[Shabelle] Mogadishu -- The head of the African Union Support and Stabilization Mission in Somalia (AUSSOM) met the acting U.S. ambassador to Somalia in Mogadishu to discuss the mission's future as it faces growing financial uncertainty, the AU mission said.",
@@ -276,15 +303,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Africa: AU, U.S. Envoy Discuss Aussom's Future Amid Funding Uncertainty"
-        },
-        {
-          "title": "Africa: AU Asks Somalia to Nominate Delegates for Talks On Aussom's Future",
-          "link": "https://allafrica.com/stories/202607240401.html",
-          "description": "[Shabelle] Addis Ababa -- The African Union has asked Somalia to urgently nominate representatives for a series of consultations on the future of the African Union Support and Stabilization Mission in Somalia (AUSSOM), as the mission faces mounting financial challenges that have raised concerns over its long-term sustainability.",
-          "pubDate": "Fri, 24 Jul 2026 12:19:24 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: AU Asks Somalia to Nominate Delegates for Talks On Aussom's Future"
         },
         {
           "title": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf",
@@ -372,6 +390,69 @@
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "Non - Perishable Foods : Items That Do Not Expire",
+          "link": "https://punchng.com/common-food-items-that-do-not-expire/",
+          "source": "punchng.com",
+          "pubDate": "2026-07-26T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Non - Perishable Foods : Items That Do Not Expire"
+        },
+        {
+          "title": "Zelenskyy claims Russia providing satellite intel on US bases and Gulf states to Iran",
+          "link": "http://www.shanghainews.net/news/279209747/zelenskyy-claims-russia-providing-satellite-intel-on-us-bases-and-gulf-states-to-iran",
+          "source": "shanghainews.net",
+          "pubDate": "2026-07-26T01:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Zelenskyy claims Russia providing satellite intel on US bases and Gulf states to Iran"
+        },
+        {
+          "title": "Business News: Golfo di Suez, compagnia Gupco raggiunge produzione petrolio piu' alta dal 2019",
+          "link": "https://www.agenzianova.com/a/6a6585596a94f7.09362179/7639322/2026-07-26/business-news-golfo-di-suez-compagnia-gupco-raggiunge-produzione-petrolio-piu-alta-dal-2019",
+          "description": "26 lug 03:00 - (Agenzia Nova) - La Gulf of Suez Petroleum Company (Gupco), joint venture tra l'Egyptian General Petroleum Corporation (Egpc)... (Cae)",
+          "pubDate": "2026-07-26T03:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business News: Golfo di Suez, compagnia Gupco raggiunge produzione petrolio piu' alta dal 2019"
+        },
+        {
+          "title": "Zelenskyy claims Russia providing satellite intel on US bases and Gulf states to Iran",
+          "link": "http://www.middleeaststar.com/news/279209747/zelenskyy-claims-russia-providing-satellite-intel-on-us-bases-and-gulf-states-to-iran",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-07-26T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Zelenskyy claims Russia providing satellite intel on US bases and Gulf states to Iran"
+        },
+        {
+          "title": "Zelenskyy claims Russia providing satellite intel on US bases and Gulf states to Iran",
+          "link": "http://www.bruneinews.net/news/279209747/zelenskyy-claims-russia-providing-satellite-intel-on-us-bases-and-gulf-states-to-iran",
+          "source": "bruneinews.net",
+          "pubDate": "2026-07-26T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Zelenskyy claims Russia providing satellite intel on US bases and Gulf states to Iran"
+        },
+        {
+          "title": "Zelenskyy claims Russia providing satellite intel on US bases and Gulf states to Iran",
+          "link": "http://www.cambodiantimes.com/news/279209747/zelenskyy-claims-russia-providing-satellite-intel-on-us-bases-and-gulf-states-to-iran",
+          "source": "cambodiantimes.com",
+          "pubDate": "2026-07-26T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Zelenskyy claims Russia providing satellite intel on US bases and Gulf states to Iran"
+        },
+        {
+          "title": "Zelenskyy claims Russia providing satellite intel on US bases and Gulf states to Iran",
+          "link": "http://www.bignewsnetwork.com/news/279209747/zelenskyy-claims-russia-providing-satellite-intel-on-us-bases-and-gulf-states-to-iran",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-07-25T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Zelenskyy claims Russia providing satellite intel on US bases and Gulf states to Iran"
+        },
         {
           "title": "Zelenskyy claims Russia providing satellite intel on US bases and Gulf states to Iran",
           "link": "http://www.russiaherald.com/news/279209747/zelenskyy-claims-russia-providing-satellite-intel-on-us-bases-and-gulf-states-to-iran",
@@ -488,75 +569,39 @@
           "lang": "en",
           "description": "",
           "titleIt": "Egyptian , Dutch FMs discuss strengthening bilateral relations , regional developments"
-        },
-        {
-          "title": "Trust before pipelines : Why credibility has become the Middle East most valuable energy asset – Middle East Monitor",
-          "link": "https://www.middleeastmonitor.com/20260725-trust-before-pipelines-why-credibility-has-become-the-middle-easts-most-valuable-energy-asset/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-07-25T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trust before pipelines : Why credibility has become the Middle East most valuable energy asset – Middle East Monitor"
-        },
-        {
-          "title": "The Scottish legends at the heart of Christopher Nolan The Odyssey",
-          "link": "https://www.heraldscotland.com/opinion/26297212.scottish-legends-heart-christopher-nolans-odyssey/",
-          "source": "heraldscotland.com",
-          "pubDate": "2026-07-25T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Scottish legends at the heart of Christopher Nolan The Odyssey"
-        },
-        {
-          "title": "Who inherits the Gen Z uprisings ?",
-          "link": "https://links.org.au/who-inherits-gen-z-uprisings",
-          "source": "links.org.au",
-          "pubDate": "2026-07-25T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who inherits the Gen Z uprisings ?"
-        },
-        {
-          "title": "歷史學 -- 開欄文 - 時事論壇 - udn城市",
-          "link": "https://city.udn.com/2976/7219758?raid=7297351",
-          "source": "city.udn.com",
-          "pubDate": "2026-07-25T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "歷史學 -- 開欄文 - 時事論壇 - udn城市"
-        },
-        {
-          "title": "Echoes of the Roman conquest of Jerusalem in today Islamic conquest of the West * WorldNetDaily * by Jonathan Feldstein",
-          "link": "https://www.wnd.com/2026/07/echoes-roman-conquest-jerusalem-todays-islamic-conquest-west/",
-          "source": "wnd.com",
-          "pubDate": "2026-07-25T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Echoes of the Roman conquest of Jerusalem in today Islamic conquest of the West * WorldNetDaily * by Jonathan Feldstein"
-        },
-        {
-          "title": "Fall 2026 Adult Preview : Religion & Spirituality",
-          "link": "https://www.publishersweekly.com:443/pw/by-topic/new-titles/adult-announcements/article/100902-fall-2026-adult-preview-religion-spirituality.html",
-          "source": "publishersweekly.com",
-          "pubDate": "2026-07-25T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fall 2026 Adult Preview : Religion & Spirituality"
-        },
-        {
-          "title": "Chas Freeman 欧美主导世界的时代已终结 - 博客",
-          "link": "https://blog.wenxuecity.com/myblog/72696/202607/17987.html",
-          "source": "blog.wenxuecity.com",
-          "pubDate": "2026-07-25T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Chas Freeman 欧美主导世界的时代已终结 - 博客"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Business News: Egitto, completata costruzione di 28 stazioni idriche nel Sud Sudan",
+          "link": "https://www.agenzianova.com/a/6a6585596af128.86467992/7639294/2026-07-26/business-news-egitto-completata-costruzione-di-28-stazioni-idriche-nel-sud-sudan",
+          "description": "26 lug 02:00 - (Agenzia Nova) - L'Egitto ha completato la costruzione di 28 stazioni idriche alimentate a energia solare nel Sud Sudan. Secondo... (Cae)",
+          "pubDate": "2026-07-26T02:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business News: Egitto, completata costruzione di 28 stazioni idriche nel Sud Sudan"
+        },
+        {
+          "title": "The return of the African megaproject",
+          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
+          "source": "hindustantimes.com",
+          "pubDate": "2026-07-25T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The return of the African megaproject"
+        },
+        {
+          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
+          "link": "https://www.thereporterethiopia.com/52030/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
+        },
         {
           "title": "Ethiopia: U.S.-Ethiopia Public Private Dialogue to Benefit U.S. and Ethiopian Businesses and Economic Growth",
           "link": "https://allafrica.com/stories/202607240548.html",
@@ -576,6 +621,24 @@
           "titleIt": "South Sudan: Arms Smuggling - a Key Threat to South Sudan's December Elections"
         },
         {
+          "title": "Aid cuts call for innovation - Nation Online",
+          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
+          "source": "mwnation.com",
+          "pubDate": "2026-07-24T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Aid cuts call for innovation - Nation Online"
+        },
+        {
+          "title": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan",
+          "link": "https://allafrica.com/stories/202607230892.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-24T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan"
+        },
+        {
           "title": "Sudan: 80 Sudanese Leave Uganda On Voluntary Return Flight",
           "link": "https://allafrica.com/stories/202607230891.html",
           "description": "[Dabanga] Amsterdam / Kampala -- The 11th voluntary return flight carrying Sudanese refugees from Uganda to Sudan departed on Thursday with 80 returnees on board. The flight travelled to Port Sudan Airport aboard a Tarco Aviation aircraft and was sponsored by Sudan's General Intelligence Service.",
@@ -583,6 +646,114 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: 80 Sudanese Leave Uganda On Voluntary Return Flight"
+        },
+        {
+          "title": "Society - Egypt - Ahram Online",
+          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
+          "source": "english.ahram.org.eg",
+          "pubDate": "2026-07-22T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Society - Egypt - Ahram Online"
+        },
+        {
+          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
+          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-07-21T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
+        },
+        {
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
+          "source": "dominicanrepublicpost.com",
+          "pubDate": "2026-07-21T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
+        },
+        {
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
+          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
+          "source": "aljazeera.com",
+          "pubDate": "2026-07-21T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
+        },
+        {
+          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
+          "link": "https://allafrica.com/stories/202607200017.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-20T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
+        },
+        {
+          "title": "Rural Ethiopia still left in the dark as reliable electricity lags",
+          "link": "https://capitalethiopia.com/2026/07/19/rural-ethiopia-still-left-in-the-dark-as-reliable-electricity-lags/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-07-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rural Ethiopia still left in the dark as reliable electricity lags"
+        },
+        {
+          "title": "From abundance to retreat : what happened to Nile water levels in Sudan ?",
+          "link": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
+          "source": "dabangasudan.org",
+          "pubDate": "2026-07-16T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From abundance to retreat : what happened to Nile water levels in Sudan ?"
+        },
+        {
+          "title": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD",
+          "link": "https://allafrica.com/stories/202607150066.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-15T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD"
+        },
+        {
+          "title": "Ethiopia debt problem",
+          "link": "https://africasacountry.com/2026/07/ethiopias-debt-problem",
+          "source": "africasacountry.com",
+          "pubDate": "2026-07-14T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia debt problem"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "https://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "http://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say",
+          "link": "https://www.thenationalnews.com/news/mena/2026/07/14/egypts-water-dispute-with-ethiopia-complicated-by-rising-horn-of-africa-tension-experts-say/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-07-14T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt water dispute with Ethiopia overshadowed by rising Horn of Africa tension , experts say"
         }
       ]
     }
