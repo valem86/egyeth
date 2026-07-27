@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T11:43:17.536Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-07-27T15:17:16.729Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -14,6 +14,24 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -28,69 +46,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "US deports Kenyan former NFL player Daniel Adongo"
-        },
-        {
-          "title": "Is an Abraham Security Alliance possible in the Middle East ?",
-          "link": "https://www.jns.org/analysis/is-an-abraham-security-alliance-possible-in-the-middle-east",
-          "source": "jns.org",
-          "pubDate": "2026-07-27T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Is an Abraham Security Alliance possible in the Middle East ?"
-        },
-        {
-          "title": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust",
-          "link": "https://dailytrust.com/secret-uae-linked-camps-used-to-recruit-mercenaries-for-sudan-conflict-report/",
-          "source": "dailytrust.com",
-          "pubDate": "2026-07-27T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust"
-        },
-        {
-          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
-          "link": "http://www.jpost.com/israel-news/article-903706",
-          "source": "jpost.com",
-          "pubDate": "2026-07-26T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
-        },
-        {
-          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
-          "link": "https://www.jpost.com/israel-news/article-903706",
-          "source": "jpost.com",
-          "pubDate": "2026-07-26T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
-        },
-        {
-          "title": "Ethiopia Babile Elephant Sanctuary Nears Extinction",
-          "link": "https://www.riotimesonline.com/babile-elephant-sanctuary-extinction-ethiopia-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-07-26T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Babile Elephant Sanctuary Nears Extinction"
-        },
-        {
-          "title": "Somalia Turkish Illusion - WardheerNews",
-          "link": "https://wardheernews.com/somalias-turkish-illusion/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-25T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia Turkish Illusion - WardheerNews"
-        },
-        {
-          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
-          "link": "https://www.thereporterethiopia.com/52030/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-07-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
         },
         {
           "title": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf",
@@ -111,100 +66,28 @@
           "titleIt": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf"
         },
         {
-          "title": "Somalia : Kulmiye Party Urges united kingdom to Renew Somaliland Recognition in Congratulatory Letter to New Prime Minister",
-          "link": "https://allafrica.com/stories/202607240062.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-24T07:15:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Kulmiye Party Urges united kingdom to Renew Somaliland Recognition in Congratulatory Letter to New Prime Minister"
-        },
-        {
-          "title": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …",
-          "link": "http://www.pambazuka.org/Sectarian-Framework",
-          "source": "pambazuka.org",
-          "pubDate": "2026-07-24T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …"
-        },
-        {
-          "title": "927 | Pambazuka News",
-          "link": "http://www.pambazuka.org/taxonomy/term/15768",
-          "source": "pambazuka.org",
-          "pubDate": "2026-07-24T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "927 | Pambazuka News"
-        },
-        {
-          "title": "Christian in Somalialand poisoned to death after secret conversion",
-          "link": "https://www.christiandaily.com/news/christian-in-somalialand-poisoned-to-death-after-secret-conversion",
-          "source": "christiandaily.com",
-          "pubDate": "2026-07-23T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Christian in Somalialand poisoned to death after secret conversion"
-        },
-        {
-          "title": "Gate of Tears : How key shipping route Bab al - Mandab became next front in the US - Iran war",
-          "link": "https://www.independent.co.uk/news/world/middle-east/iran-bab-al-mandab-strait-yemen-saudi-houthis-b3020001.html",
-          "source": "independent.co.uk",
-          "pubDate": "2026-07-23T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gate of Tears : How key shipping route Bab al - Mandab became next front in the US - Iran war"
-        },
-        {
-          "title": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History",
-          "link": "https://www.maravipost.com/cure-blindness-project-releases-2025-impact-report-marking-most-impactful-year-in-organizations-history-3/",
-          "source": "maravipost.com",
-          "pubDate": "2026-07-21T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History"
-        },
-        {
-          "title": "Christian convert poisoned to death in Somaliland",
-          "link": "https://www.christianpost.com/news/christian-convert-poisoned-to-death-in-somaliland.html",
-          "source": "christianpost.com",
-          "pubDate": "2026-07-21T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Christian convert poisoned to death in Somaliland"
-        },
-        {
-          "title": "Somalia : From Facebook Appeals to a Lifesaving Network - One Man Mission to Transform Blood Donation in Somaliland",
-          "link": "https://allafrica.com/stories/202607210639.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-21T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : From Facebook Appeals to a Lifesaving Network - One Man Mission to Transform Blood Donation in Somaliland"
-        },
-        {
-          "title": "Turkey still keeps Somalia out of its e - Visa system despite over $1 billion in aid , oil deals and access to the Horn of Africa",
-          "link": "https://horseedmedia.net/turkey-still-keeps-somalia-out-of-its-e-visa-system-despite-over-1-billion-in-aid-oil-deals-and-access-to-the-horn-of-africa/423951/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-07-20T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkey still keeps Somalia out of its e - Visa system despite over $1 billion in aid , oil deals and access to the Horn of Africa"
-        },
-        {
-          "title": "Former North Eastern State MP Fahiima Quuje Receives Warm Welcome in Hargeisa",
-          "link": "https://wardheernews.com/former-north-eastern-state-mp-fahiima-quuje-receives-warm-welcome-in-hargeisa/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-20T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Former North Eastern State MP Fahiima Quuje Receives Warm Welcome in Hargeisa"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "I fatti del giorno - Italia (4)",
+          "link": "https://www.agenzianova.com/a/6a6775b7910724.80660820/7645591/2026-07-27/i-fatti-del-giorno-italia-4",
+          "description": "27 lug 17:00 - (Agenzia Nova) - Nucleare: Ansaldo Energia e Rina firmano accordo per sviluppo filiera italiana - Supportare lo sviluppo della... (Rin)",
+          "pubDate": "2026-07-27T17:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "I fatti del giorno - Italia (4)"
+        },
         {
           "title": "The Embassy in Norway Publishes a New Edition of the Oil & Gas Guide",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/27/the-embassy-in-norway-publishes-a-new-edition-of-the-oil-gas-guide_641803d5-d4d9-4c07-b069-070dbf49636d.html",
@@ -269,33 +152,6 @@
           "titleIt": "No rush to find new Italy coach says Maldini"
         },
         {
-          "title": "Rome to host meeting for Two-State solution July 28-29 - Tajani",
-          "link": "https://www.ansa.it/english/news/politics/2026/07/22/rome-to-host-meeting-for-two-state-solution-july-28-29-tajani_f5b1c764-2825-4109-9f2a-7627c2fbc285.html",
-          "description": "(ANSA) - ROME, JUL 22 - Rome will host a meeting of the Global Alliance for a Two-State Solution to the Israeli-Palestinian conflict, Deputy Premier and Foreign Minister Antonio Tajani said on Wednesday as he reported to parliament on the recent NATO summit. \"On July 28 and 29 I will chair a meeting in Rome of the Global Alliance for the Two-State Solution together with the Saudi Foreign Minister,\" Tajani told a joint hearing of the foreign affairs and defence committees of the Senate and the Lower House. \"We will give new impetus to the New York Declaration, which we signed last year. \"The me",
-          "pubDate": "Wed, 22 Jul 2026 11:49:02 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Rome to host meeting for Two-State solution July 28-29 - Tajani"
-        },
-        {
-          "title": "Rome to host meeting for Two-State solution July 28-29 - Tajani",
-          "link": "https://www.ansa.it/english/news/2026/07/22/rome-to-host-meeting-for-two-state-solution-july-28-29-tajani_513b1a68-399b-4dd5-a974-d1fd1d707e08.html",
-          "description": "(ANSA) - ROME, JUL 22 - Rome will host a meeting of the Global Alliance for a Two-State Solution to the Israeli-Palestinian conflict, Deputy Premier and Foreign Minister Antonio Tajani said on Wednesday as he reported to parliament on the recent NATO summit. \"On July 28 and 29 I will chair a meeting in Rome of the Global Alliance for the Two-State Solution together with the Saudi Foreign Minister,\" Tajani told a joint hearing of the foreign affairs and defence committees of the Senate and the Lower House. \"We will give new impetus to the New York Declaration, which we signed last year. \"The me",
-          "pubDate": "Wed, 22 Jul 2026 11:44:10 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Rome to host meeting for Two-State solution July 28-29 - Tajani"
-        },
-        {
-          "title": "Italy to use escape clause for energy investments says Meloni",
-          "link": "https://www.ansa.it/english/news/2026/07/21/italy-to-use-escape-clause-for-energy-investments-says-meloni_91917435-d51c-461d-a936-ec8dc06e9866.html",
-          "description": "(ANSA) - ROME, JUL 21 - Premier Giorgia Meloni said Tuesday that Italy will use the escape clause created by the European Commission after Italy called for the flexibility in the Stability and Growth Pact for defence spending to be extended to energy investments in the wake of the price spikes triggered by the Iran war. Her office said that the decision was made during a meeting with the leaders of the other parties supporting her ruling coalition. \"There was full agreement on the proposal to make use of the greater flexibility allowed by European rules and to concentrate greater spending capa",
-          "pubDate": "Tue, 21 Jul 2026 17:40:51 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italy to use escape clause for energy investments says Meloni"
-        },
-        {
           "title": "Villa warned over sportswashing after Visit Rwanda deal",
           "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
           "description": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record.",
@@ -303,6 +159,15 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -310,184 +175,31 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Sudan health system collapse drives hunger , disease crisis",
-          "link": "https://www.riotimesonline.com/sudan-health-system-collapse-hunger-disease-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-07-27T10:45:00Z",
+          "title": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/24/launch-of-a-cooperation-project-for-womens-and-girls-leadership-in-senegal_462cdc6a-ba23-42f4-aaee-e4f0d3190049.html",
+          "description": "(ANSA) - IL CAIRO, 24 LUG - The Italian Ambassador to Senegal, Michele Tommasi, spoke at the first meeting of the National Steering Committee for the Parel/F project—an initiative funded by Italian Cooperation to strengthen the leadership and socioeconomic inclusion of women and girls in Senegal—to reaffirm Italy’s support for this initiative. The meeting was opened by the Chief of Staff of the Ministry of Family, Social Action, and Solidarity, Amadou Diaw, and by the Director of AICS Dakar, Giovanni Grandi, officially launching the project’s operational phase. This first meeting made it possi",
+          "pubDate": "Fri, 24 Jul 2026 19:55:54 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Sudan health system collapse drives hunger , disease crisis"
+          "titleIt": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal"
         },
         {
-          "title": "Sisi ratifies law to restructure  Future of Egypt  economic authority",
-          "link": "https://www.middle-east-online.com/en/sisi-ratifies-law-restructure-future-egypt-economic-authority",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-27T10:45:00Z",
+          "title": "Woman, 55, dies two months after being hit in Modena car attack",
+          "link": "https://www.ansa.it/english/news/general_news/2026/07/22/woman-55-dies-two-months-after-being-hit-in-modena-car-attack_3644f5fc-3054-4fc0-ab52-f5e9b280caf5.html",
+          "description": "(ANSA) - ROME, JUL 22 - A 55-year-old woman who was among the people hit by a car attack in the northern city of Modena on May 16 has died, the hospital she was being treated at said on Wednesday. Monica Esposito never regained consciousness after the attack by a 31-year-old Italian citizen of Moroccan origin with mental-health problems, Salim El Koudri. After driving into the pedestrians with his car, El Koudri pulled a knife when passers-by, including two Egyptian men, grappled him to ground. Esposito was among eight people injured in the attack. El Koudri is an economics graduate who had no",
+          "pubDate": "Wed, 22 Jul 2026 16:04:12 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Sisi ratifies law to restructure  Future of Egypt  economic authority"
+          "titleIt": "Woman, 55, dies two months after being hit in Modena car attack"
         },
         {
-          "title": "The Role of Pakistan Asim Munir behind Iran - Saudi De - escalation",
-          "link": "https://countercurrents.org/2026/07/the-role-of-pakistans-asim-munir-behind-iran-saudi-de-escalation/",
-          "source": "countercurrents.org",
-          "pubDate": "2026-07-27T09:15:00Z",
+          "title": "Woman, 55, dies two months after being hit in Modena car attack",
+          "link": "https://www.ansa.it/english/news/2026/07/22/woman-55-dies-two-months-after-being-hit-in-modena-car-attack_dd1afbb5-d5a2-4568-a9ce-13218f265f0b.html",
+          "description": "(ANSA) - ROME, JUL 22 - A 55-year-old woman who was among the people hit by a car attack in the northern city of Modena on May 16 has died, the hospital she was being treated at said on Wednesday. Monica Esposito never regained consciousness after the attack by a 31-year-old Italian citizen of Moroccan origin with mental-health problems, Salim El Koudri. After driving into the pedestrians with his car, El Koudri pulled a knife when passers-by, including two Egyptian men, grappled him to ground. Esposito was among eight people injured in the attack. El Koudri is an economics graduate who had no",
+          "pubDate": "Wed, 22 Jul 2026 16:03:02 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "The Role of Pakistan Asim Munir behind Iran - Saudi De - escalation"
-        },
-        {
-          "title": "Saudi Trade Surplus Soars 329 % as Exports Drive Gains",
-          "link": "https://english.aawsat.com/business/5300427-saudi-trade-surplus-soars-329-exports-drive-gains",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-07-27T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Trade Surplus Soars 329 % as Exports Drive Gains"
-        },
-        {
-          "title": "Vodacom reports growth as Safaricom acquisition unlocks a new phase",
-          "link": "https://www.engineeringnews.co.za/article/vodacom-reports-growth-as-safaricom-acquisition-unlocks-a-new-phase-2026-07-27",
-          "source": "engineeringnews.co.za",
-          "pubDate": "2026-07-27T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Vodacom reports growth as Safaricom acquisition unlocks a new phase"
-        },
-        {
-          "title": "Is an Abraham Security Alliance possible in the Middle East ?",
-          "link": "https://www.jns.org/analysis/is-an-abraham-security-alliance-possible-in-the-middle-east",
-          "source": "jns.org",
-          "pubDate": "2026-07-27T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Is an Abraham Security Alliance possible in the Middle East ?"
-        },
-        {
-          "title": "South Africa : Exposing a Syndicate - - By Getting Scammed",
-          "link": "https://allafrica.com/stories/202607270029.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-27T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "South Africa : Exposing a Syndicate - - By Getting Scammed"
-        },
-        {
-          "title": "Target date set to restore historic Nottingham landmark back to its  heyday",
-          "link": "https://www.nottinghampost.com/news/nottingham-news/target-date-set-restore-historic-11075063",
-          "source": "nottinghampost.com",
-          "pubDate": "2026-07-27T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Target date set to restore historic Nottingham landmark back to its  heyday"
-        },
-        {
-          "title": "Exposing a syndicate by getting scammed",
-          "link": "https://groundup.org.za/article/we-got-scammed-so-you-dont-have-to/",
-          "source": "groundup.org.za",
-          "pubDate": "2026-07-27T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Exposing a syndicate by getting scammed"
-        },
-        {
-          "title": "As Expected , New Tariffs Are Imposed Against Imports From 60 Countries , Creating An Ever - More Complicated Landscape For Importers",
-          "link": "https://www.mondaq.com:443/unitedstates/export-controls-trade-investment-sanctions/1822810/as-expected-new-tariffs-are-imposed-against-imports-from-60-countries-creating-an-ever-more-complicated-landscape-for-importers",
-          "source": "mondaq.com",
-          "pubDate": "2026-07-27T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "As Expected , New Tariffs Are Imposed Against Imports From 60 Countries , Creating An Ever - More Complicated Landscape For Importers"
-        },
-        {
-          "title": "Red Sea Shipping Falls to Months - Low After Houthi Attacks , Data Shows",
-          "link": "https://www.khaama.com/red-sea-shipping-falls-to-months-low-after-houthi-attacks-data-shows/",
-          "source": "khaama.com",
-          "pubDate": "2026-07-27T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Red Sea Shipping Falls to Months - Low After Houthi Attacks , Data Shows"
-        },
-        {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
-          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "gazettenet.com",
-          "pubDate": "2026-07-27T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
-        },
-        {
-          "title": "Startup Taps Diaspora Remittances , Re - engineers Africa Export Chain – THISDAYLIVE",
-          "link": "https://www.thisdaylive.com/2026/07/27/startup-taps-diaspora-remittances-re-engineers-africas-export-chain/",
-          "source": "thisdaylive.com",
-          "pubDate": "2026-07-27T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Startup Taps Diaspora Remittances , Re - engineers Africa Export Chain – THISDAYLIVE"
-        },
-        {
-          "title": "The world next nuclear power may surprise you",
-          "link": "http://www.heraldglobe.com/news/279211430/the-world-next-nuclear-power-may-surprise-you",
-          "source": "heraldglobe.com",
-          "pubDate": "2026-07-27T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The world next nuclear power may surprise you"
-        },
-        {
-          "title": "USTR Imposes New Section 301 Forced Labor Tariffs On Imports From 60 Economies",
-          "link": "https://www.mondaq.com:443/unitedstates/export-controls-trade-investment-sanctions/1822522/ustr-imposes-new-section-301-forced-labor-tariffs-on-imports-from-60-economies",
-          "source": "mondaq.com",
-          "pubDate": "2026-07-27T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "USTR Imposes New Section 301 Forced Labor Tariffs On Imports From 60 Economies"
-        },
-        {
-          "title": "The world next nuclear power may surprise you",
-          "link": "http://www.middleeaststar.com/news/279211430/the-world-next-nuclear-power-may-surprise-you",
-          "source": "middleeaststar.com",
-          "pubDate": "2026-07-26T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The world next nuclear power may surprise you"
-        },
-        {
-          "title": "Lebanon , Arab states must strengthen response to external risks",
-          "link": "https://www.arabnews.com/node/2652386",
-          "source": "arabnews.com",
-          "pubDate": "2026-07-26T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Lebanon , Arab states must strengthen response to external risks"
-        },
-        {
-          "title": "The world next nuclear power may surprise you",
-          "link": "http://www.batonrougepost.com/news/279211430/the-world-next-nuclear-power-may-surprise-you",
-          "source": "batonrougepost.com",
-          "pubDate": "2026-07-26T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The world next nuclear power may surprise you"
-        },
-        {
-          "title": "The world next nuclear power may surprise you",
-          "link": "http://www.russiaherald.com/news/279211430/the-world-next-nuclear-power-may-surprise-you",
-          "source": "russiaherald.com",
-          "pubDate": "2026-07-26T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The world next nuclear power may surprise you"
-        },
-        {
-          "title": "The worlds next nuclear power may surprise you",
-          "link": "http://www.bignewsnetwork.com/news/279211426/the-worlds-next-nuclear-power-may-surprise-you",
-          "source": "bignewsnetwork.com",
-          "pubDate": "2026-07-26T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The worlds next nuclear power may surprise you"
+          "titleIt": "Woman, 55, dies two months after being hit in Modena car attack"
         }
       ]
     },
