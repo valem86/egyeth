@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T15:17:16.729Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-07-27T17:58:10.798Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -14,24 +14,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -64,15 +46,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -80,13 +53,40 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "I fatti del giorno - Italia (4)",
-          "link": "https://www.agenzianova.com/a/6a6775b7910724.80660820/7645591/2026-07-27/i-fatti-del-giorno-italia-4",
-          "description": "27 lug 17:00 - (Agenzia Nova) - Nucleare: Ansaldo Energia e Rina firmano accordo per sviluppo filiera italiana - Supportare lo sviluppo della... (Rin)",
-          "pubDate": "2026-07-27T17:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "I fatti del giorno - Italia (4)"
+          "title": "Nigeria seizes thousands of kilograms of drugs as trafficking concerns grow",
+          "link": "http://www.africanews.com/2026/07/27/nigeria-seizes-thousands-of-kilograms-of-drugs-as-trafficking-concerns-grow/",
+          "description": "Authorities say criminal networks are using Nigeria's strategic ports, airports and commercial infrastructure to conceal and transport illicit substances, posing risks not only to public security but also to the country's reputation as a regional trade and investment hub.",
+          "pubDate": "Mon, 27 Jul 2026 16:35:03 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Nigeria seizes thousands of kilograms of drugs as trafficking concerns grow"
+        },
+        {
+          "title": "Somali Future Council Demands Political Deal Before Further AUSSOM Support",
+          "link": "https://raxanreeb.com/somali-future-council-demands-political-deal-before-further-aussom-support/",
+          "source": "raxanreeb.com",
+          "pubDate": "2026-07-27T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somali Future Council Demands Political Deal Before Further AUSSOM Support"
+        },
+        {
+          "title": "Kenya , ECA , AU - IBAR and IGAD launch effort to build climate resilience in livestock , land and insurance systems",
+          "link": "https://www.uneca.org/stories/kenya,-eca,-au-ibar-and-igad-launch-effort-to-build-climate-resilience-in-livestock,-land",
+          "source": "uneca.org",
+          "pubDate": "2026-07-27T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Kenya , ECA , AU - IBAR and IGAD launch effort to build climate resilience in livestock , land and insurance systems"
+        },
+        {
+          "title": "Employers fear labor shortage as many immigrants lose protected status",
+          "link": "https://www.hawaiitribune-herald.com/2026/07/27/nation-world-news/employers-fear-labor-shortage-as-many-immigrants-lose-protected-status/",
+          "source": "hawaiitribune-herald.com",
+          "pubDate": "2026-07-27T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Employers fear labor shortage as many immigrants lose protected status"
         },
         {
           "title": "The Embassy in Norway Publishes a New Edition of the Oil & Gas Guide",
@@ -98,6 +98,15 @@
           "titleIt": "The Embassy in Norway Publishes a New Edition of the Oil & Gas Guide"
         },
         {
+          "title": "PROFILE : Who Is Olara Otunnu ? The Ugandan Diplomat Seeking to Lead the United Nations",
+          "link": "https://chimpreports.com/profile-who-is-olara-otunnu-the-ugandan-diplomat-seeking-to-lead-the-united-nations/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-07-27T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "PROFILE : Who Is Olara Otunnu ? The Ugandan Diplomat Seeking to Lead the United Nations"
+        },
+        {
           "title": "The 2026 edition of Vinitaly.us was unveiled aboard the ship Vespucci in Québec City.",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/27/the-2026-edition-of-vinitaly.us-was-unveiled-aboard-the-ship-vespucci_c6890bab-8c5e-42cc-b090-f0534c64bb50.html",
           "description": "(ANSA) - ROMA, 27 LUG - The Italian Ambassador to Canada, Alessandro Cattaneo, presented the 2026 edition of “Vinitaly.us” aboard the Amerigo Vespucci, which made a stop in Québec City. Present at the event were the president of the Italian Trade Agency, Matteo Zoppas; the CEO of Difesa Servizi, Luca Andreoli; the president of Veronafiere, Federico Bricolo; and the managing director of Vinitaly International, Stevie Kim. The event underscored the growing strategic importance of the Canadian market for Italian wine. It was also emphasized that Italy and Canada continue to strengthen their strat",
@@ -107,67 +116,121 @@
           "titleIt": "The 2026 edition of Vinitaly.us was unveiled aboard the ship Vespucci in Québec City."
         },
         {
-          "title": "Italy’s SACE and Bank of Africa in Rabat Join Forces for the Mattei Plan",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/24/italys-sace-and-bank-of-africa-in-rabat-join-forces-for-the_14180ec2-3052-49bc-8e1d-d11fac665ac9.html",
-          "description": "SACE, the Italian Export Credit Agency owned by the Ministry of Economy and Finance, and Bank of Africa, one of the leading banking groups on the African continent, have signed an agreement to invest jointly in Africa and promote the involvement of Italian companies in strategic projects being carried out on the continent. The agreement, signed by Mario Melillo on behalf of Sace and Khalid Nasr on behalf of Bank of Africa, brings together the African bank’s extensive presence and Sace’s financial and insurance solutions to support the competitiveness and internationalization of Italian compani",
-          "pubDate": "Fri, 24 Jul 2026 16:20:49 +0200",
-          "source": "ANSA English",
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
+          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "gazettenet.com",
+          "pubDate": "2026-07-27T03:00:00Z",
           "lang": "en",
-          "titleIt": "Italy’s SACE and Bank of Africa in Rabat Join Forces for the Mattei Plan"
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
         },
         {
-          "title": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf",
-          "link": "https://www.ansa.it/english/news/business/2026/07/24/confindustria-sounds-alarm-about-outlook-amid-fresh-conflict-in-the-gulf_3bba7108-3ccb-4174-b87a-60ff87a88521.html",
-          "description": "(ANSA) - ROME, JUL 24 - The CSC research unit of Italian industry association Confindustria on Friday sounded the alarm about the nation's economic outlook following a breakdown of the Iran war ceasefire. \"The third quarter is off to a bad start,\" the CSC said in its latest economic outlook report. \"The war in Iran flared up again in July, and uncertainty about future developments is at a peak: oil prices were immediately affected. \"Having already slowed Italian GDP in the second quarter, the war's impact is now spilling over into the third,. \"Inflation will remain high for some time and credi",
-          "pubDate": "Fri, 24 Jul 2026 11:57:30 +0200",
-          "source": "ANSA English",
+          "title": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust",
+          "link": "https://dailytrust.com/secret-uae-linked-camps-used-to-recruit-mercenaries-for-sudan-conflict-report/",
+          "source": "dailytrust.com",
+          "pubDate": "2026-07-27T02:30:00Z",
           "lang": "en",
-          "titleIt": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf"
+          "description": "",
+          "titleIt": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust"
         },
         {
-          "title": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf",
-          "link": "https://www.ansa.it/english/news/2026/07/24/confindustria-sounds-alarm-about-outlook-amid-fresh-conflict-in-the-gulf_1cb7abfe-6d32-4b65-9d40-995d1c44366f.html",
-          "description": "(ANSA) - ROME, JUL 24 - The CSC research unit of Italian industry association Confindustria on Friday sounded the alarm about the nation's economic outlook following a breakdown of the Iran war ceasefire. \"The third quarter is off to a bad start,\" the CSC said in its latest economic outlook report. \"The war in Iran flared up again in July, and uncertainty about future developments is at a peak: oil prices were immediately affected. \"Having already slowed Italian GDP in the second quarter, the war's impact is now spilling over into the third,. \"Inflation will remain high for some time and credi",
-          "pubDate": "Fri, 24 Jul 2026 11:49:48 +0200",
-          "source": "ANSA English",
+          "title": "Lebanon , Arab states must strengthen response to external risks",
+          "link": "https://www.arabnews.com/node/2652386",
+          "source": "arabnews.com",
+          "pubDate": "2026-07-26T23:45:00Z",
           "lang": "en",
-          "titleIt": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf"
+          "description": "",
+          "titleIt": "Lebanon , Arab states must strengthen response to external risks"
         },
         {
-          "title": "No rush to find new Italy coach says Maldini",
-          "link": "https://www.ansa.it/english/news/sports/2026/07/23/no-rush-to-find-new-italy-coach-says-maldini_edac5db3-5536-4ab7-bc45-8494f10635be.html",
-          "description": "(ANSA) - ROME, JUL 23 - The Italian Soccer Federation's (FIGC) new Technical Director Paolo Maldini said Thursday that he was not in a rush to appoint a new coach for the national team. Earlier this week FIGC President Giovanni Malagò confirmed reports that the federation had approached Pep Guardiola about taking on the role and Maldini added on Thursday that they have looked up Brazil coach Carlo Ancelotti too. \"Ideally, it would be this week, but, above all, we need to wait for the person we really want,\" Maldini said after he, Malagò and FIGC consultant Leonardo had a meeting with Serie A c",
-          "pubDate": "Thu, 23 Jul 2026 15:25:37 +0200",
-          "source": "ANSA English",
+          "title": "Peter Obi Bold Declaration : A Four - Year Blueprint for Nigeria Transformation and His Unwavering Commitment to a Single Term – Ghanamma . com",
+          "link": "https://www.ghanamma.com/2026/07/25/peter-obis-bold-declaration-a-four-year-blueprint-for-nigerias-transformation-and-his-unwavering-commitment-to-a-single-term/",
+          "source": "ghanamma.com",
+          "pubDate": "2026-07-25T18:15:00Z",
           "lang": "en",
-          "titleIt": "No rush to find new Italy coach says Maldini"
+          "description": "",
+          "titleIt": "Peter Obi Bold Declaration : A Four - Year Blueprint for Nigeria Transformation and His Unwavering Commitment to a Single Term – Ghanamma . com"
         },
         {
-          "title": "No rush to find new Italy coach says Maldini",
-          "link": "https://www.ansa.it/english/news/2026/07/23/no-rush-to-find-new-italy-coach-says-maldini_826da0ed-e7c6-4219-a443-83754d94cf60.html",
-          "description": "(ANSA) - ROME, JUL 23 - The Italian Soccer Federation's (FIGC) new Technical Director Paolo Maldini said Thursday that he was not in a rush to appoint a new coach for the national team. Earlier this week FIGC President Giovanni Malagò confirmed reports that the federation had approached Pep Guardiola about taking on the role and Maldini added on Thursday that they have looked up Brazil coach Carlo Ancelotti too. \"Ideally, it would be this week, but, above all, we need to wait for the person we really want,\" Maldini said after he, Malagò and FIGC consultant Leonardo had a meeting with Serie A c",
-          "pubDate": "Thu, 23 Jul 2026 15:22:41 +0200",
-          "source": "ANSA English",
+          "title": "The return of the African megaproject",
+          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
+          "source": "hindustantimes.com",
+          "pubDate": "2026-07-25T14:45:00Z",
           "lang": "en",
-          "titleIt": "No rush to find new Italy coach says Maldini"
+          "description": "",
+          "titleIt": "The return of the African megaproject"
         },
         {
-          "title": "Villa warned over sportswashing after Visit Rwanda deal",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
-          "description": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record.",
-          "pubDate": "Tue, 14 Jul 2026 18:44:04 GMT",
-          "source": "BBC Africa",
+          "title": "The Future Of Freight : What Will Liberalization Mean For Ethiopia Fledging Logistics Sector ?",
+          "link": "https://www.thereporterethiopia.com/52006/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
           "lang": "en",
-          "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
+          "description": "",
+          "titleIt": "The Future Of Freight : What Will Liberalization Mean For Ethiopia Fledging Logistics Sector ?"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
+          "link": "https://www.thereporterethiopia.com/52030/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
+        },
+        {
+          "title": "The Leaky Bucket Of Global Peace : How Multilateral Defunding Is Starving The Horn Humanitarian , Peacekeeping Operations",
+          "link": "https://www.thereporterethiopia.com/52010/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Leaky Bucket Of Global Peace : How Multilateral Defunding Is Starving The Horn Humanitarian , Peacekeeping Operations"
+        },
+        {
+          "title": "Africa Intelligence Brief July 24 : The Verdict and the Vigil",
+          "link": "https://www.riotimesonline.com/africa-intelligence-brief-friday-july-24-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-07-24T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa Intelligence Brief July 24 : The Verdict and the Vigil"
+        },
+        {
+          "title": "Africa Growth Surge Threatens Latin America Clout",
+          "link": "https://www.riotimesonline.com/a-new-growth-pole-how-africa-s-surge-reorders-the-global-2026-07-24/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-07-24T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa Growth Surge Threatens Latin America Clout"
+        },
+        {
+          "title": "Big Brother Naija : Inside the trauma , romance , and brand - building that define the Show",
+          "link": "https://blueprint.ng/big-brother-naija-inside-the-trauma-romance-and-brand-building-that-define-the-show/",
+          "source": "blueprint.ng",
+          "pubDate": "2026-07-24T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Big Brother Naija : Inside the trauma , romance , and brand - building that define the Show"
+        },
+        {
+          "title": "As Secretary - General Urges Security Council Members to  Lead by Example , Delegates Call for Greater Use of UN Diplomatic Toolbox to Peacefully Settle Disputes",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260723-unsc01.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-07-24T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "As Secretary - General Urges Security Council Members to  Lead by Example , Delegates Call for Greater Use of UN Diplomatic Toolbox to Peacefully Settle Disputes"
+        },
+        {
+          "title": "Sudan Receives New Power Barge to Tackle Severe Electricity Shortages – The North Africa Post",
+          "link": "https://northafricapost.com/99075-sudan-receives-new-power-barge-to-tackle-severe-electricity-shortages.html",
+          "source": "northafricapost.com",
+          "pubDate": "2026-07-24T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan Receives New Power Barge to Tackle Severe Electricity Shortages – The North Africa Post"
         }
       ]
     },
