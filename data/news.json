@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T14:42:13.632Z",
+  "generatedAt": "2026-07-28T17:47:42.468Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -39,6 +39,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Turchia-Iraq: Erdogan, progetto Via dello Sviluppo importante soprattutto in contesto attuale",
+          "link": "https://www.agenzianova.com/a/6a68eaffeb9e75.36293702/7649901/2026-07-28/turchia-iraq-erdogan-progetto-via-dello-sviluppo-importante-soprattutto-in-contesto-attuale",
+          "description": "28 lug 19:08 - (Agenzia Nova) - Il progetto di infrastruttura Via dello sviluppo, \"che collega il Golfo al mondo attraverso l'Iraq e' diventato... (Tua)",
+          "pubDate": "2026-07-28T19:08:42+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Turchia-Iraq: Erdogan, progetto Via dello Sviluppo importante soprattutto in contesto attuale"
+        },
+        {
           "title": "Kenya: More Pedestrians Arrested As NTSA Intensifies Footbridge Crackdown",
           "link": "https://allafrica.com/stories/202607280208.html",
           "description": "[Capital FM] Nairobi -- The National Transport and Safety Authority (NTSA) and the National Police on Tuesday intensified their crackdown on pedestrians crossing busy roads at undesignated points, leading to more arrests at Nairobi's General Motors (GM) footbridge.",
@@ -55,15 +64,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: Expert Debunks Kindiki Duty Transfer Claims As DP Dismisses 'Fake News'"
-        },
-        {
-          "title": "Kenya: Kindiki Breaks Silence On Fake News Over Ruto Fallout",
-          "link": "https://allafrica.com/stories/202607280043.html",
-          "description": "[Capital FM] Nairobi -- Deputy President Kithure Kindiki has dismissed as \"fake news\" reports claiming he had been stripped of key government responsibilities.",
-          "pubDate": "Tue, 28 Jul 2026 07:07:29 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Kindiki Breaks Silence On Fake News Over Ruto Fallout"
         },
         {
           "title": "US deports Kenyan former NFL player Daniel Adongo",
@@ -247,184 +247,13 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "FTSE 100 Live : Unilever leads index close to highs , US semi sell - off deepens",
-          "link": "https://www.proactiveinvestors.com/companies/news/1096116/ftse-100-live-unilever-leads-index-close-to-highs-us-semi-sell-off-deepens-1096116.html",
-          "source": "proactiveinvestors.com",
-          "pubDate": "2026-07-28T14:15:00Z",
+          "title": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/24/launch-of-a-cooperation-project-for-womens-and-girls-leadership-in-senegal_462cdc6a-ba23-42f4-aaee-e4f0d3190049.html",
+          "description": "(ANSA) - IL CAIRO, 24 LUG - The Italian Ambassador to Senegal, Michele Tommasi, spoke at the first meeting of the National Steering Committee for the Parel/F project—an initiative funded by Italian Cooperation to strengthen the leadership and socioeconomic inclusion of women and girls in Senegal—to reaffirm Italy’s support for this initiative. The meeting was opened by the Chief of Staff of the Ministry of Family, Social Action, and Solidarity, Amadou Diaw, and by the Director of AICS Dakar, Giovanni Grandi, officially launching the project’s operational phase. This first meeting made it possi",
+          "pubDate": "Fri, 24 Jul 2026 19:55:54 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "FTSE 100 Live : Unilever leads index close to highs , US semi sell - off deepens"
-        },
-        {
-          "title": "Rokos Capital Management LLP Invests $44 . 29 Million in Mastercard Incorporated $MA",
-          "link": "https://www.themarketsdaily.com/2026/07/28/rokos-capital-management-llp-invests-44-29-million-in-mastercard-incorporated-ma.html",
-          "source": "themarketsdaily.com",
-          "pubDate": "2026-07-28T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Rokos Capital Management LLP Invests $44 . 29 Million in Mastercard Incorporated $MA"
-        },
-        {
-          "title": "Latest Articles",
-          "link": "https://freerepublic.com/tag/*/index?more=4389617",
-          "source": "freerepublic.com",
-          "pubDate": "2026-07-28T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Latest Articles"
-        },
-        {
-          "title": "Fela Kuti - the radicalisation of Nigeria greatest star",
-          "link": "https://www.mojo4music.com/articles/stories/fela-kuti-the-rise-of-an-afrobeat-revolutionary-they-threw-tear-gas-and-beat-the-shit-outta-us/",
-          "source": "mojo4music.com",
-          "pubDate": "2026-07-28T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fela Kuti - the radicalisation of Nigeria greatest star"
-        },
-        {
-          "title": "Oil Tankers Reroute to Egypt amid Houthi Threat",
-          "link": "https://www.rigzone.com/news/wire/oil_tankers_reroute_to_egypt_amid_houthi_threat-28-jul-2026-184227-article/",
-          "source": "rigzone.com",
-          "pubDate": "2026-07-28T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Oil Tankers Reroute to Egypt amid Houthi Threat"
-        },
-        {
-          "title": "Russia breaks Western plan and forces Ukraine to its knees as Putin issues final Poseidon and Zircon warning",
-          "link": "https://www.bankingnews.gr/diethni/articles/890844/russia-breaks-western-plan-and-forces-ukraine-to-its-knees-as-putin-issues-final-poseidon-and-zircon-warning",
-          "source": "bankingnews.gr",
-          "pubDate": "2026-07-28T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Russia breaks Western plan and forces Ukraine to its knees as Putin issues final Poseidon and Zircon warning"
-        },
-        {
-          "title": "Iran War : Despite Serious Damage to Saudi Oil Infrastructure and No Settlement in Sight , Oil Prices Drop ; Netanyahu to Talk War with Trump",
-          "link": "https://www.nakedcapitalism.com/2026/07/iran-war-despite-serious-damage-to-saudi-oil-infrastructure-and-no-settlement-in-sight-oil-prices-drop-netanyahu-to-talk-war-with-trump.html",
-          "source": "nakedcapitalism.com",
-          "pubDate": "2026-07-28T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran War : Despite Serious Damage to Saudi Oil Infrastructure and No Settlement in Sight , Oil Prices Drop ; Netanyahu to Talk War with Trump"
-        },
-        {
-          "title": "Iran , Oman continue talks on full restoration of shipping through Strait of Hormuz",
-          "link": "https://www.azernews.az/region/261643.html",
-          "source": "azernews.az",
-          "pubDate": "2026-07-28T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran , Oman continue talks on full restoration of shipping through Strait of Hormuz"
-        },
-        {
-          "title": "Markets & Companies - Business - Ahram Online",
-          "link": "https://english.ahram.org.eg/Category/3/14/Business/Asian-shares-slip,-South-Korea%E2%80%99s-Kospi-i.aspx",
-          "source": "english.ahram.org.eg",
-          "pubDate": "2026-07-28T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Markets & Companies - Business - Ahram Online"
-        },
-        {
-          "title": "Simplex inaugurates second factory with $50 million investment",
-          "link": "https://www.wamda.com/2026/07/simplex-inaugurates-second-factory-50-million-investment",
-          "source": "wamda.com",
-          "pubDate": "2026-07-28T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Simplex inaugurates second factory with $50 million investment"
-        },
-        {
-          "title": "West Asia crisis is rewriting India flight map : Longer routes , higher fuel burn and costlier tickets",
-          "link": "https://www.moneycontrol.com/news/business/west-asia-crisis-is-rewriting-india-s-flight-map-longer-routes-higher-fuel-burn-and-costlier-tickets-13985669.html",
-          "source": "moneycontrol.com",
-          "pubDate": "2026-07-28T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "West Asia crisis is rewriting India flight map : Longer routes , higher fuel burn and costlier tickets"
-        },
-        {
-          "title": "Europe primed for flat open as Brent stabilises at $87 / bbl , KOSPI - 10 % - Newsquawk EU Market Open",
-          "link": "https://www.zerohedge.com/markets/europe-primed-flat-open-brent-stabilises-87bbl-kospi-10-newsquawk-eu-market-open",
-          "source": "zerohedge.com",
-          "pubDate": "2026-07-28T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Europe primed for flat open as Brent stabilises at $87 / bbl , KOSPI - 10 % - Newsquawk EU Market Open"
-        },
-        {
-          "title": "US - Saudi nuclear deal puts Iran , Israel in new strategic equation",
-          "link": "https://www.azernews.az/analysis/261635.html",
-          "source": "azernews.az",
-          "pubDate": "2026-07-28T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US - Saudi nuclear deal puts Iran , Israel in new strategic equation"
-        },
-        {
-          "title": "No New Ideas to end the Ukraine War",
-          "link": "https://slguardian.org/no-new-ideas-to-end-the-ukraine-war/",
-          "source": "slguardian.org",
-          "pubDate": "2026-07-28T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "No New Ideas to end the Ukraine War"
-        },
-        {
-          "title": "Trump hosts Netanyahu , Saudi Arabia intercepts drones and Lebanon explores new oil route",
-          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/07/28/trump-hosts-netanyahu-saudi-arabia-intercepts-drones-and-lebanon-explores-new-oil-route/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-07-28T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump hosts Netanyahu , Saudi Arabia intercepts drones and Lebanon explores new oil route"
-        },
-        {
-          "title": "Fixing Imo for Tinubu : Inside Uzodimma 2027 campaign",
-          "link": "https://www.vanguardngr.com/2026/07/fixing-imo-for-tinubu-inside-uzodimmas-2027-campaign/",
-          "source": "vanguardngr.com",
-          "pubDate": "2026-07-28T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fixing Imo for Tinubu : Inside Uzodimma 2027 campaign"
-        },
-        {
-          "title": "Afrodiáspora Festival 2026 : Three Nights of African Music in Bogotá",
-          "link": "https://www.riotimesonline.com/bogota-afrodiaspora-festival-2026-african-caribbean-music/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-07-28T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Afrodiáspora Festival 2026 : Three Nights of African Music in Bogotá"
-        },
-        {
-          "title": "Netanyahu Lands In DC Ahead Of Trump Meeting | LIVE BLOG",
-          "link": "https://www.i24news.tv/en/news/international/artc-netanyahu-lands-in-dc-ahead-of-trump-meeting-live-blog",
-          "source": "i24news.tv",
-          "pubDate": "2026-07-28T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Netanyahu Lands In DC Ahead Of Trump Meeting | LIVE BLOG"
-        },
-        {
-          "title": "Nigeriaâ€™s pleasant economic surprises - Blueprint Newspapers Limited",
-          "link": "https://blueprint.ng/nigerias-pleasant-economic-surprises/",
-          "source": "blueprint.ng",
-          "pubDate": "2026-07-28T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nigeriaâ€™s pleasant economic surprises - Blueprint Newspapers Limited"
-        },
-        {
-          "title": "Yara introduces two new crop solutions",
-          "link": "https://thebftonline.com/article/yara-introduces-two-new-crop-solutions",
-          "source": "thebftonline.com",
-          "pubDate": "2026-07-28T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Yara introduces two new crop solutions"
+          "titleIt": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal"
         }
       ]
     },
