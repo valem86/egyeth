@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T23:30:06.534Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-07-28T03:41:10.570Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -14,24 +14,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -64,21 +46,30 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Africa Outpaces Asia : East , North & West Africa Growth Shift",
+          "link": "https://www.riotimesonline.com/africa-overtakes-asia-growth-path-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-07-27T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa Outpaces Asia : East , North & West Africa Growth Shift"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
+          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "recorder.com",
+          "pubDate": "2026-07-27T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
+        },
         {
           "title": "Nigeria seizes thousands of kilograms of drugs as trafficking concerns grow",
           "link": "http://www.africanews.com/2026/07/27/nigeria-seizes-thousands-of-kilograms-of-drugs-as-trafficking-concerns-grow/",
@@ -87,6 +78,33 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Nigeria seizes thousands of kilograms of drugs as trafficking concerns grow"
+        },
+        {
+          "title": "Somali Future Council Demands Political Deal Before Further AUSSOM Support",
+          "link": "https://raxanreeb.com/somali-future-council-demands-political-deal-before-further-aussom-support/",
+          "source": "raxanreeb.com",
+          "pubDate": "2026-07-27T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somali Future Council Demands Political Deal Before Further AUSSOM Support"
+        },
+        {
+          "title": "Kenya , ECA , AU - IBAR and IGAD launch effort to build climate resilience in livestock , land and insurance systems",
+          "link": "https://www.uneca.org/stories/kenya,-eca,-au-ibar-and-igad-launch-effort-to-build-climate-resilience-in-livestock,-land",
+          "source": "uneca.org",
+          "pubDate": "2026-07-27T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Kenya , ECA , AU - IBAR and IGAD launch effort to build climate resilience in livestock , land and insurance systems"
+        },
+        {
+          "title": "Employers fear labor shortage as many immigrants lose protected status",
+          "link": "https://www.hawaiitribune-herald.com/2026/07/27/nation-world-news/employers-fear-labor-shortage-as-many-immigrants-lose-protected-status/",
+          "source": "hawaiitribune-herald.com",
+          "pubDate": "2026-07-27T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Employers fear labor shortage as many immigrants lose protected status"
         },
         {
           "title": "The Embassy in Norway Publishes a New Edition of the Oil & Gas Guide",
@@ -98,6 +116,15 @@
           "titleIt": "The Embassy in Norway Publishes a New Edition of the Oil & Gas Guide"
         },
         {
+          "title": "PROFILE : Who Is Olara Otunnu ? The Ugandan Diplomat Seeking to Lead the United Nations",
+          "link": "https://chimpreports.com/profile-who-is-olara-otunnu-the-ugandan-diplomat-seeking-to-lead-the-united-nations/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-07-27T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "PROFILE : Who Is Olara Otunnu ? The Ugandan Diplomat Seeking to Lead the United Nations"
+        },
+        {
           "title": "The 2026 edition of Vinitaly.us was unveiled aboard the ship Vespucci in Québec City.",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/27/the-2026-edition-of-vinitaly.us-was-unveiled-aboard-the-ship-vespucci_c6890bab-8c5e-42cc-b090-f0534c64bb50.html",
           "description": "(ANSA) - ROMA, 27 LUG - The Italian Ambassador to Canada, Alessandro Cattaneo, presented the 2026 edition of “Vinitaly.us” aboard the Amerigo Vespucci, which made a stop in Québec City. Present at the event were the president of the Italian Trade Agency, Matteo Zoppas; the CEO of Difesa Servizi, Luca Andreoli; the president of Veronafiere, Federico Bricolo; and the managing director of Vinitaly International, Stevie Kim. The event underscored the growing strategic importance of the Canadian market for Italian wine. It was also emphasized that Italy and Canada continue to strengthen their strat",
@@ -107,67 +134,103 @@
           "titleIt": "The 2026 edition of Vinitaly.us was unveiled aboard the ship Vespucci in Québec City."
         },
         {
-          "title": "Italy’s SACE and Bank of Africa in Rabat Join Forces for the Mattei Plan",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/24/italys-sace-and-bank-of-africa-in-rabat-join-forces-for-the_14180ec2-3052-49bc-8e1d-d11fac665ac9.html",
-          "description": "SACE, the Italian Export Credit Agency owned by the Ministry of Economy and Finance, and Bank of Africa, one of the leading banking groups on the African continent, have signed an agreement to invest jointly in Africa and promote the involvement of Italian companies in strategic projects being carried out on the continent. The agreement, signed by Mario Melillo on behalf of Sace and Khalid Nasr on behalf of Bank of Africa, brings together the African bank’s extensive presence and Sace’s financial and insurance solutions to support the competitiveness and internationalization of Italian compani",
-          "pubDate": "Fri, 24 Jul 2026 16:20:49 +0200",
-          "source": "ANSA English",
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
+          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "gazettenet.com",
+          "pubDate": "2026-07-27T03:00:00Z",
           "lang": "en",
-          "titleIt": "Italy’s SACE and Bank of Africa in Rabat Join Forces for the Mattei Plan"
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
         },
         {
-          "title": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf",
-          "link": "https://www.ansa.it/english/news/business/2026/07/24/confindustria-sounds-alarm-about-outlook-amid-fresh-conflict-in-the-gulf_3bba7108-3ccb-4174-b87a-60ff87a88521.html",
-          "description": "(ANSA) - ROME, JUL 24 - The CSC research unit of Italian industry association Confindustria on Friday sounded the alarm about the nation's economic outlook following a breakdown of the Iran war ceasefire. \"The third quarter is off to a bad start,\" the CSC said in its latest economic outlook report. \"The war in Iran flared up again in July, and uncertainty about future developments is at a peak: oil prices were immediately affected. \"Having already slowed Italian GDP in the second quarter, the war's impact is now spilling over into the third,. \"Inflation will remain high for some time and credi",
-          "pubDate": "Fri, 24 Jul 2026 11:57:30 +0200",
-          "source": "ANSA English",
+          "title": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust",
+          "link": "https://dailytrust.com/secret-uae-linked-camps-used-to-recruit-mercenaries-for-sudan-conflict-report/",
+          "source": "dailytrust.com",
+          "pubDate": "2026-07-27T02:30:00Z",
           "lang": "en",
-          "titleIt": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf"
+          "description": "",
+          "titleIt": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust"
         },
         {
-          "title": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf",
-          "link": "https://www.ansa.it/english/news/2026/07/24/confindustria-sounds-alarm-about-outlook-amid-fresh-conflict-in-the-gulf_1cb7abfe-6d32-4b65-9d40-995d1c44366f.html",
-          "description": "(ANSA) - ROME, JUL 24 - The CSC research unit of Italian industry association Confindustria on Friday sounded the alarm about the nation's economic outlook following a breakdown of the Iran war ceasefire. \"The third quarter is off to a bad start,\" the CSC said in its latest economic outlook report. \"The war in Iran flared up again in July, and uncertainty about future developments is at a peak: oil prices were immediately affected. \"Having already slowed Italian GDP in the second quarter, the war's impact is now spilling over into the third,. \"Inflation will remain high for some time and credi",
-          "pubDate": "Fri, 24 Jul 2026 11:49:48 +0200",
-          "source": "ANSA English",
+          "title": "Lebanon , Arab states must strengthen response to external risks",
+          "link": "https://www.arabnews.com/node/2652386",
+          "source": "arabnews.com",
+          "pubDate": "2026-07-26T23:45:00Z",
           "lang": "en",
-          "titleIt": "Confindustria sounds alarm about outlook amid fresh conflict in the Gulf"
+          "description": "",
+          "titleIt": "Lebanon , Arab states must strengthen response to external risks"
         },
         {
-          "title": "No rush to find new Italy coach says Maldini",
-          "link": "https://www.ansa.it/english/news/sports/2026/07/23/no-rush-to-find-new-italy-coach-says-maldini_edac5db3-5536-4ab7-bc45-8494f10635be.html",
-          "description": "(ANSA) - ROME, JUL 23 - The Italian Soccer Federation's (FIGC) new Technical Director Paolo Maldini said Thursday that he was not in a rush to appoint a new coach for the national team. Earlier this week FIGC President Giovanni Malagò confirmed reports that the federation had approached Pep Guardiola about taking on the role and Maldini added on Thursday that they have looked up Brazil coach Carlo Ancelotti too. \"Ideally, it would be this week, but, above all, we need to wait for the person we really want,\" Maldini said after he, Malagò and FIGC consultant Leonardo had a meeting with Serie A c",
-          "pubDate": "Thu, 23 Jul 2026 15:25:37 +0200",
-          "source": "ANSA English",
+          "title": "Peter Obi Bold Declaration : A Four - Year Blueprint for Nigeria Transformation and His Unwavering Commitment to a Single Term – Ghanamma . com",
+          "link": "https://www.ghanamma.com/2026/07/25/peter-obis-bold-declaration-a-four-year-blueprint-for-nigerias-transformation-and-his-unwavering-commitment-to-a-single-term/",
+          "source": "ghanamma.com",
+          "pubDate": "2026-07-25T18:15:00Z",
           "lang": "en",
-          "titleIt": "No rush to find new Italy coach says Maldini"
+          "description": "",
+          "titleIt": "Peter Obi Bold Declaration : A Four - Year Blueprint for Nigeria Transformation and His Unwavering Commitment to a Single Term – Ghanamma . com"
         },
         {
-          "title": "No rush to find new Italy coach says Maldini",
-          "link": "https://www.ansa.it/english/news/2026/07/23/no-rush-to-find-new-italy-coach-says-maldini_826da0ed-e7c6-4219-a443-83754d94cf60.html",
-          "description": "(ANSA) - ROME, JUL 23 - The Italian Soccer Federation's (FIGC) new Technical Director Paolo Maldini said Thursday that he was not in a rush to appoint a new coach for the national team. Earlier this week FIGC President Giovanni Malagò confirmed reports that the federation had approached Pep Guardiola about taking on the role and Maldini added on Thursday that they have looked up Brazil coach Carlo Ancelotti too. \"Ideally, it would be this week, but, above all, we need to wait for the person we really want,\" Maldini said after he, Malagò and FIGC consultant Leonardo had a meeting with Serie A c",
-          "pubDate": "Thu, 23 Jul 2026 15:22:41 +0200",
-          "source": "ANSA English",
+          "title": "The return of the African megaproject",
+          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
+          "source": "hindustantimes.com",
+          "pubDate": "2026-07-25T14:45:00Z",
           "lang": "en",
-          "titleIt": "No rush to find new Italy coach says Maldini"
+          "description": "",
+          "titleIt": "The return of the African megaproject"
         },
         {
-          "title": "Villa warned over sportswashing after Visit Rwanda deal",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
-          "description": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record.",
-          "pubDate": "Tue, 14 Jul 2026 18:44:04 GMT",
-          "source": "BBC Africa",
+          "title": "The Future Of Freight : What Will Liberalization Mean For Ethiopia Fledging Logistics Sector ?",
+          "link": "https://www.thereporterethiopia.com/52006/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
           "lang": "en",
-          "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
+          "description": "",
+          "titleIt": "The Future Of Freight : What Will Liberalization Mean For Ethiopia Fledging Logistics Sector ?"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
+          "link": "https://www.thereporterethiopia.com/52030/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
+        },
+        {
+          "title": "The Leaky Bucket Of Global Peace : How Multilateral Defunding Is Starving The Horn Humanitarian , Peacekeeping Operations",
+          "link": "https://www.thereporterethiopia.com/52010/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Leaky Bucket Of Global Peace : How Multilateral Defunding Is Starving The Horn Humanitarian , Peacekeeping Operations"
+        },
+        {
+          "title": "Africa Intelligence Brief July 24 : The Verdict and the Vigil",
+          "link": "https://www.riotimesonline.com/africa-intelligence-brief-friday-july-24-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-07-24T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa Intelligence Brief July 24 : The Verdict and the Vigil"
+        },
+        {
+          "title": "Africa Growth Surge Threatens Latin America Clout",
+          "link": "https://www.riotimesonline.com/a-new-growth-pole-how-africa-s-surge-reorders-the-global-2026-07-24/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-07-24T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa Growth Surge Threatens Latin America Clout"
+        },
+        {
+          "title": "Big Brother Naija : Inside the trauma , romance , and brand - building that define the Show",
+          "link": "https://blueprint.ng/big-brother-naija-inside-the-trauma-romance-and-brand-building-that-define-the-show/",
+          "source": "blueprint.ng",
+          "pubDate": "2026-07-24T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Big Brother Naija : Inside the trauma , romance , and brand - building that define the Show"
         }
       ]
     },
@@ -175,184 +238,31 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.theusnews.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "theusnews.com",
-          "pubDate": "2026-07-27T23:00:00Z",
+          "title": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/24/launch-of-a-cooperation-project-for-womens-and-girls-leadership-in-senegal_462cdc6a-ba23-42f4-aaee-e4f0d3190049.html",
+          "description": "(ANSA) - IL CAIRO, 24 LUG - The Italian Ambassador to Senegal, Michele Tommasi, spoke at the first meeting of the National Steering Committee for the Parel/F project—an initiative funded by Italian Cooperation to strengthen the leadership and socioeconomic inclusion of women and girls in Senegal—to reaffirm Italy’s support for this initiative. The meeting was opened by the Chief of Staff of the Ministry of Family, Social Action, and Solidarity, Amadou Diaw, and by the Director of AICS Dakar, Giovanni Grandi, officially launching the project’s operational phase. This first meeting made it possi",
+          "pubDate": "Fri, 24 Jul 2026 19:55:54 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
+          "titleIt": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal"
         },
         {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.sandiegosun.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "sandiegosun.com",
-          "pubDate": "2026-07-27T23:00:00Z",
+          "title": "Woman, 55, dies two months after being hit in Modena car attack",
+          "link": "https://www.ansa.it/english/news/general_news/2026/07/22/woman-55-dies-two-months-after-being-hit-in-modena-car-attack_3644f5fc-3054-4fc0-ab52-f5e9b280caf5.html",
+          "description": "(ANSA) - ROME, JUL 22 - A 55-year-old woman who was among the people hit by a car attack in the northern city of Modena on May 16 has died, the hospital she was being treated at said on Wednesday. Monica Esposito never regained consciousness after the attack by a 31-year-old Italian citizen of Moroccan origin with mental-health problems, Salim El Koudri. After driving into the pedestrians with his car, El Koudri pulled a knife when passers-by, including two Egyptian men, grappled him to ground. Esposito was among eight people injured in the attack. El Koudri is an economics graduate who had no",
+          "pubDate": "Wed, 22 Jul 2026 16:04:12 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
+          "titleIt": "Woman, 55, dies two months after being hit in Modena car attack"
         },
         {
-          "title": "Choppy trade as American stock markets kick off new week",
-          "link": "http://www.bruneinews.net/news/279212532/choppy-trade-as-american-stock-markets-kick-off-new-week",
-          "source": "bruneinews.net",
-          "pubDate": "2026-07-27T23:00:00Z",
+          "title": "Woman, 55, dies two months after being hit in Modena car attack",
+          "link": "https://www.ansa.it/english/news/2026/07/22/woman-55-dies-two-months-after-being-hit-in-modena-car-attack_dd1afbb5-d5a2-4568-a9ce-13218f265f0b.html",
+          "description": "(ANSA) - ROME, JUL 22 - A 55-year-old woman who was among the people hit by a car attack in the northern city of Modena on May 16 has died, the hospital she was being treated at said on Wednesday. Monica Esposito never regained consciousness after the attack by a 31-year-old Italian citizen of Moroccan origin with mental-health problems, Salim El Koudri. After driving into the pedestrians with his car, El Koudri pulled a knife when passers-by, including two Egyptian men, grappled him to ground. Esposito was among eight people injured in the attack. El Koudri is an economics graduate who had no",
+          "pubDate": "Wed, 22 Jul 2026 16:03:02 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Choppy trade as American stock markets kick off new week"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.milwaukeesun.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "milwaukeesun.com",
-          "pubDate": "2026-07-27T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.trinidadtimes.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "trinidadtimes.com",
-          "pubDate": "2026-07-27T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.iranherald.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "iranherald.com",
-          "pubDate": "2026-07-27T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "Countering Erdogan : What Biden must do for the sake of stability",
-          "link": "https://www.defensenews.com/opinion/commentary/2021/11/04/countering-erdogan-what-biden-must-do-for-the-sake-of-stability/",
-          "source": "defensenews.com",
-          "pubDate": "2026-07-27T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Countering Erdogan : What Biden must do for the sake of stability"
-        },
-        {
-          "title": "Buy American : Biden sees industry pushback as allies warn of trade consequences",
-          "link": "https://www.defensenews.com/global/the-americas/2021/11/01/buy-american-biden-sees-industry-pushback-as-allies-warn-of-trade-consequences/",
-          "source": "defensenews.com",
-          "pubDate": "2026-07-27T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Buy American : Biden sees industry pushback as allies warn of trade consequences"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.pakistantelegraph.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "pakistantelegraph.com",
-          "pubDate": "2026-07-27T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "Central Bank of Egypt Strengthens Pan - African Collaboration Through Knowledge Exchange on AI , Digital Transformation , and Cybersecurity – Ghanamma . com",
-          "link": "https://www.ghanamma.com/2026/07/27/central-bank-of-egypt-strengthens-pan-african-collaboration-through-knowledge-exchange-on-ai-digital-transformation-and-cybersecurity/",
-          "source": "ghanamma.com",
-          "pubDate": "2026-07-27T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Central Bank of Egypt Strengthens Pan - African Collaboration Through Knowledge Exchange on AI , Digital Transformation , and Cybersecurity – Ghanamma . com"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.nashvilleherald.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "nashvilleherald.com",
-          "pubDate": "2026-07-27T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.europesun.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "europesun.com",
-          "pubDate": "2026-07-27T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "AIRCAIRO launches direct scheduled flights to Athens",
-          "link": "https://news.travelling.gr/2026/07/aircairo-launches-direct-scheduled-flights-to-athens/",
-          "source": "news.travelling.gr",
-          "pubDate": "2026-07-27T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AIRCAIRO launches direct scheduled flights to Athens"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.batonrougepost.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "batonrougepost.com",
-          "pubDate": "2026-07-27T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "Choppy trade as American stock markets kick off new week",
-          "link": "http://www.laosnews.net/news/279212532/choppy-trade-as-american-stock-markets-kick-off-new-week",
-          "source": "laosnews.net",
-          "pubDate": "2026-07-27T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Choppy trade as American stock markets kick off new week"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.iraqsun.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "iraqsun.com",
-          "pubDate": "2026-07-27T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.oklahomacitysun.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "oklahomacitysun.com",
-          "pubDate": "2026-07-27T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.indiagazette.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "indiagazette.com",
-          "pubDate": "2026-07-27T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.torontotelegraph.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "torontotelegraph.com",
-          "pubDate": "2026-07-27T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
-        },
-        {
-          "title": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points",
-          "link": "http://www.zimbabwestar.com/news/279212532/u-s-stocks-end-mixed-on-monday-nasdaq-slides-44-points",
-          "source": "zimbabwestar.com",
-          "pubDate": "2026-07-27T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks end mixed on Monday , Nasdaq slides 44 points"
+          "titleIt": "Woman, 55, dies two months after being hit in Modena car attack"
         }
       ]
     },
