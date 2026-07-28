@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T10:46:44.573Z",
+  "generatedAt": "2026-07-28T14:42:13.632Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -38,6 +38,15 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenya: More Pedestrians Arrested As NTSA Intensifies Footbridge Crackdown",
+          "link": "https://allafrica.com/stories/202607280208.html",
+          "description": "[Capital FM] Nairobi -- The National Transport and Safety Authority (NTSA) and the National Police on Tuesday intensified their crackdown on pedestrians crossing busy roads at undesignated points, leading to more arrests at Nairobi's General Motors (GM) footbridge.",
+          "pubDate": "Tue, 28 Jul 2026 10:48:08 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: More Pedestrians Arrested As NTSA Intensifies Footbridge Crackdown"
+        },
         {
           "title": "Kenya: Expert Debunks Kindiki Duty Transfer Claims As DP Dismisses 'Fake News'",
           "link": "https://allafrica.com/stories/202607280170.html",
@@ -98,13 +107,22 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Sanita': protocollo intesa su ricerca clinica tra Regione Lazio, Farmindustria e Unindustria (4)",
-          "link": "https://www.agenzianova.com/a/6a6888424aa911.11952983/7647974/2026-07-28/sanita-protocollo-intesa-su-ricerca-clinica-tra-regione-lazio-farmindustria-e-unindustria-4",
-          "description": "28 lug 12:41 - (Agenzia Nova) - \"Il Lazio e' tra le principali regioni europee per export e produzione farmaceutica e rappresenta uno dei principali... (Com)",
-          "pubDate": "2026-07-28T12:41:41+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Sanita': protocollo intesa su ricerca clinica tra Regione Lazio, Farmindustria e Unindustria (4)"
+          "title": "28% increase in passports issued by the Italian Consulate in Dubai",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/28/28-increase-in-passports-issued-by-the-italian-consulate-in-dubai_7ce30183-4878-4fc5-b465-94c44ccd241c.html",
+          "description": "(ANSA) - ROMA, 28 LUG - The Consulate General of Italy in Dubai reports that in the first six months of 2026, it issued 1,340 passports, compared to 1,046 during the same period in 2025. This represents a 28% increase. “This increase,” explains the consulate, “did not occur in spite of the conflict, but rather because of the conflict.” Furthermore, the consular offices remained open throughout March to renew expiring passports and issue first passports to newborns. Read article...",
+          "pubDate": "Tue, 28 Jul 2026 15:39:38 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "28% increase in passports issued by the Italian Consulate in Dubai"
+        },
+        {
+          "title": "Italy 'books' SAFE loan of up to €14.9 billion, but EC says deal must be signed ASAP",
+          "link": "https://www.ansa.it/english/news/2026/07/28/italy-books-safe-loan-of-up-to-14.9-billion-but-ec-says-deal-must_b339b287-79de-433e-922a-f27cf4660a2a.html",
+          "description": "(ANSA) - ROME, JUL 28 - Deputy Premier and Foreign Minister Antonio Tajani said Tuesday that the government has reserved the right to take a loan from the EU's SAFE (Security Action for Europe) facility of up to 14.9 billion euros to invest in security and defence. Tajani stressed that the loan only has been \"reserved\" and that the government will decide by the end of the year how much actually to take, if any, as he reported to a joint session of the defence and foreign affairs committees of the Lower House and Senate over the recent NATO summit in Ankara. Economy Minister Giancarlo Giorgetti",
+          "pubDate": "Tue, 28 Jul 2026 13:48:27 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Italy 'books' SAFE loan of up to €14.9 billion, but EC says deal must be signed ASAP"
         },
         {
           "title": "Govt cuts diesel duties by 17 cents to help with rise in fuel costs",
@@ -229,6 +247,87 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
+          "title": "FTSE 100 Live : Unilever leads index close to highs , US semi sell - off deepens",
+          "link": "https://www.proactiveinvestors.com/companies/news/1096116/ftse-100-live-unilever-leads-index-close-to-highs-us-semi-sell-off-deepens-1096116.html",
+          "source": "proactiveinvestors.com",
+          "pubDate": "2026-07-28T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "FTSE 100 Live : Unilever leads index close to highs , US semi sell - off deepens"
+        },
+        {
+          "title": "Rokos Capital Management LLP Invests $44 . 29 Million in Mastercard Incorporated $MA",
+          "link": "https://www.themarketsdaily.com/2026/07/28/rokos-capital-management-llp-invests-44-29-million-in-mastercard-incorporated-ma.html",
+          "source": "themarketsdaily.com",
+          "pubDate": "2026-07-28T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rokos Capital Management LLP Invests $44 . 29 Million in Mastercard Incorporated $MA"
+        },
+        {
+          "title": "Latest Articles",
+          "link": "https://freerepublic.com/tag/*/index?more=4389617",
+          "source": "freerepublic.com",
+          "pubDate": "2026-07-28T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Latest Articles"
+        },
+        {
+          "title": "Fela Kuti - the radicalisation of Nigeria greatest star",
+          "link": "https://www.mojo4music.com/articles/stories/fela-kuti-the-rise-of-an-afrobeat-revolutionary-they-threw-tear-gas-and-beat-the-shit-outta-us/",
+          "source": "mojo4music.com",
+          "pubDate": "2026-07-28T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fela Kuti - the radicalisation of Nigeria greatest star"
+        },
+        {
+          "title": "Oil Tankers Reroute to Egypt amid Houthi Threat",
+          "link": "https://www.rigzone.com/news/wire/oil_tankers_reroute_to_egypt_amid_houthi_threat-28-jul-2026-184227-article/",
+          "source": "rigzone.com",
+          "pubDate": "2026-07-28T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Oil Tankers Reroute to Egypt amid Houthi Threat"
+        },
+        {
+          "title": "Russia breaks Western plan and forces Ukraine to its knees as Putin issues final Poseidon and Zircon warning",
+          "link": "https://www.bankingnews.gr/diethni/articles/890844/russia-breaks-western-plan-and-forces-ukraine-to-its-knees-as-putin-issues-final-poseidon-and-zircon-warning",
+          "source": "bankingnews.gr",
+          "pubDate": "2026-07-28T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russia breaks Western plan and forces Ukraine to its knees as Putin issues final Poseidon and Zircon warning"
+        },
+        {
+          "title": "Iran War : Despite Serious Damage to Saudi Oil Infrastructure and No Settlement in Sight , Oil Prices Drop ; Netanyahu to Talk War with Trump",
+          "link": "https://www.nakedcapitalism.com/2026/07/iran-war-despite-serious-damage-to-saudi-oil-infrastructure-and-no-settlement-in-sight-oil-prices-drop-netanyahu-to-talk-war-with-trump.html",
+          "source": "nakedcapitalism.com",
+          "pubDate": "2026-07-28T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran War : Despite Serious Damage to Saudi Oil Infrastructure and No Settlement in Sight , Oil Prices Drop ; Netanyahu to Talk War with Trump"
+        },
+        {
+          "title": "Iran , Oman continue talks on full restoration of shipping through Strait of Hormuz",
+          "link": "https://www.azernews.az/region/261643.html",
+          "source": "azernews.az",
+          "pubDate": "2026-07-28T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran , Oman continue talks on full restoration of shipping through Strait of Hormuz"
+        },
+        {
+          "title": "Markets & Companies - Business - Ahram Online",
+          "link": "https://english.ahram.org.eg/Category/3/14/Business/Asian-shares-slip,-South-Korea%E2%80%99s-Kospi-i.aspx",
+          "source": "english.ahram.org.eg",
+          "pubDate": "2026-07-28T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Markets & Companies - Business - Ahram Online"
+        },
+        {
           "title": "Simplex inaugurates second factory with $50 million investment",
           "link": "https://www.wamda.com/2026/07/simplex-inaugurates-second-factory-50-million-investment",
           "source": "wamda.com",
@@ -256,15 +355,6 @@
           "titleIt": "Europe primed for flat open as Brent stabilises at $87 / bbl , KOSPI - 10 % - Newsquawk EU Market Open"
         },
         {
-          "title": "Fixing Imo for Tinubu : Inside Uzodimma 2027 campaign",
-          "link": "https://www.vanguardngr.com/2026/07/fixing-imo-for-tinubu-inside-uzodimmas-2027-campaign/",
-          "source": "vanguardngr.com",
-          "pubDate": "2026-07-28T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fixing Imo for Tinubu : Inside Uzodimma 2027 campaign"
-        },
-        {
           "title": "US - Saudi nuclear deal puts Iran , Israel in new strategic equation",
           "link": "https://www.azernews.az/analysis/261635.html",
           "source": "azernews.az",
@@ -290,6 +380,15 @@
           "lang": "en",
           "description": "",
           "titleIt": "Trump hosts Netanyahu , Saudi Arabia intercepts drones and Lebanon explores new oil route"
+        },
+        {
+          "title": "Fixing Imo for Tinubu : Inside Uzodimma 2027 campaign",
+          "link": "https://www.vanguardngr.com/2026/07/fixing-imo-for-tinubu-inside-uzodimmas-2027-campaign/",
+          "source": "vanguardngr.com",
+          "pubDate": "2026-07-28T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fixing Imo for Tinubu : Inside Uzodimma 2027 campaign"
         },
         {
           "title": "Afrodiáspora Festival 2026 : Three Nights of African Music in Bogotá",
@@ -326,87 +425,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Yara introduces two new crop solutions"
-        },
-        {
-          "title": "Private capital holds key to next growth chapter KPMG",
-          "link": "https://thebftonline.com/article/private-capital-holds-key-to-next-growth-chapter-kpmg",
-          "source": "thebftonline.com",
-          "pubDate": "2026-07-28T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Private capital holds key to next growth chapter KPMG"
-        },
-        {
-          "title": "Gold powers US$8 . 8bn trade surplus in first half",
-          "link": "https://thebftonline.com/article/gold-powers-us-8-8bn-trade-surplus-in-first-half",
-          "source": "thebftonline.com",
-          "pubDate": "2026-07-28T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gold powers US$8 . 8bn trade surplus in first half"
-        },
-        {
-          "title": "From diplomacy to defence drills , Gulf states respond to rising threats",
-          "link": "https://www.middle-east-online.com/en/diplomacy-defence-drills-gulf-states-respond-rising-threats",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-28T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "From diplomacy to defence drills , Gulf states respond to rising threats"
-        },
-        {
-          "title": "Standard Chartered : Oil Markets Must Now Price Two Middle East Chokepoints",
-          "link": "https://finance.yahoo.com/energy/articles/standard-chartered-oil-markets-must-230000860.html",
-          "source": "finance.yahoo.com",
-          "pubDate": "2026-07-28T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Standard Chartered : Oil Markets Must Now Price Two Middle East Chokepoints"
-        },
-        {
-          "title": "Asia  scraping the bottom of the barrel  as Red Sea oil blockade worsens energy crisis  | Peak Oil News and Message Boards",
-          "link": "https://peakoil.com/publicpolicy/asia-scraping-the-bottom-of-the-barrel-as-red-sea-oil-blockade-worsens-energy-crisis",
-          "source": "peakoil.com",
-          "pubDate": "2026-07-28T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Asia  scraping the bottom of the barrel  as Red Sea oil blockade worsens energy crisis  | Peak Oil News and Message Boards"
-        },
-        {
-          "title": "Houthi Threats Force Saudi Crude Tanker Onto Suez Route To Asia",
-          "link": "https://www.zerohedge.com/markets/houthi-threats-force-saudi-crude-tanker-suez-route-asia",
-          "source": "zerohedge.com",
-          "pubDate": "2026-07-28T03:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Houthi Threats Force Saudi Crude Tanker Onto Suez Route To Asia"
-        },
-        {
-          "title": "Reps committed to Tinubu economic reforms , says Speaker Abbas",
-          "link": "https://thenationonlineng.net/reps-committed-to-tinubus-economic-reforms-says-speaker-abbas-2/",
-          "source": "thenationonlineng.net",
-          "pubDate": "2026-07-28T03:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Reps committed to Tinubu economic reforms , says Speaker Abbas"
-        },
-        {
-          "title": "Indian Shares To Open On Cautious Note Amid AI Chip Selloff",
-          "link": "https://www.finanzen.ch/nachrichten/aktien/indian-shares-to-open-on-cautious-note-amid-ai-chip-selloff-1036369467",
-          "source": "finanzen.ch",
-          "pubDate": "2026-07-28T03:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Indian Shares To Open On Cautious Note Amid AI Chip Selloff"
-        },
-        {
-          "title": "Monday Final Word",
-          "link": "https://hotair.com/ed-morrissey/2026/07/27/mondays-final-word-n3817371",
-          "source": "hotair.com",
-          "pubDate": "2026-07-28T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Monday Final Word"
         }
       ]
     },
