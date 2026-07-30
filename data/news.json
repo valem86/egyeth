@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-30T06:44:43.427Z",
+  "generatedAt": "2026-07-30T10:35:27.344Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Africa: Rethinking the AU's Somalia Peace Mission After US Funding Cuts",
+          "link": "https://allafrica.com/stories/202607300030.html",
+          "description": "[ISS] Ending the military-heavy AUSSOM gives the AU space to develop a political mission focused on long-term stabilisation.",
+          "pubDate": "Thu, 30 Jul 2026 06:56:52 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa : Rethinking the AU Somalia Peace Mission After US Funding Cuts"
+        },
         {
           "title": "Rome hosts meeting of Global Alliance on the Two-State Solution",
           "link": "https://www.ansa.it/english/news/politics/2026/07/29/rome-hosts-meeting-of-global-alliance-on-the-two-state-solution_4cbae993-b510-4bd1-b349-296493232e4b.html",
@@ -56,6 +65,15 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenya: Pregnant and Parenting Teens in Nairobi's Informal Settlements - the Hidden Mental Toll of Stigma",
+          "link": "https://allafrica.com/stories/202607300025.html",
+          "description": "[The Conversation Africa] Pregnancy is demanding at any age. But for adolescents, it comes on top of everything else they are dealing with: school, relationships, and the passage into adulthood. Add the hormonal shifts and shock of an unplanned pregnancy, and the weight of societal disapproval, and it is little wonder that pregnant adolescents are at heightened risk of mental disorders.",
+          "pubDate": "Thu, 30 Jul 2026 06:52:14 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Pregnant and Parenting Teens in Nairobi's Informal Settlements - the Hidden Mental Toll of Stigma"
+        },
         {
           "title": "Kenya: Portable Ginnery Helps Cotton Farmers Keep More Value on the Farm",
           "link": "https://allafrica.com/stories/202607290371.html",
@@ -226,21 +244,30 @@
           "lang": "en",
           "description": "",
           "titleIt": "Somalia : From Facebook Appeals to a Lifesaving Network - One Man Mission to Transform Blood Donation in Somaliland"
-        },
-        {
-          "title": "Turkey still keeps Somalia out of its e - Visa system despite over $1 billion in aid , oil deals and access to the Horn of Africa",
-          "link": "https://horseedmedia.net/turkey-still-keeps-somalia-out-of-its-e-visa-system-despite-over-1-billion-in-aid-oil-deals-and-access-to-the-horn-of-africa/423951/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-07-20T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkey still keeps Somalia out of its e - Visa system despite over $1 billion in aid , oil deals and access to the Horn of Africa"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Africa : Rethinking the AU Somalia Peace Mission After US Funding Cuts",
+          "link": "https://allafrica.com/stories/202607300030.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-30T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Rethinking the AU Somalia Peace Mission After US Funding Cuts"
+        },
+        {
+          "title": "Africa: Conflicts Can Spread Infectious Diseases While Making Outbreaks Harder to Detect",
+          "link": "https://allafrica.com/stories/202607300028.html",
+          "description": "[The Conversation Africa] The Ebola outbreak that emerged in eastern Democratic Republic of the Congo and crossed into neighbouring Uganda may have been killing people for weeks before the alarm was raised. When Médecins Sans Frontières investigated in May 2026, it reported that at least 55 people had died since the beginning of April.",
+          "pubDate": "Thu, 30 Jul 2026 06:54:09 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Conflicts Can Spread Infectious Diseases While Making Outbreaks Harder to Detect"
+        },
         {
           "title": "Calls for Lamu Port modernisation grow amid cargo growth",
           "link": "https://www.standardmedia.co.ke/business/shipping-logistics/article/2001554098/calls-for-lamu-port-modernisation-grow-amid-cargo-growth",
@@ -402,39 +429,12 @@
           "lang": "en",
           "description": "",
           "titleIt": "Kenya : Inside Kenya SEZ Strategy - Are Dongo Kundu , Naivasha and Tatu City Delivering ?"
-        },
-        {
-          "title": "Bangladesh says PM Tarique Rahman invited to BRICS Summit in New Delhi",
-          "link": "http://www.indiagazette.com/news/279214550/bangladesh-says-pm-tarique-rahman-invited-to-brics-summit-in-new-delhi",
-          "source": "indiagazette.com",
-          "pubDate": "2026-07-29T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Bangladesh says PM Tarique Rahman invited to BRICS Summit in New Delhi"
-        },
-        {
-          "title": "Bangladesh says PM Tarique Rahman invited to BRICS Summit in New Delhi",
-          "link": "http://www.shanghainews.net/news/279214550/bangladesh-says-pm-tarique-rahman-invited-to-brics-summit-in-new-delhi",
-          "source": "shanghainews.net",
-          "pubDate": "2026-07-29T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Bangladesh says PM Tarique Rahman invited to BRICS Summit in New Delhi"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
-        {
-          "title": "Egitto: Ue eroga seconda rata da 1,5 miliardi di euro di assistenza finanziaria",
-          "link": "https://www.agenzianova.com/a/6a6af2655bfdb4.68795509/7654538/2026-07-30/egitto-ue-eroga-seconda-rata-da-1-5-miliardi-di-euro-di-assistenza-finanziaria",
-          "description": "30 lug 08:39 - (Agenzia Nova) - L'Unione europea ha erogato all'Egitto 1,5 miliardi di euro, circa 1,7 miliardi di dollari, nell'ambito del... (Cae)",
-          "pubDate": "2026-07-30T08:39:18+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: Ue eroga seconda rata da 1,5 miliardi di euro di assistenza finanziaria"
-        },
         {
           "title": "Launch of a Cooperation Project for Women’s and Girls’ Leadership in Senegal",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/24/launch-of-a-cooperation-project-for-womens-and-girls-leadership-in-senegal_462cdc6a-ba23-42f4-aaee-e4f0d3190049.html",
@@ -448,7 +448,188 @@
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": []
+      "items": [
+        {
+          "title": "A Movement of World Citizens Could Change the Course of History",
+          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-07-30T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A Movement of World Citizens Could Change the Course of History"
+        },
+        {
+          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
+          "link": "https://allafrica.com/stories/202607270583.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
+        },
+        {
+          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
+          "link": "https://allafrica.com/stories/202607270582.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
+          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "recorder.com",
+          "pubDate": "2026-07-27T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
+          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "gazettenet.com",
+          "pubDate": "2026-07-27T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
+        },
+        {
+          "title": "The return of the African megaproject",
+          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
+          "source": "hindustantimes.com",
+          "pubDate": "2026-07-25T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The return of the African megaproject"
+        },
+        {
+          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
+          "link": "https://www.thereporterethiopia.com/52030/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
+        },
+        {
+          "title": "Aid cuts call for innovation - Nation Online",
+          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
+          "source": "mwnation.com",
+          "pubDate": "2026-07-24T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Aid cuts call for innovation - Nation Online"
+        },
+        {
+          "title": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan",
+          "link": "https://allafrica.com/stories/202607230892.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-24T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan"
+        },
+        {
+          "title": "Society - Egypt - Ahram Online",
+          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
+          "source": "english.ahram.org.eg",
+          "pubDate": "2026-07-22T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Society - Egypt - Ahram Online"
+        },
+        {
+          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
+          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-07-21T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
+        },
+        {
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
+          "source": "dominicanrepublicpost.com",
+          "pubDate": "2026-07-21T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
+        },
+        {
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
+          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
+          "source": "aljazeera.com",
+          "pubDate": "2026-07-21T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
+        },
+        {
+          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
+          "link": "https://allafrica.com/stories/202607200017.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-20T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
+        },
+        {
+          "title": "Rural Ethiopia still left in the dark as reliable electricity lags",
+          "link": "https://capitalethiopia.com/2026/07/19/rural-ethiopia-still-left-in-the-dark-as-reliable-electricity-lags/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-07-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rural Ethiopia still left in the dark as reliable electricity lags"
+        },
+        {
+          "title": "From abundance to retreat : what happened to Nile water levels in Sudan ?",
+          "link": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
+          "source": "dabangasudan.org",
+          "pubDate": "2026-07-16T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From abundance to retreat : what happened to Nile water levels in Sudan ?"
+        },
+        {
+          "title": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD",
+          "link": "https://allafrica.com/stories/202607150066.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-15T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD"
+        },
+        {
+          "title": "Ethiopia debt problem",
+          "link": "https://africasacountry.com/2026/07/ethiopias-debt-problem",
+          "source": "africasacountry.com",
+          "pubDate": "2026-07-14T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia debt problem"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "https://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        },
+        {
+          "title": "Horn of Africa vital in regional power as Gulf nations compete over alliances",
+          "link": "http://www.jpost.com/middle-east/article-902454",
+          "source": "jpost.com",
+          "pubDate": "2026-07-14T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Horn of Africa vital in regional power as Gulf nations compete over alliances"
+        }
+      ]
     }
   }
 }
