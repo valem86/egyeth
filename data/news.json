@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-07-30T19:55:59.739Z",
+  "generatedAt": "2026-07-30T21:35:47.992Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Egitto: primo ministro, nave per gassificazione a Daimetta ha subito \"danni significativi\"",
-          "link": "https://www.agenzianova.com/a/6a6bab8eb94507.53503544/7657993/2026-07-30/egitto-primo-ministro-nave-per-gassificazione-a-daimetta-ha-subito-danni-significativi",
-          "description": "30 lug 20:16 - (Agenzia Nova) - Una nave per la gassificazione nel porto di Damietta ha subito danni significativi a seguito di un attacco... (Cae)",
-          "pubDate": "2026-07-30T20:16:12+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: primo ministro, nave per gassificazione a Daimetta ha subito \"danni significativi\""
-        },
         {
           "title": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting",
           "link": "https://allafrica.com/stories/202607300466.html",
@@ -32,15 +23,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt confirms unidentified drone caused fire at Mediterranean port"
-        },
-        {
-          "title": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says",
-          "link": "https://www.bbc.co.uk/news/articles/c39ez3klwmro?at_medium=RSS&at_campaign=rss",
-          "description": "The drone reportedly hit a US-owned regasification vessel and a Greek-owned tanker at Damietta port on Wednesday.",
-          "pubDate": "Thu, 30 Jul 2026 11:35:25 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says"
         },
         {
           "title": "Rome hosts meeting of Global Alliance on the Two-State Solution",
@@ -91,15 +73,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting"
-        },
-        {
-          "title": "Kenya: From the Foothills of Mount Kilimanjaro, Magnolia Athletics Camp Is Helping Girls Stay in School",
-          "link": "https://allafrica.com/stories/202607300405.html",
-          "description": "[IPS] Oloitoktok, Kenya -- Before sunrise each morning, 19-year-old Josephine Sembeyo joins dozens of teenage runners leaving Magnolia Athletics Camp for training beneath the shadow of Mount Kilimanjaro.",
-          "pubDate": "Thu, 30 Jul 2026 14:35:48 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: From the Foothills of Mount Kilimanjaro, Magnolia Athletics Camp Is Helping Girls Stay in School"
         },
         {
           "title": "Equatorial Guinea and Gabon resolve 50-year border dispute",
@@ -197,15 +170,6 @@
           "titleIt": "The Embassy in Norway Publishes a New Edition of the Oil & Gas Guide"
         },
         {
-          "title": "The 2026 edition of Vinitaly.us was unveiled aboard the ship Vespucci in Québec City.",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/27/the-2026-edition-of-vinitaly.us-was-unveiled-aboard-the-ship-vespucci_c6890bab-8c5e-42cc-b090-f0534c64bb50.html",
-          "description": "(ANSA) - ROMA, 27 LUG - The Italian Ambassador to Canada, Alessandro Cattaneo, presented the 2026 edition of “Vinitaly.us” aboard the Amerigo Vespucci, which made a stop in Québec City. Present at the event were the president of the Italian Trade Agency, Matteo Zoppas; the CEO of Difesa Servizi, Luca Andreoli; the president of Veronafiere, Federico Bricolo; and the managing director of Vinitaly International, Stevie Kim. The event underscored the growing strategic importance of the Canadian market for Italian wine. It was also emphasized that Italy and Canada continue to strengthen their strat",
-          "pubDate": "Mon, 27 Jul 2026 09:44:14 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "The 2026 edition of Vinitaly.us was unveiled aboard the ship Vespucci in Québec City."
-        },
-        {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
           "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
           "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
@@ -224,15 +188,6 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Egitto: primo ministro, nave per gassificazione a Daimetta ha subito \"danni significativi\"",
-          "link": "https://www.agenzianova.com/a/6a6bab8eb94507.53503544/7657993/2026-07-30/egitto-primo-ministro-nave-per-gassificazione-a-daimetta-ha-subito-danni-significativi",
-          "description": "30 lug 20:16 - (Agenzia Nova) - Una nave per la gassificazione nel porto di Damietta ha subito danni significativi a seguito di un attacco... (Cae)",
-          "pubDate": "2026-07-30T20:16:12+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: primo ministro, nave per gassificazione a Daimetta ha subito \"danni significativi\""
-        },
-        {
           "title": "Sudan: Heavy Rains and Floods Worsen Suffering of Displaced Persons in Blue Nile State",
           "link": "https://allafrica.com/stories/202607300363.html",
           "description": "[Darfur Network for Human Rights] Damazin city and several areas across Blue Nile State are facing a worsening humanitarian situation. Heavy rainfall and flooding continue to deepen the suffering of thousands of displaced persons living in shelters and displacement camps, compounding an already fragile situation shaped by ongoing armed conflict and a weak humanitarian response.",
@@ -240,15 +195,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: Heavy Rains and Floods Worsen Suffering of Displaced Persons in Blue Nile State"
-        },
-        {
-          "title": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says",
-          "link": "https://www.bbc.co.uk/news/articles/c39ez3klwmro?at_medium=RSS&at_campaign=rss",
-          "description": "The drone reportedly hit a US-owned regasification vessel and a Greek-owned tanker at Damietta port on Wednesday.",
-          "pubDate": "Thu, 30 Jul 2026 11:35:25 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says"
         }
       ]
     }
