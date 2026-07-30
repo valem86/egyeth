@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-30T14:36:07.750Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-07-30T17:53:39.169Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting",
+          "link": "https://allafrica.com/stories/202607300466.html",
+          "description": "[Shabelle] Addis Ababa -- Somalia's Minister of Foreign Affairs and International Cooperation, Abdisaalam Abdi Ali, held bilateral talks with African Union Commission Chairperson Mahmoud Ali Youssouf on the sidelines of the 49th Ordinary Session of the African Union Executive Council in Addis Ababa, the Somali government said.",
+          "pubDate": "Thu, 30 Jul 2026 16:09:34 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting"
+        },
         {
           "title": "Egypt confirms unidentified drone caused fire at Mediterranean port",
           "link": "http://www.africanews.com/2026/07/30/egypt-confirms-unidentified-drone-caused-fire-at-mediterranean-port/",
@@ -14,6 +23,15 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt confirms unidentified drone caused fire at Mediterranean port"
+        },
+        {
+          "title": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says",
+          "link": "https://www.bbc.co.uk/news/articles/c39ez3klwmro?at_medium=RSS&at_campaign=rss",
+          "description": "The drone reportedly hit a US-owned regasification vessel and a Greek-owned tanker at Damietta port on Wednesday.",
+          "pubDate": "Thu, 30 Jul 2026 11:35:25 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says"
         },
         {
           "title": "Rome hosts meeting of Global Alliance on the Two-State Solution",
@@ -32,24 +50,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Rome hosts meeting of Global Alliance on the Two-State Solution"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -57,13 +57,13 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: From the Foothills of Mount Kilimanjaro, Magnolia Athletics Camp Is Helping Girls Stay in School",
-          "link": "https://allafrica.com/stories/202607300405.html",
-          "description": "[IPS] Oloitoktok, Kenya -- Before sunrise each morning, 19-year-old Josephine Sembeyo joins dozens of teenage runners leaving Magnolia Athletics Camp for training beneath the shadow of Mount Kilimanjaro.",
-          "pubDate": "Thu, 30 Jul 2026 14:35:48 GMT",
+          "title": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting",
+          "link": "https://allafrica.com/stories/202607300466.html",
+          "description": "[Shabelle] Addis Ababa -- Somalia's Minister of Foreign Affairs and International Cooperation, Abdisaalam Abdi Ali, held bilateral talks with African Union Commission Chairperson Mahmoud Ali Youssouf on the sidelines of the 49th Ordinary Session of the African Union Executive Council in Addis Ababa, the Somali government said.",
+          "pubDate": "Thu, 30 Jul 2026 16:09:34 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: From the Foothills of Mount Kilimanjaro, Magnolia Athletics Camp Is Helping Girls Stay in School"
+          "titleIt": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting"
         },
         {
           "title": "Equatorial Guinea and Gabon resolve 50-year border dispute",
@@ -73,174 +73,30 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Equatorial Guinea and Gabon resolve 50-year border dispute"
-        },
-        {
-          "title": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland",
-          "link": "https://wardheernews.com/political-shock-deepens-in-northeast-state-as-six-mps-defect-to-somaliland/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-28T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland"
-        },
-        {
-          "title": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb",
-          "link": "https://wardheernews.com/somaliland-signals-readiness-to-help-secure-bab-el-mandeb/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-27T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb"
-        },
-        {
-          "title": "Is an Abraham Security Alliance possible in the Middle East ?",
-          "link": "https://www.jns.org/analysis/is-an-abraham-security-alliance-possible-in-the-middle-east",
-          "source": "jns.org",
-          "pubDate": "2026-07-27T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Is an Abraham Security Alliance possible in the Middle East ?"
-        },
-        {
-          "title": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust",
-          "link": "https://dailytrust.com/secret-uae-linked-camps-used-to-recruit-mercenaries-for-sudan-conflict-report/",
-          "source": "dailytrust.com",
-          "pubDate": "2026-07-27T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust"
-        },
-        {
-          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
-          "link": "http://www.jpost.com/israel-news/article-903706",
-          "source": "jpost.com",
-          "pubDate": "2026-07-26T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
-        },
-        {
-          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
-          "link": "https://www.jpost.com/israel-news/article-903706",
-          "source": "jpost.com",
-          "pubDate": "2026-07-26T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
-        },
-        {
-          "title": "Ethiopia Babile Elephant Sanctuary Nears Extinction",
-          "link": "https://www.riotimesonline.com/babile-elephant-sanctuary-extinction-ethiopia-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-07-26T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Babile Elephant Sanctuary Nears Extinction"
-        },
-        {
-          "title": "Somalia Turkish Illusion - WardheerNews",
-          "link": "https://wardheernews.com/somalias-turkish-illusion/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-25T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia Turkish Illusion - WardheerNews"
-        },
-        {
-          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
-          "link": "https://www.thereporterethiopia.com/52030/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-07-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
-        },
-        {
-          "title": "Somalia : Kulmiye Party Urges united kingdom to Renew Somaliland Recognition in Congratulatory Letter to New Prime Minister",
-          "link": "https://allafrica.com/stories/202607240062.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-24T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Kulmiye Party Urges united kingdom to Renew Somaliland Recognition in Congratulatory Letter to New Prime Minister"
-        },
-        {
-          "title": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …",
-          "link": "http://www.pambazuka.org/Sectarian-Framework",
-          "source": "pambazuka.org",
-          "pubDate": "2026-07-24T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …"
-        },
-        {
-          "title": "927 | Pambazuka News",
-          "link": "http://www.pambazuka.org/taxonomy/term/15768",
-          "source": "pambazuka.org",
-          "pubDate": "2026-07-24T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "927 | Pambazuka News"
-        },
-        {
-          "title": "Christian in Somalialand poisoned to death after secret conversion",
-          "link": "https://www.christiandaily.com/news/christian-in-somalialand-poisoned-to-death-after-secret-conversion",
-          "source": "christiandaily.com",
-          "pubDate": "2026-07-23T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Christian in Somalialand poisoned to death after secret conversion"
-        },
-        {
-          "title": "Gate of Tears : How key shipping route Bab al - Mandab became next front in the US - Iran war",
-          "link": "https://www.independent.co.uk/news/world/middle-east/iran-bab-al-mandab-strait-yemen-saudi-houthis-b3020001.html",
-          "source": "independent.co.uk",
-          "pubDate": "2026-07-23T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gate of Tears : How key shipping route Bab al - Mandab became next front in the US - Iran war"
-        },
-        {
-          "title": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History",
-          "link": "https://www.maravipost.com/cure-blindness-project-releases-2025-impact-report-marking-most-impactful-year-in-organizations-history-3/",
-          "source": "maravipost.com",
-          "pubDate": "2026-07-21T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History"
-        },
-        {
-          "title": "Christian convert poisoned to death in Somaliland",
-          "link": "https://www.christianpost.com/news/christian-convert-poisoned-to-death-in-somaliland.html",
-          "source": "christianpost.com",
-          "pubDate": "2026-07-21T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Christian convert poisoned to death in Somaliland"
-        },
-        {
-          "title": "Somalia : From Facebook Appeals to a Lifesaving Network - One Man Mission to Transform Blood Donation in Somaliland",
-          "link": "https://allafrica.com/stories/202607210639.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-21T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : From Facebook Appeals to a Lifesaving Network - One Man Mission to Transform Blood Donation in Somaliland"
-        },
-        {
-          "title": "Turkey still keeps Somalia out of its e - Visa system despite over $1 billion in aid , oil deals and access to the Horn of Africa",
-          "link": "https://horseedmedia.net/turkey-still-keeps-somalia-out-of-its-e-visa-system-despite-over-1-billion-in-aid-oil-deals-and-access-to-the-horn-of-africa/423951/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-07-20T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkey still keeps Somalia out of its e - Visa system despite over $1 billion in aid , oil deals and access to the Horn of Africa"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "East Africa: American Analyst Warns Eritrea's Proxy Strategy Risks Destabilizing Horn of Africa",
+          "link": "https://allafrica.com/stories/202607300482.html",
+          "description": "[ENA] Addis Ababa -- American geopolitical analyst Andrew Korybko has warned that the Eritrean regime's proxy strategy could further destabilize the Horn of Africa, fuel insecurity and threaten regional stability.",
+          "pubDate": "Thu, 30 Jul 2026 16:18:41 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "East Africa: American Analyst Warns Eritrea's Proxy Strategy Risks Destabilizing Horn of Africa"
+        },
+        {
+          "title": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting",
+          "link": "https://allafrica.com/stories/202607300466.html",
+          "description": "[Shabelle] Addis Ababa -- Somalia's Minister of Foreign Affairs and International Cooperation, Abdisaalam Abdi Ali, held bilateral talks with African Union Commission Chairperson Mahmoud Ali Youssouf on the sidelines of the 49th Ordinary Session of the African Union Executive Council in Addis Ababa, the Somali government said.",
+          "pubDate": "Thu, 30 Jul 2026 16:09:34 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting"
+        },
         {
           "title": "Equatorial Guinea and Gabon resolve 50-year border dispute",
           "link": "http://www.africanews.com/2026/07/29/equatorial-guinea-and-gabon-resolve-50-year-dispute-over-gulf-of-guinea-islands/",
@@ -303,24 +159,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The 2026 edition of Vinitaly.us was unveiled aboard the ship Vespucci in Québec City."
-        },
-        {
-          "title": "Villa warned over sportswashing after Visit Rwanda deal",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm20211g25lo?at_medium=RSS&at_campaign=rss",
-          "description": "Aston Villa are warned their new £20m-a-year sponsorship deal with Visit Rwanda will be used by the nation to sportswash its human rights record.",
-          "pubDate": "Tue, 14 Jul 2026 18:44:04 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Villa warned over sportswashing after Visit Rwanda deal"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -332,6 +170,24 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
+          "title": "Egitto-Spagna: Al Sisi sente Sanchez, \"indagini in corso su esplosione a Damietta\" (2)",
+          "link": "https://www.agenzianova.com/a/6a6b8e99805b67.26048667/7657960/2026-07-30/egitto-spagna-al-sisi-sente-sanchez-indagini-in-corso-su-esplosione-a-damietta-2",
+          "description": "30 lug 19:35 - (Agenzia Nova) - Al Sisi ha espresso la piena solidarieta' dell'Egitto alla Spagna in merito ai recenti incendi che hanno colpito... (Cae)",
+          "pubDate": "2026-07-30T19:35:35+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Spagna: Al Sisi sente Sanchez, \"indagini in corso su esplosione a Damietta\" (2)"
+        },
+        {
+          "title": "Egitto-Spagna: Al Sisi sente Sanchez, \"indagini in corso su esplosione a Damietta\"",
+          "link": "https://www.agenzianova.com/a/6a6b8e99807620.96289697/7657959/2026-07-30/egitto-spagna-al-sisi-sente-sanchez-indagini-in-corso-su-esplosione-a-damietta",
+          "description": "30 lug 19:35 - (Agenzia Nova) - Il presidente dell'Egitto Abdel Fattah al Sisi ha avuto un colloquio telefonico con il primo ministro spagnolo... (Cae)",
+          "pubDate": "2026-07-30T19:35:35+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Spagna: Al Sisi sente Sanchez, \"indagini in corso su esplosione a Damietta\""
+        },
+        {
           "title": "Sudan: Heavy Rains and Floods Worsen Suffering of Displaced Persons in Blue Nile State",
           "link": "https://allafrica.com/stories/202607300363.html",
           "description": "[Darfur Network for Human Rights] Damazin city and several areas across Blue Nile State are facing a worsening humanitarian situation. Heavy rainfall and flooding continue to deepen the suffering of thousands of displaced persons living in shelters and displacement camps, compounding an already fragile situation shaped by ongoing armed conflict and a weak humanitarian response.",
@@ -339,6 +195,159 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: Heavy Rains and Floods Worsen Suffering of Displaced Persons in Blue Nile State"
+        },
+        {
+          "title": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says",
+          "link": "https://www.bbc.co.uk/news/articles/c39ez3klwmro?at_medium=RSS&at_campaign=rss",
+          "description": "The drone reportedly hit a US-owned regasification vessel and a Greek-owned tanker at Damietta port on Wednesday.",
+          "pubDate": "Thu, 30 Jul 2026 11:35:25 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says"
+        },
+        {
+          "title": "A Movement of World Citizens Could Change the Course of History",
+          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-07-30T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A Movement of World Citizens Could Change the Course of History"
+        },
+        {
+          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
+          "link": "https://allafrica.com/stories/202607270583.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
+        },
+        {
+          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
+          "link": "https://allafrica.com/stories/202607270582.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
+          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "recorder.com",
+          "pubDate": "2026-07-27T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
+          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "gazettenet.com",
+          "pubDate": "2026-07-27T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
+        },
+        {
+          "title": "The return of the African megaproject",
+          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
+          "source": "hindustantimes.com",
+          "pubDate": "2026-07-25T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The return of the African megaproject"
+        },
+        {
+          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
+          "link": "https://www.thereporterethiopia.com/52030/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
+        },
+        {
+          "title": "Aid cuts call for innovation - Nation Online",
+          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
+          "source": "mwnation.com",
+          "pubDate": "2026-07-24T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Aid cuts call for innovation - Nation Online"
+        },
+        {
+          "title": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan",
+          "link": "https://allafrica.com/stories/202607230892.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-24T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan"
+        },
+        {
+          "title": "Society - Egypt - Ahram Online",
+          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
+          "source": "english.ahram.org.eg",
+          "pubDate": "2026-07-22T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Society - Egypt - Ahram Online"
+        },
+        {
+          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
+          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-07-21T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
+        },
+        {
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
+          "source": "dominicanrepublicpost.com",
+          "pubDate": "2026-07-21T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
+        },
+        {
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
+          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
+          "source": "aljazeera.com",
+          "pubDate": "2026-07-21T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
+        },
+        {
+          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
+          "link": "https://allafrica.com/stories/202607200017.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-20T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
+        },
+        {
+          "title": "Rural Ethiopia still left in the dark as reliable electricity lags",
+          "link": "https://capitalethiopia.com/2026/07/19/rural-ethiopia-still-left-in-the-dark-as-reliable-electricity-lags/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-07-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rural Ethiopia still left in the dark as reliable electricity lags"
+        },
+        {
+          "title": "From abundance to retreat : what happened to Nile water levels in Sudan ?",
+          "link": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
+          "source": "dabangasudan.org",
+          "pubDate": "2026-07-16T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From abundance to retreat : what happened to Nile water levels in Sudan ?"
         }
       ]
     }
