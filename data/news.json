@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-07-30T17:53:39.169Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-07-30T19:55:59.739Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egitto: primo ministro, nave per gassificazione a Daimetta ha subito \"danni significativi\"",
+          "link": "https://www.agenzianova.com/a/6a6bab8eb94507.53503544/7657993/2026-07-30/egitto-primo-ministro-nave-per-gassificazione-a-daimetta-ha-subito-danni-significativi",
+          "description": "30 lug 20:16 - (Agenzia Nova) - Una nave per la gassificazione nel porto di Damietta ha subito danni significativi a seguito di un attacco... (Cae)",
+          "pubDate": "2026-07-30T20:16:12+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: primo ministro, nave per gassificazione a Daimetta ha subito \"danni significativi\""
+        },
         {
           "title": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting",
           "link": "https://allafrica.com/stories/202607300466.html",
@@ -50,6 +59,24 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Rome hosts meeting of Global Alliance on the Two-State Solution"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -66,6 +93,15 @@
           "titleIt": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting"
         },
         {
+          "title": "Kenya: From the Foothills of Mount Kilimanjaro, Magnolia Athletics Camp Is Helping Girls Stay in School",
+          "link": "https://allafrica.com/stories/202607300405.html",
+          "description": "[IPS] Oloitoktok, Kenya -- Before sunrise each morning, 19-year-old Josephine Sembeyo joins dozens of teenage runners leaving Magnolia Athletics Camp for training beneath the shadow of Mount Kilimanjaro.",
+          "pubDate": "Thu, 30 Jul 2026 14:35:48 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: From the Foothills of Mount Kilimanjaro, Magnolia Athletics Camp Is Helping Girls Stay in School"
+        },
+        {
           "title": "Equatorial Guinea and Gabon resolve 50-year border dispute",
           "link": "http://www.africanews.com/2026/07/29/equatorial-guinea-and-gabon-resolve-50-year-dispute-over-gulf-of-guinea-islands/",
           "description": "Gabon and Equatorial Guinea resolved a 50-year dispute on Tuesday, signing an agreement over three tiny islands in the Gulf of Guinea.",
@@ -73,6 +109,15 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Equatorial Guinea and Gabon resolve 50-year border dispute"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -159,6 +204,15 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The 2026 edition of Vinitaly.us was unveiled aboard the ship Vespucci in Québec City."
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -170,22 +224,13 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Egitto-Spagna: Al Sisi sente Sanchez, \"indagini in corso su esplosione a Damietta\" (2)",
-          "link": "https://www.agenzianova.com/a/6a6b8e99805b67.26048667/7657960/2026-07-30/egitto-spagna-al-sisi-sente-sanchez-indagini-in-corso-su-esplosione-a-damietta-2",
-          "description": "30 lug 19:35 - (Agenzia Nova) - Al Sisi ha espresso la piena solidarieta' dell'Egitto alla Spagna in merito ai recenti incendi che hanno colpito... (Cae)",
-          "pubDate": "2026-07-30T19:35:35+02:00",
+          "title": "Egitto: primo ministro, nave per gassificazione a Daimetta ha subito \"danni significativi\"",
+          "link": "https://www.agenzianova.com/a/6a6bab8eb94507.53503544/7657993/2026-07-30/egitto-primo-ministro-nave-per-gassificazione-a-daimetta-ha-subito-danni-significativi",
+          "description": "30 lug 20:16 - (Agenzia Nova) - Una nave per la gassificazione nel porto di Damietta ha subito danni significativi a seguito di un attacco... (Cae)",
+          "pubDate": "2026-07-30T20:16:12+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Egitto-Spagna: Al Sisi sente Sanchez, \"indagini in corso su esplosione a Damietta\" (2)"
-        },
-        {
-          "title": "Egitto-Spagna: Al Sisi sente Sanchez, \"indagini in corso su esplosione a Damietta\"",
-          "link": "https://www.agenzianova.com/a/6a6b8e99807620.96289697/7657959/2026-07-30/egitto-spagna-al-sisi-sente-sanchez-indagini-in-corso-su-esplosione-a-damietta",
-          "description": "30 lug 19:35 - (Agenzia Nova) - Il presidente dell'Egitto Abdel Fattah al Sisi ha avuto un colloquio telefonico con il primo ministro spagnolo... (Cae)",
-          "pubDate": "2026-07-30T19:35:35+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto-Spagna: Al Sisi sente Sanchez, \"indagini in corso su esplosione a Damietta\""
+          "titleIt": "Egitto: primo ministro, nave per gassificazione a Daimetta ha subito \"danni significativi\""
         },
         {
           "title": "Sudan: Heavy Rains and Floods Worsen Suffering of Displaced Persons in Blue Nile State",
@@ -204,150 +249,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says"
-        },
-        {
-          "title": "A Movement of World Citizens Could Change the Course of History",
-          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
-          "source": "larouchepub.com",
-          "pubDate": "2026-07-30T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A Movement of World Citizens Could Change the Course of History"
-        },
-        {
-          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
-          "link": "https://allafrica.com/stories/202607270583.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-28T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
-        },
-        {
-          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
-          "link": "https://allafrica.com/stories/202607270582.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-28T00:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
-        },
-        {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
-          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "recorder.com",
-          "pubDate": "2026-07-27T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
-        },
-        {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
-          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "gazettenet.com",
-          "pubDate": "2026-07-27T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
-        },
-        {
-          "title": "The return of the African megaproject",
-          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
-          "source": "hindustantimes.com",
-          "pubDate": "2026-07-25T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The return of the African megaproject"
-        },
-        {
-          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
-          "link": "https://www.thereporterethiopia.com/52030/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-07-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
-        },
-        {
-          "title": "Aid cuts call for innovation - Nation Online",
-          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
-          "source": "mwnation.com",
-          "pubDate": "2026-07-24T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Aid cuts call for innovation - Nation Online"
-        },
-        {
-          "title": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan",
-          "link": "https://allafrica.com/stories/202607230892.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-24T00:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan"
-        },
-        {
-          "title": "Society - Egypt - Ahram Online",
-          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
-          "source": "english.ahram.org.eg",
-          "pubDate": "2026-07-22T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Society - Egypt - Ahram Online"
-        },
-        {
-          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
-          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-21T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-07-21T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
-          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
-          "source": "aljazeera.com",
-          "pubDate": "2026-07-21T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
-        },
-        {
-          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
-          "link": "https://allafrica.com/stories/202607200017.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-20T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
-        },
-        {
-          "title": "Rural Ethiopia still left in the dark as reliable electricity lags",
-          "link": "https://capitalethiopia.com/2026/07/19/rural-ethiopia-still-left-in-the-dark-as-reliable-electricity-lags/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-07-19T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Rural Ethiopia still left in the dark as reliable electricity lags"
-        },
-        {
-          "title": "From abundance to retreat : what happened to Nile water levels in Sudan ?",
-          "link": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
-          "source": "dabangasudan.org",
-          "pubDate": "2026-07-16T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "From abundance to retreat : what happened to Nile water levels in Sudan ?"
         }
       ]
     }
