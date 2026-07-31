@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-31T07:17:17.048Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-07-31T11:02:15.738Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting",
-          "link": "https://allafrica.com/stories/202607300466.html",
-          "description": "[Shabelle] Addis Ababa -- Somalia's Minister of Foreign Affairs and International Cooperation, Abdisaalam Abdi Ali, held bilateral talks with African Union Commission Chairperson Mahmoud Ali Youssouf on the sidelines of the 49th Ordinary Session of the African Union Executive Council in Addis Ababa, the Somali government said.",
-          "pubDate": "Thu, 30 Jul 2026 16:09:34 GMT",
-          "source": "AllAfrica",
+          "title": "Egyptian PM announces investigation after Damietta port drone attack",
+          "link": "http://www.africanews.com/2026/07/31/egyptian-pm-announces-investigation-after-damietta-port-drone-attack/",
+          "description": "Egypt's Prime Minister said Thursday that the country would now be examining the remains of a drone that attacked two vessels at the Egyptian port of Damietta on Wednesday.",
+          "pubDate": "Fri, 31 Jul 2026 09:34:18 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "titleIt": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting"
+          "titleIt": "Egyptian PM announces investigation after Damietta port drone attack"
         },
         {
           "title": "Egypt confirms unidentified drone caused fire at Mediterranean port",
@@ -41,6 +41,24 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Rome hosts meeting of Global Alliance on the Two-State Solution"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -48,22 +66,13 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting",
-          "link": "https://allafrica.com/stories/202607300466.html",
-          "description": "[Shabelle] Addis Ababa -- Somalia's Minister of Foreign Affairs and International Cooperation, Abdisaalam Abdi Ali, held bilateral talks with African Union Commission Chairperson Mahmoud Ali Youssouf on the sidelines of the 49th Ordinary Session of the African Union Executive Council in Addis Ababa, the Somali government said.",
-          "pubDate": "Thu, 30 Jul 2026 16:09:34 GMT",
+          "title": "Africa: AU Urges Continent to Bolster Preparedness to Mitigate Potential Impacts of 2026 El Niño",
+          "link": "https://allafrica.com/stories/202607310209.html",
+          "description": "[ENA] Addis Ababa -- The African Union Commission has emphasized today the need for stronger continental preparedness and coordinated action to mitigate the potential impacts of the anticipated 2026 El Niño phenomenon.",
+          "pubDate": "Fri, 31 Jul 2026 10:49:43 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting"
-        },
-        {
-          "title": "Kenya: From the Foothills of Mount Kilimanjaro, Magnolia Athletics Camp Is Helping Girls Stay in School",
-          "link": "https://allafrica.com/stories/202607300405.html",
-          "description": "[IPS] Oloitoktok, Kenya -- Before sunrise each morning, 19-year-old Josephine Sembeyo joins dozens of teenage runners leaving Magnolia Athletics Camp for training beneath the shadow of Mount Kilimanjaro.",
-          "pubDate": "Thu, 30 Jul 2026 14:35:48 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: From the Foothills of Mount Kilimanjaro, Magnolia Athletics Camp Is Helping Girls Stay in School"
+          "titleIt": "Africa: AU Urges Continent to Bolster Preparedness to Mitigate Potential Impacts of 2026 El Niño"
         },
         {
           "title": "Equatorial Guinea and Gabon resolve 50-year border dispute",
@@ -73,6 +82,15 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Equatorial Guinea and Gabon resolve 50-year border dispute"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -87,15 +105,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "East Africa: American Analyst Warns Eritrea's Proxy Strategy Risks Destabilizing Horn of Africa"
-        },
-        {
-          "title": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting",
-          "link": "https://allafrica.com/stories/202607300466.html",
-          "description": "[Shabelle] Addis Ababa -- Somalia's Minister of Foreign Affairs and International Cooperation, Abdisaalam Abdi Ali, held bilateral talks with African Union Commission Chairperson Mahmoud Ali Youssouf on the sidelines of the 49th Ordinary Session of the African Union Executive Council in Addis Ababa, the Somali government said.",
-          "pubDate": "Thu, 30 Jul 2026 16:09:34 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia, African Union Discuss Security, Aussom At Addis Ababa Meeting"
         },
         {
           "title": "Equatorial Guinea and Gabon resolve 50-year border dispute",
@@ -143,13 +152,13 @@
           "titleIt": "Govt cuts diesel duties by 17 cents to help with rise in fuel costs"
         },
         {
-          "title": "The Embassy in Norway Publishes a New Edition of the Oil & Gas Guide",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/27/the-embassy-in-norway-publishes-a-new-edition-of-the-oil-gas-guide_641803d5-d4d9-4c07-b069-070dbf49636d.html",
-          "description": "(ANSA) - ROMA, 27 LUG - As part of its efforts to promote economic development and support the internationalization of Italian companies in Norway, the Italian Embassy in Oslo, in collaboration with ICE Agency, has published a new edition of the e-book dedicated to Norway’s oil and gas sector, updated with data, analysis, and market information. The evolution of the international energy landscape and the growing focus on security of supply have made the energy sector increasingly important in recent years. In this context, Norway has strengthened its strategic role as Europe’s leading supplier",
-          "pubDate": "Mon, 27 Jul 2026 12:39:18 +0200",
-          "source": "ANSA English",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "titleIt": "The Embassy in Norway Publishes a New Edition of the Oil & Gas Guide"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -160,6 +169,15 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Egyptian PM announces investigation after Damietta port drone attack",
+          "link": "http://www.africanews.com/2026/07/31/egyptian-pm-announces-investigation-after-damietta-port-drone-attack/",
+          "description": "Egypt's Prime Minister said Thursday that the country would now be examining the remains of a drone that attacked two vessels at the Egyptian port of Damietta on Wednesday.",
+          "pubDate": "Fri, 31 Jul 2026 09:34:18 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egyptian PM announces investigation after Damietta port drone attack"
+        },
         {
           "title": "Sudan: Heavy Rains and Floods Worsen Suffering of Displaced Persons in Blue Nile State",
           "link": "https://allafrica.com/stories/202607300363.html",
