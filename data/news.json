@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-01T06:43:42.271Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-01T10:12:42.804Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Uganda: Aussom Troop-Contributing Nations Seek UN Extension for Somalia Mission At Kampala Summit",
+          "link": "https://allafrica.com/stories/202607310358.html",
+          "description": "[Shabelle] Kampala -- Defence ministers from countries contributing troops to the African Union Support and Stabilisation Mission in Somalia (AUSSOM) agreed on Thursday to seek a United Nations extension of the mission by up to two years, as concerns mount over the future of international security support for Somalia.",
+          "pubDate": "Fri, 31 Jul 2026 16:02:21 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Uganda: Aussom Troop-Contributing Nations Seek UN Extension for Somalia Mission At Kampala Summit"
+        },
         {
           "title": "Somalia: Somalia's President Arrives in Uganda Ahead of Aussom Summit, Holds Talks With Museveni",
           "link": "https://allafrica.com/stories/202607310291.html",
@@ -50,30 +59,21 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Rome hosts meeting of Global Alliance on the Two-State Solution"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Uganda: Aussom Troop-Contributing Nations Seek UN Extension for Somalia Mission At Kampala Summit",
+          "link": "https://allafrica.com/stories/202607310358.html",
+          "description": "[Shabelle] Kampala -- Defence ministers from countries contributing troops to the African Union Support and Stabilisation Mission in Somalia (AUSSOM) agreed on Thursday to seek a United Nations extension of the mission by up to two years, as concerns mount over the future of international security support for Somalia.",
+          "pubDate": "Fri, 31 Jul 2026 16:02:21 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Uganda: Aussom Troop-Contributing Nations Seek UN Extension for Somalia Mission At Kampala Summit"
+        },
         {
           "title": "Somalia: Somalia's President Arrives in Uganda Ahead of Aussom Summit, Holds Talks With Museveni",
           "link": "https://allafrica.com/stories/202607310291.html",
@@ -91,174 +91,30 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Africa: AU Urges Continent to Bolster Preparedness to Mitigate Potential Impacts of 2026 El Niño"
-        },
-        {
-          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
-          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
-          "source": "mondaq.com",
-          "pubDate": "2026-07-30T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
-        },
-        {
-          "title": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland",
-          "link": "https://wardheernews.com/political-shock-deepens-in-northeast-state-as-six-mps-defect-to-somaliland/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-28T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland"
-        },
-        {
-          "title": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb",
-          "link": "https://wardheernews.com/somaliland-signals-readiness-to-help-secure-bab-el-mandeb/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-27T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb"
-        },
-        {
-          "title": "Is an Abraham Security Alliance possible in the Middle East ?",
-          "link": "https://www.jns.org/analysis/is-an-abraham-security-alliance-possible-in-the-middle-east",
-          "source": "jns.org",
-          "pubDate": "2026-07-27T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Is an Abraham Security Alliance possible in the Middle East ?"
-        },
-        {
-          "title": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust",
-          "link": "https://dailytrust.com/secret-uae-linked-camps-used-to-recruit-mercenaries-for-sudan-conflict-report/",
-          "source": "dailytrust.com",
-          "pubDate": "2026-07-27T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust"
-        },
-        {
-          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
-          "link": "http://www.jpost.com/israel-news/article-903706",
-          "source": "jpost.com",
-          "pubDate": "2026-07-26T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
-        },
-        {
-          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
-          "link": "https://www.jpost.com/israel-news/article-903706",
-          "source": "jpost.com",
-          "pubDate": "2026-07-26T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
-        },
-        {
-          "title": "Ethiopia Babile Elephant Sanctuary Nears Extinction",
-          "link": "https://www.riotimesonline.com/babile-elephant-sanctuary-extinction-ethiopia-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-07-26T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Babile Elephant Sanctuary Nears Extinction"
-        },
-        {
-          "title": "Somalia Turkish Illusion - WardheerNews",
-          "link": "https://wardheernews.com/somalias-turkish-illusion/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-25T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia Turkish Illusion - WardheerNews"
-        },
-        {
-          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
-          "link": "https://www.thereporterethiopia.com/52030/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-07-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
-        },
-        {
-          "title": "Somalia : Kulmiye Party Urges united kingdom to Renew Somaliland Recognition in Congratulatory Letter to New Prime Minister",
-          "link": "https://allafrica.com/stories/202607240062.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-24T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Kulmiye Party Urges united kingdom to Renew Somaliland Recognition in Congratulatory Letter to New Prime Minister"
-        },
-        {
-          "title": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …",
-          "link": "http://www.pambazuka.org/Sectarian-Framework",
-          "source": "pambazuka.org",
-          "pubDate": "2026-07-24T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …"
-        },
-        {
-          "title": "927 | Pambazuka News",
-          "link": "http://www.pambazuka.org/taxonomy/term/15768",
-          "source": "pambazuka.org",
-          "pubDate": "2026-07-24T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "927 | Pambazuka News"
-        },
-        {
-          "title": "Christian in Somalialand poisoned to death after secret conversion",
-          "link": "https://www.christiandaily.com/news/christian-in-somalialand-poisoned-to-death-after-secret-conversion",
-          "source": "christiandaily.com",
-          "pubDate": "2026-07-23T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Christian in Somalialand poisoned to death after secret conversion"
-        },
-        {
-          "title": "Gate of Tears : How key shipping route Bab al - Mandab became next front in the US - Iran war",
-          "link": "https://www.independent.co.uk/news/world/middle-east/iran-bab-al-mandab-strait-yemen-saudi-houthis-b3020001.html",
-          "source": "independent.co.uk",
-          "pubDate": "2026-07-23T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gate of Tears : How key shipping route Bab al - Mandab became next front in the US - Iran war"
-        },
-        {
-          "title": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History",
-          "link": "https://www.maravipost.com/cure-blindness-project-releases-2025-impact-report-marking-most-impactful-year-in-organizations-history-3/",
-          "source": "maravipost.com",
-          "pubDate": "2026-07-21T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History"
-        },
-        {
-          "title": "Christian convert poisoned to death in Somaliland",
-          "link": "https://www.christianpost.com/news/christian-convert-poisoned-to-death-in-somaliland.html",
-          "source": "christianpost.com",
-          "pubDate": "2026-07-21T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Christian convert poisoned to death in Somaliland"
-        },
-        {
-          "title": "Somalia : From Facebook Appeals to a Lifesaving Network - One Man Mission to Transform Blood Donation in Somaliland",
-          "link": "https://allafrica.com/stories/202607210639.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-21T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : From Facebook Appeals to a Lifesaving Network - One Man Mission to Transform Blood Donation in Somaliland"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/01/ambassador-prunas-the-mediterranean-games-are-an-opportunity-to-strengthen-dialogue_bdc52f1c-0fbc-4cc4-84c6-de8c072f5f70.html",
+          "description": "(ANSA) - TUNISI, 01 AGO - Ahead of the start of the Taranto 2026 Mediterranean Games, the Italian Embassy in Tunis, in collaboration with the Tunisian National Olympic Committee, organized an event to present the Games, which brought together at the “La Charmeuse” Residence a delegation of Tunisian athletes, representatives of sports federations, and great champions from the past and present. On this occasion, Ambassador Alessandro Prunas emphasized that “in an international context marked by growing tensions, the Taranto Mediterranean Games represent an important opportunity to strengthen, th",
+          "pubDate": "Sat, 1 Aug 2026 09:25:36 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’"
+        },
+        {
+          "title": "Uganda: Aussom Troop-Contributing Nations Seek UN Extension for Somalia Mission At Kampala Summit",
+          "link": "https://allafrica.com/stories/202607310358.html",
+          "description": "[Shabelle] Kampala -- Defence ministers from countries contributing troops to the African Union Support and Stabilisation Mission in Somalia (AUSSOM) agreed on Thursday to seek a United Nations extension of the mission by up to two years, as concerns mount over the future of international security support for Somalia.",
+          "pubDate": "Fri, 31 Jul 2026 16:02:21 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Uganda: Aussom Troop-Contributing Nations Seek UN Extension for Somalia Mission At Kampala Summit"
+        },
         {
           "title": "Somalia: Somalia's President Arrives in Uganda Ahead of Aussom Summit, Holds Talks With Museveni",
           "link": "https://allafrica.com/stories/202607310291.html",
@@ -285,24 +141,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Italy 'books' SAFE loan of up to €14.9 billion, but EC says deal must be signed ASAP"
-        },
-        {
-          "title": "Govt cuts diesel duties by 17 cents to help with rise in fuel costs",
-          "link": "https://www.ansa.it/english/news/politics/2026/07/28/govt-cuts-diesel-duties-by-17-cents-to-help-with-rise-in-fuel-costs_a3e67dcd-ec33-48e7-a061-3af7cae85ae8.html",
-          "description": "(ANSA) - ROME, JUL 28 - A 17-cent cut in diesel duties that the government approved on Monday to help people cope with high fuel costs following the return of conflict in the Persian Gulf came into effect on Tuesday and will remain in place until August 6. The cut will cost the State around 125 million euro and should bring diesel prices in line with those for unleaded petrol, the duties of which have not been reduced. Premier Giorgia Meloni described the cut as \"a timely, responsible response\" to the recent increase in fuel prices. The government has not ruled out further measures. (ANSA). Re",
-          "pubDate": "Tue, 28 Jul 2026 12:02:55 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Govt cuts diesel duties by 17 cents to help with rise in fuel costs"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -310,184 +148,13 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.torontotelegraph.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict",
-          "source": "torontotelegraph.com",
-          "pubDate": "2026-08-01T06:00:00Z",
+          "title": "IMF completes reviews in Egypt unlocking $1.8 billion",
+          "link": "http://www.africanews.com/2026/07/31/imf-completes-reviews-in-egypt-unlocking-18-billion/",
+          "description": "The prime minister has welcomed the news, saying it is a renewed vote of confidence in the country's economic reform programme.",
+          "pubDate": "Fri, 31 Jul 2026 13:27:34 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.brazilsun.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict",
-          "source": "brazilsun.com",
-          "pubDate": "2026-08-01T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.australiannews.net/news/279216755/shipping-risks-grow-after-drone-attack-on-egypt-s-damietta-port",
-          "source": "australiannews.net",
-          "pubDate": "2026-08-01T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Buy or sell : Sumeet Bagadia recommends three stocks to buy on Monday - 3 August 2026",
-          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-3-august-2026-ril-reliance-bharti-airtel-tvs-11785555167163.html",
-          "source": "livemint.com",
-          "pubDate": "2026-08-01T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Buy or sell : Sumeet Bagadia recommends three stocks to buy on Monday - 3 August 2026"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.calcuttanews.net/news/279216755/shipping-risks-grow-after-drone-attack-on-egypt-s-damietta-port",
-          "source": "calcuttanews.net",
-          "pubDate": "2026-08-01T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.nepalnational.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict",
-          "source": "nepalnational.com",
-          "pubDate": "2026-08-01T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Two VLCCs exit Strait of Hormuz , where traffic remains thin",
-          "link": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/two-vlccs-exit-strait-of-hormuz-where-traffic-remains-thin/articleshow/132781716.cms",
-          "source": "economictimes.indiatimes.com",
-          "pubDate": "2026-08-01T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Two VLCCs exit Strait of Hormuz , where traffic remains thin"
-        },
-        {
-          "title": "Saudi - led maritime defense alliance underscores shift in regional security calculus -- China Economic Net",
-          "link": "http://en.ce.cn/main/latest/202608/t20260801_3122067.shtml",
-          "source": "en.ce.cn",
-          "pubDate": "2026-08-01T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi - led maritime defense alliance underscores shift in regional security calculus -- China Economic Net"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.bangladeshsun.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict",
-          "source": "bangladeshsun.com",
-          "pubDate": "2026-08-01T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Prabowo Warns Against Underestimating the Threat of Nuclear War",
-          "link": "https://en.tempo.co/read/2116391/prabowo-warns-against-underestimating-the-threat-of-nuclear-war",
-          "source": "en.tempo.co",
-          "pubDate": "2026-08-01T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Prabowo Warns Against Underestimating the Threat of Nuclear War"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.israelherald.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict",
-          "source": "israelherald.com",
-          "pubDate": "2026-08-01T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.jamaicantimes.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict",
-          "source": "jamaicantimes.com",
-          "pubDate": "2026-08-01T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Oil prices settle more than 1 % higher , log strongest month since March",
-          "link": "https://www.asiaone.com/money/oil-prices-settle-more-1-higher-log-strongest-month-march",
-          "source": "asiaone.com",
-          "pubDate": "2026-08-01T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Oil prices settle more than 1 % higher , log strongest month since March"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.japanherald.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict",
-          "source": "japanherald.com",
-          "pubDate": "2026-08-01T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.iraqsun.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict",
-          "source": "iraqsun.com",
-          "pubDate": "2026-08-01T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.memphissun.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict",
-          "source": "memphissun.com",
-          "pubDate": "2026-08-01T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.dallassun.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict",
-          "source": "dallassun.com",
-          "pubDate": "2026-08-01T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.parisguardian.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict",
-          "source": "parisguardian.com",
-          "pubDate": "2026-08-01T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.thailandnews.net/news/279216755/shipping-risks-grow-after-drone-attack-on-egypt-s-damietta-port",
-          "source": "thailandnews.net",
-          "pubDate": "2026-08-01T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.bostonstar.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict",
-          "source": "bostonstar.com",
-          "pubDate": "2026-08-01T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
+          "titleIt": "IMF completes reviews in Egypt unlocking $1.8 billion"
         }
       ]
     },
@@ -502,177 +169,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egyptian PM announces investigation after Damietta port drone attack"
-        },
-        {
-          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
-          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
-          "source": "mondaq.com",
-          "pubDate": "2026-07-30T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
-        },
-        {
-          "title": "A Movement of World Citizens Could Change the Course of History",
-          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
-          "source": "larouchepub.com",
-          "pubDate": "2026-07-30T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A Movement of World Citizens Could Change the Course of History"
-        },
-        {
-          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
-          "link": "https://allafrica.com/stories/202607270583.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-28T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
-        },
-        {
-          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
-          "link": "https://allafrica.com/stories/202607270582.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-28T00:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
-        },
-        {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
-          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "recorder.com",
-          "pubDate": "2026-07-27T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
-        },
-        {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
-          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "gazettenet.com",
-          "pubDate": "2026-07-27T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
-        },
-        {
-          "title": "The return of the African megaproject",
-          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
-          "source": "hindustantimes.com",
-          "pubDate": "2026-07-25T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The return of the African megaproject"
-        },
-        {
-          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
-          "link": "https://www.thereporterethiopia.com/52030/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-07-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
-        },
-        {
-          "title": "Aid cuts call for innovation - Nation Online",
-          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
-          "source": "mwnation.com",
-          "pubDate": "2026-07-24T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Aid cuts call for innovation - Nation Online"
-        },
-        {
-          "title": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan",
-          "link": "https://allafrica.com/stories/202607230892.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-24T00:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan"
-        },
-        {
-          "title": "Society - Egypt - Ahram Online",
-          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
-          "source": "english.ahram.org.eg",
-          "pubDate": "2026-07-22T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Society - Egypt - Ahram Online"
-        },
-        {
-          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
-          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-21T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-07-21T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
-          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
-          "source": "aljazeera.com",
-          "pubDate": "2026-07-21T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
-        },
-        {
-          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
-          "link": "https://allafrica.com/stories/202607200017.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-20T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
-        },
-        {
-          "title": "Rural Ethiopia still left in the dark as reliable electricity lags",
-          "link": "https://capitalethiopia.com/2026/07/19/rural-ethiopia-still-left-in-the-dark-as-reliable-electricity-lags/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-07-19T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Rural Ethiopia still left in the dark as reliable electricity lags"
-        },
-        {
-          "title": "From abundance to retreat : what happened to Nile water levels in Sudan ?",
-          "link": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
-          "source": "dabangasudan.org",
-          "pubDate": "2026-07-16T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "From abundance to retreat : what happened to Nile water levels in Sudan ?"
-        },
-        {
-          "title": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD",
-          "link": "https://allafrica.com/stories/202607150066.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-15T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD"
-        },
-        {
-          "title": "Ethiopia debt problem",
-          "link": "https://africasacountry.com/2026/07/ethiopias-debt-problem",
-          "source": "africasacountry.com",
-          "pubDate": "2026-07-14T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia debt problem"
         }
       ]
     }
