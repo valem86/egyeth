@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-01T13:58:40.153Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-01T15:29:28.443Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -59,30 +59,21 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Rome hosts meeting of Global Alliance on the Two-State Solution"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Somalia : U . S . has no plans to recognize Somaliland , AFRICOM chief says",
+          "link": "https://www.garoweonline.com/en/news/somalia/somalia-u-s-has-no-plans-to-recognize-somaliland-africom-chief-says",
+          "source": "garoweonline.com",
+          "pubDate": "2026-08-01T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : U . S . has no plans to recognize Somaliland , AFRICOM chief says"
+        },
         {
           "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
           "link": "https://www.thereporterethiopia.com/51980/",
@@ -253,15 +244,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Gate of Tears : How key shipping route Bab al - Mandab became next front in the US - Iran war"
-        },
-        {
-          "title": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History",
-          "link": "https://www.maravipost.com/cure-blindness-project-releases-2025-impact-report-marking-most-impactful-year-in-organizations-history-3/",
-          "source": "maravipost.com",
-          "pubDate": "2026-07-21T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cure Blindness Project Releases 2025 Impact Report , Marking Most Impactful Year in Organization History"
         }
       ]
     },
@@ -269,13 +251,31 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Intesa Sanpaolo: Messina, Mps? Vogliamo portare a termine l'operazione",
-          "link": "https://www.agenzianova.com/a/6a6dfae1e4ae65.28430317/7663509/2026-08-01/intesa-sanpaolo-messina-mps-vogliamo-portare-a-termine-l-operazione",
-          "description": "01 ago 14:46 - (Agenzia Nova) - \"Posso rispondere con le parole di Mario Draghi: whatever it takes, costi quel che costi. Vogliamo portare... (Rin)",
-          "pubDate": "2026-08-01T14:46:25+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Intesa Sanpaolo: Messina, Mps? Vogliamo portare a termine l'operazione"
+          "title": "US to impose $20 , 000 visa bond on Nigeria , other African nations",
+          "link": "https://www.vanguardngr.com/2026/08/us-to-impose-20000-visa-bond-on-nigeria-other-african-nations/",
+          "source": "vanguardngr.com",
+          "pubDate": "2026-08-01T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US to impose $20 , 000 visa bond on Nigeria , other African nations"
+        },
+        {
+          "title": "Bishoftu Airport Bid Selection Delayed As Ethiopian Airlines Awaits USD 9bln Financing",
+          "link": "https://www.thereporterethiopia.com/52136/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-01T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bishoftu Airport Bid Selection Delayed As Ethiopian Airlines Awaits USD 9bln Financing"
+        },
+        {
+          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
+          "link": "https://www.thereporterethiopia.com/51980/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-01T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
         },
         {
           "title": "The Missing Link Between Ethiopia Universities And Economic Transformation",
@@ -321,24 +321,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Tackling Ethiopia Twin Crisis Of Migration And Impunity"
-        },
-        {
-          "title": "Bishoftu Airport Bid Selection Delayed As Ethiopian Airlines Awaits USD 9bln Financing",
-          "link": "https://www.thereporterethiopia.com/52136/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-01T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Bishoftu Airport Bid Selection Delayed As Ethiopian Airlines Awaits USD 9bln Financing"
-        },
-        {
-          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
-          "link": "https://www.thereporterethiopia.com/51980/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-01T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
         },
         {
           "title": "US makes visa bond programme permanent : Effective date , affected countries explained",
@@ -454,50 +436,19 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "The 10 longest airplane flights on Earth",
-          "link": "https://www.popsci.com/technology/10-longest-airplane-flights/",
-          "source": "popsci.com",
-          "pubDate": "2026-08-01T13:30:00Z",
+          "title": "IMF completes reviews in Egypt unlocking $1.8 billion",
+          "link": "http://www.africanews.com/2026/07/31/imf-completes-reviews-in-egypt-unlocking-18-billion/",
+          "description": "The prime minister has welcomed the news, saying it is a renewed vote of confidence in the country's economic reform programme.",
+          "pubDate": "Fri, 31 Jul 2026 13:27:34 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "The 10 longest airplane flights on Earth"
-        },
-        {
-          "title": "Top 10 Countries with the Highest Interest Rates in 2026 : Check Complete List",
-          "link": "https://www.jagranjosh.com/general-knowledge/top-10-countries-with-the-highest-interest-rates-in-2026-check-complete-list-1820011068-1",
-          "source": "jagranjosh.com",
-          "pubDate": "2026-08-01T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Top 10 Countries with the Highest Interest Rates in 2026 : Check Complete List"
-        },
-        {
-          "title": "From Hormuz to Bab el - Mandeb to Suez : Iran war machine is threatening global shipping – Ya Libnan",
-          "link": "https://yalibnan.com/2026/08/01/from-hormuz-to-bab-el-mandeb-to-suez-irans-war-machine-is-threatening-global-shipping/",
-          "source": "yalibnan.com",
-          "pubDate": "2026-08-01T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "From Hormuz to Bab el - Mandeb to Suez : Iran war machine is threatening global shipping – Ya Libnan"
-        },
-        {
-          "title": "Here why new fronts seem to be opening up across the Middle East",
-          "link": "https://naharnet.com/stories/en/321571-here-s-why-new-fronts-seem-to-be-opening-up-across-the-middle-east",
-          "source": "naharnet.com",
-          "pubDate": "2026-08-01T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Here why new fronts seem to be opening up across the Middle East"
-        },
-        {
-          "title": "The USD 4bln Collapse : Inside The Regulatory Stalls , Geopolitical Friction , And Tax Disputes That Derailed Zijin Mining Acquisition Of Allied Gold",
-          "link": "https://www.thereporterethiopia.com/52139/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-01T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The USD 4bln Collapse : Inside The Regulatory Stalls , Geopolitical Friction , And Tax Disputes That Derailed Zijin Mining Acquisition Of Allied Gold"
-        },
+          "titleIt": "IMF completes reviews in Egypt unlocking $1.8 billion"
+        }
+      ]
+    },
+    "gerd-opacity": {
+      "title": "Opacità sui rilasci GERD",
+      "items": [
         {
           "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
           "link": "https://www.thereporterethiopia.com/51980/",
@@ -508,137 +459,6 @@
           "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
         },
         {
-          "title": "Mystery Over Who Targeted Egypt Damietta Port Raises Questions",
-          "link": "https://english.aawsat.com/features/5302246-mystery-over-who-targeted-egypt%E2%80%99s-damietta-port-raises-questions",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-08-01T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mystery Over Who Targeted Egypt Damietta Port Raises Questions"
-        },
-        {
-          "title": "London museums are the envy of the world . We must keep them free to enter , writes Sadiq Khan",
-          "link": "https://www.lbc.co.uk/article/london-museums-free-entry-summer-holidays-sadiq-khan-opinion-5HjdfQQ_2/",
-          "source": "lbc.co.uk",
-          "pubDate": "2026-08-01T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "London museums are the envy of the world . We must keep them free to enter , writes Sadiq Khan"
-        },
-        {
-          "title": "Iran Has Surrounded Saudi Arabia And Threats Are Closing in",
-          "link": "https://www.newsweek.com/iran-has-surrounded-saudi-arabia-and-threats-are-closing-in-12266153",
-          "source": "newsweek.com",
-          "pubDate": "2026-08-01T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Has Surrounded Saudi Arabia And Threats Are Closing in"
-        },
-        {
-          "title": "The US war on Iran is spinning out of control | Mohamad Bazzi",
-          "link": "https://www.theguardian.com/commentisfree/2026/aug/01/us-iran-war-trump-recession",
-          "source": "theguardian.com",
-          "pubDate": "2026-08-01T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The US war on Iran is spinning out of control | Mohamad Bazzi"
-        },
-        {
-          "title": "WAFCON 2026 Preview : Super Falcons face defining test against rampant Zambia",
-          "link": "https://www.premiumtimesng.com/news/top-news/899927-wafcon-2026-preview-super-falcons-face-defining-test-against-rampant-zambia.html",
-          "source": "premiumtimesng.com",
-          "pubDate": "2026-08-01T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "WAFCON 2026 Preview : Super Falcons face defining test against rampant Zambia"
-        },
-        {
-          "title": "Clippers Across Africa : The Pan Africa Story | Aero - News Network",
-          "link": "https://aero-news.net:443/index.cfm?do=main.textpost&id=1E2FDB89-ABDC-4EF7-921C-3387FCB75D4A",
-          "source": "aero-news.net",
-          "pubDate": "2026-08-01T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Clippers Across Africa : The Pan Africa Story | Aero - News Network"
-        },
-        {
-          "title": "Keefe , Bruyette & Woods Issues Positive Forecast for Mastercard ( NYSE : MA ) Stock Price",
-          "link": "https://www.themarketsdaily.com/2026/08/01/keefe-bruyette-woods-issues-positive-forecast-for-mastercard-nysema-stock-price.html",
-          "source": "themarketsdaily.com",
-          "pubDate": "2026-08-01T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Keefe , Bruyette & Woods Issues Positive Forecast for Mastercard ( NYSE : MA ) Stock Price"
-        },
-        {
-          "title": "Reading Ancient Signals in a Modern World",
-          "link": "https://slguardian.org/reading-ancient-signals-in-a-modern-world/",
-          "source": "slguardian.org",
-          "pubDate": "2026-08-01T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Reading Ancient Signals in a Modern World"
-        },
-        {
-          "title": "Saudi Arabia Unveils 43 - Nation Maritime Alliance to Guard Red Sea",
-          "link": "https://voiceofvienna.org/saudi-arabia-unveils-43-nation-maritime-alliance-to-guard-red-sea/",
-          "source": "voiceofvienna.org",
-          "pubDate": "2026-08-01T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia Unveils 43 - Nation Maritime Alliance to Guard Red Sea"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.afghanistannews.net/news/279216755/shipping-risks-grow-after-drone-attack-on-egypt-s-damietta-port",
-          "source": "afghanistannews.net",
-          "pubDate": "2026-08-01T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.malaysiasun.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict",
-          "source": "malaysiasun.com",
-          "pubDate": "2026-08-01T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.stlouisstar.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict",
-          "source": "stlouisstar.com",
-          "pubDate": "2026-08-01T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.sydneysun.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict",
-          "source": "sydneysun.com",
-          "pubDate": "2026-08-01T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        },
-        {
-          "title": "Drone strike in Egypt raises fears for shipping in Suez Canal",
-          "link": "http://www.africaleader.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict",
-          "source": "africaleader.com",
-          "pubDate": "2026-08-01T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strike in Egypt raises fears for shipping in Suez Canal"
-        }
-      ]
-    },
-    "gerd-opacity": {
-      "title": "Opacità sui rilasci GERD",
-      "items": [
-        {
           "title": "Egyptian PM announces investigation after Damietta port drone attack",
           "link": "http://www.africanews.com/2026/07/31/egyptian-pm-announces-investigation-after-damietta-port-drone-attack/",
           "description": "Egypt's Prime Minister said Thursday that the country would now be examining the remains of a drone that attacked two vessels at the Egyptian port of Damietta on Wednesday.",
@@ -646,6 +466,168 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egyptian PM announces investigation after Damietta port drone attack"
+        },
+        {
+          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
+          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
+          "source": "mondaq.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
+        },
+        {
+          "title": "A Movement of World Citizens Could Change the Course of History",
+          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-07-30T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A Movement of World Citizens Could Change the Course of History"
+        },
+        {
+          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
+          "link": "https://allafrica.com/stories/202607270583.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
+        },
+        {
+          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
+          "link": "https://allafrica.com/stories/202607270582.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
+          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "recorder.com",
+          "pubDate": "2026-07-27T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
+          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "gazettenet.com",
+          "pubDate": "2026-07-27T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
+        },
+        {
+          "title": "The return of the African megaproject",
+          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
+          "source": "hindustantimes.com",
+          "pubDate": "2026-07-25T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The return of the African megaproject"
+        },
+        {
+          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
+          "link": "https://www.thereporterethiopia.com/52030/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
+        },
+        {
+          "title": "Aid cuts call for innovation - Nation Online",
+          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
+          "source": "mwnation.com",
+          "pubDate": "2026-07-24T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Aid cuts call for innovation - Nation Online"
+        },
+        {
+          "title": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan",
+          "link": "https://allafrica.com/stories/202607230892.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-24T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan"
+        },
+        {
+          "title": "Society - Egypt - Ahram Online",
+          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
+          "source": "english.ahram.org.eg",
+          "pubDate": "2026-07-22T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Society - Egypt - Ahram Online"
+        },
+        {
+          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
+          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-07-21T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
+        },
+        {
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
+          "source": "dominicanrepublicpost.com",
+          "pubDate": "2026-07-21T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
+        },
+        {
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
+          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
+          "source": "aljazeera.com",
+          "pubDate": "2026-07-21T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
+        },
+        {
+          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
+          "link": "https://allafrica.com/stories/202607200017.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-20T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
+        },
+        {
+          "title": "Rural Ethiopia still left in the dark as reliable electricity lags",
+          "link": "https://capitalethiopia.com/2026/07/19/rural-ethiopia-still-left-in-the-dark-as-reliable-electricity-lags/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-07-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rural Ethiopia still left in the dark as reliable electricity lags"
+        },
+        {
+          "title": "From abundance to retreat : what happened to Nile water levels in Sudan ?",
+          "link": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
+          "source": "dabangasudan.org",
+          "pubDate": "2026-07-16T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From abundance to retreat : what happened to Nile water levels in Sudan ?"
+        },
+        {
+          "title": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD",
+          "link": "https://allafrica.com/stories/202607150066.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-15T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt : American Analyst Accuses Egypt of Escalating  Information Warfare  Against Ethiopia Over GERD"
         }
       ]
     }
