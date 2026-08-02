@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T13:59:59.545Z",
+  "generatedAt": "2026-08-02T15:30:35.062Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -83,15 +83,6 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Universita': Bernini a Gibuti, al via dialogo per cooperazione su ricerca (2)",
-          "link": "https://www.agenzianova.com/a/6a6f4c4c722476.43076971/7664719/2026-08-02/universita-bernini-a-gibuti-al-via-dialogo-per-cooperazione-su-ricerca-2",
-          "description": "02 ago 14:33 - (Agenzia Nova) - Bernini ha, inoltre, visitato la base militare italiana di supporto \"Amedeo Guillet\" e la fregata \"Carlo Bergamini\",... (Com)",
-          "pubDate": "2026-08-02T14:33:45+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Universita': Bernini a Gibuti, al via dialogo per cooperazione su ricerca (2)"
-        },
         {
           "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
           "link": "http://www.jpost.com/opinion/article-903889",
@@ -262,6 +253,15 @@
           "lang": "en",
           "description": "",
           "titleIt": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …"
+        },
+        {
+          "title": "927 | Pambazuka News",
+          "link": "http://www.pambazuka.org/taxonomy/term/15768",
+          "source": "pambazuka.org",
+          "pubDate": "2026-07-24T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "927 | Pambazuka News"
         }
       ]
     },
@@ -328,13 +328,184 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "IMF completes reviews in Egypt unlocking $1.8 billion",
-          "link": "http://www.africanews.com/2026/07/31/imf-completes-reviews-in-egypt-unlocking-18-billion/",
-          "description": "The prime minister has welcomed the news, saying it is a renewed vote of confidence in the country's economic reform programme.",
-          "pubDate": "Fri, 31 Jul 2026 13:27:34 +0000",
-          "source": "Africanews",
+          "title": "Florida man faces murder trial after united kingdom woman found in shallow grave",
+          "link": "https://www.foxnews.com/us/florida-sadist-charged-allegedly-hired-uk-woman-torture-kill-her",
+          "source": "foxnews.com",
+          "pubDate": "2026-08-02T15:00:00Z",
           "lang": "en",
-          "titleIt": "IMF completes reviews in Egypt unlocking $1.8 billion"
+          "description": "",
+          "titleIt": "Florida man faces murder trial after united kingdom woman found in shallow grave"
+        },
+        {
+          "title": "World Insights : Saudi - led maritime defense alliance underscores shift in regional security calculus",
+          "link": "http://www.heraldglobe.com/news/279219439/world-insights-saudi-led-maritime-defense-alliance-underscores-shift-in-regional-security-calculus",
+          "source": "heraldglobe.com",
+          "pubDate": "2026-08-02T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "World Insights : Saudi - led maritime defense alliance underscores shift in regional security calculus"
+        },
+        {
+          "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal",
+          "link": "https://www.sowetan.co.za/news/world/2026-08-02-trump-says-he-will-hold-off-on-fresh-iran-attack-in-hope-of-quick-deal/",
+          "source": "sowetan.co.za",
+          "pubDate": "2026-08-02T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says he will hold off on fresh Iran attack in hope of quick deal"
+        },
+        {
+          "title": "Global economy hostage to asymmetric warfare as cheap drones cause billions in damage",
+          "link": "https://www.bankingnews.gr/diethni/articles/891852/global-economy-hostage-to-asymmetric-warfare-as-cheap-drones-cause-billions-in-damage%20title=",
+          "source": "bankingnews.gr",
+          "pubDate": "2026-08-02T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Global economy hostage to asymmetric warfare as cheap drones cause billions in damage"
+        },
+        {
+          "title": "Global economy hostage to asymmetric warfare as cheap drones cause billions in damage",
+          "link": "https://www.bankingnews.gr/diethni/articles/891852/global-economy-hostage-to-asymmetric-warfare-as-cheap-drones-cause-billions-in-damage",
+          "source": "bankingnews.gr",
+          "pubDate": "2026-08-02T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Global economy hostage to asymmetric warfare as cheap drones cause billions in damage"
+        },
+        {
+          "title": "The power of gratitude - The Standard",
+          "link": "https://www.thestandard.co.zw/religion-zone/article/200058928/the-power-of-gratitude",
+          "source": "thestandard.co.zw",
+          "pubDate": "2026-08-02T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The power of gratitude - The Standard"
+        },
+        {
+          "title": "Trump says US , Israel to hold off on Iran strikes",
+          "link": "https://www.al-monitor.com/originals/2026/08/trump-says-us-israel-hold-iran-strikes",
+          "source": "al-monitor.com",
+          "pubDate": "2026-08-02T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says US , Israel to hold off on Iran strikes"
+        },
+        {
+          "title": "Reading Frank L . Baum The Wizard Of Oz Through A Jewish Lens",
+          "link": "https://jewishpress.com/reading-frank-l-baums-the-wizard-of-oz-through-a-jewish-lens/",
+          "source": "jewishpress.com",
+          "pubDate": "2026-08-02T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Reading Frank L . Baum The Wizard Of Oz Through A Jewish Lens"
+        },
+        {
+          "title": "The Hamaus That Roared",
+          "link": "https://www.americanthinker.com/articles/2026/08/the-hamaus-that-roared/",
+          "source": "americanthinker.com",
+          "pubDate": "2026-08-02T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Hamaus That Roared"
+        },
+        {
+          "title": "US embassies warn Americans as Iran threatens more choke points | Jefferson City News Tribune",
+          "link": "https://www.newstribune.com/news/2026/aug/02/us-embassies-warn-americans-as-iran-threatens/",
+          "source": "newstribune.com",
+          "pubDate": "2026-08-02T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US embassies warn Americans as Iran threatens more choke points | Jefferson City News Tribune"
+        },
+        {
+          "title": "Catching the Wave – Mishpacha",
+          "link": "https://mishpacha.com/catching-the-wave/",
+          "source": "mishpacha.com",
+          "pubDate": "2026-08-02T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Catching the Wave – Mishpacha"
+        },
+        {
+          "title": "Pakistan , Bangladesh face mounting economic risks as prolonged US - Iran conflict fuels oil price surge",
+          "link": "https://ianslive.in/pakistan-bangladesh-face-mounting-economic-risks-as-prolonged-us-iran-conflict-fuels-oil-price-surge--20260802172618",
+          "source": "ianslive.in",
+          "pubDate": "2026-08-02T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pakistan , Bangladesh face mounting economic risks as prolonged US - Iran conflict fuels oil price surge"
+        },
+        {
+          "title": "US - Israel to hold back fire as Trump hopes for quick Iran deal",
+          "link": "https://www.dailysabah.com/world/mid-east/us-israel-to-hold-back-fire-as-trump-hopes-for-quick-iran-deal",
+          "source": "dailysabah.com",
+          "pubDate": "2026-08-02T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US - Israel to hold back fire as Trump hopes for quick Iran deal"
+        },
+        {
+          "title": "Pakistan , Bangladesh face mounting economic risks as prolonged US - Iran conflict fuels oil price surge",
+          "link": "https://www.prokerala.com/news/articles/a1795530.html",
+          "source": "prokerala.com",
+          "pubDate": "2026-08-02T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pakistan , Bangladesh face mounting economic risks as prolonged US - Iran conflict fuels oil price surge"
+        },
+        {
+          "title": "Trump says US , Israel to hold off on Iran strikes",
+          "link": "https://www.naharnet.com:443/stories/en/321602-trump-says-us-israel-to-hold-off-on-iran-strikes",
+          "source": "naharnet.com",
+          "pubDate": "2026-08-02T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says US , Israel to hold off on Iran strikes"
+        },
+        {
+          "title": "As progressives seek to take on inequality , some cite religion as a motivating factor",
+          "link": "https://www.texarkanagazette.com/news/2026/aug/02/as-progressives-seek-to-take-on-inequality-some/",
+          "source": "texarkanagazette.com",
+          "pubDate": "2026-08-02T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "As progressives seek to take on inequality , some cite religion as a motivating factor"
+        },
+        {
+          "title": "Books of the Month : What to read in August , including the historical tale of an odd and infantile royal love affair",
+          "link": "https://www.the-independent.com/arts-entertainment/books/features/best-book-august-2026-fiction-nonfiction-b3025296.html",
+          "source": "the-independent.com",
+          "pubDate": "2026-08-02T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Books of the Month : What to read in August , including the historical tale of an odd and infantile royal love affair"
+        },
+        {
+          "title": "US embassies warn Americans as Iran threatens more choke points",
+          "link": "https://bworldonline.com/bloomberg/2026/08/02/767445/us-embassies-warn-americans-as-iran-threatens-more-choke-points/",
+          "source": "bworldonline.com",
+          "pubDate": "2026-08-02T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US embassies warn Americans as Iran threatens more choke points"
+        },
+        {
+          "title": "Trump says he will hold off on fresh Iran attack in hope of a quick deal on nuclear threat , Hormuz",
+          "link": "https://www.businesstimes.com.sg/international/global/trump-says-he-will-hold-fresh-iran-attack-hope-quick-deal-nuclear-threat-hormuz",
+          "source": "businesstimes.com.sg",
+          "pubDate": "2026-08-02T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says he will hold off on fresh Iran attack in hope of a quick deal on nuclear threat , Hormuz"
+        },
+        {
+          "title": "Africa tops China Belt and Road engagement as Ethiopia draws major green energy investment",
+          "link": "https://capitalethiopia.com/2026/08/02/africa-tops-chinas-belt-and-road-engagement-as-ethiopia-draws-major-green-energy-investment/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-08-02T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa tops China Belt and Road engagement as Ethiopia draws major green energy investment"
         }
       ]
     },
