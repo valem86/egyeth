@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T21:13:17.918Z",
+  "generatedAt": "2026-08-02T23:14:30.277Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -75,60 +75,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command",
-          "link": "https://wardheernews.com/prime-ministers-las-anod-visit-sparks-speculation-as-federal-government-announces-revival-of-historic-26th-military-command/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-02T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command"
-        },
-        {
-          "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
-          "link": "http://www.jpost.com/opinion/article-903889",
-          "source": "jpost.com",
-          "pubDate": "2026-08-02T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How the Israel - Somaliland alliance rewrites American diplomacy"
-        },
-        {
-          "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
-          "link": "https://www.jpost.com/opinion/article-903889",
-          "source": "jpost.com",
-          "pubDate": "2026-08-02T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How the Israel - Somaliland alliance rewrites American diplomacy"
-        },
-        {
-          "title": "AFRICOM Commander Dismisses Reports of U . S . Military Base in Berbera",
-          "link": "https://raxanreeb.com/africom-commander-dismisses-reports-of-u-s-military-base-in-berbera/",
-          "source": "raxanreeb.com",
-          "pubDate": "2026-08-01T21:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AFRICOM Commander Dismisses Reports of U . S . Military Base in Berbera"
-        },
-        {
-          "title": "Somalia : U . S . has no plans to recognize Somaliland , AFRICOM chief says",
-          "link": "https://www.garoweonline.com/en/news/somalia/somalia-u-s-has-no-plans-to-recognize-somaliland-africom-chief-says",
-          "source": "garoweonline.com",
-          "pubDate": "2026-08-01T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : U . S . has no plans to recognize Somaliland , AFRICOM chief says"
-        },
-        {
-          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
-          "link": "https://www.thereporterethiopia.com/51980/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-01T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
-        },
-        {
           "title": "Somalia: Somalia's President Arrives in Uganda Ahead of Aussom Summit, Holds Talks With Museveni",
           "link": "https://allafrica.com/stories/202607310291.html",
           "description": "[Shabelle] Kampala -- Somali President Hassan Sheikh Mohamud arrived in Uganda's capital Kampala on Friday, where he held bilateral talks with Ugandan President Yoweri Museveni ahead of a summit expected to shape the future of the African Union Support and Stabilisation Mission in Somalia (AUSSOM).",
@@ -138,121 +84,13 @@
           "titleIt": "Somalia: Somalia's President Arrives in Uganda Ahead of Aussom Summit, Holds Talks With Museveni"
         },
         {
-          "title": "Africa: AU Urges Continent to Bolster Preparedness to Mitigate Potential Impacts of 2026 El Niño",
-          "link": "https://allafrica.com/stories/202607310209.html",
-          "description": "[ENA] Addis Ababa -- The African Union Commission has emphasized today the need for stronger continental preparedness and coordinated action to mitigate the potential impacts of the anticipated 2026 El Niño phenomenon.",
-          "pubDate": "Fri, 31 Jul 2026 10:49:43 GMT",
-          "source": "AllAfrica",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "titleIt": "Africa: AU Urges Continent to Bolster Preparedness to Mitigate Potential Impacts of 2026 El Niño"
-        },
-        {
-          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
-          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
-          "source": "mondaq.com",
-          "pubDate": "2026-07-30T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
-        },
-        {
-          "title": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland",
-          "link": "https://wardheernews.com/political-shock-deepens-in-northeast-state-as-six-mps-defect-to-somaliland/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-28T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland"
-        },
-        {
-          "title": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb",
-          "link": "https://wardheernews.com/somaliland-signals-readiness-to-help-secure-bab-el-mandeb/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-27T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb"
-        },
-        {
-          "title": "Is an Abraham Security Alliance possible in the Middle East ?",
-          "link": "https://www.jns.org/analysis/is-an-abraham-security-alliance-possible-in-the-middle-east",
-          "source": "jns.org",
-          "pubDate": "2026-07-27T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Is an Abraham Security Alliance possible in the Middle East ?"
-        },
-        {
-          "title": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust",
-          "link": "https://dailytrust.com/secret-uae-linked-camps-used-to-recruit-mercenaries-for-sudan-conflict-report/",
-          "source": "dailytrust.com",
-          "pubDate": "2026-07-27T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust"
-        },
-        {
-          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
-          "link": "http://www.jpost.com/israel-news/article-903706",
-          "source": "jpost.com",
-          "pubDate": "2026-07-26T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
-        },
-        {
-          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
-          "link": "https://www.jpost.com/israel-news/article-903706",
-          "source": "jpost.com",
-          "pubDate": "2026-07-26T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
-        },
-        {
-          "title": "Ethiopia Babile Elephant Sanctuary Nears Extinction",
-          "link": "https://www.riotimesonline.com/babile-elephant-sanctuary-extinction-ethiopia-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-07-26T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Babile Elephant Sanctuary Nears Extinction"
-        },
-        {
-          "title": "Somalia Turkish Illusion - WardheerNews",
-          "link": "https://wardheernews.com/somalias-turkish-illusion/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-25T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia Turkish Illusion - WardheerNews"
-        },
-        {
-          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
-          "link": "https://www.thereporterethiopia.com/52030/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-07-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
-        },
-        {
-          "title": "Somalia : Kulmiye Party Urges united kingdom to Renew Somaliland Recognition in Congratulatory Letter to New Prime Minister",
-          "link": "https://allafrica.com/stories/202607240062.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-24T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Kulmiye Party Urges united kingdom to Renew Somaliland Recognition in Congratulatory Letter to New Prime Minister"
-        },
-        {
-          "title": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …",
-          "link": "http://www.pambazuka.org/Sectarian-Framework",
-          "source": "pambazuka.org",
-          "pubDate": "2026-07-24T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -309,6 +147,15 @@
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "Trump says US will hold off on fresh Iran attack in hope of quick deal",
+          "link": "https://www.al-monitor.com/originals/2026/08/trump-says-us-will-hold-fresh-iran-attack-hope-quick-deal",
+          "source": "al-monitor.com",
+          "pubDate": "2026-08-02T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says US will hold off on fresh Iran attack in hope of quick deal"
+        },
         {
           "title": "Full transcript of  Face the Nation with Margaret Brennan , Aug . 2 , 2026",
           "link": "https://www.yahoo.com/news/politics/articles/full-transcript-face-nation-margaret-180459509.html",
@@ -479,15 +326,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Global economy hostage to asymmetric warfare as cheap drones cause billions in damage"
-        },
-        {
-          "title": "World Insights : Saudi - led maritime defense alliance underscores shift in regional security calculus",
-          "link": "http://www.heraldglobe.com/news/279219439/world-insights-saudi-led-maritime-defense-alliance-underscores-shift-in-regional-security-calculus",
-          "source": "heraldglobe.com",
-          "pubDate": "2026-08-02T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "World Insights : Saudi - led maritime defense alliance underscores shift in regional security calculus"
         }
       ]
     },
