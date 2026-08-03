@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-03T15:19:25.065Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-08-03T18:10:35.607Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somali Army Chief, Turksom Commander Visit Baidoa for Security Talks",
+          "link": "https://allafrica.com/stories/202608030808.html",
+          "description": "[Shabelle] Baidoa -- Somalia's army chief and the commander of Turkey's military training mission visited the southwestern city of Baidoa on Monday for talks with South West State leader Sheikh Aden Mohamed Nur (Madoobe) on strengthening security and expanding operations against Al-Shabaab.",
+          "pubDate": "Mon, 03 Aug 2026 15:38:58 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somali Army Chief, Turksom Commander Visit Baidoa for Security Talks"
+        },
         {
           "title": "Magnitude 5.5 quake jolts Egypt, triggering emergency response",
           "link": "http://www.africanews.com/2026/08/03/magnitude-55-quake-jolts-egypt-triggering-emergency-response/",
@@ -41,6 +50,24 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Rome hosts meeting of Global Alliance on the Two-State Solution"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -57,181 +84,46 @@
           "titleIt": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war"
         },
         {
-          "title": "AUSSOM Funding Cliff Sends Somalia Mission to the UN",
-          "link": "https://www.riotimesonline.com/aussom-funding-un-security-council-somalia-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-08-03T10:00:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "AUSSOM Funding Cliff Sends Somalia Mission to the UN"
-        },
-        {
-          "title": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command",
-          "link": "https://wardheernews.com/prime-ministers-las-anod-visit-sparks-speculation-as-federal-government-announces-revival-of-historic-26th-military-command/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-02T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command"
-        },
-        {
-          "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
-          "link": "http://www.jpost.com/opinion/article-903889",
-          "source": "jpost.com",
-          "pubDate": "2026-08-02T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How the Israel - Somaliland alliance rewrites American diplomacy"
-        },
-        {
-          "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
-          "link": "https://www.jpost.com/opinion/article-903889",
-          "source": "jpost.com",
-          "pubDate": "2026-08-02T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How the Israel - Somaliland alliance rewrites American diplomacy"
-        },
-        {
-          "title": "AFRICOM Commander Dismisses Reports of U . S . Military Base in Berbera",
-          "link": "https://raxanreeb.com/africom-commander-dismisses-reports-of-u-s-military-base-in-berbera/",
-          "source": "raxanreeb.com",
-          "pubDate": "2026-08-01T21:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AFRICOM Commander Dismisses Reports of U . S . Military Base in Berbera"
-        },
-        {
-          "title": "Somalia : U . S . has no plans to recognize Somaliland , AFRICOM chief says",
-          "link": "https://www.garoweonline.com/en/news/somalia/somalia-u-s-has-no-plans-to-recognize-somaliland-africom-chief-says",
-          "source": "garoweonline.com",
-          "pubDate": "2026-08-01T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : U . S . has no plans to recognize Somaliland , AFRICOM chief says"
-        },
-        {
-          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
-          "link": "https://www.thereporterethiopia.com/51980/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-01T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
-        },
-        {
-          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
-          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
-          "source": "mondaq.com",
-          "pubDate": "2026-07-30T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
-        },
-        {
-          "title": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland",
-          "link": "https://wardheernews.com/political-shock-deepens-in-northeast-state-as-six-mps-defect-to-somaliland/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-28T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland"
-        },
-        {
-          "title": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb",
-          "link": "https://wardheernews.com/somaliland-signals-readiness-to-help-secure-bab-el-mandeb/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-27T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb"
-        },
-        {
-          "title": "Is an Abraham Security Alliance possible in the Middle East ?",
-          "link": "https://www.jns.org/analysis/is-an-abraham-security-alliance-possible-in-the-middle-east",
-          "source": "jns.org",
-          "pubDate": "2026-07-27T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Is an Abraham Security Alliance possible in the Middle East ?"
-        },
-        {
-          "title": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust",
-          "link": "https://dailytrust.com/secret-uae-linked-camps-used-to-recruit-mercenaries-for-sudan-conflict-report/",
-          "source": "dailytrust.com",
-          "pubDate": "2026-07-27T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust"
-        },
-        {
-          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
-          "link": "http://www.jpost.com/israel-news/article-903706",
-          "source": "jpost.com",
-          "pubDate": "2026-07-26T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
-        },
-        {
-          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
-          "link": "https://www.jpost.com/israel-news/article-903706",
-          "source": "jpost.com",
-          "pubDate": "2026-07-26T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
-        },
-        {
-          "title": "Ethiopia Babile Elephant Sanctuary Nears Extinction",
-          "link": "https://www.riotimesonline.com/babile-elephant-sanctuary-extinction-ethiopia-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-07-26T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Babile Elephant Sanctuary Nears Extinction"
-        },
-        {
-          "title": "Somalia Turkish Illusion - WardheerNews",
-          "link": "https://wardheernews.com/somalias-turkish-illusion/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-07-25T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia Turkish Illusion - WardheerNews"
-        },
-        {
-          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
-          "link": "https://www.thereporterethiopia.com/52030/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-07-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
-        },
-        {
-          "title": "Somalia : Kulmiye Party Urges united kingdom to Renew Somaliland Recognition in Congratulatory Letter to New Prime Minister",
-          "link": "https://allafrica.com/stories/202607240062.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-24T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Kulmiye Party Urges united kingdom to Renew Somaliland Recognition in Congratulatory Letter to New Prime Minister"
-        },
-        {
-          "title": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …",
-          "link": "http://www.pambazuka.org/Sectarian-Framework",
-          "source": "pambazuka.org",
-          "pubDate": "2026-07-24T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Female Genital Mutilation : Winning the Argument , Losing the Funding",
+          "link": "https://www.globalissues.org/news/2026/08/03/43727",
+          "source": "globalissues.org",
+          "pubDate": "2026-08-03T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Female Genital Mutilation : Winning the Argument , Losing the Funding"
+        },
+        {
+          "title": "Somalia: Somali Army Chief, Turksom Commander Visit Baidoa for Security Talks",
+          "link": "https://allafrica.com/stories/202608030808.html",
+          "description": "[Shabelle] Baidoa -- Somalia's army chief and the commander of Turkey's military training mission visited the southwestern city of Baidoa on Monday for talks with South West State leader Sheikh Aden Mohamed Nur (Madoobe) on strengthening security and expanding operations against Al-Shabaab.",
+          "pubDate": "Mon, 03 Aug 2026 15:38:58 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somali Army Chief, Turksom Commander Visit Baidoa for Security Talks"
+        },
+        {
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.bridgwatermercury.co.uk/news/26430647.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "bridgwatermercury.co.uk",
+          "pubDate": "2026-08-03T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+        },
         {
           "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
           "link": "https://www.ansa.it/english/news/politics/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_ba5525a0-cce7-4233-9fef-6005f8ac67bf.html",
@@ -240,6 +132,60 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
+        },
+        {
+          "title": "Trump Makes U . S . Visa Bond Program Permanent : Could a Future President End It ?",
+          "link": "https://finchannel.com/trump-makes-u-s-visa-bonds-permanent-will-the-requirement-survive-after-his-presidency/133235/world-2/2026/08/",
+          "source": "finchannel.com",
+          "pubDate": "2026-08-03T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Makes U . S . Visa Bond Program Permanent : Could a Future President End It ?"
+        },
+        {
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.maldonandburnhamstandard.co.uk/news/26430732.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "maldonandburnhamstandard.co.uk",
+          "pubDate": "2026-08-03T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+        },
+        {
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.thisiswiltshire.co.uk/news/26430788.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "thisiswiltshire.co.uk",
+          "pubDate": "2026-08-03T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+        },
+        {
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.wharfedaleobserver.co.uk/news/26430799.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "wharfedaleobserver.co.uk",
+          "pubDate": "2026-08-03T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+        },
+        {
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.in-cumbria.com/news/26430713.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "in-cumbria.com",
+          "pubDate": "2026-08-03T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+        },
+        {
+          "title": "AFRICOM Says Al - Shabaab Funnels Part of Its Revenue to Al - Qaeda Network",
+          "link": "https://www.garoweonline.com/en/news/somalia/africom-says-al-shabaab-funnels-part-of-its-revenue-to-al-qaeda-network",
+          "source": "garoweonline.com",
+          "pubDate": "2026-08-03T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AFRICOM Says Al - Shabaab Funnels Part of Its Revenue to Al - Qaeda Network"
         },
         {
           "title": "Ethiopia: Hundreds Flee Ethiopia to War-Torn Sudan Following New Fighting in Tigray",
@@ -251,55 +197,100 @@
           "titleIt": "Ethiopia: Hundreds Flee Ethiopia to War-Torn Sudan Following New Fighting in Tigray"
         },
         {
-          "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
-          "link": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
-          "description": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
-          "pubDate": "Mon, 03 Aug 2026 11:49:48 GMT",
-          "source": "BBC Africa",
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.westerntelegraph.co.uk/news/26430801.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "westerntelegraph.co.uk",
+          "pubDate": "2026-08-03T12:45:00Z",
           "lang": "en",
-          "titleIt": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war"
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
         },
         {
-          "title": "English FA to drop support for Infantino's re-election",
-          "link": "http://www.africanews.com/2026/08/03/english-fa-to-drop-support-for-infantinos-re-election/",
-          "description": "The English Football Association (FA) plans to formally withdraw its support for FIFA President Gianni Infantino, dealing him a major blow just days after he dropped his bid to sell some of his equity to private investors.",
-          "pubDate": "Mon, 03 Aug 2026 10:15:55 +0000",
-          "source": "Africanews",
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.asianimage.co.uk/news/26430630.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "asianimage.co.uk",
+          "pubDate": "2026-08-03T12:30:00Z",
           "lang": "en",
-          "titleIt": "English FA to drop support for Infantino's re-election"
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
         },
         {
-          "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
-          "link": "https://www.ansa.it/english/news/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_0a2b42db-7e8c-4226-8422-94e31b17210b.html",
-          "description": "(ANSA) - ROME, AUG 3 - Italy will propose the creation of EU migrant hubs outside the bloc along the lines of its centres in Albania at Tuesday's emergency meeting of European interior ministers following the arrival of thousands of migrants at the Spain's North African enclave of Ceuta last week, sources have said, confirming newspaper reports. Premier Giorgia Meloni's government has suspended arrangements regarding the Schengen agreement allowing for control-free movement between borders with Spain for a month following the events in Ceuta. Madrid and Italy's opposition parties have blasted ",
-          "pubDate": "Mon, 3 Aug 2026 11:38:13 +0200",
-          "source": "ANSA English",
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.falmouthpacket.co.uk/news/26430693.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "falmouthpacket.co.uk",
+          "pubDate": "2026-08-03T12:30:00Z",
           "lang": "en",
-          "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
         },
         {
-          "title": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/01/ambassador-prunas-the-mediterranean-games-are-an-opportunity-to-strengthen-dialogue_bdc52f1c-0fbc-4cc4-84c6-de8c072f5f70.html",
-          "description": "(ANSA) - TUNISI, 01 AGO - Ahead of the start of the Taranto 2026 Mediterranean Games, the Italian Embassy in Tunis, in collaboration with the Tunisian National Olympic Committee, organized an event to present the Games, which brought together at the “La Charmeuse” Residence a delegation of Tunisian athletes, representatives of sports federations, and great champions from the past and present. On this occasion, Ambassador Alessandro Prunas emphasized that “in an international context marked by growing tensions, the Taranto Mediterranean Games represent an important opportunity to strengthen, th",
-          "pubDate": "Sat, 1 Aug 2026 09:25:36 +0200",
-          "source": "ANSA English",
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.stourbridgenews.co.uk/news/26430763.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "stourbridgenews.co.uk",
+          "pubDate": "2026-08-03T12:30:00Z",
           "lang": "en",
-          "titleIt": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’"
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
         },
         {
-          "title": "28% increase in passports issued by the Italian Consulate in Dubai",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/28/28-increase-in-passports-issued-by-the-italian-consulate-in-dubai_7ce30183-4878-4fc5-b465-94c44ccd241c.html",
-          "description": "(ANSA) - ROMA, 28 LUG - The Consulate General of Italy in Dubai reports that in the first six months of 2026, it issued 1,340 passports, compared to 1,046 during the same period in 2025. This represents a 28% increase. “This increase,” explains the consulate, “did not occur in spite of the conflict, but rather because of the conflict.” Furthermore, the consular offices remained open throughout March to renew expiring passports and issue first passports to newborns. Read article...",
-          "pubDate": "Tue, 28 Jul 2026 15:39:38 +0200",
-          "source": "ANSA English",
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.hillingdontimes.co.uk/news/26430715.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "hillingdontimes.co.uk",
+          "pubDate": "2026-08-03T12:30:00Z",
           "lang": "en",
-          "titleIt": "28% increase in passports issued by the Italian Consulate in Dubai"
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+        },
+        {
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.royston-crow.co.uk/news/26430753.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "royston-crow.co.uk",
+          "pubDate": "2026-08-03T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+        },
+        {
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.herefordtimes.com/news/26430712.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "herefordtimes.com",
+          "pubDate": "2026-08-03T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+        },
+        {
+          "title": "Teen success story as he becomes Centrepoint student of the year | Dumbarton and Vale of Leven Reporter",
+          "link": "https://www.dumbartonreporter.co.uk/news/26430678.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "dumbartonreporter.co.uk",
+          "pubDate": "2026-08-03T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year | Dumbarton and Vale of Leven Reporter"
+        },
+        {
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.countypress.co.uk/news/26430722.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "countypress.co.uk",
+          "pubDate": "2026-08-03T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "Egitto: fonti stampa, investimento di 128 milioni di dollari per sei nuovi oleodotti",
+          "link": "https://www.agenzianova.com/a/6a70d87cecece4.59023999/7669108/2026-08-03/egitto-fonti-stampa-investimento-di-128-milioni-di-dollari-per-sei-nuovi-oleodotti",
+          "description": "03 ago 19:38 - (Agenzia Nova) - L'Egitto prevede di completare sei nuovi oleodotti logistici nazionali, per una lunghezza totale di 317 chilometri,... (Cae)",
+          "pubDate": "2026-08-03T19:38:06+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: fonti stampa, investimento di 128 milioni di dollari per sei nuovi oleodotti"
+        },
         {
           "title": "Egypt: 5.0 Magnitude Earthquake Strikes Egypt",
           "link": "https://allafrica.com/stories/202608030242.html",
@@ -340,15 +331,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
-        },
-        {
-          "title": "Sudan: Darfur Faces Famine Threat As Drought and Soaring Food Prices Deepen Crisis",
-          "link": "https://allafrica.com/stories/202608030134.html",
-          "description": "[Dabanga] Nierteti / El Obeid -- The General Coordination for Displaced Persons and Refugees in Darfur has warned of an imminent famine as a severe lack of rainfall, soaring food prices and disrupted trade leave communities struggling to secure basic supplies.",
-          "pubDate": "Mon, 03 Aug 2026 05:06:47 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Darfur Faces Famine Threat As Drought and Soaring Food Prices Deepen Crisis"
         },
         {
           "title": "Egyptian PM announces investigation after Damietta port drone attack",
