@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T11:47:24.199Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-03T15:19:25.065Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -41,24 +41,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Rome hosts meeting of Global Alliance on the Two-State Solution"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -66,19 +48,217 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
+          "link": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
+          "description": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
+          "pubDate": "Mon, 03 Aug 2026 11:49:48 GMT",
+          "source": "BBC Africa",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "titleIt": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war"
+        },
+        {
+          "title": "AUSSOM Funding Cliff Sends Somalia Mission to the UN",
+          "link": "https://www.riotimesonline.com/aussom-funding-un-security-council-somalia-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-08-03T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AUSSOM Funding Cliff Sends Somalia Mission to the UN"
+        },
+        {
+          "title": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command",
+          "link": "https://wardheernews.com/prime-ministers-las-anod-visit-sparks-speculation-as-federal-government-announces-revival-of-historic-26th-military-command/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-02T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command"
+        },
+        {
+          "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
+          "link": "http://www.jpost.com/opinion/article-903889",
+          "source": "jpost.com",
+          "pubDate": "2026-08-02T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How the Israel - Somaliland alliance rewrites American diplomacy"
+        },
+        {
+          "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
+          "link": "https://www.jpost.com/opinion/article-903889",
+          "source": "jpost.com",
+          "pubDate": "2026-08-02T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How the Israel - Somaliland alliance rewrites American diplomacy"
+        },
+        {
+          "title": "AFRICOM Commander Dismisses Reports of U . S . Military Base in Berbera",
+          "link": "https://raxanreeb.com/africom-commander-dismisses-reports-of-u-s-military-base-in-berbera/",
+          "source": "raxanreeb.com",
+          "pubDate": "2026-08-01T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AFRICOM Commander Dismisses Reports of U . S . Military Base in Berbera"
+        },
+        {
+          "title": "Somalia : U . S . has no plans to recognize Somaliland , AFRICOM chief says",
+          "link": "https://www.garoweonline.com/en/news/somalia/somalia-u-s-has-no-plans-to-recognize-somaliland-africom-chief-says",
+          "source": "garoweonline.com",
+          "pubDate": "2026-08-01T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : U . S . has no plans to recognize Somaliland , AFRICOM chief says"
+        },
+        {
+          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
+          "link": "https://www.thereporterethiopia.com/51980/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-01T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
+        },
+        {
+          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
+          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
+          "source": "mondaq.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
+        },
+        {
+          "title": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland",
+          "link": "https://wardheernews.com/political-shock-deepens-in-northeast-state-as-six-mps-defect-to-somaliland/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-28T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland"
+        },
+        {
+          "title": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb",
+          "link": "https://wardheernews.com/somaliland-signals-readiness-to-help-secure-bab-el-mandeb/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-27T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb"
+        },
+        {
+          "title": "Is an Abraham Security Alliance possible in the Middle East ?",
+          "link": "https://www.jns.org/analysis/is-an-abraham-security-alliance-possible-in-the-middle-east",
+          "source": "jns.org",
+          "pubDate": "2026-07-27T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Is an Abraham Security Alliance possible in the Middle East ?"
+        },
+        {
+          "title": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust",
+          "link": "https://dailytrust.com/secret-uae-linked-camps-used-to-recruit-mercenaries-for-sudan-conflict-report/",
+          "source": "dailytrust.com",
+          "pubDate": "2026-07-27T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Secret UAE - linked camps used to recruit mercenaries for Sudan conflict – Report – Daily Trust"
+        },
+        {
+          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
+          "link": "http://www.jpost.com/israel-news/article-903706",
+          "source": "jpost.com",
+          "pubDate": "2026-07-26T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
+        },
+        {
+          "title": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat",
+          "link": "https://www.jpost.com/israel-news/article-903706",
+          "source": "jpost.com",
+          "pubDate": "2026-07-26T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel Navy collaborating with Egypt could weaken Turkish maritime threat"
+        },
+        {
+          "title": "Ethiopia Babile Elephant Sanctuary Nears Extinction",
+          "link": "https://www.riotimesonline.com/babile-elephant-sanctuary-extinction-ethiopia-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-07-26T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Babile Elephant Sanctuary Nears Extinction"
+        },
+        {
+          "title": "Somalia Turkish Illusion - WardheerNews",
+          "link": "https://wardheernews.com/somalias-turkish-illusion/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-25T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia Turkish Illusion - WardheerNews"
+        },
+        {
+          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
+          "link": "https://www.thereporterethiopia.com/52030/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
+        },
+        {
+          "title": "Somalia : Kulmiye Party Urges united kingdom to Renew Somaliland Recognition in Congratulatory Letter to New Prime Minister",
+          "link": "https://allafrica.com/stories/202607240062.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-24T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Kulmiye Party Urges united kingdom to Renew Somaliland Recognition in Congratulatory Letter to New Prime Minister"
+        },
+        {
+          "title": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …",
+          "link": "http://www.pambazuka.org/Sectarian-Framework",
+          "source": "pambazuka.org",
+          "pubDate": "2026-07-24T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sectarian Navel - gazing Framework is Oxymoronic to Somali & African Ambitions : A Response to Ahmed  The Modagishu Blind Spot …"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
+          "link": "https://www.ansa.it/english/news/politics/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_ba5525a0-cce7-4233-9fef-6005f8ac67bf.html",
+          "description": "(ANSA) - ROME, AUG 3 - Italy will propose the creation of EU migrant hubs outside the bloc along the lines of its centres in Albania at Tuesday's emergency meeting of European interior ministers following the arrival of thousands of migrants at the Spain's North African enclave of Ceuta last week, sources have said, confirming newspaper reports. Premier Giorgia Meloni's government has suspended arrangements regarding the Schengen agreement allowing for control-free movement between borders with Spain for a month following the events in Ceuta. Madrid and Italy's opposition parties have blasted ",
+          "pubDate": "Mon, 3 Aug 2026 16:05:22 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
+        },
+        {
+          "title": "Ethiopia: Hundreds Flee Ethiopia to War-Torn Sudan Following New Fighting in Tigray",
+          "link": "https://allafrica.com/stories/202608030664.html",
+          "description": "[RFI] In Ethiopia, hundreds of people have started to flee to Sudan following Saturday's fighting, when clashes in Tigray pitted federal forces against rebels from the Tigray People's Liberation Front (TPLF). Both sides accuse each other of seeking to trigger a new conflict.",
+          "pubDate": "Mon, 03 Aug 2026 12:48:06 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Hundreds Flee Ethiopia to War-Torn Sudan Following New Fighting in Tigray"
+        },
+        {
+          "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
+          "link": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
+          "description": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
+          "pubDate": "Mon, 03 Aug 2026 11:49:48 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war"
+        },
         {
           "title": "English FA to drop support for Infantino's re-election",
           "link": "http://www.africanews.com/2026/08/03/english-fa-to-drop-support-for-infantinos-re-election/",
@@ -87,15 +267,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "English FA to drop support for Infantino's re-election"
-        },
-        {
-          "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
-          "link": "https://www.ansa.it/english/news/politics/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_ba5525a0-cce7-4233-9fef-6005f8ac67bf.html",
-          "description": "(ANSA) - ROME, AUG 3 - Italy will propose the creation of EU migrant hubs outside the bloc along the lines of its centres in Albania at Tuesday's emergency meeting of European interior ministers following the arrival of thousands of migrants at the Spain's North African enclave of Ceuta last week, sources have said, confirming newspaper reports. Premier Giorgia Meloni's government has suspended arrangements regarding the Schengen agreement allowing for control-free movement between borders with Spain for a month following the events in Ceuta. Madrid and Italy's opposition parties have blasted ",
-          "pubDate": "Mon, 3 Aug 2026 11:39:29 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
         },
         {
           "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
@@ -123,15 +294,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "28% increase in passports issued by the Italian Consulate in Dubai"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -189,24 +351,6 @@
           "titleIt": "Sudan: Darfur Faces Famine Threat As Drought and Soaring Food Prices Deepen Crisis"
         },
         {
-          "title": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles",
-          "link": "https://idrw.org/pakistans-unsc-push-on-indus-waters-treaty-faces-major-legal-and-political-hurdles/",
-          "source": "idrw.org",
-          "pubDate": "2026-08-02T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles"
-        },
-        {
-          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
-          "link": "https://www.thereporterethiopia.com/51980/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-01T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
-        },
-        {
           "title": "Egyptian PM announces investigation after Damietta port drone attack",
           "link": "http://www.africanews.com/2026/07/31/egyptian-pm-announces-investigation-after-damietta-port-drone-attack/",
           "description": "Egypt's Prime Minister said Thursday that the country would now be examining the remains of a drone that attacked two vessels at the Egyptian port of Damietta on Wednesday.",
@@ -214,141 +358,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egyptian PM announces investigation after Damietta port drone attack"
-        },
-        {
-          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
-          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
-          "source": "mondaq.com",
-          "pubDate": "2026-07-30T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
-        },
-        {
-          "title": "A Movement of World Citizens Could Change the Course of History",
-          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
-          "source": "larouchepub.com",
-          "pubDate": "2026-07-30T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A Movement of World Citizens Could Change the Course of History"
-        },
-        {
-          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
-          "link": "https://allafrica.com/stories/202607270583.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-28T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
-        },
-        {
-          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
-          "link": "https://allafrica.com/stories/202607270582.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-28T00:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
-        },
-        {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
-          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "recorder.com",
-          "pubDate": "2026-07-27T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
-        },
-        {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
-          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "gazettenet.com",
-          "pubDate": "2026-07-27T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
-        },
-        {
-          "title": "The return of the African megaproject",
-          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
-          "source": "hindustantimes.com",
-          "pubDate": "2026-07-25T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The return of the African megaproject"
-        },
-        {
-          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
-          "link": "https://www.thereporterethiopia.com/52030/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-07-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
-        },
-        {
-          "title": "Aid cuts call for innovation - Nation Online",
-          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
-          "source": "mwnation.com",
-          "pubDate": "2026-07-24T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Aid cuts call for innovation - Nation Online"
-        },
-        {
-          "title": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan",
-          "link": "https://allafrica.com/stories/202607230892.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-24T00:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan"
-        },
-        {
-          "title": "Society - Egypt - Ahram Online",
-          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
-          "source": "english.ahram.org.eg",
-          "pubDate": "2026-07-22T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Society - Egypt - Ahram Online"
-        },
-        {
-          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
-          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-21T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-07-21T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
-          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
-          "source": "aljazeera.com",
-          "pubDate": "2026-07-21T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
-        },
-        {
-          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
-          "link": "https://allafrica.com/stories/202607200017.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-20T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
         }
       ]
     }
