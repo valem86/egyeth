@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-02T23:14:30.277Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-03T03:57:29.440Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Uganda: Aussom Troop-Contributing Nations Seek UN Extension for Somalia Mission At Kampala Summit",
+          "link": "https://allafrica.com/stories/202607310358.html",
+          "description": "[Shabelle] Kampala -- Defence ministers from countries contributing troops to the African Union Support and Stabilisation Mission in Somalia (AUSSOM) agreed on Thursday to seek a United Nations extension of the mission by up to two years, as concerns mount over the future of international security support for Somalia.",
+          "pubDate": "Fri, 31 Jul 2026 16:02:21 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Uganda: Aussom Troop-Contributing Nations Seek UN Extension for Somalia Mission At Kampala Summit"
+        },
         {
           "title": "Somalia: Somalia's President Arrives in Uganda Ahead of Aussom Summit, Holds Talks With Museveni",
           "link": "https://allafrica.com/stories/202607310291.html",
@@ -50,30 +59,21 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Rome hosts meeting of Global Alliance on the Two-State Solution"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Uganda: Aussom Troop-Contributing Nations Seek UN Extension for Somalia Mission At Kampala Summit",
+          "link": "https://allafrica.com/stories/202607310358.html",
+          "description": "[Shabelle] Kampala -- Defence ministers from countries contributing troops to the African Union Support and Stabilisation Mission in Somalia (AUSSOM) agreed on Thursday to seek a United Nations extension of the mission by up to two years, as concerns mount over the future of international security support for Somalia.",
+          "pubDate": "Fri, 31 Jul 2026 16:02:21 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Uganda: Aussom Troop-Contributing Nations Seek UN Extension for Somalia Mission At Kampala Summit"
+        },
         {
           "title": "Somalia: Somalia's President Arrives in Uganda Ahead of Aussom Summit, Holds Talks With Museveni",
           "link": "https://allafrica.com/stories/202607310291.html",
@@ -82,21 +82,21 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Somalia's President Arrives in Uganda Ahead of Aussom Summit, Holds Talks With Museveni"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Energia: ad Chevron Wirth, crisi nel Golfo mantiene fragili e incerti i mercati",
+          "link": "https://www.agenzianova.com/a/6a7010e08bd001.37632150/7665271/2026-08-03/energia-ad-chevron-wirth-crisi-nel-golfo-mantiene-fragili-e-incerti-i-mercati",
+          "description": "03 ago 04:43 - (Agenzia Nova) - Il presidente e amministratore delegato di Chevron, Mike Wirth, ha affermato che il conflitto con l'Iran continua... (Was)",
+          "pubDate": "2026-08-03T04:43:52+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Energia: ad Chevron Wirth, crisi nel Golfo mantiene fragili e incerti i mercati"
+        },
         {
           "title": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/01/ambassador-prunas-the-mediterranean-games-are-an-opportunity-to-strengthen-dialogue_bdc52f1c-0fbc-4cc4-84c6-de8c072f5f70.html",
@@ -105,6 +105,15 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’"
+        },
+        {
+          "title": "Uganda: Aussom Troop-Contributing Nations Seek UN Extension for Somalia Mission At Kampala Summit",
+          "link": "https://allafrica.com/stories/202607310358.html",
+          "description": "[Shabelle] Kampala -- Defence ministers from countries contributing troops to the African Union Support and Stabilisation Mission in Somalia (AUSSOM) agreed on Thursday to seek a United Nations extension of the mission by up to two years, as concerns mount over the future of international security support for Somalia.",
+          "pubDate": "Fri, 31 Jul 2026 16:02:21 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Uganda: Aussom Troop-Contributing Nations Seek UN Extension for Somalia Mission At Kampala Summit"
         },
         {
           "title": "Somalia: Somalia's President Arrives in Uganda Ahead of Aussom Summit, Holds Talks With Museveni",
@@ -132,21 +141,165 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Italy 'books' SAFE loan of up to €14.9 billion, but EC says deal must be signed ASAP"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "Trump says Iran talks to take place on Monday , sets no deadline for deal",
+          "link": "https://www.dailymaverick.co.za/article/2026-08-03-trump-says-iran-talks-to-take-place-on-monday-sets-no-deadline-for-deal/",
+          "source": "dailymaverick.co.za",
+          "pubDate": "2026-08-03T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says Iran talks to take place on Monday , sets no deadline for deal"
+        },
+        {
+          "title": "Saudi Oil Reroutes Hit Capacity and Security Limits",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Reroutes-Hit-Capacity-and-Security-Limits.html",
+          "source": "oilprice.com",
+          "pubDate": "2026-08-03T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Oil Reroutes Hit Capacity and Security Limits"
+        },
+        {
+          "title": "Trump says Iran talks to take place on Monday , sets no deadline for deal",
+          "link": "https://kathmandupost.com/world/2026/08/03/trump-says-iran-talks-to-take-place-on-monday-sets-no-deadline-for-deal",
+          "source": "kathmandupost.com",
+          "pubDate": "2026-08-03T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says Iran talks to take place on Monday , sets no deadline for deal"
+        },
+        {
+          "title": "Trump says Iran talks to take place on Monday , sets no deadline for deal",
+          "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/03/trump-says-iran-talks-to-take-place-on-monday-sets-no-deadline-for-deal",
+          "source": "internazionale.it",
+          "pubDate": "2026-08-03T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says Iran talks to take place on Monday , sets no deadline for deal"
+        },
+        {
+          "title": "Trump says Iran talks to resume soon",
+          "link": "https://www.bordermail.com.au/story/9322357/trump-says-iran-talks-to-resume-soon/",
+          "source": "bordermail.com.au",
+          "pubDate": "2026-08-03T01:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says Iran talks to resume soon"
+        },
+        {
+          "title": "Trump says Iran talks to resume soon",
+          "link": "https://www.edenmagnet.com.au/story/9322357/trump-says-iran-talks-to-resume-soon/",
+          "source": "edenmagnet.com.au",
+          "pubDate": "2026-08-03T01:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says Iran talks to resume soon"
+        },
+        {
+          "title": "The Coup Clock Is Ticking in Tehran",
+          "link": "https://hotair.com/headlines/2026/08/02/the-coup-clock-is-ticking-in-tehran-n3817556",
+          "source": "hotair.com",
+          "pubDate": "2026-08-03T01:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Coup Clock Is Ticking in Tehran"
+        },
+        {
+          "title": "Trump says Iran talks to resume soon",
+          "link": "https://www.westernadvocate.com.au/story/9322357/trump-says-iran-talks-to-resume-soon/",
+          "source": "westernadvocate.com.au",
+          "pubDate": "2026-08-03T01:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says Iran talks to resume soon"
+        },
+        {
+          "title": "Trump says Iran talks to resume soon",
+          "link": "https://www.dailyliberal.com.au/story/9322357/trump-says-iran-talks-to-resume-soon/",
+          "source": "dailyliberal.com.au",
+          "pubDate": "2026-08-03T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says Iran talks to resume soon"
+        },
+        {
+          "title": "Embassies warn Americans of travel risk amid signs of possible U . S .- Iran military action in the coming days",
+          "link": "https://www.hellenicshippingnews.com/embassies-warn-americans-of-travel-risk-amid-signs-of-possible-u-s-iran-military-action-in-the-coming-days/",
+          "source": "hellenicshippingnews.com",
+          "pubDate": "2026-08-03T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Embassies warn Americans of travel risk amid signs of possible U . S .- Iran military action in the coming days"
+        },
+        {
+          "title": "Trump says Iran talks to resume soon",
+          "link": "https://www.standard.net.au/story/9322357/trump-says-iran-talks-to-resume-soon/",
+          "source": "standard.net.au",
+          "pubDate": "2026-08-03T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says Iran talks to resume soon"
+        },
+        {
+          "title": "Trump says Iran talks to take place on Monday , sets no deadline for deal",
+          "link": "https://www.al-monitor.com/originals/2026/08/trump-says-iran-talks-take-place-monday-sets-no-deadline-deal",
+          "source": "al-monitor.com",
+          "pubDate": "2026-08-03T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says Iran talks to take place on Monday , sets no deadline for deal"
+        },
+        {
+          "title": "Trump says Iran talks to resume soon",
+          "link": "https://www.yasstribune.com.au/story/9322357/trump-says-iran-talks-to-resume-soon/",
+          "source": "yasstribune.com.au",
+          "pubDate": "2026-08-03T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says Iran talks to resume soon"
+        },
+        {
+          "title": "Trump says Iran talks to take place on Monday , sets no deadline for deal",
+          "link": "https://whbl.com/2026/08/02/trump-says-iran-talks-to-take-place-on-monday-sets-no-deadline-for-deal/",
+          "source": "whbl.com",
+          "pubDate": "2026-08-03T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says Iran talks to take place on Monday , sets no deadline for deal"
+        },
+        {
+          "title": "Welcome to the mega - war : Mideast and European conflicts merge , sucking in more countries  | Peak Oil News and Message Boards",
+          "link": "https://peakoil.com/publicpolicy/welcome-to-the-mega-war-mideast-and-european-conflicts-merge-sucking-in-more-countries",
+          "source": "peakoil.com",
+          "pubDate": "2026-08-02T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Welcome to the mega - war : Mideast and European conflicts merge , sucking in more countries  | Peak Oil News and Message Boards"
+        },
+        {
+          "title": "World News : US will hold off on fresh Iran attack in hope of quick deal",
+          "link": "https://www.gdnonline.com:443/Details/1402355/US-will-hold-off-on-fresh-Iran-attack-in-hope-of-quick-deal",
+          "source": "gdnonline.com",
+          "pubDate": "2026-08-02T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "World News : US will hold off on fresh Iran attack in hope of quick deal"
+        },
+        {
+          "title": "The granary of Europe cultivates debts",
+          "link": "https://www.bursa.ro/the-granary-of-europe-cultivates-debts-06947950",
+          "source": "bursa.ro",
+          "pubDate": "2026-08-02T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The granary of Europe cultivates debts"
+        },
         {
           "title": "Trump says US will hold off on fresh Iran attack in hope of quick deal",
           "link": "https://www.al-monitor.com/originals/2026/08/trump-says-us-will-hold-fresh-iran-attack-hope-quick-deal",
@@ -173,165 +326,30 @@
           "lang": "en",
           "description": "",
           "titleIt": "Turkish National Charged With Funneling Millions to Hamas Through Sham Charity"
-        },
-        {
-          "title": "Economy - Business - Ahram Online",
-          "link": "https://english.ahram.org.eg/Category/3/12/Business/Egypt%E2%80%99s-deficit-narrows-by---to-EGP--tln.aspx",
-          "source": "english.ahram.org.eg",
-          "pubDate": "2026-08-02T20:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Economy - Business - Ahram Online"
-        },
-        {
-          "title": "LNG Carrier Hit By Iranian Attack in Strait of Hormuz",
-          "link": "https://maritime-executive.com/article/lng-carrier-hit-by-iranian-attack-in-strait-of-hormuz",
-          "source": "maritime-executive.com",
-          "pubDate": "2026-08-02T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "LNG Carrier Hit By Iranian Attack in Strait of Hormuz"
-        },
-        {
-          "title": "Asim Khan stuns top seed Noor Zaman to reach PN Fleet Club Open semi - finals",
-          "link": "https://tribune.com.pk/story/2621688/asim-khan-stuns-top-seed-noor-zaman-to-reach-pn-fleet-club-open-semi-finals",
-          "source": "tribune.com.pk",
-          "pubDate": "2026-08-02T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Asim Khan stuns top seed Noor Zaman to reach PN Fleet Club Open semi - finals"
-        },
-        {
-          "title": "How Trump Throne Day Message Reinforces Morocco - US Ties",
-          "link": "https://www.moroccoworldnews.com/2026/08/332778/how-trumps-throne-day-message-reinforces-morocco-us-ties/",
-          "source": "moroccoworldnews.com",
-          "pubDate": "2026-08-02T19:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How Trump Throne Day Message Reinforces Morocco - US Ties"
-        },
-        {
-          "title": "Alain de Botton :  The hardest part about being single is that you never stop thinking about love  | Culture",
-          "link": "https://english.elpais.com/culture/2026-08-02/alain-de-botton-the-hardest-part-about-being-single-is-that-you-never-stop-thinking-about-love.html",
-          "source": "english.elpais.com",
-          "pubDate": "2026-08-02T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Alain de Botton :  The hardest part about being single is that you never stop thinking about love  | Culture"
-        },
-        {
-          "title": "Emirates NBD to acquire retail banking business of HSBC Egypt",
-          "link": "http://www.middleeaststar.com/news/279219753/emirates-nbd-to-acquire-retail-banking-business-of-hsbc-egypt",
-          "source": "middleeaststar.com",
-          "pubDate": "2026-08-02T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Emirates NBD to acquire retail banking business of HSBC Egypt"
-        },
-        {
-          "title": "Middle East press weighs war , diplomacy , technology , and sport",
-          "link": "http://www.jpost.com/middle-east/article-904102",
-          "source": "jpost.com",
-          "pubDate": "2026-08-02T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Middle East press weighs war , diplomacy , technology , and sport"
-        },
-        {
-          "title": "Facts Not Fear : A point - by - point response to Atiku Abubakar on Nigeria reform journey",
-          "link": "https://pmnewsnigeria.com/2026/08/02/facts-not-fear-a-point-by-point-response-to-atiku-abubakar-on-nigerias-reform-journey/",
-          "source": "pmnewsnigeria.com",
-          "pubDate": "2026-08-02T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Facts Not Fear : A point - by - point response to Atiku Abubakar on Nigeria reform journey"
-        },
-        {
-          "title": "Imagine Iran , Open",
-          "link": "https://www.muscatdaily.com/2026/08/02/imagine-iran-open/",
-          "source": "muscatdaily.com",
-          "pubDate": "2026-08-02T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Imagine Iran , Open"
-        },
-        {
-          "title": "Sexual pleasure and smear campaigns : spreading fear and loathing during the Cold War",
-          "link": "https://www.historyextra.com/membership/sexual-pleasure-fake-students-and-smear-campaigns-spreading-fear-and-loathing-during-the-cold-war/",
-          "source": "historyextra.com",
-          "pubDate": "2026-08-02T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sexual pleasure and smear campaigns : spreading fear and loathing during the Cold War"
-        },
-        {
-          "title": "Trump says US , Israel to hold off on Iran strikes",
-          "link": "https://torontosun.com/news/world/trump-says-us-israel-to-hold-off-on-iran-strikes",
-          "source": "torontosun.com",
-          "pubDate": "2026-08-02T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump says US , Israel to hold off on Iran strikes"
-        },
-        {
-          "title": "Emirates NBD to acquire retail banking business of HSBC Egypt",
-          "link": "http://www.arabherald.com/news/279219753/emirates-nbd-to-acquire-retail-banking-business-of-hsbc-egypt",
-          "source": "arabherald.com",
-          "pubDate": "2026-08-02T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Emirates NBD to acquire retail banking business of HSBC Egypt"
-        },
-        {
-          "title": "The Dexter fan serial killer and a murderer mum - the united kingdom criminals locked up in July",
-          "link": "https://www.manchestereveningnews.co.uk/news/uk-news/dexter-fan-serial-killer-murderers-34334910",
-          "source": "manchestereveningnews.co.uk",
-          "pubDate": "2026-08-02T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Dexter fan serial killer and a murderer mum - the united kingdom criminals locked up in July"
-        },
-        {
-          "title": "Court Payments Ruling Fuels Gaming Pay - To - Win Battle",
-          "link": "https://www.forbes.com/sites/boazsobrado/2026/08/03/a-window-open-the-payments-fight-over-gamings-soul/",
-          "source": "forbes.com",
-          "pubDate": "2026-08-02T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Court Payments Ruling Fuels Gaming Pay - To - Win Battle"
-        },
-        {
-          "title": "Florida man faces murder trial after united kingdom woman found in shallow grave",
-          "link": "https://www.foxnews.com/us/florida-sadist-charged-allegedly-hired-uk-woman-torture-kill-her",
-          "source": "foxnews.com",
-          "pubDate": "2026-08-02T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Florida man faces murder trial after united kingdom woman found in shallow grave"
-        },
-        {
-          "title": "Global economy hostage to asymmetric warfare as cheap drones cause billions in damage",
-          "link": "https://www.bankingnews.gr/diethni/articles/891852/global-economy-hostage-to-asymmetric-warfare-as-cheap-drones-cause-billions-in-damage%20title=",
-          "source": "bankingnews.gr",
-          "pubDate": "2026-08-02T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Global economy hostage to asymmetric warfare as cheap drones cause billions in damage"
-        },
-        {
-          "title": "Global economy hostage to asymmetric warfare as cheap drones cause billions in damage",
-          "link": "https://www.bankingnews.gr/diethni/articles/891852/global-economy-hostage-to-asymmetric-warfare-as-cheap-drones-cause-billions-in-damage",
-          "source": "bankingnews.gr",
-          "pubDate": "2026-08-02T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Global economy hostage to asymmetric warfare as cheap drones cause billions in damage"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles",
+          "link": "https://idrw.org/pakistans-unsc-push-on-indus-waters-treaty-faces-major-legal-and-political-hurdles/",
+          "source": "idrw.org",
+          "pubDate": "2026-08-02T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles"
+        },
+        {
+          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
+          "link": "https://www.thereporterethiopia.com/51980/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-01T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
+        },
         {
           "title": "Egyptian PM announces investigation after Damietta port drone attack",
           "link": "http://www.africanews.com/2026/07/31/egyptian-pm-announces-investigation-after-damietta-port-drone-attack/",
@@ -340,6 +358,159 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egyptian PM announces investigation after Damietta port drone attack"
+        },
+        {
+          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
+          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
+          "source": "mondaq.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
+        },
+        {
+          "title": "A Movement of World Citizens Could Change the Course of History",
+          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-07-30T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A Movement of World Citizens Could Change the Course of History"
+        },
+        {
+          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
+          "link": "https://allafrica.com/stories/202607270583.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
+        },
+        {
+          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
+          "link": "https://allafrica.com/stories/202607270582.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
+          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "recorder.com",
+          "pubDate": "2026-07-27T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
+          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "gazettenet.com",
+          "pubDate": "2026-07-27T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
+        },
+        {
+          "title": "The return of the African megaproject",
+          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
+          "source": "hindustantimes.com",
+          "pubDate": "2026-07-25T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The return of the African megaproject"
+        },
+        {
+          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
+          "link": "https://www.thereporterethiopia.com/52030/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
+        },
+        {
+          "title": "Aid cuts call for innovation - Nation Online",
+          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
+          "source": "mwnation.com",
+          "pubDate": "2026-07-24T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Aid cuts call for innovation - Nation Online"
+        },
+        {
+          "title": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan",
+          "link": "https://allafrica.com/stories/202607230892.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-24T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan"
+        },
+        {
+          "title": "Society - Egypt - Ahram Online",
+          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
+          "source": "english.ahram.org.eg",
+          "pubDate": "2026-07-22T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Society - Egypt - Ahram Online"
+        },
+        {
+          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
+          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-07-21T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
+        },
+        {
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
+          "source": "dominicanrepublicpost.com",
+          "pubDate": "2026-07-21T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
+        },
+        {
+          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
+          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
+          "source": "aljazeera.com",
+          "pubDate": "2026-07-21T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
+        },
+        {
+          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
+          "link": "https://allafrica.com/stories/202607200017.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-20T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
+        },
+        {
+          "title": "Rural Ethiopia still left in the dark as reliable electricity lags",
+          "link": "https://capitalethiopia.com/2026/07/19/rural-ethiopia-still-left-in-the-dark-as-reliable-electricity-lags/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-07-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rural Ethiopia still left in the dark as reliable electricity lags"
+        },
+        {
+          "title": "From abundance to retreat : what happened to Nile water levels in Sudan ?",
+          "link": "https://www.dabangasudan.org/en/all-news/article/from-abundance-to-retreat-what-happened-to-nile-water-levels-in-sudan",
+          "source": "dabangasudan.org",
+          "pubDate": "2026-07-16T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From abundance to retreat : what happened to Nile water levels in Sudan ?"
         }
       ]
     }
