@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T21:39:51.462Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-04T23:20:55.028Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -41,24 +41,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -100,30 +82,57 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Deadly landslide hits Ethiopia mountain monastery during prayer service"
-        },
-        {
-          "title": "Sudan: U.S. Senators Press Trump Administration to Act in Sudan",
-          "link": "https://allafrica.com/stories/202608040246.html",
-          "description": "[United States Senate] Today, U.S. Senator Chris Van Hollen (D-Md.), a member of the Senate Foreign Relations Committee, led 20 of his Senate Democratic colleagues in pressing the State Department to use its leverage to prevent further atrocities in Sudan and help bring the war to an end. To do so, the Senators urge the State Department to cease certain U.S. arms sales to external actors like the United Arab Emirates (UAE) which continues to arm the Rapid Support Forces' (RSF) in Sudan. The Senators' letter notes",
-          "pubDate": "Tue, 04 Aug 2026 10:02:21 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: U.S. Senators Press Trump Administration to Act in Sudan"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Türkiye foreign policy explained : A diplomatic journey across globe",
+          "link": "https://www.dailysabah.com/politics/diplomacy/turkiyes-foreign-policy-explained-a-diplomatic-journey-across-globe",
+          "source": "dailysabah.com",
+          "pubDate": "2026-08-04T22:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Türkiye foreign policy explained : A diplomatic journey across globe"
+        },
+        {
+          "title": "Egypt says it wont allow new Ethiopian dams on Nile River",
+          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-won-t-allow-new-ethiopian-dams-on-nile-river/4018528",
+          "source": "aa.com.tr",
+          "pubDate": "2026-08-04T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says it wont allow new Ethiopian dams on Nile River"
+        },
+        {
+          "title": "Sudan : Liberal Peacebuilding and the Price of Impunity",
+          "link": "https://newpol.org/issue_post/sudan-liberal-peacebuilding-and-the-price-of-impunity/",
+          "source": "newpol.org",
+          "pubDate": "2026-08-04T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Liberal Peacebuilding and the Price of Impunity"
+        },
+        {
+          "title": "Anita Namata returns to Kawempe Muslim for third stint",
+          "link": "https://kawowo.com/2026/08/04/anita-namata-returns-to-kawempe-muslim-for-third-stint/",
+          "source": "kawowo.com",
+          "pubDate": "2026-08-04T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Anita Namata returns to Kawempe Muslim for third stint"
+        },
+        {
+          "title": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa",
+          "link": "https://www.channelafrica.co.za/channelafrica/news/renewed-tigray-clashes-could-deepen-horn-of-africa-instability/",
+          "source": "channelafrica.co.za",
+          "pubDate": "2026-08-04T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa"
+        },
         {
           "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
           "link": "http://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
@@ -132,6 +141,15 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "U.S.-brokered peace efforts for Sudan encounter new obstacles"
+        },
+        {
+          "title": "Zimbabwe : Bodies of united kingdom Murder Victims Nothabo Tshuma , Two Daughters Finally Arrive in Zimbabwe",
+          "link": "https://allafrica.com/stories/202608040285.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-04T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Zimbabwe : Bodies of united kingdom Murder Victims Nothabo Tshuma , Two Daughters Finally Arrive in Zimbabwe"
         },
         {
           "title": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum",
@@ -143,6 +161,69 @@
           "titleIt": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum"
         },
         {
+          "title": "50 countries affected by $20 , 000 U . S . visa bond policy",
+          "link": "https://thenationonlineng.net/50-countries-affected-by-20000-u-s-visa-bond-policy/",
+          "source": "thenationonlineng.net",
+          "pubDate": "2026-08-04T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "50 countries affected by $20 , 000 U . S . visa bond policy"
+        },
+        {
+          "title": "Africa and China Advance Great Green Walls as Continental Wildlife Corridors",
+          "link": "https://www.archdaily.com/1182133/africa-and-china-advance-great-green-walls-as-continental-wildlife-corridors",
+          "source": "archdaily.com",
+          "pubDate": "2026-08-04T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa and China Advance Great Green Walls as Continental Wildlife Corridors"
+        },
+        {
+          "title": "Gambia : Female Genital Mutilation - Winning the Argument , Losing the Funding",
+          "link": "https://allafrica.com/stories/202608040001.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-04T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gambia : Female Genital Mutilation - Winning the Argument , Losing the Funding"
+        },
+        {
+          "title": "Ethiopia : Two Presidents , No Government - Why Tigray War Is Coming Back",
+          "link": "https://allafrica.com/stories/202608040009.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-04T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Two Presidents , No Government - Why Tigray War Is Coming Back"
+        },
+        {
+          "title": "Bodies of united kingdom murder victims Nothabo Tshuma , two daughters finally arrive in Zimbabwe",
+          "link": "https://www.newzimbabwe.com/bodies-of-uk-murder-victims-nothabo-tshuma-two-daughters-finally-arrive-in-zimbabwe/",
+          "source": "newzimbabwe.com",
+          "pubDate": "2026-08-04T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bodies of united kingdom murder victims Nothabo Tshuma , two daughters finally arrive in Zimbabwe"
+        },
+        {
+          "title": "Female Genital Mutilation : Winning the Argument , Losing the Funding",
+          "link": "https://www.globalissues.org/news/2026/08/03/43727",
+          "source": "globalissues.org",
+          "pubDate": "2026-08-03T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Female Genital Mutilation : Winning the Argument , Losing the Funding"
+        },
+        {
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.bridgwatermercury.co.uk/news/26430647.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "bridgwatermercury.co.uk",
+          "pubDate": "2026-08-03T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+        },
+        {
           "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
           "link": "https://www.ansa.it/english/news/politics/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_ba5525a0-cce7-4233-9fef-6005f8ac67bf.html",
           "description": "(ANSA) - ROME, AUG 3 - Italy will propose the creation of EU migrant hubs outside the bloc along the lines of its centres in Albania at Tuesday's emergency meeting of European interior ministers following the arrival of thousands of migrants at the Spain's North African enclave of Ceuta last week, sources have said, confirming newspaper reports. Premier Giorgia Meloni's government has suspended arrangements regarding the Schengen agreement allowing for control-free movement between borders with Spain for a month following the events in Ceuta. Madrid and Italy's opposition parties have blasted ",
@@ -152,40 +233,40 @@
           "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
         },
         {
-          "title": "English FA to drop support for Infantino's re-election",
-          "link": "http://www.africanews.com/2026/08/03/english-fa-to-drop-support-for-infantinos-re-election/",
-          "description": "The English Football Association (FA) plans to formally withdraw its support for FIFA President Gianni Infantino, dealing him a major blow just days after he dropped his bid to sell some of his equity to private investors.",
-          "pubDate": "Mon, 03 Aug 2026 10:15:55 +0000",
-          "source": "Africanews",
+          "title": "Trump Makes U . S . Visa Bond Program Permanent : Could a Future President End It ?",
+          "link": "https://finchannel.com/trump-makes-u-s-visa-bonds-permanent-will-the-requirement-survive-after-his-presidency/133235/world-2/2026/08/",
+          "source": "finchannel.com",
+          "pubDate": "2026-08-03T13:30:00Z",
           "lang": "en",
-          "titleIt": "English FA to drop support for Infantino's re-election"
+          "description": "",
+          "titleIt": "Trump Makes U . S . Visa Bond Program Permanent : Could a Future President End It ?"
         },
         {
-          "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
-          "link": "https://www.ansa.it/english/news/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_0a2b42db-7e8c-4226-8422-94e31b17210b.html",
-          "description": "(ANSA) - ROME, AUG 3 - Italy will propose the creation of EU migrant hubs outside the bloc along the lines of its centres in Albania at Tuesday's emergency meeting of European interior ministers following the arrival of thousands of migrants at the Spain's North African enclave of Ceuta last week, sources have said, confirming newspaper reports. Premier Giorgia Meloni's government has suspended arrangements regarding the Schengen agreement allowing for control-free movement between borders with Spain for a month following the events in Ceuta. Madrid and Italy's opposition parties have blasted ",
-          "pubDate": "Mon, 3 Aug 2026 11:38:13 +0200",
-          "source": "ANSA English",
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.maldonandburnhamstandard.co.uk/news/26430732.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "maldonandburnhamstandard.co.uk",
+          "pubDate": "2026-08-03T13:30:00Z",
           "lang": "en",
-          "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
         },
         {
-          "title": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/01/ambassador-prunas-the-mediterranean-games-are-an-opportunity-to-strengthen-dialogue_bdc52f1c-0fbc-4cc4-84c6-de8c072f5f70.html",
-          "description": "(ANSA) - TUNISI, 01 AGO - Ahead of the start of the Taranto 2026 Mediterranean Games, the Italian Embassy in Tunis, in collaboration with the Tunisian National Olympic Committee, organized an event to present the Games, which brought together at the “La Charmeuse” Residence a delegation of Tunisian athletes, representatives of sports federations, and great champions from the past and present. On this occasion, Ambassador Alessandro Prunas emphasized that “in an international context marked by growing tensions, the Taranto Mediterranean Games represent an important opportunity to strengthen, th",
-          "pubDate": "Sat, 1 Aug 2026 09:25:36 +0200",
-          "source": "ANSA English",
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.thisiswiltshire.co.uk/news/26430788.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "thisiswiltshire.co.uk",
+          "pubDate": "2026-08-03T13:15:00Z",
           "lang": "en",
-          "titleIt": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’"
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.wharfedaleobserver.co.uk/news/26430799.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "wharfedaleobserver.co.uk",
+          "pubDate": "2026-08-03T13:15:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
         }
       ]
     },
