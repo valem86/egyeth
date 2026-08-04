@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T03:42:15.040Z",
+  "generatedAt": "2026-08-04T06:44:20.492Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -14,24 +14,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Somali Army Chief, Turksom Commander Visit Baidoa for Security Talks"
-        },
-        {
-          "title": "Libya: Somali Human Rights Commission Visits Detained Migrants in Eastern Libya",
-          "link": "https://allafrica.com/stories/202608030806.html",
-          "description": "[Shabelle] Benghazi -- A delegation from Somalia's Independent Human Rights Commission visited a prison in eastern Libya on Monday, where dozens of Somali nationals are being held, as part of efforts to assess their conditions and strengthen cooperation with Libyan authorities.",
-          "pubDate": "Mon, 03 Aug 2026 15:35:11 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Libya: Somali Human Rights Commission Visits Detained Migrants in Eastern Libya"
-        },
-        {
-          "title": "Somalia: Somalia, China Hold Talks On Defence Cooperation, AU Mission's Future",
-          "link": "https://allafrica.com/stories/202608030805.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's Defence Minister Ahmed Moallim Fiqi and Chinese Ambassador Wang Yu held talks in Mogadishu on Sunday focusing on defence cooperation, the campaign against Al-Shabaab and the future of the African Union Support and Stabilisation Mission in Somalia (AUSSOM).",
-          "pubDate": "Mon, 03 Aug 2026 15:33:31 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia, China Hold Talks On Defence Cooperation, AU Mission's Future"
         },
         {
           "title": "Magnitude 5.5 quake jolts Egypt, triggering emergency response",
@@ -93,24 +75,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Somalia: Somalia, China Hold Talks On Defence Cooperation, AU Mission's Future",
-          "link": "https://allafrica.com/stories/202608030805.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's Defence Minister Ahmed Moallim Fiqi and Chinese Ambassador Wang Yu held talks in Mogadishu on Sunday focusing on defence cooperation, the campaign against Al-Shabaab and the future of the African Union Support and Stabilisation Mission in Somalia (AUSSOM).",
-          "pubDate": "Mon, 03 Aug 2026 15:33:31 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia, China Hold Talks On Defence Cooperation, AU Mission's Future"
-        },
-        {
-          "title": "Kenya: The Wine Fair Signals a New Era for Experience-Led Events With 100 Wine Brands and 37 Exhibitors Gathering",
-          "link": "https://allafrica.com/stories/202608030802.html",
-          "description": "[Capital FM] More than 100 wine brands, represented by 37 exhibitors, transformed The Jockey Club, Ngong Road, into a vibrant showcase of wine, gastronomy and lifestyle on Saturday as over 1,000 attendees gathered for the seventh edition of The Wine Fair Kenya. Featuring exhibitors including Galina Wines, Lolie wines, KWV, Wines of South Africa (WOSA), California Wines Institute, Millésimes Wines, and The Wine Box, the event brought together producers, importers, hospitality players and consumers for a day that",
-          "pubDate": "Mon, 03 Aug 2026 15:30:43 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: The Wine Fair Signals a New Era for Experience-Led Events With 100 Wine Brands and 37 Exhibitors Gathering"
-        },
-        {
           "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
           "link": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
           "description": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
@@ -141,15 +105,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Somali Army Chief, Turksom Commander Visit Baidoa for Security Talks"
-        },
-        {
-          "title": "Somalia: Somalia, China Hold Talks On Defence Cooperation, AU Mission's Future",
-          "link": "https://allafrica.com/stories/202608030805.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's Defence Minister Ahmed Moallim Fiqi and Chinese Ambassador Wang Yu held talks in Mogadishu on Sunday focusing on defence cooperation, the campaign against Al-Shabaab and the future of the African Union Support and Stabilisation Mission in Somalia (AUSSOM).",
-          "pubDate": "Mon, 03 Aug 2026 15:33:31 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia, China Hold Talks On Defence Cooperation, AU Mission's Future"
         },
         {
           "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
@@ -206,15 +161,6 @@
           "titleIt": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’"
         },
         {
-          "title": "28% increase in passports issued by the Italian Consulate in Dubai",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/07/28/28-increase-in-passports-issued-by-the-italian-consulate-in-dubai_7ce30183-4878-4fc5-b465-94c44ccd241c.html",
-          "description": "(ANSA) - ROMA, 28 LUG - The Consulate General of Italy in Dubai reports that in the first six months of 2026, it issued 1,340 passports, compared to 1,046 during the same period in 2025. This represents a 28% increase. “This increase,” explains the consulate, “did not occur in spite of the conflict, but rather because of the conflict.” Furthermore, the consular offices remained open throughout March to renew expiring passports and issue first passports to newborns. Read article...",
-          "pubDate": "Tue, 28 Jul 2026 15:39:38 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "28% increase in passports issued by the Italian Consulate in Dubai"
-        },
-        {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
           "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
           "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
@@ -228,6 +174,69 @@
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "Kenya now leads Africa in milk production as meat exports rise 87 %",
+          "link": "https://www.the-star.co.ke/news/2026-08-04-kenya-leads-africa-in-milk-yield-as-meat-exports-rise-by-87",
+          "source": "the-star.co.ke",
+          "pubDate": "2026-08-04T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Kenya now leads Africa in milk production as meat exports rise 87 %"
+        },
+        {
+          "title": "Trump Board Reassures Israel After Objections on Gaza Pullout",
+          "link": "https://english.aawsat.com/arab-world/5303140-trump-board-reassures-israel-after-objections-gaza-pullout",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-08-04T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Board Reassures Israel After Objections on Gaza Pullout"
+        },
+        {
+          "title": "Egypt Bank Assets Reach EGP 26 . 9 Trillion in Q1 2026",
+          "link": "https://cairoscene.com/News/Egypt-s-Bank-Assets-Reach-EGP-26-9-Trillion-in-Q1-2026",
+          "source": "cairoscene.com",
+          "pubDate": "2026-08-04T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Bank Assets Reach EGP 26 . 9 Trillion in Q1 2026"
+        },
+        {
+          "title": "Diaspora - Dedicated Investment Fund Planned for 2027",
+          "link": "https://cairoscene.com/News/Diaspora-Dedicated-Investment-Fund-Planned-for-2027",
+          "source": "cairoscene.com",
+          "pubDate": "2026-08-04T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Diaspora - Dedicated Investment Fund Planned for 2027"
+        },
+        {
+          "title": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
+          "link": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms",
+          "source": "aljazeera.com",
+          "pubDate": "2026-08-04T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms"
+        },
+        {
+          "title": "Trump board reassures Israel after objections on Gaza pullout",
+          "link": "https://www.bssnews.net/international/411498",
+          "source": "bssnews.net",
+          "pubDate": "2026-08-04T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump board reassures Israel after objections on Gaza pullout"
+        },
+        {
+          "title": "Russia Food Exports to Africa Surge in 2026",
+          "link": "https://www.africa.com/top-10-news/russias-food-exports-to-africa-surge-in-2026",
+          "source": "africa.com",
+          "pubDate": "2026-08-04T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russia Food Exports to Africa Surge in 2026"
+        },
         {
           "title": "Shell ( SHEL ) Q2 2026 Earnings Call Transcript",
           "link": "https://www.fool.com/earnings/call-transcripts/2026/08/03/shell-shel-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
@@ -344,69 +353,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Nasdaq shines as U . S . stocks surge on opening day of new week"
-        },
-        {
-          "title": "Nasdaq shines as U . S . stocks surge on opening day of new week",
-          "link": "http://www.floridastatesman.com/news/279221256/nasdaq-shines-as-u-s-stocks-surge-on-opening-day-of-new-week",
-          "source": "floridastatesman.com",
-          "pubDate": "2026-08-03T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq shines as U . S . stocks surge on opening day of new week"
-        },
-        {
-          "title": "U . S . stocks roar Monday , Nasdaq Composite gains 540 points",
-          "link": "http://www.australiannews.net/news/279221256/u-s-stocks-roar-monday-nasdaq-composite-gains-540-points",
-          "source": "australiannews.net",
-          "pubDate": "2026-08-03T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks roar Monday , Nasdaq Composite gains 540 points"
-        },
-        {
-          "title": "U . S . stocks roar Monday , Nasdaq Composite gains 540 points",
-          "link": "http://www.laosnews.net/news/279221256/u-s-stocks-roar-monday-nasdaq-composite-gains-540-points",
-          "source": "laosnews.net",
-          "pubDate": "2026-08-03T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks roar Monday , Nasdaq Composite gains 540 points"
-        },
-        {
-          "title": "Iran and Türkiye to Reshape the Middle East",
-          "link": "https://www.pakistantoday.com.pk/2026/08/04/iran-and-turkiye-the-powers-destined-to-reshape-the-middle-east",
-          "source": "pakistantoday.com.pk",
-          "pubDate": "2026-08-03T23:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran and Türkiye to Reshape the Middle East"
-        },
-        {
-          "title": "Nasdaq shines as U . S . stocks surge on opening day of new week",
-          "link": "http://www.nepalnational.com/news/279221256/nasdaq-shines-as-u-s-stocks-surge-on-opening-day-of-new-week",
-          "source": "nepalnational.com",
-          "pubDate": "2026-08-03T23:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq shines as U . S . stocks surge on opening day of new week"
-        },
-        {
-          "title": "U . S . stocks roar Monday , Nasdaq Composite gains 540 points",
-          "link": "http://www.bruneinews.net/news/279221256/u-s-stocks-roar-monday-nasdaq-composite-gains-540-points",
-          "source": "bruneinews.net",
-          "pubDate": "2026-08-03T23:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks roar Monday , Nasdaq Composite gains 540 points"
-        },
-        {
-          "title": "Nasdaq shines as U . S . stocks surge on opening day of new week",
-          "link": "http://www.memphissun.com/news/279221256/nasdaq-shines-as-u-s-stocks-surge-on-opening-day-of-new-week",
-          "source": "memphissun.com",
-          "pubDate": "2026-08-03T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq shines as U . S . stocks surge on opening day of new week"
         }
       ]
     },
@@ -423,24 +369,6 @@
           "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
         },
         {
-          "title": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles",
-          "link": "https://idrw.org/pakistans-unsc-push-on-indus-waters-treaty-faces-major-legal-and-political-hurdles/",
-          "source": "idrw.org",
-          "pubDate": "2026-08-02T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles"
-        },
-        {
-          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
-          "link": "https://www.thereporterethiopia.com/51980/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-01T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
-        },
-        {
           "title": "Egyptian PM announces investigation after Damietta port drone attack",
           "link": "http://www.africanews.com/2026/07/31/egyptian-pm-announces-investigation-after-damietta-port-drone-attack/",
           "description": "Egypt's Prime Minister said Thursday that the country would now be examining the remains of a drone that attacked two vessels at the Egyptian port of Damietta on Wednesday.",
@@ -448,150 +376,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egyptian PM announces investigation after Damietta port drone attack"
-        },
-        {
-          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
-          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
-          "source": "mondaq.com",
-          "pubDate": "2026-07-30T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
-        },
-        {
-          "title": "A Movement of World Citizens Could Change the Course of History",
-          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
-          "source": "larouchepub.com",
-          "pubDate": "2026-07-30T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A Movement of World Citizens Could Change the Course of History"
-        },
-        {
-          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
-          "link": "https://allafrica.com/stories/202607270583.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-28T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
-        },
-        {
-          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
-          "link": "https://allafrica.com/stories/202607270582.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-28T00:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
-        },
-        {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
-          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "recorder.com",
-          "pubDate": "2026-07-27T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
-        },
-        {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
-          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "gazettenet.com",
-          "pubDate": "2026-07-27T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
-        },
-        {
-          "title": "The return of the African megaproject",
-          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
-          "source": "hindustantimes.com",
-          "pubDate": "2026-07-25T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The return of the African megaproject"
-        },
-        {
-          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
-          "link": "https://www.thereporterethiopia.com/52030/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-07-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
-        },
-        {
-          "title": "Aid cuts call for innovation - Nation Online",
-          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
-          "source": "mwnation.com",
-          "pubDate": "2026-07-24T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Aid cuts call for innovation - Nation Online"
-        },
-        {
-          "title": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan",
-          "link": "https://allafrica.com/stories/202607230892.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-24T00:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan"
-        },
-        {
-          "title": "Society - Egypt - Ahram Online",
-          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
-          "source": "english.ahram.org.eg",
-          "pubDate": "2026-07-22T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Society - Egypt - Ahram Online"
-        },
-        {
-          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
-          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-21T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-07-21T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?",
-          "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why",
-          "source": "aljazeera.com",
-          "pubDate": "2026-07-21T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ?"
-        },
-        {
-          "title": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum",
-          "link": "https://allafrica.com/stories/202607200017.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-20T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Pivotal Week - National Dialogue and Diplomatic Momentum"
-        },
-        {
-          "title": "Rural Ethiopia still left in the dark as reliable electricity lags",
-          "link": "https://capitalethiopia.com/2026/07/19/rural-ethiopia-still-left-in-the-dark-as-reliable-electricity-lags/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-07-19T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Rural Ethiopia still left in the dark as reliable electricity lags"
         }
       ]
     }
