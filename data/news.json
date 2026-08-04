@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T18:06:33.806Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-08-04T20:00:02.049Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -41,12 +41,39 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Sudan : Liberal Peacebuilding and the Price of Impunity",
+          "link": "https://newpol.org/issue_post/sudan-liberal-peacebuilding-and-the-price-of-impunity/",
+          "source": "newpol.org",
+          "pubDate": "2026-08-04T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Liberal Peacebuilding and the Price of Impunity"
+        },
         {
           "title": "Has the UAE meteoric rise reached its limit ?",
           "link": "https://www.middleeasteye.net/opinion/has-uaes-meteoric-rise-reached-its-limit",
@@ -217,39 +244,12 @@
           "lang": "en",
           "description": "",
           "titleIt": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb"
-        },
-        {
-          "title": "Is an Abraham Security Alliance possible in the Middle East ?",
-          "link": "https://www.jns.org/analysis/is-an-abraham-security-alliance-possible-in-the-middle-east",
-          "source": "jns.org",
-          "pubDate": "2026-07-27T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Is an Abraham Security Alliance possible in the Middle East ?"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Brasile-Russia: colloquio telefonico tra Lula e Putin su guerra in Ucraina e rapporti bilaterali (2)",
-          "link": "https://www.agenzianova.com/a/6a7229c5acf353.29737053/7672146/2026-08-04/brasile-russia-colloquio-telefonico-tra-lula-e-putin-su-guerra-in-ucraina-e-rapporti-bilaterali-2",
-          "description": "04 ago 19:55 - (Agenzia Nova) - Sul fronte bilaterale, i due presidenti hanno ribadito il carattere \"strategico\" delle relazioni tra Brasile... (Brs)",
-          "pubDate": "2026-08-04T19:55:52+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Brasile-Russia: colloquio telefonico tra Lula e Putin su guerra in Ucraina e rapporti bilaterali (2)"
-        },
-        {
-          "title": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa",
-          "link": "https://www.channelafrica.co.za/channelafrica/news/renewed-tigray-clashes-could-deepen-horn-of-africa-instability/",
-          "source": "channelafrica.co.za",
-          "pubDate": "2026-08-04T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa"
-        },
         {
           "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
           "link": "http://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
@@ -258,15 +258,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "U.S.-brokered peace efforts for Sudan encounter new obstacles"
-        },
-        {
-          "title": "Zimbabwe : Bodies of united kingdom Murder Victims Nothabo Tshuma , Two Daughters Finally Arrive in Zimbabwe",
-          "link": "https://allafrica.com/stories/202608040285.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-04T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Zimbabwe : Bodies of united kingdom Murder Victims Nothabo Tshuma , Two Daughters Finally Arrive in Zimbabwe"
         },
         {
           "title": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum",
@@ -278,69 +269,6 @@
           "titleIt": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum"
         },
         {
-          "title": "50 countries affected by $20 , 000 U . S . visa bond policy",
-          "link": "https://thenationonlineng.net/50-countries-affected-by-20000-u-s-visa-bond-policy/",
-          "source": "thenationonlineng.net",
-          "pubDate": "2026-08-04T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "50 countries affected by $20 , 000 U . S . visa bond policy"
-        },
-        {
-          "title": "Africa and China Advance Great Green Walls as Continental Wildlife Corridors",
-          "link": "https://www.archdaily.com/1182133/africa-and-china-advance-great-green-walls-as-continental-wildlife-corridors",
-          "source": "archdaily.com",
-          "pubDate": "2026-08-04T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa and China Advance Great Green Walls as Continental Wildlife Corridors"
-        },
-        {
-          "title": "Gambia : Female Genital Mutilation - Winning the Argument , Losing the Funding",
-          "link": "https://allafrica.com/stories/202608040001.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-04T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gambia : Female Genital Mutilation - Winning the Argument , Losing the Funding"
-        },
-        {
-          "title": "Ethiopia : Two Presidents , No Government - Why Tigray War Is Coming Back",
-          "link": "https://allafrica.com/stories/202608040009.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-04T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Two Presidents , No Government - Why Tigray War Is Coming Back"
-        },
-        {
-          "title": "Bodies of united kingdom murder victims Nothabo Tshuma , two daughters finally arrive in Zimbabwe",
-          "link": "https://www.newzimbabwe.com/bodies-of-uk-murder-victims-nothabo-tshuma-two-daughters-finally-arrive-in-zimbabwe/",
-          "source": "newzimbabwe.com",
-          "pubDate": "2026-08-04T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Bodies of united kingdom murder victims Nothabo Tshuma , two daughters finally arrive in Zimbabwe"
-        },
-        {
-          "title": "Female Genital Mutilation : Winning the Argument , Losing the Funding",
-          "link": "https://www.globalissues.org/news/2026/08/03/43727",
-          "source": "globalissues.org",
-          "pubDate": "2026-08-03T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Female Genital Mutilation : Winning the Argument , Losing the Funding"
-        },
-        {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.bridgwatermercury.co.uk/news/26430647.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "bridgwatermercury.co.uk",
-          "pubDate": "2026-08-03T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
-        },
-        {
           "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
           "link": "https://www.ansa.it/english/news/politics/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_ba5525a0-cce7-4233-9fef-6005f8ac67bf.html",
           "description": "(ANSA) - ROME, AUG 3 - Italy will propose the creation of EU migrant hubs outside the bloc along the lines of its centres in Albania at Tuesday's emergency meeting of European interior ministers following the arrival of thousands of migrants at the Spain's North African enclave of Ceuta last week, sources have said, confirming newspaper reports. Premier Giorgia Meloni's government has suspended arrangements regarding the Schengen agreement allowing for control-free movement between borders with Spain for a month following the events in Ceuta. Madrid and Italy's opposition parties have blasted ",
@@ -350,67 +278,40 @@
           "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
         },
         {
-          "title": "Trump Makes U . S . Visa Bond Program Permanent : Could a Future President End It ?",
-          "link": "https://finchannel.com/trump-makes-u-s-visa-bonds-permanent-will-the-requirement-survive-after-his-presidency/133235/world-2/2026/08/",
-          "source": "finchannel.com",
-          "pubDate": "2026-08-03T13:30:00Z",
+          "title": "English FA to drop support for Infantino's re-election",
+          "link": "http://www.africanews.com/2026/08/03/english-fa-to-drop-support-for-infantinos-re-election/",
+          "description": "The English Football Association (FA) plans to formally withdraw its support for FIFA President Gianni Infantino, dealing him a major blow just days after he dropped his bid to sell some of his equity to private investors.",
+          "pubDate": "Mon, 03 Aug 2026 10:15:55 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Trump Makes U . S . Visa Bond Program Permanent : Could a Future President End It ?"
+          "titleIt": "English FA to drop support for Infantino's re-election"
         },
         {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.maldonandburnhamstandard.co.uk/news/26430732.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "maldonandburnhamstandard.co.uk",
-          "pubDate": "2026-08-03T13:30:00Z",
+          "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
+          "link": "https://www.ansa.it/english/news/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_0a2b42db-7e8c-4226-8422-94e31b17210b.html",
+          "description": "(ANSA) - ROME, AUG 3 - Italy will propose the creation of EU migrant hubs outside the bloc along the lines of its centres in Albania at Tuesday's emergency meeting of European interior ministers following the arrival of thousands of migrants at the Spain's North African enclave of Ceuta last week, sources have said, confirming newspaper reports. Premier Giorgia Meloni's government has suspended arrangements regarding the Schengen agreement allowing for control-free movement between borders with Spain for a month following the events in Ceuta. Madrid and Italy's opposition parties have blasted ",
+          "pubDate": "Mon, 3 Aug 2026 11:38:13 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+          "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
         },
         {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.thisiswiltshire.co.uk/news/26430788.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "thisiswiltshire.co.uk",
-          "pubDate": "2026-08-03T13:15:00Z",
+          "title": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/01/ambassador-prunas-the-mediterranean-games-are-an-opportunity-to-strengthen-dialogue_bdc52f1c-0fbc-4cc4-84c6-de8c072f5f70.html",
+          "description": "(ANSA) - TUNISI, 01 AGO - Ahead of the start of the Taranto 2026 Mediterranean Games, the Italian Embassy in Tunis, in collaboration with the Tunisian National Olympic Committee, organized an event to present the Games, which brought together at the “La Charmeuse” Residence a delegation of Tunisian athletes, representatives of sports federations, and great champions from the past and present. On this occasion, Ambassador Alessandro Prunas emphasized that “in an international context marked by growing tensions, the Taranto Mediterranean Games represent an important opportunity to strengthen, th",
+          "pubDate": "Sat, 1 Aug 2026 09:25:36 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+          "titleIt": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’"
         },
         {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.wharfedaleobserver.co.uk/news/26430799.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "wharfedaleobserver.co.uk",
-          "pubDate": "2026-08-03T13:15:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
-        },
-        {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.in-cumbria.com/news/26430713.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "in-cumbria.com",
-          "pubDate": "2026-08-03T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
-        },
-        {
-          "title": "AFRICOM Says Al - Shabaab Funnels Part of Its Revenue to Al - Qaeda Network",
-          "link": "https://www.garoweonline.com/en/news/somalia/africom-says-al-shabaab-funnels-part-of-its-revenue-to-al-qaeda-network",
-          "source": "garoweonline.com",
-          "pubDate": "2026-08-03T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AFRICOM Says Al - Shabaab Funnels Part of Its Revenue to Al - Qaeda Network"
-        },
-        {
-          "title": "Teen success story as he becomes Centrepoint student of the year",
-          "link": "https://www.westerntelegraph.co.uk/news/26430801.teens-success-story-becomes-centrepoints-student-year/",
-          "source": "westerntelegraph.co.uk",
-          "pubDate": "2026-08-03T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -418,13 +319,184 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Magnitude 5.5 quake jolts Egypt, triggering emergency response",
-          "link": "http://www.africanews.com/2026/08/03/magnitude-55-quake-jolts-egypt-triggering-emergency-response/",
-          "description": "A magnitude 5.5 earthquake struck near the Egyptian city of Suez early Monday, shaking buildings across Cairo and prompting authorities to activate emergency response plans. No casualties or significant damage were immediately reported.",
-          "pubDate": "Mon, 03 Aug 2026 06:33:45 +0000",
-          "source": "Africanews",
+          "title": "Morocco Ranks 11th Among Recipients of Mobilized Private Finance",
+          "link": "https://www.moroccoworldnews.com/2026/08/333086/morocco-ranks-11th-among-recipients-of-mobilized-private-finance/",
+          "source": "moroccoworldnews.com",
+          "pubDate": "2026-08-04T19:30:00Z",
           "lang": "en",
-          "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
+          "description": "",
+          "titleIt": "Morocco Ranks 11th Among Recipients of Mobilized Private Finance"
+        },
+        {
+          "title": "Sudan : Liberal Peacebuilding and the Price of Impunity",
+          "link": "https://newpol.org/issue_post/sudan-liberal-peacebuilding-and-the-price-of-impunity/",
+          "source": "newpol.org",
+          "pubDate": "2026-08-04T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Liberal Peacebuilding and the Price of Impunity"
+        },
+        {
+          "title": "India to host 3rd BRICS Culture Working Group meeting in Bhopal on August 5 - 6",
+          "link": "http://www.heraldglobe.com/news/279222482/india-to-host-3rd-brics-culture-working-group-meeting-in-bhopal-on-august-5-6",
+          "source": "heraldglobe.com",
+          "pubDate": "2026-08-04T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India to host 3rd BRICS Culture Working Group meeting in Bhopal on August 5 - 6"
+        },
+        {
+          "title": "India to host 3rd BRICS Culture Working Group meeting in Bhopal on August 5 - 6",
+          "link": "http://www.calcuttanews.net/news/279222482/india-to-host-3rd-brics-culture-working-group-meeting-in-bhopal-on-august-5-6",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-08-04T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India to host 3rd BRICS Culture Working Group meeting in Bhopal on August 5 - 6"
+        },
+        {
+          "title": "India Market Opportunity is Growing , and the Trade is Taking Notice",
+          "link": "http://www.greekherald.com/news/279222188/india-market-opportunity-is-growing-and-the-trade-is-taking-notice",
+          "source": "greekherald.com",
+          "pubDate": "2026-08-04T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India Market Opportunity is Growing , and the Trade is Taking Notice"
+        },
+        {
+          "title": "Aramco profit up , export capacity unmoved : Update",
+          "link": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2860704-aramco-profit-up-export-capacity-unmoved-update",
+          "source": "argusmedia.com",
+          "pubDate": "2026-08-04T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Aramco profit up , export capacity unmoved : Update"
+        },
+        {
+          "title": "India to host 3rd BRICS Culture Working Group meeting in Bhopal on August 5 - 6",
+          "link": "http://www.kenyastar.com/news/279222482/india-to-host-3rd-brics-culture-working-group-meeting-in-bhopal-on-august-5-6",
+          "source": "kenyastar.com",
+          "pubDate": "2026-08-04T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India to host 3rd BRICS Culture Working Group meeting in Bhopal on August 5 - 6"
+        },
+        {
+          "title": "India to host 3rd BRICS Culture Working Group meeting in Bhopal on August 5 - 6",
+          "link": "http://www.bignewsnetwork.com/news/279222482/india-to-host-3rd-brics-culture-working-group-meeting-in-bhopal-on-august-5-6",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-08-04T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India to host 3rd BRICS Culture Working Group meeting in Bhopal on August 5 - 6"
+        },
+        {
+          "title": "Israel international partnerships matter more than ever",
+          "link": "http://www.jpost.com/opinion/article-904420",
+          "source": "jpost.com",
+          "pubDate": "2026-08-04T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel international partnerships matter more than ever"
+        },
+        {
+          "title": "Economy - Business - Ahram Online",
+          "link": "https://english.ahram.org.eg/Category/3/12/Business/Egypt-nonoil-private-sector-improves-but.aspx",
+          "source": "english.ahram.org.eg",
+          "pubDate": "2026-08-04T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Economy - Business - Ahram Online"
+        },
+        {
+          "title": "Trump says the US will hold direct talks with Iran ; Tehran says theyll be indirect negotiations",
+          "link": "https://www.newdelhitimes.com/trump-says-the-us-will-hold-direct-talks-with-iran-tehran-says-theyll-be-indirect-negotiations/",
+          "source": "newdelhitimes.com",
+          "pubDate": "2026-08-04T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump says the US will hold direct talks with Iran ; Tehran says theyll be indirect negotiations"
+        },
+        {
+          "title": "Israel international partnerships matter more than ever",
+          "link": "https://www.jpost.com/opinion/article-904420",
+          "source": "jpost.com",
+          "pubDate": "2026-08-04T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel international partnerships matter more than ever"
+        },
+        {
+          "title": "India Market Opportunity is Growing , and the Trade is Taking Notice",
+          "link": "http://www.arabherald.com/news/279222188/india-market-opportunity-is-growing-and-the-trade-is-taking-notice",
+          "source": "arabherald.com",
+          "pubDate": "2026-08-04T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India Market Opportunity is Growing , and the Trade is Taking Notice"
+        },
+        {
+          "title": "APA Corp . ( APA ) Declined Despite Meeting Expectations",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/apa-corp-apa-declined-despite-160752472.html",
+          "source": "finance.yahoo.com",
+          "pubDate": "2026-08-04T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "APA Corp . ( APA ) Declined Despite Meeting Expectations"
+        },
+        {
+          "title": "China Panda , Dim Sum bonds enable international green financing goals : report",
+          "link": "https://www.globaltimes.cn/page/202608/1367485.shtml",
+          "source": "globaltimes.cn",
+          "pubDate": "2026-08-04T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China Panda , Dim Sum bonds enable international green financing goals : report"
+        },
+        {
+          "title": "Has the UAE meteoric rise reached its limit ?",
+          "link": "https://www.middleeasteye.net/opinion/has-uaes-meteoric-rise-reached-its-limit",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-04T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Has the UAE meteoric rise reached its limit ?"
+        },
+        {
+          "title": "Chevening - Oxford Centre for Islamic Studies ( OCIS ) Fellowship Program 2027 / 2028 for Mid - Career Professionals ( Fully Funded for Study in the united kingdom )",
+          "link": "https://www.opportunitiesforafricans.com/chevening-oxford-centre-for-islamic-studies-ocis-fellowship-program-2027-2028/",
+          "source": "opportunitiesforafricans.com",
+          "pubDate": "2026-08-04T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chevening - Oxford Centre for Islamic Studies ( OCIS ) Fellowship Program 2027 / 2028 for Mid - Career Professionals ( Fully Funded for Study in the united kingdom )"
+        },
+        {
+          "title": "Africa AI window is closing",
+          "link": "https://www.timeslive.co.za/news/2026-08-04-africas-ai-window-is-closing/",
+          "source": "timeslive.co.za",
+          "pubDate": "2026-08-04T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa AI window is closing"
+        },
+        {
+          "title": "Regional naval alliance formed to secure Red Sea",
+          "link": "https://defenceweb.co.za/sea/sea-sea/regional-naval-alliance-formed-to-secure-red-sea/",
+          "source": "defenceweb.co.za",
+          "pubDate": "2026-08-04T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Regional naval alliance formed to secure Red Sea"
+        },
+        {
+          "title": "Third Hormuz incident in 48 hours puts underwriters back on alert",
+          "link": "https://www.insurancebusinessmag.com/us/news/marine/third-hormuz-incident-in-48-hours-puts-underwriters-back-on-alert-584803.aspx",
+          "source": "insurancebusinessmag.com",
+          "pubDate": "2026-08-04T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Third Hormuz incident in 48 hours puts underwriters back on alert"
         }
       ]
     },
