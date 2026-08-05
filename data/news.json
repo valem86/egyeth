@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T19:58:50.285Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-08-05T21:36:38.467Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -23,12 +23,39 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+          "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+          "description": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
+          "pubDate": "Wed, 05 Aug 2026 21:21:51 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Iran says it has agreed Strait of Hormuz shipping route with Oman"
+        },
         {
           "title": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes",
           "link": "https://allafrica.com/stories/202608050596.html",
@@ -46,6 +73,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "East Africa: Interpol Flags Kenya Among East Africa's Most Targeted Digital Economies"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -53,8 +89,17 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+          "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+          "description": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
+          "pubDate": "Wed, 05 Aug 2026 21:21:51 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Iran says it has agreed Strait of Hormuz shipping route with Oman"
+        },
+        {
           "title": "Sanita': Casa della comunita' nel carcere Rebibbia, accordo Regione Lazio, ministero e Asl (2)",
-          "link": "https://www.agenzianova.com/a/6a73953559a158.43947692/7675318/2026-08-05/sanita-casa-della-comunita-nel-carcere-rebibbia-accordo-regione-lazio-ministero-e-asl-2",
+          "link": "https://www.agenzianova.com/a/6a73ac3023fdb0.29772815/7675318/2026-08-05/sanita-casa-della-comunita-nel-carcere-rebibbia-accordo-regione-lazio-ministero-e-asl-2",
           "description": "05 ago 20:42 - (Agenzia Nova) - Per il direttore generale della Asl Roma 2, Francesco Amato, si tratta di \"una grande opportunita', probabilmente... (Rer)",
           "pubDate": "2026-08-05T20:42:36+02:00",
           "source": "Agenzia Nova",
@@ -123,12 +168,129 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "Pizza Pinoli bids adieu to NDG",
+          "link": "https://www.thesuburban.com/news/city_news/pizza-pinoli-bids-adieu-to-ndg/article_85d8e02c-b164-4e2d-b6ac-2f49d41b3e15.html",
+          "source": "thesuburban.com",
+          "pubDate": "2026-08-05T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pizza Pinoli bids adieu to NDG"
+        },
+        {
+          "title": "Wall Street mixed on Wednesday but Dow gains",
+          "link": "http://www.newjerseytelegraph.com/news/279224006/wall-street-mixed-on-wednesday-but-dow-gains",
+          "source": "newjerseytelegraph.com",
+          "pubDate": "2026-08-05T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Wall Street mixed on Wednesday but Dow gains"
+        },
+        {
+          "title": "Wall Street mixed on Wednesday but Dow gains",
+          "link": "http://www.chinanationalnews.com/news/279224006/wall-street-mixed-on-wednesday-but-dow-gains",
+          "source": "chinanationalnews.com",
+          "pubDate": "2026-08-05T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Wall Street mixed on Wednesday but Dow gains"
+        },
+        {
+          "title": "Wall Street mixed on Wednesday but Dow gains",
+          "link": "http://www.taiwansun.com/news/279224006/wall-street-mixed-on-wednesday-but-dow-gains",
+          "source": "taiwansun.com",
+          "pubDate": "2026-08-05T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Wall Street mixed on Wednesday but Dow gains"
+        },
+        {
+          "title": "Wall Street mixed on Wednesday but Dow gains",
+          "link": "http://www.philippinetimes.com/news/279224006/wall-street-mixed-on-wednesday-but-dow-gains",
+          "source": "philippinetimes.com",
+          "pubDate": "2026-08-05T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Wall Street mixed on Wednesday but Dow gains"
+        },
+        {
+          "title": "The American fingerprints on the genocide in Sudan",
+          "link": "https://reason.com/2026/08/05/the-american-fingerprints-on-the-genocide-in-sudan/",
+          "source": "reason.com",
+          "pubDate": "2026-08-05T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The American fingerprints on the genocide in Sudan"
+        },
+        {
+          "title": "Dow Jones advances 263 points despite broader market weakness",
+          "link": "http://www.bignewsnetwork.com/news/279224006/dow-jones-advances-263-points-despite-broader-market-weakness",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-08-05T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dow Jones advances 263 points despite broader market weakness"
+        },
+        {
+          "title": "What the success of  Michigan Mamdani  says about the future of the Democrats - 06 - Aug - 2026",
+          "link": "https://home.nzcity.co.nz/news/article.aspx?id=451392&fm=psp,tst",
+          "source": "home.nzcity.co.nz",
+          "pubDate": "2026-08-05T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "What the success of  Michigan Mamdani  says about the future of the Democrats - 06 - Aug - 2026"
+        },
+        {
+          "title": "What the success of  Michigan Mamdani  says about the future of the Democrats - 06 - Aug - 2026",
+          "link": "https://home.nzcity.co.nz/news/article.aspx?id=451392&fm=psp,tsf",
+          "source": "home.nzcity.co.nz",
+          "pubDate": "2026-08-05T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "What the success of  Michigan Mamdani  says about the future of the Democrats - 06 - Aug - 2026"
+        },
+        {
+          "title": "What the success of  Michigan Mamdani  says about the future of the Democrats - 06 - Aug - 2026",
+          "link": "https://home.nzcity.co.nz/news/article.aspx?id=451392",
+          "source": "home.nzcity.co.nz",
+          "pubDate": "2026-08-05T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "What the success of  Michigan Mamdani  says about the future of the Democrats - 06 - Aug - 2026"
+        },
+        {
+          "title": "Wall Street mixed on Wednesday but Dow gains",
+          "link": "http://www.nigeriasun.com/news/279224006/wall-street-mixed-on-wednesday-but-dow-gains",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-08-05T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Wall Street mixed on Wednesday but Dow gains"
+        },
+        {
+          "title": "Tech stocks slide as equity markets finish divided Wednesday",
+          "link": "http://www.afghanistannews.net/news/279224006/tech-stocks-slide-as-equity-markets-finish-divided-wednesday",
+          "source": "afghanistannews.net",
+          "pubDate": "2026-08-05T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tech stocks slide as equity markets finish divided Wednesday"
+        },
         {
           "title": "Who is Abdul Al Sayed , the public health reformer who could become America first Muslim senator ?",
           "link": "https://gulfnews.com/world/americas/who-is-abdul-al-sayed-the-public-health-reformer-who-could-become-americas-first-muslim-senator-1.500631797",
@@ -200,114 +362,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "BRICS Culture WG Meets in Bhopal for Heritage Talks"
-        },
-        {
-          "title": "Who Is Abdul El - Sayed ? 5 Things Amid Michigan Senate Race – Hollywood Life",
-          "link": "https://hollywoodlife.com/feature/who-is-abdul-el-sayed-5-things-about-the-democrat-amid-michigan-primary-5553988/",
-          "source": "hollywoodlife.com",
-          "pubDate": "2026-08-05T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who Is Abdul El - Sayed ? 5 Things Amid Michigan Senate Race – Hollywood Life"
-        },
-        {
-          "title": "Pro - Palestinian progressive Abdul El - Sayed wins Michigan Democratic Senate primary",
-          "link": "https://www.thenationalnews.com/news/us/2026/08/05/abdul-el-sayed-michigan/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-08-05T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pro - Palestinian progressive Abdul El - Sayed wins Michigan Democratic Senate primary"
-        },
-        {
-          "title": "Who is Abdul El - Sayed ? What to know about Michigan Democrat U . S . Senate candidate – Macomb Daily",
-          "link": "https://www.macombdaily.com/2026/08/05/who-is-abdul-el-sayed-what-to-know-about-democrats-u-s-senate-candidate/",
-          "source": "macombdaily.com",
-          "pubDate": "2026-08-05T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is Abdul El - Sayed ? What to know about Michigan Democrat U . S . Senate candidate – Macomb Daily"
-        },
-        {
-          "title": "Indonesia heads to BRICS trade meeting to push market access",
-          "link": "https://en.antaranews.com/news/425732/indonesia-heads-to-brics-trade-meeting-to-push-market-access",
-          "source": "en.antaranews.com",
-          "pubDate": "2026-08-05T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Indonesia heads to BRICS trade meeting to push market access"
-        },
-        {
-          "title": "Locarno Gets Down To Business With Talk On AI , Algorithms , Investment",
-          "link": "https://deadline.com/2026/08/locarno-business-stepin-ai-algorithms-diversity-investment-1237018649/",
-          "source": "deadline.com",
-          "pubDate": "2026-08-05T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Locarno Gets Down To Business With Talk On AI , Algorithms , Investment"
-        },
-        {
-          "title": "Opinion : How Qatar Helped Create Today Socialist Movement",
-          "link": "http://www.washingtonjewishweek.com/how-qatar-helped-create-todays-socialist-movement/",
-          "source": "washingtonjewishweek.com",
-          "pubDate": "2026-08-05T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Opinion : How Qatar Helped Create Today Socialist Movement"
-        },
-        {
-          "title": "Who is Abdul El - Sayed ? What to know about Michigan Democrat U . S . Senate candidate – The Morning Sun",
-          "link": "https://www.themorningsun.com/2026/08/05/who-is-abdul-el-sayed-what-to-know-about-democrats-u-s-senate-candidate/",
-          "source": "themorningsun.com",
-          "pubDate": "2026-08-05T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is Abdul El - Sayed ? What to know about Michigan Democrat U . S . Senate candidate – The Morning Sun"
-        },
-        {
-          "title": "Who is Abdul El - Sayed ? What to know about Michigan Democrat U . S . Senate candidate – The Oakland Press",
-          "link": "https://www.theoaklandpress.com/2026/08/05/who-is-abdul-el-sayed-what-to-know-about-democrats-u-s-senate-candidate/",
-          "source": "theoaklandpress.com",
-          "pubDate": "2026-08-05T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is Abdul El - Sayed ? What to know about Michigan Democrat U . S . Senate candidate – The Oakland Press"
-        },
-        {
-          "title": "Egypt foreign reserves hit record 56 . 3 bln USD in July",
-          "link": "http://www.theuknews.com/news/279223535/egypt-foreign-reserves-hit-record-563-bln-usd-in-july",
-          "source": "theuknews.com",
-          "pubDate": "2026-08-05T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt foreign reserves hit record 56 . 3 bln USD in July"
-        },
-        {
-          "title": "S . African minister calls for continental approach to migration - Xinhua",
-          "link": "https://english.news.cn/20260806/1ac4720350ab4f51a709f4e80d1b53e0/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-08-05T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "S . African minister calls for continental approach to migration - Xinhua"
-        },
-        {
-          "title": "Gulf security is going local . Pakistan is already inside it .",
-          "link": "https://thefrontierpost.com/gulf-security-is-going-local-pakistan-is-already-inside-it/",
-          "source": "thefrontierpost.com",
-          "pubDate": "2026-08-05T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gulf security is going local . Pakistan is already inside it ."
-        },
-        {
-          "title": "The Latest : El - Sayed defeats Stevens to win Democratic Senate nomination in Michigan",
-          "link": "http://www.rockymounttelegram.com/news/national/the-latest-el-sayed-defeats-stevens-to-win-democratic-senate-nomination-in-michigan/article_fae4bd7b-3da2-54b4-a030-9a514792e8eb.html",
-          "source": "rockymounttelegram.com",
-          "pubDate": "2026-08-05T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Latest : El - Sayed defeats Stevens to win Democratic Senate nomination in Michigan"
         }
       ]
     },
