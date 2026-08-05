@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T03:37:06.075Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-05T06:45:07.683Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -14,15 +14,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Somali Commandos Raid Al-Shabaab Positions in Lower Shabelle"
-        },
-        {
-          "title": "Somalia: Somali Army Chief Closes Advanced Training for Elite Danab Commandos",
-          "link": "https://allafrica.com/stories/202608040480.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's army chief, Major General Ibrahim Mohamed Mohamud, on Tuesday presided over the graduation of an elite unit of the 16th Danab Special Forces Brigade after the troops completed advanced training at the Ballidogle military base.",
-          "pubDate": "Tue, 04 Aug 2026 15:28:32 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somali Army Chief Closes Advanced Training for Elite Danab Commandos"
         },
         {
           "title": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum",
@@ -41,24 +32,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -66,22 +39,31 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Somalia: Somali Army Chief Closes Advanced Training for Elite Danab Commandos",
-          "link": "https://allafrica.com/stories/202608040480.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's army chief, Major General Ibrahim Mohamed Mohamud, on Tuesday presided over the graduation of an elite unit of the 16th Danab Special Forces Brigade after the troops completed advanced training at the Ballidogle military base.",
-          "pubDate": "Tue, 04 Aug 2026 15:28:32 GMT",
+          "title": "Kenya: Nairobi Lawyer Arrested Over Alleged Sh49.4 Million Land Purchase Scam",
+          "link": "https://allafrica.com/stories/202608050051.html",
+          "description": "[Capital FM] Nairobi -- A Nairobi-based advocate has been arrested over allegations of stealing Sh49.4 million that had been entrusted to him to facilitate the purchase of a parcel of land in the capital.",
+          "pubDate": "Wed, 05 Aug 2026 05:33:28 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: Somali Army Chief Closes Advanced Training for Elite Danab Commandos"
+          "titleIt": "Kenya: Nairobi Lawyer Arrested Over Alleged Sh49.4 Million Land Purchase Scam"
         },
         {
-          "title": "Kenya: Kaguchia Legal Team Raises Preliminary Objection Over Arraignment",
-          "link": "https://allafrica.com/stories/202608040402.html",
-          "description": "[Capital FM] Nairobi -- Lawyers representing Mukurwe-ini MP John Kaguchia on Tuesday opposed the State's attempt to arraign him before a Milimani Magistrate's Court, arguing that taking his plea would amount to contempt of active conservatory orders issued by the High Court.",
-          "pubDate": "Tue, 04 Aug 2026 12:24:55 GMT",
-          "source": "AllAfrica",
+          "title": "Sudan : Liberal Peacebuilding and the Price of Impunity",
+          "link": "https://newpol.org/issue_post/sudan-liberal-peacebuilding-and-the-price-of-impunity/",
+          "source": "newpol.org",
+          "pubDate": "2026-08-04T19:15:00Z",
           "lang": "en",
-          "titleIt": "Kenya: Kaguchia Legal Team Raises Preliminary Objection Over Arraignment"
+          "description": "",
+          "titleIt": "Sudan : Liberal Peacebuilding and the Price of Impunity"
+        },
+        {
+          "title": "Has the UAE meteoric rise reached its limit ?",
+          "link": "https://www.middleeasteye.net/opinion/has-uaes-meteoric-rise-reached-its-limit",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-04T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Has the UAE meteoric rise reached its limit ?"
         },
         {
           "title": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum",
@@ -91,6 +73,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum"
+        },
+        {
+          "title": "Genel Energy issues Results to 30th June | Iraq Business News",
+          "link": "https://www.iraq-businessnews.com/2026/08/04/genel-energy-issues-results-to-30th-june/",
+          "source": "iraq-businessnews.com",
+          "pubDate": "2026-08-04T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Genel Energy issues Results to 30th June | Iraq Business News"
         },
         {
           "title": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
@@ -102,13 +93,130 @@
           "titleIt": "Deadly landslide hits Ethiopia mountain monastery during prayer service"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible",
+          "link": "https://allafrica.com/stories/202608040008.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-04T08:45:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible"
+        },
+        {
+          "title": "Genel Energy PLC : Unaudited results for the period ended 30 June 2026 | Company Announcement",
+          "link": "https://www.investegate.co.uk/announcement/eqs/genel-energy--genl/genel-energy-plc-unaudited-results-for-the-p-/9702685",
+          "source": "investegate.co.uk",
+          "pubDate": "2026-08-04T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Genel Energy PLC : Unaudited results for the period ended 30 June 2026 | Company Announcement"
+        },
+        {
+          "title": "US Signs Deal To Expand Its Military Presence in Somalia Bosaso on the Gulf of Aden",
+          "link": "https://news.antiwar.com/2026/08/03/us-signs-deal-to-expand-its-military-presence-in-somalias-bosaso-on-the-gulf-of-aden/",
+          "source": "news.antiwar.com",
+          "pubDate": "2026-08-03T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Signs Deal To Expand Its Military Presence in Somalia Bosaso on the Gulf of Aden"
+        },
+        {
+          "title": "AUSSOM Funding Cliff Sends Somalia Mission to the UN",
+          "link": "https://www.riotimesonline.com/aussom-funding-un-security-council-somalia-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-08-03T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AUSSOM Funding Cliff Sends Somalia Mission to the UN"
+        },
+        {
+          "title": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command",
+          "link": "https://wardheernews.com/prime-ministers-las-anod-visit-sparks-speculation-as-federal-government-announces-revival-of-historic-26th-military-command/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-02T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command"
+        },
+        {
+          "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
+          "link": "http://www.jpost.com/opinion/article-903889",
+          "source": "jpost.com",
+          "pubDate": "2026-08-02T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How the Israel - Somaliland alliance rewrites American diplomacy"
+        },
+        {
+          "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
+          "link": "https://www.jpost.com/opinion/article-903889",
+          "source": "jpost.com",
+          "pubDate": "2026-08-02T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How the Israel - Somaliland alliance rewrites American diplomacy"
+        },
+        {
+          "title": "AFRICOM Commander Dismisses Reports of U . S . Military Base in Berbera",
+          "link": "https://raxanreeb.com/africom-commander-dismisses-reports-of-u-s-military-base-in-berbera/",
+          "source": "raxanreeb.com",
+          "pubDate": "2026-08-01T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AFRICOM Commander Dismisses Reports of U . S . Military Base in Berbera"
+        },
+        {
+          "title": "Somalia : U . S . has no plans to recognize Somaliland , AFRICOM chief says",
+          "link": "https://www.garoweonline.com/en/news/somalia/somalia-u-s-has-no-plans-to-recognize-somaliland-africom-chief-says",
+          "source": "garoweonline.com",
+          "pubDate": "2026-08-01T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : U . S . has no plans to recognize Somaliland , AFRICOM chief says"
+        },
+        {
+          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
+          "link": "https://www.thereporterethiopia.com/51980/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-01T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
+        },
+        {
+          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
+          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
+          "source": "mondaq.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
+        },
+        {
+          "title": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland",
+          "link": "https://wardheernews.com/political-shock-deepens-in-northeast-state-as-six-mps-defect-to-somaliland/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-28T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland"
+        },
+        {
+          "title": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb",
+          "link": "https://wardheernews.com/somaliland-signals-readiness-to-help-secure-bab-el-mandeb/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-27T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb"
+        },
+        {
+          "title": "Is an Abraham Security Alliance possible in the Middle East ?",
+          "link": "https://www.jns.org/analysis/is-an-abraham-security-alliance-possible-in-the-middle-east",
+          "source": "jns.org",
+          "pubDate": "2026-07-27T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Is an Abraham Security Alliance possible in the Middle East ?"
         }
       ]
     },
@@ -116,13 +224,76 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Hormuz: proseguono colloqui tra Iran e Oman, progressi verso la definizione di una \"cornice tecnica\"",
-          "link": "https://www.agenzianova.com/a/6a72aede02e787.67103805/7672332/2026-08-05/hormuz-proseguono-colloqui-tra-iran-e-oman-progressi-verso-la-definizione-di-una-cornice-tecnica",
-          "description": "05 ago 05:12 - (Agenzia Nova) - Iran e Oman stanno portando avanti i negoziati per regolamentare il passaggio delle navi nello Stretto di Hormuz,... (Res)",
-          "pubDate": "2026-08-05T05:12:53+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Hormuz: proseguono colloqui tra Iran e Oman, progressi verso la definizione di una \"cornice tecnica\""
+          "title": "Nigeria to lose over 50 % of united kingdom aid as US , Europe slash foreign assistance",
+          "link": "https://www.vanguardngr.com/2026/08/nigeria-to-lose-over-50-of-uk-aid-as-us-europe-slash-foreign-assistance/",
+          "source": "vanguardngr.com",
+          "pubDate": "2026-08-05T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nigeria to lose over 50 % of united kingdom aid as US , Europe slash foreign assistance"
+        },
+        {
+          "title": "Climate Change Is Shifting Childhood Malaria Hotspots Across Africa , Landmark Study Finds",
+          "link": "https://www.downtoearth.org.in/africa/climate-change-is-shifting-childhood-malaria-hotspots-across-africa-finds-study",
+          "source": "downtoearth.org.in",
+          "pubDate": "2026-08-05T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Climate Change Is Shifting Childhood Malaria Hotspots Across Africa , Landmark Study Finds"
+        },
+        {
+          "title": "Breaking News Live Updates : Landslide near Ethiopia monastery kills 14 , search operation under way",
+          "link": "https://timesofindia.indiatimes.com/india/latest-india-world-news-live-updates-today-breaking-news-august-5-2026/liveblog/132884375.cms",
+          "source": "timesofindia.indiatimes.com",
+          "pubDate": "2026-08-05T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Breaking News Live Updates : Landslide near Ethiopia monastery kills 14 , search operation under way"
+        },
+        {
+          "title": "Türkiye foreign policy explained : A diplomatic journey across globe",
+          "link": "https://www.dailysabah.com/politics/diplomacy/turkiyes-foreign-policy-explained-a-diplomatic-journey-across-globe",
+          "source": "dailysabah.com",
+          "pubDate": "2026-08-04T22:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Türkiye foreign policy explained : A diplomatic journey across globe"
+        },
+        {
+          "title": "Egypt says it wont allow new Ethiopian dams on Nile River",
+          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-won-t-allow-new-ethiopian-dams-on-nile-river/4018528",
+          "source": "aa.com.tr",
+          "pubDate": "2026-08-04T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says it wont allow new Ethiopian dams on Nile River"
+        },
+        {
+          "title": "Sudan : Liberal Peacebuilding and the Price of Impunity",
+          "link": "https://newpol.org/issue_post/sudan-liberal-peacebuilding-and-the-price-of-impunity/",
+          "source": "newpol.org",
+          "pubDate": "2026-08-04T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Liberal Peacebuilding and the Price of Impunity"
+        },
+        {
+          "title": "Anita Namata returns to Kawempe Muslim for third stint",
+          "link": "https://kawowo.com/2026/08/04/anita-namata-returns-to-kawempe-muslim-for-third-stint/",
+          "source": "kawowo.com",
+          "pubDate": "2026-08-04T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Anita Namata returns to Kawempe Muslim for third stint"
+        },
+        {
+          "title": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa",
+          "link": "https://www.channelafrica.co.za/channelafrica/news/renewed-tigray-clashes-could-deepen-horn-of-africa-instability/",
+          "source": "channelafrica.co.za",
+          "pubDate": "2026-08-04T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa"
         },
         {
           "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
@@ -134,6 +305,15 @@
           "titleIt": "U.S.-brokered peace efforts for Sudan encounter new obstacles"
         },
         {
+          "title": "Zimbabwe : Bodies of united kingdom Murder Victims Nothabo Tshuma , Two Daughters Finally Arrive in Zimbabwe",
+          "link": "https://allafrica.com/stories/202608040285.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-04T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Zimbabwe : Bodies of united kingdom Murder Victims Nothabo Tshuma , Two Daughters Finally Arrive in Zimbabwe"
+        },
+        {
           "title": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum",
           "link": "https://allafrica.com/stories/202608040400.html",
           "description": "[Radio Dalsan] A mounting cohort of senior Somali government ministers is poised to surrender their Kenyan passports and national identity documents within days, heeding President Hassan Sheikh Mohamud's ultimatum that dual citizens holding public office must forswear their foreign nationality or immediately vacate their posts, according to multiple informed sources.",
@@ -141,6 +321,69 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Cabinet Officials Brace to Relinquish Kenyan Passports After Presidential Ultimatum"
+        },
+        {
+          "title": "50 countries affected by $20 , 000 U . S . visa bond policy",
+          "link": "https://thenationonlineng.net/50-countries-affected-by-20000-u-s-visa-bond-policy/",
+          "source": "thenationonlineng.net",
+          "pubDate": "2026-08-04T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "50 countries affected by $20 , 000 U . S . visa bond policy"
+        },
+        {
+          "title": "Africa and China Advance Great Green Walls as Continental Wildlife Corridors",
+          "link": "https://www.archdaily.com/1182133/africa-and-china-advance-great-green-walls-as-continental-wildlife-corridors",
+          "source": "archdaily.com",
+          "pubDate": "2026-08-04T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa and China Advance Great Green Walls as Continental Wildlife Corridors"
+        },
+        {
+          "title": "Gambia : Female Genital Mutilation - Winning the Argument , Losing the Funding",
+          "link": "https://allafrica.com/stories/202608040001.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-04T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gambia : Female Genital Mutilation - Winning the Argument , Losing the Funding"
+        },
+        {
+          "title": "Ethiopia : Two Presidents , No Government - Why Tigray War Is Coming Back",
+          "link": "https://allafrica.com/stories/202608040009.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-04T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Two Presidents , No Government - Why Tigray War Is Coming Back"
+        },
+        {
+          "title": "Bodies of united kingdom murder victims Nothabo Tshuma , two daughters finally arrive in Zimbabwe",
+          "link": "https://www.newzimbabwe.com/bodies-of-uk-murder-victims-nothabo-tshuma-two-daughters-finally-arrive-in-zimbabwe/",
+          "source": "newzimbabwe.com",
+          "pubDate": "2026-08-04T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bodies of united kingdom murder victims Nothabo Tshuma , two daughters finally arrive in Zimbabwe"
+        },
+        {
+          "title": "Female Genital Mutilation : Winning the Argument , Losing the Funding",
+          "link": "https://www.globalissues.org/news/2026/08/03/43727",
+          "source": "globalissues.org",
+          "pubDate": "2026-08-03T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Female Genital Mutilation : Winning the Argument , Losing the Funding"
+        },
+        {
+          "title": "Teen success story as he becomes Centrepoint student of the year",
+          "link": "https://www.bridgwatermercury.co.uk/news/26430647.teens-success-story-becomes-centrepoints-student-year/",
+          "source": "bridgwatermercury.co.uk",
+          "pubDate": "2026-08-03T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Teen success story as he becomes Centrepoint student of the year"
         },
         {
           "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
@@ -152,40 +395,13 @@
           "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
         },
         {
-          "title": "English FA to drop support for Infantino's re-election",
-          "link": "http://www.africanews.com/2026/08/03/english-fa-to-drop-support-for-infantinos-re-election/",
-          "description": "The English Football Association (FA) plans to formally withdraw its support for FIFA President Gianni Infantino, dealing him a major blow just days after he dropped his bid to sell some of his equity to private investors.",
-          "pubDate": "Mon, 03 Aug 2026 10:15:55 +0000",
-          "source": "Africanews",
+          "title": "Trump Makes U . S . Visa Bond Program Permanent : Could a Future President End It ?",
+          "link": "https://finchannel.com/trump-makes-u-s-visa-bonds-permanent-will-the-requirement-survive-after-his-presidency/133235/world-2/2026/08/",
+          "source": "finchannel.com",
+          "pubDate": "2026-08-03T13:30:00Z",
           "lang": "en",
-          "titleIt": "English FA to drop support for Infantino's re-election"
-        },
-        {
-          "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
-          "link": "https://www.ansa.it/english/news/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_0a2b42db-7e8c-4226-8422-94e31b17210b.html",
-          "description": "(ANSA) - ROME, AUG 3 - Italy will propose the creation of EU migrant hubs outside the bloc along the lines of its centres in Albania at Tuesday's emergency meeting of European interior ministers following the arrival of thousands of migrants at the Spain's North African enclave of Ceuta last week, sources have said, confirming newspaper reports. Premier Giorgia Meloni's government has suspended arrangements regarding the Schengen agreement allowing for control-free movement between borders with Spain for a month following the events in Ceuta. Madrid and Italy's opposition parties have blasted ",
-          "pubDate": "Mon, 3 Aug 2026 11:38:13 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
-        },
-        {
-          "title": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/01/ambassador-prunas-the-mediterranean-games-are-an-opportunity-to-strengthen-dialogue_bdc52f1c-0fbc-4cc4-84c6-de8c072f5f70.html",
-          "description": "(ANSA) - TUNISI, 01 AGO - Ahead of the start of the Taranto 2026 Mediterranean Games, the Italian Embassy in Tunis, in collaboration with the Tunisian National Olympic Committee, organized an event to present the Games, which brought together at the “La Charmeuse” Residence a delegation of Tunisian athletes, representatives of sports federations, and great champions from the past and present. On this occasion, Ambassador Alessandro Prunas emphasized that “in an international context marked by growing tensions, the Taranto Mediterranean Games represent an important opportunity to strengthen, th",
-          "pubDate": "Sat, 1 Aug 2026 09:25:36 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Trump Makes U . S . Visa Bond Program Permanent : Could a Future President End It ?"
         }
       ]
     },
