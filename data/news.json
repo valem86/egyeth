@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T21:36:38.467Z",
+  "generatedAt": "2026-08-05T23:20:36.044Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -99,7 +99,7 @@
         },
         {
           "title": "Sanita': Casa della comunita' nel carcere Rebibbia, accordo Regione Lazio, ministero e Asl (2)",
-          "link": "https://www.agenzianova.com/a/6a73ac3023fdb0.29772815/7675318/2026-08-05/sanita-casa-della-comunita-nel-carcere-rebibbia-accordo-regione-lazio-ministero-e-asl-2",
+          "link": "https://www.agenzianova.com/a/6a73c4fc6f6767.44077669/7675318/2026-08-05/sanita-casa-della-comunita-nel-carcere-rebibbia-accordo-regione-lazio-ministero-e-asl-2",
           "description": "05 ago 20:42 - (Agenzia Nova) - Per il direttore generale della Asl Roma 2, Francesco Amato, si tratta di \"una grande opportunita', probabilmente... (Rer)",
           "pubDate": "2026-08-05T20:42:36+02:00",
           "source": "Agenzia Nova",
@@ -184,184 +184,13 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Pizza Pinoli bids adieu to NDG",
-          "link": "https://www.thesuburban.com/news/city_news/pizza-pinoli-bids-adieu-to-ndg/article_85d8e02c-b164-4e2d-b6ac-2f49d41b3e15.html",
-          "source": "thesuburban.com",
-          "pubDate": "2026-08-05T21:00:00Z",
+          "title": "Magnitude 5.5 quake jolts Egypt, triggering emergency response",
+          "link": "http://www.africanews.com/2026/08/03/magnitude-55-quake-jolts-egypt-triggering-emergency-response/",
+          "description": "A magnitude 5.5 earthquake struck near the Egyptian city of Suez early Monday, shaking buildings across Cairo and prompting authorities to activate emergency response plans. No casualties or significant damage were immediately reported.",
+          "pubDate": "Mon, 03 Aug 2026 06:33:45 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Pizza Pinoli bids adieu to NDG"
-        },
-        {
-          "title": "Wall Street mixed on Wednesday but Dow gains",
-          "link": "http://www.newjerseytelegraph.com/news/279224006/wall-street-mixed-on-wednesday-but-dow-gains",
-          "source": "newjerseytelegraph.com",
-          "pubDate": "2026-08-05T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street mixed on Wednesday but Dow gains"
-        },
-        {
-          "title": "Wall Street mixed on Wednesday but Dow gains",
-          "link": "http://www.chinanationalnews.com/news/279224006/wall-street-mixed-on-wednesday-but-dow-gains",
-          "source": "chinanationalnews.com",
-          "pubDate": "2026-08-05T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street mixed on Wednesday but Dow gains"
-        },
-        {
-          "title": "Wall Street mixed on Wednesday but Dow gains",
-          "link": "http://www.taiwansun.com/news/279224006/wall-street-mixed-on-wednesday-but-dow-gains",
-          "source": "taiwansun.com",
-          "pubDate": "2026-08-05T20:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street mixed on Wednesday but Dow gains"
-        },
-        {
-          "title": "Wall Street mixed on Wednesday but Dow gains",
-          "link": "http://www.philippinetimes.com/news/279224006/wall-street-mixed-on-wednesday-but-dow-gains",
-          "source": "philippinetimes.com",
-          "pubDate": "2026-08-05T20:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street mixed on Wednesday but Dow gains"
-        },
-        {
-          "title": "The American fingerprints on the genocide in Sudan",
-          "link": "https://reason.com/2026/08/05/the-american-fingerprints-on-the-genocide-in-sudan/",
-          "source": "reason.com",
-          "pubDate": "2026-08-05T20:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The American fingerprints on the genocide in Sudan"
-        },
-        {
-          "title": "Dow Jones advances 263 points despite broader market weakness",
-          "link": "http://www.bignewsnetwork.com/news/279224006/dow-jones-advances-263-points-despite-broader-market-weakness",
-          "source": "bignewsnetwork.com",
-          "pubDate": "2026-08-05T20:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dow Jones advances 263 points despite broader market weakness"
-        },
-        {
-          "title": "What the success of  Michigan Mamdani  says about the future of the Democrats - 06 - Aug - 2026",
-          "link": "https://home.nzcity.co.nz/news/article.aspx?id=451392&fm=psp,tst",
-          "source": "home.nzcity.co.nz",
-          "pubDate": "2026-08-05T20:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "What the success of  Michigan Mamdani  says about the future of the Democrats - 06 - Aug - 2026"
-        },
-        {
-          "title": "What the success of  Michigan Mamdani  says about the future of the Democrats - 06 - Aug - 2026",
-          "link": "https://home.nzcity.co.nz/news/article.aspx?id=451392&fm=psp,tsf",
-          "source": "home.nzcity.co.nz",
-          "pubDate": "2026-08-05T20:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "What the success of  Michigan Mamdani  says about the future of the Democrats - 06 - Aug - 2026"
-        },
-        {
-          "title": "What the success of  Michigan Mamdani  says about the future of the Democrats - 06 - Aug - 2026",
-          "link": "https://home.nzcity.co.nz/news/article.aspx?id=451392",
-          "source": "home.nzcity.co.nz",
-          "pubDate": "2026-08-05T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "What the success of  Michigan Mamdani  says about the future of the Democrats - 06 - Aug - 2026"
-        },
-        {
-          "title": "Wall Street mixed on Wednesday but Dow gains",
-          "link": "http://www.nigeriasun.com/news/279224006/wall-street-mixed-on-wednesday-but-dow-gains",
-          "source": "nigeriasun.com",
-          "pubDate": "2026-08-05T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street mixed on Wednesday but Dow gains"
-        },
-        {
-          "title": "Tech stocks slide as equity markets finish divided Wednesday",
-          "link": "http://www.afghanistannews.net/news/279224006/tech-stocks-slide-as-equity-markets-finish-divided-wednesday",
-          "source": "afghanistannews.net",
-          "pubDate": "2026-08-05T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tech stocks slide as equity markets finish divided Wednesday"
-        },
-        {
-          "title": "Who is Abdul Al Sayed , the public health reformer who could become America first Muslim senator ?",
-          "link": "https://gulfnews.com/world/americas/who-is-abdul-al-sayed-the-public-health-reformer-who-could-become-americas-first-muslim-senator-1.500631797",
-          "source": "gulfnews.com",
-          "pubDate": "2026-08-05T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is Abdul Al Sayed , the public health reformer who could become America first Muslim senator ?"
-        },
-        {
-          "title": "Textile investment helps Tanzania close its manufacturing gap – AfricaNewsAnalysis",
-          "link": "https://www.africanewsanalysis.com/textile-investment-helps-tanzania-close-its-manufacturing-gap/05/15/12/42/08/2026/",
-          "source": "africanewsanalysis.com",
-          "pubDate": "2026-08-05T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Textile investment helps Tanzania close its manufacturing gap – AfricaNewsAnalysis"
-        },
-        {
-          "title": "Industry Perspectives : How the EBRD is advancing green and digital trade",
-          "link": "https://www.gtreview.com/news/industry-perspectives/industry-perspectives-how-the-ebrd-is-advancing-green-and-digital-trade/",
-          "source": "gtreview.com",
-          "pubDate": "2026-08-05T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Industry Perspectives : How the EBRD is advancing green and digital trade"
-        },
-        {
-          "title": "Abdul El - Sayed , Michigan Democratic Senate nominee , discusses the race",
-          "link": "https://www.delawarepublic.org/2026-08-05/abdul-el-sayed-michigans-democratic-senate-nominee-discusses-the-race",
-          "source": "delawarepublic.org",
-          "pubDate": "2026-08-05T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Abdul El - Sayed , Michigan Democratic Senate nominee , discusses the race"
-        },
-        {
-          "title": "Abdul El - Sayed , Michigan Democratic Senate nominee , discusses the race",
-          "link": "https://www.wknofm.org/elections/2026-08-05/abdul-el-sayed-michigans-democratic-senate-nominee-discusses-the-race",
-          "source": "wknofm.org",
-          "pubDate": "2026-08-05T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Abdul El - Sayed , Michigan Democratic Senate nominee , discusses the race"
-        },
-        {
-          "title": "Abdul El - Sayed , Michigan Democratic Senate nominee , discusses the race",
-          "link": "https://www.kasu.org/politics/2026-08-05/abdul-el-sayed-michigans-democratic-senate-nominee-discusses-the-race",
-          "source": "kasu.org",
-          "pubDate": "2026-08-05T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Abdul El - Sayed , Michigan Democratic Senate nominee , discusses the race"
-        },
-        {
-          "title": "Arab Ministerial Committee meeting in Amman issues joint statement",
-          "link": "http://thepeninsulaqatar.com/article/05/08/2026/arab-ministerial-committee-meeting-in-amman-issues-joint-statement",
-          "source": "thepeninsulaqatar.com",
-          "pubDate": "2026-08-05T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab Ministerial Committee meeting in Amman issues joint statement"
-        },
-        {
-          "title": "BRICS Culture WG Meets in Bhopal for Heritage Talks",
-          "link": "https://www.newkerala.com/news/a/brics-culture-working-group-begins-bhopal-focusing-heritage-535.htm",
-          "source": "newkerala.com",
-          "pubDate": "2026-08-05T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Culture WG Meets in Bhopal for Heritage Talks"
+          "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
         }
       ]
     },
