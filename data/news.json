@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-08-05T17:56:02.176Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-05T19:58:50.285Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf (2)",
-          "link": "https://www.agenzianova.com/a/6a7378f313e987.33625137/7675204/2026-08-05/sudan-fonti-nova-aeroporto-di-al-kufra-riprende-trasferimenti-di-armi-per-rsf-2",
-          "description": "05 ago 19:43 - (Agenzia Nova) - Gli Emirati Arabi Uniti hanno utilizzato il Ciad come rotta alternativa, aggirando il confine libico-egiziano,... (Res)",
-          "pubDate": "2026-08-05T19:43:40+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf (2)"
-        },
         {
           "title": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes",
           "link": "https://allafrica.com/stories/202608050596.html",
@@ -32,39 +23,12 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf (2)",
-          "link": "https://www.agenzianova.com/a/6a7378f313e987.33625137/7675204/2026-08-05/sudan-fonti-nova-aeroporto-di-al-kufra-riprende-trasferimenti-di-armi-per-rsf-2",
-          "description": "05 ago 19:43 - (Agenzia Nova) - Gli Emirati Arabi Uniti hanno utilizzato il Ciad come rotta alternativa, aggirando il confine libico-egiziano,... (Res)",
-          "pubDate": "2026-08-05T19:43:40+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf (2)"
-        },
         {
           "title": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes",
           "link": "https://allafrica.com/stories/202608050596.html",
@@ -82,21 +46,21 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "East Africa: Interpol Flags Kenya Among East Africa's Most Targeted Digital Economies"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Sanita': Casa della comunita' nel carcere Rebibbia, accordo Regione Lazio, ministero e Asl (2)",
+          "link": "https://www.agenzianova.com/a/6a73953559a158.43947692/7675318/2026-08-05/sanita-casa-della-comunita-nel-carcere-rebibbia-accordo-regione-lazio-ministero-e-asl-2",
+          "description": "05 ago 20:42 - (Agenzia Nova) - Per il direttore generale della Asl Roma 2, Francesco Amato, si tratta di \"una grande opportunita', probabilmente... (Rer)",
+          "pubDate": "2026-08-05T20:42:36+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Sanita': Casa della comunita' nel carcere Rebibbia, accordo Regione Lazio, ministero e Asl (2)"
+        },
         {
           "title": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes",
           "link": "https://allafrica.com/stories/202608050596.html",
@@ -159,15 +123,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -175,28 +130,190 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Magnitude 5.5 quake jolts Egypt, triggering emergency response",
-          "link": "http://www.africanews.com/2026/08/03/magnitude-55-quake-jolts-egypt-triggering-emergency-response/",
-          "description": "A magnitude 5.5 earthquake struck near the Egyptian city of Suez early Monday, shaking buildings across Cairo and prompting authorities to activate emergency response plans. No casualties or significant damage were immediately reported.",
-          "pubDate": "Mon, 03 Aug 2026 06:33:45 +0000",
-          "source": "Africanews",
+          "title": "Who is Abdul Al Sayed , the public health reformer who could become America first Muslim senator ?",
+          "link": "https://gulfnews.com/world/americas/who-is-abdul-al-sayed-the-public-health-reformer-who-could-become-americas-first-muslim-senator-1.500631797",
+          "source": "gulfnews.com",
+          "pubDate": "2026-08-05T19:15:00Z",
           "lang": "en",
-          "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
+          "description": "",
+          "titleIt": "Who is Abdul Al Sayed , the public health reformer who could become America first Muslim senator ?"
+        },
+        {
+          "title": "Textile investment helps Tanzania close its manufacturing gap – AfricaNewsAnalysis",
+          "link": "https://www.africanewsanalysis.com/textile-investment-helps-tanzania-close-its-manufacturing-gap/05/15/12/42/08/2026/",
+          "source": "africanewsanalysis.com",
+          "pubDate": "2026-08-05T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Textile investment helps Tanzania close its manufacturing gap – AfricaNewsAnalysis"
+        },
+        {
+          "title": "Industry Perspectives : How the EBRD is advancing green and digital trade",
+          "link": "https://www.gtreview.com/news/industry-perspectives/industry-perspectives-how-the-ebrd-is-advancing-green-and-digital-trade/",
+          "source": "gtreview.com",
+          "pubDate": "2026-08-05T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Industry Perspectives : How the EBRD is advancing green and digital trade"
+        },
+        {
+          "title": "Abdul El - Sayed , Michigan Democratic Senate nominee , discusses the race",
+          "link": "https://www.delawarepublic.org/2026-08-05/abdul-el-sayed-michigans-democratic-senate-nominee-discusses-the-race",
+          "source": "delawarepublic.org",
+          "pubDate": "2026-08-05T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abdul El - Sayed , Michigan Democratic Senate nominee , discusses the race"
+        },
+        {
+          "title": "Abdul El - Sayed , Michigan Democratic Senate nominee , discusses the race",
+          "link": "https://www.wknofm.org/elections/2026-08-05/abdul-el-sayed-michigans-democratic-senate-nominee-discusses-the-race",
+          "source": "wknofm.org",
+          "pubDate": "2026-08-05T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abdul El - Sayed , Michigan Democratic Senate nominee , discusses the race"
+        },
+        {
+          "title": "Abdul El - Sayed , Michigan Democratic Senate nominee , discusses the race",
+          "link": "https://www.kasu.org/politics/2026-08-05/abdul-el-sayed-michigans-democratic-senate-nominee-discusses-the-race",
+          "source": "kasu.org",
+          "pubDate": "2026-08-05T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abdul El - Sayed , Michigan Democratic Senate nominee , discusses the race"
+        },
+        {
+          "title": "Arab Ministerial Committee meeting in Amman issues joint statement",
+          "link": "http://thepeninsulaqatar.com/article/05/08/2026/arab-ministerial-committee-meeting-in-amman-issues-joint-statement",
+          "source": "thepeninsulaqatar.com",
+          "pubDate": "2026-08-05T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab Ministerial Committee meeting in Amman issues joint statement"
+        },
+        {
+          "title": "BRICS Culture WG Meets in Bhopal for Heritage Talks",
+          "link": "https://www.newkerala.com/news/a/brics-culture-working-group-begins-bhopal-focusing-heritage-535.htm",
+          "source": "newkerala.com",
+          "pubDate": "2026-08-05T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Culture WG Meets in Bhopal for Heritage Talks"
+        },
+        {
+          "title": "Who Is Abdul El - Sayed ? 5 Things Amid Michigan Senate Race – Hollywood Life",
+          "link": "https://hollywoodlife.com/feature/who-is-abdul-el-sayed-5-things-about-the-democrat-amid-michigan-primary-5553988/",
+          "source": "hollywoodlife.com",
+          "pubDate": "2026-08-05T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who Is Abdul El - Sayed ? 5 Things Amid Michigan Senate Race – Hollywood Life"
+        },
+        {
+          "title": "Pro - Palestinian progressive Abdul El - Sayed wins Michigan Democratic Senate primary",
+          "link": "https://www.thenationalnews.com/news/us/2026/08/05/abdul-el-sayed-michigan/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-08-05T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pro - Palestinian progressive Abdul El - Sayed wins Michigan Democratic Senate primary"
+        },
+        {
+          "title": "Who is Abdul El - Sayed ? What to know about Michigan Democrat U . S . Senate candidate – Macomb Daily",
+          "link": "https://www.macombdaily.com/2026/08/05/who-is-abdul-el-sayed-what-to-know-about-democrats-u-s-senate-candidate/",
+          "source": "macombdaily.com",
+          "pubDate": "2026-08-05T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is Abdul El - Sayed ? What to know about Michigan Democrat U . S . Senate candidate – Macomb Daily"
+        },
+        {
+          "title": "Indonesia heads to BRICS trade meeting to push market access",
+          "link": "https://en.antaranews.com/news/425732/indonesia-heads-to-brics-trade-meeting-to-push-market-access",
+          "source": "en.antaranews.com",
+          "pubDate": "2026-08-05T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Indonesia heads to BRICS trade meeting to push market access"
+        },
+        {
+          "title": "Locarno Gets Down To Business With Talk On AI , Algorithms , Investment",
+          "link": "https://deadline.com/2026/08/locarno-business-stepin-ai-algorithms-diversity-investment-1237018649/",
+          "source": "deadline.com",
+          "pubDate": "2026-08-05T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Locarno Gets Down To Business With Talk On AI , Algorithms , Investment"
+        },
+        {
+          "title": "Opinion : How Qatar Helped Create Today Socialist Movement",
+          "link": "http://www.washingtonjewishweek.com/how-qatar-helped-create-todays-socialist-movement/",
+          "source": "washingtonjewishweek.com",
+          "pubDate": "2026-08-05T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Opinion : How Qatar Helped Create Today Socialist Movement"
+        },
+        {
+          "title": "Who is Abdul El - Sayed ? What to know about Michigan Democrat U . S . Senate candidate – The Morning Sun",
+          "link": "https://www.themorningsun.com/2026/08/05/who-is-abdul-el-sayed-what-to-know-about-democrats-u-s-senate-candidate/",
+          "source": "themorningsun.com",
+          "pubDate": "2026-08-05T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is Abdul El - Sayed ? What to know about Michigan Democrat U . S . Senate candidate – The Morning Sun"
+        },
+        {
+          "title": "Who is Abdul El - Sayed ? What to know about Michigan Democrat U . S . Senate candidate – The Oakland Press",
+          "link": "https://www.theoaklandpress.com/2026/08/05/who-is-abdul-el-sayed-what-to-know-about-democrats-u-s-senate-candidate/",
+          "source": "theoaklandpress.com",
+          "pubDate": "2026-08-05T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who is Abdul El - Sayed ? What to know about Michigan Democrat U . S . Senate candidate – The Oakland Press"
+        },
+        {
+          "title": "Egypt foreign reserves hit record 56 . 3 bln USD in July",
+          "link": "http://www.theuknews.com/news/279223535/egypt-foreign-reserves-hit-record-563-bln-usd-in-july",
+          "source": "theuknews.com",
+          "pubDate": "2026-08-05T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt foreign reserves hit record 56 . 3 bln USD in July"
+        },
+        {
+          "title": "S . African minister calls for continental approach to migration - Xinhua",
+          "link": "https://english.news.cn/20260806/1ac4720350ab4f51a709f4e80d1b53e0/c.html",
+          "source": "english.news.cn",
+          "pubDate": "2026-08-05T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "S . African minister calls for continental approach to migration - Xinhua"
+        },
+        {
+          "title": "Gulf security is going local . Pakistan is already inside it .",
+          "link": "https://thefrontierpost.com/gulf-security-is-going-local-pakistan-is-already-inside-it/",
+          "source": "thefrontierpost.com",
+          "pubDate": "2026-08-05T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gulf security is going local . Pakistan is already inside it ."
+        },
+        {
+          "title": "The Latest : El - Sayed defeats Stevens to win Democratic Senate nomination in Michigan",
+          "link": "http://www.rockymounttelegram.com/news/national/the-latest-el-sayed-defeats-stevens-to-win-democratic-senate-nomination-in-michigan/article_fae4bd7b-3da2-54b4-a030-9a514792e8eb.html",
+          "source": "rockymounttelegram.com",
+          "pubDate": "2026-08-05T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : El - Sayed defeats Stevens to win Democratic Senate nomination in Michigan"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf",
-          "link": "https://www.agenzianova.com/a/6a7378f3140402.66378236/7675203/2026-08-05/sudan-fonti-nova-aeroporto-di-al-kufra-riprende-trasferimenti-di-armi-per-rsf",
-          "description": "05 ago 19:43 - (Agenzia Nova) - L'aeroporto di Al-Kufra, nella Libia orientale, e' tornato al suo precedente livello di attivita' come hub... (Res)",
-          "pubDate": "2026-08-05T19:43:40+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf"
-        },
         {
           "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
           "link": "http://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
