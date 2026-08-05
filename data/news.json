@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T14:36:41.632Z",
+  "generatedAt": "2026-08-05T17:56:02.176Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -7,13 +7,22 @@
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Somalia: Somali Commandos Raid Al-Shabaab Positions in Lower Shabelle",
-          "link": "https://allafrica.com/stories/202608040483.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's elite Danab Special Forces carried out a planned operation targeting suspected Al-Shabaab positions in villages near Basro, an area between the Lower Shabelle and Middle Shabelle regions, military officials said on Tuesday.",
-          "pubDate": "Tue, 04 Aug 2026 15:29:25 GMT",
+          "title": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf (2)",
+          "link": "https://www.agenzianova.com/a/6a7378f313e987.33625137/7675204/2026-08-05/sudan-fonti-nova-aeroporto-di-al-kufra-riprende-trasferimenti-di-armi-per-rsf-2",
+          "description": "05 ago 19:43 - (Agenzia Nova) - Gli Emirati Arabi Uniti hanno utilizzato il Ciad come rotta alternativa, aggirando il confine libico-egiziano,... (Res)",
+          "pubDate": "2026-08-05T19:43:40+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf (2)"
+        },
+        {
+          "title": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes",
+          "link": "https://allafrica.com/stories/202608050596.html",
+          "description": "[Shabelle] Garowe, Somalia -- Puntland President Said Abdullahi Deni on Wednesday accused Somalia's federal government of supporting rival forces involved in clashes in the central city of Galkayo, saying a military operation by Puntland had sent a \"clear message\" against threats to the region's security.",
+          "pubDate": "Wed, 05 Aug 2026 14:45:12 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: Somali Commandos Raid Al-Shabaab Positions in Lower Shabelle"
+          "titleIt": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes"
         },
         {
           "title": "Magnitude 5.5 quake jolts Egypt, triggering emergency response",
@@ -48,6 +57,24 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf (2)",
+          "link": "https://www.agenzianova.com/a/6a7378f313e987.33625137/7675204/2026-08-05/sudan-fonti-nova-aeroporto-di-al-kufra-riprende-trasferimenti-di-armi-per-rsf-2",
+          "description": "05 ago 19:43 - (Agenzia Nova) - Gli Emirati Arabi Uniti hanno utilizzato il Ciad come rotta alternativa, aggirando il confine libico-egiziano,... (Res)",
+          "pubDate": "2026-08-05T19:43:40+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf (2)"
+        },
+        {
+          "title": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes",
+          "link": "https://allafrica.com/stories/202608050596.html",
+          "description": "[Shabelle] Garowe, Somalia -- Puntland President Said Abdullahi Deni on Wednesday accused Somalia's federal government of supporting rival forces involved in clashes in the central city of Galkayo, saying a military operation by Puntland had sent a \"clear message\" against threats to the region's security.",
+          "pubDate": "Wed, 05 Aug 2026 14:45:12 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes"
+        },
+        {
           "title": "East Africa: Interpol Flags Kenya Among East Africa's Most Targeted Digital Economies",
           "link": "https://allafrica.com/stories/202608050481.html",
           "description": "[Capital FM] Nairobi -- Kenya's expanding digital economy is increasingly under threat from organised cybercriminals targeting mobile money services, telecommunications networks and government systems, according to the latest INTERPOL African Cyberthreat Assessment Report 2026.",
@@ -70,6 +97,24 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes",
+          "link": "https://allafrica.com/stories/202608050596.html",
+          "description": "[Shabelle] Garowe, Somalia -- Puntland President Said Abdullahi Deni on Wednesday accused Somalia's federal government of supporting rival forces involved in clashes in the central city of Galkayo, saying a military operation by Puntland had sent a \"clear message\" against threats to the region's security.",
+          "pubDate": "Wed, 05 Aug 2026 14:45:12 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes"
+        },
+        {
+          "title": "Somalia: Somalia Offers Condolences to Ethiopia After Deadly Landslide in Amhara Region",
+          "link": "https://allafrica.com/stories/202608050590.html",
+          "description": "[Shabelle] Mogadishu -- Somalia has extended its condolences to Ethiopia following a devastating landslide in the Amhara region that caused deaths and destruction, expressing solidarity with its neighbouring country during the tragedy.",
+          "pubDate": "Wed, 05 Aug 2026 14:42:15 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia Offers Condolences to Ethiopia After Deadly Landslide in Amhara Region"
+        },
         {
           "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
           "link": "http://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
@@ -144,31 +189,13 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project",
-          "link": "https://allafrica.com/stories/202608050079.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-05T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project"
-        },
-        {
-          "title": "Egypt says it wont allow new Ethiopian dams on Nile River",
-          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-won-t-allow-new-ethiopian-dams-on-nile-river/4018528",
-          "source": "aa.com.tr",
-          "pubDate": "2026-08-04T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says it wont allow new Ethiopian dams on Nile River"
-        },
-        {
-          "title": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa",
-          "link": "https://www.channelafrica.co.za/channelafrica/news/renewed-tigray-clashes-could-deepen-horn-of-africa-instability/",
-          "source": "channelafrica.co.za",
-          "pubDate": "2026-08-04T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa"
+          "title": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf",
+          "link": "https://www.agenzianova.com/a/6a7378f3140402.66378236/7675203/2026-08-05/sudan-fonti-nova-aeroporto-di-al-kufra-riprende-trasferimenti-di-armi-per-rsf",
+          "description": "05 ago 19:43 - (Agenzia Nova) - L'aeroporto di Al-Kufra, nella Libia orientale, e' tornato al suo precedente livello di attivita' come hub... (Res)",
+          "pubDate": "2026-08-05T19:43:40+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Sudan: fonti \"Nova\", aeroporto di Al-Kufra riprende trasferimenti di armi per Rsf"
         },
         {
           "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
@@ -187,141 +214,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
-        },
-        {
-          "title": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles",
-          "link": "https://idrw.org/pakistans-unsc-push-on-indus-waters-treaty-faces-major-legal-and-political-hurdles/",
-          "source": "idrw.org",
-          "pubDate": "2026-08-02T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles"
-        },
-        {
-          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
-          "link": "https://www.thereporterethiopia.com/51980/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-01T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
-        },
-        {
-          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
-          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
-          "source": "mondaq.com",
-          "pubDate": "2026-07-30T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
-        },
-        {
-          "title": "A Movement of World Citizens Could Change the Course of History",
-          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
-          "source": "larouchepub.com",
-          "pubDate": "2026-07-30T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A Movement of World Citizens Could Change the Course of History"
-        },
-        {
-          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
-          "link": "https://allafrica.com/stories/202607270583.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-28T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
-        },
-        {
-          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
-          "link": "https://allafrica.com/stories/202607270582.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-28T00:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
-        },
-        {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
-          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "recorder.com",
-          "pubDate": "2026-07-27T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
-        },
-        {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
-          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "gazettenet.com",
-          "pubDate": "2026-07-27T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
-        },
-        {
-          "title": "The return of the African megaproject",
-          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
-          "source": "hindustantimes.com",
-          "pubDate": "2026-07-25T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The return of the African megaproject"
-        },
-        {
-          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
-          "link": "https://www.thereporterethiopia.com/52030/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-07-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
-        },
-        {
-          "title": "Aid cuts call for innovation - Nation Online",
-          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
-          "source": "mwnation.com",
-          "pubDate": "2026-07-24T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Aid cuts call for innovation - Nation Online"
-        },
-        {
-          "title": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan",
-          "link": "https://allafrica.com/stories/202607230892.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-24T00:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan"
-        },
-        {
-          "title": "Society - Egypt - Ahram Online",
-          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
-          "source": "english.ahram.org.eg",
-          "pubDate": "2026-07-22T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Society - Egypt - Ahram Online"
-        },
-        {
-          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
-          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-21T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-07-21T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
         }
       ]
     }
