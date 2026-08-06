@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T23:20:36.044Z",
+  "generatedAt": "2026-08-06T03:43:30.760Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -48,13 +48,22 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-          "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-          "description": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
-          "pubDate": "Wed, 05 Aug 2026 21:21:51 GMT",
-          "source": "BBC World",
+          "title": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness",
+          "link": "https://www.theyeshivaworld.com/news/israel-news/2582738/red-sea-attack-indian-cargo-ship-sinks-off-yemen-as-israel-boosts-naval-readiness.html",
+          "source": "theyeshivaworld.com",
+          "pubDate": "2026-08-05T19:00:00Z",
           "lang": "en",
-          "titleIt": "Iran says it has agreed Strait of Hormuz shipping route with Oman"
+          "description": "",
+          "titleIt": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness"
+        },
+        {
+          "title": "Bristol man accused of trying to join ISIS said  dying was not a problem , court told",
+          "link": "https://www.bristolpost.co.uk/news/bristol-news/bristol-man-accused-trying-join-11094389",
+          "source": "bristolpost.co.uk",
+          "pubDate": "2026-08-05T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bristol man accused of trying to join ISIS said  dying was not a problem , court told"
         },
         {
           "title": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes",
@@ -75,37 +84,154 @@
           "titleIt": "East Africa: Interpol Flags Kenya Among East Africa's Most Targeted Digital Economies"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Sudan : Liberal Peacebuilding and the Price of Impunity",
+          "link": "https://newpol.org/issue_post/sudan-liberal-peacebuilding-and-the-price-of-impunity/",
+          "source": "newpol.org",
+          "pubDate": "2026-08-04T19:15:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Sudan : Liberal Peacebuilding and the Price of Impunity"
+        },
+        {
+          "title": "Has the UAE meteoric rise reached its limit ?",
+          "link": "https://www.middleeasteye.net/opinion/has-uaes-meteoric-rise-reached-its-limit",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-04T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Has the UAE meteoric rise reached its limit ?"
+        },
+        {
+          "title": "Genel Energy issues Results to 30th June | Iraq Business News",
+          "link": "https://www.iraq-businessnews.com/2026/08/04/genel-energy-issues-results-to-30th-june/",
+          "source": "iraq-businessnews.com",
+          "pubDate": "2026-08-04T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Genel Energy issues Results to 30th June | Iraq Business News"
+        },
+        {
+          "title": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible",
+          "link": "https://allafrica.com/stories/202608040008.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-04T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible"
+        },
+        {
+          "title": "Genel Energy PLC : Unaudited results for the period ended 30 June 2026 | Company Announcement",
+          "link": "https://www.investegate.co.uk/announcement/eqs/genel-energy--genl/genel-energy-plc-unaudited-results-for-the-p-/9702685",
+          "source": "investegate.co.uk",
+          "pubDate": "2026-08-04T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Genel Energy PLC : Unaudited results for the period ended 30 June 2026 | Company Announcement"
+        },
+        {
+          "title": "US Signs Deal To Expand Its Military Presence in Somalia Bosaso on the Gulf of Aden",
+          "link": "https://news.antiwar.com/2026/08/03/us-signs-deal-to-expand-its-military-presence-in-somalias-bosaso-on-the-gulf-of-aden/",
+          "source": "news.antiwar.com",
+          "pubDate": "2026-08-03T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Signs Deal To Expand Its Military Presence in Somalia Bosaso on the Gulf of Aden"
+        },
+        {
+          "title": "AUSSOM Funding Cliff Sends Somalia Mission to the UN",
+          "link": "https://www.riotimesonline.com/aussom-funding-un-security-council-somalia-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-08-03T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AUSSOM Funding Cliff Sends Somalia Mission to the UN"
+        },
+        {
+          "title": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command",
+          "link": "https://wardheernews.com/prime-ministers-las-anod-visit-sparks-speculation-as-federal-government-announces-revival-of-historic-26th-military-command/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-02T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command"
+        },
+        {
+          "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
+          "link": "http://www.jpost.com/opinion/article-903889",
+          "source": "jpost.com",
+          "pubDate": "2026-08-02T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How the Israel - Somaliland alliance rewrites American diplomacy"
+        },
+        {
+          "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
+          "link": "https://www.jpost.com/opinion/article-903889",
+          "source": "jpost.com",
+          "pubDate": "2026-08-02T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How the Israel - Somaliland alliance rewrites American diplomacy"
+        },
+        {
+          "title": "AFRICOM Commander Dismisses Reports of U . S . Military Base in Berbera",
+          "link": "https://raxanreeb.com/africom-commander-dismisses-reports-of-u-s-military-base-in-berbera/",
+          "source": "raxanreeb.com",
+          "pubDate": "2026-08-01T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AFRICOM Commander Dismisses Reports of U . S . Military Base in Berbera"
+        },
+        {
+          "title": "Somalia : U . S . has no plans to recognize Somaliland , AFRICOM chief says",
+          "link": "https://www.garoweonline.com/en/news/somalia/somalia-u-s-has-no-plans-to-recognize-somaliland-africom-chief-says",
+          "source": "garoweonline.com",
+          "pubDate": "2026-08-01T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : U . S . has no plans to recognize Somaliland , AFRICOM chief says"
+        },
+        {
+          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
+          "link": "https://www.thereporterethiopia.com/51980/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-01T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
+        },
+        {
+          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
+          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
+          "source": "mondaq.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
+        },
+        {
+          "title": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland",
+          "link": "https://wardheernews.com/political-shock-deepens-in-northeast-state-as-six-mps-defect-to-somaliland/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-28T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Political Shock Deepens in Northeast State as Six MPs Defect to Somaliland"
+        },
+        {
+          "title": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb",
+          "link": "https://wardheernews.com/somaliland-signals-readiness-to-help-secure-bab-el-mandeb/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-07-27T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland Signals Readiness to Help Secure Bab el - Mandeb"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-          "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-          "description": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
-          "pubDate": "Wed, 05 Aug 2026 21:21:51 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "Iran says it has agreed Strait of Hormuz shipping route with Oman"
-        },
-        {
-          "title": "Sanita': Casa della comunita' nel carcere Rebibbia, accordo Regione Lazio, ministero e Asl (2)",
-          "link": "https://www.agenzianova.com/a/6a73c4fc6f6767.44077669/7675318/2026-08-05/sanita-casa-della-comunita-nel-carcere-rebibbia-accordo-regione-lazio-ministero-e-asl-2",
-          "description": "05 ago 20:42 - (Agenzia Nova) - Per il direttore generale della Asl Roma 2, Francesco Amato, si tratta di \"una grande opportunita', probabilmente... (Rer)",
-          "pubDate": "2026-08-05T20:42:36+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Sanita': Casa della comunita' nel carcere Rebibbia, accordo Regione Lazio, ministero e Asl (2)"
-        },
         {
           "title": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes",
           "link": "https://allafrica.com/stories/202608050596.html",
