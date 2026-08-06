@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-08-06T10:51:19.184Z",
+  "generatedAt": "2026-08-06T14:38:17.007Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes",
-          "link": "https://allafrica.com/stories/202608050596.html",
-          "description": "[Shabelle] Garowe, Somalia -- Puntland President Said Abdullahi Deni on Wednesday accused Somalia's federal government of supporting rival forces involved in clashes in the central city of Galkayo, saying a military operation by Puntland had sent a \"clear message\" against threats to the region's security.",
-          "pubDate": "Wed, 05 Aug 2026 14:45:12 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes"
-        },
         {
           "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
           "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
@@ -39,6 +30,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction",
+          "link": "https://allafrica.com/stories/202608060534.html",
+          "description": "[Addis Standard] JAKENN Publishing PLC wishes to inform its partners, supporters, members of the diplomatic community, human rights groups, press freedom organizations, and the public of a series of grave incidents targeting our organization over the past several days. On Saturday, 01 August 2026, Yonas Kedir, the Editor-in-Chief of Addis Standard, a publication by JAKENN Publishing PLC, reported being abducted by security personnel, physically assaulted, and held for approximately 24 hours while subjected to prolonged",
+          "pubDate": "Thu, 06 Aug 2026 13:41:11 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction"
+        },
+        {
           "title": "Kenya: No, Viral List Apparently Showing Nairobi Police Chiefs Appointed On Tribal Lines Is Fake",
           "link": "https://allafrica.com/stories/202608060247.html",
           "description": "[Africa Check] IN SHORT: A document circulating on Facebook appears to list newly appointed commanders of Nairobi police stations, with users suggesting that the appointments were made along ethnic lines. But the National Police Service has labelled the document fake, and there are no credible reports supporting such appointments.",
@@ -48,6 +48,15 @@
           "titleIt": "Kenya: No, Viral List Apparently Showing Nairobi Police Chiefs Appointed On Tribal Lines Is Fake"
         },
         {
+          "title": "Air India's new Ethiopian CEO faces financial and safety turbulence",
+          "link": "https://www.bbc.co.uk/news/articles/c9987kkrnl5o?at_medium=RSS&at_campaign=rss",
+          "description": "The aftermath of last's year deadly crash and mounting financial losses will be Gebremariam's main challenges.",
+          "pubDate": "Thu, 06 Aug 2026 08:18:02 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Air India's new Ethiopian CEO faces financial and safety turbulence"
+        },
+        {
           "title": "Kenya: MPs Condemn Ethnic Profiling Over Fake Police Appointments List",
           "link": "https://allafrica.com/stories/202608060065.html",
           "description": "[Capital FM] Nairobi -- Members of the National Assembly have condemned what they termed a deliberate attempt to inflame ethnic tensions after a purported list circulated on social media alleging ethnic favouritism in the deployment of police officers commanding stations and divisions.",
@@ -55,24 +64,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: MPs Condemn Ethnic Profiling Over Fake Police Appointments List"
-        },
-        {
-          "title": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes",
-          "link": "https://allafrica.com/stories/202608050596.html",
-          "description": "[Shabelle] Garowe, Somalia -- Puntland President Said Abdullahi Deni on Wednesday accused Somalia's federal government of supporting rival forces involved in clashes in the central city of Galkayo, saying a military operation by Puntland had sent a \"clear message\" against threats to the region's security.",
-          "pubDate": "Wed, 05 Aug 2026 14:45:12 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes"
-        },
-        {
-          "title": "East Africa: Interpol Flags Kenya Among East Africa's Most Targeted Digital Economies",
-          "link": "https://allafrica.com/stories/202608050481.html",
-          "description": "[Capital FM] Nairobi -- Kenya's expanding digital economy is increasingly under threat from organised cybercriminals targeting mobile money services, telecommunications networks and government systems, according to the latest INTERPOL African Cyberthreat Assessment Report 2026.",
-          "pubDate": "Wed, 05 Aug 2026 11:35:12 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "East Africa: Interpol Flags Kenya Among East Africa's Most Targeted Digital Economies"
         },
         {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
@@ -88,6 +79,24 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction",
+          "link": "https://allafrica.com/stories/202608060534.html",
+          "description": "[Addis Standard] JAKENN Publishing PLC wishes to inform its partners, supporters, members of the diplomatic community, human rights groups, press freedom organizations, and the public of a series of grave incidents targeting our organization over the past several days. On Saturday, 01 August 2026, Yonas Kedir, the Editor-in-Chief of Addis Standard, a publication by JAKENN Publishing PLC, reported being abducted by security personnel, physically assaulted, and held for approximately 24 hours while subjected to prolonged",
+          "pubDate": "Thu, 06 Aug 2026 13:41:11 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction"
+        },
+        {
+          "title": "Women in El-Obeid testify to rape during Sudan conflict",
+          "link": "http://www.africanews.com/2026/08/06/women-in-el-obeid-testify-to-rape-during-sudan-conflict/",
+          "description": "Displaced women living in a camp in El-Obeid, in North Kordofan, say they were raped by Rapid Support Forces (RSF) members in front of their children before fleeing.",
+          "pubDate": "Thu, 06 Aug 2026 12:56:05 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Women in El-Obeid testify to rape during Sudan conflict"
+        },
         {
           "title": "Nigeria: Exclusive - Auto Dealer Reveals Details of Vehicle Purchases By Coup Suspect",
           "link": "https://allafrica.com/stories/202608060141.html",
@@ -105,24 +114,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: MPs Condemn Ethnic Profiling Over Fake Police Appointments List"
-        },
-        {
-          "title": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes",
-          "link": "https://allafrica.com/stories/202608050596.html",
-          "description": "[Shabelle] Garowe, Somalia -- Puntland President Said Abdullahi Deni on Wednesday accused Somalia's federal government of supporting rival forces involved in clashes in the central city of Galkayo, saying a military operation by Puntland had sent a \"clear message\" against threats to the region's security.",
-          "pubDate": "Wed, 05 Aug 2026 14:45:12 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes"
-        },
-        {
-          "title": "Somalia: Somalia Offers Condolences to Ethiopia After Deadly Landslide in Amhara Region",
-          "link": "https://allafrica.com/stories/202608050590.html",
-          "description": "[Shabelle] Mogadishu -- Somalia has extended its condolences to Ethiopia following a devastating landslide in the Amhara region that caused deaths and destruction, expressing solidarity with its neighbouring country during the tragedy.",
-          "pubDate": "Wed, 05 Aug 2026 14:42:15 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia Offers Condolences to Ethiopia After Deadly Landslide in Amhara Region"
         },
         {
           "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
@@ -175,85 +166,198 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Namibia Aims for Total Industrial Decarbonisation - The Villager Newspaper",
-          "link": "https://www.thevillager.com.na/national/2026/namibia-aims-for-total-industrial-decarbonisation/",
-          "source": "thevillager.com.na",
-          "pubDate": "2026-08-06T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Namibia Aims for Total Industrial Decarbonisation - The Villager Newspaper"
+          "title": "Energia: Egitto verso assegnazione di sette nuovi blocchi di esplorazione idrocarburi (4)",
+          "link": "https://www.agenzianova.com/a/6a749be1b1ca70.42995741/7677992/2026-08-06/energia-egitto-verso-assegnazione-di-sette-nuovi-blocchi-di-esplorazione-idrocarburi-4",
+          "description": "06 ago 16:17 - (Agenzia Nova) - Il governo egiziano prevede di sostenere queste attivita' attraverso incentivi agli investimenti, al fine di... (Cae)",
+          "pubDate": "2026-08-06T16:17:58+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Energia: Egitto verso assegnazione di sette nuovi blocchi di esplorazione idrocarburi (4)"
         },
         {
-          "title": "Chinese Belt and Road Investment in Africa : US$33 . 5B",
-          "link": "https://www.riotimesonline.com/china-belt-road-investment-africa-record-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-08-06T09:15:00Z",
+          "title": "El - Sayed wins Michigan primary . And , Fauci faces contempt of Congress vote",
+          "link": "https://www.knau.org/npr-news/2026-08-06/el-sayed-wins-michigans-primary-and-fauci-faces-contempt-of-congress-vote",
+          "source": "knau.org",
+          "pubDate": "2026-08-06T14:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Chinese Belt and Road Investment in Africa : US$33 . 5B"
+          "titleIt": "El - Sayed wins Michigan primary . And , Fauci faces contempt of Congress vote"
         },
         {
-          "title": "HSBC Egypt Retail Sale : Emirates NBD Takes Unit",
-          "link": "https://www.riotimesonline.com/hsbc-egypt-retail-sale-emirates-nbd-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-08-06T09:15:00Z",
+          "title": "Can Trump reshape the situation in Gaza ?",
+          "link": "https://www.middleeastmonitor.com/20260806-can-trump-reshape-the-situation-in-gaza/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-08-06T14:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "HSBC Egypt Retail Sale : Emirates NBD Takes Unit"
+          "titleIt": "Can Trump reshape the situation in Gaza ?"
         },
         {
-          "title": "Jumia Technologies ( NYSE : JMIA ) Given Consensus Rating of  Moderate Buy  by Brokerages",
-          "link": "https://www.dailypolitical.com/2026/08/06/jumia-technologies-nysejmia-given-consensus-rating-of-moderate-buy-by-brokerages.html",
-          "source": "dailypolitical.com",
-          "pubDate": "2026-08-06T09:00:00Z",
+          "title": "El - Sayed wins Michigan primary . And , Fauci faces contempt of Congress vote",
+          "link": "https://www.wuwf.org/2026-08-06/el-sayed-wins-michigans-primary-and-fauci-faces-contempt-of-congress-vote",
+          "source": "wuwf.org",
+          "pubDate": "2026-08-06T14:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Jumia Technologies ( NYSE : JMIA ) Given Consensus Rating of  Moderate Buy  by Brokerages"
+          "titleIt": "El - Sayed wins Michigan primary . And , Fauci faces contempt of Congress vote"
         },
         {
-          "title": "Rebalancing or retreat ? Canada peacekeeping legacy fades away",
-          "link": "https://www.cbc.ca/news/politics/peacekeeping-canada-troops-nato-latvia-9.7297599",
-          "source": "cbc.ca",
-          "pubDate": "2026-08-06T08:45:00Z",
+          "title": "We Actually Know Exactly How We Can Address Trump Corruption Spree",
+          "link": "https://talkingpointsmemo.com/cafe/we-actually-know-exactly-how-we-can-address-trumps-corruption-spree",
+          "source": "talkingpointsmemo.com",
+          "pubDate": "2026-08-06T14:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Rebalancing or retreat ? Canada peacekeeping legacy fades away"
+          "titleIt": "We Actually Know Exactly How We Can Address Trump Corruption Spree"
         },
         {
-          "title": "Middle East sustainable bond issuance forecast cut amid regional volatility : S & P",
-          "link": "https://www.arabnews.com/node/2653606/business-economy",
-          "source": "arabnews.com",
-          "pubDate": "2026-08-06T08:30:00Z",
+          "title": "El - Sayed wins Michigan primary . And , Fauci faces contempt of Congress vote",
+          "link": "https://www.wcbe.org/npr-news/2026-08-06/el-sayed-wins-michigans-primary-and-fauci-faces-contempt-of-congress-vote",
+          "source": "wcbe.org",
+          "pubDate": "2026-08-06T14:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Middle East sustainable bond issuance forecast cut amid regional volatility : S & P"
+          "titleIt": "El - Sayed wins Michigan primary . And , Fauci faces contempt of Congress vote"
         },
         {
-          "title": "H & M , Inditex Face Union - Busting Claims at Turkish Supplier",
-          "link": "https://wwd.com/sourcing-journal/sustainability/hm-inditex-turkey-eroglu-giyim-industriall-global-union-1239094994/",
-          "source": "wwd.com",
-          "pubDate": "2026-08-06T08:30:00Z",
+          "title": "El - Sayed wins Michigan primary . And , Fauci faces contempt of Congress vote",
+          "link": "https://www.mtpr.org/2026-08-06/el-sayed-wins-michigans-primary-and-fauci-faces-contempt-of-congress-vote",
+          "source": "mtpr.org",
+          "pubDate": "2026-08-06T14:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "H & M , Inditex Face Union - Busting Claims at Turkish Supplier"
+          "titleIt": "El - Sayed wins Michigan primary . And , Fauci faces contempt of Congress vote"
         },
         {
-          "title": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework",
-          "link": "https://allafrica.com/stories/202608060164.html",
+          "title": "Super Falcons Beat Egypt 6 – 2 and Book a WAFCON 2026 Quarterfinal Clash With Cameroon",
+          "link": "https://www.bellanaija.com/2026/08/super-falcons-defeat-egypt-6-2-wafcon-2026-quarterfinals/",
+          "source": "bellanaija.com",
+          "pubDate": "2026-08-06T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Super Falcons Beat Egypt 6 – 2 and Book a WAFCON 2026 Quarterfinal Clash With Cameroon"
+        },
+        {
+          "title": "Tanzania : Textile Investment Helps Tanzania Close Its Manufacturing Gap",
+          "link": "https://allafrica.com/stories/202608060480.html",
           "source": "allafrica.com",
-          "pubDate": "2026-08-06T08:15:00Z",
+          "pubDate": "2026-08-06T13:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework"
+          "titleIt": "Tanzania : Textile Investment Helps Tanzania Close Its Manufacturing Gap"
         },
         {
-          "title": "Nigeria hit six past Egypt to reach WAFCON quarter - finals",
-          "link": "https://theeagleonline.com.ng/nigeria-hit-six-past-egypt-to-reach-wafcon-quarter-finals/",
-          "source": "theeagleonline.com.ng",
-          "pubDate": "2026-08-06T08:15:00Z",
+          "title": "India BRICS presidency faces serious challenges – The Frontier Post",
+          "link": "https://thefrontierpost.com/indias-brics-presidency-faces-serious-challenges/",
+          "source": "thefrontierpost.com",
+          "pubDate": "2026-08-06T13:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Nigeria hit six past Egypt to reach WAFCON quarter - finals"
+          "titleIt": "India BRICS presidency faces serious challenges – The Frontier Post"
+        },
+        {
+          "title": "Inside Abdul El - Sayed Improbable Michigan Senate Primary Win",
+          "link": "https://www.rollingstone.com/politics/politics-features/inside-abdul-el-sayed-michigan-senate-primary-win-1235604379/",
+          "source": "rollingstone.com",
+          "pubDate": "2026-08-06T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Inside Abdul El - Sayed Improbable Michigan Senate Primary Win"
+        },
+        {
+          "title": "El - Sayed wins Michigan primary . And , Fauci faces contempt of Congress vote",
+          "link": "https://www.delawarepublic.org/npr-headlines/2026-08-06/el-sayed-wins-michigans-primary-and-fauci-faces-contempt-of-congress-vote",
+          "source": "delawarepublic.org",
+          "pubDate": "2026-08-06T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "El - Sayed wins Michigan primary . And , Fauci faces contempt of Congress vote"
+        },
+        {
+          "title": "El - Sayed wins Michigan primary . And , Fauci faces contempt of Congress vote",
+          "link": "https://news.wfsu.org/npr-news/2026-08-06/el-sayed-wins-michigans-primary-and-fauci-faces-contempt-of-congress-vote",
+          "source": "news.wfsu.org",
+          "pubDate": "2026-08-06T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "El - Sayed wins Michigan primary . And , Fauci faces contempt of Congress vote"
+        },
+        {
+          "title": "Gaza  road map  is driven by Trump , but reluctant passengers and serious potholes could derail pathway to peace",
+          "link": "https://theconversation.com/gazas-road-map-is-driven-by-trump-but-reluctant-passengers-and-serious-potholes-could-derail-pathway-to-peace-288996",
+          "source": "theconversation.com",
+          "pubDate": "2026-08-06T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gaza  road map  is driven by Trump , but reluctant passengers and serious potholes could derail pathway to peace"
+        },
+        {
+          "title": "Blessed grapes and hymns of glory : The Feast of the Transfiguration in the East",
+          "link": "https://www.catholicworldreport.com/2026/08/06/blessed-grapes-and-hymns-of-glory-the-feast-of-the-transfiguration-in-the-eastern-churches/",
+          "source": "catholicworldreport.com",
+          "pubDate": "2026-08-06T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Blessed grapes and hymns of glory : The Feast of the Transfiguration in the East"
+        },
+        {
+          "title": "El - Sayed wins Michigan primary . And , Fauci faces contempt of Congress vote",
+          "link": "https://www.kgou.org/politics-and-government/2026-08-06/el-sayed-wins-michigans-primary-and-fauci-faces-contempt-of-congress-vote",
+          "source": "kgou.org",
+          "pubDate": "2026-08-06T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "El - Sayed wins Michigan primary . And , Fauci faces contempt of Congress vote"
+        },
+        {
+          "title": "El - Sayed wins Michigan primary . And , Fauci faces contempt of Congress vote",
+          "link": "https://www.wgcu.org/2026-08-06/el-sayed-wins-michigans-primary-and-fauci-faces-contempt-of-congress-vote",
+          "source": "wgcu.org",
+          "pubDate": "2026-08-06T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "El - Sayed wins Michigan primary . And , Fauci faces contempt of Congress vote"
+        },
+        {
+          "title": "Ghana and Mali battle for place in last eight at Women Africa Cup of Nations",
+          "link": "https://www.aol.co.uk/articles/ghana-mali-battle-place-last-130038000.html",
+          "source": "aol.co.uk",
+          "pubDate": "2026-08-06T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ghana and Mali battle for place in last eight at Women Africa Cup of Nations"
+        },
+        {
+          "title": "Egypt to Exempt EGX Capital Gains From Income Tax",
+          "link": "https://cairoscene.com/Business/Egypt-to-Exempt-EGX-Capital-Gains-From-Income-Tax",
+          "source": "cairoscene.com",
+          "pubDate": "2026-08-06T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt to Exempt EGX Capital Gains From Income Tax"
+        },
+        {
+          "title": "Egypt FM participates in 5th R - 4 group meeting",
+          "link": "https://www.egyptindependent.com/egypts-fm-participates-in-5th-r-4-group-meeting/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-08-06T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt FM participates in 5th R - 4 group meeting"
+        }
+      ]
+    },
+    "gerd-opacity": {
+      "title": "Opacità sui rilasci GERD",
+      "items": [
+        {
+          "title": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility",
+          "link": "https://allafrica.com/stories/202608060479.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility"
         },
         {
           "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
@@ -265,31 +369,13 @@
           "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
         },
         {
-          "title": "Desperate  Trump running out of options in Iran war as Tehran exploits Hormuz leverage",
-          "link": "https://www.scmp.com/week-asia/politics/article/3363142/desperate-trump-running-out-options-iran-war-tehran-exploits-hormuz-leverage",
-          "source": "scmp.com",
-          "pubDate": "2026-08-06T07:30:00Z",
+          "title": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework",
+          "link": "https://allafrica.com/stories/202608060164.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Desperate  Trump running out of options in Iran war as Tehran exploits Hormuz leverage"
-        },
-        {
-          "title": "Stillborn Peace Plans : Israel , Hamas and the Question of Disarmament",
-          "link": "https://nuclear-news.net/2026/08/06/7-b-stillborn-peace-plans-israel-hamas-and-the-question-of-disarmament/",
-          "source": "nuclear-news.net",
-          "pubDate": "2026-08-06T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Stillborn Peace Plans : Israel , Hamas and the Question of Disarmament"
-        },
-        {
-          "title": "Michigan primary shows continued shift to the left in US",
-          "link": "https://www.wsws.org/en/articles/2026/08/06/ezkd-a06.html",
-          "source": "wsws.org",
-          "pubDate": "2026-08-06T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Michigan primary shows continued shift to the left in US"
+          "titleIt": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework"
         },
         {
           "title": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President",
@@ -301,64 +387,41 @@
           "titleIt": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President"
         },
         {
-          "title": "APA Raises U . S . Oil Forecast as Second - Quarter Output Beats Guidance",
-          "link": "https://oilprice.com/Company-News/APA-Raises-US-Oil-Forecast-as-Second-Quarter-Output-Beats-Guidance.html",
-          "source": "oilprice.com",
-          "pubDate": "2026-08-06T06:45:00Z",
+          "title": "Africa : Ethiopia Well Positioned to Become Africa Energy Hub , Says Ministry",
+          "link": "https://allafrica.com/stories/202608060077.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T06:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "APA Raises U . S . Oil Forecast as Second - Quarter Output Beats Guidance"
+          "titleIt": "Africa : Ethiopia Well Positioned to Become Africa Energy Hub , Says Ministry"
         },
         {
-          "title": "Sudanese Masses Remain Overshadowed as the RSF Militias Lose Ground to the Armed Forces",
-          "link": "https://www.newsghana.com.gh/sudanese-masses-remain-overshadowed-as-the-rsf-militias-lose-ground-to-the-armed-forces/",
-          "source": "newsghana.com.gh",
-          "pubDate": "2026-08-06T05:45:00Z",
+          "title": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project",
+          "link": "https://allafrica.com/stories/202608050079.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-05T08:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Sudanese Masses Remain Overshadowed as the RSF Militias Lose Ground to the Armed Forces"
+          "titleIt": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project"
         },
         {
-          "title": "Before Hormuz , There Was Suez : What Trump Can Learn From Eisenhower",
-          "link": "https://original.antiwar.com/trita-parsi/2026/08/05/before-hormuz-there-was-suez-what-trump-can-learn-from-eisenhower/",
-          "source": "original.antiwar.com",
-          "pubDate": "2026-08-06T05:15:00Z",
+          "title": "Egypt says it wont allow new Ethiopian dams on Nile River",
+          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-won-t-allow-new-ethiopian-dams-on-nile-river/4018528",
+          "source": "aa.com.tr",
+          "pubDate": "2026-08-04T22:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Before Hormuz , There Was Suez : What Trump Can Learn From Eisenhower"
+          "titleIt": "Egypt says it wont allow new Ethiopian dams on Nile River"
         },
         {
-          "title": "Pakistan Deputy PM Dar condemns Al - Aqsa incursions by  extremist Israeli settler – Asia News Network",
-          "link": "https://asianews.network/pakistan-deputy-pm-dar-condemns-al-aqsa-incursions-by-extremist-israeli-settlers/",
-          "source": "asianews.network",
-          "pubDate": "2026-08-06T04:30:00Z",
+          "title": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa",
+          "link": "https://www.channelafrica.co.za/channelafrica/news/renewed-tigray-clashes-could-deepen-horn-of-africa-instability/",
+          "source": "channelafrica.co.za",
+          "pubDate": "2026-08-04T17:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Pakistan Deputy PM Dar condemns Al - Aqsa incursions by  extremist Israeli settler – Asia News Network"
+          "titleIt": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa"
         },
-        {
-          "title": "BRICS Culture Working Group Begins In Bhopal With Focus On AI And Heritage",
-          "link": "https://www.freepressjournal.in/bhopal/brics-culture-working-group-begins-in-bhopal-with-focus-on-ai-and-heritage",
-          "source": "freepressjournal.in",
-          "pubDate": "2026-08-06T04:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Culture Working Group Begins In Bhopal With Focus On AI And Heritage"
-        },
-        {
-          "title": "Miranda Devine : Dont let Abdul El - Sayed fool you he and his DSA cronies are in prime position to take over the Democratic Party",
-          "link": "https://nypost.com/2026/08/05/opinion/miranda-devine-dont-let-abdul-el-sayed-fool-you-he-and-his-dsa-cronies-are-in-prime-position-to-take-over-the-democratic-party/",
-          "source": "nypost.com",
-          "pubDate": "2026-08-06T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Miranda Devine : Dont let Abdul El - Sayed fool you he and his DSA cronies are in prime position to take over the Democratic Party"
-        }
-      ]
-    },
-    "gerd-opacity": {
-      "title": "Opacità sui rilasci GERD",
-      "items": [
         {
           "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
           "link": "http://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
@@ -367,6 +430,105 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "U.S.-brokered peace efforts for Sudan encounter new obstacles"
+        },
+        {
+          "title": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles",
+          "link": "https://idrw.org/pakistans-unsc-push-on-indus-waters-treaty-faces-major-legal-and-political-hurdles/",
+          "source": "idrw.org",
+          "pubDate": "2026-08-02T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles"
+        },
+        {
+          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
+          "link": "https://www.thereporterethiopia.com/51980/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-01T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
+        },
+        {
+          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
+          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
+          "source": "mondaq.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
+        },
+        {
+          "title": "A Movement of World Citizens Could Change the Course of History",
+          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-07-30T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A Movement of World Citizens Could Change the Course of History"
+        },
+        {
+          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
+          "link": "https://allafrica.com/stories/202607270583.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
+        },
+        {
+          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
+          "link": "https://allafrica.com/stories/202607270582.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
+          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "recorder.com",
+          "pubDate": "2026-07-27T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
+          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "gazettenet.com",
+          "pubDate": "2026-07-27T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
+        },
+        {
+          "title": "The return of the African megaproject",
+          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
+          "source": "hindustantimes.com",
+          "pubDate": "2026-07-25T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The return of the African megaproject"
+        },
+        {
+          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
+          "link": "https://www.thereporterethiopia.com/52030/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-07-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
+        },
+        {
+          "title": "Aid cuts call for innovation - Nation Online",
+          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
+          "source": "mwnation.com",
+          "pubDate": "2026-07-24T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Aid cuts call for innovation - Nation Online"
         }
       ]
     }
