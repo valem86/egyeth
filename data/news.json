@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T06:49:27.387Z",
+  "generatedAt": "2026-08-06T10:51:19.184Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -14,15 +14,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Deni Accuses Somali Federal Government of Backing Rival Forces After Galkayo Clashes"
-        },
-        {
-          "title": "Magnitude 5.5 quake jolts Egypt, triggering emergency response",
-          "link": "http://www.africanews.com/2026/08/03/magnitude-55-quake-jolts-egypt-triggering-emergency-response/",
-          "description": "A magnitude 5.5 earthquake struck near the Egyptian city of Suez early Monday, shaking buildings across Cairo and prompting authorities to activate emergency response plans. No casualties or significant damage were immediately reported.",
-          "pubDate": "Mon, 03 Aug 2026 06:33:45 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
         },
         {
           "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
@@ -47,6 +38,15 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenya: No, Viral List Apparently Showing Nairobi Police Chiefs Appointed On Tribal Lines Is Fake",
+          "link": "https://allafrica.com/stories/202608060247.html",
+          "description": "[Africa Check] IN SHORT: A document circulating on Facebook appears to list newly appointed commanders of Nairobi police stations, with users suggesting that the appointments were made along ethnic lines. But the National Police Service has labelled the document fake, and there are no credible reports supporting such appointments.",
+          "pubDate": "Thu, 06 Aug 2026 09:16:15 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: No, Viral List Apparently Showing Nairobi Police Chiefs Appointed On Tribal Lines Is Fake"
+        },
         {
           "title": "Kenya: MPs Condemn Ethnic Profiling Over Fake Police Appointments List",
           "link": "https://allafrica.com/stories/202608060065.html",
@@ -88,6 +88,15 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Nigeria: Exclusive - Auto Dealer Reveals Details of Vehicle Purchases By Coup Suspect",
+          "link": "https://allafrica.com/stories/202608060141.html",
+          "description": "[Premium Times] PREMIUM TIMES is reporting for the first time details of some vehicle purchases allegedly carried out by the suspected mastermind of the 2025 failed coup in the thick of the planning towards the reported plot.",
+          "pubDate": "Thu, 06 Aug 2026 07:07:25 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Nigeria: Exclusive - Auto Dealer Reveals Details of Vehicle Purchases By Coup Suspect"
+        },
         {
           "title": "Kenya: MPs Condemn Ethnic Profiling Over Fake Police Appointments List",
           "link": "https://allafrica.com/stories/202608060065.html",
@@ -134,15 +143,6 @@
           "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
         },
         {
-          "title": "English FA to drop support for Infantino's re-election",
-          "link": "http://www.africanews.com/2026/08/03/english-fa-to-drop-support-for-infantinos-re-election/",
-          "description": "The English Football Association (FA) plans to formally withdraw its support for FIFA President Gianni Infantino, dealing him a major blow just days after he dropped his bid to sell some of his equity to private investors.",
-          "pubDate": "Mon, 03 Aug 2026 10:15:55 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "English FA to drop support for Infantino's re-election"
-        },
-        {
           "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
           "link": "https://www.ansa.it/english/news/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_0a2b42db-7e8c-4226-8422-94e31b17210b.html",
           "description": "(ANSA) - ROME, AUG 3 - Italy will propose the creation of EU migrant hubs outside the bloc along the lines of its centres in Albania at Tuesday's emergency meeting of European interior ministers following the arrival of thousands of migrants at the Spain's North African enclave of Ceuta last week, sources have said, confirming newspaper reports. Premier Giorgia Meloni's government has suspended arrangements regarding the Schengen agreement allowing for control-free movement between borders with Spain for a month following the events in Ceuta. Madrid and Italy's opposition parties have blasted ",
@@ -175,46 +175,190 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Magnitude 5.5 quake jolts Egypt, triggering emergency response",
-          "link": "http://www.africanews.com/2026/08/03/magnitude-55-quake-jolts-egypt-triggering-emergency-response/",
-          "description": "A magnitude 5.5 earthquake struck near the Egyptian city of Suez early Monday, shaking buildings across Cairo and prompting authorities to activate emergency response plans. No casualties or significant damage were immediately reported.",
-          "pubDate": "Mon, 03 Aug 2026 06:33:45 +0000",
-          "source": "Africanews",
+          "title": "Namibia Aims for Total Industrial Decarbonisation - The Villager Newspaper",
+          "link": "https://www.thevillager.com.na/national/2026/namibia-aims-for-total-industrial-decarbonisation/",
+          "source": "thevillager.com.na",
+          "pubDate": "2026-08-06T10:15:00Z",
           "lang": "en",
-          "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
+          "description": "",
+          "titleIt": "Namibia Aims for Total Industrial Decarbonisation - The Villager Newspaper"
+        },
+        {
+          "title": "Chinese Belt and Road Investment in Africa : US$33 . 5B",
+          "link": "https://www.riotimesonline.com/china-belt-road-investment-africa-record-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-08-06T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese Belt and Road Investment in Africa : US$33 . 5B"
+        },
+        {
+          "title": "HSBC Egypt Retail Sale : Emirates NBD Takes Unit",
+          "link": "https://www.riotimesonline.com/hsbc-egypt-retail-sale-emirates-nbd-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-08-06T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "HSBC Egypt Retail Sale : Emirates NBD Takes Unit"
+        },
+        {
+          "title": "Jumia Technologies ( NYSE : JMIA ) Given Consensus Rating of  Moderate Buy  by Brokerages",
+          "link": "https://www.dailypolitical.com/2026/08/06/jumia-technologies-nysejmia-given-consensus-rating-of-moderate-buy-by-brokerages.html",
+          "source": "dailypolitical.com",
+          "pubDate": "2026-08-06T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Jumia Technologies ( NYSE : JMIA ) Given Consensus Rating of  Moderate Buy  by Brokerages"
+        },
+        {
+          "title": "Rebalancing or retreat ? Canada peacekeeping legacy fades away",
+          "link": "https://www.cbc.ca/news/politics/peacekeeping-canada-troops-nato-latvia-9.7297599",
+          "source": "cbc.ca",
+          "pubDate": "2026-08-06T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rebalancing or retreat ? Canada peacekeeping legacy fades away"
+        },
+        {
+          "title": "Middle East sustainable bond issuance forecast cut amid regional volatility : S & P",
+          "link": "https://www.arabnews.com/node/2653606/business-economy",
+          "source": "arabnews.com",
+          "pubDate": "2026-08-06T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Middle East sustainable bond issuance forecast cut amid regional volatility : S & P"
+        },
+        {
+          "title": "H & M , Inditex Face Union - Busting Claims at Turkish Supplier",
+          "link": "https://wwd.com/sourcing-journal/sustainability/hm-inditex-turkey-eroglu-giyim-industriall-global-union-1239094994/",
+          "source": "wwd.com",
+          "pubDate": "2026-08-06T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "H & M , Inditex Face Union - Busting Claims at Turkish Supplier"
+        },
+        {
+          "title": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework",
+          "link": "https://allafrica.com/stories/202608060164.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework"
+        },
+        {
+          "title": "Nigeria hit six past Egypt to reach WAFCON quarter - finals",
+          "link": "https://theeagleonline.com.ng/nigeria-hit-six-past-egypt-to-reach-wafcon-quarter-finals/",
+          "source": "theeagleonline.com.ng",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nigeria hit six past Egypt to reach WAFCON quarter - finals"
+        },
+        {
+          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
+          "link": "https://allafrica.com/stories/202608060151.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
+        },
+        {
+          "title": "Desperate  Trump running out of options in Iran war as Tehran exploits Hormuz leverage",
+          "link": "https://www.scmp.com/week-asia/politics/article/3363142/desperate-trump-running-out-options-iran-war-tehran-exploits-hormuz-leverage",
+          "source": "scmp.com",
+          "pubDate": "2026-08-06T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Desperate  Trump running out of options in Iran war as Tehran exploits Hormuz leverage"
+        },
+        {
+          "title": "Stillborn Peace Plans : Israel , Hamas and the Question of Disarmament",
+          "link": "https://nuclear-news.net/2026/08/06/7-b-stillborn-peace-plans-israel-hamas-and-the-question-of-disarmament/",
+          "source": "nuclear-news.net",
+          "pubDate": "2026-08-06T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Stillborn Peace Plans : Israel , Hamas and the Question of Disarmament"
+        },
+        {
+          "title": "Michigan primary shows continued shift to the left in US",
+          "link": "https://www.wsws.org/en/articles/2026/08/06/ezkd-a06.html",
+          "source": "wsws.org",
+          "pubDate": "2026-08-06T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Michigan primary shows continued shift to the left in US"
+        },
+        {
+          "title": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President",
+          "link": "https://allafrica.com/stories/202608060100.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President"
+        },
+        {
+          "title": "APA Raises U . S . Oil Forecast as Second - Quarter Output Beats Guidance",
+          "link": "https://oilprice.com/Company-News/APA-Raises-US-Oil-Forecast-as-Second-Quarter-Output-Beats-Guidance.html",
+          "source": "oilprice.com",
+          "pubDate": "2026-08-06T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "APA Raises U . S . Oil Forecast as Second - Quarter Output Beats Guidance"
+        },
+        {
+          "title": "Sudanese Masses Remain Overshadowed as the RSF Militias Lose Ground to the Armed Forces",
+          "link": "https://www.newsghana.com.gh/sudanese-masses-remain-overshadowed-as-the-rsf-militias-lose-ground-to-the-armed-forces/",
+          "source": "newsghana.com.gh",
+          "pubDate": "2026-08-06T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudanese Masses Remain Overshadowed as the RSF Militias Lose Ground to the Armed Forces"
+        },
+        {
+          "title": "Before Hormuz , There Was Suez : What Trump Can Learn From Eisenhower",
+          "link": "https://original.antiwar.com/trita-parsi/2026/08/05/before-hormuz-there-was-suez-what-trump-can-learn-from-eisenhower/",
+          "source": "original.antiwar.com",
+          "pubDate": "2026-08-06T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Before Hormuz , There Was Suez : What Trump Can Learn From Eisenhower"
+        },
+        {
+          "title": "Pakistan Deputy PM Dar condemns Al - Aqsa incursions by  extremist Israeli settler – Asia News Network",
+          "link": "https://asianews.network/pakistan-deputy-pm-dar-condemns-al-aqsa-incursions-by-extremist-israeli-settlers/",
+          "source": "asianews.network",
+          "pubDate": "2026-08-06T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pakistan Deputy PM Dar condemns Al - Aqsa incursions by  extremist Israeli settler – Asia News Network"
+        },
+        {
+          "title": "BRICS Culture Working Group Begins In Bhopal With Focus On AI And Heritage",
+          "link": "https://www.freepressjournal.in/bhopal/brics-culture-working-group-begins-in-bhopal-with-focus-on-ai-and-heritage",
+          "source": "freepressjournal.in",
+          "pubDate": "2026-08-06T04:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Culture Working Group Begins In Bhopal With Focus On AI And Heritage"
+        },
+        {
+          "title": "Miranda Devine : Dont let Abdul El - Sayed fool you he and his DSA cronies are in prime position to take over the Democratic Party",
+          "link": "https://nypost.com/2026/08/05/opinion/miranda-devine-dont-let-abdul-el-sayed-fool-you-he-and-his-dsa-cronies-are-in-prime-position-to-take-over-the-democratic-party/",
+          "source": "nypost.com",
+          "pubDate": "2026-08-06T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Miranda Devine : Dont let Abdul El - Sayed fool you he and his DSA cronies are in prime position to take over the Democratic Party"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project",
-          "link": "https://allafrica.com/stories/202608050079.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-05T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project"
-        },
-        {
-          "title": "Egypt says it wont allow new Ethiopian dams on Nile River",
-          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-won-t-allow-new-ethiopian-dams-on-nile-river/4018528",
-          "source": "aa.com.tr",
-          "pubDate": "2026-08-04T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says it wont allow new Ethiopian dams on Nile River"
-        },
-        {
-          "title": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa",
-          "link": "https://www.channelafrica.co.za/channelafrica/news/renewed-tigray-clashes-could-deepen-horn-of-africa-instability/",
-          "source": "channelafrica.co.za",
-          "pubDate": "2026-08-04T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa"
-        },
         {
           "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
           "link": "http://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
@@ -223,150 +367,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "U.S.-brokered peace efforts for Sudan encounter new obstacles"
-        },
-        {
-          "title": "Magnitude 5.5 quake jolts Egypt, triggering emergency response",
-          "link": "http://www.africanews.com/2026/08/03/magnitude-55-quake-jolts-egypt-triggering-emergency-response/",
-          "description": "A magnitude 5.5 earthquake struck near the Egyptian city of Suez early Monday, shaking buildings across Cairo and prompting authorities to activate emergency response plans. No casualties or significant damage were immediately reported.",
-          "pubDate": "Mon, 03 Aug 2026 06:33:45 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Magnitude 5.5 quake jolts Egypt, triggering emergency response"
-        },
-        {
-          "title": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles",
-          "link": "https://idrw.org/pakistans-unsc-push-on-indus-waters-treaty-faces-major-legal-and-political-hurdles/",
-          "source": "idrw.org",
-          "pubDate": "2026-08-02T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles"
-        },
-        {
-          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
-          "link": "https://www.thereporterethiopia.com/51980/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-01T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
-        },
-        {
-          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
-          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
-          "source": "mondaq.com",
-          "pubDate": "2026-07-30T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
-        },
-        {
-          "title": "A Movement of World Citizens Could Change the Course of History",
-          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
-          "source": "larouchepub.com",
-          "pubDate": "2026-07-30T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A Movement of World Citizens Could Change the Course of History"
-        },
-        {
-          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
-          "link": "https://allafrica.com/stories/202607270583.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-28T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
-        },
-        {
-          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
-          "link": "https://allafrica.com/stories/202607270582.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-28T00:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
-        },
-        {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
-          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "recorder.com",
-          "pubDate": "2026-07-27T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
-        },
-        {
-          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
-          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
-          "source": "gazettenet.com",
-          "pubDate": "2026-07-27T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
-        },
-        {
-          "title": "The return of the African megaproject",
-          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
-          "source": "hindustantimes.com",
-          "pubDate": "2026-07-25T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The return of the African megaproject"
-        },
-        {
-          "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
-          "link": "https://www.thereporterethiopia.com/52030/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-07-25T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil"
-        },
-        {
-          "title": "Aid cuts call for innovation - Nation Online",
-          "link": "https://mwnation.com/aid-cuts-call-for-innovation/",
-          "source": "mwnation.com",
-          "pubDate": "2026-07-24T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Aid cuts call for innovation - Nation Online"
-        },
-        {
-          "title": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan",
-          "link": "https://allafrica.com/stories/202607230892.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-07-24T00:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Water Expert Urges Binding GERD Agreement After Nile Levels Fall in Sudan"
-        },
-        {
-          "title": "Society - Egypt - Ahram Online",
-          "link": "https://english.ahram.org.eg/Category/1/2/Egypt/Infograph%7C-Egypt-mobile-subscriptions-ri.aspx",
-          "source": "english.ahram.org.eg",
-          "pubDate": "2026-07-22T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Society - Egypt - Ahram Online"
-        },
-        {
-          "title": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves",
-          "link": "https://www.middle-east-online.com/en/egypt-says-nile-issue-existential-rejects-ethiopia%E2%80%99s-unilateral-moves",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-07-21T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says Nile issue is existential , rejects Ethiopia unilateral moves"
-        },
-        {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-07-21T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who is driving diplomacy in the Horn of Africa and the Red Sea , and why ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
         }
       ]
     }
