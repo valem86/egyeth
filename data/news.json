@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T03:22:36.298Z",
+  "generatedAt": "2026-08-07T05:52:49.164Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -30,13 +30,22 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Ethiopia: PM Abiy Inaugurates New Terminal At Bahir Dar Int'l Airport",
-          "link": "https://allafrica.com/stories/202608060676.html",
-          "description": "[ENA] Addis Ababa -- Prime Minister Abiy Ahmed has inaugurated a new terminal at Bahir Dar Dejazmach Belay Zeleke International Airport, marking a pivotal milestone for one of Ethiopia's primary aviation gateways.",
-          "pubDate": "Thu, 06 Aug 2026 17:13:25 GMT",
-          "source": "AllAfrica",
+          "title": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East",
+          "link": "https://foreignpolicy.com/2026/08/05/saudi-arabia-iran-israel-united-states-trump-uae-oil-houthis/?tpcc=recirc_trending062921",
+          "source": "foreignpolicy.com",
+          "pubDate": "2026-08-06T19:45:00Z",
           "lang": "en",
-          "titleIt": "Ethiopia: PM Abiy Inaugurates New Terminal At Bahir Dar Int'l Airport"
+          "description": "",
+          "titleIt": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East"
+        },
+        {
+          "title": "The power to paralyze a country by sea : Israel Navy unveils new vision",
+          "link": "https://www.ynetnews.com/article/bk4fy7mugx",
+          "source": "ynetnews.com",
+          "pubDate": "2026-08-06T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The power to paralyze a country by sea : Israel Navy unveils new vision"
         },
         {
           "title": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction",
@@ -66,22 +75,139 @@
           "titleIt": "Air India's new Ethiopian CEO faces financial and safety turbulence"
         },
         {
-          "title": "Kenya: MPs Condemn Ethnic Profiling Over Fake Police Appointments List",
-          "link": "https://allafrica.com/stories/202608060065.html",
-          "description": "[Capital FM] Nairobi -- Members of the National Assembly have condemned what they termed a deliberate attempt to inflame ethnic tensions after a purported list circulated on social media alleging ethnic favouritism in the deployment of police officers commanding stations and divisions.",
-          "pubDate": "Thu, 06 Aug 2026 05:36:30 GMT",
-          "source": "AllAfrica",
+          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
+          "link": "https://allafrica.com/stories/202608060151.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
           "lang": "en",
-          "titleIt": "Kenya: MPs Condemn Ethnic Profiling Over Fake Police Appointments List"
+          "description": "",
+          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Three Federal States , One Political Strategy , and Somalia Most Dangerous Gamble",
+          "link": "https://wardheernews.com/three-federal-states-one-political-strategy-and-somalias-most-dangerous-gamble/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-06T05:00:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Three Federal States , One Political Strategy , and Somalia Most Dangerous Gamble"
+        },
+        {
+          "title": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness",
+          "link": "https://www.theyeshivaworld.com/news/israel-news/2582738/red-sea-attack-indian-cargo-ship-sinks-off-yemen-as-israel-boosts-naval-readiness.html",
+          "source": "theyeshivaworld.com",
+          "pubDate": "2026-08-05T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness"
+        },
+        {
+          "title": "Bristol man accused of trying to join ISIS said  dying was not a problem , court told",
+          "link": "https://www.bristolpost.co.uk/news/bristol-news/bristol-man-accused-trying-join-11094389",
+          "source": "bristolpost.co.uk",
+          "pubDate": "2026-08-05T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bristol man accused of trying to join ISIS said  dying was not a problem , court told"
+        },
+        {
+          "title": "Sudan : Liberal Peacebuilding and the Price of Impunity",
+          "link": "https://newpol.org/issue_post/sudan-liberal-peacebuilding-and-the-price-of-impunity/",
+          "source": "newpol.org",
+          "pubDate": "2026-08-04T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Liberal Peacebuilding and the Price of Impunity"
+        },
+        {
+          "title": "Has the UAE meteoric rise reached its limit ?",
+          "link": "https://www.middleeasteye.net/opinion/has-uaes-meteoric-rise-reached-its-limit",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-04T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Has the UAE meteoric rise reached its limit ?"
+        },
+        {
+          "title": "Genel Energy issues Results to 30th June | Iraq Business News",
+          "link": "https://www.iraq-businessnews.com/2026/08/04/genel-energy-issues-results-to-30th-june/",
+          "source": "iraq-businessnews.com",
+          "pubDate": "2026-08-04T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Genel Energy issues Results to 30th June | Iraq Business News"
+        },
+        {
+          "title": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible",
+          "link": "https://allafrica.com/stories/202608040008.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-04T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible"
+        },
+        {
+          "title": "Genel Energy PLC : Unaudited results for the period ended 30 June 2026 | Company Announcement",
+          "link": "https://www.investegate.co.uk/announcement/eqs/genel-energy--genl/genel-energy-plc-unaudited-results-for-the-p-/9702685",
+          "source": "investegate.co.uk",
+          "pubDate": "2026-08-04T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Genel Energy PLC : Unaudited results for the period ended 30 June 2026 | Company Announcement"
+        },
+        {
+          "title": "US Signs Deal To Expand Its Military Presence in Somalia Bosaso on the Gulf of Aden",
+          "link": "https://news.antiwar.com/2026/08/03/us-signs-deal-to-expand-its-military-presence-in-somalias-bosaso-on-the-gulf-of-aden/",
+          "source": "news.antiwar.com",
+          "pubDate": "2026-08-03T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Signs Deal To Expand Its Military Presence in Somalia Bosaso on the Gulf of Aden"
+        },
+        {
+          "title": "AUSSOM Funding Cliff Sends Somalia Mission to the UN",
+          "link": "https://www.riotimesonline.com/aussom-funding-un-security-council-somalia-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-08-03T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AUSSOM Funding Cliff Sends Somalia Mission to the UN"
+        },
+        {
+          "title": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command",
+          "link": "https://wardheernews.com/prime-ministers-las-anod-visit-sparks-speculation-as-federal-government-announces-revival-of-historic-26th-military-command/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-02T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prime Minister Las Anod Visit Sparks Speculation as Federal Government Announces Revival of Historic 26th Military Command"
+        },
+        {
+          "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
+          "link": "http://www.jpost.com/opinion/article-903889",
+          "source": "jpost.com",
+          "pubDate": "2026-08-02T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How the Israel - Somaliland alliance rewrites American diplomacy"
+        },
+        {
+          "title": "How the Israel - Somaliland alliance rewrites American diplomacy",
+          "link": "https://www.jpost.com/opinion/article-903889",
+          "source": "jpost.com",
+          "pubDate": "2026-08-02T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How the Israel - Somaliland alliance rewrites American diplomacy"
+        },
+        {
+          "title": "AFRICOM Commander Dismisses Reports of U . S . Military Base in Berbera",
+          "link": "https://raxanreeb.com/africom-commander-dismisses-reports-of-u-s-military-base-in-berbera/",
+          "source": "raxanreeb.com",
+          "pubDate": "2026-08-01T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AFRICOM Commander Dismisses Reports of U . S . Military Base in Berbera"
         }
       ]
     },
@@ -89,13 +215,67 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Ethiopia: PM Abiy Inaugurates New Terminal At Bahir Dar Int'l Airport",
-          "link": "https://allafrica.com/stories/202608060676.html",
-          "description": "[ENA] Addis Ababa -- Prime Minister Abiy Ahmed has inaugurated a new terminal at Bahir Dar Dejazmach Belay Zeleke International Airport, marking a pivotal milestone for one of Ethiopia's primary aviation gateways.",
-          "pubDate": "Thu, 06 Aug 2026 17:13:25 GMT",
-          "source": "AllAfrica",
+          "title": "America Visa Bond Becomes Permanent on August 3 . Africa Will Feel It Most",
+          "link": "https://www.africa.com/headlines/americas-visa-bond-becomes-permanent-on-august-3-africa-will-feel-it-most",
+          "source": "africa.com",
+          "pubDate": "2026-08-07T00:00:00Z",
           "lang": "en",
-          "titleIt": "Ethiopia: PM Abiy Inaugurates New Terminal At Bahir Dar Int'l Airport"
+          "description": "",
+          "titleIt": "America Visa Bond Becomes Permanent on August 3 . Africa Will Feel It Most"
+        },
+        {
+          "title": "IndyCar Race at the National Mall : Morning Links for August 6 , 2026",
+          "link": "https://www.artnews.com/art-news/news/john-galliano-at-the-met-raises-questions-uk-show-of-sarah-cunningham-paintings-planned-and-more-morning-links-for-august-6-2026-1234794410/",
+          "source": "artnews.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "IndyCar Race at the National Mall : Morning Links for August 6 , 2026"
+        },
+        {
+          "title": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East",
+          "link": "https://foreignpolicy.com/2026/08/05/saudi-arabia-iran-israel-united-states-trump-uae-oil-houthis/?tpcc=recirc_trending062921",
+          "source": "foreignpolicy.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East"
+        },
+        {
+          "title": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams",
+          "link": "https://www.tanzanianewsreports.com/egypt-declares-strong-opposition-to-new-ethiopian-nile-dams/",
+          "source": "tanzanianewsreports.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams"
+        },
+        {
+          "title": "Ethiopia : PM Abiy Inaugurates New Terminal At Bahir Dar Intl Airport",
+          "link": "https://allafrica.com/stories/202608060676.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : PM Abiy Inaugurates New Terminal At Bahir Dar Intl Airport"
+        },
+        {
+          "title": "UN Watch Slams Eritrea UN Rights Forum Chair",
+          "link": "https://www.miragenews.com/un-watch-slams-eritreas-un-rights-forum-chair-1723205/",
+          "source": "miragenews.com",
+          "pubDate": "2026-08-06T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UN Watch Slams Eritrea UN Rights Forum Chair"
+        },
+        {
+          "title": "BRICS Culture Working Group meeting begins in Bhopal",
+          "link": "https://www.ummid.com/news/2026/8/6/brics-culture-working-group-meeting-begins-in-bhopal.html",
+          "source": "ummid.com",
+          "pubDate": "2026-08-06T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Culture Working Group meeting begins in Bhopal"
         },
         {
           "title": "Women in El-Obeid testify to rape during Sudan conflict",
@@ -107,6 +287,24 @@
           "titleIt": "Women in El-Obeid testify to rape during Sudan conflict"
         },
         {
+          "title": "LEAP OF FAITH – Awate . com",
+          "link": "https://awate.com/leap-of-faith/",
+          "source": "awate.com",
+          "pubDate": "2026-08-06T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "LEAP OF FAITH – Awate . com"
+        },
+        {
+          "title": "The power to paralyze a country by sea : Israel Navy unveils new vision",
+          "link": "https://www.ynetnews.com/article/bk4fy7mugx",
+          "source": "ynetnews.com",
+          "pubDate": "2026-08-06T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The power to paralyze a country by sea : Israel Navy unveils new vision"
+        },
+        {
           "title": "An Alliance for Vocational Training in Mozambique with Italy’s Support",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/06/an-alliance-for-vocational-training-in-mozambique-with-italys-support_3ef414b4-467a-4e7b-8d2b-9a8910a23fe5.html",
           "description": "(ANSA) - MAPUTO, 06 AGO - Mozambique’s Minister of Youth and Sports, Caifadine Paulo Manasse, opened the workshop “Alliance for the Future: Co-Investing in Training, Nurturing Talent,\" in Maputo Province on Thursday, August 6, calling for a new strategic partnership between the government, industry, and development partners, with the goal of transforming vocational training into a driver of industrialization and job creation. The event, organized by the Alberto Cassimo Institute for Vocational Training and Labor Studies (Ifpelac), is funded by the Italian government through the “Job Creation t",
@@ -114,6 +312,24 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "An Alliance for Vocational Training in Mozambique with Italy’s Support"
+        },
+        {
+          "title": "Rwanda receives 177 asylum seekers evacuated from Libya - Xinhua",
+          "link": "https://english.news.cn/20260806/63fc5114d07d4853b5afab890d2432a3/c.html",
+          "source": "english.news.cn",
+          "pubDate": "2026-08-06T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rwanda receives 177 asylum seekers evacuated from Libya - Xinhua"
+        },
+        {
+          "title": "Rwanda receives 177 asylum seekers evacuated from Libya - Xinhua",
+          "link": "https://english.news.cn/africa/20260806/a9dbdb2eb0fa4697b246c2d4bcd53585/c.html",
+          "source": "english.news.cn",
+          "pubDate": "2026-08-06T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rwanda receives 177 asylum seekers evacuated from Libya - Xinhua"
         },
         {
           "title": "Real Madrid sign Diomande in deal worth up to £120m",
@@ -125,6 +341,15 @@
           "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
         },
         {
+          "title": "India BRICS presidency faces serious challenges – The Frontier Post",
+          "link": "https://thefrontierpost.com/indias-brics-presidency-faces-serious-challenges/",
+          "source": "thefrontierpost.com",
+          "pubDate": "2026-08-06T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India BRICS presidency faces serious challenges – The Frontier Post"
+        },
+        {
           "title": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction",
           "link": "https://allafrica.com/stories/202608060534.html",
           "description": "[Addis Standard] JAKENN Publishing PLC wishes to inform its partners, supporters, members of the diplomatic community, human rights groups, press freedom organizations, and the public of a series of grave incidents targeting our organization over the past several days. On Saturday, 01 August 2026, Yonas Kedir, the Editor-in-Chief of Addis Standard, a publication by JAKENN Publishing PLC, reported being abducted by security personnel, physically assaulted, and held for approximately 24 hours while subjected to prolonged",
@@ -134,77 +359,321 @@
           "titleIt": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction"
         },
         {
-          "title": "Nigeria: Exclusive - Auto Dealer Reveals Details of Vehicle Purchases By Coup Suspect",
-          "link": "https://allafrica.com/stories/202608060141.html",
-          "description": "[Premium Times] PREMIUM TIMES is reporting for the first time details of some vehicle purchases allegedly carried out by the suspected mastermind of the 2025 failed coup in the thick of the planning towards the reported plot.",
-          "pubDate": "Thu, 06 Aug 2026 07:07:25 GMT",
-          "source": "AllAfrica",
+          "title": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility",
+          "link": "https://allafrica.com/stories/202608060479.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T13:15:00Z",
           "lang": "en",
-          "titleIt": "Nigeria: Exclusive - Auto Dealer Reveals Details of Vehicle Purchases By Coup Suspect"
+          "description": "",
+          "titleIt": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility"
         },
         {
-          "title": "Kenya: MPs Condemn Ethnic Profiling Over Fake Police Appointments List",
-          "link": "https://allafrica.com/stories/202608060065.html",
-          "description": "[Capital FM] Nairobi -- Members of the National Assembly have condemned what they termed a deliberate attempt to inflame ethnic tensions after a purported list circulated on social media alleging ethnic favouritism in the deployment of police officers commanding stations and divisions.",
-          "pubDate": "Thu, 06 Aug 2026 05:36:30 GMT",
-          "source": "AllAfrica",
+          "title": "BRICS Culture Working Group begins with focus on AI and Heritage",
+          "link": "https://www.siasat.com/brics-culture-working-group-begins-with-focus-on-ai-and-heritage-3519863/",
+          "source": "siasat.com",
+          "pubDate": "2026-08-06T11:15:00Z",
           "lang": "en",
-          "titleIt": "Kenya: MPs Condemn Ethnic Profiling Over Fake Police Appointments List"
+          "description": "",
+          "titleIt": "BRICS Culture Working Group begins with focus on AI and Heritage"
         },
         {
-          "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
-          "link": "http://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
-          "description": "U.S.-brokered peace efforts for Sudan have encountered new obstacles after the paramilitary Rapid Support Forces (RSF) rejected demands to withdraw from cities under their control and the Sudanese Armed Forces (SAF) insisted that any agreement must begin with the RSF's withdrawa",
-          "pubDate": "Tue, 04 Aug 2026 15:02:55 +0000",
-          "source": "Africanews",
+          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
+          "link": "https://allafrica.com/stories/202608060151.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
           "lang": "en",
-          "titleIt": "U.S.-brokered peace efforts for Sudan encounter new obstacles"
+          "description": "",
+          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
         },
         {
-          "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
-          "link": "https://www.ansa.it/english/news/politics/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_ba5525a0-cce7-4233-9fef-6005f8ac67bf.html",
-          "description": "(ANSA) - ROME, AUG 3 - Italy will propose the creation of EU migrant hubs outside the bloc along the lines of its centres in Albania at Tuesday's emergency meeting of European interior ministers following the arrival of thousands of migrants at the Spain's North African enclave of Ceuta last week, sources have said, confirming newspaper reports. Premier Giorgia Meloni's government has suspended arrangements regarding the Schengen agreement allowing for control-free movement between borders with Spain for a month following the events in Ceuta. Madrid and Italy's opposition parties have blasted ",
-          "pubDate": "Mon, 3 Aug 2026 16:05:22 +0200",
-          "source": "ANSA English",
+          "title": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework",
+          "link": "https://allafrica.com/stories/202608060164.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
           "lang": "en",
-          "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
-        },
-        {
-          "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
-          "link": "https://www.ansa.it/english/news/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_0a2b42db-7e8c-4226-8422-94e31b17210b.html",
-          "description": "(ANSA) - ROME, AUG 3 - Italy will propose the creation of EU migrant hubs outside the bloc along the lines of its centres in Albania at Tuesday's emergency meeting of European interior ministers following the arrival of thousands of migrants at the Spain's North African enclave of Ceuta last week, sources have said, confirming newspaper reports. Premier Giorgia Meloni's government has suspended arrangements regarding the Schengen agreement allowing for control-free movement between borders with Spain for a month following the events in Ceuta. Madrid and Italy's opposition parties have blasted ",
-          "pubDate": "Mon, 3 Aug 2026 11:38:13 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
-        },
-        {
-          "title": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/01/ambassador-prunas-the-mediterranean-games-are-an-opportunity-to-strengthen-dialogue_bdc52f1c-0fbc-4cc4-84c6-de8c072f5f70.html",
-          "description": "(ANSA) - TUNISI, 01 AGO - Ahead of the start of the Taranto 2026 Mediterranean Games, the Italian Embassy in Tunis, in collaboration with the Tunisian National Olympic Committee, organized an event to present the Games, which brought together at the “La Charmeuse” Residence a delegation of Tunisian athletes, representatives of sports federations, and great champions from the past and present. On this occasion, Ambassador Alessandro Prunas emphasized that “in an international context marked by growing tensions, the Taranto Mediterranean Games represent an important opportunity to strengthen, th",
-          "pubDate": "Sat, 1 Aug 2026 09:25:36 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Ambassador Prunas: ‘The Mediterranean Games are an opportunity to strengthen dialogue’"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Piyush Goyal holds bilateral talks with his Brazil , Egypt counterparts on sidelines of BRICS India 2026 , discusses trade , investment cooperation",
+          "link": "https://aninews.in/news/world/asia/piyush-goyal-holds-bilateral-talks-with-his-brazil-egypt-counterparts-on-sidelines-of-brics-india-2026-discusses-trade-investment-cooperation20260807045546/",
+          "source": "aninews.in",
+          "pubDate": "2026-08-07T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Piyush Goyal holds bilateral talks with his Brazil , Egypt counterparts on sidelines of BRICS India 2026 , discusses trade , investment cooperation"
+        },
+        {
+          "title": "Iran Regional Strategy Reshapes Gulf Conflict – Sri Lanka Guardian",
+          "link": "https://slguardian.org/irans-regional-strategy-reshapes-gulf-conflict/",
+          "source": "slguardian.org",
+          "pubDate": "2026-08-07T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran Regional Strategy Reshapes Gulf Conflict – Sri Lanka Guardian"
+        },
+        {
+          "title": "Pakistan diplomatic role in Iran - US peace process",
+          "link": "https://pakobserver.net/pakistans-diplomatic-role-in-iran-us-peace-process/",
+          "source": "pakobserver.net",
+          "pubDate": "2026-08-07T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pakistan diplomatic role in Iran - US peace process"
+        },
+        {
+          "title": "Iran aims to ban U . S . and Israeli ships from Strait of Hormuz and charge others a toll",
+          "link": "https://www.houstonpublicmedia.org/npr/2026/08/06/nx-s1-5923623/iran-aims-to-ban-u-s-and-israeli-ships-from-strait-of-hormuz-and-charge-others-a-toll/",
+          "source": "houstonpublicmedia.org",
+          "pubDate": "2026-08-07T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran aims to ban U . S . and Israeli ships from Strait of Hormuz and charge others a toll"
+        },
+        {
+          "title": "Saudi , Pakistan , Turkey deepen security ties amid regional tensions",
+          "link": "https://www.middle-east-online.com/en/saudi-pakistan-turkey-deepen-security-ties-amid-regional-tensions",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-08-07T04:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi , Pakistan , Turkey deepen security ties amid regional tensions"
+        },
+        {
+          "title": "Piyush Goyal holds bilateral talks with his Brazil , Egypt counterparts on sidelines of BRICS India 2026 , discusses trade , investment cooperation",
+          "link": "http://www.venezuelastar.com/news/279225554/piyush-goyal-holds-bilateral-talks-with-his-brazil-egypt-counterparts-on-sidelines-of-brics-india-2026-discusses-trade-investment-cooperation",
+          "source": "venezuelastar.com",
+          "pubDate": "2026-08-07T03:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Piyush Goyal holds bilateral talks with his Brazil , Egypt counterparts on sidelines of BRICS India 2026 , discusses trade , investment cooperation"
+        },
+        {
+          "title": "Nigeria mango industry can drive food security , create jobs – FG",
+          "link": "https://thesun.ng/nigerias-mango-industry-can-drive-food-security-create-jobs-fg/",
+          "source": "thesun.ng",
+          "pubDate": "2026-08-07T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nigeria mango industry can drive food security , create jobs – FG"
+        },
+        {
+          "title": "Sri Lanka Hirdaramani Group Sets Sights on Expanding Into Egypt Textile Industry",
+          "link": "https://www.lankanewspapers.com/2026/08/07/sri-lanka-s-hirdaramani-group-sets-sights-on-expanding-into-egypt-s-textile-industry",
+          "source": "lankanewspapers.com",
+          "pubDate": "2026-08-07T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sri Lanka Hirdaramani Group Sets Sights on Expanding Into Egypt Textile Industry"
+        },
+        {
+          "title": "Dow Jones dives 464 points as U . S . equity markets cool",
+          "link": "http://www.pittsburghstar.com/news/279225420/dow-jones-dives-464-points-as-u-s-equity-markets-cool",
+          "source": "pittsburghstar.com",
+          "pubDate": "2026-08-07T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dow Jones dives 464 points as U . S . equity markets cool"
+        },
+        {
+          "title": "Dow Jones dives 464 points as U . S . equity markets cool",
+          "link": "http://www.londonmercury.com/news/279225420/dow-jones-dives-464-points-as-u-s-equity-markets-cool",
+          "source": "londonmercury.com",
+          "pubDate": "2026-08-07T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dow Jones dives 464 points as U . S . equity markets cool"
+        },
+        {
+          "title": "Piyush Goyal holds bilateral talks with his Brazil , Egypt counterparts on sidelines of BRICS India 2026 , discusses trade , investment cooperation",
+          "link": "https://news.webindia123.com/news/Articles/World/20260807/4484201.html",
+          "source": "news.webindia123.com",
+          "pubDate": "2026-08-07T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Piyush Goyal holds bilateral talks with his Brazil , Egypt counterparts on sidelines of BRICS India 2026 , discusses trade , investment cooperation"
+        },
+        {
+          "title": "Dow Jones dives 464 points as U . S . equity markets cool",
+          "link": "http://www.argentinastar.com/news/279225420/dow-jones-dives-464-points-as-u-s-equity-markets-cool",
+          "source": "argentinastar.com",
+          "pubDate": "2026-08-07T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dow Jones dives 464 points as U . S . equity markets cool"
+        },
+        {
+          "title": "Piyush Goyal holds bilateral talks with his Brazil , Egypt counterparts on sidelines of BRICS India 2026 , discusses trade , investment cooperation",
+          "link": "http://www.argentinastar.com/news/279225554/piyush-goyal-holds-bilateral-talks-with-his-brazil-egypt-counterparts-on-sidelines-of-brics-india-2026-discusses-trade-investment-cooperation",
+          "source": "argentinastar.com",
+          "pubDate": "2026-08-07T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Piyush Goyal holds bilateral talks with his Brazil , Egypt counterparts on sidelines of BRICS India 2026 , discusses trade , investment cooperation"
+        },
+        {
+          "title": "Dow Jones dives 464 points as U . S . equity markets cool",
+          "link": "http://www.oklahomacitysun.com/news/279225420/dow-jones-dives-464-points-as-u-s-equity-markets-cool",
+          "source": "oklahomacitysun.com",
+          "pubDate": "2026-08-07T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dow Jones dives 464 points as U . S . equity markets cool"
+        },
+        {
+          "title": "Dow Jones dives 464 points as U . S . equity markets cool",
+          "link": "http://www.austinglobe.com/news/279225420/dow-jones-dives-464-points-as-u-s-equity-markets-cool",
+          "source": "austinglobe.com",
+          "pubDate": "2026-08-07T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dow Jones dives 464 points as U . S . equity markets cool"
+        },
+        {
+          "title": "Dow Jones dives 464 points as U . S . equity markets cool",
+          "link": "http://www.iranherald.com/news/279225420/dow-jones-dives-464-points-as-u-s-equity-markets-cool",
+          "source": "iranherald.com",
+          "pubDate": "2026-08-07T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dow Jones dives 464 points as U . S . equity markets cool"
+        },
+        {
+          "title": "Dow Jones dives 464 points as U . S . equity markets cool",
+          "link": "http://www.taiwansun.com/news/279225420/dow-jones-dives-464-points-as-u-s-equity-markets-cool",
+          "source": "taiwansun.com",
+          "pubDate": "2026-08-07T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dow Jones dives 464 points as U . S . equity markets cool"
+        },
+        {
+          "title": "Piyush Goyal holds bilateral talks with his Brazil , Egypt counterparts on sidelines of BRICS India 2026 , discusses trade , investment cooperation",
+          "link": "http://www.calcuttanews.net/news/279225554/piyush-goyal-holds-bilateral-talks-with-his-brazil-egypt-counterparts-on-sidelines-of-brics-india-2026-discusses-trade-investment-cooperation",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-08-07T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Piyush Goyal holds bilateral talks with his Brazil , Egypt counterparts on sidelines of BRICS India 2026 , discusses trade , investment cooperation"
+        },
+        {
+          "title": "Dow Jones dives 464 points as U . S . equity markets cool",
+          "link": "http://www.texasguardian.com/news/279225420/dow-jones-dives-464-points-as-u-s-equity-markets-cool",
+          "source": "texasguardian.com",
+          "pubDate": "2026-08-07T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dow Jones dives 464 points as U . S . equity markets cool"
+        },
+        {
+          "title": "Dow Jones dives 464 points as U . S . equity markets cool",
+          "link": "http://www.newjerseytelegraph.com/news/279225420/dow-jones-dives-464-points-as-u-s-equity-markets-cool",
+          "source": "newjerseytelegraph.com",
+          "pubDate": "2026-08-07T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dow Jones dives 464 points as U . S . equity markets cool"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams",
+          "link": "https://www.tanzanianewsreports.com/egypt-declares-strong-opposition-to-new-ethiopian-nile-dams/",
+          "source": "tanzanianewsreports.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams"
+        },
+        {
+          "title": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times",
+          "link": "https://medafricatimes.com/46583-ethiopia-accuses-egypt-of-using-gerd-dispute-to-divert-attention-from-domestic-challenges.html",
+          "source": "medafricatimes.com",
+          "pubDate": "2026-08-06T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times"
+        },
+        {
+          "title": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility",
+          "link": "https://allafrica.com/stories/202608060479.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility"
+        },
+        {
+          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
+          "link": "https://allafrica.com/stories/202608060151.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
+        },
+        {
+          "title": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework",
+          "link": "https://allafrica.com/stories/202608060164.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework"
+        },
+        {
+          "title": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President",
+          "link": "https://allafrica.com/stories/202608060100.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President"
+        },
+        {
+          "title": "Africa : Ethiopia Well Positioned to Become Africa Energy Hub , Says Ministry",
+          "link": "https://allafrica.com/stories/202608060077.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Ethiopia Well Positioned to Become Africa Energy Hub , Says Ministry"
+        },
+        {
+          "title": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project",
+          "link": "https://allafrica.com/stories/202608050079.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-05T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project"
+        },
+        {
+          "title": "Egypt says it wont allow new Ethiopian dams on Nile River",
+          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-won-t-allow-new-ethiopian-dams-on-nile-river/4018528",
+          "source": "aa.com.tr",
+          "pubDate": "2026-08-04T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says it wont allow new Ethiopian dams on Nile River"
+        },
+        {
+          "title": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa",
+          "link": "https://www.channelafrica.co.za/channelafrica/news/renewed-tigray-clashes-could-deepen-horn-of-africa-instability/",
+          "source": "channelafrica.co.za",
+          "pubDate": "2026-08-04T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa"
+        },
         {
           "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
           "link": "http://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
@@ -213,6 +682,87 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "U.S.-brokered peace efforts for Sudan encounter new obstacles"
+        },
+        {
+          "title": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles",
+          "link": "https://idrw.org/pakistans-unsc-push-on-indus-waters-treaty-faces-major-legal-and-political-hurdles/",
+          "source": "idrw.org",
+          "pubDate": "2026-08-02T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles"
+        },
+        {
+          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
+          "link": "https://www.thereporterethiopia.com/51980/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-01T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
+        },
+        {
+          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
+          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
+          "source": "mondaq.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
+        },
+        {
+          "title": "A Movement of World Citizens Could Change the Course of History",
+          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-07-30T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A Movement of World Citizens Could Change the Course of History"
+        },
+        {
+          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
+          "link": "https://allafrica.com/stories/202607270583.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
+        },
+        {
+          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
+          "link": "https://allafrica.com/stories/202607270582.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
+          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "recorder.com",
+          "pubDate": "2026-07-27T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
+          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "gazettenet.com",
+          "pubDate": "2026-07-27T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
+        },
+        {
+          "title": "The return of the African megaproject",
+          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
+          "source": "hindustantimes.com",
+          "pubDate": "2026-07-25T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The return of the African megaproject"
         }
       ]
     }
