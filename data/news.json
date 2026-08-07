@@ -1,29 +1,11 @@
 {
-  "generatedAt": "2026-08-07T15:11:35.245Z",
+  "generatedAt": "2026-08-07T17:12:09.657Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "I fatti del giorno - Nord Africa (2)",
-          "link": "https://www.agenzianova.com/a/6a75f502413f54.49142009/7681491/2026-08-07/i-fatti-del-giorno-nord-africa-2",
-          "description": "07 ago 17:00 - (Agenzia Nova) - Egitto-Ciad: firmati accordi di cooperazione in materia di di infrastrutture, sanita' e istruzione - Egitto... (Res)",
-          "pubDate": "2026-08-07T17:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "I fatti del giorno - Nord Africa (2)"
-        },
-        {
-          "title": "I fatti del giorno - Africa sub-sahariana (2)",
-          "link": "https://www.agenzianova.com/a/6a75f50242faa7.70636324/7681322/2026-08-07/i-fatti-del-giorno-africa-sub-sahariana-2",
-          "description": "07 ago 17:00 - (Agenzia Nova) - Egitto-Ciad: firmati accordi di cooperazione in materia di di infrastrutture, sanita' e istruzione - Egitto... (Res)",
-          "pubDate": "2026-08-07T17:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "I fatti del giorno - Africa sub-sahariana (2)"
-        },
         {
           "title": "EU to Support Libya in the Fight Against Terrorism and for Border Security",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/eu-to-support-libya-in-the-fight-against-terrorism-and-for-border-security_742e172c-5d23-469b-907d-8645ce88d816.html",
@@ -66,15 +48,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "I fatti del giorno - Africa sub-sahariana (4)",
-          "link": "https://www.agenzianova.com/a/6a75f50242be65.40373238/7681324/2026-08-07/i-fatti-del-giorno-africa-sub-sahariana-4",
-          "description": "07 ago 17:00 - (Agenzia Nova) - Etiopia: arrestato caporedattore del quotidiano \"Addis Standard\" - Il caporedattore del quotidiano online indipendente... (Res)",
-          "pubDate": "2026-08-07T17:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "I fatti del giorno - Africa sub-sahariana (4)"
-        },
-        {
           "title": "Kenya: Murkomen Warns Against Illegal Use of Police Military, Style Uniforms",
           "link": "https://allafrica.com/stories/202608070502.html",
           "description": "[Capital FM] Nairobi -- Interior Cabinet Secretary Kipchumba Murkomen has directed Inspector General of Police Douglas Kanja to move with speed against individuals wearing camouflage and other security-style uniforms while allegedly posing as police officers or members of specialised security units.",
@@ -107,6 +80,24 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Tanzania : CAF Champions League and Confederation Cup - Tz Envoys Learn Their Routes",
+          "link": "https://allafrica.com/stories/202608070320.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-07T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tanzania : CAF Champions League and Confederation Cup - Tz Envoys Learn Their Routes"
+        },
+        {
+          "title": "Swedish gummies , Parisian linens and Moroccan mint tea : what travel experts always bring home from their trips",
+          "link": "https://www.aol.co.uk/articles/swedish-gummies-parisian-linens-moroccan-140019000.html",
+          "source": "aol.co.uk",
+          "pubDate": "2026-08-07T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Swedish gummies , Parisian linens and Moroccan mint tea : what travel experts always bring home from their trips"
+        },
+        {
           "title": "Tanzania: Uganda, Tanzania Seal Deal to Develop Tanga Into Regional Energy Hub",
           "link": "https://allafrica.com/stories/202608070230.html",
           "description": "[Independent (Kampala)] Dar es Salaam -- President Yoweri Kaguta Museveni of Uganda and Samia Suluhu Hassan of Tanzania have endorsed a landmark Memorandum of Understanding (MoU) aimed at reshaping East Africa's energy economy by shifting the region's focus from crude oil exports to building an integrated regional energy and industrial hub.",
@@ -114,6 +105,78 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Tanzania: Uganda, Tanzania Seal Deal to Develop Tanga Into Regional Energy Hub"
+        },
+        {
+          "title": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power",
+          "link": "https://www.spotlightnepal.com/2026/08/07/electricity-capital-not-just-commodity-rethinking-nepals-electricity-strategy-era-surplus-power/",
+          "source": "spotlightnepal.com",
+          "pubDate": "2026-08-07T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power"
+        },
+        {
+          "title": "America Visa Bond Becomes Permanent on August 3 . Africa Will Feel It Most",
+          "link": "https://www.africa.com/headlines/americas-visa-bond-becomes-permanent-on-august-3-africa-will-feel-it-most",
+          "source": "africa.com",
+          "pubDate": "2026-08-07T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "America Visa Bond Becomes Permanent on August 3 . Africa Will Feel It Most"
+        },
+        {
+          "title": "IndyCar Race at the National Mall : Morning Links for August 6 , 2026",
+          "link": "https://www.artnews.com/art-news/news/john-galliano-at-the-met-raises-questions-uk-show-of-sarah-cunningham-paintings-planned-and-more-morning-links-for-august-6-2026-1234794410/",
+          "source": "artnews.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "IndyCar Race at the National Mall : Morning Links for August 6 , 2026"
+        },
+        {
+          "title": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East",
+          "link": "https://foreignpolicy.com/2026/08/05/saudi-arabia-iran-israel-united-states-trump-uae-oil-houthis/?tpcc=recirc_trending062921",
+          "source": "foreignpolicy.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East"
+        },
+        {
+          "title": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams",
+          "link": "https://www.tanzanianewsreports.com/egypt-declares-strong-opposition-to-new-ethiopian-nile-dams/",
+          "source": "tanzanianewsreports.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams"
+        },
+        {
+          "title": "Ethiopia : PM Abiy Inaugurates New Terminal At Bahir Dar Intl Airport",
+          "link": "https://allafrica.com/stories/202608060676.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : PM Abiy Inaugurates New Terminal At Bahir Dar Intl Airport"
+        },
+        {
+          "title": "UN Watch Slams Eritrea UN Rights Forum Chair",
+          "link": "https://www.miragenews.com/un-watch-slams-eritreas-un-rights-forum-chair-1723205/",
+          "source": "miragenews.com",
+          "pubDate": "2026-08-06T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UN Watch Slams Eritrea UN Rights Forum Chair"
+        },
+        {
+          "title": "BRICS Culture Working Group meeting begins in Bhopal",
+          "link": "https://www.ummid.com/news/2026/8/6/brics-culture-working-group-meeting-begins-in-bhopal.html",
+          "source": "ummid.com",
+          "pubDate": "2026-08-06T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Culture Working Group meeting begins in Bhopal"
         },
         {
           "title": "Women in El-Obeid testify to rape during Sudan conflict",
@@ -125,6 +188,24 @@
           "titleIt": "Women in El-Obeid testify to rape during Sudan conflict"
         },
         {
+          "title": "LEAP OF FAITH – Awate . com",
+          "link": "https://awate.com/leap-of-faith/",
+          "source": "awate.com",
+          "pubDate": "2026-08-06T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "LEAP OF FAITH – Awate . com"
+        },
+        {
+          "title": "The power to paralyze a country by sea : Israel Navy unveils new vision",
+          "link": "https://www.ynetnews.com/article/bk4fy7mugx",
+          "source": "ynetnews.com",
+          "pubDate": "2026-08-06T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The power to paralyze a country by sea : Israel Navy unveils new vision"
+        },
+        {
           "title": "An Alliance for Vocational Training in Mozambique with Italy’s Support",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/06/an-alliance-for-vocational-training-in-mozambique-with-italys-support_3ef414b4-467a-4e7b-8d2b-9a8910a23fe5.html",
           "description": "(ANSA) - MAPUTO, 06 AGO - Mozambique’s Minister of Youth and Sports, Caifadine Paulo Manasse, opened the workshop “Alliance for the Future: Co-Investing in Training, Nurturing Talent,\" in Maputo Province on Thursday, August 6, calling for a new strategic partnership between the government, industry, and development partners, with the goal of transforming vocational training into a driver of industrialization and job creation. The event, organized by the Alberto Cassimo Institute for Vocational Training and Labor Studies (Ifpelac), is funded by the Italian government through the “Job Creation t",
@@ -132,6 +213,24 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "An Alliance for Vocational Training in Mozambique with Italy’s Support"
+        },
+        {
+          "title": "Rwanda receives 177 asylum seekers evacuated from Libya - Xinhua",
+          "link": "https://english.news.cn/20260806/63fc5114d07d4853b5afab890d2432a3/c.html",
+          "source": "english.news.cn",
+          "pubDate": "2026-08-06T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rwanda receives 177 asylum seekers evacuated from Libya - Xinhua"
+        },
+        {
+          "title": "Rwanda receives 177 asylum seekers evacuated from Libya - Xinhua",
+          "link": "https://english.news.cn/africa/20260806/a9dbdb2eb0fa4697b246c2d4bcd53585/c.html",
+          "source": "english.news.cn",
+          "pubDate": "2026-08-06T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rwanda receives 177 asylum seekers evacuated from Libya - Xinhua"
         },
         {
           "title": "Real Madrid sign Diomande in deal worth up to £120m",
@@ -143,22 +242,22 @@
           "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
         },
         {
-          "title": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting",
-          "link": "https://www.ansa.it/english/news/2026/08/03/italy-to-propose-albania-style-eu-migrant-hubs-at-post-ceuta-meeting_0a2b42db-7e8c-4226-8422-94e31b17210b.html",
-          "description": "(ANSA) - ROME, AUG 3 - Italy will propose the creation of EU migrant hubs outside the bloc along the lines of its centres in Albania at Tuesday's emergency meeting of European interior ministers following the arrival of thousands of migrants at the Spain's North African enclave of Ceuta last week, sources have said, confirming newspaper reports. Premier Giorgia Meloni's government has suspended arrangements regarding the Schengen agreement allowing for control-free movement between borders with Spain for a month following the events in Ceuta. Madrid and Italy's opposition parties have blasted ",
-          "pubDate": "Mon, 3 Aug 2026 11:38:13 +0200",
-          "source": "ANSA English",
+          "title": "India BRICS presidency faces serious challenges – The Frontier Post",
+          "link": "https://thefrontierpost.com/indias-brics-presidency-faces-serious-challenges/",
+          "source": "thefrontierpost.com",
+          "pubDate": "2026-08-06T13:45:00Z",
           "lang": "en",
-          "titleIt": "Italy to propose Albania-style EU migrant hubs at post-Ceuta meeting"
+          "description": "",
+          "titleIt": "India BRICS presidency faces serious challenges – The Frontier Post"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility",
+          "link": "https://allafrica.com/stories/202608060479.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T13:15:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility"
         }
       ]
     },
@@ -178,7 +277,188 @@
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": []
+      "items": [
+        {
+          "title": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power",
+          "link": "https://www.spotlightnepal.com/2026/08/07/electricity-capital-not-just-commodity-rethinking-nepals-electricity-strategy-era-surplus-power/",
+          "source": "spotlightnepal.com",
+          "pubDate": "2026-08-07T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power"
+        },
+        {
+          "title": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams",
+          "link": "https://www.tanzanianewsreports.com/egypt-declares-strong-opposition-to-new-ethiopian-nile-dams/",
+          "source": "tanzanianewsreports.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams"
+        },
+        {
+          "title": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times",
+          "link": "https://medafricatimes.com/46583-ethiopia-accuses-egypt-of-using-gerd-dispute-to-divert-attention-from-domestic-challenges.html",
+          "source": "medafricatimes.com",
+          "pubDate": "2026-08-06T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times"
+        },
+        {
+          "title": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility",
+          "link": "https://allafrica.com/stories/202608060479.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility"
+        },
+        {
+          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
+          "link": "https://allafrica.com/stories/202608060151.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
+        },
+        {
+          "title": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework",
+          "link": "https://allafrica.com/stories/202608060164.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework"
+        },
+        {
+          "title": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President",
+          "link": "https://allafrica.com/stories/202608060100.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President"
+        },
+        {
+          "title": "Africa : Ethiopia Well Positioned to Become Africa Energy Hub , Says Ministry",
+          "link": "https://allafrica.com/stories/202608060077.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Ethiopia Well Positioned to Become Africa Energy Hub , Says Ministry"
+        },
+        {
+          "title": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project",
+          "link": "https://allafrica.com/stories/202608050079.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-05T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project"
+        },
+        {
+          "title": "Egypt says it wont allow new Ethiopian dams on Nile River",
+          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-won-t-allow-new-ethiopian-dams-on-nile-river/4018528",
+          "source": "aa.com.tr",
+          "pubDate": "2026-08-04T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says it wont allow new Ethiopian dams on Nile River"
+        },
+        {
+          "title": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa",
+          "link": "https://www.channelafrica.co.za/channelafrica/news/renewed-tigray-clashes-could-deepen-horn-of-africa-instability/",
+          "source": "channelafrica.co.za",
+          "pubDate": "2026-08-04T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa"
+        },
+        {
+          "title": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles",
+          "link": "https://idrw.org/pakistans-unsc-push-on-indus-waters-treaty-faces-major-legal-and-political-hurdles/",
+          "source": "idrw.org",
+          "pubDate": "2026-08-02T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles"
+        },
+        {
+          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
+          "link": "https://www.thereporterethiopia.com/51980/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-01T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
+        },
+        {
+          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
+          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
+          "source": "mondaq.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
+        },
+        {
+          "title": "A Movement of World Citizens Could Change the Course of History",
+          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-07-30T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A Movement of World Citizens Could Change the Course of History"
+        },
+        {
+          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
+          "link": "https://allafrica.com/stories/202607270583.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
+        },
+        {
+          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
+          "link": "https://allafrica.com/stories/202607270582.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
+          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "recorder.com",
+          "pubDate": "2026-07-27T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
+          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "gazettenet.com",
+          "pubDate": "2026-07-27T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
+        },
+        {
+          "title": "The return of the African megaproject",
+          "link": "https://www.hindustantimes.com/world-news/the-return-of-the-african-megaproject-101784987044563.html",
+          "source": "hindustantimes.com",
+          "pubDate": "2026-07-25T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The return of the African megaproject"
+        }
+      ]
     }
   }
 }
