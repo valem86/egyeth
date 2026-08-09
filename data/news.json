@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-09T10:54:17.515Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-08-09T13:18:48.482Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Libia: ministro Esteri Egitto, \"nostro approccio volto a risolvere cause profonde della crisi\" (4)",
+          "link": "https://www.agenzianova.com/a/6a787dc65c5858.70490885/7684212/2026-08-09/libia-ministro-esteri-egitto-nostro-approccio-volto-a-risolvere-cause-profonde-della-crisi-4",
+          "description": "09 ago 12:48 - (Agenzia Nova) - \"Stiamo lavorando con i nostri partner per porre fine alla guerra in Sudan e alleviare le sofferenze del fraterno... (Cae)",
+          "pubDate": "2026-08-09T12:48:18+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Libia: ministro Esteri Egitto, \"nostro approccio volto a risolvere cause profonde della crisi\" (4)"
+        },
         {
           "title": "EU to Support Libya in the Fight Against Terrorism and for Border Security",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/eu-to-support-libya-in-the-fight-against-terrorism-and-for-border-security_742e172c-5d23-469b-907d-8645ce88d816.html",
@@ -23,66 +32,30 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions",
-          "link": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260807-rferl01.htm",
-          "source": "globalsecurity.org",
-          "pubDate": "2026-08-08T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions"
-        },
-        {
-          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
-          "link": "https://www.thereporterethiopia.com/52198/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-08T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
-        },
-        {
-          "title": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative",
-          "link": "https://wardheernews.com/who-owns-the-credit-minister-presents-world-bank-funded-hargeisa-project-as-a-federal-government-initiative/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-08T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative"
-        },
-        {
-          "title": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development",
-          "link": "https://horseedmedia.net/somaliland-president-cirro-meets-international-representatives-in-nairobi-to-discuss-security-and-development/424582/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-08-07T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development"
-        },
-        {
-          "title": "Israeli Navy conducts largest drill since Oct . 7",
-          "link": "https://www.clevelandjewishnews.com/news/world_news/israeli-navy-conducts-largest-drill-since-oct-7/article_9e62e6ad-ec7f-58e1-8776-741d7a792d56.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-08-07T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israeli Navy conducts largest drill since Oct . 7"
-        },
-        {
-          "title": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night",
-          "link": "https://www.fairobserver.com/region/middle_east_north_africa/riyadhs-sudan-contradiction-mediator-by-day-arms-broker-by-night/",
-          "source": "fairobserver.com",
-          "pubDate": "2026-08-07T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night"
-        },
         {
           "title": "Kenya: Murkomen Warns Against Illegal Use of Police Military, Style Uniforms",
           "link": "https://allafrica.com/stories/202608070502.html",
@@ -102,33 +75,6 @@
           "titleIt": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya"
         },
         {
-          "title": "Turkiye Erdogan visits Saudi Arabia : What to expect - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/turkiyes-erdogan-visits-saudi-arabia-what-to-expect/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-08-07T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkiye Erdogan visits Saudi Arabia : What to expect - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
-        },
-        {
-          "title": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East",
-          "link": "https://foreignpolicy.com/2026/08/05/saudi-arabia-iran-israel-united-states-trump-uae-oil-houthis/?tpcc=recirc_trending062921",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-08-06T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East"
-        },
-        {
-          "title": "The power to paralyze a country by sea : Israel Navy unveils new vision",
-          "link": "https://www.ynetnews.com/article/bk4fy7mugx",
-          "source": "ynetnews.com",
-          "pubDate": "2026-08-06T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The power to paralyze a country by sea : Israel Navy unveils new vision"
-        },
-        {
           "title": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction",
           "link": "https://allafrica.com/stories/202608060534.html",
           "description": "[Addis Standard] JAKENN Publishing PLC wishes to inform its partners, supporters, members of the diplomatic community, human rights groups, press freedom organizations, and the public of a series of grave incidents targeting our organization over the past several days. On Saturday, 01 August 2026, Yonas Kedir, the Editor-in-Chief of Addis Standard, a publication by JAKENN Publishing PLC, reported being abducted by security personnel, physically assaulted, and held for approximately 24 hours while subjected to prolonged",
@@ -138,76 +84,13 @@
           "titleIt": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction"
         },
         {
-          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
-          "link": "https://allafrica.com/stories/202608060151.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-06T08:15:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
-        },
-        {
-          "title": "Three Federal States , One Political Strategy , and Somalia Most Dangerous Gamble",
-          "link": "https://wardheernews.com/three-federal-states-one-political-strategy-and-somalias-most-dangerous-gamble/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-06T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Three Federal States , One Political Strategy , and Somalia Most Dangerous Gamble"
-        },
-        {
-          "title": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness",
-          "link": "https://www.theyeshivaworld.com/news/israel-news/2582738/red-sea-attack-indian-cargo-ship-sinks-off-yemen-as-israel-boosts-naval-readiness.html",
-          "source": "theyeshivaworld.com",
-          "pubDate": "2026-08-05T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness"
-        },
-        {
-          "title": "Bristol man accused of trying to join ISIS said  dying was not a problem , court told",
-          "link": "https://www.bristolpost.co.uk/news/bristol-news/bristol-man-accused-trying-join-11094389",
-          "source": "bristolpost.co.uk",
-          "pubDate": "2026-08-05T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Bristol man accused of trying to join ISIS said  dying was not a problem , court told"
-        },
-        {
-          "title": "Sudan : Liberal Peacebuilding and the Price of Impunity",
-          "link": "https://newpol.org/issue_post/sudan-liberal-peacebuilding-and-the-price-of-impunity/",
-          "source": "newpol.org",
-          "pubDate": "2026-08-04T19:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Liberal Peacebuilding and the Price of Impunity"
-        },
-        {
-          "title": "Has the UAE meteoric rise reached its limit ?",
-          "link": "https://www.middleeasteye.net/opinion/has-uaes-meteoric-rise-reached-its-limit",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-04T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Has the UAE meteoric rise reached its limit ?"
-        },
-        {
-          "title": "Genel Energy issues Results to 30th June | Iraq Business News",
-          "link": "https://www.iraq-businessnews.com/2026/08/04/genel-energy-issues-results-to-30th-june/",
-          "source": "iraq-businessnews.com",
-          "pubDate": "2026-08-04T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Genel Energy issues Results to 30th June | Iraq Business News"
-        },
-        {
-          "title": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible",
-          "link": "https://allafrica.com/stories/202608040008.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-04T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -276,6 +159,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -283,19 +175,200 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "The first Senegalese selected for the “New Destinies” project visited the embassy",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/the-first-senegalese-selected-for-the-new-destinies-project-visited_4bf68272-c586-47bf-bc20-f242c1b3b863.html",
-          "description": "(ANSA) - IL CAIRO, 07 AGO - The Italian Ambassador to Dakar, Michele Tommasi, welcomed the first twelve Senegalese workers who will soon take part in the “New Destinies – New Horizons” project in Italy, in the presence of representatives from institutions, training organizations, and partners involved in the initiative. The program, managed by Umana, an Italian agency specializing in employment services, recruitment, and vocational training, was developed in collaboration with the Italian Confederation of Trade Unions (CISL) in Venice, the National Association Beyond Borders (ANOLF) in Venice,",
-          "pubDate": "Fri, 7 Aug 2026 12:08:40 +0200",
-          "source": "ANSA English",
+          "title": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources",
+          "link": "http://www.somdnews.com/ap/world/cyprus-natural-gas-to-supply-europe-by-first-half-of-2028-minister-says-as-eu/article_a91228b5-8d4f-5ca0-a141-8adffb64378c.html",
+          "source": "somdnews.com",
+          "pubDate": "2026-08-09T12:15:00Z",
           "lang": "en",
-          "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
+          "description": "",
+          "titleIt": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources"
+        },
+        {
+          "title": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources",
+          "link": "https://www.mankatofreepress.com/news/business/cyprus-natural-gas-to-supply-europe-by-first-half-of-2028-minister-says-as-eu/article_515ee7a2-d2b4-505a-8a75-b790bb440a79.html",
+          "source": "mankatofreepress.com",
+          "pubDate": "2026-08-09T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources"
+        },
+        {
+          "title": "Iran Guards say wont reopen Hormuz without US meeting all Tehran conditions",
+          "link": "https://www.hurriyetdailynews.com/iran-guards-say-wont-reopen-hormuz-without-us-meeting-all-tehrans-conditions-225394",
+          "source": "hurriyetdailynews.com",
+          "pubDate": "2026-08-09T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran Guards say wont reopen Hormuz without US meeting all Tehran conditions"
+        },
+        {
+          "title": "Iran sets conditions for restoring transit through Strait of Hormuz",
+          "link": "https://www.geo.tv/latest/676783-iran-sets-conditions-for-restoring-transit-through-strait-of-hormuz",
+          "source": "geo.tv",
+          "pubDate": "2026-08-09T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran sets conditions for restoring transit through Strait of Hormuz"
+        },
+        {
+          "title": "The US Back in Ethiopia , a New Hub of Major Power Competition",
+          "link": "https://www.theepochtimes.com/opinion/the-us-back-in-ethiopia-a-new-hub-of-major-power-competition-6072382",
+          "source": "theepochtimes.com",
+          "pubDate": "2026-08-09T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The US Back in Ethiopia , a New Hub of Major Power Competition"
+        },
+        {
+          "title": "Makkah defence pact  purely defensive , not targeted at any country : Dar",
+          "link": "https://tribune.com.pk/story/2622943/makkah-defence-pact-purely-defensive-not-targeted-at-any-country-dar",
+          "source": "tribune.com.pk",
+          "pubDate": "2026-08-09T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Makkah defence pact  purely defensive , not targeted at any country : Dar"
+        },
+        {
+          "title": "Cyprus natural gas to supply Europe by first half of 2028 , minister says",
+          "link": "https://abcnews.com/International/wireStory/cyprus-natural-gas-supply-europe-half-2028-minister-135495626",
+          "source": "abcnews.com",
+          "pubDate": "2026-08-09T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cyprus natural gas to supply Europe by first half of 2028 , minister says"
+        },
+        {
+          "title": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources",
+          "link": "http://www.goskagit.com/news/world/cyprus-natural-gas-to-supply-europe-by-first-half-of-2028-minister-says-as-eu/article_f11095e3-a4a2-524f-8190-e6ee76a16ac3.html",
+          "source": "goskagit.com",
+          "pubDate": "2026-08-09T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources"
+        },
+        {
+          "title": "Voices from the Arab press : A new pathway for Lebanon",
+          "link": "http://www.jpost.com/middle-east/article-904732",
+          "source": "jpost.com",
+          "pubDate": "2026-08-09T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Voices from the Arab press : A new pathway for Lebanon"
+        },
+        {
+          "title": "No reopening of Hormuz unless US meets conditions : IRGC",
+          "link": "https://www.omanobserver.om/article/1194180/world/region/no-reopening-of-hormuz-unless-us-meets-conditions-irgc",
+          "source": "omanobserver.om",
+          "pubDate": "2026-08-09T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "No reopening of Hormuz unless US meets conditions : IRGC"
+        },
+        {
+          "title": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources",
+          "link": "http://www.leadertelegram.com/news/world/cyprus-natural-gas-to-supply-europe-by-first-half-of-2028-minister-says-as-eu/article_647aa713-102a-540f-9f17-d7d9dafc71f3.html",
+          "source": "leadertelegram.com",
+          "pubDate": "2026-08-09T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources"
+        },
+        {
+          "title": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact",
+          "link": "https://www.ynetnews.com/opinions-analysis/article/rjmp11isifl",
+          "source": "ynetnews.com",
+          "pubDate": "2026-08-09T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact"
+        },
+        {
+          "title": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources",
+          "link": "http://www.cecildaily.com/ap/world/cyprus-natural-gas-to-supply-europe-by-first-half-of-2028-minister-says-as-eu/article_3be545b7-1863-5943-9329-812ca1ad214d.html",
+          "source": "cecildaily.com",
+          "pubDate": "2026-08-09T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources"
+        },
+        {
+          "title": "Libia: ministro Esteri Egitto, \"nostro approccio volto a risolvere cause profonde della crisi\" (5)",
+          "link": "https://www.agenzianova.com/a/6a787dc65c3845.33632053/7684213/2026-08-09/libia-ministro-esteri-egitto-nostro-approccio-volto-a-risolvere-cause-profonde-della-crisi-5",
+          "description": "09 ago 12:48 - (Agenzia Nova) - Per quanto riguarda la regione del Corno d'Africa, il ministro egiziano ha spiegato che Il Cairo \"ha un orientamento... (Cae)",
+          "pubDate": "2026-08-09T12:48:18+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Libia: ministro Esteri Egitto, \"nostro approccio volto a risolvere cause profonde della crisi\" (5)"
+        },
+        {
+          "title": "Libia: ministro Esteri Egitto, \"nostro approccio volto a risolvere cause profonde della crisi\" (4)",
+          "link": "https://www.agenzianova.com/a/6a787dc65c5858.70490885/7684212/2026-08-09/libia-ministro-esteri-egitto-nostro-approccio-volto-a-risolvere-cause-profonde-della-crisi-4",
+          "description": "09 ago 12:48 - (Agenzia Nova) - \"Stiamo lavorando con i nostri partner per porre fine alla guerra in Sudan e alleviare le sofferenze del fraterno... (Cae)",
+          "pubDate": "2026-08-09T12:48:18+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Libia: ministro Esteri Egitto, \"nostro approccio volto a risolvere cause profonde della crisi\" (4)"
+        },
+        {
+          "title": "Libia: ministro Esteri Egitto, \"nostro approccio volto a risolvere cause profonde della crisi\" (3)",
+          "link": "https://www.agenzianova.com/a/6a787dc65c79f3.78224920/7684211/2026-08-09/libia-ministro-esteri-egitto-nostro-approccio-volto-a-risolvere-cause-profonde-della-crisi-3",
+          "description": "09 ago 12:48 - (Agenzia Nova) - Nel corso dell'intervista, Abdelatty ha affrontato anche la situazione in Sudan. \"L'Egitto attribuisce particolare... (Cae)",
+          "pubDate": "2026-08-09T12:48:18+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Libia: ministro Esteri Egitto, \"nostro approccio volto a risolvere cause profonde della crisi\" (3)"
+        },
+        {
+          "title": "Libia: ministro Esteri Egitto, \"nostro approccio volto a risolvere cause profonde della crisi\" (2)",
+          "link": "https://www.agenzianova.com/a/6a787dc65c9af1.97599933/7684210/2026-08-09/libia-ministro-esteri-egitto-nostro-approccio-volto-a-risolvere-cause-profonde-della-crisi-2",
+          "description": "09 ago 12:48 - (Agenzia Nova) - A livello regionale, ha ricordato Abdelatty, l'Egitto ha riattivato il meccanismo tripartito con Algeria e... (Cae)",
+          "pubDate": "2026-08-09T12:48:18+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Libia: ministro Esteri Egitto, \"nostro approccio volto a risolvere cause profonde della crisi\" (2)"
+        },
+        {
+          "title": "Bangkok Post - Iran Guards say wont reopen Hormuz without US meeting all Tehran conditions",
+          "link": "https://www.bangkokpost.com/world/3298914/iran-guards-say-wont-reopen-hormuz-without-us-meeting-all-tehrans-conditions",
+          "source": "bangkokpost.com",
+          "pubDate": "2026-08-09T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bangkok Post - Iran Guards say wont reopen Hormuz without US meeting all Tehran conditions"
+        },
+        {
+          "title": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources",
+          "link": "https://www.niagarafallsreview.ca/business/cyprus-natural-gas-to-supply-europe-by-first-half-of-2028-minister-says-as-eu-seeks-new-sources/article_e9509175-4b26-55cf-b4a4-b4c622afe111.html",
+          "source": "niagarafallsreview.ca",
+          "pubDate": "2026-08-09T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources"
+        },
+        {
+          "title": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources",
+          "link": "https://www.news-gazette.com/news/nation-world/cyprus-natural-gas-to-supply-europe-by-first-half-of-2028-minister-says-as-eu/article_0f426a61-3372-5eb0-b526-511640baf262.html",
+          "source": "news-gazette.com",
+          "pubDate": "2026-08-09T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": []
+      "items": [
+        {
+          "title": "Libia: ministro Esteri Egitto, \"nostro approccio volto a risolvere cause profonde della crisi\" (2)",
+          "link": "https://www.agenzianova.com/a/6a787dc65c9af1.97599933/7684210/2026-08-09/libia-ministro-esteri-egitto-nostro-approccio-volto-a-risolvere-cause-profonde-della-crisi-2",
+          "description": "09 ago 12:48 - (Agenzia Nova) - A livello regionale, ha ricordato Abdelatty, l'Egitto ha riattivato il meccanismo tripartito con Algeria e... (Cae)",
+          "pubDate": "2026-08-09T12:48:18+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Libia: ministro Esteri Egitto, \"nostro approccio volto a risolvere cause profonde della crisi\" (2)"
+        }
+      ]
     }
   }
 }
