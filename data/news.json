@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T19:04:47.446Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-08-09T20:54:29.791Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -8,7 +8,7 @@
       "items": [
         {
           "title": "Hormuz: ministro Esteri Egitto, \"ottimismo su raggiungimento di un accordo su navigazione\"",
-          "link": "https://www.agenzianova.com/a/6a78cea0cb8177.53911474/7684591/2026-08-09/hormuz-ministro-esteri-egitto-ottimismo-su-raggiungimento-di-un-accordo-su-navigazione",
+          "link": "https://www.agenzianova.com/a/6a78e89fe43db1.86826907/7684591/2026-08-09/hormuz-ministro-esteri-egitto-ottimismo-su-raggiungimento-di-un-accordo-su-navigazione",
           "description": "09 ago 17:29 - (Agenzia Nova) - Il ministro degli Esteri egiziano Badr Abdelatty ha affermato che \"c'e' un certo ottimismo sul fatto che si... (Cae)",
           "pubDate": "2026-08-09T17:29:50+02:00",
           "source": "Agenzia Nova",
@@ -32,6 +32,24 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -64,6 +82,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -71,58 +98,184 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Centemero, 'porterò all'Onu candidatura di Milano come hub per governance etica IA'",
-          "link": "https://www.ansa.it/ansamednew/ar/notizie/politica/2026/08/07/centemero-portero-allonu-candidatura-di-milano-come-hub-per-governance-etica_95da0875-17ed-4487-a5fc-c36c3418674f.html",
-          "description": "(ANSA) - ROMA, 07 AGO - \"L'Italia ha davanti un'opportunità strategica: non limitarsi a partecipare al dibattito sull'intelligenza artificiale, ma contribuire a costruirne la futura governance globale. Il policy paper dell'American Chamber of Commerce in Italy e il successivo intervento del managing director Simone Crolla indicano una strada concreta: candidare Milano a ospitare una futura piattaforma o organismo delle Nazioni Unite dedicato alla governance etica dell'intelligenza artificiale. È una proposta che condivido pienamente\". Lo afferma il deputato della Lega Giulio Centemero, preside",
-          "pubDate": "Fri, 7 Aug 2026 19:14:25 +0200",
-          "source": "ANSAmed (ar)",
-          "lang": "ar",
-          "titleIt": "Centemero, 'porterò all'Onu candidatura di Milano come hub per governance etica IA'"
+          "title": "Canada shutters embassy in South Sudan , further reducing diplomatic presence in East Africa - The Hill Times",
+          "link": "https://www.hilltimes.com/2026/08/09/canada-shutters-embassy-in-south-sudan-further-reducing-diplomatic-presence-in-east-africa/514322/",
+          "source": "hilltimes.com",
+          "pubDate": "2026-08-09T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Canada shutters embassy in South Sudan , further reducing diplomatic presence in East Africa - The Hill Times"
         },
         {
-          "title": "Tanzania: Uganda, Tanzania Seal Deal to Develop Tanga Into Regional Energy Hub",
-          "link": "https://allafrica.com/stories/202608070230.html",
-          "description": "[Independent (Kampala)] Dar es Salaam -- President Yoweri Kaguta Museveni of Uganda and Samia Suluhu Hassan of Tanzania have endorsed a landmark Memorandum of Understanding (MoU) aimed at reshaping East Africa's energy economy by shifting the region's focus from crude oil exports to building an integrated regional energy and industrial hub.",
-          "pubDate": "Fri, 07 Aug 2026 10:34:13 GMT",
-          "source": "AllAfrica",
+          "title": "Museveni renewed push for East African federation : Implications for South Sudan and Nile geopolitics",
+          "link": "https://www.eyeradio.org/musevenis-renewed-push-for-east-african-federation-implications-for-south-sudan-and-nile-geopolitics/",
+          "source": "eyeradio.org",
+          "pubDate": "2026-08-09T13:45:00Z",
           "lang": "en",
-          "titleIt": "Tanzania: Uganda, Tanzania Seal Deal to Develop Tanga Into Regional Energy Hub"
+          "description": "",
+          "titleIt": "Museveni renewed push for East African federation : Implications for South Sudan and Nile geopolitics"
         },
         {
-          "title": "Women in El-Obeid testify to rape during Sudan conflict",
-          "link": "http://www.africanews.com/2026/08/06/women-in-el-obeid-testify-to-rape-during-sudan-conflict/",
-          "description": "Displaced women living in a camp in El-Obeid, in North Kordofan, say they were raped by Rapid Support Forces (RSF) members in front of their children before fleeing.",
-          "pubDate": "Thu, 06 Aug 2026 16:38:32 +0000",
-          "source": "Africanews",
+          "title": "The US Back in Ethiopia , a New Hub of Major Power Competition",
+          "link": "https://www.theepochtimes.com/opinion/the-us-back-in-ethiopia-a-new-hub-of-major-power-competition-6072382",
+          "source": "theepochtimes.com",
+          "pubDate": "2026-08-09T11:30:00Z",
           "lang": "en",
-          "titleIt": "Women in El-Obeid testify to rape during Sudan conflict"
+          "description": "",
+          "titleIt": "The US Back in Ethiopia , a New Hub of Major Power Competition"
         },
         {
-          "title": "An Alliance for Vocational Training in Mozambique with Italy’s Support",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/06/an-alliance-for-vocational-training-in-mozambique-with-italys-support_3ef414b4-467a-4e7b-8d2b-9a8910a23fe5.html",
-          "description": "(ANSA) - MAPUTO, 06 AGO - Mozambique’s Minister of Youth and Sports, Caifadine Paulo Manasse, opened the workshop “Alliance for the Future: Co-Investing in Training, Nurturing Talent,\" in Maputo Province on Thursday, August 6, calling for a new strategic partnership between the government, industry, and development partners, with the goal of transforming vocational training into a driver of industrialization and job creation. The event, organized by the Alberto Cassimo Institute for Vocational Training and Labor Studies (Ifpelac), is funded by the Italian government through the “Job Creation t",
-          "pubDate": "Thu, 6 Aug 2026 17:56:29 +0200",
-          "source": "ANSA English",
+          "title": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact",
+          "link": "https://www.ynetnews.com/opinions-analysis/article/rjmp11isifl",
+          "source": "ynetnews.com",
+          "pubDate": "2026-08-09T11:00:00Z",
           "lang": "en",
-          "titleIt": "An Alliance for Vocational Training in Mozambique with Italy’s Support"
+          "description": "",
+          "titleIt": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact"
         },
         {
-          "title": "Real Madrid sign Diomande in deal worth up to £120m",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c4g3906pz65o?at_medium=RSS&at_campaign=rss",
-          "description": "Real Madrid sign Ivory Coast international Yan Diomande from German side RB Leipzig for a fee worth up to 140m euros (£120m).",
-          "pubDate": "Thu, 06 Aug 2026 14:58:56 GMT",
-          "source": "BBC Africa",
+          "title": "Djibouti urged to tighten debt controls | Capital Newspaper",
+          "link": "https://capitalethiopia.com/2026/08/08/djibouti-urged-to-tighten-debt-controls/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-08-08T22:30:00Z",
           "lang": "en",
-          "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
+          "description": "",
+          "titleIt": "Djibouti urged to tighten debt controls | Capital Newspaper"
         },
         {
-          "title": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction",
-          "link": "https://allafrica.com/stories/202608060534.html",
-          "description": "[Addis Standard] JAKENN Publishing PLC wishes to inform its partners, supporters, members of the diplomatic community, human rights groups, press freedom organizations, and the public of a series of grave incidents targeting our organization over the past several days. On Saturday, 01 August 2026, Yonas Kedir, the Editor-in-Chief of Addis Standard, a publication by JAKENN Publishing PLC, reported being abducted by security personnel, physically assaulted, and held for approximately 24 hours while subjected to prolonged",
-          "pubDate": "Thu, 06 Aug 2026 13:41:11 GMT",
-          "source": "AllAfrica",
+          "title": "Beyond Borders : Why people keep leaving | Capital Newspaper",
+          "link": "https://capitalethiopia.com/2026/08/08/beyond-borders-why-people-keep-leaving/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-08-08T22:30:00Z",
           "lang": "en",
-          "titleIt": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction"
+          "description": "",
+          "titleIt": "Beyond Borders : Why people keep leaving | Capital Newspaper"
+        },
+        {
+          "title": "Opinie | How to end Sudan brutal , forgotten conflict",
+          "link": "https://www.nrc.nl/nieuws/2026/08/08/how-to-end-sudans-brutal-forgotten-conflict-a4934039",
+          "source": "nrc.nl",
+          "pubDate": "2026-08-08T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Opinie | How to end Sudan brutal , forgotten conflict"
+        },
+        {
+          "title": "KRA Chairperson Ndiritu Muriithi declares bid to reclaim Laikipia governor seat",
+          "link": "https://capitalfm.africa/kra-chairperson-ndiritu-muriithi-declares-bid-to-reclaim-laikipia-governor-seat/",
+          "source": "capitalfm.africa",
+          "pubDate": "2026-08-08T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "KRA Chairperson Ndiritu Muriithi declares bid to reclaim Laikipia governor seat"
+        },
+        {
+          "title": "Bahir Dar Airport in Ethiopia Gets New Terminal – NBE Africa Market Radar",
+          "link": "https://newbusinessethiopia.com/travel/bahir-dar-airport-in-ethiopia-gets-new-terminal/",
+          "source": "newbusinessethiopia.com",
+          "pubDate": "2026-08-08T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bahir Dar Airport in Ethiopia Gets New Terminal – NBE Africa Market Radar"
+        },
+        {
+          "title": "7 August 2026 - Daily Press Briefing by the Office of the Spokesperson for the Secretary - General",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260807-unbrief01.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-08-08T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "7 August 2026 - Daily Press Briefing by the Office of the Spokesperson for the Secretary - General"
+        },
+        {
+          "title": "How Is Ethiopia Cool Port Addis Project Rewriting The Destiny Of East Africa Horticulture Business ?",
+          "link": "https://www.thereporterethiopia.com/52175/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-08T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How Is Ethiopia Cool Port Addis Project Rewriting The Destiny Of East Africa Horticulture Business ?"
+        },
+        {
+          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
+          "link": "https://www.thereporterethiopia.com/52198/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-08T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
+        },
+        {
+          "title": "Somalia early troop exit rethink as US funding cut hits AU mission",
+          "link": "https://www.riotimesonline.com/somalia-early-troop-exit-rethink-us-funding-cut-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-08-08T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia early troop exit rethink as US funding cut hits AU mission"
+        },
+        {
+          "title": "JSE Listing Fuels Speculation Over Dangote South Africa Refinery Plans",
+          "link": "https://leadership.ng/jse-listing-fuels-speculation-over-dangotes-south-africa-refinery-plans-2/",
+          "source": "leadership.ng",
+          "pubDate": "2026-08-08T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "JSE Listing Fuels Speculation Over Dangote South Africa Refinery Plans"
+        },
+        {
+          "title": "A Premature Obituary : Semere Russom and the Fragile State of PFDJ Elite – Awate . com",
+          "link": "https://awate.com/a-premature-obituary-semere-russom-and-the-fragile-state-of-pfdjs-elite/",
+          "source": "awate.com",
+          "pubDate": "2026-08-08T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A Premature Obituary : Semere Russom and the Fragile State of PFDJ Elite – Awate . com"
+        },
+        {
+          "title": "Israeli Navy conducts largest drill since Oct . 7",
+          "link": "https://www.clevelandjewishnews.com/news/world_news/israeli-navy-conducts-largest-drill-since-oct-7/article_9e62e6ad-ec7f-58e1-8776-741d7a792d56.html",
+          "source": "clevelandjewishnews.com",
+          "pubDate": "2026-08-07T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israeli Navy conducts largest drill since Oct . 7"
+        },
+        {
+          "title": "India BRICS presidency tests its balancing act in a divided World",
+          "link": "https://weeklyblitz.net/2026/08/08/indias-brics-presidency-tests-its-balancing-act-in-a-divided-world/",
+          "source": "weeklyblitz.net",
+          "pubDate": "2026-08-07T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India BRICS presidency tests its balancing act in a divided World"
+        },
+        {
+          "title": "U . S . wheat , rice shipment will feed 1 million in Kenya",
+          "link": "https://capitalpress.com/2026/08/07/u-s-wheat-rice-shipment-will-feed-1-million-in-kenya/",
+          "source": "capitalpress.com",
+          "pubDate": "2026-08-07T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . wheat , rice shipment will feed 1 million in Kenya"
+        },
+        {
+          "title": "Tigray civilians face fresh danger as clashes return , says Amnesty",
+          "link": "https://www.tamilguardian.com/content/tigray-civilians-face-fresh-danger-clashes-return-says-amnesty",
+          "source": "tamilguardian.com",
+          "pubDate": "2026-08-07T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tigray civilians face fresh danger as clashes return , says Amnesty"
+        },
+        {
+          "title": "Rethinking the AU Somalia peace mission after US funding cuts",
+          "link": "https://horseedmedia.net/rethinking-the-aus-somalia-peace-mission-after-us-funding-cuts/424562/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-08-07T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rethinking the AU Somalia peace mission after US funding cuts"
         }
       ]
     },
@@ -130,13 +283,184 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "The first Senegalese selected for the “New Destinies” project visited the embassy",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/the-first-senegalese-selected-for-the-new-destinies-project-visited_4bf68272-c586-47bf-bc20-f242c1b3b863.html",
-          "description": "(ANSA) - IL CAIRO, 07 AGO - The Italian Ambassador to Dakar, Michele Tommasi, welcomed the first twelve Senegalese workers who will soon take part in the “New Destinies – New Horizons” project in Italy, in the presence of representatives from institutions, training organizations, and partners involved in the initiative. The program, managed by Umana, an Italian agency specializing in employment services, recruitment, and vocational training, was developed in collaboration with the Italian Confederation of Trade Unions (CISL) in Venice, the National Association Beyond Borders (ANOLF) in Venice,",
-          "pubDate": "Fri, 7 Aug 2026 12:08:40 +0200",
-          "source": "ANSA English",
+          "title": "Can Islamic NATO reign in both Israel and Iran",
+          "link": "http://www.bignewsnetwork.com/news/279228530/can-islamic-nato-reign-in-both-israel-and-iran",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-08-09T20:00:00Z",
           "lang": "en",
-          "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
+          "description": "",
+          "titleIt": "Can Islamic NATO reign in both Israel and Iran"
+        },
+        {
+          "title": "With US taking a hostile approach to India , the  Mecca pact  is threatening",
+          "link": "https://economictimes.indiatimes.com/opinion/et-commentary/with-us-taking-a-hostile-approach-to-india-the-mecca-pact-is-threatening/articleshow/133073176.cms",
+          "source": "economictimes.indiatimes.com",
+          "pubDate": "2026-08-09T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "With US taking a hostile approach to India , the  Mecca pact  is threatening"
+        },
+        {
+          "title": "Israel rejects Trump Gaza peace plan , saying no withdrawal until Hamas disarms",
+          "link": "https://kvia.com/news/us-world/cnn-world/2026/08/09/israel-rejects-trumps-gaza-peace-plan-saying-no-withdrawal-until-hamas-disarms/",
+          "source": "kvia.com",
+          "pubDate": "2026-08-09T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel rejects Trump Gaza peace plan , saying no withdrawal until Hamas disarms"
+        },
+        {
+          "title": "Can  Islamic NATO  reign in both Israel and Iran ?",
+          "link": "http://www.bignewsnetwork.com/news/279228532/can-islamic-nato-reign-in-both-israel-and-iran",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-08-09T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Can  Islamic NATO  reign in both Israel and Iran ?"
+        },
+        {
+          "title": "EU looks to Cyrpus for natural gas",
+          "link": "https://www.bostonherald.com/2026/08/09/eu-looks-to-cyrpus-for-natural-gas/",
+          "source": "bostonherald.com",
+          "pubDate": "2026-08-09T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "EU looks to Cyrpus for natural gas"
+        },
+        {
+          "title": "Iranian Official Says Images Of New Supreme Leader To Be Released",
+          "link": "http://www.iranherald.com/news/279228229/iranian-official-says-images-of-new-supreme-leader-to-be-released",
+          "source": "iranherald.com",
+          "pubDate": "2026-08-09T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iranian Official Says Images Of New Supreme Leader To Be Released"
+        },
+        {
+          "title": "A Hormuz deal was close . Now Iran says direct talks with U . S . are off",
+          "link": "https://calgarysun.com/news/world/a-hormuz-deal-was-close-now-iran-says-direct-talks-with-u-s-are-off/wcm/0842c490-a593-4dbf-898b-38c74f927520",
+          "source": "calgarysun.com",
+          "pubDate": "2026-08-09T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A Hormuz deal was close . Now Iran says direct talks with U . S . are off"
+        },
+        {
+          "title": "Iran Guards say wont reopen Hormuz without US meeting Tehran demands",
+          "link": "https://www.al-monitor.com/originals/2026/08/iran-guards-say-wont-reopen-hormuz-without-us-meeting-tehrans-demands",
+          "source": "al-monitor.com",
+          "pubDate": "2026-08-09T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran Guards say wont reopen Hormuz without US meeting Tehran demands"
+        },
+        {
+          "title": "Cyprus natural gas to help supply Europe by first half of 2028 , official says",
+          "link": "https://www.csmonitor.com/World/Europe/2026/0809/cyprus-natural-gas-europe",
+          "source": "csmonitor.com",
+          "pubDate": "2026-08-09T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cyprus natural gas to help supply Europe by first half of 2028 , official says"
+        },
+        {
+          "title": "Iranian Official Says Images Of New Supreme Leader To Be Released",
+          "link": "http://www.newjerseytelegraph.com/news/279228229/iranian-official-says-images-of-new-supreme-leader-to-be-released",
+          "source": "newjerseytelegraph.com",
+          "pubDate": "2026-08-09T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iranian Official Says Images Of New Supreme Leader To Be Released"
+        },
+        {
+          "title": "James Stavridis : Saudi Arabia can break the Houthi grip on the Red Sea",
+          "link": "https://www.standardspeaker.com/2026/08/09/james-stavridis-saudi-arabia-can-break-the-houthis-grip-on-the-red-sea-2/",
+          "source": "standardspeaker.com",
+          "pubDate": "2026-08-09T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "James Stavridis : Saudi Arabia can break the Houthi grip on the Red Sea"
+        },
+        {
+          "title": "Israel future depends on preparing a Joshua Generation after Benjamin Netanyahu",
+          "link": "http://www.jpost.com/opinion/article-904652",
+          "source": "jpost.com",
+          "pubDate": "2026-08-09T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel future depends on preparing a Joshua Generation after Benjamin Netanyahu"
+        },
+        {
+          "title": "Tinubu seeks Tijjaniyya network support to counter extremism , build peace across Sahel",
+          "link": "https://thesun.ng/tinubu-seeks-tijjaniyya-networks-support-to-counter-extremism-build-peace-across-sahel/",
+          "source": "thesun.ng",
+          "pubDate": "2026-08-09T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tinubu seeks Tijjaniyya network support to counter extremism , build peace across Sahel"
+        },
+        {
+          "title": "Tinubu Urges Clerics to Speak Against Terrorism , Kidnapping",
+          "link": "https://punchng.com/tinubu-urges-clerics-to-speak-against-terrorism-kidnapping/",
+          "source": "punchng.com",
+          "pubDate": "2026-08-09T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tinubu Urges Clerics to Speak Against Terrorism , Kidnapping"
+        },
+        {
+          "title": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources",
+          "link": "http://www.idahopress.com/news/world/cyprus-natural-gas-to-supply-europe-by-first-half-of-2028-minister-says-as-eu/article_51f4742e-1380-5203-82a4-fa1b70793ce7.html",
+          "source": "idahopress.com",
+          "pubDate": "2026-08-09T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources"
+        },
+        {
+          "title": "Cyprus natural gas to supply Europe by first half of 2028",
+          "link": "https://www.cp24.com/news/world/2026/08/09/cyprus-natural-gas-to-supply-europe-by-first-half-of-2028-minister-says-as-eu-seeks-new-sources/",
+          "source": "cp24.com",
+          "pubDate": "2026-08-09T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cyprus natural gas to supply Europe by first half of 2028"
+        },
+        {
+          "title": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources",
+          "link": "https://www.union-bulletin.com/news/world/cyprus-natural-gas-to-supply-europe-by-first-half-of-2028-minister-says-as-eu/article_eb7d41cf-3950-5fd3-a377-4f64516a444c.html",
+          "source": "union-bulletin.com",
+          "pubDate": "2026-08-09T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources"
+        },
+        {
+          "title": "Iran Guards say wont reopen Hormuz without US meeting Tehran demands",
+          "link": "https://www.bssnews.net/international/413152",
+          "source": "bssnews.net",
+          "pubDate": "2026-08-09T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran Guards say wont reopen Hormuz without US meeting Tehran demands"
+        },
+        {
+          "title": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources",
+          "link": "https://santamariatimes.com/ap/business/cyprus-natural-gas-to-supply-europe-by-first-half-of-2028-minister-says-as-eu/article_62fa0f04-4a89-5e87-9dd9-77f2593e44a9.html",
+          "source": "santamariatimes.com",
+          "pubDate": "2026-08-09T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cyprus natural gas to supply Europe by first half of 2028 , minister says , as EU seeks new sources"
+        },
+        {
+          "title": "Iran sets demands for Hormuz reopening | The Manila Times",
+          "link": "https://www.manilatimes.net/2026/08/10/world/americas-emea/iran-sets-demands-for-hormuz-reopening/2401572",
+          "source": "manilatimes.net",
+          "pubDate": "2026-08-09T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran sets demands for Hormuz reopening | The Manila Times"
         }
       ]
     },
@@ -145,12 +469,183 @@
       "items": [
         {
           "title": "Hormuz: ministro Esteri Egitto, \"ottimismo su raggiungimento di un accordo su navigazione\"",
-          "link": "https://www.agenzianova.com/a/6a78cea0cb8177.53911474/7684591/2026-08-09/hormuz-ministro-esteri-egitto-ottimismo-su-raggiungimento-di-un-accordo-su-navigazione",
+          "link": "https://www.agenzianova.com/a/6a78e89fe43db1.86826907/7684591/2026-08-09/hormuz-ministro-esteri-egitto-ottimismo-su-raggiungimento-di-un-accordo-su-navigazione",
           "description": "09 ago 17:29 - (Agenzia Nova) - Il ministro degli Esteri egiziano Badr Abdelatty ha affermato che \"c'e' un certo ottimismo sul fatto che si... (Cae)",
           "pubDate": "2026-08-09T17:29:50+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
           "titleIt": "Hormuz: ministro Esteri Egitto, \"ottimismo su raggiungimento di un accordo su navigazione\""
+        },
+        {
+          "title": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact",
+          "link": "https://www.ynetnews.com/opinions-analysis/article/rjmp11isifl",
+          "source": "ynetnews.com",
+          "pubDate": "2026-08-09T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact"
+        },
+        {
+          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
+          "link": "https://www.thereporterethiopia.com/52198/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-08T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
+        },
+        {
+          "title": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power",
+          "link": "https://www.spotlightnepal.com/2026/08/07/electricity-capital-not-just-commodity-rethinking-nepals-electricity-strategy-era-surplus-power/",
+          "source": "spotlightnepal.com",
+          "pubDate": "2026-08-07T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power"
+        },
+        {
+          "title": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams",
+          "link": "https://www.tanzanianewsreports.com/egypt-declares-strong-opposition-to-new-ethiopian-nile-dams/",
+          "source": "tanzanianewsreports.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams"
+        },
+        {
+          "title": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times",
+          "link": "https://medafricatimes.com/46583-ethiopia-accuses-egypt-of-using-gerd-dispute-to-divert-attention-from-domestic-challenges.html",
+          "source": "medafricatimes.com",
+          "pubDate": "2026-08-06T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times"
+        },
+        {
+          "title": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility",
+          "link": "https://allafrica.com/stories/202608060479.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility"
+        },
+        {
+          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
+          "link": "https://allafrica.com/stories/202608060151.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
+        },
+        {
+          "title": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework",
+          "link": "https://allafrica.com/stories/202608060164.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework"
+        },
+        {
+          "title": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President",
+          "link": "https://allafrica.com/stories/202608060100.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President"
+        },
+        {
+          "title": "Africa : Ethiopia Well Positioned to Become Africa Energy Hub , Says Ministry",
+          "link": "https://allafrica.com/stories/202608060077.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Ethiopia Well Positioned to Become Africa Energy Hub , Says Ministry"
+        },
+        {
+          "title": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project",
+          "link": "https://allafrica.com/stories/202608050079.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-05T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project"
+        },
+        {
+          "title": "Egypt says it wont allow new Ethiopian dams on Nile River",
+          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-won-t-allow-new-ethiopian-dams-on-nile-river/4018528",
+          "source": "aa.com.tr",
+          "pubDate": "2026-08-04T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says it wont allow new Ethiopian dams on Nile River"
+        },
+        {
+          "title": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa",
+          "link": "https://www.channelafrica.co.za/channelafrica/news/renewed-tigray-clashes-could-deepen-horn-of-africa-instability/",
+          "source": "channelafrica.co.za",
+          "pubDate": "2026-08-04T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa"
+        },
+        {
+          "title": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles",
+          "link": "https://idrw.org/pakistans-unsc-push-on-indus-waters-treaty-faces-major-legal-and-political-hurdles/",
+          "source": "idrw.org",
+          "pubDate": "2026-08-02T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles"
+        },
+        {
+          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
+          "link": "https://www.thereporterethiopia.com/51980/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-01T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
+        },
+        {
+          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
+          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
+          "source": "mondaq.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
+        },
+        {
+          "title": "A Movement of World Citizens Could Change the Course of History",
+          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-07-30T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A Movement of World Citizens Could Change the Course of History"
+        },
+        {
+          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
+          "link": "https://allafrica.com/stories/202607270583.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
+        },
+        {
+          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
+          "link": "https://allafrica.com/stories/202607270582.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
         }
       ]
     }
