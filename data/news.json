@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T02:32:36.266Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-09T05:20:32.346Z",
+  "feedsChecked": 7,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -8,7 +8,7 @@
       "items": [
         {
           "title": "Business news: Egitto, accordo con Alcazar per costruzione di un parco eolico da 407 megawatt",
-          "link": "https://www.agenzianova.com/a/6a77e60b74e9d8.79292486/7681201/2026-08-09/business-news-egitto-accordo-con-alcazar-per-costruzione-di-un-parco-eolico-da-407-megawatt",
+          "link": "https://www.agenzianova.com/a/6a780dd5cb6c60.46492003/7681201/2026-08-09/business-news-egitto-accordo-con-alcazar-per-costruzione-di-un-parco-eolico-da-407-megawatt",
           "description": "09 ago 02:00 - (Agenzia Nova) - L'operatore statale della rete elettrica egiziana Egyptian Electricity Transmission Company (Eetc) ha siglato... (Cae)",
           "pubDate": "2026-08-09T02:00:00+02:00",
           "source": "Agenzia Nova",
@@ -32,39 +32,12 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Kenya: Murkomen Warns Against Illegal Use of Police Military, Style Uniforms",
-          "link": "https://allafrica.com/stories/202608070502.html",
-          "description": "[Capital FM] Nairobi -- Interior Cabinet Secretary Kipchumba Murkomen has directed Inspector General of Police Douglas Kanja to move with speed against individuals wearing camouflage and other security-style uniforms while allegedly posing as police officers or members of specialised security units.",
-          "pubDate": "Fri, 07 Aug 2026 13:15:59 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Murkomen Warns Against Illegal Use of Police Military, Style Uniforms"
-        },
         {
           "title": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/ambassador-del-monaco-meets-with-the-governor-of-the-central-bank_98723a78-8014-4ced-9f2f-a463887f1000.html",
@@ -73,15 +46,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -96,24 +60,6 @@
           "source": "ANSAmed (ar)",
           "lang": "ar",
           "titleIt": "Centemero, 'porterò all'Onu candidatura di Milano come hub per governance etica IA'"
-        },
-        {
-          "title": "Malawi: MMC Publishing Offers Malawi Solution for Royalty Transparency Amid Cosoma Storm",
-          "link": "https://allafrica.com/stories/202608070536.html",
-          "description": "[Nyasa Times] The country's pioneer music listening and monitoring digital platform, Malawi-Music.com (MMC), has offered to support the Copyright Society of Malawi (COSOMA) and the country's musicians in resolving royalty-sharing disputes stemming from a lack of proper monitoring.",
-          "pubDate": "Fri, 07 Aug 2026 14:36:41 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Malawi: MMC Publishing Offers Malawi Solution for Royalty Transparency Amid Cosoma Storm"
-        },
-        {
-          "title": "Tanzania: Uganda, Tanzania Seal Deal to Develop Tanga Into Regional Energy Hub",
-          "link": "https://allafrica.com/stories/202608070230.html",
-          "description": "[Independent (Kampala)] Dar es Salaam -- President Yoweri Kaguta Museveni of Uganda and Samia Suluhu Hassan of Tanzania have endorsed a landmark Memorandum of Understanding (MoU) aimed at reshaping East Africa's energy economy by shifting the region's focus from crude oil exports to building an integrated regional energy and industrial hub.",
-          "pubDate": "Fri, 07 Aug 2026 10:34:13 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Tanzania: Uganda, Tanzania Seal Deal to Develop Tanga Into Regional Energy Hub"
         },
         {
           "title": "Women in El-Obeid testify to rape during Sudan conflict",
@@ -141,15 +87,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -157,8 +94,17 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
+          "title": "Business news: Egitto, riserve internazionali nette raggiungono a luglio 56,2 miliardi di dollari",
+          "link": "https://www.agenzianova.com/a/6a780dd5ca3234.60186099/7681223/2026-08-09/business-news-egitto-riserve-internazionali-nette-raggiungono-a-luglio-56-2-miliardi-di-dollari",
+          "description": "09 ago 05:00 - (Agenzia Nova) - Le riserve internazionali nette dell'Egitto sono aumentate di circa il 2,2 per cento alla fine di luglio, raggiungendo... (Cae)",
+          "pubDate": "2026-08-09T05:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: Egitto, riserve internazionali nette raggiungono a luglio 56,2 miliardi di dollari"
+        },
+        {
           "title": "Business news: Egitto, petroliere nel Canale di Suez in aumento del 22,3 per cento nel secondo trimestre",
-          "link": "https://www.agenzianova.com/a/6a77e60b746a63.37765110/7681213/2026-08-09/business-news-egitto-petroliere-nel-canale-di-suez-in-aumento-del-22-3-per-cento-nel-secondo-trimestre",
+          "link": "https://www.agenzianova.com/a/6a780dd5cafb03.76789070/7681213/2026-08-09/business-news-egitto-petroliere-nel-canale-di-suez-in-aumento-del-22-3-per-cento-nel-secondo-trimestre",
           "description": "09 ago 03:00 - (Agenzia Nova) - Il numero di petroliere in transito nel Canale di Suez nel secondo trimestre del 2026 e' aumentato di circa... (Cae)",
           "pubDate": "2026-08-09T03:00:00+02:00",
           "source": "Agenzia Nova",
@@ -181,12 +127,183 @@
       "items": [
         {
           "title": "Business news: Egitto, accordo con Alcazar per costruzione di un parco eolico da 407 megawatt",
-          "link": "https://www.agenzianova.com/a/6a77e60b74e9d8.79292486/7681201/2026-08-09/business-news-egitto-accordo-con-alcazar-per-costruzione-di-un-parco-eolico-da-407-megawatt",
+          "link": "https://www.agenzianova.com/a/6a780dd5cb6c60.46492003/7681201/2026-08-09/business-news-egitto-accordo-con-alcazar-per-costruzione-di-un-parco-eolico-da-407-megawatt",
           "description": "09 ago 02:00 - (Agenzia Nova) - L'operatore statale della rete elettrica egiziana Egyptian Electricity Transmission Company (Eetc) ha siglato... (Cae)",
           "pubDate": "2026-08-09T02:00:00+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
           "titleIt": "Business news: Egitto, accordo con Alcazar per costruzione di un parco eolico da 407 megawatt"
+        },
+        {
+          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
+          "link": "https://www.thereporterethiopia.com/52198/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-08T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
+        },
+        {
+          "title": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power",
+          "link": "https://www.spotlightnepal.com/2026/08/07/electricity-capital-not-just-commodity-rethinking-nepals-electricity-strategy-era-surplus-power/",
+          "source": "spotlightnepal.com",
+          "pubDate": "2026-08-07T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power"
+        },
+        {
+          "title": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams",
+          "link": "https://www.tanzanianewsreports.com/egypt-declares-strong-opposition-to-new-ethiopian-nile-dams/",
+          "source": "tanzanianewsreports.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams"
+        },
+        {
+          "title": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times",
+          "link": "https://medafricatimes.com/46583-ethiopia-accuses-egypt-of-using-gerd-dispute-to-divert-attention-from-domestic-challenges.html",
+          "source": "medafricatimes.com",
+          "pubDate": "2026-08-06T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times"
+        },
+        {
+          "title": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility",
+          "link": "https://allafrica.com/stories/202608060479.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility"
+        },
+        {
+          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
+          "link": "https://allafrica.com/stories/202608060151.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
+        },
+        {
+          "title": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework",
+          "link": "https://allafrica.com/stories/202608060164.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework"
+        },
+        {
+          "title": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President",
+          "link": "https://allafrica.com/stories/202608060100.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President"
+        },
+        {
+          "title": "Africa : Ethiopia Well Positioned to Become Africa Energy Hub , Says Ministry",
+          "link": "https://allafrica.com/stories/202608060077.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Ethiopia Well Positioned to Become Africa Energy Hub , Says Ministry"
+        },
+        {
+          "title": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project",
+          "link": "https://allafrica.com/stories/202608050079.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-05T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project"
+        },
+        {
+          "title": "Egypt says it wont allow new Ethiopian dams on Nile River",
+          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-won-t-allow-new-ethiopian-dams-on-nile-river/4018528",
+          "source": "aa.com.tr",
+          "pubDate": "2026-08-04T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says it wont allow new Ethiopian dams on Nile River"
+        },
+        {
+          "title": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa",
+          "link": "https://www.channelafrica.co.za/channelafrica/news/renewed-tigray-clashes-could-deepen-horn-of-africa-instability/",
+          "source": "channelafrica.co.za",
+          "pubDate": "2026-08-04T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa"
+        },
+        {
+          "title": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles",
+          "link": "https://idrw.org/pakistans-unsc-push-on-indus-waters-treaty-faces-major-legal-and-political-hurdles/",
+          "source": "idrw.org",
+          "pubDate": "2026-08-02T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles"
+        },
+        {
+          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
+          "link": "https://www.thereporterethiopia.com/51980/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-01T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
+        },
+        {
+          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
+          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
+          "source": "mondaq.com",
+          "pubDate": "2026-07-30T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
+        },
+        {
+          "title": "A Movement of World Citizens Could Change the Course of History",
+          "link": "https://larouchepub.com/hzl/2026/5329-a_movement_of_world_citizens_c-hzl.html",
+          "source": "larouchepub.com",
+          "pubDate": "2026-07-30T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A Movement of World Citizens Could Change the Course of History"
+        },
+        {
+          "title": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors",
+          "link": "https://allafrica.com/stories/202607270583.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : GERD Huge Impetus for Ethiopia Economic Devt - US - Based Economics Professors"
+        },
+        {
+          "title": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir",
+          "link": "https://allafrica.com/stories/202607270582.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-07-28T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Egypt Campaigns Cannot Alter Ethiopia Sovereign Right Over Its Resources , Says Eustaz Jamal Bashir"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope",
+          "link": "https://recorder.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "recorder.com",
+          "pubDate": "2026-07-27T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
         }
       ]
     }
