@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-08-09T05:20:32.346Z",
-  "feedsChecked": 7,
+  "generatedAt": "2026-08-09T07:19:05.644Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Business news: Egitto, accordo con Alcazar per costruzione di un parco eolico da 407 megawatt",
-          "link": "https://www.agenzianova.com/a/6a780dd5cb6c60.46492003/7681201/2026-08-09/business-news-egitto-accordo-con-alcazar-per-costruzione-di-un-parco-eolico-da-407-megawatt",
-          "description": "09 ago 02:00 - (Agenzia Nova) - L'operatore statale della rete elettrica egiziana Egyptian Electricity Transmission Company (Eetc) ha siglato... (Cae)",
-          "pubDate": "2026-08-09T02:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Business news: Egitto, accordo con Alcazar per costruzione di un parco eolico da 407 megawatt"
-        },
         {
           "title": "EU to Support Libya in the Fight Against Terrorism and for Border Security",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/eu-to-support-libya-in-the-fight-against-terrorism-and-for-border-security_742e172c-5d23-469b-907d-8645ce88d816.html",
@@ -32,12 +23,93 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260807-rferl01.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-08-08T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions"
+        },
+        {
+          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
+          "link": "https://www.thereporterethiopia.com/52198/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-08T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
+        },
+        {
+          "title": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative",
+          "link": "https://wardheernews.com/who-owns-the-credit-minister-presents-world-bank-funded-hargeisa-project-as-a-federal-government-initiative/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-08T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative"
+        },
+        {
+          "title": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development",
+          "link": "https://horseedmedia.net/somaliland-president-cirro-meets-international-representatives-in-nairobi-to-discuss-security-and-development/424582/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-08-07T22:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development"
+        },
+        {
+          "title": "Israeli Navy conducts largest drill since Oct . 7",
+          "link": "https://www.clevelandjewishnews.com/news/world_news/israeli-navy-conducts-largest-drill-since-oct-7/article_9e62e6ad-ec7f-58e1-8776-741d7a792d56.html",
+          "source": "clevelandjewishnews.com",
+          "pubDate": "2026-08-07T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israeli Navy conducts largest drill since Oct . 7"
+        },
+        {
+          "title": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night",
+          "link": "https://www.fairobserver.com/region/middle_east_north_africa/riyadhs-sudan-contradiction-mediator-by-day-arms-broker-by-night/",
+          "source": "fairobserver.com",
+          "pubDate": "2026-08-07T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night"
+        },
+        {
+          "title": "Kenya: Murkomen Warns Against Illegal Use of Police Military, Style Uniforms",
+          "link": "https://allafrica.com/stories/202608070502.html",
+          "description": "[Capital FM] Nairobi -- Interior Cabinet Secretary Kipchumba Murkomen has directed Inspector General of Police Douglas Kanja to move with speed against individuals wearing camouflage and other security-style uniforms while allegedly posing as police officers or members of specialised security units.",
+          "pubDate": "Fri, 07 Aug 2026 13:15:59 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Murkomen Warns Against Illegal Use of Police Military, Style Uniforms"
+        },
         {
           "title": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/ambassador-del-monaco-meets-with-the-governor-of-the-central-bank_98723a78-8014-4ced-9f2f-a463887f1000.html",
@@ -46,6 +118,114 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya"
+        },
+        {
+          "title": "Turkiye Erdogan visits Saudi Arabia : What to expect - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/turkiyes-erdogan-visits-saudi-arabia-what-to-expect/",
+          "source": "dominicanrepublicpost.com",
+          "pubDate": "2026-08-07T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkiye Erdogan visits Saudi Arabia : What to expect - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
+        },
+        {
+          "title": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East",
+          "link": "https://foreignpolicy.com/2026/08/05/saudi-arabia-iran-israel-united-states-trump-uae-oil-houthis/?tpcc=recirc_trending062921",
+          "source": "foreignpolicy.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East"
+        },
+        {
+          "title": "The power to paralyze a country by sea : Israel Navy unveils new vision",
+          "link": "https://www.ynetnews.com/article/bk4fy7mugx",
+          "source": "ynetnews.com",
+          "pubDate": "2026-08-06T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The power to paralyze a country by sea : Israel Navy unveils new vision"
+        },
+        {
+          "title": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction",
+          "link": "https://allafrica.com/stories/202608060534.html",
+          "description": "[Addis Standard] JAKENN Publishing PLC wishes to inform its partners, supporters, members of the diplomatic community, human rights groups, press freedom organizations, and the public of a series of grave incidents targeting our organization over the past several days. On Saturday, 01 August 2026, Yonas Kedir, the Editor-in-Chief of Addis Standard, a publication by JAKENN Publishing PLC, reported being abducted by security personnel, physically assaulted, and held for approximately 24 hours while subjected to prolonged",
+          "pubDate": "Thu, 06 Aug 2026 13:41:11 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction"
+        },
+        {
+          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
+          "link": "https://allafrica.com/stories/202608060151.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
+        },
+        {
+          "title": "Three Federal States , One Political Strategy , and Somalia Most Dangerous Gamble",
+          "link": "https://wardheernews.com/three-federal-states-one-political-strategy-and-somalias-most-dangerous-gamble/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-06T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Three Federal States , One Political Strategy , and Somalia Most Dangerous Gamble"
+        },
+        {
+          "title": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness",
+          "link": "https://www.theyeshivaworld.com/news/israel-news/2582738/red-sea-attack-indian-cargo-ship-sinks-off-yemen-as-israel-boosts-naval-readiness.html",
+          "source": "theyeshivaworld.com",
+          "pubDate": "2026-08-05T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness"
+        },
+        {
+          "title": "Bristol man accused of trying to join ISIS said  dying was not a problem , court told",
+          "link": "https://www.bristolpost.co.uk/news/bristol-news/bristol-man-accused-trying-join-11094389",
+          "source": "bristolpost.co.uk",
+          "pubDate": "2026-08-05T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bristol man accused of trying to join ISIS said  dying was not a problem , court told"
+        },
+        {
+          "title": "Sudan : Liberal Peacebuilding and the Price of Impunity",
+          "link": "https://newpol.org/issue_post/sudan-liberal-peacebuilding-and-the-price-of-impunity/",
+          "source": "newpol.org",
+          "pubDate": "2026-08-04T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Liberal Peacebuilding and the Price of Impunity"
+        },
+        {
+          "title": "Has the UAE meteoric rise reached its limit ?",
+          "link": "https://www.middleeasteye.net/opinion/has-uaes-meteoric-rise-reached-its-limit",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-04T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Has the UAE meteoric rise reached its limit ?"
+        },
+        {
+          "title": "Genel Energy issues Results to 30th June | Iraq Business News",
+          "link": "https://www.iraq-businessnews.com/2026/08/04/genel-energy-issues-results-to-30th-june/",
+          "source": "iraq-businessnews.com",
+          "pubDate": "2026-08-04T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Genel Energy issues Results to 30th June | Iraq Business News"
+        },
+        {
+          "title": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible",
+          "link": "https://allafrica.com/stories/202608040008.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-04T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Whilst the World Debates Somaliland Recognition , Its Girls Remain Invisible"
         }
       ]
     },
@@ -60,6 +240,15 @@
           "source": "ANSAmed (ar)",
           "lang": "ar",
           "titleIt": "Centemero, 'porterò all'Onu candidatura di Milano come hub per governance etica IA'"
+        },
+        {
+          "title": "Tanzania: Uganda, Tanzania Seal Deal to Develop Tanga Into Regional Energy Hub",
+          "link": "https://allafrica.com/stories/202608070230.html",
+          "description": "[Independent (Kampala)] Dar es Salaam -- President Yoweri Kaguta Museveni of Uganda and Samia Suluhu Hassan of Tanzania have endorsed a landmark Memorandum of Understanding (MoU) aimed at reshaping East Africa's energy economy by shifting the region's focus from crude oil exports to building an integrated regional energy and industrial hub.",
+          "pubDate": "Fri, 07 Aug 2026 10:34:13 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Tanzania: Uganda, Tanzania Seal Deal to Develop Tanga Into Regional Energy Hub"
         },
         {
           "title": "Women in El-Obeid testify to rape during Sudan conflict",
@@ -87,6 +276,24 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
+        },
+        {
+          "title": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction",
+          "link": "https://allafrica.com/stories/202608060534.html",
+          "description": "[Addis Standard] JAKENN Publishing PLC wishes to inform its partners, supporters, members of the diplomatic community, human rights groups, press freedom organizations, and the public of a series of grave incidents targeting our organization over the past several days. On Saturday, 01 August 2026, Yonas Kedir, the Editor-in-Chief of Addis Standard, a publication by JAKENN Publishing PLC, reported being abducted by security personnel, physically assaulted, and held for approximately 24 hours while subjected to prolonged",
+          "pubDate": "Thu, 06 Aug 2026 13:41:11 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopian Publication Condemns Violent Office Raid and Staff Abduction"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -94,46 +301,190 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Business news: Egitto, riserve internazionali nette raggiungono a luglio 56,2 miliardi di dollari",
-          "link": "https://www.agenzianova.com/a/6a780dd5ca3234.60186099/7681223/2026-08-09/business-news-egitto-riserve-internazionali-nette-raggiungono-a-luglio-56-2-miliardi-di-dollari",
-          "description": "09 ago 05:00 - (Agenzia Nova) - Le riserve internazionali nette dell'Egitto sono aumentate di circa il 2,2 per cento alla fine di luglio, raggiungendo... (Cae)",
-          "pubDate": "2026-08-09T05:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Business news: Egitto, riserve internazionali nette raggiungono a luglio 56,2 miliardi di dollari"
-        },
-        {
-          "title": "Business news: Egitto, petroliere nel Canale di Suez in aumento del 22,3 per cento nel secondo trimestre",
-          "link": "https://www.agenzianova.com/a/6a780dd5cafb03.76789070/7681213/2026-08-09/business-news-egitto-petroliere-nel-canale-di-suez-in-aumento-del-22-3-per-cento-nel-secondo-trimestre",
-          "description": "09 ago 03:00 - (Agenzia Nova) - Il numero di petroliere in transito nel Canale di Suez nel secondo trimestre del 2026 e' aumentato di circa... (Cae)",
-          "pubDate": "2026-08-09T03:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Business news: Egitto, petroliere nel Canale di Suez in aumento del 22,3 per cento nel secondo trimestre"
-        },
-        {
-          "title": "The first Senegalese selected for the “New Destinies” project visited the embassy",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/the-first-senegalese-selected-for-the-new-destinies-project-visited_4bf68272-c586-47bf-bc20-f242c1b3b863.html",
-          "description": "(ANSA) - IL CAIRO, 07 AGO - The Italian Ambassador to Dakar, Michele Tommasi, welcomed the first twelve Senegalese workers who will soon take part in the “New Destinies – New Horizons” project in Italy, in the presence of representatives from institutions, training organizations, and partners involved in the initiative. The program, managed by Umana, an Italian agency specializing in employment services, recruitment, and vocational training, was developed in collaboration with the Italian Confederation of Trade Unions (CISL) in Venice, the National Association Beyond Borders (ANOLF) in Venice,",
-          "pubDate": "Fri, 7 Aug 2026 12:08:40 +0200",
-          "source": "ANSA English",
+          "title": "Iran issues demands for reopening of Strait of Hormuz",
+          "link": "https://www.rte.ie/news/middle-east/2026/0809/1587118-iran-issues-demands-for-reopening-of-strait-of-hormuz/",
+          "source": "rte.ie",
+          "pubDate": "2026-08-09T06:45:00Z",
           "lang": "en",
-          "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
+          "description": "",
+          "titleIt": "Iran issues demands for reopening of Strait of Hormuz"
+        },
+        {
+          "title": "Iran issues demands for the reopening of Hormuz",
+          "link": "https://www.omanobserver.om/article/1194169/world/region/iran-issues-demands-for-the-reopening-of-hormuz",
+          "source": "omanobserver.om",
+          "pubDate": "2026-08-09T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran issues demands for the reopening of Hormuz"
+        },
+        {
+          "title": "The Saudi tail and the American dog",
+          "link": "https://www.jns.org/opinion/daniel-winston/the-saudi-tail-and-the-american-dog",
+          "source": "jns.org",
+          "pubDate": "2026-08-09T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Saudi tail and the American dog"
+        },
+        {
+          "title": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur",
+          "link": "http://www.middleeaststar.com/news/279227855/uae-participates-in-2026-brics-trade-ministers-meeting-in-jaipur",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-08-09T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur"
+        },
+        {
+          "title": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur",
+          "link": "http://www.beijingbulletin.com/news/279227855/uae-participates-in-2026-brics-trade-ministers-meeting-in-jaipur",
+          "source": "beijingbulletin.com",
+          "pubDate": "2026-08-09T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur"
+        },
+        {
+          "title": "Bangkok Post - Iran issues demands for reopening of Hormuz",
+          "link": "https://www.bangkokpost.com/world/3298885/iran-issues-demands-for-reopening-of-hormuz",
+          "source": "bangkokpost.com",
+          "pubDate": "2026-08-09T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bangkok Post - Iran issues demands for reopening of Hormuz"
+        },
+        {
+          "title": "Iran issues demands for reopening of Hormuz",
+          "link": "https://www.al-monitor.com/originals/2026/08/iran-issues-demands-reopening-hormuz",
+          "source": "al-monitor.com",
+          "pubDate": "2026-08-09T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran issues demands for reopening of Hormuz"
+        },
+        {
+          "title": "Iran issues demands for reopening of Hormuz",
+          "link": "https://www.bssnews.net/international/412924",
+          "source": "bssnews.net",
+          "pubDate": "2026-08-09T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran issues demands for reopening of Hormuz"
+        },
+        {
+          "title": "Deconstructing the Anti - Argentina Propaganda in the FIFA World Cup",
+          "link": "https://countercurrents.org/2026/08/deconstructing-the-anti-argentina-propaganda-in-the-fifa-world-cup/",
+          "source": "countercurrents.org",
+          "pubDate": "2026-08-09T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Deconstructing the Anti - Argentina Propaganda in the FIFA World Cup"
+        },
+        {
+          "title": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur",
+          "link": "http://www.myanmarnews.net/news/279227855/uae-participates-in-2026-brics-trade-ministers-meeting-in-jaipur",
+          "source": "myanmarnews.net",
+          "pubDate": "2026-08-09T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur"
+        },
+        {
+          "title": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur",
+          "link": "http://www.vietnamtribune.com/news/279227855/uae-participates-in-2026-brics-trade-ministers-meeting-in-jaipur",
+          "source": "vietnamtribune.com",
+          "pubDate": "2026-08-09T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur"
+        },
+        {
+          "title": "Egypt may join new defence alliance : Turkey expects Cairo to sign pact with Pakistan , Saudi Arabia",
+          "link": "https://timesofindia.indiatimes.com/world/middle-east/egypt-may-join-new-defence-alliance-turkey-expects-cairo-to-sign-pact-with-pakistan-saudi-arabia/articleshow/133061772.cms",
+          "source": "timesofindia.indiatimes.com",
+          "pubDate": "2026-08-09T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt may join new defence alliance : Turkey expects Cairo to sign pact with Pakistan , Saudi Arabia"
+        },
+        {
+          "title": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur",
+          "link": "http://www.nepalnational.com/news/279227855/uae-participates-in-2026-brics-trade-ministers-meeting-in-jaipur",
+          "source": "nepalnational.com",
+          "pubDate": "2026-08-09T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur"
+        },
+        {
+          "title": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur",
+          "link": "http://www.laosnews.net/news/279227855/uae-participates-in-2026-brics-trade-ministers-meeting-in-jaipur",
+          "source": "laosnews.net",
+          "pubDate": "2026-08-09T03:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur"
+        },
+        {
+          "title": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur",
+          "link": "http://www.shanghainews.net/news/279227855/uae-participates-in-2026-brics-trade-ministers-meeting-in-jaipur",
+          "source": "shanghainews.net",
+          "pubDate": "2026-08-09T03:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur"
+        },
+        {
+          "title": "Transocean Q2 Earnings Call Highlights",
+          "link": "https://www.themarketsdaily.com/2026/08/09/transocean-q2-earnings-call-highlights.html",
+          "source": "themarketsdaily.com",
+          "pubDate": "2026-08-09T03:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Transocean Q2 Earnings Call Highlights"
+        },
+        {
+          "title": "Netanyahu Challengers Are Selling The Same Poison",
+          "link": "https://www.pressenza.com/2026/08/netanyahus-challengers-are-selling-the-same-poison/",
+          "source": "pressenza.com",
+          "pubDate": "2026-08-09T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Netanyahu Challengers Are Selling The Same Poison"
+        },
+        {
+          "title": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur",
+          "link": "http://www.malaysiasun.com/news/279227855/uae-participates-in-2026-brics-trade-ministers-meeting-in-jaipur",
+          "source": "malaysiasun.com",
+          "pubDate": "2026-08-09T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur"
+        },
+        {
+          "title": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur",
+          "link": "http://www.indiagazette.com/news/279227855/uae-participates-in-2026-brics-trade-ministers-meeting-in-jaipur",
+          "source": "indiagazette.com",
+          "pubDate": "2026-08-09T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE participates in 2026 BRICS Trade Ministers Meeting in Jaipur"
+        },
+        {
+          "title": "Artdaily - The First Art Newspaper on the Net",
+          "link": "https://artdaily.com/?date=08/09/2026",
+          "source": "artdaily.com",
+          "pubDate": "2026-08-09T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Artdaily - The First Art Newspaper on the Net"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Business news: Egitto, accordo con Alcazar per costruzione di un parco eolico da 407 megawatt",
-          "link": "https://www.agenzianova.com/a/6a780dd5cb6c60.46492003/7681201/2026-08-09/business-news-egitto-accordo-con-alcazar-per-costruzione-di-un-parco-eolico-da-407-megawatt",
-          "description": "09 ago 02:00 - (Agenzia Nova) - L'operatore statale della rete elettrica egiziana Egyptian Electricity Transmission Company (Eetc) ha siglato... (Cae)",
-          "pubDate": "2026-08-09T02:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Business news: Egitto, accordo con Alcazar per costruzione di un parco eolico da 407 megawatt"
-        },
         {
           "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
           "link": "https://www.thereporterethiopia.com/52198/",
@@ -304,6 +655,15 @@
           "lang": "en",
           "description": "",
           "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope"
+        },
+        {
+          "title": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette",
+          "link": "https://gazettenet.com/2026/07/26/columnist-richard-fein-water-bankruptcy-horror-and-hope/",
+          "source": "gazettenet.com",
+          "pubDate": "2026-07-27T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Columnist Richard Fein : Water bankruptcy horror and hope - Daily Hampshire Gazette"
         }
       ]
     }
