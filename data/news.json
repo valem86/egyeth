@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-10T11:28:17.784Z",
+  "generatedAt": "2026-08-10T13:47:34.331Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egitto: al via costruzione polo tessile cinese da 117 milioni di dollari (2)",
+          "link": "https://www.agenzianova.com/a/6a79d592cf42f1.06866246/7687451/2026-08-10/egitto-al-via-costruzione-polo-tessile-cinese-da-117-milioni-di-dollari-2",
+          "description": "10 ago 15:40 - (Agenzia Nova) - Il 90 per cento della produzione sara' esportato sui mercati internazionali, mentre il restante 10 per cento... (Cae)",
+          "pubDate": "2026-08-10T15:40:14+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: al via costruzione polo tessile cinese da 117 milioni di dollari (2)"
+        },
         {
           "title": "EU to Support Libya in the Fight Against Terrorism and for Border Security",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/eu-to-support-libya-in-the-fight-against-terrorism-and-for-border-security_742e172c-5d23-469b-907d-8645ce88d816.html",
@@ -48,6 +57,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya: Kariobangi Sharks in Hot Soup As Sdt Dismiss Appeal Against Relegation to Nsl",
+          "link": "https://allafrica.com/stories/202608100447.html",
+          "description": "[Capital FM] NAIROBI -- Kariobangi Sharks' bid to stop their relegation to the National Super League (NSL) suffered a hammer blow after the Sports Disputes Tribunal (SDT) ruled in the favour of the Football Kenya Federation (FKF) Leagues and Competitions Committee.",
+          "pubDate": "Mon, 10 Aug 2026 12:07:30 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Kariobangi Sharks in Hot Soup As Sdt Dismiss Appeal Against Relegation to Nsl"
+        },
+        {
           "title": "Kenya: Ruto, Oburu Lead Broad-Based Parliamentary Retreat in Naivasha Ahead of 2027 Election",
           "link": "https://allafrica.com/stories/202608100109.html",
           "description": "[Capital FM] Naivasha -- President William Ruto and Orange Democratic Movement (ODM) Chairman Oburu Oginga are leading a broad-based parliamentary retreat in Naivasha attended by more than 250 National Assembly members and 45 senators, a year ahead of the 2027 General Election.",
@@ -55,15 +73,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: Ruto, Oburu Lead Broad-Based Parliamentary Retreat in Naivasha Ahead of 2027 Election"
-        },
-        {
-          "title": "Kenya: Matiang'i - Differences Within Opposition Are Part of Democracy",
-          "link": "https://allafrica.com/stories/202608100106.html",
-          "description": "[Capital FM] Nairobi -- Jubilee Party Presidential candidate Fred Matiang'i has sought to play down reports of divisions within the United Opposition, saying the coalition is still in the process of establishing itself before settling on who will lead it into the 2027 presidential election.",
-          "pubDate": "Mon, 10 Aug 2026 07:08:15 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Matiang'i - Differences Within Opposition Are Part of Democracy"
         },
         {
           "title": "Africa: The World Has Changed. African Countries Must Rethink How They Grow Their Economies",
@@ -97,6 +106,15 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Kenya: Kariobangi Sharks in Hot Soup As Sdt Dismiss Appeal Against Relegation to Nsl",
+          "link": "https://allafrica.com/stories/202608100447.html",
+          "description": "[Capital FM] NAIROBI -- Kariobangi Sharks' bid to stop their relegation to the National Super League (NSL) suffered a hammer blow after the Sports Disputes Tribunal (SDT) ruled in the favour of the Football Kenya Federation (FKF) Leagues and Competitions Committee.",
+          "pubDate": "Mon, 10 Aug 2026 12:07:30 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Kariobangi Sharks in Hot Soup As Sdt Dismiss Appeal Against Relegation to Nsl"
+        },
         {
           "title": "Sierra Leone president presses lawmakers to back contested election reforms",
           "link": "http://www.africanews.com/2026/08/10/sierra-leone-president-presses-lawmakers-to-back-contested-election-reforms/",
@@ -134,15 +152,6 @@
           "titleIt": "Centemero, 'porterò all'Onu candidatura di Milano come hub per governance etica IA'"
         },
         {
-          "title": "Women in El-Obeid testify to rape during Sudan conflict",
-          "link": "http://www.africanews.com/2026/08/06/women-in-el-obeid-testify-to-rape-during-sudan-conflict/",
-          "description": "Displaced women living in a camp in El-Obeid, in North Kordofan, say they were raped by Rapid Support Forces (RSF) members in front of their children before fleeing.",
-          "pubDate": "Thu, 06 Aug 2026 16:38:32 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Women in El-Obeid testify to rape during Sudan conflict"
-        },
-        {
           "title": "An Alliance for Vocational Training in Mozambique with Italy’s Support",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/06/an-alliance-for-vocational-training-in-mozambique-with-italys-support_3ef414b4-467a-4e7b-8d2b-9a8910a23fe5.html",
           "description": "(ANSA) - MAPUTO, 06 AGO - Mozambique’s Minister of Youth and Sports, Caifadine Paulo Manasse, opened the workshop “Alliance for the Future: Co-Investing in Training, Nurturing Talent,\" in Maputo Province on Thursday, August 6, calling for a new strategic partnership between the government, industry, and development partners, with the goal of transforming vocational training into a driver of industrialization and job creation. The event, organized by the Alberto Cassimo Institute for Vocational Training and Labor Studies (Ifpelac), is funded by the Italian government through the “Job Creation t",
@@ -175,6 +184,15 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
+          "title": "Egitto: al via costruzione polo tessile cinese da 117 milioni di dollari",
+          "link": "https://www.agenzianova.com/a/6a79d592cf6800.41013141/7687450/2026-08-10/egitto-al-via-costruzione-polo-tessile-cinese-da-117-milioni-di-dollari",
+          "description": "10 ago 15:40 - (Agenzia Nova) - Il gruppo cinese Zhejiang Jiansheng Group, noto commercialmente come Jasan Group, ha avviato oggi la costruzione... (Cae)",
+          "pubDate": "2026-08-10T15:40:14+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: al via costruzione polo tessile cinese da 117 milioni di dollari"
+        },
+        {
           "title": "The first Senegalese selected for the “New Destinies” project visited the embassy",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/the-first-senegalese-selected-for-the-new-destinies-project-visited_4bf68272-c586-47bf-bc20-f242c1b3b863.html",
           "description": "(ANSA) - IL CAIRO, 07 AGO - The Italian Ambassador to Dakar, Michele Tommasi, welcomed the first twelve Senegalese workers who will soon take part in the “New Destinies – New Horizons” project in Italy, in the presence of representatives from institutions, training organizations, and partners involved in the initiative. The program, managed by Umana, an Italian agency specializing in employment services, recruitment, and vocational training, was developed in collaboration with the Italian Confederation of Trade Unions (CISL) in Venice, the National Association Beyond Borders (ANOLF) in Venice,",
@@ -188,15 +206,6 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Sudan: Health Minister - Arrangements Underway to Establish Specialized Heart and Oncology Centers in White Nile",
-          "link": "https://allafrica.com/stories/202608100276.html",
-          "description": "[SNA] A joint meeting between the Ministry of Health and the Health Services Coordination Council in White Nile State was held on Sunday, chaired by Federal Minister of Health Dr. Haitham Mohamed Ibrahim and White Nile State Minister of Health and Social Development Dr. Al-Zain Saad Adam.",
-          "pubDate": "Mon, 10 Aug 2026 10:27:01 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Health Minister - Arrangements Underway to Establish Specialized Heart and Oncology Centers in White Nile"
-        },
         {
           "title": "Pope Leo XIV calls for humanitarian corridor in Sudan",
           "link": "http://www.africanews.com/2026/08/10/pope-leo-xiv-calls-for-humanitarian-corridor-in-sudan/",
