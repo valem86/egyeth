@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-08-10T02:38:10.651Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-08-10T05:46:14.741Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Hormuz: ministro Esteri Egitto, \"ottimismo su raggiungimento di un accordo su navigazione\"",
-          "link": "https://www.agenzianova.com/a/6a7938fb308b20.96624746/7684591/2026-08-09/hormuz-ministro-esteri-egitto-ottimismo-su-raggiungimento-di-un-accordo-su-navigazione",
-          "description": "09 ago 17:29 - (Agenzia Nova) - Il ministro degli Esteri egiziano Badr Abdelatty ha affermato che \"c'e' un certo ottimismo sul fatto che si... (Cae)",
-          "pubDate": "2026-08-09T17:29:50+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Hormuz: ministro Esteri Egitto, \"ottimismo su raggiungimento di un accordo su navigazione\""
-        },
         {
           "title": "EU to Support Libya in the Fight Against Terrorism and for Border Security",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/eu-to-support-libya-in-the-fight-against-terrorism-and-for-border-security_742e172c-5d23-469b-907d-8645ce88d816.html",
@@ -32,6 +23,24 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -39,13 +48,13 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Murkomen Warns Against Illegal Use of Police Military, Style Uniforms",
-          "link": "https://allafrica.com/stories/202608070502.html",
-          "description": "[Capital FM] Nairobi -- Interior Cabinet Secretary Kipchumba Murkomen has directed Inspector General of Police Douglas Kanja to move with speed against individuals wearing camouflage and other security-style uniforms while allegedly posing as police officers or members of specialised security units.",
-          "pubDate": "Fri, 07 Aug 2026 13:15:59 GMT",
+          "title": "Africa: The World Has Changed. African Countries Must Rethink How They Grow Their Economies",
+          "link": "https://allafrica.com/stories/202608100009.html",
+          "description": "[The Conversation Africa] The prolonged disruption of shipping through the Strait of Hormuz has exposed how vulnerable Africa's economies are to geopolitical shocks. Fuel prices have remained elevated, squeezing economies that depend heavily on petroleum imports from the Middle East. These include Ethiopia, Kenya, Mozambique, South Africa, Tanzania and Uganda.",
+          "pubDate": "Mon, 10 Aug 2026 04:34:59 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Murkomen Warns Against Illegal Use of Police Military, Style Uniforms"
+          "titleIt": "Africa: The World Has Changed. African Countries Must Rethink How They Grow Their Economies"
         },
         {
           "title": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya",
@@ -55,12 +64,39 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Congo-Kinshasa: Investigation Raises Alarm Over Uranium in DR Congo Cobalt Shipments to China",
+          "link": "https://allafrica.com/stories/202608100014.html",
+          "description": "[RFI] An investigation by Lighthouse Reports, The Financial Times and Le Monde traces the possible export of uranium from the Democratic Republic of Congo back to a confidential International Atomic Energy Agency memo obtained in 2024. Chinese mining group CMOC, which owns the main site examined in Katanga, disputes the findings.",
+          "pubDate": "Mon, 10 Aug 2026 04:37:55 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Congo-Kinshasa: Investigation Raises Alarm Over Uranium in DR Congo Cobalt Shipments to China"
+        },
+        {
+          "title": "Africa: The World Has Changed. African Countries Must Rethink How They Grow Their Economies",
+          "link": "https://allafrica.com/stories/202608100009.html",
+          "description": "[The Conversation Africa] The prolonged disruption of shipping through the Strait of Hormuz has exposed how vulnerable Africa's economies are to geopolitical shocks. Fuel prices have remained elevated, squeezing economies that depend heavily on petroleum imports from the Middle East. These include Ethiopia, Kenya, Mozambique, South Africa, Tanzania and Uganda.",
+          "pubDate": "Mon, 10 Aug 2026 04:34:59 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: The World Has Changed. African Countries Must Rethink How They Grow Their Economies"
+        },
         {
           "title": "Centemero, 'porterò all'Onu candidatura di Milano come hub per governance etica IA'",
           "link": "https://www.ansa.it/ansamednew/ar/notizie/politica/2026/08/07/centemero-portero-allonu-candidatura-di-milano-come-hub-per-governance-etica_95da0875-17ed-4487-a5fc-c36c3418674f.html",
@@ -69,15 +105,6 @@
           "source": "ANSAmed (ar)",
           "lang": "ar",
           "titleIt": "Centemero, 'porterò all'Onu candidatura di Milano come hub per governance etica IA'"
-        },
-        {
-          "title": "Tanzania: Uganda, Tanzania Seal Deal to Develop Tanga Into Regional Energy Hub",
-          "link": "https://allafrica.com/stories/202608070230.html",
-          "description": "[Independent (Kampala)] Dar es Salaam -- President Yoweri Kaguta Museveni of Uganda and Samia Suluhu Hassan of Tanzania have endorsed a landmark Memorandum of Understanding (MoU) aimed at reshaping East Africa's energy economy by shifting the region's focus from crude oil exports to building an integrated regional energy and industrial hub.",
-          "pubDate": "Fri, 07 Aug 2026 10:34:13 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Tanzania: Uganda, Tanzania Seal Deal to Develop Tanga Into Regional Energy Hub"
         },
         {
           "title": "Women in El-Obeid testify to rape during Sudan conflict",
@@ -105,6 +132,15 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -124,17 +160,7 @@
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": [
-        {
-          "title": "Hormuz: ministro Esteri Egitto, \"ottimismo su raggiungimento di un accordo su navigazione\"",
-          "link": "https://www.agenzianova.com/a/6a7938fb308b20.96624746/7684591/2026-08-09/hormuz-ministro-esteri-egitto-ottimismo-su-raggiungimento-di-un-accordo-su-navigazione",
-          "description": "09 ago 17:29 - (Agenzia Nova) - Il ministro degli Esteri egiziano Badr Abdelatty ha affermato che \"c'e' un certo ottimismo sul fatto che si... (Cae)",
-          "pubDate": "2026-08-09T17:29:50+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Hormuz: ministro Esteri Egitto, \"ottimismo su raggiungimento di un accordo su navigazione\""
-        }
-      ]
+      "items": []
     }
   }
 }
