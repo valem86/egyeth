@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11T17:15:51.675Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-11T19:29:03.581Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -23,24 +23,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -55,15 +37,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: Gachagua Warns Kenya 'Not Safe' for Foreigners, Cites Cross-Border Abductions, Deportations"
-        },
-        {
-          "title": "India new Middle East power play - opinion | The Jerusalem Post",
-          "link": "http://www.jpost.com/defense-and-tech/article-905189",
-          "source": "jpost.com",
-          "pubDate": "2026-08-11T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India new Middle East power play - opinion | The Jerusalem Post"
         },
         {
           "title": "Kenya: U.S. Pledges $242mn for Ebola Response As Kenya Strengthens Regional Preparedness",
@@ -84,87 +57,6 @@
           "titleIt": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war"
         },
         {
-          "title": "The Recurrent Injustice Against the SSC People in Somali Politics Preamble",
-          "link": "https://wardheernews.com/the-recurrent-injustice-against-the-ssc-people-in-somali-politicspreamble/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-11T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Recurrent Injustice Against the SSC People in Somali Politics Preamble"
-        },
-        {
-          "title": "Dubai ruler confronted in London over UAE involvement in Sudan war",
-          "link": "https://www.middleeasteye.net/news/dubai-ruler-confronted-london-over-uae-involvement-sudan-war",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-10T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dubai ruler confronted in London over UAE involvement in Sudan war"
-        },
-        {
-          "title": "The US Back in Ethiopia , a New Hub of Major Power Competition",
-          "link": "https://www.theepochtimes.com/opinion/the-us-back-in-ethiopia-a-new-hub-of-major-power-competition-6072382",
-          "source": "theepochtimes.com",
-          "pubDate": "2026-08-09T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The US Back in Ethiopia , a New Hub of Major Power Competition"
-        },
-        {
-          "title": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions",
-          "link": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260807-rferl01.htm",
-          "source": "globalsecurity.org",
-          "pubDate": "2026-08-08T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions"
-        },
-        {
-          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
-          "link": "https://www.thereporterethiopia.com/52198/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-08T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
-        },
-        {
-          "title": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative",
-          "link": "https://wardheernews.com/who-owns-the-credit-minister-presents-world-bank-funded-hargeisa-project-as-a-federal-government-initiative/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-08T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative"
-        },
-        {
-          "title": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development",
-          "link": "https://horseedmedia.net/somaliland-president-cirro-meets-international-representatives-in-nairobi-to-discuss-security-and-development/424582/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-08-07T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development"
-        },
-        {
-          "title": "Israeli Navy conducts largest drill since Oct . 7",
-          "link": "https://www.clevelandjewishnews.com/news/world_news/israeli-navy-conducts-largest-drill-since-oct-7/article_9e62e6ad-ec7f-58e1-8776-741d7a792d56.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-08-07T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israeli Navy conducts largest drill since Oct . 7"
-        },
-        {
-          "title": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night",
-          "link": "https://www.fairobserver.com/region/middle_east_north_africa/riyadhs-sudan-contradiction-mediator-by-day-arms-broker-by-night/",
-          "source": "fairobserver.com",
-          "pubDate": "2026-08-07T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night"
-        },
-        {
           "title": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/ambassador-del-monaco-meets-with-the-governor-of-the-central-bank_98723a78-8014-4ced-9f2f-a463887f1000.html",
           "description": "(ANSA) - ROMA, 07 AGO - The Italian Ambassador to the Republic of Kenya and the Seychelles, Vincenzo Del Monaco, met with the Governor of the Central Bank of Kenya, Kamau Thugge, with whom he had “an important exchange of information.” “It was an opportunity to discuss the country’s economic situation,” the embassy noted, “and the growing bilateral relationship between Italy and Kenya.” Read article...",
@@ -172,60 +64,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya"
-        },
-        {
-          "title": "Turkiye Erdogan visits Saudi Arabia : What to expect - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/turkiyes-erdogan-visits-saudi-arabia-what-to-expect/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-08-07T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkiye Erdogan visits Saudi Arabia : What to expect - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
-        },
-        {
-          "title": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East",
-          "link": "https://foreignpolicy.com/2026/08/05/saudi-arabia-iran-israel-united-states-trump-uae-oil-houthis/?tpcc=recirc_trending062921",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-08-06T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East"
-        },
-        {
-          "title": "The power to paralyze a country by sea : Israel Navy unveils new vision",
-          "link": "https://www.ynetnews.com/article/bk4fy7mugx",
-          "source": "ynetnews.com",
-          "pubDate": "2026-08-06T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The power to paralyze a country by sea : Israel Navy unveils new vision"
-        },
-        {
-          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
-          "link": "https://allafrica.com/stories/202608060151.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-06T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
-        },
-        {
-          "title": "Three Federal States , One Political Strategy , and Somalia Most Dangerous Gamble",
-          "link": "https://wardheernews.com/three-federal-states-one-political-strategy-and-somalias-most-dangerous-gamble/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-06T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Three Federal States , One Political Strategy , and Somalia Most Dangerous Gamble"
-        },
-        {
-          "title": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness",
-          "link": "https://www.theyeshivaworld.com/news/israel-news/2582738/red-sea-attack-indian-cargo-ship-sinks-off-yemen-as-israel-boosts-naval-readiness.html",
-          "source": "theyeshivaworld.com",
-          "pubDate": "2026-08-05T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness"
         }
       ]
     },
@@ -233,13 +71,13 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Houthis reportedly kill four in first deadly attack since start of Iran war",
+          "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
           "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-          "description": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
-          "pubDate": "Tue, 11 Aug 2026 15:41:13 GMT",
+          "description": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high.",
+          "pubDate": "Tue, 11 Aug 2026 19:27:17 GMT",
           "source": "BBC World",
           "lang": "en",
-          "titleIt": "Houthis reportedly kill four in first deadly attack since start of Iran war"
+          "titleIt": "Houthis reportedly kill six in first deadly attack since start of Iran war"
         },
         {
           "title": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war",
@@ -276,15 +114,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
