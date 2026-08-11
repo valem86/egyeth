@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-11T02:31:15.009Z",
+  "generatedAt": "2026-08-11T05:31:41.459Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: UN Puts Somalia Mission Assets Up for Sale As U.S. Funding Cutoff Looms",
+          "link": "https://allafrica.com/stories/202608110106.html",
+          "description": "[Radio Dalsan] Mogadishu, Somalia -- The United Nations Support Office in Somalia (UNSOS) has opened a tender seeking licensed auctioneers to sell off a wide range of its vehicles, generators and other equipment in Somalia, a notice published on the UN Global Marketplace shows.",
+          "pubDate": "Tue, 11 Aug 2026 04:40:45 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: UN Puts Somalia Mission Assets Up for Sale As U.S. Funding Cutoff Looms"
+        },
         {
           "title": "EU to Support Libya in the Fight Against Terrorism and for Border Security",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/eu-to-support-libya-in-the-fight-against-terrorism-and-for-border-security_742e172c-5d23-469b-907d-8645ce88d816.html",
@@ -48,13 +57,13 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Kariobangi Sharks in Hot Soup As Sdt Dismiss Appeal Against Relegation to Nsl",
-          "link": "https://allafrica.com/stories/202608100447.html",
-          "description": "[Capital FM] NAIROBI -- Kariobangi Sharks' bid to stop their relegation to the National Super League (NSL) suffered a hammer blow after the Sports Disputes Tribunal (SDT) ruled in the favour of the Football Kenya Federation (FKF) Leagues and Competitions Committee.",
-          "pubDate": "Mon, 10 Aug 2026 12:07:30 GMT",
+          "title": "Somalia: UN Puts Somalia Mission Assets Up for Sale As U.S. Funding Cutoff Looms",
+          "link": "https://allafrica.com/stories/202608110106.html",
+          "description": "[Radio Dalsan] Mogadishu, Somalia -- The United Nations Support Office in Somalia (UNSOS) has opened a tender seeking licensed auctioneers to sell off a wide range of its vehicles, generators and other equipment in Somalia, a notice published on the UN Global Marketplace shows.",
+          "pubDate": "Tue, 11 Aug 2026 04:40:45 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Kariobangi Sharks in Hot Soup As Sdt Dismiss Appeal Against Relegation to Nsl"
+          "titleIt": "Somalia: UN Puts Somalia Mission Assets Up for Sale As U.S. Funding Cutoff Looms"
         },
         {
           "title": "Kenya: Ruto, Oburu Lead Broad-Based Parliamentary Retreat in Naivasha Ahead of 2027 Election",
@@ -89,22 +98,31 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Gambia: High Court Rejects Attempt to Stop Management of Manjai Football Park",
-          "link": "https://allafrica.com/stories/202608100595.html",
-          "description": "[Foroyaa] The Bundung High Court has dismissed an application by the Manjai Kunda Village Management Development Committee seeking to stop a group of individuals from managing and using the Manjai Football Park, also known as the Father Gough Sports Complex, pending the determination of a substantive dispute over the ownership and management of the facility.",
-          "pubDate": "Mon, 10 Aug 2026 16:31:16 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Gambia: High Court Rejects Attempt to Stop Management of Manjai Football Park"
+          "title": "Ue: \"Politico\", Costa dal 25 agosto in tour per chiudere entro fine anno accordo sul bilancio (2)",
+          "link": "https://www.agenzianova.com/a/6a7ab31c4a9973.43653816/7688718/2026-08-11/ue-politico-costa-dal-25-agosto-in-tour-per-chiudere-entro-fine-anno-accordo-sul-bilancio-2",
+          "description": "11 ago 06:56 - (Agenzia Nova) - Le tempistiche restano particolarmente serrate: dopo l'accordo tra i leader sara' necessario ottenere il consenso... (Res)",
+          "pubDate": "2026-08-11T06:56:37+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Ue: \"Politico\", Costa dal 25 agosto in tour per chiudere entro fine anno accordo sul bilancio (2)"
         },
         {
-          "title": "Kenya: Kariobangi Sharks in Hot Soup As Sdt Dismiss Appeal Against Relegation to Nsl",
-          "link": "https://allafrica.com/stories/202608100447.html",
-          "description": "[Capital FM] NAIROBI -- Kariobangi Sharks' bid to stop their relegation to the National Super League (NSL) suffered a hammer blow after the Sports Disputes Tribunal (SDT) ruled in the favour of the Football Kenya Federation (FKF) Leagues and Competitions Committee.",
-          "pubDate": "Mon, 10 Aug 2026 12:07:30 GMT",
+          "title": "Ue: \"Politico\", Costa dal 25 agosto in tour per chiudere entro fine anno accordo sul bilancio",
+          "link": "https://www.agenzianova.com/a/6a7ab31c4ab203.94334263/7688717/2026-08-11/ue-politico-costa-dal-25-agosto-in-tour-per-chiudere-entro-fine-anno-accordo-sul-bilancio",
+          "description": "11 ago 06:56 - (Agenzia Nova) - Il presidente del Consiglio europeo Antonio Costa avviera' dal 25 agosto un tour delle capitali dell'Ue per... (Res)",
+          "pubDate": "2026-08-11T06:56:37+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Ue: \"Politico\", Costa dal 25 agosto in tour per chiudere entro fine anno accordo sul bilancio"
+        },
+        {
+          "title": "Somalia: UN Puts Somalia Mission Assets Up for Sale As U.S. Funding Cutoff Looms",
+          "link": "https://allafrica.com/stories/202608110106.html",
+          "description": "[Radio Dalsan] Mogadishu, Somalia -- The United Nations Support Office in Somalia (UNSOS) has opened a tender seeking licensed auctioneers to sell off a wide range of its vehicles, generators and other equipment in Somalia, a notice published on the UN Global Marketplace shows.",
+          "pubDate": "Tue, 11 Aug 2026 04:40:45 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Kariobangi Sharks in Hot Soup As Sdt Dismiss Appeal Against Relegation to Nsl"
+          "titleIt": "Somalia: UN Puts Somalia Mission Assets Up for Sale As U.S. Funding Cutoff Looms"
         },
         {
           "title": "Sierra Leone president presses lawmakers to back contested election reforms",
@@ -170,6 +188,15 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Sudan: Ibrahim Jabir Chairs High-Level National Committee Meeting On Coordination With the United Nations",
+          "link": "https://allafrica.com/stories/202608110071.html",
+          "description": "[SNA] Khartoum, Aug. 10, 2026 (SUNA) - Member of the Transitional Sovereignty Council (TSC), Lt. Gen. Engineer Ibrahim Jabir, chaired a meeting of the High-Level National Committee for Coordination with the United Nations, attended by a number of ministers and representatives of relevant state institutions.",
+          "pubDate": "Tue, 11 Aug 2026 04:21:15 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Ibrahim Jabir Chairs High-Level National Committee Meeting On Coordination With the United Nations"
+        },
         {
           "title": "Pope Leo XIV calls for humanitarian corridor in Sudan",
           "link": "http://www.africanews.com/2026/08/10/pope-leo-xiv-calls-for-humanitarian-corridor-in-sudan/",
