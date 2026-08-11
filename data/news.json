@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11T13:46:52.152Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-08-11T15:18:32.381Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -32,12 +32,39 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "India new Middle East power play - opinion | The Jerusalem Post",
+          "link": "http://www.jpost.com/defense-and-tech/article-905189",
+          "source": "jpost.com",
+          "pubDate": "2026-08-11T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India new Middle East power play - opinion | The Jerusalem Post"
+        },
         {
           "title": "Kenya: U.S. Pledges $242mn for Ebola Response As Kenya Strengthens Regional Preparedness",
           "link": "https://allafrica.com/stories/202608110462.html",
@@ -57,6 +84,15 @@
           "titleIt": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war"
         },
         {
+          "title": "The Recurrent Injustice Against the SSC People in Somali Politics Preamble",
+          "link": "https://wardheernews.com/the-recurrent-injustice-against-the-ssc-people-in-somali-politicspreamble/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-11T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Recurrent Injustice Against the SSC People in Somali Politics Preamble"
+        },
+        {
           "title": "Somalia: UN Puts Somalia Mission Assets Up for Sale As U.S. Funding Cutoff Looms",
           "link": "https://allafrica.com/stories/202608110106.html",
           "description": "[Radio Dalsan] Mogadishu, Somalia -- The United Nations Support Office in Somalia (UNSOS) has opened a tender seeking licensed auctioneers to sell off a wide range of its vehicles, generators and other equipment in Somalia, a notice published on the UN Global Marketplace shows.",
@@ -66,6 +102,78 @@
           "titleIt": "Somalia: UN Puts Somalia Mission Assets Up for Sale As U.S. Funding Cutoff Looms"
         },
         {
+          "title": "Dubai ruler confronted in London over UAE involvement in Sudan war",
+          "link": "https://www.middleeasteye.net/news/dubai-ruler-confronted-london-over-uae-involvement-sudan-war",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-10T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dubai ruler confronted in London over UAE involvement in Sudan war"
+        },
+        {
+          "title": "The US Back in Ethiopia , a New Hub of Major Power Competition",
+          "link": "https://www.theepochtimes.com/opinion/the-us-back-in-ethiopia-a-new-hub-of-major-power-competition-6072382",
+          "source": "theepochtimes.com",
+          "pubDate": "2026-08-09T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The US Back in Ethiopia , a New Hub of Major Power Competition"
+        },
+        {
+          "title": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260807-rferl01.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-08-08T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions"
+        },
+        {
+          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
+          "link": "https://www.thereporterethiopia.com/52198/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-08T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
+        },
+        {
+          "title": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative",
+          "link": "https://wardheernews.com/who-owns-the-credit-minister-presents-world-bank-funded-hargeisa-project-as-a-federal-government-initiative/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-08T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative"
+        },
+        {
+          "title": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development",
+          "link": "https://horseedmedia.net/somaliland-president-cirro-meets-international-representatives-in-nairobi-to-discuss-security-and-development/424582/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-08-07T22:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development"
+        },
+        {
+          "title": "Israeli Navy conducts largest drill since Oct . 7",
+          "link": "https://www.clevelandjewishnews.com/news/world_news/israeli-navy-conducts-largest-drill-since-oct-7/article_9e62e6ad-ec7f-58e1-8776-741d7a792d56.html",
+          "source": "clevelandjewishnews.com",
+          "pubDate": "2026-08-07T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israeli Navy conducts largest drill since Oct . 7"
+        },
+        {
+          "title": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night",
+          "link": "https://www.fairobserver.com/region/middle_east_north_africa/riyadhs-sudan-contradiction-mediator-by-day-arms-broker-by-night/",
+          "source": "fairobserver.com",
+          "pubDate": "2026-08-07T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night"
+        },
+        {
           "title": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/ambassador-del-monaco-meets-with-the-governor-of-the-central-bank_98723a78-8014-4ced-9f2f-a463887f1000.html",
           "description": "(ANSA) - ROMA, 07 AGO - The Italian Ambassador to the Republic of Kenya and the Seychelles, Vincenzo Del Monaco, met with the Governor of the Central Bank of Kenya, Kamau Thugge, with whom he had “an important exchange of information.” “It was an opportunity to discuss the country’s economic situation,” the embassy noted, “and the growing bilateral relationship between Italy and Kenya.” Read article...",
@@ -73,12 +181,75 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya"
+        },
+        {
+          "title": "Turkiye Erdogan visits Saudi Arabia : What to expect - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/turkiyes-erdogan-visits-saudi-arabia-what-to-expect/",
+          "source": "dominicanrepublicpost.com",
+          "pubDate": "2026-08-07T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkiye Erdogan visits Saudi Arabia : What to expect - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
+        },
+        {
+          "title": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East",
+          "link": "https://foreignpolicy.com/2026/08/05/saudi-arabia-iran-israel-united-states-trump-uae-oil-houthis/?tpcc=recirc_trending062921",
+          "source": "foreignpolicy.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East"
+        },
+        {
+          "title": "The power to paralyze a country by sea : Israel Navy unveils new vision",
+          "link": "https://www.ynetnews.com/article/bk4fy7mugx",
+          "source": "ynetnews.com",
+          "pubDate": "2026-08-06T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The power to paralyze a country by sea : Israel Navy unveils new vision"
+        },
+        {
+          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
+          "link": "https://allafrica.com/stories/202608060151.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
+        },
+        {
+          "title": "Three Federal States , One Political Strategy , and Somalia Most Dangerous Gamble",
+          "link": "https://wardheernews.com/three-federal-states-one-political-strategy-and-somalias-most-dangerous-gamble/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-06T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Three Federal States , One Political Strategy , and Somalia Most Dangerous Gamble"
+        },
+        {
+          "title": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness",
+          "link": "https://www.theyeshivaworld.com/news/israel-news/2582738/red-sea-attack-indian-cargo-ship-sinks-off-yemen-as-israel-boosts-naval-readiness.html",
+          "source": "theyeshivaworld.com",
+          "pubDate": "2026-08-05T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Houthis kill three in first deadly attack since start of Iran war - reports",
+          "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
+          "description": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
+          "pubDate": "Tue, 11 Aug 2026 13:35:57 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Houthis kill three in first deadly attack since start of Iran war - reports"
+        },
         {
           "title": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war",
           "link": "http://www.africanews.com/2026/08/11/tigray-rebels-accuse-ethiopia-of-drone-strikes-amid-fears-of-renewed-war/",
@@ -89,6 +260,15 @@
           "titleIt": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war"
         },
         {
+          "title": "African exporters reap early benefits of China zero - tariff treatment -- China Economic Net",
+          "link": "http://en.ce.cn/main/latest/202608/t20260811_3141264.shtml",
+          "source": "en.ce.cn",
+          "pubDate": "2026-08-11T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African exporters reap early benefits of China zero - tariff treatment -- China Economic Net"
+        },
+        {
           "title": "Somalia: UN Puts Somalia Mission Assets Up for Sale As U.S. Funding Cutoff Looms",
           "link": "https://allafrica.com/stories/202608110106.html",
           "description": "[Radio Dalsan] Mogadishu, Somalia -- The United Nations Support Office in Somalia (UNSOS) has opened a tender seeking licensed auctioneers to sell off a wide range of its vehicles, generators and other equipment in Somalia, a notice published on the UN Global Marketplace shows.",
@@ -96,6 +276,87 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: UN Puts Somalia Mission Assets Up for Sale As U.S. Funding Cutoff Looms"
+        },
+        {
+          "title": "African exporters reap early benefits of China zero - tariff treatment -- Beijing Review",
+          "link": "http://www.bjreview.com/World/202608/t20260811_800443860.html",
+          "source": "bjreview.com",
+          "pubDate": "2026-08-11T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African exporters reap early benefits of China zero - tariff treatment -- Beijing Review"
+        },
+        {
+          "title": "African exporters reap early benefits of China zero - tariff treatment -- Beijing Review",
+          "link": "http://www.bjreview.com.cn/World/202608/t20260811_800443860.html",
+          "source": "bjreview.com.cn",
+          "pubDate": "2026-08-11T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African exporters reap early benefits of China zero - tariff treatment -- Beijing Review"
+        },
+        {
+          "title": "Kenyan , African exporters benefit from China zero - tariff policy – Capital FM Kenya",
+          "link": "https://capitalfm.africa/kenyan-african-exporters-benefit-from-chinas-zero-tariff-policy/",
+          "source": "capitalfm.africa",
+          "pubDate": "2026-08-10T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Kenyan , African exporters benefit from China zero - tariff policy – Capital FM Kenya"
+        },
+        {
+          "title": "African Union – COMESA Deploy Observers to the August 13 General Elections",
+          "link": "https://www.comesa.int/african-union-comesa-deploy-observers-to-the-august-13-general-elections/",
+          "source": "comesa.int",
+          "pubDate": "2026-08-10T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African Union – COMESA Deploy Observers to the August 13 General Elections"
+        },
+        {
+          "title": "Xinhua Headlines : African exporters reap early benefits of China zero - tariff treatment",
+          "link": "http://www.shanghaisun.com/news/279229151/xinhua-headlines-african-exporters-reap-early-benefits-of-china-zero-tariff-treatment",
+          "source": "shanghaisun.com",
+          "pubDate": "2026-08-10T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Xinhua Headlines : African exporters reap early benefits of China zero - tariff treatment"
+        },
+        {
+          "title": "Xinhua Headlines : African exporters reap early benefits of China zero - tariff treatment",
+          "link": "http://www.shanghainews.net/news/279229151/xinhua-headlines-african-exporters-reap-early-benefits-of-china-zero-tariff-treatment",
+          "source": "shanghainews.net",
+          "pubDate": "2026-08-10T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Xinhua Headlines : African exporters reap early benefits of China zero - tariff treatment"
+        },
+        {
+          "title": "Xinhua Headlines : African exporters reap early benefits of China zero - tariff treatment",
+          "link": "http://www.nigeriasun.com/news/279229151/xinhua-headlines-african-exporters-reap-early-benefits-of-china-zero-tariff-treatment",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-08-10T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Xinhua Headlines : African exporters reap early benefits of China zero - tariff treatment"
+        },
+        {
+          "title": "Record temperatures swept regions home to 900 million people in July",
+          "link": "http://www.kenyastar.com/news/279229038/record-temperatures-swept-regions-home-to-900-million-people-in-july",
+          "source": "kenyastar.com",
+          "pubDate": "2026-08-10T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Record temperatures swept regions home to 900 million people in July"
+        },
+        {
+          "title": "The Great Delegalization | The New Yorker",
+          "link": "https://www.newyorker.com/news/the-lede/the-great-delegalization",
+          "source": "newyorker.com",
+          "pubDate": "2026-08-10T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Great Delegalization | The New Yorker"
         },
         {
           "title": "Sierra Leone president presses lawmakers to back contested election reforms",
@@ -107,22 +368,58 @@
           "titleIt": "Sierra Leone president presses lawmakers to back contested election reforms"
         },
         {
-          "title": "An Alliance for Vocational Training in Mozambique with Italy’s Support",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/06/an-alliance-for-vocational-training-in-mozambique-with-italys-support_3ef414b4-467a-4e7b-8d2b-9a8910a23fe5.html",
-          "description": "(ANSA) - MAPUTO, 06 AGO - Mozambique’s Minister of Youth and Sports, Caifadine Paulo Manasse, opened the workshop “Alliance for the Future: Co-Investing in Training, Nurturing Talent,\" in Maputo Province on Thursday, August 6, calling for a new strategic partnership between the government, industry, and development partners, with the goal of transforming vocational training into a driver of industrialization and job creation. The event, organized by the Alberto Cassimo Institute for Vocational Training and Labor Studies (Ifpelac), is funded by the Italian government through the “Job Creation t",
-          "pubDate": "Thu, 6 Aug 2026 17:56:29 +0200",
-          "source": "ANSA English",
+          "title": "Record temperatures swept regions home to 900 million people in July",
+          "link": "https://www.aol.co.uk/articles/record-temperatures-swept-regions-home-093333000.html",
+          "source": "aol.co.uk",
+          "pubDate": "2026-08-10T10:00:00Z",
           "lang": "en",
-          "titleIt": "An Alliance for Vocational Training in Mozambique with Italy’s Support"
+          "description": "",
+          "titleIt": "Record temperatures swept regions home to 900 million people in July"
         },
         {
-          "title": "Real Madrid sign Diomande in deal worth up to £120m",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c4g3906pz65o?at_medium=RSS&at_campaign=rss",
-          "description": "Real Madrid sign Ivory Coast international Yan Diomande from German side RB Leipzig for a fee worth up to 140m euros (£120m).",
-          "pubDate": "Thu, 06 Aug 2026 14:58:56 GMT",
-          "source": "BBC Africa",
+          "title": "5 Unique Washington , D . C ., Neighborhoods I Love As A Local",
+          "link": "https://www.islands.com/2232247/unique-washington-dc-neighborhoods-local-love/",
+          "source": "islands.com",
+          "pubDate": "2026-08-10T09:00:00Z",
           "lang": "en",
-          "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
+          "description": "",
+          "titleIt": "5 Unique Washington , D . C ., Neighborhoods I Love As A Local"
+        },
+        {
+          "title": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict",
+          "link": "https://allafrica.com/stories/202608100033.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict"
+        },
+        {
+          "title": "Sudan : How Sudan War Is Destroying Its Development Future",
+          "link": "https://allafrica.com/stories/202608100015.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-10T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : How Sudan War Is Destroying Its Development Future"
+        },
+        {
+          "title": "How Iran  Axis of Resistance  has shaped the war",
+          "link": "https://www.kasu.org/2026-08-09/how-irans-axis-of-resistance-has-shaped-the-war",
+          "source": "kasu.org",
+          "pubDate": "2026-08-10T03:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How Iran  Axis of Resistance  has shaped the war"
+        },
+        {
+          "title": "How Iran  Axis of Resistance  has shaped the war",
+          "link": "https://www.iowapublicradio.org/news-from-npr/2026-08-09/how-irans-axis-of-resistance-has-shaped-the-war",
+          "source": "iowapublicradio.org",
+          "pubDate": "2026-08-10T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How Iran  Axis of Resistance  has shaped the war"
         }
       ]
     },
@@ -130,13 +427,184 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "The first Senegalese selected for the “New Destinies” project visited the embassy",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/the-first-senegalese-selected-for-the-new-destinies-project-visited_4bf68272-c586-47bf-bc20-f242c1b3b863.html",
-          "description": "(ANSA) - IL CAIRO, 07 AGO - The Italian Ambassador to Dakar, Michele Tommasi, welcomed the first twelve Senegalese workers who will soon take part in the “New Destinies – New Horizons” project in Italy, in the presence of representatives from institutions, training organizations, and partners involved in the initiative. The program, managed by Umana, an Italian agency specializing in employment services, recruitment, and vocational training, was developed in collaboration with the Italian Confederation of Trade Unions (CISL) in Venice, the National Association Beyond Borders (ANOLF) in Venice,",
-          "pubDate": "Fri, 7 Aug 2026 12:08:40 +0200",
-          "source": "ANSA English",
+          "title": "Armenia , Egypt look to deepen bilateral ties",
+          "link": "https://www.pan.am/en/624387",
+          "source": "pan.am",
+          "pubDate": "2026-08-11T14:45:00Z",
           "lang": "en",
-          "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
+          "description": "",
+          "titleIt": "Armenia , Egypt look to deepen bilateral ties"
+        },
+        {
+          "title": "Business delegation from North Al Batinah explores investment opportunities in Egypt",
+          "link": "https://timesofoman.com/article/175493-business-delegation-from-north-al-batinah-explores-investment-opportunities-in-egypt",
+          "source": "timesofoman.com",
+          "pubDate": "2026-08-11T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Business delegation from North Al Batinah explores investment opportunities in Egypt"
+        },
+        {
+          "title": "BRICS discusses interlinking payment systems and digital currencies",
+          "link": "http://www.europesun.com/news/279234257/brics-discusses-interlinking-payment-systems-and-digital-currencies",
+          "source": "europesun.com",
+          "pubDate": "2026-08-11T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS discusses interlinking payment systems and digital currencies"
+        },
+        {
+          "title": "BRICS discusses interlinking payment systems and digital currencies",
+          "link": "http://www.hongkongherald.com/news/279234257/brics-discusses-interlinking-payment-systems-and-digital-currencies",
+          "source": "hongkongherald.com",
+          "pubDate": "2026-08-11T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS discusses interlinking payment systems and digital currencies"
+        },
+        {
+          "title": "BRICS discusses interlinking payment systems and digital currencies",
+          "link": "http://www.asiabulletin.com/news/279234257/brics-discusses-interlinking-payment-systems-and-digital-currencies",
+          "source": "asiabulletin.com",
+          "pubDate": "2026-08-11T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS discusses interlinking payment systems and digital currencies"
+        },
+        {
+          "title": "BRICS discusses interlinking payment systems and digital currencies",
+          "link": "http://www.londonmercury.com/news/279234257/brics-discusses-interlinking-payment-systems-and-digital-currencies",
+          "source": "londonmercury.com",
+          "pubDate": "2026-08-11T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS discusses interlinking payment systems and digital currencies"
+        },
+        {
+          "title": "BRICS discusses interlinking payment systems and digital currencies",
+          "link": "http://www.calcuttanews.net/news/279234257/brics-discusses-interlinking-payment-systems-and-digital-currencies",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-08-11T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS discusses interlinking payment systems and digital currencies"
+        },
+        {
+          "title": "BRICS discusses interlinking payment systems and digital currencies",
+          "link": "http://www.srilankasource.com/news/279234257/brics-discusses-interlinking-payment-systems-and-digital-currencies",
+          "source": "srilankasource.com",
+          "pubDate": "2026-08-11T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS discusses interlinking payment systems and digital currencies"
+        },
+        {
+          "title": "Egypt El - Sisi Orders 200 - Metre Coastal Construction Rule , Beach Access Checks",
+          "link": "https://egyptianstreets.com/2026/08/11/egypts-el-sisi-orders-200-metre-coastal-construction-rule-beach-access-checks/",
+          "source": "egyptianstreets.com",
+          "pubDate": "2026-08-11T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt El - Sisi Orders 200 - Metre Coastal Construction Rule , Beach Access Checks"
+        },
+        {
+          "title": "Egypt belongs in the Mecca defence agreement and has every right to set conditions – Ya Libnan",
+          "link": "https://yalibnan.com/2026/08/11/egypt-belongs-in-the-mecca-defence-agreement-and-has-every-right-to-set-conditions/",
+          "source": "yalibnan.com",
+          "pubDate": "2026-08-11T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt belongs in the Mecca defence agreement and has every right to set conditions – Ya Libnan"
+        },
+        {
+          "title": "BRICS discusses interlinking payment systems and digital currencies",
+          "link": "http://www.jamaicantimes.com/news/279234257/brics-discusses-interlinking-payment-systems-and-digital-currencies",
+          "source": "jamaicantimes.com",
+          "pubDate": "2026-08-11T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS discusses interlinking payment systems and digital currencies"
+        },
+        {
+          "title": "BRICS discusses interlinking payment systems and digital currencies",
+          "link": "http://www.austinglobe.com/news/279234257/brics-discusses-interlinking-payment-systems-and-digital-currencies",
+          "source": "austinglobe.com",
+          "pubDate": "2026-08-11T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS discusses interlinking payment systems and digital currencies"
+        },
+        {
+          "title": "BRICS discusses interlinking payment systems and digital currencies",
+          "link": "http://www.britainnews.net/news/279234257/brics-discusses-interlinking-payment-systems-and-digital-currencies",
+          "source": "britainnews.net",
+          "pubDate": "2026-08-11T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS discusses interlinking payment systems and digital currencies"
+        },
+        {
+          "title": "BRICS discusses interlinking payment systems and digital currencies",
+          "link": "http://www.iraqsun.com/news/279234257/brics-discusses-interlinking-payment-systems-and-digital-currencies",
+          "source": "iraqsun.com",
+          "pubDate": "2026-08-11T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS discusses interlinking payment systems and digital currencies"
+        },
+        {
+          "title": "BRICS discusses interlinking payment systems and digital currencies",
+          "link": "http://www.trinidadtimes.com/news/279234257/brics-discusses-interlinking-payment-systems-and-digital-currencies",
+          "source": "trinidadtimes.com",
+          "pubDate": "2026-08-11T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS discusses interlinking payment systems and digital currencies"
+        },
+        {
+          "title": "BRICS discusses interlinking payment systems and digital currencies",
+          "link": "http://www.oklahomastar.com/news/279234257/brics-discusses-interlinking-payment-systems-and-digital-currencies",
+          "source": "oklahomastar.com",
+          "pubDate": "2026-08-11T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS discusses interlinking payment systems and digital currencies"
+        },
+        {
+          "title": "BRICS discusses interlinking payment systems and digital currencies",
+          "link": "http://www.greekherald.com/news/279234257/brics-discusses-interlinking-payment-systems-and-digital-currencies",
+          "source": "greekherald.com",
+          "pubDate": "2026-08-11T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS discusses interlinking payment systems and digital currencies"
+        },
+        {
+          "title": "Damietta attack : Where was the octagon ?",
+          "link": "https://www.middleeastmonitor.com/20260811-damietta-attack-where-was-the-octagon/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-08-11T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Damietta attack : Where was the octagon ?"
+        },
+        {
+          "title": "Car bomb kills eastern Libyan military intelligence chief Fowzi Mansouri",
+          "link": "https://www.riotimesonline.com/car-bomb-kills-eastern-libyan-military-intelligence-chief-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-08-11T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Car bomb kills eastern Libyan military intelligence chief Fowzi Mansouri"
+        },
+        {
+          "title": "Bangladesh vaccine future depends on a world - class regulator",
+          "link": "https://www.thedailystar.net/opinion/views/news/bangladeshs-vaccine-future-depends-world-class-regulator-4244846",
+          "source": "thedailystar.net",
+          "pubDate": "2026-08-11T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bangladesh vaccine future depends on a world - class regulator"
         }
       ]
     },
@@ -151,177 +619,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Pope Leo XIV calls for humanitarian corridor in Sudan"
-        },
-        {
-          "title": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict",
-          "link": "https://allafrica.com/stories/202608100033.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict"
-        },
-        {
-          "title": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River",
-          "link": "https://allafrica.com/stories/202608100052.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River"
-        },
-        {
-          "title": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus",
-          "link": "https://allafrica.com/stories/202608100053.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus"
-        },
-        {
-          "title": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact",
-          "link": "https://www.ynetnews.com/opinions-analysis/article/rjmp11isifl",
-          "source": "ynetnews.com",
-          "pubDate": "2026-08-09T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact"
-        },
-        {
-          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
-          "link": "https://www.thereporterethiopia.com/52198/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-08T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
-        },
-        {
-          "title": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power",
-          "link": "https://www.spotlightnepal.com/2026/08/07/electricity-capital-not-just-commodity-rethinking-nepals-electricity-strategy-era-surplus-power/",
-          "source": "spotlightnepal.com",
-          "pubDate": "2026-08-07T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power"
-        },
-        {
-          "title": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams",
-          "link": "https://www.tanzanianewsreports.com/egypt-declares-strong-opposition-to-new-ethiopian-nile-dams/",
-          "source": "tanzanianewsreports.com",
-          "pubDate": "2026-08-06T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams"
-        },
-        {
-          "title": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times",
-          "link": "https://medafricatimes.com/46583-ethiopia-accuses-egypt-of-using-gerd-dispute-to-divert-attention-from-domestic-challenges.html",
-          "source": "medafricatimes.com",
-          "pubDate": "2026-08-06T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times"
-        },
-        {
-          "title": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility",
-          "link": "https://allafrica.com/stories/202608060479.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-06T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility"
-        },
-        {
-          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
-          "link": "https://allafrica.com/stories/202608060151.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-06T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
-        },
-        {
-          "title": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework",
-          "link": "https://allafrica.com/stories/202608060164.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-06T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework"
-        },
-        {
-          "title": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President",
-          "link": "https://allafrica.com/stories/202608060100.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-06T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President"
-        },
-        {
-          "title": "Africa : Ethiopia Well Positioned to Become Africa Energy Hub , Says Ministry",
-          "link": "https://allafrica.com/stories/202608060077.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-06T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : Ethiopia Well Positioned to Become Africa Energy Hub , Says Ministry"
-        },
-        {
-          "title": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project",
-          "link": "https://allafrica.com/stories/202608050079.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-05T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project"
-        },
-        {
-          "title": "Egypt says it wont allow new Ethiopian dams on Nile River",
-          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-won-t-allow-new-ethiopian-dams-on-nile-river/4018528",
-          "source": "aa.com.tr",
-          "pubDate": "2026-08-04T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says it wont allow new Ethiopian dams on Nile River"
-        },
-        {
-          "title": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa",
-          "link": "https://www.channelafrica.co.za/channelafrica/news/renewed-tigray-clashes-could-deepen-horn-of-africa-instability/",
-          "source": "channelafrica.co.za",
-          "pubDate": "2026-08-04T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Renewed Tigray clashes could deepen Horn of Africa instability – Channel Africa"
-        },
-        {
-          "title": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles",
-          "link": "https://idrw.org/pakistans-unsc-push-on-indus-waters-treaty-faces-major-legal-and-political-hurdles/",
-          "source": "idrw.org",
-          "pubDate": "2026-08-02T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pakistan UNSC Push on Indus Waters Treaty Faces Major Legal and Political Hurdles"
-        },
-        {
-          "title": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?",
-          "link": "https://www.thereporterethiopia.com/51980/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-01T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Horn Of Africa After Ethiopia 2026 Elections : What To Watch ?"
-        },
-        {
-          "title": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce",
-          "link": "https://www.mondaq.com:443/unitedstates/terrorism-homeland-security-defence/1824642/prolonged-instability-in-the-horn-of-africa-risks-further-disruptions-to-red-sea-commerce",
-          "source": "mondaq.com",
-          "pubDate": "2026-07-30T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Prolonged Instability In The Horn Of Africa Risks Further Disruptions To Red Sea Commerce"
         }
       ]
     }
