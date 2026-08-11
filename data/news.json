@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T07:41:12.205Z",
+  "generatedAt": "2026-08-11T09:17:08.896Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -148,13 +148,184 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "The first Senegalese selected for the “New Destinies” project visited the embassy",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/the-first-senegalese-selected-for-the-new-destinies-project-visited_4bf68272-c586-47bf-bc20-f242c1b3b863.html",
-          "description": "(ANSA) - IL CAIRO, 07 AGO - The Italian Ambassador to Dakar, Michele Tommasi, welcomed the first twelve Senegalese workers who will soon take part in the “New Destinies – New Horizons” project in Italy, in the presence of representatives from institutions, training organizations, and partners involved in the initiative. The program, managed by Umana, an Italian agency specializing in employment services, recruitment, and vocational training, was developed in collaboration with the Italian Confederation of Trade Unions (CISL) in Venice, the National Association Beyond Borders (ANOLF) in Venice,",
-          "pubDate": "Fri, 7 Aug 2026 12:08:40 +0200",
-          "source": "ANSA English",
+          "title": "Car bomb kills eastern Libyan military intelligence chief Fowzi Mansouri",
+          "link": "https://www.riotimesonline.com/car-bomb-kills-eastern-libyan-military-intelligence-chief-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-08-11T07:45:00Z",
           "lang": "en",
-          "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
+          "description": "",
+          "titleIt": "Car bomb kills eastern Libyan military intelligence chief Fowzi Mansouri"
+        },
+        {
+          "title": "Bangladesh vaccine future depends on a world - class regulator",
+          "link": "https://www.thedailystar.net/opinion/views/news/bangladeshs-vaccine-future-depends-world-class-regulator-4244846",
+          "source": "thedailystar.net",
+          "pubDate": "2026-08-11T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bangladesh vaccine future depends on a world - class regulator"
+        },
+        {
+          "title": "Trkiye has its own plans for Islamic NATO",
+          "link": "http://www.europesun.com/news/279233572/trkiye-has-its-own-plans-for-islamic-nato",
+          "source": "europesun.com",
+          "pubDate": "2026-08-11T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trkiye has its own plans for Islamic NATO"
+        },
+        {
+          "title": "Blame Blair , not Thatcher , for British Decline",
+          "link": "https://www.theamericanconservative.com/blame-blair-not-thatcher-for-british-decline/",
+          "source": "theamericanconservative.com",
+          "pubDate": "2026-08-11T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Blame Blair , not Thatcher , for British Decline"
+        },
+        {
+          "title": "Gaza Board of Pieces | Countercurrents",
+          "link": "https://countercurrents.org/2026/08/gazas-board-of-pieces/",
+          "source": "countercurrents.org",
+          "pubDate": "2026-08-11T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gaza Board of Pieces | Countercurrents"
+        },
+        {
+          "title": "Gaza Board of Pieces – Sri Lanka Guardian",
+          "link": "https://slguardian.org/gazas-board-of-pieces/",
+          "source": "slguardian.org",
+          "pubDate": "2026-08-11T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gaza Board of Pieces – Sri Lanka Guardian"
+        },
+        {
+          "title": "Turns Out Abdul El - Sayed Has Something In Common With Mike Pence",
+          "link": "https://dailycaller.com/2026/08/10/abdul-el-sayed-makinac-island-mike-pence/",
+          "source": "dailycaller.com",
+          "pubDate": "2026-08-11T04:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turns Out Abdul El - Sayed Has Something In Common With Mike Pence"
+        },
+        {
+          "title": "Trkiye has its own plans for Islamic NATO",
+          "link": "http://www.pakistantelegraph.com/news/279233572/trkiye-has-its-own-plans-for-islamic-nato",
+          "source": "pakistantelegraph.com",
+          "pubDate": "2026-08-11T03:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trkiye has its own plans for Islamic NATO"
+        },
+        {
+          "title": "Trkiye has its own plans for Islamic NATO",
+          "link": "http://www.iraqsun.com/news/279233572/trkiye-has-its-own-plans-for-islamic-nato",
+          "source": "iraqsun.com",
+          "pubDate": "2026-08-11T03:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trkiye has its own plans for Islamic NATO"
+        },
+        {
+          "title": "Trump Says US Has Mineswept Hormuz , Bars Ships From Entering Iran",
+          "link": "http://www.pakistantelegraph.com/news/279232769/trump-says-us-has-mineswept-hormuz-bars-ships-from-entering-iran",
+          "source": "pakistantelegraph.com",
+          "pubDate": "2026-08-11T03:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Says US Has Mineswept Hormuz , Bars Ships From Entering Iran"
+        },
+        {
+          "title": "Trkiye has its own plans for Islamic NATO",
+          "link": "http://www.iranherald.com/news/279233572/trkiye-has-its-own-plans-for-islamic-nato",
+          "source": "iranherald.com",
+          "pubDate": "2026-08-11T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trkiye has its own plans for Islamic NATO"
+        },
+        {
+          "title": "Trkiye has its own plans for Islamic NATO",
+          "link": "http://www.southeastasiapost.com/news/279233572/trkiye-has-its-own-plans-for-islamic-nato",
+          "source": "southeastasiapost.com",
+          "pubDate": "2026-08-11T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trkiye has its own plans for Islamic NATO"
+        },
+        {
+          "title": "The humanitarian system celebrates refugee - led organisations , then starves them",
+          "link": "https://www.thenewhumanitarian.org/opinion/2026/04/28/humanitarian-system-celebrates-refugee-led-organisations-then-starves-them",
+          "source": "thenewhumanitarian.org",
+          "pubDate": "2026-08-11T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The humanitarian system celebrates refugee - led organisations , then starves them"
+        },
+        {
+          "title": "Trkiye has its own plans for Islamic NATO",
+          "link": "http://www.israelherald.com/news/279233572/trkiye-has-its-own-plans-for-islamic-nato",
+          "source": "israelherald.com",
+          "pubDate": "2026-08-11T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trkiye has its own plans for Islamic NATO"
+        },
+        {
+          "title": "Trump Says US Has Mineswept Hormuz , Bars Ships From Entering Iran",
+          "link": "http://www.middleeaststar.com/news/279232769/trump-says-us-has-mineswept-hormuz-bars-ships-from-entering-iran",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-08-11T01:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Says US Has Mineswept Hormuz , Bars Ships From Entering Iran"
+        },
+        {
+          "title": "Trkiye has its own plans for Islamic NATO",
+          "link": "http://www.arabherald.com/news/279233572/trkiye-has-its-own-plans-for-islamic-nato",
+          "source": "arabherald.com",
+          "pubDate": "2026-08-11T01:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trkiye has its own plans for Islamic NATO"
+        },
+        {
+          "title": "Nasdaq Composite slips 95 points in subdued start to week",
+          "link": "http://www.europesun.com/news/279232195/nasdaq-composite-slips-95-points-in-subdued-start-to-week",
+          "source": "europesun.com",
+          "pubDate": "2026-08-11T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nasdaq Composite slips 95 points in subdued start to week"
+        },
+        {
+          "title": "Trkiye has its own plans for Islamic NATO",
+          "link": "http://www.middleeaststar.com/news/279233572/trkiye-has-its-own-plans-for-islamic-nato",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-08-11T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trkiye has its own plans for Islamic NATO"
+        },
+        {
+          "title": "Nasdaq Composite slips 95 points in subdued start to week",
+          "link": "http://www.nashvilleherald.com/news/279232195/nasdaq-composite-slips-95-points-in-subdued-start-to-week",
+          "source": "nashvilleherald.com",
+          "pubDate": "2026-08-11T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nasdaq Composite slips 95 points in subdued start to week"
+        },
+        {
+          "title": "Nasdaq Composite slips 95 points in subdued start to week",
+          "link": "http://www.mexicostar.com/news/279232195/nasdaq-composite-slips-95-points-in-subdued-start-to-week",
+          "source": "mexicostar.com",
+          "pubDate": "2026-08-11T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nasdaq Composite slips 95 points in subdued start to week"
         }
       ]
     },
