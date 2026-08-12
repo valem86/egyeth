@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-08-12T19:30:10.273Z",
+  "generatedAt": "2026-08-12T21:06:31.362Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Egitto: ministro Esteri incontra segretario generale Consiglio cooperazione Golfo",
-          "link": "https://www.agenzianova.com/a/6a7cc9bdde5e39.62155435/7695094/2026-08-12/egitto-ministro-esteri-incontra-segretario-generale-consiglio-cooperazione-golfo",
-          "description": "12 ago 19:34 - (Agenzia Nova) - Il ministro degli Esteri egiziano, Badr Abdelatty, ha incontrato il segretario generale del Consiglio di cooperazione... (Cae)",
-          "pubDate": "2026-08-12T19:34:48+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: ministro Esteri incontra segretario generale Consiglio cooperazione Golfo"
-        },
         {
           "title": "Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics",
           "link": "https://allafrica.com/stories/202608120420.html",
@@ -270,7 +261,7 @@
       "items": [
         {
           "title": "Medio Oriente: Erdogan, Israele vuole rimuovere Palestina da agenda globale (7)",
-          "link": "https://www.agenzianova.com/a/6a7cc9bddd3037.21951313/7695222/2026-08-12/medio-oriente-erdogan-israele-vuole-rimuovere-palestina-da-agenda-globale-7",
+          "link": "https://www.agenzianova.com/a/6a7cdfe1c820b9.88269556/7695222/2026-08-12/medio-oriente-erdogan-israele-vuole-rimuovere-palestina-da-agenda-globale-7",
           "description": "12 ago 19:54 - (Agenzia Nova) - Il presidente dell'Anp ha quindi sottolineato l'importanza dell'Accordo di difesa congiunta di Turchia, Arabia... (Tua)",
           "pubDate": "2026-08-12T19:54:16+02:00",
           "source": "Agenzia Nova",
@@ -373,184 +364,13 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Renewable energy news : Econergy , Scatec , Danske",
-          "link": "https://greentechlead.com/energy-news/renewable-energy-news-econergy-scatec-danske-54711",
-          "source": "greentechlead.com",
-          "pubDate": "2026-08-12T19:00:00Z",
+          "title": "The first Senegalese selected for the “New Destinies” project visited the embassy",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/the-first-senegalese-selected-for-the-new-destinies-project-visited_4bf68272-c586-47bf-bc20-f242c1b3b863.html",
+          "description": "(ANSA) - IL CAIRO, 07 AGO - The Italian Ambassador to Dakar, Michele Tommasi, welcomed the first twelve Senegalese workers who will soon take part in the “New Destinies – New Horizons” project in Italy, in the presence of representatives from institutions, training organizations, and partners involved in the initiative. The program, managed by Umana, an Italian agency specializing in employment services, recruitment, and vocational training, was developed in collaboration with the Italian Confederation of Trade Unions (CISL) in Venice, the National Association Beyond Borders (ANOLF) in Venice,",
+          "pubDate": "Fri, 7 Aug 2026 12:08:40 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Renewable energy news : Econergy , Scatec , Danske"
-        },
-        {
-          "title": "Jumia Technologies Q2 Earnings Call Highlights",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/jumia-technologies-q2-earnings-call-180434388.html",
-          "source": "finance.yahoo.com",
-          "pubDate": "2026-08-12T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Jumia Technologies Q2 Earnings Call Highlights"
-        },
-        {
-          "title": "The Regional Order Iran Wanted Is Taking Shape Without It",
-          "link": "https://foreignpolicy.com/2026/08/11/mecca-turkey-saudi-arabia-pakistan-iran-gulf-hormuz-nato/?tpcc=recirc_trending062921",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-08-12T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Regional Order Iran Wanted Is Taking Shape Without It"
-        },
-        {
-          "title": "Jumia Technologies ( NYSE : JMIA ) Issues Earnings Results , Misses Expectations By $0 . 02 EPS",
-          "link": "https://www.themarketsdaily.com/2026/08/12/jumia-technologies-nysejmia-issues-earnings-results-misses-expectations-by-0-02-eps.html",
-          "source": "themarketsdaily.com",
-          "pubDate": "2026-08-12T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Jumia Technologies ( NYSE : JMIA ) Issues Earnings Results , Misses Expectations By $0 . 02 EPS"
-        },
-        {
-          "title": "US finds fiscal transparency lacking across much of Middle East",
-          "link": "https://www.jns.org/news/u-s-news/us-finds-fiscal-transparency-lacking-across-much-of-middle-east",
-          "source": "jns.org",
-          "pubDate": "2026-08-12T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US finds fiscal transparency lacking across much of Middle East"
-        },
-        {
-          "title": "Turkish foreign minister to visit Egypt on Aug . 13 - 14",
-          "link": "https://aa.com.tr/en/turkiye/turkish-foreign-minister-to-visit-egypt-on-aug-13-14/4025227",
-          "source": "aa.com.tr",
-          "pubDate": "2026-08-12T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkish foreign minister to visit Egypt on Aug . 13 - 14"
-        },
-        {
-          "title": "EU , Western States Condemn Iranian Executions In  Strongest Terms",
-          "link": "http://www.iranherald.com/news/279237316/eu-western-states-condemn-iranian-executions-in-strongest-terms",
-          "source": "iranherald.com",
-          "pubDate": "2026-08-12T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "EU , Western States Condemn Iranian Executions In  Strongest Terms"
-        },
-        {
-          "title": "Francesca Hong loses to David Crowley in Wisconsin Democratic gubernatorial primary",
-          "link": "https://reason.com/2026/08/12/hongs-swan-song/",
-          "source": "reason.com",
-          "pubDate": "2026-08-12T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Francesca Hong loses to David Crowley in Wisconsin Democratic gubernatorial primary"
-        },
-        {
-          "title": "Pakistan Condemns Houthi Attack That Killed Three Of Its Citizens",
-          "link": "http://www.southeastasiapost.com/news/279236748/pakistan-condemns-houthi-attack-that-killed-three-of-its-citizens",
-          "source": "southeastasiapost.com",
-          "pubDate": "2026-08-12T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pakistan Condemns Houthi Attack That Killed Three Of Its Citizens"
-        },
-        {
-          "title": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit",
-          "link": "https://www.whmi.com/news/fox/new-power-axis-making-three-military-heavyweights-lock-arms-complicating-abraham-accords-strategy",
-          "source": "whmi.com",
-          "pubDate": "2026-08-12T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit"
-        },
-        {
-          "title": "IBPAP counting on global capability centers to bolster Philippine position as IT - BPM hub",
-          "link": "https://bworldonline.com/top-stories/2026/08/13/769831/ibpap-counting-on-global-capability-centers-to-bolster-philippines-position-as-it-bpm-hub/",
-          "source": "bworldonline.com",
-          "pubDate": "2026-08-12T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "IBPAP counting on global capability centers to bolster Philippine position as IT - BPM hub"
-        },
-        {
-          "title": "Pakistan Condemns Houthi Attack That Killed Three Of Its Citizens",
-          "link": "http://www.parisguardian.com/news/279236748/pakistan-condemns-houthi-attack-that-killed-three-of-its-citizens",
-          "source": "parisguardian.com",
-          "pubDate": "2026-08-12T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pakistan Condemns Houthi Attack That Killed Three Of Its Citizens"
-        },
-        {
-          "title": "EU , Western States Condemn Iranian Executions In  Strongest Terms",
-          "link": "http://www.parisguardian.com/news/279237316/eu-western-states-condemn-iranian-executions-in-strongest-terms",
-          "source": "parisguardian.com",
-          "pubDate": "2026-08-12T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "EU , Western States Condemn Iranian Executions In  Strongest Terms"
-        },
-        {
-          "title": "Fact check : How Tim Scott and a Republican attack ad misleadingly snipped key context from El - Sayed  dangerou speech",
-          "link": "https://edition.cnn.com/2026/08/12/politics/fact-check-nrsc-el-sayed-dangerous-comment",
-          "source": "edition.cnn.com",
-          "pubDate": "2026-08-12T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fact check : How Tim Scott and a Republican attack ad misleadingly snipped key context from El - Sayed  dangerou speech"
-        },
-        {
-          "title": "Pakistan Condemns Houthi Attack That Killed Three Of Its Citizens",
-          "link": "http://www.chinanationalnews.com/news/279236748/pakistan-condemns-houthi-attack-that-killed-three-of-its-citizens",
-          "source": "chinanationalnews.com",
-          "pubDate": "2026-08-12T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pakistan Condemns Houthi Attack That Killed Three Of Its Citizens"
-        },
-        {
-          "title": "EU , Western States Condemn Iranian Executions In  Strongest Terms",
-          "link": "http://www.calcuttanews.net/news/279237316/eu-western-states-condemn-iranian-executions-in-strongest-terms",
-          "source": "calcuttanews.net",
-          "pubDate": "2026-08-12T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "EU , Western States Condemn Iranian Executions In  Strongest Terms"
-        },
-        {
-          "title": "Another Blow against Pax Americana",
-          "link": "https://fpif.org/another-blow-against-pax-americana/",
-          "source": "fpif.org",
-          "pubDate": "2026-08-12T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Another Blow against Pax Americana"
-        },
-        {
-          "title": "Saudi , Egyptian FMs discuss regional tensions as Cairo backs Gulf states against attacks",
-          "link": "https://www.arabnews.com/node/2654390/saudi-arabia",
-          "source": "arabnews.com",
-          "pubDate": "2026-08-12T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi , Egyptian FMs discuss regional tensions as Cairo backs Gulf states against attacks"
-        },
-        {
-          "title": "The Tatars : The Golden Horde , People from Hell , Or Something Else ?",
-          "link": "https://www.ancient-origins.net/comment/48634",
-          "source": "ancient-origins.net",
-          "pubDate": "2026-08-12T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Tatars : The Golden Horde , People from Hell , Or Something Else ?"
-        },
-        {
-          "title": "Egypt latest road tragedy fuels outcry over child labour",
-          "link": "https://www.thenationalnews.com/news/mena/2026/08/12/egypts-latest-road-tragedy-fuels-outcry-over-child-labour/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-08-12T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt latest road tragedy fuels outcry over child labour"
+          "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
         }
       ]
     },
