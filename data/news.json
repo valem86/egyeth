@@ -1,11 +1,38 @@
 {
-  "generatedAt": "2026-08-12T09:33:41.289Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-12T11:12:43.720Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Speciale difesa: analista a \"Nova\", perche' l'Egitto resta fuori dall'accordo di Mecca",
+          "link": "https://www.agenzianova.com/a/6a7c54fc6f15a3.78980192/7691483/2026-08-12/speciale-difesa-analista-a-nova-perche-l-egitto-resta-fuori-dall-accordo-di-mecca",
+          "description": "12 ago 13:00 - (Agenzia Nova) - L'Egitto non ha aderito all'Accordo di Mecca per la difesa congiunta firmato il 7 agosto da Arabia Saudita,... (Cae)",
+          "pubDate": "2026-08-12T13:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale difesa: analista a \"Nova\", perche' l'Egitto resta fuori dall'accordo di Mecca"
+        },
+        {
+          "title": "Speciale difesa: Pechino inviera' missione di scorta nel Golfo di Aden e al largo della Somalia questo mese",
+          "link": "https://www.agenzianova.com/a/6a7c54fc6f6b03.97497838/7691479/2026-08-12/speciale-difesa-pechino-inviera-missione-di-scorta-nel-golfo-di-aden-e-al-largo-della-somalia-questo-mese",
+          "description": "12 ago 13:00 - (Agenzia Nova) - La Cina inviera' a meta' agosto una flotta nel Golfo di Aden e nelle acque al largo della Somalia per una missione... (Cip)",
+          "pubDate": "2026-08-12T13:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale difesa: Pechino inviera' missione di scorta nel Golfo di Aden e al largo della Somalia questo mese"
+        },
+        {
+          "title": "Quake leaves Colombian towns in ruins as Valle del Cauca counts dead",
+          "link": "http://www.africanews.com/2026/08/12/quake-leaves-colombian-towns-in-ruins-as-valle-del-cauca-counts-dead/",
+          "description": "Western Colombia hit by deadly quake as Zarzal, Roldanillo and El Cairo report widespread damage.",
+          "pubDate": "Wed, 12 Aug 2026 10:01:05 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Quake leaves Colombian towns in ruins as Valle del Cauca counts dead"
+        },
         {
           "title": "Somalia and Italy Together for Fisheries and the Blue Economy",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/12/somalia-and-italy-together-for-fisheries-and-the-blue-economy_1865aa60-d732-41b4-b323-3a976dae254a.html",
@@ -41,30 +68,30 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenya: High Court Orders NTSA to Keep Recognising Physical Logbooks Amid e-Logbook Case",
+          "link": "https://allafrica.com/stories/202608120184.html",
+          "description": "[Capital FM] Nairobi -- The High Court has directed the National Transport and Safety Authority (NTSA) to continue recognising existing physical motor vehicle logbooks as valid documents pending the hearing and determination of a petition challenging the implementation of the electronic motor vehicle registration certificate, commonly known as the e-Logbook.",
+          "pubDate": "Wed, 12 Aug 2026 10:51:56 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: High Court Orders NTSA to Keep Recognising Physical Logbooks Amid e-Logbook Case"
+        },
+        {
+          "title": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs",
+          "link": "https://allafrica.com/stories/202608120147.html",
+          "description": "[Nyasa Times] South Africa has sparked a diplomatic storm after formally demanding that Malawi, Nigeria and Ethiopia reimburse part of the R292 million (about K29 billion) it has spent this year deporting undocumented migrants -- with Malawians making up the largest share of those removed.",
+          "pubDate": "Wed, 12 Aug 2026 10:04:26 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs"
+        },
         {
           "title": "Kenya: MPs to Consider Six Bills Seeking Sweeping Reforms in Education Sector",
           "link": "https://allafrica.com/stories/202608120068.html",
@@ -226,24 +253,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Turkiye Erdogan visits Saudi Arabia : What to expect - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
-        },
-        {
-          "title": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East",
-          "link": "https://foreignpolicy.com/2026/08/05/saudi-arabia-iran-israel-united-states-trump-uae-oil-houthis/?tpcc=recirc_trending062921",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-08-06T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Strategic Blunders Have Plagued Saudi Arabia Approach to the Middle East"
-        },
-        {
-          "title": "The power to paralyze a country by sea : Israel Navy unveils new vision",
-          "link": "https://www.ynetnews.com/article/bk4fy7mugx",
-          "source": "ynetnews.com",
-          "pubDate": "2026-08-06T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The power to paralyze a country by sea : Israel Navy unveils new vision"
         }
       ]
     },
@@ -251,13 +260,76 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Yemen: \"Al Arabiya\", Houthi prendono di mira il porto di Al Makha con due missili balistici",
-          "link": "https://www.agenzianova.com/a/6a7c3dda78b743.51403411/7693148/2026-08-12/yemen-al-arabiya-houthi-prendono-di-mira-il-porto-di-al-makha-con-due-missili-balistici",
-          "description": "12 ago 10:56 - (Agenzia Nova) - Il movimento sciita filo-iraniano Houthi ha preso di mira il porto di Al Makha, nello Yemen occidentale, con... (Res)",
-          "pubDate": "2026-08-12T10:56:44+02:00",
+          "title": "Speciale difesa: Pechino inviera' missione di scorta nel Golfo di Aden e al largo della Somalia questo mese",
+          "link": "https://www.agenzianova.com/a/6a7c54fc6f6b03.97497838/7691479/2026-08-12/speciale-difesa-pechino-inviera-missione-di-scorta-nel-golfo-di-aden-e-al-largo-della-somalia-questo-mese",
+          "description": "12 ago 13:00 - (Agenzia Nova) - La Cina inviera' a meta' agosto una flotta nel Golfo di Aden e nelle acque al largo della Somalia per una missione... (Cip)",
+          "pubDate": "2026-08-12T13:00:00+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Yemen: \"Al Arabiya\", Houthi prendono di mira il porto di Al Makha con due missili balistici"
+          "titleIt": "Speciale difesa: Pechino inviera' missione di scorta nel Golfo di Aden e al largo della Somalia questo mese"
+        },
+        {
+          "title": "African elephant genomes reveal ancient mixing and modern pressures",
+          "link": "https://news.mongabay.com/short-article/2026/05/african-elephant-genomes-reveal-ancient-mixing-and-modern-pressures/",
+          "source": "news.mongabay.com",
+          "pubDate": "2026-08-12T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African elephant genomes reveal ancient mixing and modern pressures"
+        },
+        {
+          "title": "World Elephant Day : How these giants are adapting to a changing world",
+          "link": "https://news.mongabay.com/short-article/2026/08/world-elephant-day-how-these-giants-are-adapting-to-a-changing-world/",
+          "source": "news.mongabay.com",
+          "pubDate": "2026-08-12T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "World Elephant Day : How these giants are adapting to a changing world"
+        },
+        {
+          "title": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs",
+          "link": "https://allafrica.com/stories/202608120147.html",
+          "description": "[Nyasa Times] South Africa has sparked a diplomatic storm after formally demanding that Malawi, Nigeria and Ethiopia reimburse part of the R292 million (about K29 billion) it has spent this year deporting undocumented migrants -- with Malawians making up the largest share of those removed.",
+          "pubDate": "Wed, 12 Aug 2026 10:04:26 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs"
+        },
+        {
+          "title": "Chinese automaker Chery buys Nissan plant as EV production shifts to new markets",
+          "link": "https://abcnews.com/Technology/wireStory/chinese-automaker-chery-buys-nissan-plant-africa-ev-135568425",
+          "source": "abcnews.com",
+          "pubDate": "2026-08-12T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese automaker Chery buys Nissan plant as EV production shifts to new markets"
+        },
+        {
+          "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets",
+          "link": "http://www.gazettextra.com/news/nation_world/chinese-automaker-chery-buys-nissan-plant-in-africa-as-ev-production-shifts-to-new-markets/article_406e4b74-6f20-5c3e-a24f-67ea805079d6.html",
+          "source": "gazettextra.com",
+          "pubDate": "2026-08-12T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets"
+        },
+        {
+          "title": "Vision 2030 Transformed Kenya , LAPSSET Attracted Major Investment , Says Board Chair",
+          "link": "https://capitalfm.africa/vision-2030-transformed-kenya-lapsset-attracted-major-investment-says-board-chair/",
+          "source": "capitalfm.africa",
+          "pubDate": "2026-08-12T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Vision 2030 Transformed Kenya , LAPSSET Attracted Major Investment , Says Board Chair"
+        },
+        {
+          "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets",
+          "link": "https://www.therecord.com/business/chinese-automaker-chery-buys-nissan-plant-in-africa-as-ev-production-shifts-to-new-markets/article_a1cf19f8-db28-5fa4-ab9a-b4e438fc7d5b.html",
+          "source": "therecord.com",
+          "pubDate": "2026-08-12T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets"
         },
         {
           "title": "Somalia and Italy Together for Fisheries and the Blue Economy",
@@ -278,6 +350,15 @@
           "titleIt": "Africa: Somalia - a Government With One Foot Out the Door"
         },
         {
+          "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets",
+          "link": "https://www.messenger-inquirer.com/ap/ap_international_news/chinese-automaker-chery-buys-nissan-plant-in-africa-as-ev-production-shifts-to-new-markets/article_585e4975-3ae9-5742-828a-02dc32085f04.html",
+          "source": "messenger-inquirer.com",
+          "pubDate": "2026-08-12T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets"
+        },
+        {
           "title": "US Senate votes to extend AGOA trade programme for 32 African nations",
           "link": "http://www.africanews.com/2026/08/12/us-senate-votes-to-extend-agoa-trade-programme-for-32-african-nations/",
           "description": "The United States Senate has approved a two-year extension of the African Growth and Opportunity Act, maintaining duty-free access on more than 1,800 products from eligible countries.",
@@ -285,6 +366,60 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "US Senate votes to extend AGOA trade programme for 32 African nations"
+        },
+        {
+          "title": "How the Blue Nile is strategically important in Sudan civil war",
+          "link": "https://news.az/news/how-the-blue-nile-is-strategically-important-in-sudans-civil-war",
+          "source": "news.az",
+          "pubDate": "2026-08-12T04:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How the Blue Nile is strategically important in Sudan civil war"
+        },
+        {
+          "title": "Repatriation costs of almost R300m strain South Africa migration budget",
+          "link": "https://www.sowetan.co.za/news/2026-08-12-repatriation-costs-of-almost-r300m-strain-south-africas-migration-budget/",
+          "source": "sowetan.co.za",
+          "pubDate": "2026-08-12T04:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Repatriation costs of almost R300m strain South Africa migration budget"
+        },
+        {
+          "title": "Saudi Arabia doubles down on its failed Yemen strategy",
+          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/saudi-arabia-doubles-down-on-its-failed-yemen-strategy",
+          "source": "jns.org",
+          "pubDate": "2026-08-12T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia doubles down on its failed Yemen strategy"
+        },
+        {
+          "title": "Kenya Sorrow : the US Connection - Afriques en Lutte",
+          "link": "https://www.afriquesenlutte.org/afrique-de-l-est/kenya/article/kenya-s-sorrow-the-us-connection",
+          "source": "afriquesenlutte.org",
+          "pubDate": "2026-08-11T23:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Kenya Sorrow : the US Connection - Afriques en Lutte"
+        },
+        {
+          "title": "New directory helps donors navigate the complex world of global reforestation",
+          "link": "https://news.mongabay.com/2025/11/new-directory-helps-donors-navigate-the-complex-world-of-global-reforestation/",
+          "source": "news.mongabay.com",
+          "pubDate": "2026-08-11T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "New directory helps donors navigate the complex world of global reforestation"
+        },
+        {
+          "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
+          "link": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/",
+          "source": "undercurrentnews.com",
+          "pubDate": "2026-08-11T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties"
         },
         {
           "title": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war",
@@ -296,40 +431,13 @@
           "titleIt": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war"
         },
         {
-          "title": "Sierra Leone president presses lawmakers to back contested election reforms",
-          "link": "http://www.africanews.com/2026/08/10/sierra-leone-president-presses-lawmakers-to-back-contested-election-reforms/",
-          "description": "Sierra Leone’s President Julius Maada Bio has urged Parliament to pass disputed electoral reforms that would lower the presidential victory threshold, introduce proportional representation and reserve 30 percent of political leadership positions for women.",
-          "pubDate": "Mon, 10 Aug 2026 10:10:06 +0000",
-          "source": "Africanews",
+          "title": "African exporters reap early benefits of China zero - tariff treatment -- China Economic Net",
+          "link": "http://en.ce.cn/main/latest/202608/t20260811_3141264.shtml",
+          "source": "en.ce.cn",
+          "pubDate": "2026-08-11T05:00:00Z",
           "lang": "en",
-          "titleIt": "Sierra Leone president presses lawmakers to back contested election reforms"
-        },
-        {
-          "title": "An Alliance for Vocational Training in Mozambique with Italy’s Support",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/06/an-alliance-for-vocational-training-in-mozambique-with-italys-support_3ef414b4-467a-4e7b-8d2b-9a8910a23fe5.html",
-          "description": "(ANSA) - MAPUTO, 06 AGO - Mozambique’s Minister of Youth and Sports, Caifadine Paulo Manasse, opened the workshop “Alliance for the Future: Co-Investing in Training, Nurturing Talent,\" in Maputo Province on Thursday, August 6, calling for a new strategic partnership between the government, industry, and development partners, with the goal of transforming vocational training into a driver of industrialization and job creation. The event, organized by the Alberto Cassimo Institute for Vocational Training and Labor Studies (Ifpelac), is funded by the Italian government through the “Job Creation t",
-          "pubDate": "Thu, 6 Aug 2026 17:56:29 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "An Alliance for Vocational Training in Mozambique with Italy’s Support"
-        },
-        {
-          "title": "Real Madrid sign Diomande in deal worth up to £120m",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c4g3906pz65o?at_medium=RSS&at_campaign=rss",
-          "description": "Real Madrid sign Ivory Coast international Yan Diomande from German side RB Leipzig for a fee worth up to 140m euros (£120m).",
-          "pubDate": "Thu, 06 Aug 2026 14:58:56 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "African exporters reap early benefits of China zero - tariff treatment -- China Economic Net"
         }
       ]
     },
@@ -351,13 +459,31 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Pope Leo XIV calls for humanitarian corridor in Sudan",
-          "link": "http://www.africanews.com/2026/08/10/pope-leo-xiv-calls-for-humanitarian-corridor-in-sudan/",
-          "description": "Pope Leo called for peace in Sudan on Sunday during an address at the Vatican. Leo singled out El-Obeid, the beseiged capital of North Kordofan state. Residents are facing a lack food, water and medical supplies as fighting in the city continues.",
-          "pubDate": "Mon, 10 Aug 2026 06:59:23 +0000",
+          "title": "Speciale difesa: analista a \"Nova\", perche' l'Egitto resta fuori dall'accordo di Mecca",
+          "link": "https://www.agenzianova.com/a/6a7c54fc6f15a3.78980192/7691483/2026-08-12/speciale-difesa-analista-a-nova-perche-l-egitto-resta-fuori-dall-accordo-di-mecca",
+          "description": "12 ago 13:00 - (Agenzia Nova) - L'Egitto non ha aderito all'Accordo di Mecca per la difesa congiunta firmato il 7 agosto da Arabia Saudita,... (Cae)",
+          "pubDate": "2026-08-12T13:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale difesa: analista a \"Nova\", perche' l'Egitto resta fuori dall'accordo di Mecca"
+        },
+        {
+          "title": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs",
+          "link": "https://allafrica.com/stories/202608120147.html",
+          "description": "[Nyasa Times] South Africa has sparked a diplomatic storm after formally demanding that Malawi, Nigeria and Ethiopia reimburse part of the R292 million (about K29 billion) it has spent this year deporting undocumented migrants -- with Malawians making up the largest share of those removed.",
+          "pubDate": "Wed, 12 Aug 2026 10:04:26 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs"
+        },
+        {
+          "title": "Quake leaves Colombian towns in ruins as Valle del Cauca counts dead",
+          "link": "http://www.africanews.com/2026/08/12/quake-leaves-colombian-towns-in-ruins-as-valle-del-cauca-counts-dead/",
+          "description": "Western Colombia hit by deadly quake as Zarzal, Roldanillo and El Cairo report widespread damage.",
+          "pubDate": "Wed, 12 Aug 2026 10:01:05 +0000",
           "source": "Africanews",
           "lang": "en",
-          "titleIt": "Pope Leo XIV calls for humanitarian corridor in Sudan"
+          "titleIt": "Quake leaves Colombian towns in ruins as Valle del Cauca counts dead"
         }
       ]
     }
