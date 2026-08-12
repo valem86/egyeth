@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T23:06:48.860Z",
+  "generatedAt": "2026-08-12T02:48:26.138Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -148,13 +148,184 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "The first Senegalese selected for the “New Destinies” project visited the embassy",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/the-first-senegalese-selected-for-the-new-destinies-project-visited_4bf68272-c586-47bf-bc20-f242c1b3b863.html",
-          "description": "(ANSA) - IL CAIRO, 07 AGO - The Italian Ambassador to Dakar, Michele Tommasi, welcomed the first twelve Senegalese workers who will soon take part in the “New Destinies – New Horizons” project in Italy, in the presence of representatives from institutions, training organizations, and partners involved in the initiative. The program, managed by Umana, an Italian agency specializing in employment services, recruitment, and vocational training, was developed in collaboration with the Italian Confederation of Trade Unions (CISL) in Venice, the National Association Beyond Borders (ANOLF) in Venice,",
-          "pubDate": "Fri, 7 Aug 2026 12:08:40 +0200",
-          "source": "ANSA English",
+          "title": "Sailors Killed In Red Sea Shipping Attack",
+          "link": "http://www.beijingbulletin.com/news/279234968/sailors-killed-in-red-sea-shipping-attack",
+          "source": "beijingbulletin.com",
+          "pubDate": "2026-08-12T01:45:00Z",
           "lang": "en",
-          "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
+          "description": "",
+          "titleIt": "Sailors Killed In Red Sea Shipping Attack"
+        },
+        {
+          "title": "The fall of Assad : 24 years of rule , 14 years of war",
+          "link": "https://www.middle-east-online.com/en/fall-assad-24-years-rule-14-years-war",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-08-12T01:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The fall of Assad : 24 years of rule , 14 years of war"
+        },
+        {
+          "title": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop",
+          "link": "http://www.malaysiasun.com/news/279234871/u-s-stocks-close-lower-as-nasdaq-underperforms-with-160-point-drop",
+          "source": "malaysiasun.com",
+          "pubDate": "2026-08-12T01:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop"
+        },
+        {
+          "title": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop",
+          "link": "http://www.brazilsun.com/news/279234871/u-s-stocks-close-lower-as-nasdaq-underperforms-with-160-point-drop",
+          "source": "brazilsun.com",
+          "pubDate": "2026-08-12T01:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop"
+        },
+        {
+          "title": "6 Killed In Red Sea Shipping Attack",
+          "link": "http://www.middleeaststar.com/news/279234929/6-killed-in-red-sea-shipping-attack",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-08-12T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "6 Killed In Red Sea Shipping Attack"
+        },
+        {
+          "title": "Ted Lasso  Season 4 Cast Guide : Meet AFC Richmond Women Team",
+          "link": "https://decider.com/2026/08/11/ted-lasso-season-4-cast-guide-apple-tv/",
+          "source": "decider.com",
+          "pubDate": "2026-08-12T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ted Lasso  Season 4 Cast Guide : Meet AFC Richmond Women Team"
+        },
+        {
+          "title": "Inside the U . S .– Israel – Saudi Plan to Cut Iran Out of Global Oil",
+          "link": "https://oilprice.com/Energy/Energy-General/Inside-the-Secret-USIsraelSaudi-Plan-to-Cut-Iran-Out-of-the-Global-Oil-Suppl.html",
+          "source": "oilprice.com",
+          "pubDate": "2026-08-12T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Inside the U . S .– Israel – Saudi Plan to Cut Iran Out of Global Oil"
+        },
+        {
+          "title": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop",
+          "link": "http://www.hawaiitelegraph.com/news/279234871/u-s-stocks-close-lower-as-nasdaq-underperforms-with-160-point-drop",
+          "source": "hawaiitelegraph.com",
+          "pubDate": "2026-08-12T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop"
+        },
+        {
+          "title": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop",
+          "link": "http://www.sierraleonetimes.com/news/279234871/u-s-stocks-close-lower-as-nasdaq-underperforms-with-160-point-drop",
+          "source": "sierraleonetimes.com",
+          "pubDate": "2026-08-12T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop"
+        },
+        {
+          "title": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop",
+          "link": "http://www.milwaukeesun.com/news/279234871/u-s-stocks-close-lower-as-nasdaq-underperforms-with-160-point-drop",
+          "source": "milwaukeesun.com",
+          "pubDate": "2026-08-12T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop"
+        },
+        {
+          "title": "Nasdaq closes down 0 . 60 percent as S & P 500 and Dow also close in the red",
+          "link": "http://www.azerbaijannews.net/news/279234871/nasdaq-closes-down-0-60-percent-as-s-p-500-and-dow-also-close-in-the-red",
+          "source": "azerbaijannews.net",
+          "pubDate": "2026-08-12T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nasdaq closes down 0 . 60 percent as S & P 500 and Dow also close in the red"
+        },
+        {
+          "title": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop",
+          "link": "http://www.nashvilleherald.com/news/279234871/u-s-stocks-close-lower-as-nasdaq-underperforms-with-160-point-drop",
+          "source": "nashvilleherald.com",
+          "pubDate": "2026-08-12T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop"
+        },
+        {
+          "title": "Nasdaq closes down 0 . 60 percent as S & P 500 and Dow also close in the red",
+          "link": "http://www.shanghainews.net/news/279234871/nasdaq-closes-down-0-60-percent-as-s-p-500-and-dow-also-close-in-the-red",
+          "source": "shanghainews.net",
+          "pubDate": "2026-08-12T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nasdaq closes down 0 . 60 percent as S & P 500 and Dow also close in the red"
+        },
+        {
+          "title": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop",
+          "link": "http://www.neworleanssun.com/news/279234871/u-s-stocks-close-lower-as-nasdaq-underperforms-with-160-point-drop",
+          "source": "neworleanssun.com",
+          "pubDate": "2026-08-12T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop"
+        },
+        {
+          "title": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop",
+          "link": "http://www.irishsun.com/news/279234871/u-s-stocks-close-lower-as-nasdaq-underperforms-with-160-point-drop",
+          "source": "irishsun.com",
+          "pubDate": "2026-08-12T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop"
+        },
+        {
+          "title": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop",
+          "link": "http://www.asiabulletin.com/news/279234871/u-s-stocks-close-lower-as-nasdaq-underperforms-with-160-point-drop",
+          "source": "asiabulletin.com",
+          "pubDate": "2026-08-12T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop"
+        },
+        {
+          "title": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop",
+          "link": "http://www.ohiostandard.com/news/279234871/u-s-stocks-close-lower-as-nasdaq-underperforms-with-160-point-drop",
+          "source": "ohiostandard.com",
+          "pubDate": "2026-08-12T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop"
+        },
+        {
+          "title": "Nasdaq closes down 0 . 60 percent as S & P 500 and Dow also close in the red",
+          "link": "http://www.australiannews.net/news/279234871/nasdaq-closes-down-0-60-percent-as-s-p-500-and-dow-also-close-in-the-red",
+          "source": "australiannews.net",
+          "pubDate": "2026-08-11T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nasdaq closes down 0 . 60 percent as S & P 500 and Dow also close in the red"
+        },
+        {
+          "title": "US - Iran war latest : Donald Trump reveals deal strategy as Mike Pompeo casts doubt on peace agreement progress",
+          "link": "https://www.perthnow.com.au/news/middle-east/us-iran-war-latest-donald-trump-reveals-deal-strategy-as-mike-pompeo-casts-doubt-on-peace-agreement-progress-c-22710196",
+          "source": "perthnow.com.au",
+          "pubDate": "2026-08-11T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US - Iran war latest : Donald Trump reveals deal strategy as Mike Pompeo casts doubt on peace agreement progress"
+        },
+        {
+          "title": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop",
+          "link": "http://www.austinglobe.com/news/279234871/u-s-stocks-close-lower-as-nasdaq-underperforms-with-160-point-drop",
+          "source": "austinglobe.com",
+          "pubDate": "2026-08-11T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks close lower as Nasdaq underperforms with 160 - point drop"
         }
       ]
     },
