@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-12T05:50:19.351Z",
-  "feedsChecked": 8,
+  "generatedAt": "2026-08-12T07:55:54.329Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Africa: Somalia - a Government With One Foot Out the Door",
+          "link": "https://allafrica.com/stories/202608120048.html",
+          "description": "[African Arguments] Somalia's foreign passport crackdown reveals a governance crisis hiding in plain sight",
+          "pubDate": "Wed, 12 Aug 2026 07:20:58 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Somalia - a Government With One Foot Out the Door"
+        },
         {
           "title": "EU to Support Libya in the Fight Against Terrorism and for Border Security",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/eu-to-support-libya-in-the-fight-against-terrorism-and-for-border-security_742e172c-5d23-469b-907d-8645ce88d816.html",
@@ -23,6 +32,24 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -30,13 +57,22 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Gachagua Warns Kenya 'Not Safe' for Foreigners, Cites Cross-Border Abductions, Deportations",
-          "link": "https://allafrica.com/stories/202608110588.html",
-          "description": "[Capital FM] Nairobi -- Former Deputy President Rigathi Gachagua has warned that Kenya is becoming unsafe for foreigners, accusing the Ruto administration of allowing a pattern of cross-border abductions, forced deportations and alleged transnational repression.",
-          "pubDate": "Tue, 11 Aug 2026 16:04:59 GMT",
+          "title": "Kenya: MPs to Consider Six Bills Seeking Sweeping Reforms in Education Sector",
+          "link": "https://allafrica.com/stories/202608120068.html",
+          "description": "[Capital FM] Nairobi -- The National Assembly is set to consider six Bills proposing far-reaching reforms across Kenya's education sector, with the proposed legislation targeting basic education governance, national assessments, curriculum development, teacher training, tertiary education funding and the recognition of academic and professional qualifications.",
+          "pubDate": "Wed, 12 Aug 2026 07:44:42 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Gachagua Warns Kenya 'Not Safe' for Foreigners, Cites Cross-Border Abductions, Deportations"
+          "titleIt": "Kenya: MPs to Consider Six Bills Seeking Sweeping Reforms in Education Sector"
+        },
+        {
+          "title": "Africa: Somalia - a Government With One Foot Out the Door",
+          "link": "https://allafrica.com/stories/202608120048.html",
+          "description": "[African Arguments] Somalia's foreign passport crackdown reveals a governance crisis hiding in plain sight",
+          "pubDate": "Wed, 12 Aug 2026 07:20:58 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Somalia - a Government With One Foot Out the Door"
         },
         {
           "title": "Kenya: U.S. Pledges $242mn for Ebola Response As Kenya Strengthens Regional Preparedness",
@@ -64,12 +100,39 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Africa: Somalia - a Government With One Foot Out the Door",
+          "link": "https://allafrica.com/stories/202608120048.html",
+          "description": "[African Arguments] Somalia's foreign passport crackdown reveals a governance crisis hiding in plain sight",
+          "pubDate": "Wed, 12 Aug 2026 07:20:58 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Somalia - a Government With One Foot Out the Door"
+        },
+        {
+          "title": "US Senate votes to extend AGOA trade programme for 32 African nations",
+          "link": "http://www.africanews.com/2026/08/12/us-senate-votes-to-extend-agoa-trade-programme-for-32-african-nations/",
+          "description": "The United States Senate has approved a two-year extension of the African Growth and Opportunity Act, maintaining duty-free access on more than 1,800 products from eligible countries.",
+          "pubDate": "Wed, 12 Aug 2026 05:57:33 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "US Senate votes to extend AGOA trade programme for 32 African nations"
+        },
         {
           "title": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war",
           "link": "http://www.africanews.com/2026/08/11/tigray-rebels-accuse-ethiopia-of-drone-strikes-amid-fears-of-renewed-war/",
@@ -105,6 +168,15 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
