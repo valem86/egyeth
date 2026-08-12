@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-12T15:18:14.217Z",
+  "generatedAt": "2026-08-12T17:16:52.336Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egitto: Al Sisi esamina piano per aumento quota energie rinnovabili al 45 per cento (2)",
+          "link": "https://www.agenzianova.com/a/6a7ca9b95c3c16.68399756/7695023/2026-08-12/egitto-al-sisi-esamina-piano-per-aumento-quota-energie-rinnovabili-al-45-per-cento-2",
+          "description": "12 ago 18:44 - (Agenzia Nova) - Durante l'incontro e' stato discusso il ruolo dei partner internazionali nel fornire supporto tecnico e finanziamenti... (Cae)",
+          "pubDate": "2026-08-12T18:44:41+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: Al Sisi esamina piano per aumento quota energie rinnovabili al 45 per cento (2)"
+        },
         {
           "title": "Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics",
           "link": "https://allafrica.com/stories/202608120420.html",
@@ -84,6 +93,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Central African Republic: UAE's Global South Utilities Inaugurates 50mw Solar Plant in Central African Republic",
+          "link": "https://allafrica.com/stories/202608120537.html",
+          "description": "[Horn Diplomat] Bangui (Horndiplomat) -- Abu Dhabi-based Global South Utilities (GSU) has inaugurated a 50-megawatt solar power plant in the Central African Republic, a project the company says is the largest infrastructure development in the country's history and will increase national electricity generation capacity by more than 60%.",
+          "pubDate": "Wed, 12 Aug 2026 16:48:43 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Central African Republic: UAE's Global South Utilities Inaugurates 50mw Solar Plant in Central African Republic"
+        },
+        {
           "title": "Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics",
           "link": "https://allafrica.com/stories/202608120420.html",
           "description": "[ACSS] Fatalities linked to militant Islamist violence in Africa surpassed 20,000 deaths for the fourth consecutive year, underscoring the resiliency of militant groups across the Sahel, Somalia, the Lake Chad Basin, and Mozambique.",
@@ -129,33 +147,6 @@
           "titleIt": "Africa: Somalia - a Government With One Foot Out the Door"
         },
         {
-          "title": "Saudi Arabia doubles down on its failed Yemen strategy",
-          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/saudi-arabia-doubles-down-on-its-failed-yemen-strategy",
-          "source": "jns.org",
-          "pubDate": "2026-08-12T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia doubles down on its failed Yemen strategy"
-        },
-        {
-          "title": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say",
-          "link": "https://www.middleeasteye.net/news/saudi-arabia-opposed-egypts-inclusion-mecca-agreement-sources-say",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-11T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say"
-        },
-        {
-          "title": "India new Middle East power play - opinion | The Jerusalem Post",
-          "link": "http://www.jpost.com/defense-and-tech/article-905189",
-          "source": "jpost.com",
-          "pubDate": "2026-08-11T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India new Middle East power play - opinion | The Jerusalem Post"
-        },
-        {
           "title": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war",
           "link": "http://www.africanews.com/2026/08/11/tigray-rebels-accuse-ethiopia-of-drone-strikes-amid-fears-of-renewed-war/",
           "description": "Tigray rebel authorities have accused Ethiopia’s federal government of carrying out deadly drone strikes in the region, raising fears of a renewed conflict nearly four years after a peace deal ended a devastating two-year war.",
@@ -163,87 +154,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war"
-        },
-        {
-          "title": "The Recurrent Injustice Against the SSC People in Somali Politics Preamble",
-          "link": "https://wardheernews.com/the-recurrent-injustice-against-the-ssc-people-in-somali-politicspreamble/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-11T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Recurrent Injustice Against the SSC People in Somali Politics Preamble"
-        },
-        {
-          "title": "Dubai ruler confronted in London over UAE involvement in Sudan war",
-          "link": "https://www.middleeasteye.net/news/dubai-ruler-confronted-london-over-uae-involvement-sudan-war",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-10T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dubai ruler confronted in London over UAE involvement in Sudan war"
-        },
-        {
-          "title": "The US Back in Ethiopia , a New Hub of Major Power Competition",
-          "link": "https://www.theepochtimes.com/opinion/the-us-back-in-ethiopia-a-new-hub-of-major-power-competition-6072382",
-          "source": "theepochtimes.com",
-          "pubDate": "2026-08-09T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The US Back in Ethiopia , a New Hub of Major Power Competition"
-        },
-        {
-          "title": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions",
-          "link": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260807-rferl01.htm",
-          "source": "globalsecurity.org",
-          "pubDate": "2026-08-08T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions"
-        },
-        {
-          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
-          "link": "https://www.thereporterethiopia.com/52198/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-08T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
-        },
-        {
-          "title": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative",
-          "link": "https://wardheernews.com/who-owns-the-credit-minister-presents-world-bank-funded-hargeisa-project-as-a-federal-government-initiative/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-08T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative"
-        },
-        {
-          "title": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development",
-          "link": "https://horseedmedia.net/somaliland-president-cirro-meets-international-representatives-in-nairobi-to-discuss-security-and-development/424582/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-08-07T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development"
-        },
-        {
-          "title": "Israeli Navy conducts largest drill since Oct . 7",
-          "link": "https://www.clevelandjewishnews.com/news/world_news/israeli-navy-conducts-largest-drill-since-oct-7/article_9e62e6ad-ec7f-58e1-8776-741d7a792d56.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-08-07T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israeli Navy conducts largest drill since Oct . 7"
-        },
-        {
-          "title": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night",
-          "link": "https://www.fairobserver.com/region/middle_east_north_africa/riyadhs-sudan-contradiction-mediator-by-day-arms-broker-by-night/",
-          "source": "fairobserver.com",
-          "pubDate": "2026-08-07T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night"
         },
         {
           "title": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya",
@@ -255,13 +165,13 @@
           "titleIt": "Ambassador Del Monaco Meets with the Governor of the Central Bank of Kenya"
         },
         {
-          "title": "Turkiye Erdogan visits Saudi Arabia : What to expect - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/turkiyes-erdogan-visits-saudi-arabia-what-to-expect/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-08-07T06:30:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Turkiye Erdogan visits Saudi Arabia : What to expect - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -269,13 +179,40 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Sport: media, raggiunto accordo da 12,5 miliardi per la cessione dei Los Angeles Lakers",
-          "link": "https://www.agenzianova.com/a/6a7c8e2be48e72.40067774/7694751/2026-08-12/sport-media-raggiunto-accordo-da-12-5-miliardi-per-la-cessione-dei-los-angeles-lakers",
-          "description": "12 ago 17:10 - (Agenzia Nova) - Un gruppo guidato da Bob Iger e Joshua Kushner ha raggiunto un accordo per acquistare da Mark Walter una quota... (Was)",
-          "pubDate": "2026-08-12T17:10:45+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Sport: media, raggiunto accordo da 12,5 miliardi per la cessione dei Los Angeles Lakers"
+          "title": "Ethiopians Make Up Overwhelming Majority of Migrants Arriving in Yemen Amid Worsening Regional Conditions",
+          "link": "https://allafrica.com/stories/202608120405.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-12T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopians Make Up Overwhelming Majority of Migrants Arriving in Yemen Amid Worsening Regional Conditions"
+        },
+        {
+          "title": "Ethiopia : Unraveling the Political Settlement That Held Ethiopia Together",
+          "link": "https://allafrica.com/stories/202608120408.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-12T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Unraveling the Political Settlement That Held Ethiopia Together"
+        },
+        {
+          "title": "Ethiopia Unfinished Democratic Struggle - From Divided Opposition to Managed Exclusion and Missed Victories",
+          "link": "https://allafrica.com/stories/202608120411.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-12T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Unfinished Democratic Struggle - From Divided Opposition to Managed Exclusion and Missed Victories"
+        },
+        {
+          "title": "LA Lakers to be sold in record $12.5bn deal",
+          "link": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
+          "description": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
+          "pubDate": "Wed, 12 Aug 2026 16:11:04 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "LA Lakers to be sold in record $12.5bn deal"
         },
         {
           "title": "Sudan: Sudan Paramilitary Forces Attack Border Town, Army Alleges Assault Launched From Ethiopia",
@@ -287,13 +224,22 @@
           "titleIt": "Sudan: Sudan Paramilitary Forces Attack Border Town, Army Alleges Assault Launched From Ethiopia"
         },
         {
-          "title": "Ethiopia: Ethiopians Make Up Overwhelming Majority of Migrants Arriving in Yemen Amid Worsening Regional Conditions",
-          "link": "https://allafrica.com/stories/202608120405.html",
-          "description": "[Addis Standard] Addis Abeba -- Ethiopian nationals accounted for 91% of the 13,687 migrants who arrived in Yemen in July 2026, making them by far the largest group of migrants recorded entering the conflict-affected country during the month, according to the International Organization for Migration (IOM).",
-          "pubDate": "Wed, 12 Aug 2026 14:11:14 GMT",
-          "source": "AllAfrica",
+          "title": "African elephant genomes reveal ancient mixing and modern pressures",
+          "link": "https://news.mongabay.com/short-article/2026/05/african-elephant-genomes-reveal-ancient-mixing-and-modern-pressures/",
+          "source": "news.mongabay.com",
+          "pubDate": "2026-08-12T10:45:00Z",
           "lang": "en",
-          "titleIt": "Ethiopia: Ethiopians Make Up Overwhelming Majority of Migrants Arriving in Yemen Amid Worsening Regional Conditions"
+          "description": "",
+          "titleIt": "African elephant genomes reveal ancient mixing and modern pressures"
+        },
+        {
+          "title": "World Elephant Day : How these giants are adapting to a changing world",
+          "link": "https://news.mongabay.com/short-article/2026/08/world-elephant-day-how-these-giants-are-adapting-to-a-changing-world/",
+          "source": "news.mongabay.com",
+          "pubDate": "2026-08-12T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "World Elephant Day : How these giants are adapting to a changing world"
         },
         {
           "title": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs",
@@ -303,6 +249,42 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs"
+        },
+        {
+          "title": "Chinese automaker Chery buys Nissan plant as EV production shifts to new markets",
+          "link": "https://abcnews.com/Technology/wireStory/chinese-automaker-chery-buys-nissan-plant-africa-ev-135568425",
+          "source": "abcnews.com",
+          "pubDate": "2026-08-12T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese automaker Chery buys Nissan plant as EV production shifts to new markets"
+        },
+        {
+          "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets",
+          "link": "http://www.gazettextra.com/news/nation_world/chinese-automaker-chery-buys-nissan-plant-in-africa-as-ev-production-shifts-to-new-markets/article_406e4b74-6f20-5c3e-a24f-67ea805079d6.html",
+          "source": "gazettextra.com",
+          "pubDate": "2026-08-12T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets"
+        },
+        {
+          "title": "Vision 2030 Transformed Kenya , LAPSSET Attracted Major Investment , Says Board Chair",
+          "link": "https://capitalfm.africa/vision-2030-transformed-kenya-lapsset-attracted-major-investment-says-board-chair/",
+          "source": "capitalfm.africa",
+          "pubDate": "2026-08-12T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Vision 2030 Transformed Kenya , LAPSSET Attracted Major Investment , Says Board Chair"
+        },
+        {
+          "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets",
+          "link": "https://www.therecord.com/business/chinese-automaker-chery-buys-nissan-plant-in-africa-as-ev-production-shifts-to-new-markets/article_a1cf19f8-db28-5fa4-ab9a-b4e438fc7d5b.html",
+          "source": "therecord.com",
+          "pubDate": "2026-08-12T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets"
         },
         {
           "title": "Somalia and Italy Together for Fisheries and the Blue Economy",
@@ -323,6 +305,15 @@
           "titleIt": "Africa: Somalia - a Government With One Foot Out the Door"
         },
         {
+          "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets",
+          "link": "https://www.messenger-inquirer.com/ap/ap_international_news/chinese-automaker-chery-buys-nissan-plant-in-africa-as-ev-production-shifts-to-new-markets/article_585e4975-3ae9-5742-828a-02dc32085f04.html",
+          "source": "messenger-inquirer.com",
+          "pubDate": "2026-08-12T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets"
+        },
+        {
           "title": "US Senate votes to extend AGOA trade programme for 32 African nations",
           "link": "http://www.africanews.com/2026/08/12/us-senate-votes-to-extend-agoa-trade-programme-for-32-african-nations/",
           "description": "The United States Senate has approved a two-year extension of the African Growth and Opportunity Act, maintaining duty-free access on more than 1,800 products from eligible countries.",
@@ -332,46 +323,55 @@
           "titleIt": "US Senate votes to extend AGOA trade programme for 32 African nations"
         },
         {
-          "title": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war",
-          "link": "http://www.africanews.com/2026/08/11/tigray-rebels-accuse-ethiopia-of-drone-strikes-amid-fears-of-renewed-war/",
-          "description": "Tigray rebel authorities have accused Ethiopia’s federal government of carrying out deadly drone strikes in the region, raising fears of a renewed conflict nearly four years after a peace deal ended a devastating two-year war.",
-          "pubDate": "Tue, 11 Aug 2026 11:34:33 +0000",
-          "source": "Africanews",
+          "title": "How the Blue Nile is strategically important in Sudan civil war",
+          "link": "https://news.az/news/how-the-blue-nile-is-strategically-important-in-sudans-civil-war",
+          "source": "news.az",
+          "pubDate": "2026-08-12T04:45:00Z",
           "lang": "en",
-          "titleIt": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war"
+          "description": "",
+          "titleIt": "How the Blue Nile is strategically important in Sudan civil war"
         },
         {
-          "title": "An Alliance for Vocational Training in Mozambique with Italy’s Support",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/06/an-alliance-for-vocational-training-in-mozambique-with-italys-support_3ef414b4-467a-4e7b-8d2b-9a8910a23fe5.html",
-          "description": "(ANSA) - MAPUTO, 06 AGO - Mozambique’s Minister of Youth and Sports, Caifadine Paulo Manasse, opened the workshop “Alliance for the Future: Co-Investing in Training, Nurturing Talent,\" in Maputo Province on Thursday, August 6, calling for a new strategic partnership between the government, industry, and development partners, with the goal of transforming vocational training into a driver of industrialization and job creation. The event, organized by the Alberto Cassimo Institute for Vocational Training and Labor Studies (Ifpelac), is funded by the Italian government through the “Job Creation t",
-          "pubDate": "Thu, 6 Aug 2026 17:56:29 +0200",
-          "source": "ANSA English",
+          "title": "Repatriation costs of almost R300m strain South Africa migration budget",
+          "link": "https://www.sowetan.co.za/news/2026-08-12-repatriation-costs-of-almost-r300m-strain-south-africas-migration-budget/",
+          "source": "sowetan.co.za",
+          "pubDate": "2026-08-12T04:00:00Z",
           "lang": "en",
-          "titleIt": "An Alliance for Vocational Training in Mozambique with Italy’s Support"
+          "description": "",
+          "titleIt": "Repatriation costs of almost R300m strain South Africa migration budget"
         },
         {
-          "title": "Real Madrid sign Diomande in deal worth up to £120m",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c4g3906pz65o?at_medium=RSS&at_campaign=rss",
-          "description": "Real Madrid sign Ivory Coast international Yan Diomande from German side RB Leipzig for a fee worth up to 140m euros (£120m).",
-          "pubDate": "Thu, 06 Aug 2026 14:58:56 GMT",
-          "source": "BBC Africa",
+          "title": "Saudi Arabia doubles down on its failed Yemen strategy",
+          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/saudi-arabia-doubles-down-on-its-failed-yemen-strategy",
+          "source": "jns.org",
+          "pubDate": "2026-08-12T02:45:00Z",
           "lang": "en",
-          "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
+          "description": "",
+          "titleIt": "Saudi Arabia doubles down on its failed Yemen strategy"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Kenya Sorrow : the US Connection - Afriques en Lutte",
+          "link": "https://www.afriquesenlutte.org/afrique-de-l-est/kenya/article/kenya-s-sorrow-the-us-connection",
+          "source": "afriquesenlutte.org",
+          "pubDate": "2026-08-11T23:15:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Kenya Sorrow : the US Connection - Afriques en Lutte"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "Egitto: Al Sisi esamina piano per aumento quota energie rinnovabili al 45 per cento (2)",
+          "link": "https://www.agenzianova.com/a/6a7ca9b95c3c16.68399756/7695023/2026-08-12/egitto-al-sisi-esamina-piano-per-aumento-quota-energie-rinnovabili-al-45-per-cento-2",
+          "description": "12 ago 18:44 - (Agenzia Nova) - Durante l'incontro e' stato discusso il ruolo dei partner internazionali nel fornire supporto tecnico e finanziamenti... (Cae)",
+          "pubDate": "2026-08-12T18:44:41+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: Al Sisi esamina piano per aumento quota energie rinnovabili al 45 per cento (2)"
+        },
         {
           "title": "The first Senegalese selected for the “New Destinies” project visited the embassy",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/the-first-senegalese-selected-for-the-new-destinies-project-visited_4bf68272-c586-47bf-bc20-f242c1b3b863.html",
@@ -412,6 +412,159 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Quake leaves Colombian towns in ruins as Valle del Cauca counts dead"
+        },
+        {
+          "title": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say",
+          "link": "https://www.middleeasteye.net/news/saudi-arabia-opposed-egypts-inclusion-mecca-agreement-sources-say",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-11T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say"
+        },
+        {
+          "title": "Liberia : Burrowes Calls for Historical Reckoning",
+          "link": "https://allafrica.com/stories/202608110475.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-11T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Liberia : Burrowes Calls for Historical Reckoning"
+        },
+        {
+          "title": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict",
+          "link": "https://allafrica.com/stories/202608100033.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict"
+        },
+        {
+          "title": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River",
+          "link": "https://allafrica.com/stories/202608100052.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River"
+        },
+        {
+          "title": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus",
+          "link": "https://allafrica.com/stories/202608100053.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus"
+        },
+        {
+          "title": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact",
+          "link": "https://www.ynetnews.com/opinions-analysis/article/rjmp11isifl",
+          "source": "ynetnews.com",
+          "pubDate": "2026-08-09T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact"
+        },
+        {
+          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
+          "link": "https://www.thereporterethiopia.com/52198/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-08T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
+        },
+        {
+          "title": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power",
+          "link": "https://www.spotlightnepal.com/2026/08/07/electricity-capital-not-just-commodity-rethinking-nepals-electricity-strategy-era-surplus-power/",
+          "source": "spotlightnepal.com",
+          "pubDate": "2026-08-07T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power"
+        },
+        {
+          "title": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams",
+          "link": "https://www.tanzanianewsreports.com/egypt-declares-strong-opposition-to-new-ethiopian-nile-dams/",
+          "source": "tanzanianewsreports.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams"
+        },
+        {
+          "title": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times",
+          "link": "https://medafricatimes.com/46583-ethiopia-accuses-egypt-of-using-gerd-dispute-to-divert-attention-from-domestic-challenges.html",
+          "source": "medafricatimes.com",
+          "pubDate": "2026-08-06T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times"
+        },
+        {
+          "title": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility",
+          "link": "https://allafrica.com/stories/202608060479.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility"
+        },
+        {
+          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
+          "link": "https://allafrica.com/stories/202608060151.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
+        },
+        {
+          "title": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework",
+          "link": "https://allafrica.com/stories/202608060164.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Rejects Egypt Latest GERD Accusations , Again Urges Return to Negotiated Framework"
+        },
+        {
+          "title": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President",
+          "link": "https://allafrica.com/stories/202608060100.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Uses GERD Issue to Divert Attention From Domestic Challenges - EIPD President"
+        },
+        {
+          "title": "Africa : Ethiopia Well Positioned to Become Africa Energy Hub , Says Ministry",
+          "link": "https://allafrica.com/stories/202608060077.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Ethiopia Well Positioned to Become Africa Energy Hub , Says Ministry"
+        },
+        {
+          "title": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project",
+          "link": "https://allafrica.com/stories/202608050079.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-05T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : CNN Highlights GERD Landmark Engineering Achievement Transforming Ethiopia Remote Valley Into Africa Largest Project"
+        },
+        {
+          "title": "Egypt says it wont allow new Ethiopian dams on Nile River",
+          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-won-t-allow-new-ethiopian-dams-on-nile-river/4018528",
+          "source": "aa.com.tr",
+          "pubDate": "2026-08-04T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says it wont allow new Ethiopian dams on Nile River"
         }
       ]
     }
