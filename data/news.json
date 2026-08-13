@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T15:18:56.248Z",
+  "generatedAt": "2026-08-13T17:16:53.265Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -89,13 +89,13 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "I fatti del giorno - Nord Africa (4)",
-          "link": "https://www.agenzianova.com/a/6a7ddfb8f37079.00258612/7698033/2026-08-13/i-fatti-del-giorno-nord-africa-4",
-          "description": "13 ago 17:00 - (Agenzia Nova) - Algeria: Air Algerie, intesa con Oman Airports per una partnership strategica - Air Algerie e Transom hanno... (Res)",
-          "pubDate": "2026-08-13T17:00:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "I fatti del giorno - Nord Africa (4)"
+          "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+          "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+          "description": "Mangione faces two federal stalking crimes that carry a maximum penalty of life in prison without parole.",
+          "pubDate": "Thu, 13 Aug 2026 16:45:06 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Mangione lawyers to meet federal prosecutors amid reports of plea deal"
         },
         {
           "title": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
@@ -173,7 +173,188 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U . S . drags on",
+          "link": "https://www.cnbcafrica.com/2026/iran-looks-to-ramp-up-economic-alliance-with-brics-nations-as-war-with-u-s-drags-on",
+          "source": "cnbcafrica.com",
+          "pubDate": "2026-08-13T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran looks to ramp up economic alliance with BRICS nations as war with U . S . drags on"
+        },
+        {
+          "title": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz",
+          "link": "http://www.southeastasiapost.com/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz",
+          "source": "southeastasiapost.com",
+          "pubDate": "2026-08-13T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz"
+        },
+        {
+          "title": "Tehran Has to Make a Choice",
+          "link": "https://www.theatlantic.com/international/2026/08/iran-muslim-countries-defense-pact/688265/",
+          "source": "theatlantic.com",
+          "pubDate": "2026-08-13T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tehran Has to Make a Choice"
+        },
+        {
+          "title": "Iran looks to join BRICS bank as war with U . S . drags on",
+          "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
+          "source": "cnbc.com",
+          "pubDate": "2026-08-13T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran looks to join BRICS bank as war with U . S . drags on"
+        },
+        {
+          "title": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz",
+          "link": "http://www.torontotelegraph.com/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz",
+          "source": "torontotelegraph.com",
+          "pubDate": "2026-08-13T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz"
+        },
+        {
+          "title": "Eritrea : Key geopolitical player in the Horn of Africa",
+          "link": "https://www.dw.com/en/eritrea-horn-of-africa-geopolitics-ethiopia-iran-war-strait-of-hormuz-oil-graphics/a-78335316",
+          "source": "dw.com",
+          "pubDate": "2026-08-13T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Eritrea : Key geopolitical player in the Horn of Africa"
+        },
+        {
+          "title": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz",
+          "link": "http://www.milwaukeesun.com/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz",
+          "source": "milwaukeesun.com",
+          "pubDate": "2026-08-13T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz"
+        },
+        {
+          "title": "Judaism : The trunk of the three Abrahamic religions",
+          "link": "https://www.heritagefl.com/story/2026/08/14/features/judaism-the-trunk-of-the-three-abrahamic-religions/23804.html",
+          "source": "heritagefl.com",
+          "pubDate": "2026-08-13T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Judaism : The trunk of the three Abrahamic religions"
+        },
+        {
+          "title": "Iran to join BRICS development bank soon , central bank governor says",
+          "link": "https://finance.yahoo.com/economy/policy/articles/iran-join-brics-development-bank-080750525.html",
+          "source": "finance.yahoo.com",
+          "pubDate": "2026-08-13T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran to join BRICS development bank soon , central bank governor says"
+        },
+        {
+          "title": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz",
+          "link": "http://www.iranherald.com/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz",
+          "source": "iranherald.com",
+          "pubDate": "2026-08-13T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz"
+        },
+        {
+          "title": "Nigeria Fails U . S . Fiscal Transparency Test for 2nd Year",
+          "link": "https://www.opinionnigeria.com/nigeria-fails-u-s-fiscal-transparency-test-for-second-consecutive-year/",
+          "source": "opinionnigeria.com",
+          "pubDate": "2026-08-13T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nigeria Fails U . S . Fiscal Transparency Test for 2nd Year"
+        },
+        {
+          "title": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz",
+          "link": "http://www.calcuttanews.net/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-08-13T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz"
+        },
+        {
+          "title": "2026 and All That : Another Benchmark Year in Royal Navy Decline",
+          "link": "https://warontherocks.com/2026-and-all-that-another-benchmark-year-in-royal-navy-decline/",
+          "source": "warontherocks.com",
+          "pubDate": "2026-08-13T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "2026 and All That : Another Benchmark Year in Royal Navy Decline"
+        },
+        {
+          "title": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz",
+          "link": "http://www.parisguardian.com/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz",
+          "source": "parisguardian.com",
+          "pubDate": "2026-08-13T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz"
+        },
+        {
+          "title": "Russia , China reaffirm support for India BRICS chairship 2026",
+          "link": "http://www.kenyastar.com/news/279238634/russia-china-reaffirm-support-for-india-brics-chairship-2026",
+          "source": "kenyastar.com",
+          "pubDate": "2026-08-13T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russia , China reaffirm support for India BRICS chairship 2026"
+        },
+        {
+          "title": "Iran Eyes New Development Bank Membership as BRICS Pushes Local Currency Trade",
+          "link": "http://www.econotimes.com/Iran-Eyes-New-Development-Bank-Membership-as-BRICS-Pushes-Local-Currency-Trade-1749372",
+          "source": "econotimes.com",
+          "pubDate": "2026-08-13T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran Eyes New Development Bank Membership as BRICS Pushes Local Currency Trade"
+        },
+        {
+          "title": "El - Sisi appoints Moustafa Shaikhon as SCZONE Chairman for one year",
+          "link": "https://www.zawya.com/en/economy/el-sisi-appoints-moustafa-shaikhon-as-sczone-chairman-for-one-year-430487",
+          "source": "zawya.com",
+          "pubDate": "2026-08-13T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "El - Sisi appoints Moustafa Shaikhon as SCZONE Chairman for one year"
+        },
+        {
+          "title": "ITA backs 11 Indian projects to accelerate clean industrial transition",
+          "link": "https://www.business-standard.com/industry/news/ita-backs-11-indian-projects-to-accelerate-clean-industrial-transition-126081300825_1.html",
+          "source": "business-standard.com",
+          "pubDate": "2026-08-13T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "ITA backs 11 Indian projects to accelerate clean industrial transition"
+        },
+        {
+          "title": "3 ملايين قرص كبتاجون و150 كيلو مخدرات وأسلحة .. تجديد حبس « عصابة المليارات الثلاثة »",
+          "link": "https://www.okaz.com.sa/variety/na/2261137",
+          "source": "okaz.com.sa",
+          "pubDate": "2026-08-13T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "3 ملايين قرص كبتاجون و150 كيلو مخدرات وأسلحة .. تجديد حبس « عصابة المليارات الثلاثة »"
+        },
+        {
+          "title": "Russia , China reaffirm support for India BRICS chairship 2026",
+          "link": "http://www.brazilsun.com/news/279238634/russia-china-reaffirm-support-for-india-brics-chairship-2026",
+          "source": "brazilsun.com",
+          "pubDate": "2026-08-13T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russia , China reaffirm support for India BRICS chairship 2026"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
