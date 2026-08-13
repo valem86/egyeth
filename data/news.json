@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-08-13T09:36:34.138Z",
+  "generatedAt": "2026-08-13T11:12:51.761Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Egitto-Arabia Saudita: ministri Esteri respingono le voci di tensioni (3)",
-          "link": "https://www.agenzianova.com/a/6a7d8fc54fbe44.48637402/7696452/2026-08-13/egitto-arabia-saudita-ministri-esteri-respingono-le-voci-di-tensioni-3",
-          "description": "13 ago 11:24 - (Agenzia Nova) - Sul piano regionale, Abdelatty e bin Farhan hanno esaminato gli sforzi per contenere l'escalation militare... (Cae)",
-          "pubDate": "2026-08-13T11:24:01+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto-Arabia Saudita: ministri Esteri respingono le voci di tensioni (3)"
-        },
         {
           "title": "Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics",
           "link": "https://allafrica.com/stories/202608120420.html",
@@ -52,15 +43,6 @@
           "titleIt": "EU to Support Libya in the Fight Against Terrorism and for Border Security"
         },
         {
-          "title": "The first Senegalese selected for the “New Destinies” project visited the embassy",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/the-first-senegalese-selected-for-the-new-destinies-project-visited_4bf68272-c586-47bf-bc20-f242c1b3b863.html",
-          "description": "(ANSA) - IL CAIRO, 07 AGO - The Italian Ambassador to Dakar, Michele Tommasi, welcomed the first twelve Senegalese workers who will soon take part in the “New Destinies – New Horizons” project in Italy, in the presence of representatives from institutions, training organizations, and partners involved in the initiative. The program, managed by Umana, an Italian agency specializing in employment services, recruitment, and vocational training, was developed in collaboration with the Italian Confederation of Trade Unions (CISL) in Venice, the National Association Beyond Borders (ANOLF) in Venice,",
-          "pubDate": "Fri, 7 Aug 2026 12:08:40 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
-        },
-        {
           "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
           "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
           "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
@@ -93,42 +75,6 @@
           "titleIt": "Africa: Will Kenya Investigate and Prosecute Sudan's RSF?"
         },
         {
-          "title": "The Mecca Pact : The Unfinished Asabiyyah of a World in Search of Power",
-          "link": "https://countercurrents.org/2026/08/the-mecca-pact-the-unfinished-asabiyyah-of-a-world-in-search-of-power/",
-          "source": "countercurrents.org",
-          "pubDate": "2026-08-13T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Mecca Pact : The Unfinished Asabiyyah of a World in Search of Power"
-        },
-        {
-          "title": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي",
-          "link": "https://www.okaz.com.sa/articles/na/2261085",
-          "source": "okaz.com.sa",
-          "pubDate": "2026-08-12T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي"
-        },
-        {
-          "title": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit",
-          "link": "https://www.whmi.com/news/fox/iran-backed-houthi-threat-red-sea-could-lead-major-us-policy-shift-analysts-say",
-          "source": "whmi.com",
-          "pubDate": "2026-08-12T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit"
-        },
-        {
-          "title": "Central African Republic: UAE's Global South Utilities Inaugurates 50mw Solar Plant in Central African Republic",
-          "link": "https://allafrica.com/stories/202608120537.html",
-          "description": "[Horn Diplomat] Bangui (Horndiplomat) -- Abu Dhabi-based Global South Utilities (GSU) has inaugurated a 50-megawatt solar power plant in the Central African Republic, a project the company says is the largest infrastructure development in the country's history and will increase national electricity generation capacity by more than 60%.",
-          "pubDate": "Wed, 12 Aug 2026 16:48:43 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Central African Republic: UAE's Global South Utilities Inaugurates 50mw Solar Plant in Central African Republic"
-        },
-        {
           "title": "Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics",
           "link": "https://allafrica.com/stories/202608120420.html",
           "description": "[ACSS] Fatalities linked to militant Islamist violence in Africa surpassed 20,000 deaths for the fourth consecutive year, underscoring the resiliency of militant groups across the Sahel, Somalia, the Lake Chad Basin, and Mozambique.",
@@ -138,42 +84,6 @@
           "titleIt": "Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics"
         },
         {
-          "title": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs",
-          "link": "https://allafrica.com/stories/202608120147.html",
-          "description": "[Nyasa Times] South Africa has sparked a diplomatic storm after formally demanding that Malawi, Nigeria and Ethiopia reimburse part of the R292 million (about K29 billion) it has spent this year deporting undocumented migrants -- with Malawians making up the largest share of those removed.",
-          "pubDate": "Wed, 12 Aug 2026 10:04:26 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs"
-        },
-        {
-          "title": "Saudi Arabia doubles down on its failed Yemen strategy",
-          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/saudi-arabia-doubles-down-on-its-failed-yemen-strategy",
-          "source": "jns.org",
-          "pubDate": "2026-08-12T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia doubles down on its failed Yemen strategy"
-        },
-        {
-          "title": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say",
-          "link": "https://www.middleeasteye.net/news/saudi-arabia-opposed-egypts-inclusion-mecca-agreement-sources-say",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-11T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say"
-        },
-        {
-          "title": "India new Middle East power play - opinion | The Jerusalem Post",
-          "link": "http://www.jpost.com/defense-and-tech/article-905189",
-          "source": "jpost.com",
-          "pubDate": "2026-08-11T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India new Middle East power play - opinion | The Jerusalem Post"
-        },
-        {
           "title": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war",
           "link": "http://www.africanews.com/2026/08/11/tigray-rebels-accuse-ethiopia-of-drone-strikes-amid-fears-of-renewed-war/",
           "description": "Tigray rebel authorities have accused Ethiopia’s federal government of carrying out deadly drone strikes in the region, raising fears of a renewed conflict nearly four years after a peace deal ended a devastating two-year war.",
@@ -181,137 +91,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war"
-        },
-        {
-          "title": "The Recurrent Injustice Against the SSC People in Somali Politics Preamble",
-          "link": "https://wardheernews.com/the-recurrent-injustice-against-the-ssc-people-in-somali-politicspreamble/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-11T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Recurrent Injustice Against the SSC People in Somali Politics Preamble"
-        },
-        {
-          "title": "Dubai ruler confronted in London over UAE involvement in Sudan war",
-          "link": "https://www.middleeasteye.net/news/dubai-ruler-confronted-london-over-uae-involvement-sudan-war",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-10T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dubai ruler confronted in London over UAE involvement in Sudan war"
-        },
-        {
-          "title": "The US Back in Ethiopia , a New Hub of Major Power Competition",
-          "link": "https://www.theepochtimes.com/opinion/the-us-back-in-ethiopia-a-new-hub-of-major-power-competition-6072382",
-          "source": "theepochtimes.com",
-          "pubDate": "2026-08-09T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The US Back in Ethiopia , a New Hub of Major Power Competition"
-        },
-        {
-          "title": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions",
-          "link": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260807-rferl01.htm",
-          "source": "globalsecurity.org",
-          "pubDate": "2026-08-08T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions"
-        },
-        {
-          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
-          "link": "https://www.thereporterethiopia.com/52198/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-08T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
-        },
-        {
-          "title": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative",
-          "link": "https://wardheernews.com/who-owns-the-credit-minister-presents-world-bank-funded-hargeisa-project-as-a-federal-government-initiative/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-08T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative"
-        },
-        {
-          "title": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development",
-          "link": "https://horseedmedia.net/somaliland-president-cirro-meets-international-representatives-in-nairobi-to-discuss-security-and-development/424582/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-08-07T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development"
-        },
-        {
-          "title": "Israeli Navy conducts largest drill since Oct . 7",
-          "link": "https://www.clevelandjewishnews.com/news/world_news/israeli-navy-conducts-largest-drill-since-oct-7/article_9e62e6ad-ec7f-58e1-8776-741d7a792d56.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-08-07T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israeli Navy conducts largest drill since Oct . 7"
-        },
-        {
-          "title": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night",
-          "link": "https://www.fairobserver.com/region/middle_east_north_africa/riyadhs-sudan-contradiction-mediator-by-day-arms-broker-by-night/",
-          "source": "fairobserver.com",
-          "pubDate": "2026-08-07T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Riyadh Sudan Contradiction : Mediator by Day , Arms Broker by Night"
-        }
-      ]
-    },
-    "ethiopia-sea-access": {
-      "title": "Accesso etiope al mare",
-      "items": [
-        {
-          "title": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs",
-          "link": "https://allafrica.com/stories/202608120147.html",
-          "description": "[Nyasa Times] South Africa has sparked a diplomatic storm after formally demanding that Malawi, Nigeria and Ethiopia reimburse part of the R292 million (about K29 billion) it has spent this year deporting undocumented migrants -- with Malawians making up the largest share of those removed.",
-          "pubDate": "Wed, 12 Aug 2026 10:04:26 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs"
-        },
-        {
-          "title": "Somalia and Italy Together for Fisheries and the Blue Economy",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/12/somalia-and-italy-together-for-fisheries-and-the-blue-economy_1865aa60-d732-41b4-b323-3a976dae254a.html",
-          "description": "(ANSA) - NAIROBI, 12 AGO - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with the Minister of Fisheries and the Blue Economy, Ahmed Hassan Adan, to receive an update on ongoing programs and exchange views on the prospects for a greater Italian presence in the sector. The Somali minister thanked Italy for funding the cooperation project aimed at strengthening the fisheries supply chain in the city of Bosaso (Puntland), expressing the hope that this initiative could be replicated in other locations across Somalia to contribute to the development of coastal communities. Minister ",
-          "pubDate": "Wed, 12 Aug 2026 10:09:15 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Somalia and Italy Together for Fisheries and the Blue Economy"
-        },
-        {
-          "title": "US Senate votes to extend AGOA trade programme for 32 African nations",
-          "link": "http://www.africanews.com/2026/08/12/us-senate-votes-to-extend-agoa-trade-programme-for-32-african-nations/",
-          "description": "The United States Senate has approved a two-year extension of the African Growth and Opportunity Act, maintaining duty-free access on more than 1,800 products from eligible countries.",
-          "pubDate": "Wed, 12 Aug 2026 05:57:33 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "US Senate votes to extend AGOA trade programme for 32 African nations"
-        },
-        {
-          "title": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war",
-          "link": "http://www.africanews.com/2026/08/11/tigray-rebels-accuse-ethiopia-of-drone-strikes-amid-fears-of-renewed-war/",
-          "description": "Tigray rebel authorities have accused Ethiopia’s federal government of carrying out deadly drone strikes in the region, raising fears of a renewed conflict nearly four years after a peace deal ended a devastating two-year war.",
-          "pubDate": "Tue, 11 Aug 2026 11:34:33 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Tigray rebels accuse Ethiopia of drone strikes amid fears of renewed war"
-        },
-        {
-          "title": "Real Madrid sign Diomande in deal worth up to £120m",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c4g3906pz65o?at_medium=RSS&at_campaign=rss",
-          "description": "Real Madrid sign Ivory Coast international Yan Diomande from German side RB Leipzig for a fee worth up to 140m euros (£120m).",
-          "pubDate": "Thu, 06 Aug 2026 14:58:56 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
         },
         {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
@@ -324,50 +103,379 @@
         }
       ]
     },
+    "ethiopia-sea-access": {
+      "title": "Accesso etiope al mare",
+      "items": [
+        {
+          "title": "Energia: negoziati Georgia-Azerbaigian-Turchia-Bulgaria per nuovo corridoio terrestre transito elettricita'",
+          "link": "https://www.agenzianova.com/a/6a7da69140e399.77492073/7696973/2026-08-13/energia-negoziati-georgia-azerbaigian-turchia-bulgaria-per-nuovo-corridoio-terrestre-transito-elettricita",
+          "description": "13 ago 12:41 - (Agenzia Nova) - Georgia, Azerbaigian, Turchia e Bulgaria stanno negoziando la creazione di un nuovo corridoio terrestre per... (Rum)",
+          "pubDate": "2026-08-13T12:41:32+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Energia: negoziati Georgia-Azerbaigian-Turchia-Bulgaria per nuovo corridoio terrestre transito elettricita'"
+        },
+        {
+          "title": "South Africa backing AU Luanda summit for Sudan conflict resolution",
+          "link": "https://defenceweb.co.za/joint/diplomacy-a-peace/south-africa-backing-au-luanda-summit-for-sudan-conflict-resolution/",
+          "source": "defenceweb.co.za",
+          "pubDate": "2026-08-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "South Africa backing AU Luanda summit for Sudan conflict resolution"
+        },
+        {
+          "title": "Zero - tariff policies , systemic support help African countries expand exports , upgrade industry",
+          "link": "https://www.globaltimes.cn/page/202608/1368089.shtml",
+          "source": "globaltimes.cn",
+          "pubDate": "2026-08-13T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Zero - tariff policies , systemic support help African countries expand exports , upgrade industry"
+        },
+        {
+          "title": "Economists Fault Nigeria Fiscal Transparency , Back US Repo",
+          "link": "https://punchng.com/economists-back-us-fault-nigerias-fiscal-transparency/",
+          "source": "punchng.com",
+          "pubDate": "2026-08-13T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Economists Fault Nigeria Fiscal Transparency , Back US Repo"
+        },
+        {
+          "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets",
+          "link": "https://japantoday.com/category/business/chinese-automaker-chery-buys-nissan-plant-in-africa-as-ev-production-shifts-to-new-markets",
+          "source": "japantoday.com",
+          "pubDate": "2026-08-12T23:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets"
+        },
+        {
+          "title": "Ethiopia Tigray Crisis Could Reshape Somalia Security Landscape as Regional Fault Lines Deepen",
+          "link": "https://wardheernews.com/ethiopias-tigray-crisis-could-reshape-somalias-security-landscape-as-regional-fault-lines-deepen/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-12T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Tigray Crisis Could Reshape Somalia Security Landscape as Regional Fault Lines Deepen"
+        },
+        {
+          "title": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي",
+          "link": "https://www.okaz.com.sa/articles/na/2261085",
+          "source": "okaz.com.sa",
+          "pubDate": "2026-08-12T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي"
+        },
+        {
+          "title": "Sudan : Fueling the Fire - How Pakistan Arms Deliveries to Sudan Resonate From the Red Sea to Balochistan",
+          "link": "https://allafrica.com/stories/202608120587.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-12T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Fueling the Fire - How Pakistan Arms Deliveries to Sudan Resonate From the Red Sea to Balochistan"
+        },
+        {
+          "title": "Ethiopians Make Up Overwhelming Majority of Migrants Arriving in Yemen Amid Worsening Regional Conditions",
+          "link": "https://allafrica.com/stories/202608120405.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-12T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopians Make Up Overwhelming Majority of Migrants Arriving in Yemen Amid Worsening Regional Conditions"
+        },
+        {
+          "title": "Ethiopia : Unraveling the Political Settlement That Held Ethiopia Together",
+          "link": "https://allafrica.com/stories/202608120408.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-12T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Unraveling the Political Settlement That Held Ethiopia Together"
+        },
+        {
+          "title": "Ethiopia Unfinished Democratic Struggle - From Divided Opposition to Managed Exclusion and Missed Victories",
+          "link": "https://allafrica.com/stories/202608120411.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-12T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Unfinished Democratic Struggle - From Divided Opposition to Managed Exclusion and Missed Victories"
+        },
+        {
+          "title": "African elephant genomes reveal ancient mixing and modern pressures",
+          "link": "https://news.mongabay.com/short-article/2026/05/african-elephant-genomes-reveal-ancient-mixing-and-modern-pressures/",
+          "source": "news.mongabay.com",
+          "pubDate": "2026-08-12T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African elephant genomes reveal ancient mixing and modern pressures"
+        },
+        {
+          "title": "World Elephant Day : How these giants are adapting to a changing world",
+          "link": "https://news.mongabay.com/short-article/2026/08/world-elephant-day-how-these-giants-are-adapting-to-a-changing-world/",
+          "source": "news.mongabay.com",
+          "pubDate": "2026-08-12T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "World Elephant Day : How these giants are adapting to a changing world"
+        },
+        {
+          "title": "Chinese automaker Chery buys Nissan plant as EV production shifts to new markets",
+          "link": "https://abcnews.com/Technology/wireStory/chinese-automaker-chery-buys-nissan-plant-africa-ev-135568425",
+          "source": "abcnews.com",
+          "pubDate": "2026-08-12T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese automaker Chery buys Nissan plant as EV production shifts to new markets"
+        },
+        {
+          "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets",
+          "link": "http://www.gazettextra.com/news/nation_world/chinese-automaker-chery-buys-nissan-plant-in-africa-as-ev-production-shifts-to-new-markets/article_406e4b74-6f20-5c3e-a24f-67ea805079d6.html",
+          "source": "gazettextra.com",
+          "pubDate": "2026-08-12T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets"
+        },
+        {
+          "title": "Vision 2030 Transformed Kenya , LAPSSET Attracted Major Investment , Says Board Chair",
+          "link": "https://capitalfm.africa/vision-2030-transformed-kenya-lapsset-attracted-major-investment-says-board-chair/",
+          "source": "capitalfm.africa",
+          "pubDate": "2026-08-12T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Vision 2030 Transformed Kenya , LAPSSET Attracted Major Investment , Says Board Chair"
+        },
+        {
+          "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets",
+          "link": "https://www.therecord.com/business/chinese-automaker-chery-buys-nissan-plant-in-africa-as-ev-production-shifts-to-new-markets/article_a1cf19f8-db28-5fa4-ab9a-b4e438fc7d5b.html",
+          "source": "therecord.com",
+          "pubDate": "2026-08-12T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets"
+        },
+        {
+          "title": "Somalia and Italy Together for Fisheries and the Blue Economy",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/12/somalia-and-italy-together-for-fisheries-and-the-blue-economy_1865aa60-d732-41b4-b323-3a976dae254a.html",
+          "description": "(ANSA) - NAIROBI, 12 AGO - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with the Minister of Fisheries and the Blue Economy, Ahmed Hassan Adan, to receive an update on ongoing programs and exchange views on the prospects for a greater Italian presence in the sector. The Somali minister thanked Italy for funding the cooperation project aimed at strengthening the fisheries supply chain in the city of Bosaso (Puntland), expressing the hope that this initiative could be replicated in other locations across Somalia to contribute to the development of coastal communities. Minister ",
+          "pubDate": "Wed, 12 Aug 2026 10:09:15 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Somalia and Italy Together for Fisheries and the Blue Economy"
+        },
+        {
+          "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets",
+          "link": "https://www.messenger-inquirer.com/ap/ap_international_news/chinese-automaker-chery-buys-nissan-plant-in-africa-as-ev-production-shifts-to-new-markets/article_585e4975-3ae9-5742-828a-02dc32085f04.html",
+          "source": "messenger-inquirer.com",
+          "pubDate": "2026-08-12T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets"
+        },
+        {
+          "title": "US Senate votes to extend AGOA trade programme for 32 African nations",
+          "link": "http://www.africanews.com/2026/08/12/us-senate-votes-to-extend-agoa-trade-programme-for-32-african-nations/",
+          "description": "The United States Senate has approved a two-year extension of the African Growth and Opportunity Act, maintaining duty-free access on more than 1,800 products from eligible countries.",
+          "pubDate": "Wed, 12 Aug 2026 05:57:33 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "US Senate votes to extend AGOA trade programme for 32 African nations"
+        }
+      ]
+    },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "The first Senegalese selected for the “New Destinies” project visited the embassy",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/07/the-first-senegalese-selected-for-the-new-destinies-project-visited_4bf68272-c586-47bf-bc20-f242c1b3b863.html",
-          "description": "(ANSA) - IL CAIRO, 07 AGO - The Italian Ambassador to Dakar, Michele Tommasi, welcomed the first twelve Senegalese workers who will soon take part in the “New Destinies – New Horizons” project in Italy, in the presence of representatives from institutions, training organizations, and partners involved in the initiative. The program, managed by Umana, an Italian agency specializing in employment services, recruitment, and vocational training, was developed in collaboration with the Italian Confederation of Trade Unions (CISL) in Venice, the National Association Beyond Borders (ANOLF) in Venice,",
-          "pubDate": "Fri, 7 Aug 2026 12:08:40 +0200",
-          "source": "ANSA English",
+          "title": "Russia , China reaffirm support for India BRICS chairship 2026",
+          "link": "http://www.chinanationalnews.com/news/279238634/russia-china-reaffirm-support-for-india-brics-chairship-2026",
+          "source": "chinanationalnews.com",
+          "pubDate": "2026-08-13T10:45:00Z",
           "lang": "en",
-          "titleIt": "The first Senegalese selected for the “New Destinies” project visited the embassy"
+          "description": "",
+          "titleIt": "Russia , China reaffirm support for India BRICS chairship 2026"
+        },
+        {
+          "title": "Russia , China reaffirm support for India BRICS chairship 2026",
+          "link": "http://www.beijingbulletin.com/news/279238634/russia-china-reaffirm-support-for-india-brics-chairship-2026",
+          "source": "beijingbulletin.com",
+          "pubDate": "2026-08-13T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russia , China reaffirm support for India BRICS chairship 2026"
+        },
+        {
+          "title": "APA Corporation $APA Shares Sold by Wedge Capital Management L L P NC",
+          "link": "https://www.themarketsdaily.com/2026/08/13/apa-corporation-apa-shares-sold-by-wedge-capital-management-l-l-p-nc.html",
+          "source": "themarketsdaily.com",
+          "pubDate": "2026-08-13T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "APA Corporation $APA Shares Sold by Wedge Capital Management L L P NC"
+        },
+        {
+          "title": "Chris Hedges : Gaza Board of Pieces – Consortium News",
+          "link": "https://consortiumnews.com/2026/08/13/chris-hedges-gazas-board-of-pieces/",
+          "source": "consortiumnews.com",
+          "pubDate": "2026-08-13T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chris Hedges : Gaza Board of Pieces – Consortium News"
+        },
+        {
+          "title": "Norway Wealth Fund Raises Egypt Equity Holdings to $158 . 7 Million",
+          "link": "https://cairoscene.com/Business/Norway-Wealth-Fund-Raises-Egypt-Equity-Holdings-to-158-7-Million",
+          "source": "cairoscene.com",
+          "pubDate": "2026-08-13T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Norway Wealth Fund Raises Egypt Equity Holdings to $158 . 7 Million"
+        },
+        {
+          "title": "Iran to join BRICS development bank soon , central bank governor says",
+          "link": "https://www.thehindubusinessline.com/news/iran-to-join-brics-development-bank-soon-central-bank-governor-says/article71340140.ece",
+          "source": "thehindubusinessline.com",
+          "pubDate": "2026-08-13T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran to join BRICS development bank soon , central bank governor says"
+        },
+        {
+          "title": "NATO - style pact signals doubts over US commitments",
+          "link": "http://global.chinadaily.com.cn/a/202608/13/WS6a7d20baa31073853ec53158.html",
+          "source": "global.chinadaily.com.cn",
+          "pubDate": "2026-08-13T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "NATO - style pact signals doubts over US commitments"
+        },
+        {
+          "title": "Fragmented , inaccessible data undermine home - grown innovation - Newsday Zimbabwe",
+          "link": "https://www.newsday.co.zw/opinion-analysis/article/200059252/fragmented-inaccessible-data-undermine-home-grown-innovation",
+          "source": "newsday.co.zw",
+          "pubDate": "2026-08-13T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fragmented , inaccessible data undermine home - grown innovation - Newsday Zimbabwe"
+        },
+        {
+          "title": "UAE floating hospital fits 21 more Palestinian amputees with prosthetic limbs",
+          "link": "https://www.thenationalnews.com/news/uae/2026/08/13/uaes-floating-hospital-fits-21-more-palestinian-amputees-with-prosthetic-limbs/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-08-13T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE floating hospital fits 21 more Palestinian amputees with prosthetic limbs"
+        },
+        {
+          "title": "Russia , China reaffirm support for India BRICS chairship 2026",
+          "link": "http://www.indiagazette.com/news/279238634/russia-china-reaffirm-support-for-india-brics-chairship-2026",
+          "source": "indiagazette.com",
+          "pubDate": "2026-08-13T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russia , China reaffirm support for India BRICS chairship 2026"
+        },
+        {
+          "title": "ITA backs 11 Indian projects ; to advance over $18 billion in clean industry investment",
+          "link": "https://www.thehindubusinessline.com/economy/ita-backs-11-indian-projects-to-advance-over-18-billion-in-clean-industry-investment/article71340116.ece",
+          "source": "thehindubusinessline.com",
+          "pubDate": "2026-08-13T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "ITA backs 11 Indian projects ; to advance over $18 billion in clean industry investment"
+        },
+        {
+          "title": "Iran to join BRICS development bank soon , central bank governor Abdolnaser Hemmati says",
+          "link": "https://economictimes.indiatimes.com/news/international/world-news/iran-to-join-brics-development-bank-soon-central-bank-governor-says/articleshow/133204809.cms",
+          "source": "economictimes.indiatimes.com",
+          "pubDate": "2026-08-13T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran to join BRICS development bank soon , central bank governor Abdolnaser Hemmati says"
+        },
+        {
+          "title": "Egypt plans to launch a car tire factory with investments of $500m",
+          "link": "https://www.arabnews.com/node/2654495/business-economy",
+          "source": "arabnews.com",
+          "pubDate": "2026-08-13T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt plans to launch a car tire factory with investments of $500m"
+        },
+        {
+          "title": "Saudi inflation remains among Gulf lowest at 1 . 8 % in July",
+          "link": "https://www.arabnews.com/node/2654494/business-economy",
+          "source": "arabnews.com",
+          "pubDate": "2026-08-13T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi inflation remains among Gulf lowest at 1 . 8 % in July"
+        },
+        {
+          "title": "2Q26 results | Company Announcement",
+          "link": "https://www.investegate.co.uk/announcement/rns/efg-hermes-holding-s-a-e---efgd/2q26-results/9720104",
+          "source": "investegate.co.uk",
+          "pubDate": "2026-08-13T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "2Q26 results | Company Announcement"
+        },
+        {
+          "title": "No  Gold Standard , No Israel Clause : What the Saudi Nuclear Deal Actually Says ( MBN ) « nuclear - news",
+          "link": "https://nuclear-news.net/2026/08/13/9-b1-no-gold-standard-no-israel-clause-what-the-saudi-nuclear-deal-actually-says-mbn/",
+          "source": "nuclear-news.net",
+          "pubDate": "2026-08-13T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "No  Gold Standard , No Israel Clause : What the Saudi Nuclear Deal Actually Says ( MBN ) « nuclear - news"
+        },
+        {
+          "title": "Russia , China reaffirm support for India BRICS chairship 2026",
+          "link": "http://www.russiaherald.com/news/279238634/russia-china-reaffirm-support-for-india-brics-chairship-2026",
+          "source": "russiaherald.com",
+          "pubDate": "2026-08-13T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russia , China reaffirm support for India BRICS chairship 2026"
+        },
+        {
+          "title": "Russia , China reaffirm support for India BRICS chairship 2026",
+          "link": "http://www.iraqsun.com/news/279238634/russia-china-reaffirm-support-for-india-brics-chairship-2026",
+          "source": "iraqsun.com",
+          "pubDate": "2026-08-13T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russia , China reaffirm support for India BRICS chairship 2026"
+        },
+        {
+          "title": "Russia , China reaffirm support for India BRICS chairship 2026",
+          "link": "http://www.cambodiantimes.com/news/279238634/russia-china-reaffirm-support-for-india-brics-chairship-2026",
+          "source": "cambodiantimes.com",
+          "pubDate": "2026-08-13T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russia , China reaffirm support for India BRICS chairship 2026"
+        },
+        {
+          "title": "Russia , China reaffirm support for India BRICS chairship 2026",
+          "link": "http://www.shanghaisun.com/news/279238634/russia-china-reaffirm-support-for-india-brics-chairship-2026",
+          "source": "shanghaisun.com",
+          "pubDate": "2026-08-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russia , China reaffirm support for India BRICS chairship 2026"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Egitto-Arabia Saudita: ministri Esteri respingono le voci di tensioni (3)",
-          "link": "https://www.agenzianova.com/a/6a7d8fc54fbe44.48637402/7696452/2026-08-13/egitto-arabia-saudita-ministri-esteri-respingono-le-voci-di-tensioni-3",
-          "description": "13 ago 11:24 - (Agenzia Nova) - Sul piano regionale, Abdelatty e bin Farhan hanno esaminato gli sforzi per contenere l'escalation militare... (Cae)",
-          "pubDate": "2026-08-13T11:24:01+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto-Arabia Saudita: ministri Esteri respingono le voci di tensioni (3)"
-        },
-        {
-          "title": "Egitto-Arabia Saudita: ministri Esteri respingono le voci di tensioni (2)",
-          "link": "https://www.agenzianova.com/a/6a7d8fc54fdce1.11945335/7696451/2026-08-13/egitto-arabia-saudita-ministri-esteri-respingono-le-voci-di-tensioni-2",
-          "description": "13 ago 11:24 - (Agenzia Nova) - Il Consiglio superiore di coordinamento e' stato istituito nell'ottobre 2024 durante la visita al Cairo del... (Cae)",
-          "pubDate": "2026-08-13T11:24:01+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto-Arabia Saudita: ministri Esteri respingono le voci di tensioni (2)"
-        },
-        {
-          "title": "Egitto-Arabia Saudita: ministri Esteri respingono le voci di tensioni",
-          "link": "https://www.agenzianova.com/a/6a7d8fc54ffd20.17375994/7696450/2026-08-13/egitto-arabia-saudita-ministri-esteri-respingono-le-voci-di-tensioni",
-          "description": "13 ago 11:24 - (Agenzia Nova) - Egitto e Arabia Saudita hanno invitato a non dare credito alle indiscrezioni circolate su alcuni mezzi d'informazione... (Cae)",
-          "pubDate": "2026-08-13T11:24:01+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto-Arabia Saudita: ministri Esteri respingono le voci di tensioni"
-        },
         {
           "title": "Sudan: SAF Accused of Civilian Killings As RSF Drones Strike Three States",
           "link": "https://allafrica.com/stories/202608130032.html",
@@ -376,15 +484,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: SAF Accused of Civilian Killings As RSF Drones Strike Three States"
-        },
-        {
-          "title": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs",
-          "link": "https://allafrica.com/stories/202608120147.html",
-          "description": "[Nyasa Times] South Africa has sparked a diplomatic storm after formally demanding that Malawi, Nigeria and Ethiopia reimburse part of the R292 million (about K29 billion) it has spent this year deporting undocumented migrants -- with Malawians making up the largest share of those removed.",
-          "pubDate": "Wed, 12 Aug 2026 10:04:26 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Malawi: Diplomatic Tension Erupts As SA Tells Malawi to Reimburse Deportation Costs"
         },
         {
           "title": "Quake leaves Colombian towns in ruins as Valle del Cauca counts dead",
