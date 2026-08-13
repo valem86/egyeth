@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-08-13T13:51:50.835Z",
+  "generatedAt": "2026-08-13T15:18:56.248Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics",
-          "link": "https://allafrica.com/stories/202608120420.html",
-          "description": "[ACSS] Fatalities linked to militant Islamist violence in Africa surpassed 20,000 deaths for the fourth consecutive year, underscoring the resiliency of militant groups across the Sahel, Somalia, the Lake Chad Basin, and Mozambique.",
-          "pubDate": "Wed, 12 Aug 2026 14:57:58 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics"
-        },
         {
           "title": "Quake leaves Colombian towns in ruins as Valle del Cauca counts dead",
           "link": "http://www.africanews.com/2026/08/12/quake-leaves-colombian-towns-in-ruins-as-valle-del-cauca-counts-dead/",
@@ -84,15 +75,6 @@
           "titleIt": "Africa: Will Kenya Investigate and Prosecute Sudan's RSF?"
         },
         {
-          "title": "Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics",
-          "link": "https://allafrica.com/stories/202608120420.html",
-          "description": "[ACSS] Fatalities linked to militant Islamist violence in Africa surpassed 20,000 deaths for the fourth consecutive year, underscoring the resiliency of militant groups across the Sahel, Somalia, the Lake Chad Basin, and Mozambique.",
-          "pubDate": "Wed, 12 Aug 2026 14:57:58 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: Mounting Fatalities Linked to Militant Islamist Violence in Africa Amid Shifting Tactics"
-        },
-        {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
           "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
           "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
@@ -107,13 +89,13 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Argentina: Karina Milei, sostegno alle riforme condizione per accordo elettorale con Macri (2)",
-          "link": "https://www.agenzianova.com/a/6a7dcb1504ae28.90219536/7697607/2026-08-13/argentina-karina-milei-sostegno-alle-riforme-condizione-per-accordo-elettorale-con-macri-2",
-          "description": "13 ago 15:34 - (Agenzia Nova) - Tra le iniziative che il governo intende portare avanti figurano il progetto sul principio di innocenza fiscale,... (Abu)",
-          "pubDate": "2026-08-13T15:34:45+02:00",
+          "title": "I fatti del giorno - Nord Africa (4)",
+          "link": "https://www.agenzianova.com/a/6a7ddfb8f37079.00258612/7698033/2026-08-13/i-fatti-del-giorno-nord-africa-4",
+          "description": "13 ago 17:00 - (Agenzia Nova) - Algeria: Air Algerie, intesa con Oman Airports per una partnership strategica - Air Algerie e Transom hanno... (Res)",
+          "pubDate": "2026-08-13T17:00:00+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Argentina: Karina Milei, sostegno alle riforme condizione per accordo elettorale con Macri (2)"
+          "titleIt": "I fatti del giorno - Nord Africa (4)"
         },
         {
           "title": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
@@ -191,188 +173,7 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz",
-          "link": "http://www.iranherald.com/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz",
-          "source": "iranherald.com",
-          "pubDate": "2026-08-13T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz"
-        },
-        {
-          "title": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz",
-          "link": "http://www.calcuttanews.net/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz",
-          "source": "calcuttanews.net",
-          "pubDate": "2026-08-13T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz"
-        },
-        {
-          "title": "Nigeria Fails U . S . Fiscal Transparency Test for 2nd Year",
-          "link": "https://www.opinionnigeria.com/nigeria-fails-u-s-fiscal-transparency-test-for-second-consecutive-year/",
-          "source": "opinionnigeria.com",
-          "pubDate": "2026-08-13T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nigeria Fails U . S . Fiscal Transparency Test for 2nd Year"
-        },
-        {
-          "title": "2026 and All That : Another Benchmark Year in Royal Navy Decline",
-          "link": "https://warontherocks.com/2026-and-all-that-another-benchmark-year-in-royal-navy-decline/",
-          "source": "warontherocks.com",
-          "pubDate": "2026-08-13T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "2026 and All That : Another Benchmark Year in Royal Navy Decline"
-        },
-        {
-          "title": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz",
-          "link": "http://www.parisguardian.com/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz",
-          "source": "parisguardian.com",
-          "pubDate": "2026-08-13T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz"
-        },
-        {
-          "title": "Russia , China reaffirm support for India BRICS chairship 2026",
-          "link": "http://www.kenyastar.com/news/279238634/russia-china-reaffirm-support-for-india-brics-chairship-2026",
-          "source": "kenyastar.com",
-          "pubDate": "2026-08-13T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Russia , China reaffirm support for India BRICS chairship 2026"
-        },
-        {
-          "title": "Iran Eyes New Development Bank Membership as BRICS Pushes Local Currency Trade",
-          "link": "http://www.econotimes.com/Iran-Eyes-New-Development-Bank-Membership-as-BRICS-Pushes-Local-Currency-Trade-1749372",
-          "source": "econotimes.com",
-          "pubDate": "2026-08-13T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Eyes New Development Bank Membership as BRICS Pushes Local Currency Trade"
-        },
-        {
-          "title": "El - Sisi appoints Moustafa Shaikhon as SCZONE Chairman for one year",
-          "link": "https://www.zawya.com/en/economy/el-sisi-appoints-moustafa-shaikhon-as-sczone-chairman-for-one-year-430487",
-          "source": "zawya.com",
-          "pubDate": "2026-08-13T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "El - Sisi appoints Moustafa Shaikhon as SCZONE Chairman for one year"
-        },
-        {
-          "title": "ITA backs 11 Indian projects to accelerate clean industrial transition",
-          "link": "https://www.business-standard.com/industry/news/ita-backs-11-indian-projects-to-accelerate-clean-industrial-transition-126081300825_1.html",
-          "source": "business-standard.com",
-          "pubDate": "2026-08-13T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "ITA backs 11 Indian projects to accelerate clean industrial transition"
-        },
-        {
-          "title": "3 ملايين قرص كبتاجون و150 كيلو مخدرات وأسلحة .. تجديد حبس « عصابة المليارات الثلاثة »",
-          "link": "https://www.okaz.com.sa/variety/na/2261137",
-          "source": "okaz.com.sa",
-          "pubDate": "2026-08-13T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "3 ملايين قرص كبتاجون و150 كيلو مخدرات وأسلحة .. تجديد حبس « عصابة المليارات الثلاثة »"
-        },
-        {
-          "title": "Russia , China reaffirm support for India BRICS chairship 2026",
-          "link": "http://www.brazilsun.com/news/279238634/russia-china-reaffirm-support-for-india-brics-chairship-2026",
-          "source": "brazilsun.com",
-          "pubDate": "2026-08-13T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Russia , China reaffirm support for India BRICS chairship 2026"
-        },
-        {
-          "title": "Russia , China reaffirm support for India BRICS chairship 2026",
-          "link": "http://www.chinanationalnews.com/news/279238634/russia-china-reaffirm-support-for-india-brics-chairship-2026",
-          "source": "chinanationalnews.com",
-          "pubDate": "2026-08-13T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Russia , China reaffirm support for India BRICS chairship 2026"
-        },
-        {
-          "title": "Russia , China reaffirm support for India BRICS chairship 2026",
-          "link": "http://www.beijingbulletin.com/news/279238634/russia-china-reaffirm-support-for-india-brics-chairship-2026",
-          "source": "beijingbulletin.com",
-          "pubDate": "2026-08-13T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Russia , China reaffirm support for India BRICS chairship 2026"
-        },
-        {
-          "title": "APA Corporation $APA Shares Sold by Wedge Capital Management L L P NC",
-          "link": "https://www.themarketsdaily.com/2026/08/13/apa-corporation-apa-shares-sold-by-wedge-capital-management-l-l-p-nc.html",
-          "source": "themarketsdaily.com",
-          "pubDate": "2026-08-13T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "APA Corporation $APA Shares Sold by Wedge Capital Management L L P NC"
-        },
-        {
-          "title": "Chris Hedges : Gaza Board of Pieces – Consortium News",
-          "link": "https://consortiumnews.com/2026/08/13/chris-hedges-gazas-board-of-pieces/",
-          "source": "consortiumnews.com",
-          "pubDate": "2026-08-13T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Chris Hedges : Gaza Board of Pieces – Consortium News"
-        },
-        {
-          "title": "Norway Wealth Fund Raises Egypt Equity Holdings to $158 . 7 Million",
-          "link": "https://cairoscene.com/Business/Norway-Wealth-Fund-Raises-Egypt-Equity-Holdings-to-158-7-Million",
-          "source": "cairoscene.com",
-          "pubDate": "2026-08-13T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Norway Wealth Fund Raises Egypt Equity Holdings to $158 . 7 Million"
-        },
-        {
-          "title": "Iran to join BRICS development bank soon , central bank governor says",
-          "link": "https://www.thehindubusinessline.com/news/iran-to-join-brics-development-bank-soon-central-bank-governor-says/article71340140.ece",
-          "source": "thehindubusinessline.com",
-          "pubDate": "2026-08-13T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran to join BRICS development bank soon , central bank governor says"
-        },
-        {
-          "title": "NATO - style pact signals doubts over US commitments",
-          "link": "http://global.chinadaily.com.cn/a/202608/13/WS6a7d20baa31073853ec53158.html",
-          "source": "global.chinadaily.com.cn",
-          "pubDate": "2026-08-13T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "NATO - style pact signals doubts over US commitments"
-        },
-        {
-          "title": "Fragmented , inaccessible data undermine home - grown innovation - Newsday Zimbabwe",
-          "link": "https://www.newsday.co.zw/opinion-analysis/article/200059252/fragmented-inaccessible-data-undermine-home-grown-innovation",
-          "source": "newsday.co.zw",
-          "pubDate": "2026-08-13T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fragmented , inaccessible data undermine home - grown innovation - Newsday Zimbabwe"
-        },
-        {
-          "title": "UAE floating hospital fits 21 more Palestinian amputees with prosthetic limbs",
-          "link": "https://www.thenationalnews.com/news/uae/2026/08/13/uaes-floating-hospital-fits-21-more-palestinian-amputees-with-prosthetic-limbs/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-08-13T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "UAE floating hospital fits 21 more Palestinian amputees with prosthetic limbs"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
