@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-14T13:47:37.764Z",
+  "generatedAt": "2026-08-14T15:10:19.666Z",
   "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "I fatti del giorno - Nord Africa (4)",
+          "link": "https://www.agenzianova.com/a/6a7f2f5b2d2143.64002131/7700588/2026-08-14/i-fatti-del-giorno-nord-africa-4",
+          "description": "14 ago 17:00 - (Agenzia Nova) - Egitto: Al Sisi ratifica l'accordo commerciale D-8 con Turchia e Iran - Il presidente egiziano, Abdel Fattah... (Res)",
+          "pubDate": "2026-08-14T17:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "I fatti del giorno - Nord Africa (4)"
+        },
         {
           "title": "Turkey urges Egypt to join its defence pact with Saudi Arabia and Pakistan",
           "link": "http://www.africanews.com/2026/08/14/turkey-urges-egypt-to-join-its-defence-pact-with-saudi-arabia-and-pakistan/",
@@ -23,6 +32,24 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Somalia and Italy Together for Fisheries and the Blue Economy"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -30,22 +57,13 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Ethiopia: Forced Conscription Resurfaces Across Oromia As Ethiopia Continues to Grapple With Security Crises",
-          "link": "https://allafrica.com/stories/202608140050.html",
-          "description": "[Addis Standard] Addis Abeba -- Reports of forced conscription are resurfacing in several parts of Oromia, including the Sheger City area surrounding the capital Addis Abeba, with families alleging that young people have been taken against their will and, in some cases, that money has subsequently been demanded for their release.",
-          "pubDate": "Fri, 14 Aug 2026 07:21:24 GMT",
-          "source": "AllAfrica",
+          "title": "Worries grow over mysterious illness killing Kenyan elephants",
+          "link": "http://www.africanews.com/2026/08/14/worries-grow-over-mysterious-illness-killing-kenyan-elephants/",
+          "description": "Worries over the death of elephants are mounting in southern Kenya, where at least 19 animals have died since June from an unexplained condition. With symptoms including partial paralysis, conservationists and communities are demanding urgent investigations into what is killing the elephants.",
+          "pubDate": "Fri, 14 Aug 2026 14:40:08 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "titleIt": "Ethiopia: Forced Conscription Resurfaces Across Oromia As Ethiopia Continues to Grapple With Security Crises"
-        },
-        {
-          "title": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws",
-          "link": "https://allafrica.com/stories/202608140047.html",
-          "description": "[Addis Standard] Addis Abeba -- Sudan's Rapid Support Forces (RSF) and allied fighters have advanced into Al Kurmuk, a strategically important town in Blue Nile State bordering Ethiopia, according to reports by Al Jazeera and The National.",
-          "pubDate": "Fri, 14 Aug 2026 07:14:58 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws"
+          "titleIt": "Worries grow over mysterious illness killing Kenyan elephants"
         },
         {
           "title": "RSF claims key victory in Sudan’s Blue Nile region",
@@ -55,39 +73,21 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "RSF claims key victory in Sudan’s Blue Nile region"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Ethiopia: Forced Conscription Resurfaces Across Oromia As Ethiopia Continues to Grapple With Security Crises",
-          "link": "https://allafrica.com/stories/202608140050.html",
-          "description": "[Addis Standard] Addis Abeba -- Reports of forced conscription are resurfacing in several parts of Oromia, including the Sheger City area surrounding the capital Addis Abeba, with families alleging that young people have been taken against their will and, in some cases, that money has subsequently been demanded for their release.",
-          "pubDate": "Fri, 14 Aug 2026 07:21:24 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Forced Conscription Resurfaces Across Oromia As Ethiopia Continues to Grapple With Security Crises"
-        },
-        {
-          "title": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws",
-          "link": "https://allafrica.com/stories/202608140047.html",
-          "description": "[Addis Standard] Addis Abeba -- Sudan's Rapid Support Forces (RSF) and allied fighters have advanced into Al Kurmuk, a strategically important town in Blue Nile State bordering Ethiopia, according to reports by Al Jazeera and The National.",
-          "pubDate": "Fri, 14 Aug 2026 07:14:58 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws"
-        },
-        {
-          "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-          "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-          "description": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
-          "pubDate": "Thu, 13 Aug 2026 18:45:51 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "Mangione lawyers to meet federal prosecutors amid reports of plea deal"
-        },
         {
           "title": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
           "link": "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
@@ -132,33 +132,214 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "I fatti del giorno - Nord Africa (4)",
+          "link": "https://www.agenzianova.com/a/6a7f2f5b2d2143.64002131/7700588/2026-08-14/i-fatti-del-giorno-nord-africa-4",
+          "description": "14 ago 17:00 - (Agenzia Nova) - Egitto: Al Sisi ratifica l'accordo commerciale D-8 con Turchia e Iran - Il presidente egiziano, Abdel Fattah... (Res)",
+          "pubDate": "2026-08-14T17:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "I fatti del giorno - Nord Africa (4)"
+        },
+        {
+          "title": "FIFA 2026 Proves Washington State Is Ready for the Future",
+          "link": "https://www.meetingstoday.com/articles/146091/fifa-2026-proves-washington-state-ready-future",
+          "source": "meetingstoday.com",
+          "pubDate": "2026-08-14T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "FIFA 2026 Proves Washington State Is Ready for the Future"
+        },
+        {
+          "title": "Saudi Arabia announces start of Red Sea defence alliance : Will it work ?",
+          "link": "https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work",
+          "source": "aljazeera.com",
+          "pubDate": "2026-08-14T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia announces start of Red Sea defence alliance : Will it work ?"
+        },
+        {
+          "title": "World News in Brief : Afghanistan education , Myanmar flooding , Syria recovery , homecare workers in New York",
+          "link": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260813-unnews03.htm",
+          "source": "globalsecurity.org",
+          "pubDate": "2026-08-14T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "World News in Brief : Afghanistan education , Myanmar flooding , Syria recovery , homecare workers in New York"
+        },
+        {
+          "title": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz",
+          "link": "http://www.britainnews.net/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz",
+          "source": "britainnews.net",
+          "pubDate": "2026-08-14T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz"
+        },
+        {
+          "title": "UAE denounces Iranian attack on ADNOC vessels in Strait of Hormuz as",
+          "link": "http://www.iranherald.com/news/279241113/uae-denounces-iranian-attack-on-adnoc-vessels-in-strait-of-hormuz-as-act-of-piracy",
+          "source": "iranherald.com",
+          "pubDate": "2026-08-14T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE denounces Iranian attack on ADNOC vessels in Strait of Hormuz as"
+        },
+        {
+          "title": "UAE denounces Iranian attack on ADNOC vessels in Strait of Hormuz as",
+          "link": "http://www.arabherald.com/news/279241113/uae-denounces-iranian-attack-on-adnoc-vessels-in-strait-of-hormuz-as-act-of-piracy",
+          "source": "arabherald.com",
+          "pubDate": "2026-08-14T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE denounces Iranian attack on ADNOC vessels in Strait of Hormuz as"
+        },
+        {
+          "title": "Egypt Denies Killer of Family in New Cairo Was a Policeman",
+          "link": "https://egyptianstreets.com/2026/08/14/egypt-denies-killer-of-family-in-new-cairo-was-a-policeman/",
+          "source": "egyptianstreets.com",
+          "pubDate": "2026-08-14T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Denies Killer of Family in New Cairo Was a Policeman"
+        },
+        {
+          "title": "Shattering the Singapore Illusion in Kenya : Beyond Vision 2030",
+          "link": "http://www.pambazuka.org/index.php/Kenya-Singapore-Illusion",
+          "source": "pambazuka.org",
+          "pubDate": "2026-08-14T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Shattering the Singapore Illusion in Kenya : Beyond Vision 2030"
+        },
+        {
+          "title": "Diplomacy , peacekeeping cuts weaken Carney middle - power vision : South African envoy",
+          "link": "https://panow.com/2026/08/14/diplomacy-peacekeeping-cuts-weaken-carneys-middle-power-vision-south-african-envoy/",
+          "source": "panow.com",
+          "pubDate": "2026-08-14T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Diplomacy , peacekeeping cuts weaken Carney middle - power vision : South African envoy"
+        },
+        {
+          "title": "South Africa envoy Rieaz Shaik laments Canada peacekeeper cuts",
+          "link": "https://www.theglobeandmail.com/canada/article-canada-peacekeeper-cuts-criticism/",
+          "source": "theglobeandmail.com",
+          "pubDate": "2026-08-14T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "South Africa envoy Rieaz Shaik laments Canada peacekeeper cuts"
+        },
+        {
+          "title": "The Delusional Premises Of Woke Greens",
+          "link": "https://www.zerohedge.com/political/delusional-premises-woke-greens",
+          "source": "zerohedge.com",
+          "pubDate": "2026-08-14T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Delusional Premises Of Woke Greens"
+        },
+        {
+          "title": "Africa – Tear Drops , and Joys in the Wings",
+          "link": "http://www.pambazuka.org/index.php/Africa-Tear-Drops",
+          "source": "pambazuka.org",
+          "pubDate": "2026-08-14T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa – Tear Drops , and Joys in the Wings"
+        },
+        {
+          "title": "Pezeshkian to visit Delhi amid Iran War : Why PM Modi meeting with Iranian President will be crucial for Hormuz , Chabahar and India energy security",
+          "link": "https://www.moneycontrol.com/world/pezeshkian-to-visit-delhi-amid-iran-war-why-pm-modi-s-meeting-with-iranian-president-will-be-crucial-for-hormuz-chabahar-and-india-s-energy-security-article-14005843.html",
+          "source": "moneycontrol.com",
+          "pubDate": "2026-08-14T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pezeshkian to visit Delhi amid Iran War : Why PM Modi meeting with Iranian President will be crucial for Hormuz , Chabahar and India energy security"
+        },
+        {
+          "title": "Diplomacy , peacekeeping cuts weaken Carney middle - power vision : South African envoy",
+          "link": "https://www.thepeterboroughexaminer.com/business/diplomacy-peacekeeping-cuts-weaken-carneys-middle-power-vision-south-african-envoy/article_69d4ccf0-14c1-5633-b0ae-39637febff82.html",
+          "source": "thepeterboroughexaminer.com",
+          "pubDate": "2026-08-14T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Diplomacy , peacekeeping cuts weaken Carney middle - power vision : South African envoy"
+        },
+        {
+          "title": "Tata Group Chairman N Chandrasekaran has resigned . How did the group start its  swadeshi  business ?",
+          "link": "https://scroll.in/article/1095023/tata-group-chairman-n-chandrasekaran-has-resigned-how-did-the-group-start-its-swadeshi-business",
+          "source": "scroll.in",
+          "pubDate": "2026-08-14T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tata Group Chairman N Chandrasekaran has resigned . How did the group start its  swadeshi  business ?"
+        },
+        {
+          "title": "Africa : Inside The $5 Billion Plan To Keep Africa Cotton Jobs In Africa",
+          "link": "https://allafrica.com/stories/202608140179.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-14T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Inside The $5 Billion Plan To Keep Africa Cotton Jobs In Africa"
+        },
+        {
+          "title": "Investigating the genocide in civilian Palestinian camps of Sabra and Chatila in Beirut",
+          "link": "https://adonis49.wordpress.com/2026/08/14/investigating-the-genocide-in-civilian-palestinian-camps-of-sabra-and-chatila-in-beirut/",
+          "source": "adonis49.wordpress.com",
+          "pubDate": "2026-08-14T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Investigating the genocide in civilian Palestinian camps of Sabra and Chatila in Beirut"
+        },
+        {
+          "title": "Diplomacy , peacekeeping cuts weaken Carney middle - power vision : South African envoy",
+          "link": "https://www.kelownadailycourier.ca/news/national_news/article_eb56418f-3f9f-5107-9100-9c0de165bc78.html",
+          "source": "kelownadailycourier.ca",
+          "pubDate": "2026-08-14T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Diplomacy , peacekeeping cuts weaken Carney middle - power vision : South African envoy"
+        },
+        {
+          "title": "Arab nations condemn latest Iranian attack on ADNOC tankers",
+          "link": "https://www.arabnews.com/node/2654636/middle-east",
+          "source": "arabnews.com",
+          "pubDate": "2026-08-14T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab nations condemn latest Iranian attack on ADNOC tankers"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Ethiopia: Five Detained Ethiopian Journalists Pressured to Admit Terrorism Involvement in Exchange for Release, CPJ Says",
-          "link": "https://allafrica.com/stories/202608140178.html",
-          "description": "[Addis Standard] Addis Abeba -- The Committee to Protect Journalists (CPJ) has called on Ethiopian authorities to release five journalists who have been detained for about three years while awaiting trial, alleging that they are being pressured to admit involvement in an armed insurgency and apologize in exchange for their freedom.",
-          "pubDate": "Fri, 14 Aug 2026 10:42:57 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Five Detained Ethiopian Journalists Pressured to Admit Terrorism Involvement in Exchange for Release, CPJ Says"
-        },
-        {
-          "title": "Ethiopia: Forced Conscription Resurfaces Across Oromia As Ethiopia Continues to Grapple With Security Crises",
-          "link": "https://allafrica.com/stories/202608140050.html",
-          "description": "[Addis Standard] Addis Abeba -- Reports of forced conscription are resurfacing in several parts of Oromia, including the Sheger City area surrounding the capital Addis Abeba, with families alleging that young people have been taken against their will and, in some cases, that money has subsequently been demanded for their release.",
-          "pubDate": "Fri, 14 Aug 2026 07:21:24 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Forced Conscription Resurfaces Across Oromia As Ethiopia Continues to Grapple With Security Crises"
+          "title": "I fatti del giorno - Nord Africa (4)",
+          "link": "https://www.agenzianova.com/a/6a7f2f5b2d2143.64002131/7700588/2026-08-14/i-fatti-del-giorno-nord-africa-4",
+          "description": "14 ago 17:00 - (Agenzia Nova) - Egitto: Al Sisi ratifica l'accordo commerciale D-8 con Turchia e Iran - Il presidente egiziano, Abdel Fattah... (Res)",
+          "pubDate": "2026-08-14T17:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "I fatti del giorno - Nord Africa (4)"
         }
       ]
     }
