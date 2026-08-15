@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T04:50:32.277Z",
+  "generatedAt": "2026-08-15T07:01:20.757Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -57,15 +57,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Somaliland , AFRICOM Hold Talks on Maritime Security and Defense Cooperation",
-          "link": "https://wardheernews.com/somaliland-africom-hold-talks-on-maritime-security-and-defense-cooperation/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-14T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland , AFRICOM Hold Talks on Maritime Security and Defense Cooperation"
-        },
-        {
           "title": "Worries grow over mysterious illness killing Kenyan elephants",
           "link": "http://www.africanews.com/2026/08/14/worries-grow-over-mysterious-illness-killing-kenyan-elephants/",
           "description": "Worries over the death of elephants are mounting in southern Kenya, where at least 19 animals have died since June from an unexplained condition. With symptoms including partial paralysis, conservationists and communities are demanding urgent investigations into what is killing the elephants.",
@@ -84,33 +75,6 @@
           "titleIt": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws"
         },
         {
-          "title": "How the Mecca Agreement aims to manage US separation from Middle East",
-          "link": "https://www.chinatechnews.com/2026/08/14/127304-how-the-mecca-agreement-aims-to-manage-us-separation-from-middle-east",
-          "source": "chinatechnews.com",
-          "pubDate": "2026-08-13T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How the Mecca Agreement aims to manage US separation from Middle East"
-        },
-        {
-          "title": "How Riyadh lost the war in Yemen long before the Red Sea blew up",
-          "link": "http://www.jpost.com/opinion/article-905397",
-          "source": "jpost.com",
-          "pubDate": "2026-08-13T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How Riyadh lost the war in Yemen long before the Red Sea blew up"
-        },
-        {
-          "title": "Africa : Houthi Red Sea Threat Puts Somaliland in Focus As Analysts See Possible U . S . Strategy Shift",
-          "link": "https://allafrica.com/stories/202608130200.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-13T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : Houthi Red Sea Threat Puts Somaliland in Focus As Analysts See Possible U . S . Strategy Shift"
-        },
-        {
           "title": "RSF claims key victory in Sudan’s Blue Nile region",
           "link": "http://www.africanews.com/2026/08/13/rsf-claims-key-victory-in-sudans-blue-nile-region/",
           "description": "Sudan’s paramilitary Rapid Support Forces, or RSF, say they have taken full control of Geissan, in the Blue Nile region, near the Ethiopian border.",
@@ -120,121 +84,13 @@
           "titleIt": "RSF claims key victory in Sudan’s Blue Nile region"
         },
         {
-          "title": "The Mecca Pact : The Unfinished Asabiyyah of a World in Search of Power",
-          "link": "https://countercurrents.org/2026/08/the-mecca-pact-the-unfinished-asabiyyah-of-a-world-in-search-of-power/",
-          "source": "countercurrents.org",
-          "pubDate": "2026-08-13T06:00:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "The Mecca Pact : The Unfinished Asabiyyah of a World in Search of Power"
-        },
-        {
-          "title": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي",
-          "link": "https://www.okaz.com.sa/articles/na/2261085",
-          "source": "okaz.com.sa",
-          "pubDate": "2026-08-12T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي"
-        },
-        {
-          "title": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit",
-          "link": "https://www.whmi.com/news/fox/iran-backed-houthi-threat-red-sea-could-lead-major-us-policy-shift-analysts-say",
-          "source": "whmi.com",
-          "pubDate": "2026-08-12T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit"
-        },
-        {
-          "title": "Saudi Arabia doubles down on its failed Yemen strategy",
-          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/saudi-arabia-doubles-down-on-its-failed-yemen-strategy",
-          "source": "jns.org",
-          "pubDate": "2026-08-12T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia doubles down on its failed Yemen strategy"
-        },
-        {
-          "title": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say",
-          "link": "https://www.middleeasteye.net/news/saudi-arabia-opposed-egypts-inclusion-mecca-agreement-sources-say",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-11T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say"
-        },
-        {
-          "title": "India new Middle East power play - opinion | The Jerusalem Post",
-          "link": "http://www.jpost.com/defense-and-tech/article-905189",
-          "source": "jpost.com",
-          "pubDate": "2026-08-11T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India new Middle East power play - opinion | The Jerusalem Post"
-        },
-        {
-          "title": "The Recurrent Injustice Against the SSC People in Somali Politics Preamble",
-          "link": "https://wardheernews.com/the-recurrent-injustice-against-the-ssc-people-in-somali-politicspreamble/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-11T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Recurrent Injustice Against the SSC People in Somali Politics Preamble"
-        },
-        {
-          "title": "Dubai ruler confronted in London over UAE involvement in Sudan war",
-          "link": "https://www.middleeasteye.net/news/dubai-ruler-confronted-london-over-uae-involvement-sudan-war",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-10T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dubai ruler confronted in London over UAE involvement in Sudan war"
-        },
-        {
-          "title": "The US Back in Ethiopia , a New Hub of Major Power Competition",
-          "link": "https://www.theepochtimes.com/opinion/the-us-back-in-ethiopia-a-new-hub-of-major-power-competition-6072382",
-          "source": "theepochtimes.com",
-          "pubDate": "2026-08-09T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The US Back in Ethiopia , a New Hub of Major Power Competition"
-        },
-        {
-          "title": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions",
-          "link": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260807-rferl01.htm",
-          "source": "globalsecurity.org",
-          "pubDate": "2026-08-08T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia , Pakistan , Turkey Sign Joint Defense Pact Amid US - Iran Tensions"
-        },
-        {
-          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
-          "link": "https://www.thereporterethiopia.com/52198/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-08T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
-        },
-        {
-          "title": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative",
-          "link": "https://wardheernews.com/who-owns-the-credit-minister-presents-world-bank-funded-hargeisa-project-as-a-federal-government-initiative/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-08T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative"
-        },
-        {
-          "title": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development",
-          "link": "https://horseedmedia.net/somaliland-president-cirro-meets-international-representatives-in-nairobi-to-discuss-security-and-development/424582/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-08-07T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland President Cirro Meets International Representatives in Nairobi to Discuss Security and Development"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
