@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-15T22:41:52.750Z",
+  "generatedAt": "2026-08-16T02:00:40.870Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Business News: Egitto, debito estero sale del 5,2 per cento a 164,8 miliardi di dollari a fine giugno",
+          "link": "https://www.agenzianova.com/a/6a81193c165870.85554733/7700240/2026-08-16/business-news-egitto-debito-estero-sale-del-5-2-per-cento-a-164-8-miliardi-di-dollari-a-fine-giugno",
+          "description": "16 ago 02:00 - (Agenzia Nova) - Il debito estero totale dell'Egitto e' aumentato del 5,2 per cento su base annua, raggiungendo i 164,8 miliardi... (Cae)",
+          "pubDate": "2026-08-16T02:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business News: Egitto, debito estero sale del 5,2 per cento a 164,8 miliardi di dollari a fine giugno"
+        },
         {
           "title": "China and Egypt launch second joint air force exercise",
           "link": "http://www.africanews.com/2026/08/14/china-and-egypt-launch-second-joint-air-force-exercise/",
@@ -299,7 +308,17 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Business News: Egitto, debito estero sale del 5,2 per cento a 164,8 miliardi di dollari a fine giugno",
+          "link": "https://www.agenzianova.com/a/6a81193c165870.85554733/7700240/2026-08-16/business-news-egitto-debito-estero-sale-del-5-2-per-cento-a-164-8-miliardi-di-dollari-a-fine-giugno",
+          "description": "16 ago 02:00 - (Agenzia Nova) - Il debito estero totale dell'Egitto e' aumentato del 5,2 per cento su base annua, raggiungendo i 164,8 miliardi... (Cae)",
+          "pubDate": "2026-08-16T02:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business News: Egitto, debito estero sale del 5,2 per cento a 164,8 miliardi di dollari a fine giugno"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
