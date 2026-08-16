@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T03:16:17.828Z",
+  "generatedAt": "2026-08-16T04:53:31.191Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -8,7 +8,7 @@
       "items": [
         {
           "title": "Business News: Egitto-Ciad, in cantiere corridoio terrestre di 4.300 chilometri da Berenice a N'Djamena",
-          "link": "https://www.agenzianova.com/a/6a812b03b80431.34216463/7700359/2026-08-16/business-news-egitto-ciad-in-cantiere-corridoio-terrestre-di-4-300-chilometri-da-berenice-a-n-djamena",
+          "link": "https://www.agenzianova.com/a/6a8141d50a9669.92287053/7700359/2026-08-16/business-news-egitto-ciad-in-cantiere-corridoio-terrestre-di-4-300-chilometri-da-berenice-a-n-djamena",
           "description": "16 ago 05:00 - (Agenzia Nova) - L'Egitto intende collegare il porto di Berenice alla capitale del Ciad, N'Djamena, tramite un corridoio terrestre... (Sed)",
           "pubDate": "2026-08-16T05:00:00+02:00",
           "source": "Agenzia Nova",
@@ -17,7 +17,7 @@
         },
         {
           "title": "Business News: Egitto, debito estero sale del 5,2 per cento a 164,8 miliardi di dollari a fine giugno",
-          "link": "https://www.agenzianova.com/a/6a812b03b99e59.89584895/7700240/2026-08-16/business-news-egitto-debito-estero-sale-del-5-2-per-cento-a-164-8-miliardi-di-dollari-a-fine-giugno",
+          "link": "https://www.agenzianova.com/a/6a8141d50be748.52939021/7700240/2026-08-16/business-news-egitto-debito-estero-sale-del-5-2-per-cento-a-164-8-miliardi-di-dollari-a-fine-giugno",
           "description": "16 ago 02:00 - (Agenzia Nova) - Il debito estero totale dell'Egitto e' aumentato del 5,2 per cento su base annua, raggiungendo i 164,8 miliardi... (Cae)",
           "pubDate": "2026-08-16T02:00:00+02:00",
           "source": "Agenzia Nova",
@@ -109,6 +109,15 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Worries grow over mysterious illness killing Kenyan elephants"
+        },
+        {
+          "title": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws",
+          "link": "https://allafrica.com/stories/202608140047.html",
+          "description": "[Addis Standard] Addis Abeba -- Sudan's Rapid Support Forces (RSF) and allied fighters have advanced into Al Kurmuk, a strategically important town in Blue Nile State bordering Ethiopia, according to reports by Al Jazeera and The National.",
+          "pubDate": "Fri, 14 Aug 2026 07:14:58 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws"
         },
         {
           "title": "How the Mecca Agreement aims to manage US separation from Middle East",
@@ -244,15 +253,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
-        },
-        {
-          "title": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative",
-          "link": "https://wardheernews.com/who-owns-the-credit-minister-presents-world-bank-funded-hargeisa-project-as-a-federal-government-initiative/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-08T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who Owns the Credit ? Minister Presents World Bank – Funded Hargeisa Project as a Federal Government Initiative"
         }
       ]
     },
@@ -267,6 +267,15 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "UN calls for negotiations to end the conflict in Mozambique"
+        },
+        {
+          "title": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws",
+          "link": "https://allafrica.com/stories/202608140047.html",
+          "description": "[Addis Standard] Addis Abeba -- Sudan's Rapid Support Forces (RSF) and allied fighters have advanced into Al Kurmuk, a strategically important town in Blue Nile State bordering Ethiopia, according to reports by Al Jazeera and The National.",
+          "pubDate": "Fri, 14 Aug 2026 07:14:58 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws"
         },
         {
           "title": "RSF claims key victory in Sudan’s Blue Nile region",
@@ -319,184 +328,13 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
-          "link": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit",
-          "source": "aljazeera.com",
-          "pubDate": "2026-08-16T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit"
-        },
-        {
-          "title": "Survie Prevails Again , This Time in Christophe Clement",
-          "link": "https://www.bloodhorse.com/horse-racing/articles/293829/survie-prevails-again-this-time-in-christophe-clement",
-          "source": "bloodhorse.com",
-          "pubDate": "2026-08-16T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Survie Prevails Again , This Time in Christophe Clement"
-        },
-        {
-          "title": "Global partners extend greetings to India on 80th I - Day",
-          "link": "https://kashmirreader.com/2026/08/16/global-partners-extend-greetings-to-india-on-80th-i-day/",
-          "source": "kashmirreader.com",
-          "pubDate": "2026-08-16T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Global partners extend greetings to India on 80th I - Day"
-        },
-        {
-          "title": "Qatar Denies Detaining Iranian Pilots After Iran Accuses Doha",
-          "link": "http://www.pakistantelegraph.com/news/279244222/qatar-denies-detaining-iranian-pilots-after-iran-accuses-doha",
-          "source": "pakistantelegraph.com",
-          "pubDate": "2026-08-16T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Qatar Denies Detaining Iranian Pilots After Iran Accuses Doha"
-        },
-        {
-          "title": "Trump Takeover Plan for Strait of Hormuz Spurs Tensions",
-          "link": "https://www.pakistantoday.com.pk/2026/08/16/trumps-takeover",
-          "source": "pakistantoday.com.pk",
-          "pubDate": "2026-08-16T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Takeover Plan for Strait of Hormuz Spurs Tensions"
-        },
-        {
-          "title": "Qatar Denies Detaining Iranian Pilots After Iran Accuses Doha",
-          "link": "http://www.middleeaststar.com/news/279244222/qatar-denies-detaining-iranian-pilots-after-iran-accuses-doha",
-          "source": "middleeaststar.com",
-          "pubDate": "2026-08-16T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Qatar Denies Detaining Iranian Pilots After Iran Accuses Doha"
-        },
-        {
           "title": "Business News: Egitto, debito estero sale del 5,2 per cento a 164,8 miliardi di dollari a fine giugno",
-          "link": "https://www.agenzianova.com/a/6a812b03b99e59.89584895/7700240/2026-08-16/business-news-egitto-debito-estero-sale-del-5-2-per-cento-a-164-8-miliardi-di-dollari-a-fine-giugno",
+          "link": "https://www.agenzianova.com/a/6a8141d50be748.52939021/7700240/2026-08-16/business-news-egitto-debito-estero-sale-del-5-2-per-cento-a-164-8-miliardi-di-dollari-a-fine-giugno",
           "description": "16 ago 02:00 - (Agenzia Nova) - Il debito estero totale dell'Egitto e' aumentato del 5,2 per cento su base annua, raggiungendo i 164,8 miliardi... (Cae)",
           "pubDate": "2026-08-16T02:00:00+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
           "titleIt": "Business News: Egitto, debito estero sale del 5,2 per cento a 164,8 miliardi di dollari a fine giugno"
-        },
-        {
-          "title": "Qatar Denies Detaining Iranian Pilots After Iran Accuses Doha",
-          "link": "http://www.iranherald.com/news/279244222/qatar-denies-detaining-iranian-pilots-after-iran-accuses-doha",
-          "source": "iranherald.com",
-          "pubDate": "2026-08-15T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Qatar Denies Detaining Iranian Pilots After Iran Accuses Doha"
-        },
-        {
-          "title": "The dwindling shield and the regional security equation",
-          "link": "https://www.arabnews.com/node/2654802",
-          "source": "arabnews.com",
-          "pubDate": "2026-08-15T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The dwindling shield and the regional security equation"
-        },
-        {
-          "title": "Trump Says He Will  Soon  Declare Strait Of Hormuz US Territory",
-          "link": "http://www.chinanationalnews.com/news/279242419/trump-says-he-will-soon-declare-strait-of-hormuz-us-territory",
-          "source": "chinanationalnews.com",
-          "pubDate": "2026-08-15T20:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Says He Will  Soon  Declare Strait Of Hormuz US Territory"
-        },
-        {
-          "title": "India fills us with awe at scale of its achievements , vastness of potential : Global leaders extend wishes on Independence Day",
-          "link": "https://news.webindia123.com/news/Articles/World/20260815/4487648.html",
-          "source": "news.webindia123.com",
-          "pubDate": "2026-08-15T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India fills us with awe at scale of its achievements , vastness of potential : Global leaders extend wishes on Independence Day"
-        },
-        {
-          "title": "India fills us with awe at scale of its achievements , vastness of potential : Global leaders extend wishes on Independence Day",
-          "link": "https://aninews.in/news/world/asia/india-fills-us-with-awe-at-scale-of-its-achievements-vastness-of-potential-global-leaders-extend-wishes-on-independence-day20260815221304/",
-          "source": "aninews.in",
-          "pubDate": "2026-08-15T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India fills us with awe at scale of its achievements , vastness of potential : Global leaders extend wishes on Independence Day"
-        },
-        {
-          "title": "Egypt , Turkey Sign Cooperation Agreements in Alamein , Discuss $15B Trade Target",
-          "link": "https://egyptianstreets.com/2026/08/15/egypt-turkey-sign-cooperation-agreements-in-alamein-discuss-15b-trade-target/",
-          "source": "egyptianstreets.com",
-          "pubDate": "2026-08-15T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt , Turkey Sign Cooperation Agreements in Alamein , Discuss $15B Trade Target"
-        },
-        {
-          "title": "Egypt Growth Outlook Cut to 5 % as Rate Cuts Slip to 2027",
-          "link": "https://www.riotimesonline.com/egypt-growth-outlook-cut-5-percent-inflation-delays-rate-cuts-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-08-15T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Growth Outlook Cut to 5 % as Rate Cuts Slip to 2027"
-        },
-        {
-          "title": "Trump Says He Will  Soon  Declare Strait Of Hormuz US Territory",
-          "link": "http://www.pakistantelegraph.com/news/279242419/trump-says-he-will-soon-declare-strait-of-hormuz-us-territory",
-          "source": "pakistantelegraph.com",
-          "pubDate": "2026-08-15T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Says He Will  Soon  Declare Strait Of Hormuz US Territory"
-        },
-        {
-          "title": "Global partners extend greetings to India on 80th Independence Day",
-          "link": "https://www.orissapost.com/global-partners-extend-greetings-to-india-on-80th-independence-day/",
-          "source": "orissapost.com",
-          "pubDate": "2026-08-15T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Global partners extend greetings to India on 80th Independence Day"
-        },
-        {
-          "title": "Morocco Shows How Migration Has Become Weaponized",
-          "link": "https://www.scoop.co.nz/stories/WO2608/S00107/morocco-shows-how-migration-has-become-weaponized.htm",
-          "source": "scoop.co.nz",
-          "pubDate": "2026-08-15T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Morocco Shows How Migration Has Become Weaponized"
-        },
-        {
-          "title": "SKYX Platforms Q2 Earnings Call Highlights",
-          "link": "https://www.dailypolitical.com/2026/08/15/skyx-platforms-q2-earnings-call-highlights.html",
-          "source": "dailypolitical.com",
-          "pubDate": "2026-08-15T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "SKYX Platforms Q2 Earnings Call Highlights"
-        },
-        {
-          "title": "Igboho : Vindicated By Reality - By Abiodun KOMOLAFE",
-          "link": "https://www.opinionnigeria.com/igboho-vindicated-by-reality-by-abiodun-komolafe/",
-          "source": "opinionnigeria.com",
-          "pubDate": "2026-08-15T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Igboho : Vindicated By Reality - By Abiodun KOMOLAFE"
-        },
-        {
-          "title": "Egypt Denies Connection to Ship Targeted Near Yemen , Condemns Red Sea Maritime Attacks **",
-          "link": "https://www.tanzanianewsreports.com/egypt-denies-connection-to-ship-targeted-near-yemen-condemns-red-sea-maritime-attacks/",
-          "source": "tanzanianewsreports.com",
-          "pubDate": "2026-08-15T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Denies Connection to Ship Targeted Near Yemen , Condemns Red Sea Maritime Attacks **"
         }
       ]
     },
