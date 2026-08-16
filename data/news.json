@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T07:02:41.845Z",
+  "generatedAt": "2026-08-16T08:49:08.481Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -7,22 +7,22 @@
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Business news: Egitto-Ciad, in cantiere corridoio terrestre di 4.300 chilometri da Berenice a N'Djamena",
-          "link": "https://www.agenzianova.com/a/6a815fa8bae0d0.90723558/7697824/2026-08-16/business-news-egitto-ciad-in-cantiere-corridoio-terrestre-di-4-300-chilometri-da-berenice-a-n-djamena",
-          "description": "16 ago 07:00 - (Agenzia Nova) - L'Egitto intende collegare il porto di Berenice alla capitale del Ciad, N'Djamena, tramite un corridoio terrestre... (Sed)",
-          "pubDate": "2026-08-16T07:00:00+02:00",
+          "title": "Turchia: Erdogan, possibile adesione Egitto ad accordo difesa con Arabia Saudita e Pakistan (2)",
+          "link": "https://www.agenzianova.com/a/6a8179327fcb08.68381968/7701357/2026-08-16/turchia-erdogan-possibile-adesione-egitto-ad-accordo-difesa-con-arabia-saudita-e-pakistan-2",
+          "description": "16 ago 10:35 - (Agenzia Nova) - L'intesa, nota anche come Patto della Mecca, e' stata firmata nella citta' santa islamica il 7 agosto da Erdogan,... (Res)",
+          "pubDate": "2026-08-16T10:35:33+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Business news: Egitto-Ciad, in cantiere corridoio terrestre di 4.300 chilometri da Berenice a N'Djamena"
+          "titleIt": "Turchia: Erdogan, possibile adesione Egitto ad accordo difesa con Arabia Saudita e Pakistan (2)"
         },
         {
-          "title": "Business News: Egitto-Ciad, in cantiere corridoio terrestre di 4.300 chilometri da Berenice a N'Djamena",
-          "link": "https://www.agenzianova.com/a/6a815fa8bc2d81.18545854/7700359/2026-08-16/business-news-egitto-ciad-in-cantiere-corridoio-terrestre-di-4-300-chilometri-da-berenice-a-n-djamena",
-          "description": "16 ago 05:00 - (Agenzia Nova) - L'Egitto intende collegare il porto di Berenice alla capitale del Ciad, N'Djamena, tramite un corridoio terrestre... (Sed)",
-          "pubDate": "2026-08-16T05:00:00+02:00",
+          "title": "Turchia: Erdogan, possibile adesione Egitto ad accordo difesa con Arabia Saudita e Pakistan",
+          "link": "https://www.agenzianova.com/a/6a8179327febc9.81464289/7701356/2026-08-16/turchia-erdogan-possibile-adesione-egitto-ad-accordo-difesa-con-arabia-saudita-e-pakistan",
+          "description": "16 ago 10:35 - (Agenzia Nova) - L'Egitto potrebbe aderire all'Accordo di difesa congiunta della Mecca recentemente firmato da Turchia, Arabia... (Res)",
+          "pubDate": "2026-08-16T10:35:33+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Business News: Egitto-Ciad, in cantiere corridoio terrestre di 4.300 chilometri da Berenice a N'Djamena"
+          "titleIt": "Turchia: Erdogan, possibile adesione Egitto ad accordo difesa con Arabia Saudita e Pakistan"
         },
         {
           "title": "China and Egypt launch second joint air force exercise",
@@ -84,15 +84,6 @@
           "titleIt": "Worries grow over mysterious illness killing Kenyan elephants"
         },
         {
-          "title": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws",
-          "link": "https://allafrica.com/stories/202608140047.html",
-          "description": "[Addis Standard] Addis Abeba -- Sudan's Rapid Support Forces (RSF) and allied fighters have advanced into Al Kurmuk, a strategically important town in Blue Nile State bordering Ethiopia, according to reports by Al Jazeera and The National.",
-          "pubDate": "Fri, 14 Aug 2026 07:14:58 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws"
-        },
-        {
           "title": "RSF claims key victory in Sudan’s Blue Nile region",
           "link": "http://www.africanews.com/2026/08/13/rsf-claims-key-victory-in-sudans-blue-nile-region/",
           "description": "Sudan’s paramilitary Rapid Support Forces, or RSF, say they have taken full control of Geissan, in the Blue Nile region, near the Ethiopian border.",
@@ -123,15 +114,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "UN calls for negotiations to end the conflict in Mozambique"
-        },
-        {
-          "title": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws",
-          "link": "https://allafrica.com/stories/202608140047.html",
-          "description": "[Addis Standard] Addis Abeba -- Sudan's Rapid Support Forces (RSF) and allied fighters have advanced into Al Kurmuk, a strategically important town in Blue Nile State bordering Ethiopia, according to reports by Al Jazeera and The National.",
-          "pubDate": "Fri, 14 Aug 2026 07:14:58 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: RSF Says It Captures Key Sudan Town Near Ethiopian Border As Army Withdraws"
         },
         {
           "title": "RSF claims key victory in Sudan’s Blue Nile region",
@@ -182,11 +164,219 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "India must strengthen shipping capacity , naval protection amid growing chokepoints : GTRI",
+          "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-must-strengthen-shipping-capacity-naval-protection-amid-growing-chokepoints-gtri/articleshow/133271212.cms",
+          "source": "economictimes.indiatimes.com",
+          "pubDate": "2026-08-16T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India must strengthen shipping capacity , naval protection amid growing chokepoints : GTRI"
+        },
+        {
+          "title": "The People Republic : How they rule - Tribune Online",
+          "link": "https://tribuneonlineng.com/the-peoples-republic-how-they-rule-19/",
+          "source": "tribuneonlineng.com",
+          "pubDate": "2026-08-16T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The People Republic : How they rule - Tribune Online"
+        },
+        {
+          "title": "Thicker than blood",
+          "link": "https://thenationonlineng.net/thicker-than-blood/",
+          "source": "thenationonlineng.net",
+          "pubDate": "2026-08-16T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Thicker than blood"
+        },
+        {
+          "title": "Morning Briefing : Aug . 16 , 2026",
+          "link": "https://aa.com.tr/en/world/morning-briefing-aug-16-2026/4028534",
+          "source": "aa.com.tr",
+          "pubDate": "2026-08-16T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Morning Briefing : Aug . 16 , 2026"
+        },
+        {
+          "title": "Overnight News Digest : August 15 , 2026 .",
+          "link": "https://www.dailykos.com/stories/2026/8/15/800084840/community/overnight-news-digest-august-15-2026/",
+          "source": "dailykos.com",
+          "pubDate": "2026-08-16T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Overnight News Digest : August 15 , 2026 ."
+        },
+        {
+          "title": "UK inflation set to rise as AI chip crunch , energy costs add pressure",
+          "link": "https://www.business-standard.com/world-news/uk-inflation-set-to-rise-as-ai-chip-crunch-energy-costs-add-pressure-126081600048_1.html",
+          "source": "business-standard.com",
+          "pubDate": "2026-08-16T03:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UK inflation set to rise as AI chip crunch , energy costs add pressure"
+        },
+        {
+          "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit/",
+          "source": "dominicanrepublicpost.com",
+          "pubDate": "2026-08-16T03:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
+        },
+        {
+          "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
+          "link": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit",
+          "source": "aljazeera.com",
+          "pubDate": "2026-08-16T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit"
+        },
+        {
+          "title": "Survie Prevails Again , This Time in Christophe Clement",
+          "link": "https://www.bloodhorse.com/horse-racing/articles/293829/survie-prevails-again-this-time-in-christophe-clement",
+          "source": "bloodhorse.com",
+          "pubDate": "2026-08-16T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Survie Prevails Again , This Time in Christophe Clement"
+        },
+        {
+          "title": "Global partners extend greetings to India on 80th I - Day",
+          "link": "https://kashmirreader.com/2026/08/16/global-partners-extend-greetings-to-india-on-80th-i-day/",
+          "source": "kashmirreader.com",
+          "pubDate": "2026-08-16T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Global partners extend greetings to India on 80th I - Day"
+        },
+        {
+          "title": "Qatar Denies Detaining Iranian Pilots After Iran Accuses Doha",
+          "link": "http://www.pakistantelegraph.com/news/279244222/qatar-denies-detaining-iranian-pilots-after-iran-accuses-doha",
+          "source": "pakistantelegraph.com",
+          "pubDate": "2026-08-16T01:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Qatar Denies Detaining Iranian Pilots After Iran Accuses Doha"
+        },
+        {
+          "title": "Trump Takeover Plan for Strait of Hormuz Spurs Tensions",
+          "link": "https://www.pakistantoday.com.pk/2026/08/16/trumps-takeover",
+          "source": "pakistantoday.com.pk",
+          "pubDate": "2026-08-16T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Takeover Plan for Strait of Hormuz Spurs Tensions"
+        },
+        {
+          "title": "Qatar Denies Detaining Iranian Pilots After Iran Accuses Doha",
+          "link": "http://www.middleeaststar.com/news/279244222/qatar-denies-detaining-iranian-pilots-after-iran-accuses-doha",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-08-16T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Qatar Denies Detaining Iranian Pilots After Iran Accuses Doha"
+        },
+        {
+          "title": "Qatar Denies Detaining Iranian Pilots After Iran Accuses Doha",
+          "link": "http://www.iranherald.com/news/279244222/qatar-denies-detaining-iranian-pilots-after-iran-accuses-doha",
+          "source": "iranherald.com",
+          "pubDate": "2026-08-15T23:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Qatar Denies Detaining Iranian Pilots After Iran Accuses Doha"
+        },
+        {
+          "title": "The dwindling shield and the regional security equation",
+          "link": "https://www.arabnews.com/node/2654802",
+          "source": "arabnews.com",
+          "pubDate": "2026-08-15T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The dwindling shield and the regional security equation"
+        },
+        {
+          "title": "Trump Says He Will  Soon  Declare Strait Of Hormuz US Territory",
+          "link": "http://www.chinanationalnews.com/news/279242419/trump-says-he-will-soon-declare-strait-of-hormuz-us-territory",
+          "source": "chinanationalnews.com",
+          "pubDate": "2026-08-15T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump Says He Will  Soon  Declare Strait Of Hormuz US Territory"
+        },
+        {
+          "title": "India fills us with awe at scale of its achievements , vastness of potential : Global leaders extend wishes on Independence Day",
+          "link": "https://news.webindia123.com/news/Articles/World/20260815/4487648.html",
+          "source": "news.webindia123.com",
+          "pubDate": "2026-08-15T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India fills us with awe at scale of its achievements , vastness of potential : Global leaders extend wishes on Independence Day"
+        },
+        {
+          "title": "India fills us with awe at scale of its achievements , vastness of potential : Global leaders extend wishes on Independence Day",
+          "link": "https://aninews.in/news/world/asia/india-fills-us-with-awe-at-scale-of-its-achievements-vastness-of-potential-global-leaders-extend-wishes-on-independence-day20260815221304/",
+          "source": "aninews.in",
+          "pubDate": "2026-08-15T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India fills us with awe at scale of its achievements , vastness of potential : Global leaders extend wishes on Independence Day"
+        },
+        {
+          "title": "Egypt , Turkey Sign Cooperation Agreements in Alamein , Discuss $15B Trade Target",
+          "link": "https://egyptianstreets.com/2026/08/15/egypt-turkey-sign-cooperation-agreements-in-alamein-discuss-15b-trade-target/",
+          "source": "egyptianstreets.com",
+          "pubDate": "2026-08-15T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt , Turkey Sign Cooperation Agreements in Alamein , Discuss $15B Trade Target"
+        },
+        {
+          "title": "Egypt Growth Outlook Cut to 5 % as Rate Cuts Slip to 2027",
+          "link": "https://www.riotimesonline.com/egypt-growth-outlook-cut-5-percent-inflation-delays-rate-cuts-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-08-15T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Growth Outlook Cut to 5 % as Rate Cuts Slip to 2027"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Turchia: Erdogan, possibile adesione Egitto ad accordo difesa con Arabia Saudita e Pakistan (2)",
+          "link": "https://www.agenzianova.com/a/6a8179327fcb08.68381968/7701357/2026-08-16/turchia-erdogan-possibile-adesione-egitto-ad-accordo-difesa-con-arabia-saudita-e-pakistan-2",
+          "description": "16 ago 10:35 - (Agenzia Nova) - L'intesa, nota anche come Patto della Mecca, e' stata firmata nella citta' santa islamica il 7 agosto da Erdogan,... (Res)",
+          "pubDate": "2026-08-16T10:35:33+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Turchia: Erdogan, possibile adesione Egitto ad accordo difesa con Arabia Saudita e Pakistan (2)"
+        },
+        {
+          "title": "Turchia: Erdogan, possibile adesione Egitto ad accordo difesa con Arabia Saudita e Pakistan",
+          "link": "https://www.agenzianova.com/a/6a8179327febc9.81464289/7701356/2026-08-16/turchia-erdogan-possibile-adesione-egitto-ad-accordo-difesa-con-arabia-saudita-e-pakistan",
+          "description": "16 ago 10:35 - (Agenzia Nova) - L'Egitto potrebbe aderire all'Accordo di difesa congiunta della Mecca recentemente firmato da Turchia, Arabia... (Res)",
+          "pubDate": "2026-08-16T10:35:33+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Turchia: Erdogan, possibile adesione Egitto ad accordo difesa con Arabia Saudita e Pakistan"
+        },
+        {
+          "title": "Gaza: capo Hamas al Cairo per colloqui con funzionari Egitto",
+          "link": "https://www.agenzianova.com/a/6a817932829df7.86614252/7701241/2026-08-16/gaza-capo-hamas-al-cairo-per-colloqui-con-funzionari-egitto",
+          "description": "16 ago 09:52 - (Agenzia Nova) - Il leader politico e capo negoziatore di Hamas, Khalil al Hayya, si sta recando al Cairo per colloqui con funzionari... (Res)",
+          "pubDate": "2026-08-16T09:52:08+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Gaza: capo Hamas al Cairo per colloqui con funzionari Egitto"
+        },
         {
           "title": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet",
           "link": "https://www.thenewhumanitarian.org/cheat-sheet/2026/08/14/rsf-drone-attacks-somalias-drought-emergency-and-wfp-sticks-palantir-cheat",
