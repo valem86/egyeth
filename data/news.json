@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T01:58:00.845Z",
+  "generatedAt": "2026-08-17T03:16:21.253Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -7,22 +7,13 @@
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Gaza: Kushner incontra in Egitto i mediatori e Alto rappresentante Consiglio di pace - foto",
-          "link": "https://www.agenzianova.com/a/6a826a3cee37a9.25959752/7702048/2026-08-16/gaza-kushner-incontra-in-egitto-i-mediatori-e-alto-rappresentante-consiglio-di-pace-foto",
-          "description": "16 ago 18:59 - (Agenzia Nova) - Jared Kushner, inviato del presidente degli Stati Uniti, i mediatori coinvolti nell'accordo di cessate il fuoco... (Cae)",
-          "pubDate": "2026-08-16T18:59:29+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Gaza: Kushner incontra in Egitto i mediatori e Alto rappresentante Consiglio di pace - foto"
-        },
-        {
-          "title": "Gaza: Kushner incontra in Egitto i mediatori e Alto rappresentante Consiglio di pace",
-          "link": "https://www.agenzianova.com/a/6a826a3cee56f8.17140979/7702047/2026-08-16/gaza-kushner-incontra-in-egitto-i-mediatori-e-alto-rappresentante-consiglio-di-pace",
-          "description": "16 ago 18:46 - (Agenzia Nova) - Jared Kushner, inviato del presidente degli Stati Uniti, ha incontrato in Egitto i mediatori coinvolti nell'accordo... (Cae)",
-          "pubDate": "2026-08-16T18:46:35+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Gaza: Kushner incontra in Egitto i mediatori e Alto rappresentante Consiglio di pace"
+          "title": "Somalia: Somali Referee, Omar Artan's Salzburg Night Completes a Remarkable Journey From Miami to UEFA Super Cup",
+          "link": "https://allafrica.com/stories/202608170005.html",
+          "description": "[This Day] A postmortem and follow-up to my earlier publication, August 11, 2026, on the Somali referee who lost his 2026 FIFA World Cup opportunity in Miami, only to make UEFA history two months later in Salzburg.",
+          "pubDate": "Mon, 17 Aug 2026 02:43:47 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somali Referee, Omar Artan's Salzburg Night Completes a Remarkable Journey From Miami to UEFA Super Cup"
         },
         {
           "title": "China and Egypt launch second joint air force exercise",
@@ -75,22 +66,13 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "India is losing West Asia , but it is not too late",
-          "link": "https://www.thehindu.com/opinion/op-ed/india-is-losing-west-asia-but-it-is-not-too-late/article71353405.ece",
-          "source": "thehindu.com",
-          "pubDate": "2026-08-16T19:00:00Z",
+          "title": "Somalia: Somali Referee, Omar Artan's Salzburg Night Completes a Remarkable Journey From Miami to UEFA Super Cup",
+          "link": "https://allafrica.com/stories/202608170005.html",
+          "description": "[This Day] A postmortem and follow-up to my earlier publication, August 11, 2026, on the Somali referee who lost his 2026 FIFA World Cup opportunity in Miami, only to make UEFA history two months later in Salzburg.",
+          "pubDate": "Mon, 17 Aug 2026 02:43:47 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "India is losing West Asia , but it is not too late"
-        },
-        {
-          "title": "Is Sudan Bloody War Reaching a Tipping Point ?",
-          "link": "https://www.fairobserver.com/region/middle_east_north_africa/is-sudans-bloody-war-reaching-a-tipping-point/",
-          "source": "fairobserver.com",
-          "pubDate": "2026-08-16T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Is Sudan Bloody War Reaching a Tipping Point ?"
+          "titleIt": "Somalia: Somali Referee, Omar Artan's Salzburg Night Completes a Remarkable Journey From Miami to UEFA Super Cup"
         },
         {
           "title": "Ethiopia: News - Coalition Says Abeshige Extrajudicial Killings 'Comparable to the Red Terror', Demands Investigation",
@@ -102,42 +84,6 @@
           "titleIt": "Ethiopia: News - Coalition Says Abeshige Extrajudicial Killings 'Comparable to the Red Terror', Demands Investigation"
         },
         {
-          "title": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact",
-          "link": "https://www.middleeasteye.net/news/emirati-academics-barbed-tweet-pakistan-exposes-uae-unease-over-mecca-pact",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-16T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact"
-        },
-        {
-          "title": "The Saudi – Turkish – Pakistani Security Agreement : A Preliminary Assessment",
-          "link": "https://www.middleeastmonitor.com/20260815-the-saudi-turkish-pakistani-security-agreement-a-preliminary-assessment/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-08-15T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Saudi – Turkish – Pakistani Security Agreement : A Preliminary Assessment"
-        },
-        {
-          "title": "The Makkah Joint Defence Agreement , Gulf Dynamics , And The Horn Of Africa",
-          "link": "https://www.thereporterethiopia.com/52268/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-15T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Makkah Joint Defence Agreement , Gulf Dynamics , And The Horn Of Africa"
-        },
-        {
-          "title": "Somaliland , AFRICOM Hold Talks on Maritime Security and Defense Cooperation",
-          "link": "https://wardheernews.com/somaliland-africom-hold-talks-on-maritime-security-and-defense-cooperation/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-14T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland , AFRICOM Hold Talks on Maritime Security and Defense Cooperation"
-        },
-        {
           "title": "Worries grow over mysterious illness killing Kenyan elephants",
           "link": "http://www.africanews.com/2026/08/14/worries-grow-over-mysterious-illness-killing-kenyan-elephants/",
           "description": "Worries over the death of elephants are mounting in southern Kenya, where at least 19 animals have died since June from an unexplained condition. With symptoms including partial paralysis, conservationists and communities are demanding urgent investigations into what is killing the elephants.",
@@ -147,118 +93,37 @@
           "titleIt": "Worries grow over mysterious illness killing Kenyan elephants"
         },
         {
-          "title": "How the Mecca Agreement aims to manage US separation from Middle East",
-          "link": "https://www.chinatechnews.com/2026/08/14/127304-how-the-mecca-agreement-aims-to-manage-us-separation-from-middle-east",
-          "source": "chinatechnews.com",
-          "pubDate": "2026-08-13T23:00:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "How the Mecca Agreement aims to manage US separation from Middle East"
-        },
-        {
-          "title": "How Riyadh lost the war in Yemen long before the Red Sea blew up",
-          "link": "http://www.jpost.com/opinion/article-905397",
-          "source": "jpost.com",
-          "pubDate": "2026-08-13T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How Riyadh lost the war in Yemen long before the Red Sea blew up"
-        },
-        {
-          "title": "Africa : Houthi Red Sea Threat Puts Somaliland in Focus As Analysts See Possible U . S . Strategy Shift",
-          "link": "https://allafrica.com/stories/202608130200.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-13T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : Houthi Red Sea Threat Puts Somaliland in Focus As Analysts See Possible U . S . Strategy Shift"
-        },
-        {
-          "title": "The Mecca Pact : The Unfinished Asabiyyah of a World in Search of Power",
-          "link": "https://countercurrents.org/2026/08/the-mecca-pact-the-unfinished-asabiyyah-of-a-world-in-search-of-power/",
-          "source": "countercurrents.org",
-          "pubDate": "2026-08-13T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Mecca Pact : The Unfinished Asabiyyah of a World in Search of Power"
-        },
-        {
-          "title": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي",
-          "link": "https://www.okaz.com.sa/articles/na/2261085",
-          "source": "okaz.com.sa",
-          "pubDate": "2026-08-12T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي"
-        },
-        {
-          "title": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit",
-          "link": "https://www.whmi.com/news/fox/iran-backed-houthi-threat-red-sea-could-lead-major-us-policy-shift-analysts-say",
-          "source": "whmi.com",
-          "pubDate": "2026-08-12T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit"
-        },
-        {
-          "title": "Saudi Arabia doubles down on its failed Yemen strategy",
-          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/saudi-arabia-doubles-down-on-its-failed-yemen-strategy",
-          "source": "jns.org",
-          "pubDate": "2026-08-12T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia doubles down on its failed Yemen strategy"
-        },
-        {
-          "title": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say",
-          "link": "https://www.middleeasteye.net/news/saudi-arabia-opposed-egypts-inclusion-mecca-agreement-sources-say",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-11T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say"
-        },
-        {
-          "title": "India new Middle East power play - opinion | The Jerusalem Post",
-          "link": "http://www.jpost.com/defense-and-tech/article-905189",
-          "source": "jpost.com",
-          "pubDate": "2026-08-11T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India new Middle East power play - opinion | The Jerusalem Post"
-        },
-        {
-          "title": "The Recurrent Injustice Against the SSC People in Somali Politics Preamble",
-          "link": "https://wardheernews.com/the-recurrent-injustice-against-the-ssc-people-in-somali-politicspreamble/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-11T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Recurrent Injustice Against the SSC People in Somali Politics Preamble"
-        },
-        {
-          "title": "Dubai ruler confronted in London over UAE involvement in Sudan war",
-          "link": "https://www.middleeasteye.net/news/dubai-ruler-confronted-london-over-uae-involvement-sudan-war",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-10T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dubai ruler confronted in London over UAE involvement in Sudan war"
-        },
-        {
-          "title": "The US Back in Ethiopia , a New Hub of Major Power Competition",
-          "link": "https://www.theepochtimes.com/opinion/the-us-back-in-ethiopia-a-new-hub-of-major-power-competition-6072382",
-          "source": "theepochtimes.com",
-          "pubDate": "2026-08-09T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The US Back in Ethiopia , a New Hub of Major Power Competition"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Nigeria: Former NIPSS DG, Muhammad-Bande Turbaned Baraden Besse",
+          "link": "https://allafrica.com/stories/202608170025.html",
+          "description": "[Leadership] The former director-general of the National Institute for Policy and Strategic Studies (NIPSS), Prof Tijjani Muhammad-Bande, has been conferred the traditional title of Baraden Besse (District Head of Besse) by the Gwandu Emirate Council of Kebbi State.",
+          "pubDate": "Mon, 17 Aug 2026 03:02:05 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Nigeria: Former NIPSS DG, Muhammad-Bande Turbaned Baraden Besse"
+        },
+        {
+          "title": "Somalia: Somali Referee, Omar Artan's Salzburg Night Completes a Remarkable Journey From Miami to UEFA Super Cup",
+          "link": "https://allafrica.com/stories/202608170005.html",
+          "description": "[This Day] A postmortem and follow-up to my earlier publication, August 11, 2026, on the Somali referee who lost his 2026 FIFA World Cup opportunity in Miami, only to make UEFA history two months later in Salzburg.",
+          "pubDate": "Mon, 17 Aug 2026 02:43:47 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somali Referee, Omar Artan's Salzburg Night Completes a Remarkable Journey From Miami to UEFA Super Cup"
+        },
         {
           "title": "Ethiopia: News - Coalition Says Abeshige Extrajudicial Killings 'Comparable to the Red Terror', Demands Investigation",
           "link": "https://allafrica.com/stories/202608160013.html",
@@ -308,210 +173,11 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Nigeria to Produce Military Hardware , Anti - Drone Systems Loc",
-          "link": "https://punchng.com/nigeria-targets-local-production-of-military-hardware-anti-drone-systems/",
-          "source": "punchng.com",
-          "pubDate": "2026-08-17T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nigeria to Produce Military Hardware , Anti - Drone Systems Loc"
-        },
-        {
-          "title": "Trump Welcomes Saudi , Turkey , Pakistan Defense Pact",
-          "link": "http://www.pakistantelegraph.com/news/279245809/trump-welcomes-saudi-turkey-pakistan-defense-pact",
-          "source": "pakistantelegraph.com",
-          "pubDate": "2026-08-17T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Welcomes Saudi , Turkey , Pakistan Defense Pact"
-        },
-        {
-          "title": "Jared Kushner Lands in Israel in Bid to Save Gaza Truce After Meeting Hamas Officials in Cairo",
-          "link": "https://www.haaretz.com/israel-news/israel-security/2026-08-17/ty-article-live/kushner-lands-in-israel-after-meeting-hamas-officials-in-bid-to-save-gaza-truce/000001a0-0c64-d88f-abbf-dcedc81e0000",
-          "source": "haaretz.com",
-          "pubDate": "2026-08-16T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Jared Kushner Lands in Israel in Bid to Save Gaza Truce After Meeting Hamas Officials in Cairo"
-        },
-        {
-          "title": "Castro - style capitalism : Havana promises economic changes without relinquishing political control",
-          "link": "https://english.elpais.com/international/2026-08-16/castro-style-capitalism-havana-promises-economic-changes-without-relinquishing-political-control.html",
-          "source": "english.elpais.com",
-          "pubDate": "2026-08-16T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Castro - style capitalism : Havana promises economic changes without relinquishing political control"
-        },
-        {
-          "title": "What shrinking US missile stocks means for allies and adversaries around the world",
-          "link": "https://www.atlanticcouncil.org/dispatches/what-shrinking-us-missile-stocks-means-for-allies-and-adversaries-around-the-world/",
-          "source": "atlanticcouncil.org",
-          "pubDate": "2026-08-16T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "What shrinking US missile stocks means for allies and adversaries around the world"
-        },
-        {
-          "title": "Sudan : The closing military gap between SAF and RSF and what comes next , by Yechale Degu",
-          "link": "https://theeagleonline.com.ng/sudan-the-closing-military-gap-between-saf-and-rsf-and-what-comes-next-by-yechale-degu/",
-          "source": "theeagleonline.com.ng",
-          "pubDate": "2026-08-16T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : The closing military gap between SAF and RSF and what comes next , by Yechale Degu"
-        },
-        {
-          "title": "Kushner meets with Hamas in push to revive Gaza plan",
-          "link": "https://www.standardmedia.co.ke/world/article/2001555494/kushner-meets-with-hamas-in-push-to-revive-gaza-plan",
-          "source": "standardmedia.co.ke",
-          "pubDate": "2026-08-16T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kushner meets with Hamas in push to revive Gaza plan"
-        },
-        {
-          "title": "Kushner meets with Hamas in push to revive Gaza plan",
-          "link": "https://www.al-monitor.com/originals/2026/08/kushner-meets-hamas-push-revive-gaza-plan",
-          "source": "al-monitor.com",
-          "pubDate": "2026-08-16T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kushner meets with Hamas in push to revive Gaza plan"
-        },
-        {
-          "title": "Ishmael Reed Tries to Undo the Damage  Hamilton  Has Wrought",
-          "link": "https://www.thenation.com/article/archive/ishmael-reed-haunting-of-lin-manuel-miranda-hamilton-play-review/",
-          "source": "thenation.com",
-          "pubDate": "2026-08-16T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ishmael Reed Tries to Undo the Damage  Hamilton  Has Wrought"
-        },
-        {
-          "title": "How Hamas attack on Israel is changing American politics * WorldNetDaily * by Benjamin Weingarten , Real Clear Wire",
-          "link": "https://www.wnd.com/2026/08/how-hamas-attack-israel-is-changing-american-politics/",
-          "source": "wnd.com",
-          "pubDate": "2026-08-16T19:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How Hamas attack on Israel is changing American politics * WorldNetDaily * by Benjamin Weingarten , Real Clear Wire"
-        },
-        {
-          "title": "India is losing West Asia , but it is not too late",
-          "link": "https://www.thehindu.com/opinion/op-ed/india-is-losing-west-asia-but-it-is-not-too-late/article71353405.ece",
-          "source": "thehindu.com",
-          "pubDate": "2026-08-16T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India is losing West Asia , but it is not too late"
-        },
-        {
-          "title": "King visit to China offers chance to deepen economic cooperation JSF",
-          "link": "https://jordantimes.com/news/local/kings-visit-to-china-offers-chance-to-deepen-economic-cooperation-jsf",
-          "source": "jordantimes.com",
-          "pubDate": "2026-08-16T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "King visit to China offers chance to deepen economic cooperation JSF"
-        },
-        {
-          "title": "Kushner meets with Hamas in push to revive Gaza plan",
-          "link": "https://www.rte.ie/news/middle-east/2026/0816/1588126-hamas-kushner/",
-          "source": "rte.ie",
-          "pubDate": "2026-08-16T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kushner meets with Hamas in push to revive Gaza plan"
-        },
-        {
-          "title": "Security Council : Escalating Attacks Threaten Peace In Yemen – UN News – The Daily Blog",
-          "link": "https://thedailyblog.co.nz/security-council-escalating-attacks-threaten-peace-in-yemen-un-news/",
-          "source": "thedailyblog.co.nz",
-          "pubDate": "2026-08-16T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Security Council : Escalating Attacks Threaten Peace In Yemen – UN News – The Daily Blog"
-        },
-        {
-          "title": "A New Game of Monopoly : Middle Eastern Pipelines Cannot Replace the Strait of Hormuz",
-          "link": "https://www.fairobserver.com/economics/a-new-game-of-monopoly-middle-eastern-pipelines-cannot-replace-the-strait-of-hormuz/",
-          "source": "fairobserver.com",
-          "pubDate": "2026-08-16T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A New Game of Monopoly : Middle Eastern Pipelines Cannot Replace the Strait of Hormuz"
-        },
-        {
-          "title": "The post - Hormuz era offers Africa a great opportunity",
-          "link": "https://thefrontierpost.com/the-post-hormuz-era-offers-africa-a-great-opportunity/",
-          "source": "thefrontierpost.com",
-          "pubDate": "2026-08-16T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The post - Hormuz era offers Africa a great opportunity"
-        },
-        {
-          "title": "Russian Peak : Peak Oil Discussion - Page 11 - Peak Oil News and Message Boards",
-          "link": "https://peakoil.com/forums/viewtopic.php?p=1503919",
-          "source": "peakoil.com",
-          "pubDate": "2026-08-16T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Russian Peak : Peak Oil Discussion - Page 11 - Peak Oil News and Message Boards"
-        },
-        {
-          "title": "A look at key news events in July 2026 - Medicine Hat NewsMedicine Hat News",
-          "link": "https://medicinehatnews.com/news/national-news/2026/08/16/a-look-at-key-news-events-in-july-2026/",
-          "source": "medicinehatnews.com",
-          "pubDate": "2026-08-16T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at key news events in July 2026 - Medicine Hat NewsMedicine Hat News"
-        },
-        {
-          "title": "Hamas New Leader Makes First Cairo Visit Ahead of Kushner Planned Trip to Israel",
-          "link": "https://jp.ibtimes.com/hamass-new-leader-makes-first-cairo-visit-ahead-kushners-planned-trip-israel-103722",
-          "source": "jp.ibtimes.com",
-          "pubDate": "2026-08-16T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Hamas New Leader Makes First Cairo Visit Ahead of Kushner Planned Trip to Israel"
-        },
-        {
-          "title": "Houthis Fire Six Missiles Into Marib Displacement Camps as Yemen War Risk Peaks",
-          "link": "https://jp.ibtimes.com/houthis-fire-six-missiles-maribs-displacement-camps-yemen-war-risk-peaks-103727",
-          "source": "jp.ibtimes.com",
-          "pubDate": "2026-08-16T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Houthis Fire Six Missiles Into Marib Displacement Camps as Yemen War Risk Peaks"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Gaza: Kushner incontra in Egitto i mediatori e Alto rappresentante Consiglio di pace - foto",
-          "link": "https://www.agenzianova.com/a/6a826a3cee37a9.25959752/7702048/2026-08-16/gaza-kushner-incontra-in-egitto-i-mediatori-e-alto-rappresentante-consiglio-di-pace-foto",
-          "description": "16 ago 18:59 - (Agenzia Nova) - Jared Kushner, inviato del presidente degli Stati Uniti, i mediatori coinvolti nell'accordo di cessate il fuoco... (Cae)",
-          "pubDate": "2026-08-16T18:59:29+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Gaza: Kushner incontra in Egitto i mediatori e Alto rappresentante Consiglio di pace - foto"
-        },
-        {
-          "title": "Gaza: Kushner incontra in Egitto i mediatori e Alto rappresentante Consiglio di pace",
-          "link": "https://www.agenzianova.com/a/6a826a3cee56f8.17140979/7702047/2026-08-16/gaza-kushner-incontra-in-egitto-i-mediatori-e-alto-rappresentante-consiglio-di-pace",
-          "description": "16 ago 18:46 - (Agenzia Nova) - Jared Kushner, inviato del presidente degli Stati Uniti, ha incontrato in Egitto i mediatori coinvolti nell'accordo... (Cae)",
-          "pubDate": "2026-08-16T18:46:35+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Gaza: Kushner incontra in Egitto i mediatori e Alto rappresentante Consiglio di pace"
-        },
         {
           "title": "Sudan: Young Sudanese Call for 'Inclusive Dialogue to Address Roots of War, Put Justice and Peace First'",
           "link": "https://allafrica.com/stories/202608160008.html",
