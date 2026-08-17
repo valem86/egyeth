@@ -1,11 +1,74 @@
 {
-  "generatedAt": "2026-08-17T14:47:42.277Z",
+  "generatedAt": "2026-08-17T16:49:17.305Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (7)",
+          "link": "https://www.agenzianova.com/a/6a833affbcfe22.01564371/7704603/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane-7",
+          "description": "17 ago 18:23 - (Agenzia Nova) - \"L'Egitto deve affrontare sfide enormi, ma, nonostante cio', offre opportunita' molto promettenti grazie alla... (Res)",
+          "pubDate": "2026-08-17T18:23:48+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (7)"
+        },
+        {
+          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (6)",
+          "link": "https://www.agenzianova.com/a/6a833affbd21a8.96880544/7704602/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane-6",
+          "description": "17 ago 18:23 - (Agenzia Nova) - Secondo Farouk \"esistono ancora grandi opportunita' per le imprese del settore privato italiano che intendano... (Res)",
+          "pubDate": "2026-08-17T18:23:48+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (6)"
+        },
+        {
+          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (5)",
+          "link": "https://www.agenzianova.com/a/6a833affbd41d2.80699768/7704601/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane-5",
+          "description": "17 ago 18:23 - (Agenzia Nova) - Farouk ha sottolineato che \"l'Unione europea, e l'Italia in particolare, e' tra i principali partner commerciali... (Res)",
+          "pubDate": "2026-08-17T18:23:48+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (5)"
+        },
+        {
+          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (4)",
+          "link": "https://www.agenzianova.com/a/6a833affbd65f7.58499119/7704600/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane-4",
+          "description": "17 ago 18:23 - (Agenzia Nova) - Farouk ha ricordato durante l'intervista che la strategia del ministero dell'Agricoltura e della Bonifica fondiaria... (Res)",
+          "pubDate": "2026-08-17T18:23:48+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (4)"
+        },
+        {
+          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (3)",
+          "link": "https://www.agenzianova.com/a/6a833affbd8973.88712699/7704599/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane-3",
+          "description": "17 ago 18:23 - (Agenzia Nova) - Secondo il ministro, il programma di conversione del debito italiano \"rappresenta un modello di successo per... (Res)",
+          "pubDate": "2026-08-17T18:23:48+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (3)"
+        },
+        {
+          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (2)",
+          "link": "https://www.agenzianova.com/a/6a833affbda953.80622857/7704598/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane-2",
+          "description": "17 ago 18:23 - (Agenzia Nova) - Il ministro egiziano ha sottolineato che si sta lavorando \"alla realizzazione di un sistema di trasformazione... (Res)",
+          "pubDate": "2026-08-17T18:23:48+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (2)"
+        },
+        {
+          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\"",
+          "link": "https://www.agenzianova.com/a/6a833affbdcb15.54518894/7704597/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane",
+          "description": "17 ago 18:23 - (Agenzia Nova) - In Egitto \"esistono ancora grandi opportunita' per le imprese private italiane che intendano ampliare gli investimenti... (Res)",
+          "pubDate": "2026-08-17T18:23:48+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\""
+        },
         {
           "title": "Kushner seeks to revive Gaza peace as Netanyahu resists Hamas disarmament",
           "link": "http://www.africanews.com/2026/08/17/kushner-seeks-to-revive-gaza-peace-as-netanyahu-resists-hamas-disarmament/",
@@ -92,6 +155,24 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenya: Koome Disowns Fake Letter Alleging Plot to Influence Supreme Court",
+          "link": "https://allafrica.com/stories/202608170722.html",
+          "description": "[Capital FM] Nairobi -- The Judiciary has disowned a letter circulating on social media and purportedly signed by Chief Justice Martha Koome, dismissing it as fabricated and warning the public against using it to advance political narratives.",
+          "pubDate": "Mon, 17 Aug 2026 15:51:27 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Koome Disowns Fake Letter Alleging Plot to Influence Supreme Court"
+        },
+        {
+          "title": "Kenya: Gachagua Claims 12mn Votes As He Stakes Claim to Opposition Flagbearer Role",
+          "link": "https://allafrica.com/stories/202608170711.html",
+          "description": "[Capital FM] Nairobi -- Former Deputy President Rigathi Gachagua has claimed to command the support of nearly 12 million Kenyans as he positions himself for the 2027 presidential race.",
+          "pubDate": "Mon, 17 Aug 2026 15:47:08 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Gachagua Claims 12mn Votes As He Stakes Claim to Opposition Flagbearer Role"
+        },
         {
           "title": "'Emergency' ship rescues migrant boat, 7 dead",
           "link": "https://www.ansa.it/english/news/2026/08/17/emergency-ship-rescues-migrant-boat-7-dead_27a533ed-fb5f-4f00-9e9e-ab10bef121c8.html",
@@ -201,6 +282,42 @@
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (5)",
+          "link": "https://www.agenzianova.com/a/6a833affbd41d2.80699768/7704601/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane-5",
+          "description": "17 ago 18:23 - (Agenzia Nova) - Farouk ha sottolineato che \"l'Unione europea, e l'Italia in particolare, e' tra i principali partner commerciali... (Res)",
+          "pubDate": "2026-08-17T18:23:48+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (5)"
+        },
+        {
+          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (3)",
+          "link": "https://www.agenzianova.com/a/6a833affbd8973.88712699/7704599/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane-3",
+          "description": "17 ago 18:23 - (Agenzia Nova) - Secondo il ministro, il programma di conversione del debito italiano \"rappresenta un modello di successo per... (Res)",
+          "pubDate": "2026-08-17T18:23:48+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (3)"
+        },
+        {
+          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\"",
+          "link": "https://www.agenzianova.com/a/6a833affbdcb15.54518894/7704597/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane",
+          "description": "17 ago 18:23 - (Agenzia Nova) - In Egitto \"esistono ancora grandi opportunita' per le imprese private italiane che intendano ampliare gli investimenti... (Res)",
+          "pubDate": "2026-08-17T18:23:48+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\""
+        },
+        {
+          "title": "New discoveries strengthen hypothesis linking Egyptian site to ancient Masn",
+          "link": "https://sana.sy/en/miscellaneous/2336953/",
+          "source": "sana.sy",
+          "pubDate": "2026-08-17T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "New discoveries strengthen hypothesis linking Egyptian site to ancient Masn"
+        },
         {
           "title": "Africa Business Heroes Unveils 2026 Top 100 Entrepreneurs",
           "link": "https://www.howwemadeitinafrica.com/p/africas-business-heroes-unveils-2026",
@@ -344,42 +461,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Europe set to build on gains after a quiet weekend and similar APAC lead - Newsquawk EU Market Open"
-        },
-        {
-          "title": "Gold gains on weaker dollar , reduced Fed rate - hike bets",
-          "link": "https://www.thestar.com.my/business/business-news/2026/08/17/gold-gains-on-weaker-dollar-reduced-fed-rate-hike-bets",
-          "source": "thestar.com.my",
-          "pubDate": "2026-08-17T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gold gains on weaker dollar , reduced Fed rate - hike bets"
-        },
-        {
-          "title": "Somalia : U . S . Diplomat Ruth Anne Stevens - Klitz Takes Up Deputy Chief of Mission Role in Somalia",
-          "link": "https://allafrica.com/stories/202608170102.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-17T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : U . S . Diplomat Ruth Anne Stevens - Klitz Takes Up Deputy Chief of Mission Role in Somalia"
-        },
-        {
-          "title": "AP News in Brief at 12 : 04 a . m . EDT",
-          "link": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-12-04-a-m-edt/article_1612b0b7-f97b-51d9-b954-57a4d155dd47.html",
-          "source": "idahostatejournal.com",
-          "pubDate": "2026-08-17T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AP News in Brief at 12 : 04 a . m . EDT"
-        },
-        {
-          "title": "Nigeria : Premium Times Journalist , Five Others Selected for Unccd COP17 Media Fellowship in Mongolia",
-          "link": "https://allafrica.com/stories/202608170120.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-17T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nigeria : Premium Times Journalist , Five Others Selected for Unccd COP17 Media Fellowship in Mongolia"
         }
       ]
     },
@@ -405,13 +486,49 @@
           "titleIt": "'Emergency' ship rescues migrant boat, 7 dead"
         },
         {
-          "title": "Sudan: Women Demand Inclusive, Safe Dialogue to End Sudan War for Good",
-          "link": "https://allafrica.com/stories/202608160007.html",
-          "description": "[Dabanga] Nairobi / Amsterdam -- Sudanese feminist and civil society figures have called for broader participation in any anticipated Sudanese-Sudanese dialogue, demanding genuine guarantees to protect participants and provide a safe space for discussion. They stressed the need for women, young people, and civil society to play an active role in the political process.",
-          "pubDate": "Sun, 16 Aug 2026 15:38:20 GMT",
-          "source": "AllAfrica",
+          "title": "Egypt Warns Ethiopia against Plans to Control Nile River Flows",
+          "link": "https://english.aawsat.com/arab-world/5307849-egypt-warns-ethiopia-against-plans-control-nile-river-flows",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-08-17T06:30:00Z",
           "lang": "en",
-          "titleIt": "Sudan: Women Demand Inclusive, Safe Dialogue to End Sudan War for Good"
+          "description": "",
+          "titleIt": "Egypt Warns Ethiopia against Plans to Control Nile River Flows"
+        },
+        {
+          "title": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki",
+          "link": "https://www.egyptindependent.com/egypt-supports-development-in-ethiopia-but-not-if-it-harms-downstream-nations-abbas-sharaki/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-08-16T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki"
+        },
+        {
+          "title": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact",
+          "link": "https://www.middleeasteye.net/news/emirati-academics-barbed-tweet-pakistan-exposes-uae-unease-over-mecca-pact",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-16T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact"
+        },
+        {
+          "title": "Governing The Invisible Grid : Ethiopia Missing Biomass Account",
+          "link": "https://www.thereporterethiopia.com/52279/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-15T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Governing The Invisible Grid : Ethiopia Missing Biomass Account"
+        },
+        {
+          "title": "Egypt Aggressive Nile Policy No Longer Serves The Region",
+          "link": "https://www.thereporterethiopia.com/52282/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-15T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Aggressive Nile Policy No Longer Serves The Region"
         },
         {
           "title": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet",
@@ -421,6 +538,114 @@
           "source": "The New Humanitarian",
           "lang": "en",
           "titleIt": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet"
+        },
+        {
+          "title": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say",
+          "link": "https://www.middleeasteye.net/news/saudi-arabia-opposed-egypts-inclusion-mecca-agreement-sources-say",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-11T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say"
+        },
+        {
+          "title": "Liberia : Burrowes Calls for Historical Reckoning",
+          "link": "https://allafrica.com/stories/202608110475.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-11T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Liberia : Burrowes Calls for Historical Reckoning"
+        },
+        {
+          "title": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict",
+          "link": "https://allafrica.com/stories/202608100033.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict"
+        },
+        {
+          "title": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River",
+          "link": "https://allafrica.com/stories/202608100052.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River"
+        },
+        {
+          "title": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus",
+          "link": "https://allafrica.com/stories/202608100053.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus"
+        },
+        {
+          "title": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact",
+          "link": "https://www.ynetnews.com/opinions-analysis/article/rjmp11isifl",
+          "source": "ynetnews.com",
+          "pubDate": "2026-08-09T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact"
+        },
+        {
+          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
+          "link": "https://www.thereporterethiopia.com/52198/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-08T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
+        },
+        {
+          "title": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power",
+          "link": "https://www.spotlightnepal.com/2026/08/07/electricity-capital-not-just-commodity-rethinking-nepals-electricity-strategy-era-surplus-power/",
+          "source": "spotlightnepal.com",
+          "pubDate": "2026-08-07T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power"
+        },
+        {
+          "title": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams",
+          "link": "https://www.tanzanianewsreports.com/egypt-declares-strong-opposition-to-new-ethiopian-nile-dams/",
+          "source": "tanzanianewsreports.com",
+          "pubDate": "2026-08-06T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams"
+        },
+        {
+          "title": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times",
+          "link": "https://medafricatimes.com/46583-ethiopia-accuses-egypt-of-using-gerd-dispute-to-divert-attention-from-domestic-challenges.html",
+          "source": "medafricatimes.com",
+          "pubDate": "2026-08-06T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times"
+        },
+        {
+          "title": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility",
+          "link": "https://allafrica.com/stories/202608060479.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility"
+        },
+        {
+          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
+          "link": "https://allafrica.com/stories/202608060151.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-06T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
         }
       ]
     }
