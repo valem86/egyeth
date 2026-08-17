@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T09:04:13.977Z",
+  "generatedAt": "2026-08-17T10:51:08.176Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -7,13 +7,31 @@
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Somalia: milizie di Laftagareen rivendicano il controllo di Baidoa dopo gli scontri di oggi (2)",
-          "link": "https://www.agenzianova.com/a/6a82cdb5d96e21.83680485/7703261/2026-08-17/somalia-milizie-di-laftagareen-rivendicano-il-controllo-di-baidoa-dopo-gli-scontri-di-oggi-2",
-          "description": "17 ago 10:50 - (Agenzia Nova) - Le autorita' militari del governo federale hanno fornito invece una ricostruzione diversa. Secondo i funzionari... (Suk)",
-          "pubDate": "2026-08-17T10:50:42+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Somalia: milizie di Laftagareen rivendicano il controllo di Baidoa dopo gli scontri di oggi (2)"
+          "title": "Gulf war fallout: Somali households pay the price of trade disruption",
+          "link": "https://www.thenewhumanitarian.org/news-feature/2026/08/17/gulf-war-fallout-somali-households-pay-price-trade-disruption",
+          "description": "The closure of the Strait of Hormuz is hurting Somalia’s import-dependent economy.",
+          "pubDate": "Mon, 17 Aug 26 10:30:55 +0000",
+          "source": "The New Humanitarian",
+          "lang": "en",
+          "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
+        },
+        {
+          "title": "Somalia: Somali Military Denies Laftagareen Forces Have Captured Baidoa",
+          "link": "https://allafrica.com/stories/202608170297.html",
+          "description": "[Shabelle] Baidoa -- Somalia's military has denied claims by forces loyal to former South West State president Abdiaziz Hassan Mohamed Laftagareen that they had taken control of Baidoa following heavy fighting in the city on Monday.",
+          "pubDate": "Mon, 17 Aug 2026 10:22:45 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somali Military Denies Laftagareen Forces Have Captured Baidoa"
+        },
+        {
+          "title": "Somalia: Somali President Tells AU Peacekeepers to Leave",
+          "link": "https://allafrica.com/stories/202608170274.html",
+          "description": "[Nile Post] Somali President Hassan Sheikh Mohamud has said his country is now capable of taking full responsibility for its security, calling for African Union peacekeepers to leave Somalia after nearly two decades of fighting Al-Shabaab militants.",
+          "pubDate": "Mon, 17 Aug 2026 10:09:43 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somali President Tells AU Peacekeepers to Leave"
         },
         {
           "title": "China and Egypt launch second joint air force exercise",
@@ -32,15 +50,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Turkey urges Egypt to join its defence pact with Saudi Arabia and Pakistan"
-        },
-        {
-          "title": "Somalia and Italy Together for Fisheries and the Blue Economy",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/12/somalia-and-italy-together-for-fisheries-and-the-blue-economy_1865aa60-d732-41b4-b323-3a976dae254a.html",
-          "description": "(ANSA) - NAIROBI, 12 AGO - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with the Minister of Fisheries and the Blue Economy, Ahmed Hassan Adan, to receive an update on ongoing programs and exchange views on the prospects for a greater Italian presence in the sector. The Somali minister thanked Italy for funding the cooperation project aimed at strengthening the fisheries supply chain in the city of Bosaso (Puntland), expressing the hope that this initiative could be replicated in other locations across Somalia to contribute to the development of coastal communities. Minister ",
-          "pubDate": "Wed, 12 Aug 2026 10:09:15 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Somalia and Italy Together for Fisheries and the Blue Economy"
         },
         {
           "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
@@ -66,6 +75,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Gulf war fallout: Somali households pay the price of trade disruption",
+          "link": "https://www.thenewhumanitarian.org/news-feature/2026/08/17/gulf-war-fallout-somali-households-pay-price-trade-disruption",
+          "description": "The closure of the Strait of Hormuz is hurting Somalia’s import-dependent economy.",
+          "pubDate": "Mon, 17 Aug 26 10:30:55 +0000",
+          "source": "The New Humanitarian",
+          "lang": "en",
+          "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
+        },
+        {
           "title": "Worries grow over mysterious illness killing Kenyan elephants",
           "link": "http://www.africanews.com/2026/08/14/worries-grow-over-mysterious-illness-killing-kenyan-elephants/",
           "description": "Worries over the death of elephants are mounting in southern Kenya, where at least 19 animals have died since June from an unexplained condition. With symptoms including partial paralysis, conservationists and communities are demanding urgent investigations into what is killing the elephants.",
@@ -89,6 +107,15 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Gulf war fallout: Somali households pay the price of trade disruption",
+          "link": "https://www.thenewhumanitarian.org/news-feature/2026/08/17/gulf-war-fallout-somali-households-pay-price-trade-disruption",
+          "description": "The closure of the Strait of Hormuz is hurting Somalia’s import-dependent economy.",
+          "pubDate": "Mon, 17 Aug 26 10:30:55 +0000",
+          "source": "The New Humanitarian",
+          "lang": "en",
+          "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
+        },
+        {
           "title": "UN calls for negotiations to end the conflict in Mozambique",
           "link": "http://www.africanews.com/2026/08/15/un-calls-for-negotiations-to-end-the-conflict-in-mozambique/",
           "description": "A military victory over jihadist insurgents in Mozambique's Cabo Delgado province does not appear imminent, according to a report by a United Nations special rapporteur released Friday.",
@@ -96,15 +123,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "UN calls for negotiations to end the conflict in Mozambique"
-        },
-        {
-          "title": "Somalia and Italy Together for Fisheries and the Blue Economy",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/12/somalia-and-italy-together-for-fisheries-and-the-blue-economy_1865aa60-d732-41b4-b323-3a976dae254a.html",
-          "description": "(ANSA) - NAIROBI, 12 AGO - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with the Minister of Fisheries and the Blue Economy, Ahmed Hassan Adan, to receive an update on ongoing programs and exchange views on the prospects for a greater Italian presence in the sector. The Somali minister thanked Italy for funding the cooperation project aimed at strengthening the fisheries supply chain in the city of Bosaso (Puntland), expressing the hope that this initiative could be replicated in other locations across Somalia to contribute to the development of coastal communities. Minister ",
-          "pubDate": "Wed, 12 Aug 2026 10:09:15 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Somalia and Italy Together for Fisheries and the Blue Economy"
         },
         {
           "title": "Real Madrid sign Diomande in deal worth up to £120m",
@@ -128,201 +146,11 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Somalia : U . S . Diplomat Ruth Anne Stevens - Klitz Takes Up Deputy Chief of Mission Role in Somalia",
-          "link": "https://allafrica.com/stories/202608170102.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-17T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : U . S . Diplomat Ruth Anne Stevens - Klitz Takes Up Deputy Chief of Mission Role in Somalia"
-        },
-        {
-          "title": "AP News in Brief at 12 : 04 a . m . EDT",
-          "link": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-12-04-a-m-edt/article_1612b0b7-f97b-51d9-b954-57a4d155dd47.html",
-          "source": "idahostatejournal.com",
-          "pubDate": "2026-08-17T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AP News in Brief at 12 : 04 a . m . EDT"
-        },
-        {
-          "title": "Nigeria : Premium Times Journalist , Five Others Selected for Unccd COP17 Media Fellowship in Mongolia",
-          "link": "https://allafrica.com/stories/202608170120.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-17T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nigeria : Premium Times Journalist , Five Others Selected for Unccd COP17 Media Fellowship in Mongolia"
-        },
-        {
-          "title": "AP News in Brief at 12 : 04 a . m . EDT",
-          "link": "http://www.hngnews.com/nation_world/ap-news-in-brief-at-12-04-a-m-edt/article_4a870b8f-7b87-59b4-8a91-56a2b474dd24.html",
-          "source": "hngnews.com",
-          "pubDate": "2026-08-17T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AP News in Brief at 12 : 04 a . m . EDT"
-        },
-        {
-          "title": "Kushner to meet Netanyahu after talks with Hamas on Gaza plan",
-          "link": "https://www.al-monitor.com/originals/2026/08/kushner-meet-netanyahu-after-talks-hamas-gaza-plan",
-          "source": "al-monitor.com",
-          "pubDate": "2026-08-17T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kushner to meet Netanyahu after talks with Hamas on Gaza plan"
-        },
-        {
-          "title": "Kushner to meet Netanyahu after talks with Hamas on Gaza plan",
-          "link": "https://arynews.tv/kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
-          "source": "arynews.tv",
-          "pubDate": "2026-08-17T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kushner to meet Netanyahu after talks with Hamas on Gaza plan"
-        },
-        {
-          "title": "Trump Welcomes Saudi , Turkey , Pakistan Defense Pact",
-          "link": "http://www.chinanationalnews.com/news/279245809/trump-welcomes-saudi-turkey-pakistan-defense-pact",
-          "source": "chinanationalnews.com",
-          "pubDate": "2026-08-17T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Welcomes Saudi , Turkey , Pakistan Defense Pact"
-        },
-        {
-          "title": "Kushner to meet Netanyahu after talks with Hamas on Gaza plan",
-          "link": "https://www.arabnews.com/node/2654932/middle-east",
-          "source": "arabnews.com",
-          "pubDate": "2026-08-17T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kushner to meet Netanyahu after talks with Hamas on Gaza plan"
-        },
-        {
-          "title": "Morning Briefing : Aug . 17 , 2026",
-          "link": "https://aa.com.tr/en/world/morning-briefing-aug-17-2026/4029047",
-          "source": "aa.com.tr",
-          "pubDate": "2026-08-17T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Morning Briefing : Aug . 17 , 2026"
-        },
-        {
-          "title": "AP News in Brief at 12 : 04 a . m . EDT – Winnipeg Free Press",
-          "link": "https://www.winnipegfreepress.com/world/2026/08/16/ap-news-in-brief-at-1204-a-m-edt-953",
-          "source": "winnipegfreepress.com",
-          "pubDate": "2026-08-17T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AP News in Brief at 12 : 04 a . m . EDT – Winnipeg Free Press"
-        },
-        {
-          "title": "Trotsky <em>My Life< / em> : An imperishable contribution to Marxism and world literature",
-          "link": "https://www.wsws.org/en/articles/2026/08/17/axpj-a17.html",
-          "source": "wsws.org",
-          "pubDate": "2026-08-17T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trotsky <em>My Life< / em> : An imperishable contribution to Marxism and world literature"
-        },
-        {
-          "title": "Explained : Saudi Arabia , Turkey and Pakistan Makkah Pact , a safety net with no strings attached – Asia News Network",
-          "link": "https://asianews.network/explained-saudi-arabia-turkey-and-pakistans-makkah-pact-a-safety-net-with-no-strings-attached/",
-          "source": "asianews.network",
-          "pubDate": "2026-08-17T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Explained : Saudi Arabia , Turkey and Pakistan Makkah Pact , a safety net with no strings attached – Asia News Network"
-        },
-        {
-          "title": "AP News in Brief at 12 : 04 a . m . EDT",
-          "link": "http://www.thegazette.com/news/national/ap-news-in-brief-at-12-04-a-m-edt/article_75db3c7b-7d51-572d-8f44-580111326ae9.html",
-          "source": "thegazette.com",
-          "pubDate": "2026-08-17T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AP News in Brief at 12 : 04 a . m . EDT"
-        },
-        {
-          "title": "AP News in Brief at 12 : 04 a . m . EDT",
-          "link": "http://www.wdtimes.com/news/national/ap-news-in-brief-at-12-04-a-m-edt/article_4be9acf2-706b-5b25-8240-befc81ff9a8f.html",
-          "source": "wdtimes.com",
-          "pubDate": "2026-08-17T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AP News in Brief at 12 : 04 a . m . EDT"
-        },
-        {
-          "title": "Kushner to meet Netanyahu after talks with Hamas on Gaza plan",
-          "link": "https://www.bssnews.net/international/415311",
-          "source": "bssnews.net",
-          "pubDate": "2026-08-17T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kushner to meet Netanyahu after talks with Hamas on Gaza plan"
-        },
-        {
-          "title": "Trump Welcomes Saudi , Turkey , Pakistan Defense Pact",
-          "link": "http://www.beijingbulletin.com/news/279245809/trump-welcomes-saudi-turkey-pakistan-defense-pact",
-          "source": "beijingbulletin.com",
-          "pubDate": "2026-08-17T04:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump Welcomes Saudi , Turkey , Pakistan Defense Pact"
-        },
-        {
-          "title": "AP News in Brief at 11 : 04 p . m . EDT",
-          "link": "https://santamariatimes.com/ap/national/ap-news-in-brief-at-11-04-p-m-edt/article_71bd5c9f-e246-50b8-88ab-3bf920de4e53.html",
-          "source": "santamariatimes.com",
-          "pubDate": "2026-08-17T03:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AP News in Brief at 11 : 04 p . m . EDT"
-        },
-        {
-          "title": "Kushner meets with Hamas in push to revive Gaza plan - Middle East and Africa",
-          "link": "http://www.thejakartapost.com/world/2026/08/17/kushner-meets-with-hamas-in-push-to-revive-gaza-plan",
-          "source": "thejakartapost.com",
-          "pubDate": "2026-08-17T03:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kushner meets with Hamas in push to revive Gaza plan - Middle East and Africa"
-        },
-        {
-          "title": "US - Israeli war on Iran : Wetin be Nigeria own ? - Blueprint Newspapers Limited",
-          "link": "https://blueprint.ng/us-israeli-war-on-iran-wetin-be-nigerias-own/",
-          "source": "blueprint.ng",
-          "pubDate": "2026-08-17T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US - Israeli war on Iran : Wetin be Nigeria own ? - Blueprint Newspapers Limited"
-        },
-        {
-          "title": "People have the right to choose their leaders : Zuma",
-          "link": "https://www.sanews.gov.za/africa/people-have-right-choose-their-leaders-zuma",
-          "source": "sanews.gov.za",
-          "pubDate": "2026-08-17T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "People have the right to choose their leaders : Zuma"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Zambia: Catholic Bishops Demand Transparency as Vote Counting Continues",
-          "link": "https://allafrica.com/stories/202608170155.html",
-          "description": "[Nile Post] The Zambia Conference of Catholic Bishops (ZCCB) has demanded greater transparency in the tallying of Zambia's August 13 general election, warning that delays and disputed handling of ballot materials could undermine public confidence in the outcome.",
-          "pubDate": "Mon, 17 Aug 2026 06:40:07 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Zambia: Catholic Bishops Demand Transparency as Vote Counting Continues"
-        },
         {
           "title": "Sudan: Young Sudanese Call for 'Inclusive Dialogue to Address Roots of War, Put Justice and Peace First'",
           "link": "https://allafrica.com/stories/202608160008.html",
