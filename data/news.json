@@ -1,74 +1,11 @@
 {
-  "generatedAt": "2026-08-17T16:49:17.305Z",
+  "generatedAt": "2026-08-17T19:01:07.511Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (7)",
-          "link": "https://www.agenzianova.com/a/6a833affbcfe22.01564371/7704603/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane-7",
-          "description": "17 ago 18:23 - (Agenzia Nova) - \"L'Egitto deve affrontare sfide enormi, ma, nonostante cio', offre opportunita' molto promettenti grazie alla... (Res)",
-          "pubDate": "2026-08-17T18:23:48+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (7)"
-        },
-        {
-          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (6)",
-          "link": "https://www.agenzianova.com/a/6a833affbd21a8.96880544/7704602/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane-6",
-          "description": "17 ago 18:23 - (Agenzia Nova) - Secondo Farouk \"esistono ancora grandi opportunita' per le imprese del settore privato italiano che intendano... (Res)",
-          "pubDate": "2026-08-17T18:23:48+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (6)"
-        },
-        {
-          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (5)",
-          "link": "https://www.agenzianova.com/a/6a833affbd41d2.80699768/7704601/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane-5",
-          "description": "17 ago 18:23 - (Agenzia Nova) - Farouk ha sottolineato che \"l'Unione europea, e l'Italia in particolare, e' tra i principali partner commerciali... (Res)",
-          "pubDate": "2026-08-17T18:23:48+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (5)"
-        },
-        {
-          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (4)",
-          "link": "https://www.agenzianova.com/a/6a833affbd65f7.58499119/7704600/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane-4",
-          "description": "17 ago 18:23 - (Agenzia Nova) - Farouk ha ricordato durante l'intervista che la strategia del ministero dell'Agricoltura e della Bonifica fondiaria... (Res)",
-          "pubDate": "2026-08-17T18:23:48+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (4)"
-        },
-        {
-          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (3)",
-          "link": "https://www.agenzianova.com/a/6a833affbd8973.88712699/7704599/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane-3",
-          "description": "17 ago 18:23 - (Agenzia Nova) - Secondo il ministro, il programma di conversione del debito italiano \"rappresenta un modello di successo per... (Res)",
-          "pubDate": "2026-08-17T18:23:48+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (3)"
-        },
-        {
-          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (2)",
-          "link": "https://www.agenzianova.com/a/6a833affbda953.80622857/7704598/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane-2",
-          "description": "17 ago 18:23 - (Agenzia Nova) - Il ministro egiziano ha sottolineato che si sta lavorando \"alla realizzazione di un sistema di trasformazione... (Res)",
-          "pubDate": "2026-08-17T18:23:48+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (2)"
-        },
-        {
-          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\"",
-          "link": "https://www.agenzianova.com/a/6a833affbdcb15.54518894/7704597/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane",
-          "description": "17 ago 18:23 - (Agenzia Nova) - In Egitto \"esistono ancora grandi opportunita' per le imprese private italiane che intendano ampliare gli investimenti... (Res)",
-          "pubDate": "2026-08-17T18:23:48+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\""
-        },
         {
           "title": "Kushner seeks to revive Gaza peace as Netanyahu resists Hamas disarmament",
           "link": "http://www.africanews.com/2026/08/17/kushner-seeks-to-revive-gaza-peace-as-netanyahu-resists-hamas-disarmament/",
@@ -201,6 +138,60 @@
           "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
         },
         {
+          "title": "India is losing West Asia , but it is not too late",
+          "link": "https://www.thehindu.com/opinion/op-ed/india-is-losing-west-asia-but-it-is-not-too-late/article71353405.ece",
+          "source": "thehindu.com",
+          "pubDate": "2026-08-16T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India is losing West Asia , but it is not too late"
+        },
+        {
+          "title": "Is Sudan Bloody War Reaching a Tipping Point ?",
+          "link": "https://www.fairobserver.com/region/middle_east_north_africa/is-sudans-bloody-war-reaching-a-tipping-point/",
+          "source": "fairobserver.com",
+          "pubDate": "2026-08-16T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Is Sudan Bloody War Reaching a Tipping Point ?"
+        },
+        {
+          "title": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact",
+          "link": "https://www.middleeasteye.net/news/emirati-academics-barbed-tweet-pakistan-exposes-uae-unease-over-mecca-pact",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-16T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact"
+        },
+        {
+          "title": "The Saudi – Turkish – Pakistani Security Agreement : A Preliminary Assessment",
+          "link": "https://www.middleeastmonitor.com/20260815-the-saudi-turkish-pakistani-security-agreement-a-preliminary-assessment/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-08-15T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Saudi – Turkish – Pakistani Security Agreement : A Preliminary Assessment"
+        },
+        {
+          "title": "The Makkah Joint Defence Agreement , Gulf Dynamics , And The Horn Of Africa",
+          "link": "https://www.thereporterethiopia.com/52268/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-15T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Makkah Joint Defence Agreement , Gulf Dynamics , And The Horn Of Africa"
+        },
+        {
+          "title": "Somaliland , AFRICOM Hold Talks on Maritime Security and Defense Cooperation",
+          "link": "https://wardheernews.com/somaliland-africom-hold-talks-on-maritime-security-and-defense-cooperation/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-14T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland , AFRICOM Hold Talks on Maritime Security and Defense Cooperation"
+        },
+        {
           "title": "Worries grow over mysterious illness killing Kenyan elephants",
           "link": "http://www.africanews.com/2026/08/14/worries-grow-over-mysterious-illness-killing-kenyan-elephants/",
           "description": "Worries over the death of elephants are mounting in southern Kenya, where at least 19 animals have died since June from an unexplained condition. With symptoms including partial paralysis, conservationists and communities are demanding urgent investigations into what is killing the elephants.",
@@ -210,13 +201,76 @@
           "titleIt": "Worries grow over mysterious illness killing Kenyan elephants"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "How the Mecca Agreement aims to manage US separation from Middle East",
+          "link": "https://www.chinatechnews.com/2026/08/14/127304-how-the-mecca-agreement-aims-to-manage-us-separation-from-middle-east",
+          "source": "chinatechnews.com",
+          "pubDate": "2026-08-13T23:00:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "How the Mecca Agreement aims to manage US separation from Middle East"
+        },
+        {
+          "title": "How Riyadh lost the war in Yemen long before the Red Sea blew up",
+          "link": "http://www.jpost.com/opinion/article-905397",
+          "source": "jpost.com",
+          "pubDate": "2026-08-13T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How Riyadh lost the war in Yemen long before the Red Sea blew up"
+        },
+        {
+          "title": "Africa : Houthi Red Sea Threat Puts Somaliland in Focus As Analysts See Possible U . S . Strategy Shift",
+          "link": "https://allafrica.com/stories/202608130200.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-13T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Houthi Red Sea Threat Puts Somaliland in Focus As Analysts See Possible U . S . Strategy Shift"
+        },
+        {
+          "title": "The Mecca Pact : The Unfinished Asabiyyah of a World in Search of Power",
+          "link": "https://countercurrents.org/2026/08/the-mecca-pact-the-unfinished-asabiyyah-of-a-world-in-search-of-power/",
+          "source": "countercurrents.org",
+          "pubDate": "2026-08-13T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Mecca Pact : The Unfinished Asabiyyah of a World in Search of Power"
+        },
+        {
+          "title": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي",
+          "link": "https://www.okaz.com.sa/articles/na/2261085",
+          "source": "okaz.com.sa",
+          "pubDate": "2026-08-12T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي"
+        },
+        {
+          "title": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit",
+          "link": "https://www.whmi.com/news/fox/iran-backed-houthi-threat-red-sea-could-lead-major-us-policy-shift-analysts-say",
+          "source": "whmi.com",
+          "pubDate": "2026-08-12T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit"
+        },
+        {
+          "title": "Saudi Arabia doubles down on its failed Yemen strategy",
+          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/saudi-arabia-doubles-down-on-its-failed-yemen-strategy",
+          "source": "jns.org",
+          "pubDate": "2026-08-12T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia doubles down on its failed Yemen strategy"
+        },
+        {
+          "title": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say",
+          "link": "https://www.middleeasteye.net/news/saudi-arabia-opposed-egypts-inclusion-mecca-agreement-sources-say",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-11T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say"
         }
       ]
     },
@@ -281,188 +335,7 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (5)",
-          "link": "https://www.agenzianova.com/a/6a833affbd41d2.80699768/7704601/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane-5",
-          "description": "17 ago 18:23 - (Agenzia Nova) - Farouk ha sottolineato che \"l'Unione europea, e l'Italia in particolare, e' tra i principali partner commerciali... (Res)",
-          "pubDate": "2026-08-17T18:23:48+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (5)"
-        },
-        {
-          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (3)",
-          "link": "https://www.agenzianova.com/a/6a833affbd8973.88712699/7704599/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane-3",
-          "description": "17 ago 18:23 - (Agenzia Nova) - Secondo il ministro, il programma di conversione del debito italiano \"rappresenta un modello di successo per... (Res)",
-          "pubDate": "2026-08-17T18:23:48+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\" (3)"
-        },
-        {
-          "title": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\"",
-          "link": "https://www.agenzianova.com/a/6a833affbdcb15.54518894/7704597/2026-08-17/egitto-ministro-agricoltura-grandi-opportunita-per-le-imprese-private-italiane",
-          "description": "17 ago 18:23 - (Agenzia Nova) - In Egitto \"esistono ancora grandi opportunita' per le imprese private italiane che intendano ampliare gli investimenti... (Res)",
-          "pubDate": "2026-08-17T18:23:48+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: ministro Agricoltura, \"grandi opportunita' per le imprese private italiane\""
-        },
-        {
-          "title": "New discoveries strengthen hypothesis linking Egyptian site to ancient Masn",
-          "link": "https://sana.sy/en/miscellaneous/2336953/",
-          "source": "sana.sy",
-          "pubDate": "2026-08-17T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "New discoveries strengthen hypothesis linking Egyptian site to ancient Masn"
-        },
-        {
-          "title": "Africa Business Heroes Unveils 2026 Top 100 Entrepreneurs",
-          "link": "https://www.howwemadeitinafrica.com/p/africas-business-heroes-unveils-2026",
-          "source": "howwemadeitinafrica.com",
-          "pubDate": "2026-08-17T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa Business Heroes Unveils 2026 Top 100 Entrepreneurs"
-        },
-        {
-          "title": "China Arctic manoeuvre : A measured template for Africa long - term development",
-          "link": "https://www.thestandard.co.zw/standard-people/article/200059405/chinas-arctic-manoeuvre-a-measured-template-for-africas-long-term-development",
-          "source": "thestandard.co.zw",
-          "pubDate": "2026-08-17T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China Arctic manoeuvre : A measured template for Africa long - term development"
-        },
-        {
-          "title": "Stocks primed for a firmer open in quiet newsflow , while Dollar weakens on easing Fed tightening bets - Newsquawk US Market Open",
-          "link": "https://www.zerohedge.com/markets/stocks-primed-firmer-open-quiet-newsflow-while-dollar-weakens-easing-fed-tightening-bets",
-          "source": "zerohedge.com",
-          "pubDate": "2026-08-17T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Stocks primed for a firmer open in quiet newsflow , while Dollar weakens on easing Fed tightening bets - Newsquawk US Market Open"
-        },
-        {
-          "title": "中東風雲錄 -- 開欄文 ： 埃及的加薩重建方案 -- Al Jazeera - 時事論壇",
-          "link": "https://city.udn.com/2976/7247690?raid=7297858",
-          "source": "city.udn.com",
-          "pubDate": "2026-08-17T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "中東風雲錄 -- 開欄文 ： 埃及的加薩重建方案 -- Al Jazeera - 時事論壇"
-        },
-        {
-          "title": "Hormuz Traffic Grinds To Near Halt Again As Talks Stall",
-          "link": "http://www.heraldglobe.com/news/279246654/hormuz-traffic-grinds-to-near-halt-again-as-talks-stall",
-          "source": "heraldglobe.com",
-          "pubDate": "2026-08-17T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Hormuz Traffic Grinds To Near Halt Again As Talks Stall"
-        },
-        {
-          "title": "Futures Rise On Fresh Push Higher In Tech",
-          "link": "https://www.zerohedge.com/markets/futures-rise-fresh-push-higher-tech",
-          "source": "zerohedge.com",
-          "pubDate": "2026-08-17T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Futures Rise On Fresh Push Higher In Tech"
-        },
-        {
-          "title": "Hormuz Traffic Grinds To Near Halt Again As Talks Stall",
-          "link": "http://www.iraqsun.com/news/279246654/hormuz-traffic-grinds-to-near-halt-again-as-talks-stall",
-          "source": "iraqsun.com",
-          "pubDate": "2026-08-17T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Hormuz Traffic Grinds To Near Halt Again As Talks Stall"
-        },
-        {
-          "title": "Iranian Parliamentary Deputy Apologizes To Mahsa Amini Family",
-          "link": "http://www.arabherald.com/news/279246896/iranian-parliamentary-deputy-apologizes-to-mahsa-amini-family",
-          "source": "arabherald.com",
-          "pubDate": "2026-08-17T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iranian Parliamentary Deputy Apologizes To Mahsa Amini Family"
-        },
-        {
-          "title": "Hormuz Traffic Grinds To Near Halt Again As Talks Stall",
-          "link": "http://www.arabherald.com/news/279246654/hormuz-traffic-grinds-to-near-halt-again-as-talks-stall",
-          "source": "arabherald.com",
-          "pubDate": "2026-08-17T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Hormuz Traffic Grinds To Near Halt Again As Talks Stall"
-        },
-        {
-          "title": "Foreign envoys praise Indonesia as nation marks 81 years of freedom",
-          "link": "https://en.antaranews.com/news/427409/foreign-envoys-praise-indonesia-as-nation-marks-81-years-of-freedom",
-          "source": "en.antaranews.com",
-          "pubDate": "2026-08-17T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Foreign envoys praise Indonesia as nation marks 81 years of freedom"
-        },
-        {
-          "title": "Hormuz Traffic Grinds To Near Halt Again As Talks Stall",
-          "link": "http://www.southeastasiapost.com/news/279246654/hormuz-traffic-grinds-to-near-halt-again-as-talks-stall",
-          "source": "southeastasiapost.com",
-          "pubDate": "2026-08-17T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Hormuz Traffic Grinds To Near Halt Again As Talks Stall"
-        },
-        {
-          "title": "War in Lebanon Escalates | Rigzone",
-          "link": "https://www.rigzone.com/news/wire/war_in_lebanon_escalates-17-aug-2026-184384-article/",
-          "source": "rigzone.com",
-          "pubDate": "2026-08-17T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "War in Lebanon Escalates | Rigzone"
-        },
-        {
-          "title": "Houthi attacks on shipping return to Red Sea as multiple seafarers killed",
-          "link": "https://defenceweb.co.za/sea/sea-sea/houthi-attacks-on-shipping-return-to-red-sea-as-multiple-seafarers-killed/",
-          "source": "defenceweb.co.za",
-          "pubDate": "2026-08-17T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Houthi attacks on shipping return to Red Sea as multiple seafarers killed"
-        },
-        {
-          "title": "Hormuz Traffic Grinds To Near Halt Again As Talks Stall",
-          "link": "http://www.israelherald.com/news/279246654/hormuz-traffic-grinds-to-near-halt-again-as-talks-stall",
-          "source": "israelherald.com",
-          "pubDate": "2026-08-17T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Hormuz Traffic Grinds To Near Halt Again As Talks Stall"
-        },
-        {
-          "title": "AK Party 25 years : Modernity born of tradition",
-          "link": "https://www.dailysabah.com/opinion/op-ed/ak-partys-25-years-modernity-born-of-tradition",
-          "source": "dailysabah.com",
-          "pubDate": "2026-08-17T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AK Party 25 years : Modernity born of tradition"
-        },
-        {
-          "title": "Europe set to build on gains after a quiet weekend and similar APAC lead - Newsquawk EU Market Open",
-          "link": "https://www.zerohedge.com/markets/europe-set-build-gains-after-quiet-weekend-and-similar-apac-lead-newsquawk-eu-market-open",
-          "source": "zerohedge.com",
-          "pubDate": "2026-08-17T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Europe set to build on gains after a quiet weekend and similar APAC lead - Newsquawk EU Market Open"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
@@ -486,51 +359,6 @@
           "titleIt": "'Emergency' ship rescues migrant boat, 7 dead"
         },
         {
-          "title": "Egypt Warns Ethiopia against Plans to Control Nile River Flows",
-          "link": "https://english.aawsat.com/arab-world/5307849-egypt-warns-ethiopia-against-plans-control-nile-river-flows",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-08-17T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Warns Ethiopia against Plans to Control Nile River Flows"
-        },
-        {
-          "title": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki",
-          "link": "https://www.egyptindependent.com/egypt-supports-development-in-ethiopia-but-not-if-it-harms-downstream-nations-abbas-sharaki/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-08-16T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki"
-        },
-        {
-          "title": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact",
-          "link": "https://www.middleeasteye.net/news/emirati-academics-barbed-tweet-pakistan-exposes-uae-unease-over-mecca-pact",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-16T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact"
-        },
-        {
-          "title": "Governing The Invisible Grid : Ethiopia Missing Biomass Account",
-          "link": "https://www.thereporterethiopia.com/52279/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-15T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Governing The Invisible Grid : Ethiopia Missing Biomass Account"
-        },
-        {
-          "title": "Egypt Aggressive Nile Policy No Longer Serves The Region",
-          "link": "https://www.thereporterethiopia.com/52282/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-15T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Aggressive Nile Policy No Longer Serves The Region"
-        },
-        {
           "title": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet",
           "link": "https://www.thenewhumanitarian.org/cheat-sheet/2026/08/14/rsf-drone-attacks-somalias-drought-emergency-and-wfp-sticks-palantir-cheat",
           "description": "A weekly read to keep you in the loop on humanitarian issues.",
@@ -538,114 +366,6 @@
           "source": "The New Humanitarian",
           "lang": "en",
           "titleIt": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet"
-        },
-        {
-          "title": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say",
-          "link": "https://www.middleeasteye.net/news/saudi-arabia-opposed-egypts-inclusion-mecca-agreement-sources-say",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-11T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say"
-        },
-        {
-          "title": "Liberia : Burrowes Calls for Historical Reckoning",
-          "link": "https://allafrica.com/stories/202608110475.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-11T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Liberia : Burrowes Calls for Historical Reckoning"
-        },
-        {
-          "title": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict",
-          "link": "https://allafrica.com/stories/202608100033.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict"
-        },
-        {
-          "title": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River",
-          "link": "https://allafrica.com/stories/202608100052.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River"
-        },
-        {
-          "title": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus",
-          "link": "https://allafrica.com/stories/202608100053.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus"
-        },
-        {
-          "title": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact",
-          "link": "https://www.ynetnews.com/opinions-analysis/article/rjmp11isifl",
-          "source": "ynetnews.com",
-          "pubDate": "2026-08-09T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact"
-        },
-        {
-          "title": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point",
-          "link": "https://www.thereporterethiopia.com/52198/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-08T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Flashpoint : Military Or Diplomacy ? Horn Of Africa Geopolitical Alliances Reach Tipping Point"
-        },
-        {
-          "title": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power",
-          "link": "https://www.spotlightnepal.com/2026/08/07/electricity-capital-not-just-commodity-rethinking-nepals-electricity-strategy-era-surplus-power/",
-          "source": "spotlightnepal.com",
-          "pubDate": "2026-08-07T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power"
-        },
-        {
-          "title": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams",
-          "link": "https://www.tanzanianewsreports.com/egypt-declares-strong-opposition-to-new-ethiopian-nile-dams/",
-          "source": "tanzanianewsreports.com",
-          "pubDate": "2026-08-06T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams"
-        },
-        {
-          "title": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times",
-          "link": "https://medafricatimes.com/46583-ethiopia-accuses-egypt-of-using-gerd-dispute-to-divert-attention-from-domestic-challenges.html",
-          "source": "medafricatimes.com",
-          "pubDate": "2026-08-06T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia accuses Egypt of using GERD dispute to divert attention from domestic challenges – Medafrica Times"
-        },
-        {
-          "title": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility",
-          "link": "https://allafrica.com/stories/202608060479.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-06T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Historic Rise Is Shattering Cairo Campaign of Hostility"
-        },
-        {
-          "title": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings",
-          "link": "https://allafrica.com/stories/202608060151.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-06T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa : Trump Horn Envoy Rejects  Anti - Ethiopian Alliance  Claims After Cairo Diplomatic Meetings"
         }
       ]
     }
