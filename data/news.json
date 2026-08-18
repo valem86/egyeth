@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-08-18T18:59:50.321Z",
+  "generatedAt": "2026-08-18T20:43:37.698Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Tunisia-Egitto: memorandum d'intesa su cooperazione tecnica sara' firmato a settembre",
-          "link": "https://www.agenzianova.com/a/6a84ab17bcdc78.91575766/7706900/2026-08-18/tunisia-egitto-memorandum-d-intesa-su-cooperazione-tecnica-sara-firmato-a-settembre",
-          "description": "18 ago 19:33 - (Agenzia Nova) - Tunisia ed Egitto firmeranno all'inizio di settembre al Cairo un memorandum d'intesa sulla cooperazione tecnica... (Tut)",
-          "pubDate": "2026-08-18T19:33:43+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Tunisia-Egitto: memorandum d'intesa su cooperazione tecnica sara' firmato a settembre"
-        },
         {
           "title": "Somalia: Somali Defence Minister Visits Danab Command in Galkayo",
           "link": "https://allafrica.com/stories/202608180622.html",
@@ -50,15 +41,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Somali woman to receive asylum from an evangelical church in Bavaria"
-        },
-        {
-          "title": "Somalia: Pirates Seize Commercial Cargo Ship",
-          "link": "https://allafrica.com/stories/202608180217.html",
-          "description": "[DW] Monitors say eight armed men have taken control of a cargo ship off the coast of Somalia. Renewed pirate activity adds to the problems facing shippers in the Middle East.",
-          "pubDate": "Tue, 18 Aug 2026 08:35:09 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Pirates Seize Commercial Cargo Ship"
         },
         {
           "title": "Kushner seeks to revive Gaza peace as Netanyahu resists Hamas disarmament",
@@ -129,6 +111,33 @@
           "titleIt": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says"
         },
         {
+          "title": "When insurance pays back : Amanah rewards customers through surplus sharing",
+          "link": "https://www.eyeradio.org/when-insurance-pays-back-amanah-rewards-customers-through-surplus-sharing/",
+          "source": "eyeradio.org",
+          "pubDate": "2026-08-18T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "When insurance pays back : Amanah rewards customers through surplus sharing"
+        },
+        {
+          "title": "Regional repercussions , escalation dynamics , and future scenarios in Sudan",
+          "link": "https://aa.com.tr/en/opinion/opinion-regional-repercussions-escalation-dynamics-and-future-scenarios-in-sudan/4030706",
+          "source": "aa.com.tr",
+          "pubDate": "2026-08-18T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Regional repercussions , escalation dynamics , and future scenarios in Sudan"
+        },
+        {
+          "title": "Who owns East Africa Corridors ?",
+          "link": "https://www.independent.co.ug/who-owns-east-africas-trade-corridors/",
+          "source": "independent.co.ug",
+          "pubDate": "2026-08-18T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who owns East Africa Corridors ?"
+        },
+        {
           "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
           "link": "http://www.africanews.com/2026/08/18/ethiopia-authorities-in-tigray-accuse-addis-ababa-of-drone-strike-near-mekelle/",
           "description": "Authorities in Ethiopia's Tigray region have accused the federal government of launching a drone strike near the state capital Mekelle. Tensions between Tigray and Addis Ababa have been mounting in recent weeks, with both parties massing forces on either side of the regional border.",
@@ -136,6 +145,15 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle"
+        },
+        {
+          "title": "UAE issues rare denial of  imperial ambition in Africa",
+          "link": "https://www.middleeasteye.net/news/uae-denies-it-has-imperial-ambitions-africa",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-17T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE issues rare denial of  imperial ambition in Africa"
         },
         {
           "title": "'Emergency' ship rescues migrant boat, 7 dead",
@@ -165,19 +183,118 @@
           "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "India is losing West Asia , but it is not too late",
+          "link": "https://www.thehindu.com/opinion/op-ed/india-is-losing-west-asia-but-it-is-not-too-late/article71353405.ece",
+          "source": "thehindu.com",
+          "pubDate": "2026-08-16T19:00:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "India is losing West Asia , but it is not too late"
+        },
+        {
+          "title": "Is Sudan Bloody War Reaching a Tipping Point ?",
+          "link": "https://www.fairobserver.com/region/middle_east_north_africa/is-sudans-bloody-war-reaching-a-tipping-point/",
+          "source": "fairobserver.com",
+          "pubDate": "2026-08-16T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Is Sudan Bloody War Reaching a Tipping Point ?"
+        },
+        {
+          "title": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact",
+          "link": "https://www.middleeasteye.net/news/emirati-academics-barbed-tweet-pakistan-exposes-uae-unease-over-mecca-pact",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-16T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact"
+        },
+        {
+          "title": "The Saudi – Turkish – Pakistani Security Agreement : A Preliminary Assessment",
+          "link": "https://www.middleeastmonitor.com/20260815-the-saudi-turkish-pakistani-security-agreement-a-preliminary-assessment/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-08-15T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Saudi – Turkish – Pakistani Security Agreement : A Preliminary Assessment"
+        },
+        {
+          "title": "The Makkah Joint Defence Agreement , Gulf Dynamics , And The Horn Of Africa",
+          "link": "https://www.thereporterethiopia.com/52268/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-15T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Makkah Joint Defence Agreement , Gulf Dynamics , And The Horn Of Africa"
+        },
+        {
+          "title": "Somaliland , AFRICOM Hold Talks on Maritime Security and Defense Cooperation",
+          "link": "https://wardheernews.com/somaliland-africom-hold-talks-on-maritime-security-and-defense-cooperation/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-14T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland , AFRICOM Hold Talks on Maritime Security and Defense Cooperation"
+        },
+        {
+          "title": "How the Mecca Agreement aims to manage US separation from Middle East",
+          "link": "https://www.chinatechnews.com/2026/08/14/127304-how-the-mecca-agreement-aims-to-manage-us-separation-from-middle-east",
+          "source": "chinatechnews.com",
+          "pubDate": "2026-08-13T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How the Mecca Agreement aims to manage US separation from Middle East"
+        },
+        {
+          "title": "How Riyadh lost the war in Yemen long before the Red Sea blew up",
+          "link": "http://www.jpost.com/opinion/article-905397",
+          "source": "jpost.com",
+          "pubDate": "2026-08-13T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How Riyadh lost the war in Yemen long before the Red Sea blew up"
+        },
+        {
+          "title": "Africa : Houthi Red Sea Threat Puts Somaliland in Focus As Analysts See Possible U . S . Strategy Shift",
+          "link": "https://allafrica.com/stories/202608130200.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-13T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Houthi Red Sea Threat Puts Somaliland in Focus As Analysts See Possible U . S . Strategy Shift"
+        },
+        {
+          "title": "The Mecca Pact : The Unfinished Asabiyyah of a World in Search of Power",
+          "link": "https://countercurrents.org/2026/08/the-mecca-pact-the-unfinished-asabiyyah-of-a-world-in-search-of-power/",
+          "source": "countercurrents.org",
+          "pubDate": "2026-08-13T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Mecca Pact : The Unfinished Asabiyyah of a World in Search of Power"
+        },
+        {
+          "title": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي",
+          "link": "https://www.okaz.com.sa/articles/na/2261085",
+          "source": "okaz.com.sa",
+          "pubDate": "2026-08-12T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "COMESA and ECA convene second consultative workshop on regional sustainable tourism framework | United Nations Economic Commission for Africa",
+          "link": "https://www.uneca.org/stories/comesa-and-eca-convene-second-consultative-workshop-on-regional-sustainable-tourism",
+          "source": "uneca.org",
+          "pubDate": "2026-08-18T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "COMESA and ECA convene second consultative workshop on regional sustainable tourism framework | United Nations Economic Commission for Africa"
+        },
         {
           "title": "Liberia: Fact Check - Liberian Youth and Sports Minister Correct About Hospitality Center Funding Source, but Incorrect About Total Negotiations",
           "link": "https://allafrica.com/stories/202608180635.html",
@@ -188,6 +305,24 @@
           "titleIt": "Liberia: Fact Check - Liberian Youth and Sports Minister Correct About Hospitality Center Funding Source, but Incorrect About Total Negotiations"
         },
         {
+          "title": "Regional repercussions , escalation dynamics , and future scenarios in Sudan",
+          "link": "https://aa.com.tr/en/opinion/opinion-regional-repercussions-escalation-dynamics-and-future-scenarios-in-sudan/4030706",
+          "source": "aa.com.tr",
+          "pubDate": "2026-08-18T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Regional repercussions , escalation dynamics , and future scenarios in Sudan"
+        },
+        {
+          "title": "Who owns East Africa Corridors ?",
+          "link": "https://www.independent.co.ug/who-owns-east-africas-trade-corridors/",
+          "source": "independent.co.ug",
+          "pubDate": "2026-08-18T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who owns East Africa Corridors ?"
+        },
+        {
           "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
           "link": "http://www.africanews.com/2026/08/18/ethiopia-authorities-in-tigray-accuse-addis-ababa-of-drone-strike-near-mekelle/",
           "description": "Authorities in Ethiopia's Tigray region have accused the federal government of launching a drone strike near the state capital Mekelle. Tensions between Tigray and Addis Ababa have been mounting in recent weeks, with both parties massing forces on either side of the regional border.",
@@ -197,13 +332,49 @@
           "titleIt": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle"
         },
         {
-          "title": "Somalia: Pirates Seize Commercial Cargo Ship",
-          "link": "https://allafrica.com/stories/202608180217.html",
-          "description": "[DW] Monitors say eight armed men have taken control of a cargo ship off the coast of Somalia. Renewed pirate activity adds to the problems facing shippers in the Middle East.",
-          "pubDate": "Tue, 18 Aug 2026 08:35:09 GMT",
-          "source": "AllAfrica",
+          "title": "Tanzania Chairs Regional Labour Migration Committee",
+          "link": "https://allafrica.com/stories/202608180115.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-18T06:30:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Pirates Seize Commercial Cargo Ship"
+          "description": "",
+          "titleIt": "Tanzania Chairs Regional Labour Migration Committee"
+        },
+        {
+          "title": "DCOC States Agree On Combined Anti - Piracy Task Force",
+          "link": "https://www.marinelink.com/news/dcoc-states-agree-combined-antipiracy-542179",
+          "source": "marinelink.com",
+          "pubDate": "2026-08-18T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "DCOC States Agree On Combined Anti - Piracy Task Force"
+        },
+        {
+          "title": "Tanzania chairs regional labour migration committee",
+          "link": "https://dailynews.co.tz/tanzania-chairs-regional-labour-migration-committee/",
+          "source": "dailynews.co.tz",
+          "pubDate": "2026-08-17T21:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tanzania chairs regional labour migration committee"
+        },
+        {
+          "title": "UAE issues rare denial of  imperial ambition in Africa",
+          "link": "https://www.middleeasteye.net/news/uae-denies-it-has-imperial-ambitions-africa",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-17T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE issues rare denial of  imperial ambition in Africa"
+        },
+        {
+          "title": "Somali Pirates Board Cargo Ship as Regional States Plan Security Effort",
+          "link": "https://maritime-executive.com/article/somali-pirates-board-cargo-ship-as-regional-states-plan-security-effort",
+          "source": "maritime-executive.com",
+          "pubDate": "2026-08-17T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somali Pirates Board Cargo Ship as Regional States Plan Security Effort"
         },
         {
           "title": "'Emergency' ship rescues migrant boat, 7 dead",
@@ -233,37 +404,254 @@
           "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
         },
         {
-          "title": "UN calls for negotiations to end the conflict in Mozambique",
-          "link": "http://www.africanews.com/2026/08/15/un-calls-for-negotiations-to-end-the-conflict-in-mozambique/",
-          "description": "A military victory over jihadist insurgents in Mozambique's Cabo Delgado province does not appear imminent, according to a report by a United Nations special rapporteur released Friday.",
-          "pubDate": "Sat, 15 Aug 2026 06:21:25 +0000",
-          "source": "Africanews",
+          "title": "Ethiopia New Tourism Destinations Boost Its Appeal to Global Tourists",
+          "link": "https://allafrica.com/stories/202608170100.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-17T06:30:00Z",
           "lang": "en",
-          "titleIt": "UN calls for negotiations to end the conflict in Mozambique"
+          "description": "",
+          "titleIt": "Ethiopia New Tourism Destinations Boost Its Appeal to Global Tourists"
         },
         {
-          "title": "Real Madrid sign Diomande in deal worth up to £120m",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c4g3906pz65o?at_medium=RSS&at_campaign=rss",
-          "description": "Real Madrid sign Ivory Coast international Yan Diomande from German side RB Leipzig for a fee worth up to 140m euros (£120m).",
-          "pubDate": "Thu, 06 Aug 2026 14:58:56 GMT",
-          "source": "BBC Africa",
+          "title": "Ethiopia Counts Coffee At the Wrong End",
+          "link": "https://allafrica.com/stories/202608170063.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-17T06:30:00Z",
           "lang": "en",
-          "titleIt": "Real Madrid sign Diomande in deal worth up to £120m"
+          "description": "",
+          "titleIt": "Ethiopia Counts Coffee At the Wrong End"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Kawempe unveils new jersey - NTV Uganda",
+          "link": "https://ntv.co.ug/news/kawempe-unveils-new-jersey",
+          "source": "ntv.co.ug",
+          "pubDate": "2026-08-17T05:45:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Kawempe unveils new jersey - NTV Uganda"
+        },
+        {
+          "title": "Is Sudan Bloody War Reaching a Tipping Point ?",
+          "link": "https://www.fairobserver.com/region/middle_east_north_africa/is-sudans-bloody-war-reaching-a-tipping-point/",
+          "source": "fairobserver.com",
+          "pubDate": "2026-08-16T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Is Sudan Bloody War Reaching a Tipping Point ?"
+        },
+        {
+          "title": "The Moment the Ghedli Lost Its Soul ( Part II ) – Awate . com",
+          "link": "https://awate.com/the-moment-the-ghedli-lost-its-soul-part-ii/",
+          "source": "awate.com",
+          "pubDate": "2026-08-16T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Moment the Ghedli Lost Its Soul ( Part II ) – Awate . com"
+        },
+        {
+          "title": "Why the world procurement profession body is betting on Kenya",
+          "link": "https://www.standardmedia.co.ke/business/business/article/2001555461/why-the-worlds-procurement-profession-body-is-betting-on-kenya",
+          "source": "standardmedia.co.ke",
+          "pubDate": "2026-08-16T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why the world procurement profession body is betting on Kenya"
+        },
+        {
+          "title": "Africa low - key high - stakes Strait of Hormuz diplomacy",
+          "link": "https://www.dw.com/en/africas-low-key-high-stakes-strait-of-hormuz-diplomacy/a-78376699",
+          "source": "dw.com",
+          "pubDate": "2026-08-16T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa low - key high - stakes Strait of Hormuz diplomacy"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Trump is threatening to bomb Oman , but why ?",
+          "link": "https://www.clickondetroit.com/business/2026/08/18/trump-is-threatening-to-bomb-oman-but-why/",
+          "source": "clickondetroit.com",
+          "pubDate": "2026-08-18T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump is threatening to bomb Oman , but why ?"
+        },
+        {
+          "title": "Trump is threatening to bomb Oman , but why ?",
+          "link": "https://www.denverpost.com/2026/08/18/trump-threat-to-bomb-oman-explained/",
+          "source": "denverpost.com",
+          "pubDate": "2026-08-18T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump is threatening to bomb Oman , but why ?"
+        },
+        {
+          "title": "Trump is threatening to bomb Oman , but why ?",
+          "link": "https://www.orlandosentinel.com/2026/08/18/trump-threat-to-bomb-oman-explained/",
+          "source": "orlandosentinel.com",
+          "pubDate": "2026-08-18T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump is threatening to bomb Oman , but why ?"
+        },
+        {
+          "title": "Trump is threatening to bomb Oman , but why ?",
+          "link": "https://www.dailypress.com/2026/08/18/trump-threat-to-bomb-oman-explained/",
+          "source": "dailypress.com",
+          "pubDate": "2026-08-18T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump is threatening to bomb Oman , but why ?"
+        },
+        {
+          "title": "Trump is threatening to bomb Oman , but why ?",
+          "link": "https://abcnews.com/Business/wireStory/trump-threatening-bomb-oman-135745050",
+          "source": "abcnews.com",
+          "pubDate": "2026-08-18T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump is threatening to bomb Oman , but why ?"
+        },
+        {
+          "title": "New Resident Evil , Giant Snake Flick Beware Boíuna Headed to Fantastic Fest • The Austin Chronicle",
+          "link": "https://www.austinchronicle.com/screens/film-news/new-resident-evil-giant-snake-flick-beware-boiuna-headed-to-fantastic-fest/",
+          "source": "austinchronicle.com",
+          "pubDate": "2026-08-18T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "New Resident Evil , Giant Snake Flick Beware Boíuna Headed to Fantastic Fest • The Austin Chronicle"
+        },
+        {
+          "title": "World Cup Illegal Streaming Hit 174 Billion Views : GCI",
+          "link": "https://www.forbes.com/sites/boazsobrado/2026/08/18/the-world-cups-174-billion-pirate-streams-ran-on-gambling-money/",
+          "source": "forbes.com",
+          "pubDate": "2026-08-18T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "World Cup Illegal Streaming Hit 174 Billion Views : GCI"
+        },
+        {
+          "title": "Trump is threatening to bomb Oman , but why ?",
+          "link": "https://www.mainlinemedianews.com/2026/08/18/trump-threat-to-bomb-oman-explained/",
+          "source": "mainlinemedianews.com",
+          "pubDate": "2026-08-18T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump is threatening to bomb Oman , but why ?"
+        },
+        {
+          "title": "The Latest : Disney sues Trump FCC over broadcast license challenge",
+          "link": "http://www.postregister.com/news/national/the-latest-disney-sues-trumps-fcc-over-broadcast-license-challenge/article_f9c40fb3-49cb-5177-8aea-7d6c03789a06.html",
+          "source": "postregister.com",
+          "pubDate": "2026-08-18T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Disney sues Trump FCC over broadcast license challenge"
+        },
+        {
+          "title": "The Latest : Disney sues Trump FCC over broadcast license challenge",
+          "link": "http://www.thegazette.com/news/national/the-latest-disney-sues-trumps-fcc-over-broadcast-license-challenge/article_115c5e91-ebb4-55dc-9732-fdde968ada81.html",
+          "source": "thegazette.com",
+          "pubDate": "2026-08-18T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Latest : Disney sues Trump FCC over broadcast license challenge"
+        },
+        {
+          "title": "Trump is threatening to bomb Oman , but why ?",
+          "link": "https://www.bostonherald.com/2026/08/18/trump-threat-to-bomb-oman-explained/",
+          "source": "bostonherald.com",
+          "pubDate": "2026-08-18T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump is threatening to bomb Oman , but why ?"
+        },
+        {
+          "title": "Gazans turn to gold as hedge against financial uncertainty",
+          "link": "https://www.africanews.com/2026/08/18/gazans-turn-to-gold-as-hedge-against-financial-uncertainty/",
+          "source": "africanews.com",
+          "pubDate": "2026-08-18T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gazans turn to gold as hedge against financial uncertainty"
+        },
+        {
+          "title": "IHG ( IHG ) Q2 2026 Earnings Call Transcript",
+          "link": "https://www.fool.com/earnings/call-transcripts/2026/08/18/ihg-ihg-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+          "source": "fool.com",
+          "pubDate": "2026-08-18T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "IHG ( IHG ) Q2 2026 Earnings Call Transcript"
+        },
+        {
+          "title": "Trump is threatening to bomb Oman , but why ?",
+          "link": "https://www.clickorlando.com/business/2026/08/18/trump-is-threatening-to-bomb-oman-but-why/",
+          "source": "clickorlando.com",
+          "pubDate": "2026-08-18T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump is threatening to bomb Oman , but why ?"
+        },
+        {
+          "title": "Trump is threatening to bomb Oman , but why ?",
+          "link": "https://www.news4jax.com/business/2026/08/18/trump-is-threatening-to-bomb-oman-but-why/",
+          "source": "news4jax.com",
+          "pubDate": "2026-08-18T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump is threatening to bomb Oman , but why ?"
+        },
+        {
+          "title": "Trump is threatening to bomb Oman , but why ? – Winnipeg Free Press",
+          "link": "https://www.winnipegfreepress.com/world/2026/08/18/trump-is-threatening-to-bomb-oman-but-why",
+          "source": "winnipegfreepress.com",
+          "pubDate": "2026-08-18T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump is threatening to bomb Oman , but why ? – Winnipeg Free Press"
+        },
+        {
+          "title": "Resident Evil ,  Carrie , and More Headline a 2026 Fantastic Fest Lineup to Die For",
+          "link": "https://collider.com/fantastic-fest-2026-lineup-resident-evil-carrie-wild-horse-nine/",
+          "source": "collider.com",
+          "pubDate": "2026-08-18T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Resident Evil ,  Carrie , and More Headline a 2026 Fantastic Fest Lineup to Die For"
+        },
+        {
+          "title": "The door to a new future : Jared Kushner , Hamas , and the chance for peace in Gaza",
+          "link": "https://www.jpost.com/opinion/article-905857",
+          "source": "jpost.com",
+          "pubDate": "2026-08-18T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The door to a new future : Jared Kushner , Hamas , and the chance for peace in Gaza"
+        },
+        {
+          "title": "« زواج النفحة ».. عقد جديد بلا ولي أو توثيق ولا إشهار يشعل غضب المصريين",
+          "link": "https://www.okaz.com.sa/variety/na/2261773",
+          "source": "okaz.com.sa",
+          "pubDate": "2026-08-18T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "« زواج النفحة ».. عقد جديد بلا ولي أو توثيق ولا إشهار يشعل غضب المصريين"
+        },
+        {
+          "title": "COMESA and ECA convene second consultative workshop on regional sustainable tourism framework | United Nations Economic Commission for Africa",
+          "link": "https://www.uneca.org/stories/comesa-and-eca-convene-second-consultative-workshop-on-regional-sustainable-tourism",
+          "source": "uneca.org",
+          "pubDate": "2026-08-18T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "COMESA and ECA convene second consultative workshop on regional sustainable tourism framework | United Nations Economic Commission for Africa"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
