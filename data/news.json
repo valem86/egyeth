@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-18T07:07:58.520Z",
+  "generatedAt": "2026-08-18T08:57:04.730Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Pirates Seize Commercial Cargo Ship",
+          "link": "https://allafrica.com/stories/202608180217.html",
+          "description": "[DW] Monitors say eight armed men have taken control of a cargo ship off the coast of Somalia. Renewed pirate activity adds to the problems facing shippers in the Middle East.",
+          "pubDate": "Tue, 18 Aug 2026 08:35:09 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Pirates Seize Commercial Cargo Ship"
+        },
         {
           "title": "Ethiopia: Fighting Erupts in Somalia's Baidoa Between Federal Forces, Former Southwest President Loyalists",
           "link": "https://allafrica.com/stories/202608180111.html",
@@ -160,6 +169,24 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ceuta: Gamarra (Pp), qui per chiedere ritorno alla normalita', non per creare tensioni",
+          "link": "https://www.agenzianova.com/a/6a841dc3686c30.50804360/7705955/2026-08-18/ceuta-gamarra-pp-qui-per-chiedere-ritorno-alla-normalita-non-per-creare-tensioni",
+          "description": "18 ago 10:43 - (Agenzia Nova) - Il Partito popolare spagnolo (Pp) si reca a Ceuta, citta' spagnola sulla costa africana, per chiedere il ripristino... (Spm)",
+          "pubDate": "2026-08-18T10:43:03+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Ceuta: Gamarra (Pp), qui per chiedere ritorno alla normalita', non per creare tensioni"
+        },
+        {
+          "title": "Somalia: Pirates Seize Commercial Cargo Ship",
+          "link": "https://allafrica.com/stories/202608180217.html",
+          "description": "[DW] Monitors say eight armed men have taken control of a cargo ship off the coast of Somalia. Renewed pirate activity adds to the problems facing shippers in the Middle East.",
+          "pubDate": "Tue, 18 Aug 2026 08:35:09 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Pirates Seize Commercial Cargo Ship"
+        },
         {
           "title": "Ethiopia: Fighting Erupts in Somalia's Baidoa Between Federal Forces, Former Southwest President Loyalists",
           "link": "https://allafrica.com/stories/202608180111.html",
