@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T03:12:04.510Z",
+  "generatedAt": "2026-08-18T04:54:50.481Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -218,7 +218,188 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "AP News in Brief at 12 : 04 a . m . EDT – Winnipeg Free Press",
+          "link": "https://www.winnipegfreepress.com/world/2026/08/17/ap-news-in-brief-at-1204-a-m-edt-954",
+          "source": "winnipegfreepress.com",
+          "pubDate": "2026-08-18T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AP News in Brief at 12 : 04 a . m . EDT – Winnipeg Free Press"
+        },
+        {
+          "title": "Efforts to build world - class destinations for the digital age pay off -- Beijing Review",
+          "link": "http://www.bjreview.com/China/202608/t20260817_800444201.html",
+          "source": "bjreview.com",
+          "pubDate": "2026-08-18T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Efforts to build world - class destinations for the digital age pay off -- Beijing Review"
+        },
+        {
+          "title": "India to host 12th BRICS Environment Minister Meeting in New Delhi today",
+          "link": "https://ianslive.in/india-to-host-12th-brics-environment-ministers-meeting-in-new-delhi--20260818063314",
+          "source": "ianslive.in",
+          "pubDate": "2026-08-18T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India to host 12th BRICS Environment Minister Meeting in New Delhi today"
+        },
+        {
+          "title": "中東風雲錄 -- 開欄文 ： 埃及的加薩重建方案 -- Al Jazeera - 時事論壇",
+          "link": "https://city.udn.com/2976/7247690?raid=7297866",
+          "source": "city.udn.com",
+          "pubDate": "2026-08-18T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "中東風雲錄 -- 開欄文 ： 埃及的加薩重建方案 -- Al Jazeera - 時事論壇"
+        },
+        {
+          "title": "Efforts to build world - class destinations for the digital age pay off -- Beijing Review",
+          "link": "http://www.bjreview.com.cn/China/202608/t20260817_800444201.html",
+          "source": "bjreview.com.cn",
+          "pubDate": "2026-08-18T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Efforts to build world - class destinations for the digital age pay off -- Beijing Review"
+        },
+        {
+          "title": "H World ( HTHT ) Q2 2026 Earnings Call Transcript",
+          "link": "https://www.fool.com/earnings/call-transcripts/2026/08/17/h-world-htht-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+          "source": "fool.com",
+          "pubDate": "2026-08-18T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "H World ( HTHT ) Q2 2026 Earnings Call Transcript"
+        },
+        {
+          "title": "India to host 12th BRICS Environment Minister Meeting in New Delhi today",
+          "link": "https://www.prokerala.com/news/articles/a1801586.html",
+          "source": "prokerala.com",
+          "pubDate": "2026-08-18T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India to host 12th BRICS Environment Minister Meeting in New Delhi today"
+        },
+        {
+          "title": "Chinese , Egyptian companies sign trade deals worth nearly 170 mln USD",
+          "link": "http://www.beijingbulletin.com/news/279248182/chinese-egyptian-companies-sign-trade-deals-worth-nearly-170-mln-usd",
+          "source": "beijingbulletin.com",
+          "pubDate": "2026-08-18T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese , Egyptian companies sign trade deals worth nearly 170 mln USD"
+        },
+        {
+          "title": "Brainwaves : Why is the brain such a mystery ?",
+          "link": "https://www.wbur.org/onpoint/2026/08/17/brainwaves-brain-such-a-mystery",
+          "source": "wbur.org",
+          "pubDate": "2026-08-18T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Brainwaves : Why is the brain such a mystery ?"
+        },
+        {
+          "title": "AP News in Brief at 9 : 04 p . m . EDT",
+          "link": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-9-04-p-m-edt/article_1612b0b7-f97b-51d9-b954-57a4d155dd47.html",
+          "source": "idahostatejournal.com",
+          "pubDate": "2026-08-18T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AP News in Brief at 9 : 04 p . m . EDT"
+        },
+        {
+          "title": "Chinese , Egyptian companies sign trade deals worth nearly 170 mln USD",
+          "link": "http://www.shanghaisun.com/news/279248182/chinese-egyptian-companies-sign-trade-deals-worth-nearly-170-mln-usd",
+          "source": "shanghaisun.com",
+          "pubDate": "2026-08-18T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese , Egyptian companies sign trade deals worth nearly 170 mln USD"
+        },
+        {
+          "title": "Turkey expands Libya influence as Fidan meets eastern leader Haftar",
+          "link": "https://www.jpost.com/middle-east/article-905829",
+          "source": "jpost.com",
+          "pubDate": "2026-08-18T02:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkey expands Libya influence as Fidan meets eastern leader Haftar"
+        },
+        {
+          "title": "U . S . stocks fall across the board as U . S . talks with Iran waver",
+          "link": "http://www.clevelandstar.com/news/279248065/u-s-stocks-fall-across-the-board-as-u-s-talks-with-iran-waver",
+          "source": "clevelandstar.com",
+          "pubDate": "2026-08-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks fall across the board as U . S . talks with Iran waver"
+        },
+        {
+          "title": "U . S . stocks fall across the board as U . S . talks with Iran waver",
+          "link": "http://www.oklahomastar.com/news/279248065/u-s-stocks-fall-across-the-board-as-u-s-talks-with-iran-waver",
+          "source": "oklahomastar.com",
+          "pubDate": "2026-08-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks fall across the board as U . S . talks with Iran waver"
+        },
+        {
+          "title": "U . S . stocks fall across the board as U . S . talks with Iran waver",
+          "link": "http://www.chinanationalnews.com/news/279248065/u-s-stocks-fall-across-the-board-as-u-s-talks-with-iran-waver",
+          "source": "chinanationalnews.com",
+          "pubDate": "2026-08-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks fall across the board as U . S . talks with Iran waver"
+        },
+        {
+          "title": "Chinese , Egyptian companies sign trade deals worth nearly 170 mln USD",
+          "link": "http://www.chinanationalnews.com/news/279248182/chinese-egyptian-companies-sign-trade-deals-worth-nearly-170-mln-usd",
+          "source": "chinanationalnews.com",
+          "pubDate": "2026-08-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese , Egyptian companies sign trade deals worth nearly 170 mln USD"
+        },
+        {
+          "title": "Emerging anti ‑ immigration sentiment in Japan obscures surprising history of strategic engagement with Islam",
+          "link": "https://japantoday.com/category/features/opinions/Emerging-anti%E2%80%91immigration-sentiment-in-Japan-obscures-surprising-history-of-strategic-engagement-with-Islam",
+          "source": "japantoday.com",
+          "pubDate": "2026-08-18T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Emerging anti ‑ immigration sentiment in Japan obscures surprising history of strategic engagement with Islam"
+        },
+        {
+          "title": "U . S . stocks fall across the board as U . S . talks with Iran waver",
+          "link": "http://www.oklahomacitysun.com/news/279248065/u-s-stocks-fall-across-the-board-as-u-s-talks-with-iran-waver",
+          "source": "oklahomacitysun.com",
+          "pubDate": "2026-08-18T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks fall across the board as U . S . talks with Iran waver"
+        },
+        {
+          "title": "H World ( HTHT ) Q2 2026 Earnings Call Transcript",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/h-world-htht-q2-2026-002842048.html",
+          "source": "finance.yahoo.com",
+          "pubDate": "2026-08-18T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "H World ( HTHT ) Q2 2026 Earnings Call Transcript"
+        },
+        {
+          "title": "U . S . stocks fall across the board as U . S . talks with Iran waver",
+          "link": "http://www.newyorkstatesman.com/news/279248065/u-s-stocks-fall-across-the-board-as-u-s-talks-with-iran-waver",
+          "source": "newyorkstatesman.com",
+          "pubDate": "2026-08-18T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks fall across the board as U . S . talks with Iran waver"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
