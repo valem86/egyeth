@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T18:56:00.671Z",
+  "generatedAt": "2026-08-19T20:48:01.798Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -120,6 +120,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya: LSK Probes Kaguchia, Kaluma Over Alleged Inciting Remarks",
+          "link": "https://allafrica.com/stories/202608190604.html",
+          "description": "[Capital FM] Nairobi -- The Law Society of Kenya (LSK) has ordered a review of public remarks attributed to Mukurwe-ini MP John Kaguchia and Homa Bay Town MP Peter Kaluma to establish whether they amount to professional misconduct.",
+          "pubDate": "Wed, 19 Aug 2026 17:00:33 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: LSK Probes Kaguchia, Kaluma Over Alleged Inciting Remarks"
+        },
+        {
           "title": "Kenya helicopter crash kills seven in Samburu, including six tourists",
           "link": "http://www.africanews.com/2026/08/19/kenya-helicopter-crash-kills-seven-in-samburu-including-six-tourists/",
           "description": "Seven people, including six tourists and the pilot, have died after a helicopter came down near Mount Ololokwe in central Kenya, according to air accident officials.",
@@ -131,7 +140,7 @@
         {
           "title": "Trump administration can target Ethiopians for deportation",
           "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&at_campaign=rss",
-          "description": "A judge has cleared the way for the Trump administration to cancel Temporary Protected Status for Ethiopians living in the US.",
+          "description": "Judge Brian Murphy cleared the way for the Trump administration to cancel Temporary Protected Status for Ethiopians living in the US.",
           "pubDate": "Wed, 19 Aug 2026 15:11:19 GMT",
           "source": "BBC Africa",
           "lang": "en",
@@ -233,15 +242,6 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Top 10 African countries with the highest total road coverage in 2026",
-          "link": "https://tribuneonlineng.com/top-10-african-countries-with-the-highest-total-road-coverage-in-2026/",
-          "source": "tribuneonlineng.com",
-          "pubDate": "2026-08-19T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Top 10 African countries with the highest total road coverage in 2026"
-        },
-        {
           "title": "Ethiopia: U.S. Signals Readiness to Resume GERD Mediation As Nile Dispute Persists",
           "link": "https://allafrica.com/stories/202608190601.html",
           "description": "[Addis Standard] Addis Abeba -- The United States is ready to resume mediation between Egypt and Ethiopia over the Grand Ethiopian Renaissance Dam (GERD), a senior adviser to US President Donald Trump has said, signalling a renewed diplomatic effort to resolve the long-running dispute over the use and management of Nile waters.",
@@ -251,40 +251,13 @@
           "titleIt": "Ethiopia: U.S. Signals Readiness to Resume GERD Mediation As Nile Dispute Persists"
         },
         {
-          "title": "East Africa forecasts above - average rainfall amid El Nino",
-          "link": "http://www.kenyastar.com/news/279251549/east-africa-forecasts-above-average-rainfall-amid-el-nino",
-          "source": "kenyastar.com",
-          "pubDate": "2026-08-19T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa forecasts above - average rainfall amid El Nino"
-        },
-        {
-          "title": "Trump administration to soon begin targeting Ethiopians for deportation",
-          "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo",
-          "source": "bbc.co.uk",
-          "pubDate": "2026-08-19T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump administration to soon begin targeting Ethiopians for deportation"
-        },
-        {
           "title": "Trump administration can target Ethiopians for deportation",
           "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&at_campaign=rss",
-          "description": "A judge has cleared the way for the Trump administration to cancel Temporary Protected Status for Ethiopians living in the US.",
+          "description": "Judge Brian Murphy cleared the way for the Trump administration to cancel Temporary Protected Status for Ethiopians living in the US.",
           "pubDate": "Wed, 19 Aug 2026 15:11:19 GMT",
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Trump administration can target Ethiopians for deportation"
-        },
-        {
-          "title": "Ethiopia : EU Rights Report Calls Out Stalled Transitional Justice Process",
-          "link": "https://allafrica.com/stories/202608190457.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-19T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : EU Rights Report Calls Out Stalled Transitional Justice Process"
         },
         {
           "title": "35 migrants land on Lampedusa, 52 in distress 70 miles from island",
@@ -305,33 +278,6 @@
           "titleIt": "35 migrants land on Lampedusa, 52 in distress 70 miles from island"
         },
         {
-          "title": "How degradation and drought are threatening the land that feeds us",
-          "link": "http://www.nigeriasun.com/news/279251383/how-degradation-and-drought-are-threatening-the-land-that-feeds-us",
-          "source": "nigeriasun.com",
-          "pubDate": "2026-08-19T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How degradation and drought are threatening the land that feeds us"
-        },
-        {
-          "title": "East Africa forecasts above - average rainfall amid El Nino - Xinhua",
-          "link": "https://english.news.cn/20260819/6f09a30996be44939779c198cab18108/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-08-19T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa forecasts above - average rainfall amid El Nino - Xinhua"
-        },
-        {
-          "title": "How degradation and drought are threatening the land that feeds us",
-          "link": "http://www.sierraleonetimes.com/news/279251383/how-degradation-and-drought-are-threatening-the-land-that-feeds-us",
-          "source": "sierraleonetimes.com",
-          "pubDate": "2026-08-19T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How degradation and drought are threatening the land that feeds us"
-        },
-        {
           "title": "Liberia agrees to accept up to 1,200 US deportees under Trump migration deal",
           "link": "http://www.africanews.com/2026/08/19/liberia-agrees-to-accept-up-to-1200-us-deportees-under-trump-migration-deal/",
           "description": "Liberia has agreed to accept hundreds of people deported from the United States, in one of the largest such arrangements under the Trump administration’s migration policy. The deportees will arrive over a year, with the first group of 20 expected Thursday.",
@@ -339,15 +285,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Liberia agrees to accept up to 1,200 US deportees under Trump migration deal"
-        },
-        {
-          "title": "Links 8 / 19 / 2026 | naked capitalism",
-          "link": "https://www.nakedcapitalism.com/2026/08/links-8-19-2026.html",
-          "source": "nakedcapitalism.com",
-          "pubDate": "2026-08-19T12:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Links 8 / 19 / 2026 | naked capitalism"
         },
         {
           "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
@@ -359,64 +296,236 @@
           "titleIt": "Liberia agrees to accept 1,200 foreign deportees from the US"
         },
         {
-          "title": "Chinese firms dominate Ethiopia Bishoftu airport shortlist - ch - aviation",
-          "link": "https://www.ch-aviation.com/news/170711-chinese-firms-dominate-ethiopias-bishoftu-airport-shortlist",
-          "source": "ch-aviation.com",
-          "pubDate": "2026-08-19T02:15:00Z",
+          "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
+          "link": "http://www.africanews.com/2026/08/18/ethiopia-authorities-in-tigray-accuse-addis-ababa-of-drone-strike-near-mekelle/",
+          "description": "Authorities in Ethiopia's Tigray region have accused the federal government of launching a drone strike near the state capital Mekelle. Tensions between Tigray and Addis Ababa have been mounting in recent weeks, with both parties massing forces on either side of the regional border.",
+          "pubDate": "Tue, 18 Aug 2026 14:44:00 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Chinese firms dominate Ethiopia Bishoftu airport shortlist - ch - aviation"
+          "titleIt": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle"
         },
         {
-          "title": "Birds of Saudi Arabia : Hamadryas Baboon",
-          "link": "https://www.birdsofsaudiarabia.com/2012/10/hamadryas-baboon-baha.html",
-          "source": "birdsofsaudiarabia.com",
-          "pubDate": "2026-08-19T00:30:00Z",
+          "title": "'Emergency' ship rescues migrant boat, 7 dead",
+          "link": "https://www.ansa.it/english/news/2026/08/17/emergency-ship-rescues-migrant-boat-7-dead_27a533ed-fb5f-4f00-9e9e-ab10bef121c8.html",
+          "description": "(ANSA) - ROME, AUG 17 - Emergency's Life Support rescue ship rescued a boat with about fifty migrants on board Monday morning in international waters in the Libyan SAR zone. Seven migrants died during the crossing, and two are in serious condition due to suffocation, the NGO reports. \"The shipwrecked people,\" Emergency explains, \"reported they departed at dawn on August 16 from Zuwara, and are originally from Somalia and Egypt. A total of 50 people were rescued, 45 men and 5 women. \"There are 29 unaccompanied foreign minors, 26 men and 3 women.\" Emergency is asking \"the competent authorities t",
+          "pubDate": "Mon, 17 Aug 2026 13:48:50 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Birds of Saudi Arabia : Hamadryas Baboon"
+          "titleIt": "'Emergency' ship rescues migrant boat, 7 dead"
         },
         {
-          "title": "Letter to the Editor : What DEI and CRT mean for international students",
-          "link": "https://dailycollegian.com/2026/08/letter-to-the-editor-what-dei-and-crt-mean-for-international-students/",
-          "source": "dailycollegian.com",
-          "pubDate": "2026-08-18T20:45:00Z",
+          "title": "'Emergency' ship rescues migrant boat, 7 dead",
+          "link": "https://www.ansa.it/english/news/general_news/2026/08/17/emergency-ship-rescues-migrant-boat-7-dead_fd019c7c-dfa4-4051-abb9-dba6f779af77.html",
+          "description": "(ANSA) - ROME, AUG 17 - Emergency's Life Support rescue ship rescued a boat with about fifty migrants on board Monday morning in international waters in the Libyan SAR zone. Seven migrants died during the crossing, and two are in serious condition due to suffocation, the NGO reports. \"The shipwrecked people,\" Emergency explains, \"reported they departed at dawn on August 16 from Zuwara, and are originally from Somalia and Egypt. A total of 50 people were rescued, 45 men and 5 women. \"There are 29 unaccompanied foreign minors, 26 men and 3 women.\" Emergency is asking \"the competent authorities t",
+          "pubDate": "Mon, 17 Aug 2026 13:30:57 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Letter to the Editor : What DEI and CRT mean for international students"
+          "titleIt": "'Emergency' ship rescues migrant boat, 7 dead"
         },
         {
-          "title": "COMESA and ECA convene second consultative workshop on regional sustainable tourism framework | United Nations Economic Commission for Africa",
-          "link": "https://www.uneca.org/stories/comesa-and-eca-convene-second-consultative-workshop-on-regional-sustainable-tourism",
-          "source": "uneca.org",
-          "pubDate": "2026-08-18T16:45:00Z",
+          "title": "Gulf war fallout: Somali households pay the price of trade disruption",
+          "link": "https://www.thenewhumanitarian.org/news-feature/2026/08/17/gulf-war-fallout-somali-households-pay-price-trade-disruption",
+          "description": "The closure of the Strait of Hormuz is hurting Somalia’s import-dependent economy.",
+          "pubDate": "Mon, 17 Aug 26 10:30:55 +0000",
+          "source": "The New Humanitarian",
           "lang": "en",
-          "description": "",
-          "titleIt": "COMESA and ECA convene second consultative workshop on regional sustainable tourism framework | United Nations Economic Commission for Africa"
+          "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
         },
         {
-          "title": "Regional repercussions , escalation dynamics , and future scenarios in Sudan",
-          "link": "https://aa.com.tr/en/opinion/opinion-regional-repercussions-escalation-dynamics-and-future-scenarios-in-sudan/4030706",
-          "source": "aa.com.tr",
-          "pubDate": "2026-08-18T15:45:00Z",
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Regional repercussions , escalation dynamics , and future scenarios in Sudan"
-        },
-        {
-          "title": "Who owns East Africa Corridors ?",
-          "link": "https://www.independent.co.ug/who-owns-east-africas-trade-corridors/",
-          "source": "independent.co.ug",
-          "pubDate": "2026-08-18T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who owns East Africa Corridors ?"
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "What investing in the Red Sea means for Africa",
+          "link": "http://www.africaleader.com/news/279242565/what-investing-in-the-red-sea-means-for-africa",
+          "source": "africaleader.com",
+          "pubDate": "2026-08-19T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "What investing in the Red Sea means for Africa"
+        },
+        {
+          "title": "What investing in the Red Sea means for Africa",
+          "link": "http://www.azerbaijannews.net/news/279242565/what-investing-in-the-red-sea-means-for-africa",
+          "source": "azerbaijannews.net",
+          "pubDate": "2026-08-19T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "What investing in the Red Sea means for Africa"
+        },
+        {
+          "title": "Outer Banks Season 5 Premieres Tomorrow : Doctors Tested Suspended Animation on Stab Wounds",
+          "link": "https://www.techtimes.com/articles/325000/20260819/outer-banks-season-5-premieres-tomorrow-doctors-tested-suspended-animation-stab-wounds.htm",
+          "source": "techtimes.com",
+          "pubDate": "2026-08-19T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Outer Banks Season 5 Premieres Tomorrow : Doctors Tested Suspended Animation on Stab Wounds"
+        },
+        {
+          "title": "Top 10 African countries with the highest total road coverage in 2026",
+          "link": "https://tribuneonlineng.com/top-10-african-countries-with-the-highest-total-road-coverage-in-2026/",
+          "source": "tribuneonlineng.com",
+          "pubDate": "2026-08-19T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Top 10 African countries with the highest total road coverage in 2026"
+        },
+        {
+          "title": "First Gulf Horse Riders Gathering kicks off",
+          "link": "https://timesofoman.com/article/175834-first-gulf-horse-riders-gathering-kicks-off",
+          "source": "timesofoman.com",
+          "pubDate": "2026-08-19T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "First Gulf Horse Riders Gathering kicks off"
+        },
+        {
+          "title": "Israel will use ballots , rule us with bullets : Palestinian envoy",
+          "link": "https://www.siasat.com/israel-will-use-ballots-rule-us-with-bullets-palestinian-envoy-3527474/",
+          "source": "siasat.com",
+          "pubDate": "2026-08-19T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel will use ballots , rule us with bullets : Palestinian envoy"
+        },
+        {
+          "title": "AMAA to hold 107th Annual Meeting Banquet honoring two distinguished leaders",
+          "link": "https://armenianweekly.com/2026/08/19/amaa-to-hold-107th-annual-meeting-banquet-honoring-two-distinguished-leaders/",
+          "source": "armenianweekly.com",
+          "pubDate": "2026-08-19T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AMAA to hold 107th Annual Meeting Banquet honoring two distinguished leaders"
+        },
+        {
+          "title": "Weakening the diaspora means weakening Armenia",
+          "link": "https://armenianweekly.com/2026/08/19/weakening-the-diaspora-means-weakening-armenia/",
+          "source": "armenianweekly.com",
+          "pubDate": "2026-08-19T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Weakening the diaspora means weakening Armenia"
+        },
+        {
+          "title": "The global land agenda moment of truth",
+          "link": "https://www.arabnews.com/node/2655214",
+          "source": "arabnews.com",
+          "pubDate": "2026-08-19T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The global land agenda moment of truth"
+        },
+        {
+          "title": "Qatari - Egyptian Joint Higher Committee holds seventh session preparatory meeting",
+          "link": "http://thepeninsulaqatar.com/article/19/08/2026/qatari-egyptian-joint-higher-committee-holds-seventh-sessions-preparatory-meeting",
+          "source": "thepeninsulaqatar.com",
+          "pubDate": "2026-08-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Qatari - Egyptian Joint Higher Committee holds seventh session preparatory meeting"
+        },
+        {
+          "title": "Declining Position in Geopolitics : Where Did India Falter ?",
+          "link": "https://countercurrents.org/2026/08/declining-position-in-geopolitics-where-did-india-falter/",
+          "source": "countercurrents.org",
+          "pubDate": "2026-08-19T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Declining Position in Geopolitics : Where Did India Falter ?"
+        },
+        {
+          "title": "Digital Entertainment Leadership Forum 2026 AI Reimagining Entertainment with Infinite Wonders",
+          "link": "https://vietnamnews.vn/media-outreach/1797850/digital-entertainment-leadership-forum-2026-ai-reimagining-entertainment-with-infinite-wonders.html",
+          "source": "vietnamnews.vn",
+          "pubDate": "2026-08-19T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Digital Entertainment Leadership Forum 2026 AI Reimagining Entertainment with Infinite Wonders"
+        },
+        {
+          "title": "Ethiopia : Egypt Aggressive Nile Policy No Longer Serves the Region",
+          "link": "https://allafrica.com/stories/202608190464.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-19T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Egypt Aggressive Nile Policy No Longer Serves the Region"
+        },
+        {
+          "title": "Saudi Arabia drives Yemen recovery with major Q2 development package",
+          "link": "https://www.arabnews.com/node/2655201/saudi-arabia",
+          "source": "arabnews.com",
+          "pubDate": "2026-08-19T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia drives Yemen recovery with major Q2 development package"
+        },
+        {
+          "title": "Digital Entertainment Leadership Forum 2026 AI Reimagining Entertainment with Infinite Wonders",
+          "link": "https://www.thailand-business-news.com/pr-news/digital-entertainment-leadership-forum-2026-ai-reimagining-entertainment-with-infinite-wonders",
+          "source": "thailand-business-news.com",
+          "pubDate": "2026-08-19T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Digital Entertainment Leadership Forum 2026 AI Reimagining Entertainment with Infinite Wonders"
+        },
+        {
+          "title": "New markets for India buffalo meat aid dairy economy",
+          "link": "https://www.siasat.com/new-markets-for-indias-buffalo-meat-aid-dairy-economy-3527347/",
+          "source": "siasat.com",
+          "pubDate": "2026-08-19T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "New markets for India buffalo meat aid dairy economy"
+        },
+        {
+          "title": "Links 8 / 19 / 2026 | naked capitalism",
+          "link": "https://www.nakedcapitalism.com/2026/08/links-8-19-2026.html",
+          "source": "nakedcapitalism.com",
+          "pubDate": "2026-08-19T12:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Links 8 / 19 / 2026 | naked capitalism"
+        },
+        {
+          "title": "Egypt , Oman FMs stress need to keep Strait of Hormuz open",
+          "link": "https://www.egyptindependent.com/egypt-oman-fms-stress-need-to-keep-strait-of-hormuz-open/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-08-19T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt , Oman FMs stress need to keep Strait of Hormuz open"
+        },
+        {
+          "title": "Egyptian FM , Mauritanian counterpart discuss cooperation , regional developments",
+          "link": "https://www.egyptindependent.com/egyptian-fm-mauritanian-counterpart-discuss-cooperation-regional-developments/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-08-19T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egyptian FM , Mauritanian counterpart discuss cooperation , regional developments"
+        },
+        {
+          "title": "PM witnesses handover of SCZONE presidency - Egypt Independent",
+          "link": "https://www.egyptindependent.com/pm-witnesses-handover-of-sczone-presidency/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-08-19T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "PM witnesses handover of SCZONE presidency - Egypt Independent"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
