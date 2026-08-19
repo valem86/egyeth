@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T14:55:00.637Z",
+  "generatedAt": "2026-08-19T16:50:26.839Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -120,13 +120,40 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya helicopter crash kills seven in Samburu, including six tourists",
+          "link": "http://www.africanews.com/2026/08/19/kenya-helicopter-crash-kills-seven-in-samburu-including-six-tourists/",
+          "description": "Seven people, including six tourists and the pilot, have died after a helicopter came down near Mount Ololokwe in central Kenya, according to air accident officials.",
+          "pubDate": "Wed, 19 Aug 2026 15:20:10 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Kenya helicopter crash kills seven in Samburu, including six tourists"
+        },
+        {
           "title": "Trump administration can target Ethiopians for deportation",
           "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&at_campaign=rss",
           "description": "A judge's ruling on Tuesday removed the last remaining block on Trump officials' efforts to cancel Temporary Protected Status for Ethiopians.",
-          "pubDate": "Wed, 19 Aug 2026 14:38:11 GMT",
-          "source": "BBC World",
+          "pubDate": "Wed, 19 Aug 2026 15:11:19 GMT",
+          "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Trump administration can target Ethiopians for deportation"
+        },
+        {
+          "title": "An Italian among the dead in a helicopter crash in Kenya",
+          "link": "https://www.ansa.it/english/news/2026/08/19/an-italian-among-the-dead-in-a-helicopter-crash-in-kenya_870e7d03-7c3a-4fb8-902c-f8402b6656e1.html",
+          "description": "(ANSA) - ROME, AUG 19 - An Italian citizen, with dual Ecuadorian nationality, is among the seven tourists killed in a helicopter crash in Kenya's Samburu National Reserve. According to Ecuadorian media, he is Michele Sensi Contugi, a well-known businessman in Ecuador and president of the national intelligence agency. Sensi Contugi, 44, comes from a Tuscan family. In addition to the Kenyan pilot, his wife, Stephany Vasconez, was on board the helicopter, which crashed for reasons yet to be determined near Mount Ololokwe. The Italian Embassy in Kenya immediately provided assistance on site. (ANSA",
+          "pubDate": "Wed, 19 Aug 2026 17:08:26 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "An Italian among the dead in a helicopter crash in Kenya"
+        },
+        {
+          "title": "An Italian among the dead in a helicopter crash in Kenya",
+          "link": "https://www.ansa.it/english/news/world/2026/08/19/an-italian-among-the-dead-in-a-helicopter-crash-in-kenya_77db9dce-da1e-4c04-8655-033d034671e9.html",
+          "description": "(ANSA) - ROME, AUG 19 - An Italian citizen, with dual Ecuadorian nationality, is among the seven tourists killed in a helicopter crash in Kenya's Samburu National Reserve. According to Ecuadorian media, he is Michele Sensi Contugi, a well-known businessman in Ecuador and president of the national intelligence agency. Sensi Contugi, 44, comes from a Tuscan family. In addition to the Kenyan pilot, his wife, Stephany Vasconez, was on board the helicopter, which crashed for reasons yet to be determined near Mount Ololokwe. The Italian Embassy in Kenya immediately provided assistance on site. (ANSA",
+          "pubDate": "Wed, 19 Aug 2026 17:08:23 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "An Italian among the dead in a helicopter crash in Kenya"
         },
         {
           "title": "35 migrants land on Lampedusa, 52 in distress 70 miles from island",
@@ -206,11 +233,29 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
+          "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+          "description": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
+          "pubDate": "Wed, 19 Aug 2026 15:47:31 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Trump pauses new tariffs on Canada for three days, saying deal close"
+        },
+        {
+          "title": "Etiopia: milizie amhara Fano si alleano con il fronte tigrino Tplf contro il governo federale (3)",
+          "link": "https://www.agenzianova.com/a/6a85de2b44bbe9.13849097/7709200/2026-08-19/etiopia-milizie-amhara-fano-si-alleano-con-il-fronte-tigrino-tplf-contro-il-governo-federale-3",
+          "description": "19 ago 17:44 - (Agenzia Nova) - I combattenti amhara e tigrini hanno ora deciso di mettere temporaneamente da parte le dispute territoriali... (Suk)",
+          "pubDate": "2026-08-19T17:44:36+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Etiopia: milizie amhara Fano si alleano con il fronte tigrino Tplf contro il governo federale (3)"
+        },
+        {
           "title": "Trump administration can target Ethiopians for deportation",
           "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&at_campaign=rss",
           "description": "A judge's ruling on Tuesday removed the last remaining block on Trump officials' efforts to cancel Temporary Protected Status for Ethiopians.",
-          "pubDate": "Wed, 19 Aug 2026 14:38:11 GMT",
-          "source": "BBC World",
+          "pubDate": "Wed, 19 Aug 2026 15:11:19 GMT",
+          "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Trump administration can target Ethiopians for deportation"
         },
@@ -249,15 +294,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Liberia agrees to accept 1,200 foreign deportees from the US"
-        },
-        {
-          "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-          "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-          "description": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
-          "pubDate": "Wed, 19 Aug 2026 03:56:35 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "Trump pauses new tariffs on Canada for three days, saying deal close"
         },
         {
           "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
@@ -314,6 +350,15 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
+          "title": "Etiopia: milizie amhara Fano si alleano con il fronte tigrino Tplf contro il governo federale (3)",
+          "link": "https://www.agenzianova.com/a/6a85de2b44bbe9.13849097/7709200/2026-08-19/etiopia-milizie-amhara-fano-si-alleano-con-il-fronte-tigrino-tplf-contro-il-governo-federale-3",
+          "description": "19 ago 17:44 - (Agenzia Nova) - I combattenti amhara e tigrini hanno ora deciso di mettere temporaneamente da parte le dispute territoriali... (Suk)",
+          "pubDate": "2026-08-19T17:44:36+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Etiopia: milizie amhara Fano si alleano con il fronte tigrino Tplf contro il governo federale (3)"
+        },
+        {
           "title": "Children in Khartoum slowly return back to school amid war",
           "link": "http://www.africanews.com/2026/08/19/children-in-khartoum-slowly-return-back-to-school-amid-war/",
           "description": "It’s a new school day in Khartoum, where children are slowly returning to classrooms as security improves. But recovery will be long, with damaged schools, overcrowded classes and too few teachers and supplies.",
@@ -321,6 +366,15 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Children in Khartoum slowly return back to school amid war"
+        },
+        {
+          "title": "Ethiopia: NASA Study Finds Black Carbon Pollution in Addis Abeba Far Higher Than in 3 U.S. Cities",
+          "link": "https://allafrica.com/stories/202608190108.html",
+          "description": "[Addis Standard] Addis Abeba -- A NASA-funded study has found that average black carbon concentrations in Addis Abeba were approximately 4 to 9 times higher than levels recorded in 3 U.S. metropolitan areas monitored by the same mission -- Los Angeles, Atlanta and Boston.",
+          "pubDate": "Wed, 19 Aug 2026 05:26:46 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: NASA Study Finds Black Carbon Pollution in Addis Abeba Far Higher Than in 3 U.S. Cities"
         },
         {
           "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
