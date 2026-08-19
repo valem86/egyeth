@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-08-19T04:55:03.018Z",
+  "generatedAt": "2026-08-19T07:08:15.681Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: Somali Defence Minister Visits Danab Command in Galkayo",
-          "link": "https://allafrica.com/stories/202608180622.html",
-          "description": "[Shabelle] GALKAYO, Somalia, Aug. 18, 2026 -- Somalia's Defence Minister Ahmed Macallin Fiqi and the commander of the Somali National Army, Brigadier General Ibrahim Mohamed Mohamud, visited a Danab special forces unit in the central city of Galkayo on Tuesday as part of an inspection of military operations and readiness.",
-          "pubDate": "Tue, 18 Aug 2026 16:21:19 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somali Defence Minister Visits Danab Command in Galkayo"
-        },
         {
           "title": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says",
           "link": "https://allafrica.com/stories/202608180617.html",
@@ -102,6 +93,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Iran: ministero Esteri nega lancio missili contro gli Emirati Arabi",
+          "link": "https://www.agenzianova.com/a/6a8555f3832de7.62855893/7707635/2026-08-19/iran-ministero-esteri-nega-lancio-missili-contro-gli-emirati-arabi",
+          "description": "19 ago 08:56 - (Agenzia Nova) - Il portavoce del ministero degli Esteri iraniano, Esmail Baghaei, ha respinto l'affermazione degli Emirati... (Irb)",
+          "pubDate": "2026-08-19T08:56:03+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Iran: ministero Esteri nega lancio missili contro gli Emirati Arabi"
+        },
+        {
           "title": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says",
           "link": "https://allafrica.com/stories/202608180617.html",
           "description": "[Horn Diplomat] Nairobi -- Somaliland President Abdirahman Mohamed Abdullahi's recent visit to Nairobi brought together senior Kenyan leaders, diplomats and development partners for talks aimed at strengthening bilateral cooperation and advancing Somaliland's development priorities, the Republic of Somaliland Mission in Kenya said.",
@@ -161,6 +161,15 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Trump pauses new tariffs on Canada for three days, saying countries close to a deal",
+          "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+          "description": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
+          "pubDate": "Wed, 19 Aug 2026 03:56:35 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Trump pauses new tariffs on Canada for three days, saying countries close to a deal"
+        },
+        {
           "title": "Chinese firms dominate Ethiopia Bishoftu airport shortlist - ch - aviation",
           "link": "https://www.ch-aviation.com/news/170711-chinese-firms-dominate-ethiopias-bishoftu-airport-shortlist",
           "source": "ch-aviation.com",
@@ -195,15 +204,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "COMESA and ECA convene second consultative workshop on regional sustainable tourism framework | United Nations Economic Commission for Africa"
-        },
-        {
-          "title": "Liberia: Fact Check - Liberian Youth and Sports Minister Correct About Hospitality Center Funding Source, but Incorrect About Total Negotiations",
-          "link": "https://allafrica.com/stories/202608180635.html",
-          "description": "[Liberian Investigator] In Summary",
-          "pubDate": "Tue, 18 Aug 2026 16:30:02 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Liberia: Fact Check - Liberian Youth and Sports Minister Correct About Hospitality Center Funding Source, but Incorrect About Total Negotiations"
         },
         {
           "title": "Regional repercussions , escalation dynamics , and future scenarios in Sudan",
@@ -349,6 +349,15 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Ethiopia: NASA Study Finds Black Carbon Pollution in Addis Abeba Far Higher Than in 3 U.S. Cities",
+          "link": "https://allafrica.com/stories/202608190108.html",
+          "description": "[Addis Standard] Addis Abeba -- A NASA-funded study has found that average black carbon concentrations in Addis Abeba were approximately 4 to 9 times higher than levels recorded in 3 U.S. metropolitan areas monitored by the same mission -- Los Angeles, Atlanta and Boston.",
+          "pubDate": "Wed, 19 Aug 2026 05:26:46 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: NASA Study Finds Black Carbon Pollution in Addis Abeba Far Higher Than in 3 U.S. Cities"
+        },
         {
           "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
           "link": "http://www.africanews.com/2026/08/18/ethiopia-authorities-in-tigray-accuse-addis-ababa-of-drone-strike-near-mekelle/",
@@ -519,15 +528,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Electricity Is Capital , Not Just A Commodity Rethinking Nepal Electricity Strategy In The Era Of Surplus Power"
-        },
-        {
-          "title": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams",
-          "link": "https://www.tanzanianewsreports.com/egypt-declares-strong-opposition-to-new-ethiopian-nile-dams/",
-          "source": "tanzanianewsreports.com",
-          "pubDate": "2026-08-06T19:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Declares Strong Opposition to New Ethiopian Nile Dams"
         }
       ]
     }
