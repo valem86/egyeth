@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-19T08:57:41.171Z",
+  "generatedAt": "2026-08-19T10:49:20.664Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Dozens killed in fighting to control key city of Baidoa",
+          "link": "http://www.africanews.com/2026/08/19/somalia-dozens-killed-in-fighting-to-control-key-city-of-baidoa/",
+          "description": "Armed forces repelled rebel fighters in the key city after hours of intense fighting that left nearly 100 wounded.",
+          "pubDate": "Wed, 19 Aug 2026 08:32:42 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Somalia: Dozens killed in fighting to control key city of Baidoa"
+        },
         {
           "title": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says",
           "link": "https://allafrica.com/stories/202608180617.html",
@@ -102,6 +111,33 @@
           "titleIt": "Kenya: Somaliland President's Nairobi Visit Deepens Kenya Ties, Mission Says"
         },
         {
+          "title": "When insurance pays back : Amanah rewards customers through surplus sharing",
+          "link": "https://www.eyeradio.org/when-insurance-pays-back-amanah-rewards-customers-through-surplus-sharing/",
+          "source": "eyeradio.org",
+          "pubDate": "2026-08-18T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "When insurance pays back : Amanah rewards customers through surplus sharing"
+        },
+        {
+          "title": "Regional repercussions , escalation dynamics , and future scenarios in Sudan",
+          "link": "https://aa.com.tr/en/opinion/opinion-regional-repercussions-escalation-dynamics-and-future-scenarios-in-sudan/4030706",
+          "source": "aa.com.tr",
+          "pubDate": "2026-08-18T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Regional repercussions , escalation dynamics , and future scenarios in Sudan"
+        },
+        {
+          "title": "Who owns East Africa Corridors ?",
+          "link": "https://www.independent.co.ug/who-owns-east-africas-trade-corridors/",
+          "source": "independent.co.ug",
+          "pubDate": "2026-08-18T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who owns East Africa Corridors ?"
+        },
+        {
           "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
           "link": "http://www.africanews.com/2026/08/18/ethiopia-authorities-in-tigray-accuse-addis-ababa-of-drone-strike-near-mekelle/",
           "description": "Authorities in Ethiopia's Tigray region have accused the federal government of launching a drone strike near the state capital Mekelle. Tensions between Tigray and Addis Ababa have been mounting in recent weeks, with both parties massing forces on either side of the regional border.",
@@ -109,6 +145,15 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle"
+        },
+        {
+          "title": "UAE issues rare denial of  imperial ambition in Africa",
+          "link": "https://www.middleeasteye.net/news/uae-denies-it-has-imperial-ambitions-africa",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-17T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE issues rare denial of  imperial ambition in Africa"
         },
         {
           "title": "'Emergency' ship rescues migrant boat, 7 dead",
@@ -138,19 +183,118 @@
           "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "India is losing West Asia , but it is not too late",
+          "link": "https://www.thehindu.com/opinion/op-ed/india-is-losing-west-asia-but-it-is-not-too-late/article71353405.ece",
+          "source": "thehindu.com",
+          "pubDate": "2026-08-16T19:00:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "India is losing West Asia , but it is not too late"
+        },
+        {
+          "title": "Is Sudan Bloody War Reaching a Tipping Point ?",
+          "link": "https://www.fairobserver.com/region/middle_east_north_africa/is-sudans-bloody-war-reaching-a-tipping-point/",
+          "source": "fairobserver.com",
+          "pubDate": "2026-08-16T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Is Sudan Bloody War Reaching a Tipping Point ?"
+        },
+        {
+          "title": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact",
+          "link": "https://www.middleeasteye.net/news/emirati-academics-barbed-tweet-pakistan-exposes-uae-unease-over-mecca-pact",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-08-16T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact"
+        },
+        {
+          "title": "The Saudi – Turkish – Pakistani Security Agreement : A Preliminary Assessment",
+          "link": "https://www.middleeastmonitor.com/20260815-the-saudi-turkish-pakistani-security-agreement-a-preliminary-assessment/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-08-15T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Saudi – Turkish – Pakistani Security Agreement : A Preliminary Assessment"
+        },
+        {
+          "title": "The Makkah Joint Defence Agreement , Gulf Dynamics , And The Horn Of Africa",
+          "link": "https://www.thereporterethiopia.com/52268/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-15T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Makkah Joint Defence Agreement , Gulf Dynamics , And The Horn Of Africa"
+        },
+        {
+          "title": "Somaliland , AFRICOM Hold Talks on Maritime Security and Defense Cooperation",
+          "link": "https://wardheernews.com/somaliland-africom-hold-talks-on-maritime-security-and-defense-cooperation/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-14T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland , AFRICOM Hold Talks on Maritime Security and Defense Cooperation"
+        },
+        {
+          "title": "How the Mecca Agreement aims to manage US separation from Middle East",
+          "link": "https://www.chinatechnews.com/2026/08/14/127304-how-the-mecca-agreement-aims-to-manage-us-separation-from-middle-east",
+          "source": "chinatechnews.com",
+          "pubDate": "2026-08-13T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How the Mecca Agreement aims to manage US separation from Middle East"
+        },
+        {
+          "title": "How Riyadh lost the war in Yemen long before the Red Sea blew up",
+          "link": "http://www.jpost.com/opinion/article-905397",
+          "source": "jpost.com",
+          "pubDate": "2026-08-13T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How Riyadh lost the war in Yemen long before the Red Sea blew up"
+        },
+        {
+          "title": "Africa : Houthi Red Sea Threat Puts Somaliland in Focus As Analysts See Possible U . S . Strategy Shift",
+          "link": "https://allafrica.com/stories/202608130200.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-13T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Houthi Red Sea Threat Puts Somaliland in Focus As Analysts See Possible U . S . Strategy Shift"
+        },
+        {
+          "title": "The Mecca Pact : The Unfinished Asabiyyah of a World in Search of Power",
+          "link": "https://countercurrents.org/2026/08/the-mecca-pact-the-unfinished-asabiyyah-of-a-world-in-search-of-power/",
+          "source": "countercurrents.org",
+          "pubDate": "2026-08-13T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Mecca Pact : The Unfinished Asabiyyah of a World in Search of Power"
+        },
+        {
+          "title": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي",
+          "link": "https://www.okaz.com.sa/articles/na/2261085",
+          "source": "okaz.com.sa",
+          "pubDate": "2026-08-12T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "القرن الأفريقي .. التفاعلات الاستراتيجية وصراع النفوذ الدولي"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
+          "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
+          "description": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
+          "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Liberia agrees to accept 1,200 foreign deportees from the US"
+        },
         {
           "title": "Liberia agrees to accept up to 1,200 US deportees under Trump migration deal",
           "link": "http://www.africanews.com/2026/08/19/liberia-agrees-to-accept-up-to-1200-us-deportees-under-trump-migration-deal/",
@@ -321,15 +465,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Ethiopia Counts Coffee At the Wrong End"
-        },
-        {
-          "title": "Kawempe unveils new jersey - NTV Uganda",
-          "link": "https://ntv.co.ug/news/kawempe-unveils-new-jersey",
-          "source": "ntv.co.ug",
-          "pubDate": "2026-08-17T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kawempe unveils new jersey - NTV Uganda"
         }
       ]
     },
