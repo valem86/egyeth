@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T07:08:58.990Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-20T08:58:50.604Z",
+  "feedsChecked": 8,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
@@ -86,24 +86,6 @@
           "source": "The New Humanitarian",
           "lang": "en",
           "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -235,30 +217,12 @@
           "source": "The New Humanitarian",
           "lang": "en",
           "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Ethiopia : Chinese Firms Dominate Shortlist for Ethiopia $12 . 5 Billion Bishoftu Airport Project",
-          "link": "https://allafrica.com/stories/202608200135.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-20T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Chinese Firms Dominate Shortlist for Ethiopia $12 . 5 Billion Bishoftu Airport Project"
-        },
         {
           "title": "Ethiopia: Judge Allows Trump Administration to End TPS Protection for Ethiopians",
           "link": "https://allafrica.com/stories/202608200132.html",
@@ -287,78 +251,6 @@
           "titleIt": "Trump vows tougher economic measures on Iran and supporting countries"
         },
         {
-          "title": "The case for redesigning of mother tongue policy",
-          "link": "https://thesun.ng/the-case-for-redesigning-of-mother-tongue-policy/",
-          "source": "thesun.ng",
-          "pubDate": "2026-08-20T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The case for redesigning of mother tongue policy"
-        },
-        {
-          "title": "Sudan war : 200 , 000 newly displaced as fighting and floods intensify",
-          "link": "https://www.globalissues.org/news/2026/08/19/43855",
-          "source": "globalissues.org",
-          "pubDate": "2026-08-20T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan war : 200 , 000 newly displaced as fighting and floods intensify"
-        },
-        {
-          "title": "Egypt says it has right to defend water security over new Ethiopian dams on Nile River",
-          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-has-right-to-defend-water-security-over-new-ethiopian-dams-on-nile-river/4032262",
-          "source": "aa.com.tr",
-          "pubDate": "2026-08-20T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says it has right to defend water security over new Ethiopian dams on Nile River"
-        },
-        {
-          "title": "Egypt - Ethiopia Nile Dispute Expands Into a Contest for the Horn",
-          "link": "https://themedialine.org/top-stories/egypt-ethiopia-nile-dispute-expands-into-a-contest-for-the-horn/",
-          "source": "themedialine.org",
-          "pubDate": "2026-08-20T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt - Ethiopia Nile Dispute Expands Into a Contest for the Horn"
-        },
-        {
-          "title": "Latest Articles",
-          "link": "https://freerepublic.com/tag/*/index?more=4392402",
-          "source": "freerepublic.com",
-          "pubDate": "2026-08-20T00:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Latest Articles"
-        },
-        {
-          "title": "An Africa that prizes economic – and political – freedoms",
-          "link": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/0819/An-Africa-that-prizes-economic-and-political-freedoms",
-          "source": "csmonitor.com",
-          "pubDate": "2026-08-19T21:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "An Africa that prizes economic – and political – freedoms"
-        },
-        {
-          "title": "Ji . hlava Emerging Producers Reveal Pitches for Upcoming Projects",
-          "link": "https://variety.com/2026/film/news/jihlavas-emerging-producers-2026-projects-1236838471/",
-          "source": "variety.com",
-          "pubDate": "2026-08-19T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ji . hlava Emerging Producers Reveal Pitches for Upcoming Projects"
-        },
-        {
-          "title": "Top 10 African countries with the highest total road coverage in 2026",
-          "link": "https://tribuneonlineng.com/top-10-african-countries-with-the-highest-total-road-coverage-in-2026/",
-          "source": "tribuneonlineng.com",
-          "pubDate": "2026-08-19T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Top 10 African countries with the highest total road coverage in 2026"
-        },
-        {
           "title": "Ethiopia: U.S. Signals Readiness to Resume GERD Mediation As Nile Dispute Persists",
           "link": "https://allafrica.com/stories/202608190601.html",
           "description": "[Addis Standard] Addis Abeba -- The United States is ready to resume mediation between Egypt and Ethiopia over the Grand Ethiopian Renaissance Dam (GERD), a senior adviser to US President Donald Trump has said, signalling a renewed diplomatic effort to resolve the long-running dispute over the use and management of Nile waters.",
@@ -368,24 +260,6 @@
           "titleIt": "Ethiopia: U.S. Signals Readiness to Resume GERD Mediation As Nile Dispute Persists"
         },
         {
-          "title": "East Africa forecasts above - average rainfall amid El Nino",
-          "link": "http://www.kenyastar.com/news/279251549/east-africa-forecasts-above-average-rainfall-amid-el-nino",
-          "source": "kenyastar.com",
-          "pubDate": "2026-08-19T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa forecasts above - average rainfall amid El Nino"
-        },
-        {
-          "title": "Trump administration to soon begin targeting Ethiopians for deportation",
-          "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo",
-          "source": "bbc.co.uk",
-          "pubDate": "2026-08-19T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump administration to soon begin targeting Ethiopians for deportation"
-        },
-        {
           "title": "Trump administration can target Ethiopians for deportation",
           "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&at_campaign=rss",
           "description": "Judge Brian Murphy cleared the way for the Trump administration to cancel Temporary Protected Status for Ethiopians living in the US.",
@@ -393,15 +267,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Trump administration can target Ethiopians for deportation"
-        },
-        {
-          "title": "Ethiopia : EU Rights Report Calls Out Stalled Transitional Justice Process",
-          "link": "https://allafrica.com/stories/202608190457.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-19T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : EU Rights Report Calls Out Stalled Transitional Justice Process"
         },
         {
           "title": "35 migrants land on Lampedusa, 52 in distress 70 miles from island",
@@ -422,13 +287,58 @@
           "titleIt": "35 migrants land on Lampedusa, 52 in distress 70 miles from island"
         },
         {
-          "title": "East Africa forecasts above - average rainfall amid El Nino - Xinhua",
-          "link": "https://english.news.cn/20260819/6f09a30996be44939779c198cab18108/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-08-19T14:00:00Z",
+          "title": "Liberia agrees to accept up to 1,200 US deportees under Trump migration deal",
+          "link": "http://www.africanews.com/2026/08/19/liberia-agrees-to-accept-up-to-1200-us-deportees-under-trump-migration-deal/",
+          "description": "Liberia has agreed to accept hundreds of people deported from the United States, in one of the largest such arrangements under the Trump administration’s migration policy. The deportees will arrive over a year, with the first group of 20 expected Thursday.",
+          "pubDate": "Wed, 19 Aug 2026 12:32:13 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "East Africa forecasts above - average rainfall amid El Nino - Xinhua"
+          "titleIt": "Liberia agrees to accept up to 1,200 US deportees under Trump migration deal"
+        },
+        {
+          "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
+          "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
+          "description": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
+          "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Liberia agrees to accept 1,200 foreign deportees from the US"
+        },
+        {
+          "title": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle",
+          "link": "http://www.africanews.com/2026/08/18/ethiopia-authorities-in-tigray-accuse-addis-ababa-of-drone-strike-near-mekelle/",
+          "description": "Authorities in Ethiopia's Tigray region have accused the federal government of launching a drone strike near the state capital Mekelle. Tensions between Tigray and Addis Ababa have been mounting in recent weeks, with both parties massing forces on either side of the regional border.",
+          "pubDate": "Tue, 18 Aug 2026 14:44:00 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia: Authorities in Tigray accuse Addis Ababa of drone strike near Mekelle"
+        },
+        {
+          "title": "'Emergency' ship rescues migrant boat, 7 dead",
+          "link": "https://www.ansa.it/english/news/2026/08/17/emergency-ship-rescues-migrant-boat-7-dead_27a533ed-fb5f-4f00-9e9e-ab10bef121c8.html",
+          "description": "(ANSA) - ROME, AUG 17 - Emergency's Life Support rescue ship rescued a boat with about fifty migrants on board Monday morning in international waters in the Libyan SAR zone. Seven migrants died during the crossing, and two are in serious condition due to suffocation, the NGO reports. \"The shipwrecked people,\" Emergency explains, \"reported they departed at dawn on August 16 from Zuwara, and are originally from Somalia and Egypt. A total of 50 people were rescued, 45 men and 5 women. \"There are 29 unaccompanied foreign minors, 26 men and 3 women.\" Emergency is asking \"the competent authorities t",
+          "pubDate": "Mon, 17 Aug 2026 13:48:50 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "'Emergency' ship rescues migrant boat, 7 dead"
+        },
+        {
+          "title": "'Emergency' ship rescues migrant boat, 7 dead",
+          "link": "https://www.ansa.it/english/news/general_news/2026/08/17/emergency-ship-rescues-migrant-boat-7-dead_fd019c7c-dfa4-4051-abb9-dba6f779af77.html",
+          "description": "(ANSA) - ROME, AUG 17 - Emergency's Life Support rescue ship rescued a boat with about fifty migrants on board Monday morning in international waters in the Libyan SAR zone. Seven migrants died during the crossing, and two are in serious condition due to suffocation, the NGO reports. \"The shipwrecked people,\" Emergency explains, \"reported they departed at dawn on August 16 from Zuwara, and are originally from Somalia and Egypt. A total of 50 people were rescued, 45 men and 5 women. \"There are 29 unaccompanied foreign minors, 26 men and 3 women.\" Emergency is asking \"the competent authorities t",
+          "pubDate": "Mon, 17 Aug 2026 13:30:57 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "'Emergency' ship rescues migrant boat, 7 dead"
+        },
+        {
+          "title": "Gulf war fallout: Somali households pay the price of trade disruption",
+          "link": "https://www.thenewhumanitarian.org/news-feature/2026/08/17/gulf-war-fallout-somali-households-pay-price-trade-disruption",
+          "description": "The closure of the Strait of Hormuz is hurting Somalia’s import-dependent economy.",
+          "pubDate": "Mon, 17 Aug 26 10:30:55 +0000",
+          "source": "The New Humanitarian",
+          "lang": "en",
+          "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
         }
       ]
     },
