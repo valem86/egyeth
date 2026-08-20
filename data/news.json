@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-20T16:53:31.184Z",
+  "generatedAt": "2026-08-20T19:03:23.525Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egitto-Qatar: firmati quattro accordi in settima sessione del Comitato superiore congiunto (4)",
+          "link": "https://www.agenzianova.com/a/6a874e8f89ce97.41137488/7711973/2026-08-20/egitto-qatar-firmati-quattro-accordi-in-settima-sessione-del-comitato-superiore-congiunto-4",
+          "description": "20 ago 19:26 - (Agenzia Nova) - Abdelatty ha anche elogiato i progressi nella cooperazione nel settore delle energie convenzionali e rinnovabili,... (Cae)",
+          "pubDate": "2026-08-20T19:26:27+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Qatar: firmati quattro accordi in settima sessione del Comitato superiore congiunto (4)"
+        },
         {
           "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
           "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
@@ -176,21 +185,21 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia Hosts Djibouti Police Delegation for Security Talks"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenya: Wiper Denies Kalonzo-Gachagua Political Deal",
+          "link": "https://allafrica.com/stories/202608200605.html",
+          "description": "[Capital FM] Nairobi -- Wiper Patriotic Front has dismissed reports suggesting that party leader Kalonzo Musyoka has struck a political deal with Democracy for the Citizens Party (DCP) leader Rigathi Gachagua.",
+          "pubDate": "Thu, 20 Aug 2026 16:36:45 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Wiper Denies Kalonzo-Gachagua Political Deal"
+        },
         {
           "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
           "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
@@ -226,15 +235,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: Schools to Reopen Monday As Education Ministry Rejects Delay Claims"
-        },
-        {
-          "title": "Ethiopia: Judge Allows Trump Administration to End TPS Protection for Ethiopians",
-          "link": "https://allafrica.com/stories/202608200132.html",
-          "description": "[Addis Standard] Addis Abeba -- A US federal judge has ruled that the administration of President Donald Trump can terminate Temporary Protected Status (TPS) for more than 5,000 Ethiopians, clearing the way for their potential deportation despite concerns over security and humanitarian conditions in Ethiopia.",
-          "pubDate": "Thu, 20 Aug 2026 05:31:44 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Judge Allows Trump Administration to End TPS Protection for Ethiopians"
         },
         {
           "title": "Kenya helicopter crash kills seven in Samburu, including six tourists",
@@ -368,13 +368,13 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Camerun: rafforzato stato di allerta nell'Estremo Nord dopo maxi sequestro di munizioni (2)",
-          "link": "https://www.agenzianova.com/a/6a87309d53d138.39516554/7711943/2026-08-20/camerun-rafforzato-stato-di-allerta-nell-estremo-nord-dopo-maxi-sequestro-di-munizioni-2",
-          "description": "20 ago 18:45 - (Agenzia Nova) - Il sequestro e' avvenuto in un'area di grande importanza strategica, lungo il corridoio commerciale che collega... (Cay)",
-          "pubDate": "2026-08-20T18:45:07+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Camerun: rafforzato stato di allerta nell'Estremo Nord dopo maxi sequestro di munizioni (2)"
+          "title": "Kenya: Wiper Denies Kalonzo-Gachagua Political Deal",
+          "link": "https://allafrica.com/stories/202608200605.html",
+          "description": "[Capital FM] Nairobi -- Wiper Patriotic Front has dismissed reports suggesting that party leader Kalonzo Musyoka has struck a political deal with Democracy for the Citizens Party (DCP) leader Rigathi Gachagua.",
+          "pubDate": "Thu, 20 Aug 2026 16:36:45 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Wiper Denies Kalonzo-Gachagua Political Deal"
         },
         {
           "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
@@ -411,24 +411,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Pope meets with Aoun, Holy See supports peace deal"
-        },
-        {
-          "title": "Trump vows tougher economic measures on Iran and supporting countries",
-          "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-          "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-          "pubDate": "Thu, 20 Aug 2026 09:13:18 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "Trump vows tougher economic measures on Iran and supporting countries"
-        },
-        {
-          "title": "Ethiopia: Judge Allows Trump Administration to End TPS Protection for Ethiopians",
-          "link": "https://allafrica.com/stories/202608200132.html",
-          "description": "[Addis Standard] Addis Abeba -- A US federal judge has ruled that the administration of President Donald Trump can terminate Temporary Protected Status (TPS) for more than 5,000 Ethiopians, clearing the way for their potential deportation despite concerns over security and humanitarian conditions in Ethiopia.",
-          "pubDate": "Thu, 20 Aug 2026 05:31:44 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Judge Allows Trump Administration to End TPS Protection for Ethiopians"
         },
         {
           "title": "35 migrants land on Lampedusa, 52 in distress 70 miles from island",
@@ -553,184 +535,13 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Egitto: Banca centrale rivede previsioni crescita economica al rialzo dell'1 per cento (2)",
-          "link": "https://www.agenzianova.com/a/6a87309d55bd28.37821419/7711879/2026-08-20/egitto-banca-centrale-rivede-previsioni-crescita-economica-al-rialzo-dell-1-per-cento-2",
-          "description": "20 ago 18:18 - (Agenzia Nova) - Nonostante il miglioramento delle prospettive, la Banca centrale egiziana ha sottolineato che le pressioni... (Cae)",
-          "pubDate": "2026-08-20T18:18:18+02:00",
+          "title": "Egitto-Qatar: firmati quattro accordi in settima sessione del Comitato superiore congiunto (3)",
+          "link": "https://www.agenzianova.com/a/6a874e8f89ec54.52197023/7711972/2026-08-20/egitto-qatar-firmati-quattro-accordi-in-settima-sessione-del-comitato-superiore-congiunto-3",
+          "description": "20 ago 19:26 - (Agenzia Nova) - Il ministro degli Esteri egiziano ha ribadito la disponibilita' dell'Egitto ad accogliere ulteriori investimenti... (Cae)",
+          "pubDate": "2026-08-20T19:26:27+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Egitto: Banca centrale rivede previsioni crescita economica al rialzo dell'1 per cento (2)"
-        },
-        {
-          "title": "Egitto: Banca centrale rivede previsioni crescita economica al rialzo dell'1 per cento",
-          "link": "https://www.agenzianova.com/a/6a87309d55dca1.95244706/7711878/2026-08-20/egitto-banca-centrale-rivede-previsioni-crescita-economica-al-rialzo-dell-1-per-cento",
-          "description": "20 ago 18:18 - (Agenzia Nova) - La Banca centrale d'Egitto ha rivisto al rialzo dell'1 per cento le proprie previsioni di crescita economica... (Cae)",
-          "pubDate": "2026-08-20T18:18:18+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: Banca centrale rivede previsioni crescita economica al rialzo dell'1 per cento"
-        },
-        {
-          "title": "APO Group - Africa Newsroom / Press release | 7th Session of Qatar - Egypt Joint Higher Committee Convenes in El Alamein",
-          "link": "https://www.africa-newsroom.com/press/7th-session-of-qataregypt-joint-higher-committee-convenes-in-el-alamein",
-          "source": "africa-newsroom.com",
-          "pubDate": "2026-08-20T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "APO Group - Africa Newsroom / Press release | 7th Session of Qatar - Egypt Joint Higher Committee Convenes in El Alamein"
-        },
-        {
-          "title": "Iran FM Blasts Trump Economic D - Day Threat  Diversion  Which Will Fail , As New Carrier Arrives In Mideast Waters",
-          "link": "https://www.zerohedge.com/geopolitical/iran-fm-says-trumps-economic-d-day-threat-diversion-which-will-fail-new-carrier",
-          "source": "zerohedge.com",
-          "pubDate": "2026-08-20T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran FM Blasts Trump Economic D - Day Threat  Diversion  Which Will Fail , As New Carrier Arrives In Mideast Waters"
-        },
-        {
-          "title": "Donald Blome sworn in as top State Department diplomat in Middle East",
-          "link": "https://www.clevelandjewishnews.com/jns/donald-blome-sworn-in-as-top-state-department-diplomat-in-middle-east/article_c3126297-ca4a-5788-b5fa-e689df144041.html",
-          "source": "clevelandjewishnews.com",
-          "pubDate": "2026-08-20T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Donald Blome sworn in as top State Department diplomat in Middle East"
-        },
-        {
-          "title": "Victor Davis Hanson : Hating Israel Fatigue",
-          "link": "https://patriotpost.us/opinion/130106-hating-israel-fatigue-2026-08-20",
-          "source": "patriotpost.us",
-          "pubDate": "2026-08-20T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Victor Davis Hanson : Hating Israel Fatigue"
-        },
-        {
-          "title": "Iran dismisses US economic threats , and other developments in the Middle East",
-          "link": "https://isp.netscape.com:443/news/world/story/0001/20260820/bbc5df71e56f000515edef0817468c9d",
-          "source": "isp.netscape.com",
-          "pubDate": "2026-08-20T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran dismisses US economic threats , and other developments in the Middle East"
-        },
-        {
-          "title": "Iran dismisses US economic threats , other developments in Middle East",
-          "link": "https://www.courant.com/2026/08/20/iran-trump-economic-threats-middle-east-news/",
-          "source": "courant.com",
-          "pubDate": "2026-08-20T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran dismisses US economic threats , other developments in Middle East"
-        },
-        {
-          "title": "Jared Kushner Henry Kissinger cosplay should worry us all",
-          "link": "https://www.salon.com/2026/08/20/jared-kushners-henry-kissinger-cosplay-should-worry-us-all/",
-          "source": "salon.com",
-          "pubDate": "2026-08-20T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Jared Kushner Henry Kissinger cosplay should worry us all"
-        },
-        {
-          "title": "Israel moves forward with internationally condemned settlement plan that could  bury  two - state solution",
-          "link": "https://ktvz.com/news/national-world/cnn-world/2026/08/20/israel-moves-forward-with-internationally-condemned-settlement-plan-that-could-bury-two-state-solution/",
-          "source": "ktvz.com",
-          "pubDate": "2026-08-20T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel moves forward with internationally condemned settlement plan that could  bury  two - state solution"
-        },
-        {
-          "title": "Iran dismisses US economic threats , and other developments in the Middle East",
-          "link": "https://www.journalgazette.net/news/national/iran-dismisses-us-economic-threats-and-other-developments-in-the-middle-east/article_a9bb91a1-f4ec-5eb5-91b3-641baba40eee.html",
-          "source": "journalgazette.net",
-          "pubDate": "2026-08-20T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran dismisses US economic threats , and other developments in the Middle East"
-        },
-        {
-          "title": "NBM plc elated with WAFCON Watch parties outcome",
-          "link": "https://www.malawivoice.com/2026/08/20/nbm-plc-elated-with-wafcon-watch-parties-outcome/",
-          "source": "malawivoice.com",
-          "pubDate": "2026-08-20T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "NBM plc elated with WAFCON Watch parties outcome"
-        },
-        {
-          "title": "Fibre Optic Network : FG to Begin 90 , 000km Rollout in October",
-          "link": "https://punchng.com/fg-to-begin-90000km-fibre-rollout-in-october-minister/",
-          "source": "punchng.com",
-          "pubDate": "2026-08-20T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fibre Optic Network : FG to Begin 90 , 000km Rollout in October"
-        },
-        {
-          "title": "Iran war news : U . S . economic threats and Houthi attacks",
-          "link": "https://www.cp24.com/news/world/2026/08/20/iran-dismisses-us-economic-threats-and-other-developments-in-the-middle-east/",
-          "source": "cp24.com",
-          "pubDate": "2026-08-20T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran war news : U . S . economic threats and Houthi attacks"
-        },
-        {
-          "title": "The Mecca Pact Wasnt Built to Corner Iran",
-          "link": "https://fpif.org/the-mecca-pact-wasnt-built-to-corner-iran/",
-          "source": "fpif.org",
-          "pubDate": "2026-08-20T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Mecca Pact Wasnt Built to Corner Iran"
-        },
-        {
-          "title": "Qatar , Egypt reaffirm strong ties , boost economic cooperation and coordinate on regional issues",
-          "link": "https://www.qatar-tribune.com/article/249720/latest-news/qatar-egypt-reaffirm-strong-ties-boost-economic-cooperation-and-coordinate-on-regional-issues",
-          "source": "qatar-tribune.com",
-          "pubDate": "2026-08-20T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Qatar , Egypt reaffirm strong ties , boost economic cooperation and coordinate on regional issues"
-        },
-        {
-          "title": "[ Blog ] An Appeal to Stop War and Negotiate for Peace",
-          "link": "https://defimedia.info/blog-appeal-stop-war-and-negotiate-peace-0",
-          "source": "defimedia.info",
-          "pubDate": "2026-08-20T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "[ Blog ] An Appeal to Stop War and Negotiate for Peace"
-        },
-        {
-          "title": "Prime minister , Egyptian counterpart reaffirm commitment to strengthening bilateral relations",
-          "link": "https://www.qatar-tribune.com/article/249719/latest-news/prime-minister-egyptian-counterpart-reaffirm-commitment-to-strengthening-bilateral-relations",
-          "source": "qatar-tribune.com",
-          "pubDate": "2026-08-20T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Prime minister , Egyptian counterpart reaffirm commitment to strengthening bilateral relations"
-        },
-        {
-          "title": "Iran dismisses US economic threats , and other developments in the Middle East",
-          "link": "https://www.ksat.com/news/world/2026/08/20/iran-dismisses-us-economic-threats-and-other-developments-in-the-middle-east/",
-          "source": "ksat.com",
-          "pubDate": "2026-08-20T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran dismisses US economic threats , and other developments in the Middle East"
-        },
-        {
-          "title": "Iran dismisses US economic threats , other developments in Middle East",
-          "link": "https://www.thetimes-tribune.com/2026/08/20/iran-trump-economic-threats-middle-east-news/",
-          "source": "thetimes-tribune.com",
-          "pubDate": "2026-08-20T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran dismisses US economic threats , other developments in Middle East"
+          "titleIt": "Egitto-Qatar: firmati quattro accordi in settima sessione del Comitato superiore congiunto (3)"
         }
       ]
     },
@@ -747,42 +558,6 @@
           "titleIt": "Ethiopia: U.S. Judge Denies Bond for Ethiopian-Born University Instructor Held in Ice Detention"
         },
         {
-          "title": "Egypt says it has right to defend water security over new Ethiopian dams on Nile River",
-          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-has-right-to-defend-water-security-over-new-ethiopian-dams-on-nile-river/4032262",
-          "source": "aa.com.tr",
-          "pubDate": "2026-08-20T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says it has right to defend water security over new Ethiopian dams on Nile River"
-        },
-        {
-          "title": "Egypt - Ethiopia Nile Dispute Expands Into a Contest for the Horn",
-          "link": "https://themedialine.org/top-stories/egypt-ethiopia-nile-dispute-expands-into-a-contest-for-the-horn/",
-          "source": "themedialine.org",
-          "pubDate": "2026-08-20T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt - Ethiopia Nile Dispute Expands Into a Contest for the Horn"
-        },
-        {
-          "title": "Ethiopia : Egypt Aggressive Nile Policy No Longer Serves the Region",
-          "link": "https://allafrica.com/stories/202608190464.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-19T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Egypt Aggressive Nile Policy No Longer Serves the Region"
-        },
-        {
-          "title": "Ethiopia : New Ethiopian Dams Pose No Threat - Sudanese Former Water Resources Minister",
-          "link": "https://allafrica.com/stories/202608190434.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-19T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : New Ethiopian Dams Pose No Threat - Sudanese Former Water Resources Minister"
-        },
-        {
           "title": "Children in Khartoum slowly return back to school amid war",
           "link": "http://www.africanews.com/2026/08/19/children-in-khartoum-slowly-return-back-to-school-amid-war/",
           "description": "It’s a new school day in Khartoum, where children are slowly returning to classrooms as security improves. But recovery will be long, with damaged schools, overcrowded classes and too few teachers and supplies.",
@@ -790,69 +565,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Children in Khartoum slowly return back to school amid war"
-        },
-        {
-          "title": "Today in Africa : DR Congo Ebola outbreak becomes deadliest , Cameroon wins first WAFCON title",
-          "link": "https://www.okayafrica.com/today-in-africa-august-17-2026-dr-congos-ebola-outbreak-now-the-countrys-deadliest-cameroon-wins-first-ever-wafcon-title/1437871",
-          "source": "okayafrica.com",
-          "pubDate": "2026-08-17T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Today in Africa : DR Congo Ebola outbreak becomes deadliest , Cameroon wins first WAFCON title"
-        },
-        {
-          "title": "Egypt Warns Ethiopia Over Plans for More Nile Dams",
-          "link": "https://themedialine.org/headlines/egypt-warns-ethiopia-over-plans-for-more-nile-dams/",
-          "source": "themedialine.org",
-          "pubDate": "2026-08-17T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Warns Ethiopia Over Plans for More Nile Dams"
-        },
-        {
-          "title": "Egypt Warns Ethiopia against Plans to Control Nile River Flows",
-          "link": "https://english.aawsat.com/arab-world/5307849-egypt-warns-ethiopia-against-plans-control-nile-river-flows",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-08-17T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Warns Ethiopia against Plans to Control Nile River Flows"
-        },
-        {
-          "title": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki",
-          "link": "https://www.egyptindependent.com/egypt-supports-development-in-ethiopia-but-not-if-it-harms-downstream-nations-abbas-sharaki/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-08-16T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki"
-        },
-        {
-          "title": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact",
-          "link": "https://www.middleeasteye.net/news/emirati-academics-barbed-tweet-pakistan-exposes-uae-unease-over-mecca-pact",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-16T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact"
-        },
-        {
-          "title": "Governing The Invisible Grid : Ethiopia Missing Biomass Account",
-          "link": "https://www.thereporterethiopia.com/52279/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-15T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Governing The Invisible Grid : Ethiopia Missing Biomass Account"
-        },
-        {
-          "title": "Egypt Aggressive Nile Policy No Longer Serves The Region",
-          "link": "https://www.thereporterethiopia.com/52282/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-15T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Aggressive Nile Policy No Longer Serves The Region"
         },
         {
           "title": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet",
@@ -864,58 +576,13 @@
           "titleIt": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet"
         },
         {
-          "title": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say",
-          "link": "https://www.middleeasteye.net/news/saudi-arabia-opposed-egypts-inclusion-mecca-agreement-sources-say",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-11T18:30:00Z",
+          "title": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges",
+          "link": "https://hornobserver.com/articles/3699/Ethiopia-Somali-Oromo-Officials-Discuss-Cross-Border-Challenges",
+          "description": "The dialogue brought together officials from six districts in the Fafan and Sitti zones of the Somali Regional State and five districts from the East and West Hararghe zones of the Oromia National Regional State. The meeting focused on improving collaboration between neighboring communities through locally led initiatives aimed at reinforcing social cohesion, conflict prevention, and cross-border cooperation. According to information released by the organizers, the discussions were held under the Strengthening the Resilience of Disaster-Affected Communities project, which promotes community re",
+          "pubDate": "Thu, 16 Jul 2026 23:48:28 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia opposed Egypt inclusion in Mecca agreement , sources say"
-        },
-        {
-          "title": "Liberia : Burrowes Calls for Historical Reckoning",
-          "link": "https://allafrica.com/stories/202608110475.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-11T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Liberia : Burrowes Calls for Historical Reckoning"
-        },
-        {
-          "title": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict",
-          "link": "https://allafrica.com/stories/202608100033.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa : Eritrea Regime Military Adventurism Risks Dragging Horn of Africa Back Into Conflict"
-        },
-        {
-          "title": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River",
-          "link": "https://allafrica.com/stories/202608100052.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Diaspora Members Visit GERD , Hail It As  Ethiopia Liquid Gold  On the Abay River"
-        },
-        {
-          "title": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus",
-          "link": "https://allafrica.com/stories/202608100053.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-10T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Historic Week of Green Revolution , Digital Sovereignty and National Consensus"
-        },
-        {
-          "title": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact",
-          "link": "https://www.ynetnews.com/opinions-analysis/article/rjmp11isifl",
-          "source": "ynetnews.com",
-          "pubDate": "2026-08-09T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Islamic NATO  or paper alliance ? The truth behind Saudi Arabia new defense pact"
+          "titleIt": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges"
         }
       ]
     }
