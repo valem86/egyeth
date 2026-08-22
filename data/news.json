@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T10:43:55.460Z",
+  "generatedAt": "2026-08-22T13:04:24.366Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -183,6 +183,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya: Meet the Mentors for the Nairobi Edition of Swift Academy",
+          "link": "https://allafrica.com/stories/202608210583.html",
+          "description": "[Capital FM] Applications are now open for the Nairobi edition of Swift Academy, the pan-African talent development platform created by Martell and curated by Africa House to support emerging music creatives and professionals with mentorship, practical development, industry access and collaboration.",
+          "pubDate": "Fri, 21 Aug 2026 15:09:42 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Meet the Mentors for the Nairobi Edition of Swift Academy"
+        },
+        {
           "title": "Kenya: Sifuna Reveals How Wetang'ula 'Opened His File' and Recalled Every Insult",
           "link": "https://allafrica.com/stories/202608210575.html",
           "description": "[Capital FM] Nairobi -- Nairobi Senator Edwin Sifuna left mourners laughing after revealing how National Assembly Speaker Moses Wetang'ula allegedly confronted him with a detailed list of every insult he had ever directed at him.",
@@ -192,22 +201,13 @@
           "titleIt": "Kenya: Sifuna Reveals How Wetang'ula 'Opened His File' and Recalled Every Insult"
         },
         {
-          "title": "Kenya: Beyond the Cotton Field - The Race to Build Kenya's Cotton-to-Textile Industry",
-          "link": "https://allafrica.com/stories/202608210477.html",
-          "description": "[allAfrica] Kenya is growing more cotton again, but the bigger opportunity lies in what happens after the harvest -- from ginning and spinning to fabric, garments, jobs and industrial investment. For decades, Kenya's cotton story has largely been told from the farm.",
-          "pubDate": "Fri, 21 Aug 2026 12:34:30 GMT",
+          "title": "Kenya: Wamalwa Snubs Khalwale's Call to Back Sifuna for President",
+          "link": "https://allafrica.com/stories/202608210569.html",
+          "description": "[Capital FM] Nairobi -- Drama unfolded at the funeral of Kakamega Senator Boni Khalwale's wife, Gloria Khalwale, after DAP-Kenya leader Eugene Wamalwa appeared to snub a public call to declare his support for Nairobi Senator Edwin Sifuna's presidential ambitions.",
+          "pubDate": "Fri, 21 Aug 2026 14:44:59 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Beyond the Cotton Field - The Race to Build Kenya's Cotton-to-Textile Industry"
-        },
-        {
-          "title": "Kenya: Gachagua Visits Late MP Ngeno Family, Pledges Support for Hospitalised Relative",
-          "link": "https://allafrica.com/stories/202608210434.html",
-          "description": "[Capital FM] Nairobi -- Former Deputy President Rigathi Gachagua has repeated his call for independent, foreign-led investigations into the chopper crash that killed former Emurua Dikirr.",
-          "pubDate": "Fri, 21 Aug 2026 12:11:08 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Gachagua Visits Late MP Ngeno Family, Pledges Support for Hospitalised Relative"
+          "titleIt": "Kenya: Wamalwa Snubs Khalwale's Call to Back Sifuna for President"
         },
         {
           "title": "Phone app helps Kenya's visually impaired get around",
@@ -350,6 +350,96 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "US judge strikes down Trump visa ban affecting Nigeria , 74 other countries [ Full list ]",
+          "link": "https://www.vanguardngr.com/2026/08/us-judge-strikes-down-trump-visa-ban-affecting-nigeria-74-other-countries-full-list/",
+          "source": "vanguardngr.com",
+          "pubDate": "2026-08-22T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US judge strikes down Trump visa ban affecting Nigeria , 74 other countries [ Full list ]"
+        },
+        {
+          "title": "Ashenda , Far From Home | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/52412/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-22T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ashenda , Far From Home | The Reporter Ethiopia"
+        },
+        {
+          "title": "Dangote Offers East African States Stake In Planned Refinery",
+          "link": "https://www.thereporterethiopia.com/52431/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-22T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dangote Offers East African States Stake In Planned Refinery"
+        },
+        {
+          "title": "Industry Titan Tells All : The Rise And Fall Of Akir Construction",
+          "link": "https://www.thereporterethiopia.com/52415/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-08-22T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Industry Titan Tells All : The Rise And Fall Of Akir Construction"
+        },
+        {
+          "title": "Ethiopian Economy news | Breaking News",
+          "link": "https://www.newsnow.co.uk/h/World+News/Africa/Ethiopia/Economy",
+          "source": "newsnow.co.uk",
+          "pubDate": "2026-08-22T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopian Economy news | Breaking News"
+        },
+        {
+          "title": "Somaliland Offers Berbera for U . S . and Israeli Bases as Red Sea Rivalry Intensifies",
+          "link": "https://wardheernews.com/somaliland-offers-berbera-for-u-s-and-israeli-bases-as-red-sea-rivalry-intensifies/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-22T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland Offers Berbera for U . S . and Israeli Bases as Red Sea Rivalry Intensifies"
+        },
+        {
+          "title": "Overnight News Digest : Friday night elsewhere",
+          "link": "https://www.dailykos.com/stories/2026/8/21/800087838/community/overnight-news-digest-friday-night-elsewhere-9/",
+          "source": "dailykos.com",
+          "pubDate": "2026-08-22T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Overnight News Digest : Friday night elsewhere"
+        },
+        {
+          "title": "It  s Fire Away Friday on Exploring the Word !",
+          "link": "https://afr.net:443/podcasts/exploring-the-word-with-bert-harper-and-alex-mcfarland/2026/august/its-fire-away-friday-on-exploring-the-word/",
+          "source": "afr.net",
+          "pubDate": "2026-08-21T23:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "It  s Fire Away Friday on Exploring the Word !"
+        },
+        {
+          "title": "Traveller Letters : Is Singapore Airline premium economy worth the price ?",
+          "link": "https://www.brisbanetimes.com.au/traveller/travel-news/premium-economy-was-a-colossal-waste-of-money-20260820-p60q5n.html",
+          "source": "brisbanetimes.com.au",
+          "pubDate": "2026-08-21T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Traveller Letters : Is Singapore Airline premium economy worth the price ?"
+        },
+        {
+          "title": "Today in Africa : U . S . beef imports , Botswana Russia recruitment and South Africa meth lab",
+          "link": "https://www.okayafrica.com/today-in-africa-august-21-2026-us-opens-beef-import-window-for-african-exporters-botswana-foils-russian-military-recruitment/1438381",
+          "source": "okayafrica.com",
+          "pubDate": "2026-08-21T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Today in Africa : U . S . beef imports , Botswana Russia recruitment and South Africa meth lab"
+        },
+        {
           "title": "Ethiopia: Ethiopia, U.S. Agree to Establish Comprehensive Strategic Cooperation in Defense, Security",
           "link": "https://allafrica.com/stories/202608210600.html",
           "description": "[ENA] Addis Ababa -- Ethiopia and the United States have agreed to establish comprehensive strategic cooperation in defense and security.",
@@ -366,6 +456,33 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Rwanda: Rubavu - Eritrean Investor Caught in Land Lease Dispute Considers Lawsuit"
+        },
+        {
+          "title": "East Africa : Dangote Offers East Africa 30 Percent Stake in Kenya Refinery",
+          "link": "https://allafrica.com/stories/202608210512.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-21T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "East Africa : Dangote Offers East Africa 30 Percent Stake in Kenya Refinery"
+        },
+        {
+          "title": "Djibouti Overflight Charges Rewritten , First Time Since 2002",
+          "link": "https://www.riotimesonline.com/djibouti-overflight-charges-passenger-levy-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-08-21T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Djibouti Overflight Charges Rewritten , First Time Since 2002"
+        },
+        {
+          "title": "Bishoftu Airport Shortlist Leans Heavily on China",
+          "link": "https://www.riotimesonline.com/bishoftu-airport-contractor-shortlist-china-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-08-21T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bishoftu Airport Shortlist Leans Heavily on China"
         },
         {
           "title": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow",
@@ -386,375 +503,41 @@
           "titleIt": "First US deportees arrive in Liberia under controversial third-country deal"
         },
         {
-          "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
-          "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
-          "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
-          "pubDate": "Thu, 20 Aug 2026 15:58:57 +0300",
-          "source": "Horn Observer",
+          "title": "Weather alert system taps tech , folklore",
+          "link": "http://global.chinadaily.com.cn/a/202608/20/WS6a871efea3106bc57421c9e5.html",
+          "source": "global.chinadaily.com.cn",
+          "pubDate": "2026-08-21T03:00:00Z",
           "lang": "en",
-          "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
+          "description": "",
+          "titleIt": "Weather alert system taps tech , folklore"
         },
         {
-          "title": "Pope meets with Aoun, Holy See supports peace deal",
-          "link": "https://www.ansa.it/english/news/2026/08/20/pope-meets-with-aoun-holy-see-supports-peace-deal_86d1c90d-e8c8-49b3-abd0-152035b77b8c.html",
-          "description": "(ANSA) - ROME, AUG 20 - Pope Leo XIV on Thursday received Lebanese President Joseph Aoun in audience, the Holy See said saying it backed a recent peace agreement over Lebanon. The discussions in the Secretariat of State, the Vatican said, \"focused essentially on the Trilateral Framework Agreement, signed by the United States, Israel, and Lebanon, aimed at stabilizing the southern borders of the Republic of Lebanon and achieving a just and lasting peace. \"The Holy See, while expressing satisfaction with the signing of the document, expressed serious concerns about the difficulties being experie",
-          "pubDate": "Thu, 20 Aug 2026 13:48:16 +0200",
-          "source": "ANSA English",
+          "title": "Weather alert system taps tech , folklore",
+          "link": "http://usa.chinadaily.com.cn/a/202608/20/WS6a871efea3106bc57421c9e5.html",
+          "source": "usa.chinadaily.com.cn",
+          "pubDate": "2026-08-21T01:15:00Z",
           "lang": "en",
-          "titleIt": "Pope meets with Aoun, Holy See supports peace deal"
+          "description": "",
+          "titleIt": "Weather alert system taps tech , folklore"
         },
         {
-          "title": "Pope meets with Aoun, Holy See supports peace deal",
-          "link": "https://www.ansa.it/english/news/vatican/2026/08/20/pope-meets-with-aoun-holy-see-supports-peace-deal_469dbc74-4326-4130-bbd6-a579131c856d.html",
-          "description": "(ANSA) - ROME, AUG 20 - Pope Leo XIV on Thursday received Lebanese President Joseph Aoun in audience, the Holy See said saying it backed a recent peace agreement over Lebanon. The discussions in the Secretariat of State, the Vatican said, \"focused essentially on the Trilateral Framework Agreement, signed by the United States, Israel, and Lebanon, aimed at stabilizing the southern borders of the Republic of Lebanon and achieving a just and lasting peace. \"The Holy See, while expressing satisfaction with the signing of the document, expressed serious concerns about the difficulties being experie",
-          "pubDate": "Thu, 20 Aug 2026 13:45:04 +0200",
-          "source": "ANSA English",
+          "title": "Powered by People Raises Funding to Connect African Makers : TechMoran",
+          "link": "https://techmoran.com/2026/08/20/powered-by-people-raises-funding-to-connect-african-makers-to-the-ai-driven-global-marketplace/",
+          "source": "techmoran.com",
+          "pubDate": "2026-08-20T20:45:00Z",
           "lang": "en",
-          "titleIt": "Pope meets with Aoun, Holy See supports peace deal"
-        },
-        {
-          "title": "35 migrants land on Lampedusa, 52 in distress 70 miles from island",
-          "link": "https://www.ansa.it/english/news/2026/08/19/35-migrants-land-on-lampedusa-52-in-distress-70-miles-from-island_e2b6cb6a-a370-4c9c-a84f-ed23b78afefa.html",
-          "description": "(ANSA) - ROME, AUG 19 - Some 35 migrants disembarked on Lampedusa, while 52 others were reported to be on a boat in distress 70 miles from the Sicilian stepping-stone island, which is closer to Africa than to Italy. The 35, originally from Eritrea, Somalia, and Sudan, disembarked after the seven-meter dinghy they were traveling on was rescued by a Coast Guard patrol boat. The group, which departed from Gars Garabulli in Libya, also included six women. Meanwhile, Alarmphone issued an SOS for a vessel adrift in the central Mediterranean, saying: \"52 lives are in danger approximately 70 miles fro",
-          "pubDate": "Wed, 19 Aug 2026 16:22:00 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "35 migrants land on Lampedusa, 52 in distress 70 miles from island"
-        },
-        {
-          "title": "35 migrants land on Lampedusa, 52 in distress 70 miles from island",
-          "link": "https://www.ansa.it/english/news/general_news/2026/08/19/35-migrants-land-on-lampedusa-52-in-distress-70-miles-from-island_7ff27352-28f8-4b7f-a207-71f788d7c59e.html",
-          "description": "(ANSA) - ROME, AUG 19 - Some 35 migrants disembarked on Lampedusa, while 52 others were reported to be on a boat in distress 70 miles from the Sicilian stepping-stone island, which is closer to Africa than to Italy. The 35, originally from Eritrea, Somalia, and Sudan, disembarked after the seven-meter dinghy they were traveling on was rescued by a Coast Guard patrol boat. The group, which departed from Gars Garabulli in Libya, also included six women. Meanwhile, Alarmphone issued an SOS for a vessel adrift in the central Mediterranean, saying: \"52 lives are in danger approximately 70 miles fro",
-          "pubDate": "Wed, 19 Aug 2026 16:21:57 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "35 migrants land on Lampedusa, 52 in distress 70 miles from island"
-        },
-        {
-          "title": "Gulf war fallout: Somali households pay the price of trade disruption",
-          "link": "https://www.thenewhumanitarian.org/news-feature/2026/08/17/gulf-war-fallout-somali-households-pay-price-trade-disruption",
-          "description": "The closure of the Strait of Hormuz is hurting Somalia’s import-dependent economy.",
-          "pubDate": "Mon, 17 Aug 26 10:30:55 +0000",
-          "source": "The New Humanitarian",
-          "lang": "en",
-          "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
-        },
-        {
-          "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
-          "link": "https://hornobserver.com/articles/3715/Conflict-Drives-Farmers-Into-Somalias-capital-Mogadishu",
-          "description": "The families were displaced by disputes over agricultural land ownership, alongside ongoing fighting between the Somali government and Al-Shabaab and renewed clan conflicts over contested farmland. Aadan Rooble, a former farmer now living in an IDP camp in Mogadishu, said he fled the village of Farxaano in Lower Shabelle about 10 days ago because of continued fighting. Aadan said some members of his family were able to secure transportation, while he initially travelled on foot before eventually finding a vehicle. He said the family was forced to abandon the farms where they worked after repea",
-          "pubDate": "Mon, 17 Aug 2026 12:31:00 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
-        },
-        {
-          "title": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug",
-          "link": "https://hornobserver.com/articles/3714/Policy-Brief-From-Elections-to-Democratic-Governance-Strengthening-Political-Stability-and-Electoral-Integrity-in-Somalias-Galmudug",
-          "description": "As the state enters a new electoral phase in 2026, the central question is no longer simply whether elections can be conducted, but whether electoral reform can contribute to stronger institutions, inclusive governance, and lasting political stability. This new policy brief by the Insight Horn Institute (IHI) examines Galmudug's four electoral cycles between 2015 and 2026 and explores what they reveal about institutional development, federal-state relations, political inclusion, security, and democratic legitimacy. It argues that elections are an important part of democratic transition, but th",
-          "pubDate": "Thu, 13 Aug 2026 19:52:05 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug"
-        },
-        {
-          "title": "A Government With One Foot Out the Door: Somalia's Foreign Passport Crisis",
-          "link": "https://hornobserver.com/articles/3710/A-Government-With-One-Foot-Out-the-Door-Somalias-Foreign-Passport-Crisis",
-          "description": "It took a Kenyan airport officer to do what Somalia's own constitution could not. He was not alone. On July 26, State Minister at the Presidency Abshir Bukhaari — a former First Deputy Speaker of Somalia's Senate — was also denied entry at the same airport and placed on a return flight to Mogadishu after immigration officials raised questions about his travel documents. Neither the Kenyan nor the Somali government has officially confirmed the reasons behind the incident. Somalia's Foreign Ministry summoned Kenya's ambassador for consultations the following day. The embarrassments forced Presid",
-          "pubDate": "Sat, 08 Aug 2026 11:40:07 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "A Government With One Foot Out the Door: Somalia's Foreign Passport Crisis"
-        },
-        {
-          "title": "Somali Cabinet Approves Passport, Trade and Judicial Reforms",
-          "link": "https://hornobserver.com/articles/3707/Somali-Cabinet-Approves-Passport-Trade-and-Judicial-Reforms",
-          "description": "The council was briefed on Somalia's new third-generation electronic passport and was told that changes to personal data in issued passports have been stopped entirely to strengthen the document's credibility. Ministers also approved a Rules of Origin Bill allowing goods containing at least 30% Somali content to qualify for preferential treatment in regional markets. The law is aimed at boosting local production and exports following Somalia's entry into the East African Community and its participation in the African Continental Free Trade Area. The council also confirmed four appointed member",
-          "pubDate": "Sat, 08 Aug 2026 10:02:19 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somali Cabinet Approves Passport, Trade and Judicial Reforms"
-        },
-        {
-          "title": "AUSSOM Leadership Meets New Djibouti Ambassador to Somalia",
-          "link": "https://hornobserver.com/articles/3704/AUSSOM-Leadership-Meets-New-Djibouti-Ambassador-to-Somalia",
-          "description": "Ambassador Diene was accompanied by Deputy SRCC Ambassador Mouktar Osman Kaire during the meeting, which focused on AUSSOM's mandate, the evolving security situation in Somalia, and recent developments related to Somali-led efforts to enhance peace, security, and stability. Ambassador Diene expressed appreciation for Djibouti's longstanding contribution to peace and security in Somalia, including the continued deployment of Djiboutian troops under AUSSOM. He also commended Ambassador Sougouleh for his contribution to peace, security, and stability in Somalia, particularly during his tenure as ",
-          "pubDate": "Sat, 25 Jul 2026 09:47:17 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "AUSSOM Leadership Meets New Djibouti Ambassador to Somalia"
-        },
-        {
-          "title": "Somalia Says 25 Al-Shabaab Militants Killed, Four Surrender",
-          "link": "https://hornobserver.com/articles/3701/Somalia-Says-25-Al-Shabaab-Militants-Killed-Four-Surrender",
-          "description": "The Ministry of Defence announced the outcome in a press statement released on Saturday, describing the operation as part of the Federal Government of Somalia's ongoing military campaign against Al-Shabaab. According to the ministry, the strike targeted positions the group had established in Suullaay, an area where security forces have continued operations aimed at disrupting militant activity in central Somalia. The ministry identified the four individuals who surrendered to the Somali National Army as Aden Mohamed Jimale, known within the group as Abbas, Ibrahim Aden Dahir, Aden Abshir Abdi,",
-          "pubDate": "Sat, 18 Jul 2026 16:09:16 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia Says 25 Al-Shabaab Militants Killed, Four Surrender"
-        },
-        {
-          "title": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges",
-          "link": "https://hornobserver.com/articles/3699/Ethiopia-Somali-Oromo-Officials-Discuss-Cross-Border-Challenges",
-          "description": "The dialogue brought together officials from six districts in the Fafan and Sitti zones of the Somali Regional State and five districts from the East and West Hararghe zones of the Oromia National Regional State. The meeting focused on improving collaboration between neighboring communities through locally led initiatives aimed at reinforcing social cohesion, conflict prevention, and cross-border cooperation. According to information released by the organizers, the discussions were held under the Strengthening the Resilience of Disaster-Affected Communities project, which promotes community re",
-          "pubDate": "Thu, 16 Jul 2026 23:48:28 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges"
-        },
-        {
-          "title": "Somalia Hosts Djibouti Police Delegation for Security Talks",
-          "link": "https://hornobserver.com/articles/3698/Somalia-Hosts-Djibouti-Police-Delegation-for-Security-Talks",
-          "description": "During the visit, the delegation toured the Somali Police Force's Godir Special Police Unit, the Criminal Investigation Department (CID), the Counter-Terrorism Command, and the Haram'ad Special Police Command. Senior Somali police officials briefed the visiting delegation on the structure, operational capabilities, specialized training, and ongoing security missions carried out by the respective units. Officials accompanying the delegation observed demonstrations highlighting tactical preparedness, criminal investigation procedures, intelligence coordination, and counterterrorism response capa",
-          "pubDate": "Thu, 16 Jul 2026 04:29:49 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia Hosts Djibouti Police Delegation for Security Talks"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Powered by People Raises Funding to Connect African Makers : TechMoran"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Arctic Shipping a Daunting Prospect in Hotly Contested Region",
-          "link": "https://english.aawsat.com/business/5309794-arctic-shipping-daunting-prospect-hotly-contested-region",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-08-22T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arctic Shipping a Daunting Prospect in Hotly Contested Region"
-        },
-        {
-          "title": "The meaning of the Mecca Pact",
-          "link": "https://links.org.au/meaning-mecca-pact",
-          "source": "links.org.au",
-          "pubDate": "2026-08-22T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The meaning of the Mecca Pact"
-        },
-        {
-          "title": "Has US strategy towards the Middle East changed after the war ?",
-          "link": "https://www.middleeastmonitor.com/20260822-has-us-strategy-towards-the-middle-east-changed-after-the-war/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-08-22T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Has US strategy towards the Middle East changed after the war ?"
-        },
-        {
-          "title": "Trump tariffs live : Mark Carney suspends trade talks with U . S .",
-          "link": "https://www.wellandtribune.ca/politics/federal/trump-tarrifs-live/article_0d6fa07a-d728-5aa8-a1cb-e6db95928f9e.html",
-          "source": "wellandtribune.ca",
-          "pubDate": "2026-08-22T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump tariffs live : Mark Carney suspends trade talks with U . S ."
-        },
-        {
-          "title": "Businesses fear closure with no Canada - U . S . trade deal as industry reacts",
-          "link": "https://www.castanetkamloops.net/news/Business/628845/Businesses-fear-closure-with-no-Canada-U-S-trade-deal-as-industry-reacts",
-          "source": "castanetkamloops.net",
-          "pubDate": "2026-08-22T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Businesses fear closure with no Canada - U . S . trade deal as industry reacts"
-        },
-        {
-          "title": "Ethiopian Economy news | Breaking News",
-          "link": "https://www.newsnow.co.uk/h/World+News/Africa/Ethiopia/Economy",
-          "source": "newsnow.co.uk",
-          "pubDate": "2026-08-22T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopian Economy news | Breaking News"
-        },
-        {
-          "title": "Trump tariffs live : Mark Carney suspends trade talks with U . S .",
-          "link": "https://www.niagarafallsreview.ca/politics/federal/trump-tarrifs-live/article_ed34fe4e-87b6-570f-897b-68318181cfea.html",
-          "source": "niagarafallsreview.ca",
-          "pubDate": "2026-08-22T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Trump tariffs live : Mark Carney suspends trade talks with U . S ."
-        },
-        {
-          "title": "Overnight News Digest : Friday night elsewhere",
-          "link": "https://www.dailykos.com/stories/2026/8/21/800087838/community/overnight-news-digest-friday-night-elsewhere-9/",
-          "source": "dailykos.com",
-          "pubDate": "2026-08-22T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Overnight News Digest : Friday night elsewhere"
-        },
-        {
-          "title": "Free AI Platform  BelMasry  Supports Egyptian Arabic & 50 Languages",
-          "link": "https://cairoscene.com/News/Free-AI-Platform-BelMasry-Supports-Egyptian-Arabic-50-Languages",
-          "source": "cairoscene.com",
-          "pubDate": "2026-08-22T03:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Free AI Platform  BelMasry  Supports Egyptian Arabic & 50 Languages"
-        },
-        {
-          "title": "Arctic shipping a daunting prospect in hotly contested region",
-          "link": "https://www.yahoo.com/news/world/articles/arctic-shipping-daunting-prospect-hotly-024542298.html",
-          "source": "yahoo.com",
-          "pubDate": "2026-08-22T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arctic shipping a daunting prospect in hotly contested region"
-        },
-        {
-          "title": "Echoes of women voices in the poetry of the Bible",
-          "link": "https://www.standardmedia.co.ke/opinion/article/2001555894/echoes-of-womens-voices-in-the-poetry-of-the-bible",
-          "source": "standardmedia.co.ke",
-          "pubDate": "2026-08-22T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Echoes of women voices in the poetry of the Bible"
-        },
-        {
-          "title": "中東風雲錄 -- 開欄文 ： 埃及的加薩重建方案 -- Al Jazeera - 時事論壇",
-          "link": "https://city.udn.com/2976/7247690?raid=7297956",
-          "source": "city.udn.com",
-          "pubDate": "2026-08-22T03:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "中東風雲錄 -- 開欄文 ： 埃及的加薩重建方案 -- Al Jazeera - 時事論壇"
-        },
-        {
-          "title": "Missouri S & T welcomes new faculty",
-          "link": "https://news.mst.edu/featured/missouri-st-welcomes-new-faculty/",
-          "source": "news.mst.edu",
-          "pubDate": "2026-08-21T23:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Missouri S & T welcomes new faculty"
-        },
-        {
-          "title": "Quiz : Think You Know Geography ? Name All the African Countries By Their Capitals",
-          "link": "https://www.mentalfloss.com/quizzes/geography/name-african-countries-by-capitals",
-          "source": "mentalfloss.com",
-          "pubDate": "2026-08-21T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Quiz : Think You Know Geography ? Name All the African Countries By Their Capitals"
-        },
-        {
-          "title": "Morocco Ranks 34th Globally in 2026 Global SME Index",
-          "link": "https://www.moroccoworldnews.com/2026/08/335617/morocco-ranks-34th-globally-in-2026-global-sme-index/",
-          "source": "moroccoworldnews.com",
-          "pubDate": "2026-08-21T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Morocco Ranks 34th Globally in 2026 Global SME Index"
-        },
-        {
-          "title": "Kerala targets Arab travellers in big medical tourism push",
-          "link": "https://tradearabia.com:443/News/466646/Kerala-targets-Arab-travellers-in-big-medical-tourism-push",
-          "source": "tradearabia.com",
-          "pubDate": "2026-08-21T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Kerala targets Arab travellers in big medical tourism push"
-        },
-        {
-          "title": "From Australia to Germany : Growing global pressure on Israel",
-          "link": "https://www.ynetnews.com/article/b1nfw7uwml",
-          "source": "ynetnews.com",
-          "pubDate": "2026-08-21T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "From Australia to Germany : Growing global pressure on Israel"
-        },
-        {
-          "title": "Jordan , UAE , Turkey , other countries condemn E1 settlement plan",
-          "link": "http://www.jpost.com/middle-east/article-906213",
-          "source": "jpost.com",
-          "pubDate": "2026-08-21T21:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Jordan , UAE , Turkey , other countries condemn E1 settlement plan"
-        },
-        {
-          "title": "5 TV Dramas Better Than The Movies That Inspired Them",
-          "link": "https://www.tvline.com/2240482/tv-dramas-better-than-movies-inspired-them/",
-          "source": "tvline.com",
-          "pubDate": "2026-08-21T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "5 TV Dramas Better Than The Movies That Inspired Them"
-        },
-        {
-          "title": "Why Young Bangladeshis Risk Deadly Mediterranean Crossings",
-          "link": "https://www.thedailystar.net/slow-reads/unheard-voices/news/can-we-save-young-bangladeshis-deadly-mediterranean-crossings-4253536",
-          "source": "thedailystar.net",
-          "pubDate": "2026-08-21T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why Young Bangladeshis Risk Deadly Mediterranean Crossings"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Sudan Farms Lie Barren as El Nino Leaves Nile Banks Dry",
-          "link": "https://english.aawsat.com/arab-world/5309769-sudan-farms-lie-barren-el-nino-leaves-nile-banks-dry",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-08-22T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan Farms Lie Barren as El Nino Leaves Nile Banks Dry"
-        },
-        {
-          "title": "Overnight News Digest : Friday night elsewhere",
-          "link": "https://www.dailykos.com/stories/2026/8/21/800087838/community/overnight-news-digest-friday-night-elsewhere-9/",
-          "source": "dailykos.com",
-          "pubDate": "2026-08-22T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Overnight News Digest : Friday night elsewhere"
-        },
-        {
-          "title": "Sudan farms lie barren as El Nino leaves Nile banks dry",
-          "link": "https://www.yahoo.com/news/science/articles/sudan-farms-lie-barren-el-032502020.html",
-          "source": "yahoo.com",
-          "pubDate": "2026-08-22T04:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan farms lie barren as El Nino leaves Nile banks dry"
-        },
-        {
-          "title": "Sudan: Sudan's Aid Workers Under Fire As Volunteers Keep Humanitarian Lifeline Alive",
-          "link": "https://allafrica.com/stories/202608210429.html",
-          "description": "[Dabanga] Amsterdam -- By Suleiman Siri for Radio Dabanga",
-          "pubDate": "Fri, 21 Aug 2026 12:06:11 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Sudan's Aid Workers Under Fire As Volunteers Keep Humanitarian Lifeline Alive"
-        },
-        {
-          "title": "The Ethiopian dam dispute and Egypt  right to self - defense",
-          "link": "https://www.arabnews.com/node/2655409/middle-east",
-          "source": "arabnews.com",
-          "pubDate": "2026-08-21T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Ethiopian dam dispute and Egypt  right to self - defense"
-        },
         {
           "title": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow",
           "link": "http://www.africanews.com/2026/08/21/drone-strike-wounds-13-in-tigray-capital-as-fears-of-renewed-war-grow/",
@@ -765,123 +548,6 @@
           "titleIt": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow"
         },
         {
-          "title": "The Ethiopian Dam Dispute and Egypt  Right to Self - Defense",
-          "link": "https://english.aawsat.com/features/5309417-ethiopian-dam-dispute-and-egypt%E2%80%99s-%E2%80%98right-self-defense%E2%80%99",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-08-21T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Ethiopian Dam Dispute and Egypt  Right to Self - Defense"
-        },
-        {
-          "title": "After GERD , can Egypt shape Ethiopia next Nile dams ? | News",
-          "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams",
-          "source": "aljazeera.com",
-          "pubDate": "2026-08-21T03:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "After GERD , can Egypt shape Ethiopia next Nile dams ? | News"
-        },
-        {
-          "title": "Egypt says it has right to defend water security over new Ethiopian dams on Nile River",
-          "link": "https://aa.com.tr/en/middle-east/egypt-says-it-has-right-to-defend-water-security-over-new-ethiopian-dams-on-nile-river/4032262",
-          "source": "aa.com.tr",
-          "pubDate": "2026-08-20T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says it has right to defend water security over new Ethiopian dams on Nile River"
-        },
-        {
-          "title": "Egypt - Ethiopia Nile Dispute Expands Into a Contest for the Horn",
-          "link": "https://themedialine.org/top-stories/egypt-ethiopia-nile-dispute-expands-into-a-contest-for-the-horn/",
-          "source": "themedialine.org",
-          "pubDate": "2026-08-20T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt - Ethiopia Nile Dispute Expands Into a Contest for the Horn"
-        },
-        {
-          "title": "Ethiopia : Egypt Aggressive Nile Policy No Longer Serves the Region",
-          "link": "https://allafrica.com/stories/202608190464.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-19T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Egypt Aggressive Nile Policy No Longer Serves the Region"
-        },
-        {
-          "title": "Ethiopia : New Ethiopian Dams Pose No Threat - Sudanese Former Water Resources Minister",
-          "link": "https://allafrica.com/stories/202608190434.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-19T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : New Ethiopian Dams Pose No Threat - Sudanese Former Water Resources Minister"
-        },
-        {
-          "title": "Today in Africa : DR Congo Ebola outbreak becomes deadliest , Cameroon wins first WAFCON title",
-          "link": "https://www.okayafrica.com/today-in-africa-august-17-2026-dr-congos-ebola-outbreak-now-the-countrys-deadliest-cameroon-wins-first-ever-wafcon-title/1437871",
-          "source": "okayafrica.com",
-          "pubDate": "2026-08-17T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Today in Africa : DR Congo Ebola outbreak becomes deadliest , Cameroon wins first WAFCON title"
-        },
-        {
-          "title": "Egypt Warns Ethiopia Over Plans for More Nile Dams",
-          "link": "https://themedialine.org/headlines/egypt-warns-ethiopia-over-plans-for-more-nile-dams/",
-          "source": "themedialine.org",
-          "pubDate": "2026-08-17T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Warns Ethiopia Over Plans for More Nile Dams"
-        },
-        {
-          "title": "Egypt Warns Ethiopia against Plans to Control Nile River Flows",
-          "link": "https://english.aawsat.com/arab-world/5307849-egypt-warns-ethiopia-against-plans-control-nile-river-flows",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-08-17T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Warns Ethiopia against Plans to Control Nile River Flows"
-        },
-        {
-          "title": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki",
-          "link": "https://www.egyptindependent.com/egypt-supports-development-in-ethiopia-but-not-if-it-harms-downstream-nations-abbas-sharaki/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-08-16T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt supports development in Ethiopia , but not if it harms downstream nations : Abbas Sharaki"
-        },
-        {
-          "title": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact",
-          "link": "https://www.middleeasteye.net/news/emirati-academics-barbed-tweet-pakistan-exposes-uae-unease-over-mecca-pact",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-08-16T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Former UAE presidential aide post mocking Pakistan exposes unease over Mecca pact"
-        },
-        {
-          "title": "Governing The Invisible Grid : Ethiopia Missing Biomass Account",
-          "link": "https://www.thereporterethiopia.com/52279/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-15T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Governing The Invisible Grid : Ethiopia Missing Biomass Account"
-        },
-        {
-          "title": "Egypt Aggressive Nile Policy No Longer Serves The Region",
-          "link": "https://www.thereporterethiopia.com/52282/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-15T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Aggressive Nile Policy No Longer Serves The Region"
-        },
-        {
           "title": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet",
           "link": "https://www.thenewhumanitarian.org/cheat-sheet/2026/08/14/rsf-drone-attacks-somalias-drought-emergency-and-wfp-sticks-palantir-cheat",
           "description": "A weekly read to keep you in the loop on humanitarian issues.",
@@ -889,6 +555,15 @@
           "source": "The New Humanitarian",
           "lang": "en",
           "titleIt": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet"
+        },
+        {
+          "title": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges",
+          "link": "https://hornobserver.com/articles/3699/Ethiopia-Somali-Oromo-Officials-Discuss-Cross-Border-Challenges",
+          "description": "The dialogue brought together officials from six districts in the Fafan and Sitti zones of the Somali Regional State and five districts from the East and West Hararghe zones of the Oromia National Regional State. The meeting focused on improving collaboration between neighboring communities through locally led initiatives aimed at reinforcing social cohesion, conflict prevention, and cross-border cooperation. According to information released by the organizers, the discussions were held under the Strengthening the Resilience of Disaster-Affected Communities project, which promotes community re",
+          "pubDate": "Thu, 16 Jul 2026 23:48:28 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges"
         }
       ]
     }
