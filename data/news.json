@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T02:02:56.966Z",
+  "generatedAt": "2026-08-23T03:17:24.625Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -183,15 +183,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Sifuna Reveals How Wetang'ula 'Opened His File' and Recalled Every Insult",
-          "link": "https://allafrica.com/stories/202608210575.html",
-          "description": "[Capital FM] Nairobi -- Nairobi Senator Edwin Sifuna left mourners laughing after revealing how National Assembly Speaker Moses Wetang'ula allegedly confronted him with a detailed list of every insult he had ever directed at him.",
-          "pubDate": "Fri, 21 Aug 2026 14:47:24 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Sifuna Reveals How Wetang'ula 'Opened His File' and Recalled Every Insult"
-        },
-        {
           "title": "Kenya: Beyond the Cotton Field - The Race to Build Kenya's Cotton-to-Textile Industry",
           "link": "https://allafrica.com/stories/202608210477.html",
           "description": "[allAfrica] Kenya is growing more cotton again, but the bigger opportunity lies in what happens after the harvest -- from ginning and spinning to fabric, garments, jobs and industrial investment. For decades, Kenya's cotton story has largely been told from the farm.",
@@ -348,15 +339,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: Ethiopia, U.S. Agree to Establish Comprehensive Strategic Cooperation in Defense, Security"
-        },
-        {
-          "title": "Rwanda: Rubavu - Eritrean Investor Caught in Land Lease Dispute Considers Lawsuit",
-          "link": "https://allafrica.com/stories/202608210574.html",
-          "description": "[New Times] An Eritrean investor whose business has been caught up in a commercial land lease dispute with the new owner of a plot located on the shores of Lake Kivu is considering taking the matter to the court of law after the two parties have failed to reach an agreement.",
-          "pubDate": "Fri, 21 Aug 2026 14:46:56 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Rwanda: Rubavu - Eritrean Investor Caught in Land Lease Dispute Considers Lawsuit"
         },
         {
           "title": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow",
@@ -517,8 +499,26 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
+          "title": "Business news: Egitto, rimesse raggiungono 47,3 miliardi di dollari in anno fiscale 2025-26",
+          "link": "https://www.agenzianova.com/a/6a8a660eb42160.08724600/7712926/2026-08-23/business-news-egitto-rimesse-raggiungono-47-3-miliardi-di-dollari-in-anno-fiscale-2025-26",
+          "description": "23 ago 05:00 - (Agenzia Nova) - Le rimesse degli egiziani che lavorano all'estero hanno raggiunto la cifra di 47,3 miliardi di dollari nell'anno... (Cae)",
+          "pubDate": "2026-08-23T05:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business news: Egitto, rimesse raggiungono 47,3 miliardi di dollari in anno fiscale 2025-26"
+        },
+        {
+          "title": "Investigation : Europe pays Libya Haftar to curb migrant flows despite rights abuses",
+          "link": "https://www.ynetnews.com/article/b1rjjnwwmx",
+          "source": "ynetnews.com",
+          "pubDate": "2026-08-23T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Investigation : Europe pays Libya Haftar to curb migrant flows despite rights abuses"
+        },
+        {
           "title": "Business news: Egitto, deficit commerciale in aumento del 42,1 per cento annuo in primo semestre",
-          "link": "https://www.agenzianova.com/a/6a8a544247a470.34574978/7712919/2026-08-23/business-news-egitto-deficit-commerciale-in-aumento-del-42-1-per-cento-annuo-in-primo-semestre",
+          "link": "https://www.agenzianova.com/a/6a8a660eb4d789.58576621/7712919/2026-08-23/business-news-egitto-deficit-commerciale-in-aumento-del-42-1-per-cento-annuo-in-primo-semestre",
           "description": "23 ago 04:00 - (Agenzia Nova) - Il disavanzo commerciale dell'Egitto e' aumentato del 42,1 per cento nel primo semestre del 2026 raggiungendo... (Cae)",
           "pubDate": "2026-08-23T04:00:00+02:00",
           "source": "Agenzia Nova",
@@ -527,7 +527,7 @@
         },
         {
           "title": "Business news: Egitto, multinazionale Halliburton pianifica studio su tecnologie perforazione giacimenti",
-          "link": "https://www.agenzianova.com/a/6a8a544247c6b1.35208747/7712918/2026-08-23/business-news-egitto-multinazionale-halliburton-pianifica-studio-su-tecnologie-perforazione-giacimenti",
+          "link": "https://www.agenzianova.com/a/6a8a660eb4e9d2.46889563/7712918/2026-08-23/business-news-egitto-multinazionale-halliburton-pianifica-studio-su-tecnologie-perforazione-giacimenti",
           "description": "23 ago 04:00 - (Agenzia Nova) - La societa' multinazionale statunitense Halliburton intende condurre nei prossimi mesi uno studio economico... (Cae)",
           "pubDate": "2026-08-23T04:00:00+02:00",
           "source": "Agenzia Nova",
@@ -535,19 +535,163 @@
           "titleIt": "Business news: Egitto, multinazionale Halliburton pianifica studio su tecnologie perforazione giacimenti"
         },
         {
-          "title": "Egypt: Egypt Sets 50 Percent Cash Collateral Limit in New Rules for Short Selling",
-          "link": "https://allafrica.com/stories/202608220072.html",
-          "description": "[Daba Finance] Egypt has issued new rules for short selling on the Egyptian Exchange, requiring investors to provide cash collateral equal to at least 50% of the market value of borrowed securities. The Financial Regulatory Authority approved the framework under Resolution No. 155 of 2026 as part of efforts to increase trading and add more investment tools to the market.",
-          "pubDate": "Sat, 22 Aug 2026 14:58:56 GMT",
-          "source": "AllAfrica",
+          "title": "Today Happenings ; August 23 , 2026 | South Peace News",
+          "link": "https://www.southpeacenews.com/todays-happenings-august-23-2026/",
+          "source": "southpeacenews.com",
+          "pubDate": "2026-08-23T01:45:00Z",
           "lang": "en",
-          "titleIt": "Egypt: Egypt Sets 50 Percent Cash Collateral Limit in New Rules for Short Selling"
+          "description": "",
+          "titleIt": "Today Happenings ; August 23 , 2026 | South Peace News"
+        },
+        {
+          "title": "Iran security chief threatens neighbors against economic measures , and other Mideast developments",
+          "link": "https://www.wandtv.com/news/national/iran-security-chief-threatens-neighbors-against-economic-measures-and-other-mideast-developments/article_ce0b5bcd-4cc8-50e1-b64c-8e1b536a59fe.html",
+          "source": "wandtv.com",
+          "pubDate": "2026-08-23T01:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran security chief threatens neighbors against economic measures , and other Mideast developments"
+        },
+        {
+          "title": "A revolution betrayed ? Two years after Mubarak , Tahrir Square rises again",
+          "link": "https://engineeringevil.com/2013/01/25/a-revolution-betrayed-two-years-after-mubarak-tahrir-square-rises-again/",
+          "source": "engineeringevil.com",
+          "pubDate": "2026-08-23T01:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A revolution betrayed ? Two years after Mubarak , Tahrir Square rises again"
+        },
+        {
+          "title": "Iran security chief threatens neighbors against economic measures , and other Mideast developments",
+          "link": "http://www.idahostatejournal.com/news/national/iran-security-chief-threatens-neighbors-against-economic-measures-and-other-mideast-developments/article_43d687c1-00f1-5388-92e6-d4d472d55021.html",
+          "source": "idahostatejournal.com",
+          "pubDate": "2026-08-23T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran security chief threatens neighbors against economic measures , and other Mideast developments"
+        },
+        {
+          "title": "AP News in Brief at 6 : 04 p . m . EDT",
+          "link": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-6-04-p-m-edt/article_03ef3f1c-9b14-5d43-9bc6-6cfd9911b785.html",
+          "source": "idahostatejournal.com",
+          "pubDate": "2026-08-23T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AP News in Brief at 6 : 04 p . m . EDT"
+        },
+        {
+          "title": "Iran security chief threatens neighbors against economic measures , and other Mideast developments",
+          "link": "https://www.wdio.com/ap-top-news/ap-top-news-international/iran-security-chief-threatens-neighbors-against-economic-measures-and-other-mideast-developments/",
+          "source": "wdio.com",
+          "pubDate": "2026-08-23T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran security chief threatens neighbors against economic measures , and other Mideast developments"
+        },
+        {
+          "title": "Iran security chief threatens neighbors against economic measures , and other Mideast developments",
+          "link": "https://kdhnews.com/news/nation/iran-security-chief-threatens-neighbors-against-economic-measures-and-other-mideast-developments/article_3af4e10a-7585-5326-923f-69fdc66d4f72.html",
+          "source": "kdhnews.com",
+          "pubDate": "2026-08-22T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran security chief threatens neighbors against economic measures , and other Mideast developments"
+        },
+        {
+          "title": "Trump administration 75 - country immigrant visa ban struck down by US judge",
+          "link": "https://timesofoman.com/article/175937-trump-administrations-75-country-immigrant-visa-ban-struck-down-by-us-judge",
+          "source": "timesofoman.com",
+          "pubDate": "2026-08-22T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump administration 75 - country immigrant visa ban struck down by US judge"
+        },
+        {
+          "title": "GCC , Arab - Islamic nations , Western allies condemn Israel E1 settlement plan , warn of threat to two - state solution",
+          "link": "http://www.kenyastar.com/news/279258615/gcc-arab-islamic-nations-western-allies-condemn-israel-e1-settlement-plan-warn-of-threat-to-two-state-solution",
+          "source": "kenyastar.com",
+          "pubDate": "2026-08-22T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GCC , Arab - Islamic nations , Western allies condemn Israel E1 settlement plan , warn of threat to two - state solution"
+        },
+        {
+          "title": "Iran security chief threatens neighbors against economic measures , and other Mideast developments",
+          "link": "http://www.reflector.com/news/national/iran-security-chief-threatens-neighbors-against-economic-measures-and-other-mideast-developments/article_c0b7bcc9-27be-5e1a-af62-961da794747f.html",
+          "source": "reflector.com",
+          "pubDate": "2026-08-22T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran security chief threatens neighbors against economic measures , and other Mideast developments"
+        },
+        {
+          "title": "Dont call it the Middle East anymore : maps to understand how the old order is breaking down",
+          "link": "https://www.thevermilion.com/dont-call-it-the-middle-east-anymore-maps-to-understand-how-the-old-order-is-breaking-down/article_19640/",
+          "source": "thevermilion.com",
+          "pubDate": "2026-08-22T22:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Dont call it the Middle East anymore : maps to understand how the old order is breaking down"
+        },
+        {
+          "title": "Bulgaria removes US tankers after Iran threat as Tehran shows off underground missile",
+          "link": "https://www.ynetnews.com/article/byty08ddzg",
+          "source": "ynetnews.com",
+          "pubDate": "2026-08-22T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bulgaria removes US tankers after Iran threat as Tehran shows off underground missile"
+        },
+        {
+          "title": "Turkiye exports to Africa surge to $13 . 3B in first seven months",
+          "link": "http://thepeninsulaqatar.com/article/22/08/2026/turkiyes-exports-to-africa-surge-to-133b-in-first-seven-months",
+          "source": "thepeninsulaqatar.com",
+          "pubDate": "2026-08-22T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkiye exports to Africa surge to $13 . 3B in first seven months"
+        },
+        {
+          "title": "Jehu and Trump : Reformers at a crossroads",
+          "link": "https://www.americanthinker.com/blog/2026/08/jehu-and-trump-reformers-at-a-crossroads/",
+          "source": "americanthinker.com",
+          "pubDate": "2026-08-22T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Jehu and Trump : Reformers at a crossroads"
+        },
+        {
+          "title": "GCC , Arab - Islamic nations , Western allies condemn Israel E1 settlement plan , warn of threat to two - state solution",
+          "link": "http://www.iranherald.com/news/279258615/gcc-arab-islamic-nations-western-allies-condemn-israel-e1-settlement-plan-warn-of-threat-to-two-state-solution",
+          "source": "iranherald.com",
+          "pubDate": "2026-08-22T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GCC , Arab - Islamic nations , Western allies condemn Israel E1 settlement plan , warn of threat to two - state solution"
+        },
+        {
+          "title": "Egypt speaks with Iran after Tehran claims victory , and other Middle East developments",
+          "link": "http://www.idahopress.com/ap_news/us/egypt-speaks-with-iran-after-tehran-claims-victory-and-other-middle-east-developments/article_3ae10504-39db-5cf1-be5f-ea57a539982e.html",
+          "source": "idahopress.com",
+          "pubDate": "2026-08-22T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt speaks with Iran after Tehran claims victory , and other Middle East developments"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Sudan: Sudan's Aid Workers Under Fire As Volunteers Keep Humanitarian Lifeline Alive",
+          "link": "https://allafrica.com/stories/202608210429.html",
+          "description": "[Dabanga] Amsterdam -- By Suleiman Siri for Radio Dabanga",
+          "pubDate": "Fri, 21 Aug 2026 12:06:11 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudan's Aid Workers Under Fire As Volunteers Keep Humanitarian Lifeline Alive"
+        },
         {
           "title": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow",
           "link": "http://www.africanews.com/2026/08/21/drone-strike-wounds-13-in-tigray-capital-as-fears-of-renewed-war-grow/",
