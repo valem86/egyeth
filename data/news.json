@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T02:00:46.490Z",
+  "generatedAt": "2026-08-24T03:19:39.904Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -183,13 +183,40 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Sifuna Reveals How Wetang'ula 'Opened His File' and Recalled Every Insult",
-          "link": "https://allafrica.com/stories/202608210575.html",
-          "description": "[Capital FM] Nairobi -- Nairobi Senator Edwin Sifuna left mourners laughing after revealing how National Assembly Speaker Moses Wetang'ula allegedly confronted him with a detailed list of every insult he had ever directed at him.",
-          "pubDate": "Fri, 21 Aug 2026 14:47:24 GMT",
-          "source": "AllAfrica",
+          "title": "Unrecognised Somaliland calls on Cyprus , Greece to recognise it",
+          "link": "https://cyprus-mail.com/2026/08/22/unrecognised-somaliland-calls-on-cyprus-greece-to-recognise-it",
+          "source": "cyprus-mail.com",
+          "pubDate": "2026-08-22T10:00:00Z",
           "lang": "en",
-          "titleIt": "Kenya: Sifuna Reveals How Wetang'ula 'Opened His File' and Recalled Every Insult"
+          "description": "",
+          "titleIt": "Unrecognised Somaliland calls on Cyprus , Greece to recognise it"
+        },
+        {
+          "title": "The meaning of the Mecca Pact",
+          "link": "https://links.org.au/meaning-mecca-pact",
+          "source": "links.org.au",
+          "pubDate": "2026-08-22T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The meaning of the Mecca Pact"
+        },
+        {
+          "title": "Implications of Mecca defense pact for Israel , India",
+          "link": "http://www.jpost.com/defense-and-tech/article-906236",
+          "source": "jpost.com",
+          "pubDate": "2026-08-22T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Implications of Mecca defense pact for Israel , India"
+        },
+        {
+          "title": "Somaliland Offers Berbera for U . S . and Israeli Bases as Red Sea Rivalry Intensifies",
+          "link": "https://wardheernews.com/somaliland-offers-berbera-for-u-s-and-israeli-bases-as-red-sea-rivalry-intensifies/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-22T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland Offers Berbera for U . S . and Israeli Bases as Red Sea Rivalry Intensifies"
         },
         {
           "title": "Kenya: Beyond the Cotton Field - The Race to Build Kenya's Cotton-to-Textile Industry",
@@ -201,6 +228,33 @@
           "titleIt": "Kenya: Beyond the Cotton Field - The Race to Build Kenya's Cotton-to-Textile Industry"
         },
         {
+          "title": "Somalia denies recognising northern Cyprus after parliament speaker comment",
+          "link": "https://cyprus-mail.com/2026/08/21/somalia-denies-recognising-northern-cyprus-after-parliament-speakers-comment",
+          "source": "cyprus-mail.com",
+          "pubDate": "2026-08-21T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia denies recognising northern Cyprus after parliament speaker comment"
+        },
+        {
+          "title": "Somali Federal Lawmaker Vows to Follow the Will of the Somaliland People Over Somali Unity",
+          "link": "https://wardheernews.com/somali-federal-lawmaker-vows-to-follow-the-will-of-the-somaliland-people-over-somali-unity/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-20T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somali Federal Lawmaker Vows to Follow the Will of the Somaliland People Over Somali Unity"
+        },
+        {
+          "title": "Somalia Mourns After Brothers and a Child Die in Separate Incidents",
+          "link": "https://wardheernews.com/somalia-mourns-after-brothers-and-a-child-die-in-separate-incidents/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-08-20T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia Mourns After Brothers and a Child Die in Separate Incidents"
+        },
+        {
           "title": "Phone app helps Kenya's visually impaired get around",
           "link": "http://www.africanews.com/2026/08/20/phone-app-helps-kenyas-visually-impaired-get-around/",
           "description": "A navigation tool built in Kenya is using AI to help people with visual impairment understand what lies ahead as they move through Nairobi. 'Sightra' runs as a phone based web app, detecting cars, trees, furniture and other obstacles in real time and sending spoken descriptions through an earpiece.",
@@ -210,6 +264,15 @@
           "titleIt": "Phone app helps Kenya's visually impaired get around"
         },
         {
+          "title": "The Islamist threats to Saudi Arabia in the Horn and Red Sea - Christians for Israel International",
+          "link": "https://www.whyisrael.org/jns-org/the-islamist-threats-to-saudi-arabia-in-the-horn-and-red-sea/",
+          "source": "whyisrael.org",
+          "pubDate": "2026-08-20T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Islamist threats to Saudi Arabia in the Horn and Red Sea - Christians for Israel International"
+        },
+        {
           "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
           "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
           "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
@@ -217,6 +280,24 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
+        },
+        {
+          "title": "The Islamist threats to Saudi Arabia in the Horn and Red Sea",
+          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/the-islamist-threats-to-saudi-arabia-in-the-horn-and-red-sea",
+          "source": "jns.org",
+          "pubDate": "2026-08-20T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Islamist threats to Saudi Arabia in the Horn and Red Sea"
+        },
+        {
+          "title": "Egypt - Ethiopia Nile Dispute Expands Into a Contest for the Horn",
+          "link": "https://themedialine.org/top-stories/egypt-ethiopia-nile-dispute-expands-into-a-contest-for-the-horn/",
+          "source": "themedialine.org",
+          "pubDate": "2026-08-20T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt - Ethiopia Nile Dispute Expands Into a Contest for the Horn"
         },
         {
           "title": "An Italian among the dead in a helicopter crash in Kenya",
@@ -255,85 +336,31 @@
           "titleIt": "35 migrants land on Lampedusa, 52 in distress 70 miles from island"
         },
         {
-          "title": "Gulf war fallout: Somali households pay the price of trade disruption",
-          "link": "https://www.thenewhumanitarian.org/news-feature/2026/08/17/gulf-war-fallout-somali-households-pay-price-trade-disruption",
-          "description": "The closure of the Strait of Hormuz is hurting Somalia’s import-dependent economy.",
-          "pubDate": "Mon, 17 Aug 26 10:30:55 +0000",
-          "source": "The New Humanitarian",
+          "title": "When insurance pays back : Amanah rewards customers through surplus sharing",
+          "link": "https://www.eyeradio.org/when-insurance-pays-back-amanah-rewards-customers-through-surplus-sharing/",
+          "source": "eyeradio.org",
+          "pubDate": "2026-08-18T15:45:00Z",
           "lang": "en",
-          "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
+          "description": "",
+          "titleIt": "When insurance pays back : Amanah rewards customers through surplus sharing"
         },
         {
-          "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
-          "link": "https://hornobserver.com/articles/3715/Conflict-Drives-Farmers-Into-Somalias-capital-Mogadishu",
-          "description": "The families were displaced by disputes over agricultural land ownership, alongside ongoing fighting between the Somali government and Al-Shabaab and renewed clan conflicts over contested farmland. Aadan Rooble, a former farmer now living in an IDP camp in Mogadishu, said he fled the village of Farxaano in Lower Shabelle about 10 days ago because of continued fighting. Aadan said some members of his family were able to secure transportation, while he initially travelled on foot before eventually finding a vehicle. He said the family was forced to abandon the farms where they worked after repea",
-          "pubDate": "Mon, 17 Aug 2026 12:31:00 +0300",
-          "source": "Horn Observer",
+          "title": "Regional repercussions , escalation dynamics , and future scenarios in Sudan",
+          "link": "https://aa.com.tr/en/opinion/opinion-regional-repercussions-escalation-dynamics-and-future-scenarios-in-sudan/4030706",
+          "source": "aa.com.tr",
+          "pubDate": "2026-08-18T15:45:00Z",
           "lang": "en",
-          "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
+          "description": "",
+          "titleIt": "Regional repercussions , escalation dynamics , and future scenarios in Sudan"
         },
         {
-          "title": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug",
-          "link": "https://hornobserver.com/articles/3714/Policy-Brief-From-Elections-to-Democratic-Governance-Strengthening-Political-Stability-and-Electoral-Integrity-in-Somalias-Galmudug",
-          "description": "As the state enters a new electoral phase in 2026, the central question is no longer simply whether elections can be conducted, but whether electoral reform can contribute to stronger institutions, inclusive governance, and lasting political stability. This new policy brief by the Insight Horn Institute (IHI) examines Galmudug's four electoral cycles between 2015 and 2026 and explores what they reveal about institutional development, federal-state relations, political inclusion, security, and democratic legitimacy. It argues that elections are an important part of democratic transition, but th",
-          "pubDate": "Thu, 13 Aug 2026 19:52:05 +0300",
-          "source": "Horn Observer",
+          "title": "Who owns East Africa Corridors ?",
+          "link": "https://www.independent.co.ug/who-owns-east-africas-trade-corridors/",
+          "source": "independent.co.ug",
+          "pubDate": "2026-08-18T15:15:00Z",
           "lang": "en",
-          "titleIt": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug"
-        },
-        {
-          "title": "Journalist Mascuud Warsame tells SJS about his 39-day ordeal in Somalia's spy agency detention facility",
-          "link": "https://hornobserver.com/articles/3713/Journalist-Mascuud-Warsame-tells-SJS-about-his-39-day-ordeal-in-Somalias-spy-agency-detention-facility",
-          "description": "On 30 June 2026, Mascuud Warsame, journalist and founder of an online media platform, Xogbile, was kidnapped by three armed NISA officers shortly after leaving his workplace on Maka Al-Mukarama Avenue in Somalia's capital, Mogadishu. Mascuud was held in a NISA detention facility until his release on 8 August 2026 without charge and was never brought before a court. For the first time, Mascuud Warsame has spoken to SJS about his ordeal inside the NISA detention facility. Mascuud, 35, said that on the night of his abduction, three NISA officers drove him to a police station in Hodan district, ce",
-          "pubDate": "Wed, 12 Aug 2026 19:23:43 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Journalist Mascuud Warsame tells SJS about his 39-day ordeal in Somalia's spy agency detention facility"
-        },
-        {
-          "title": "A Government With One Foot Out the Door: Somalia's Foreign Passport Crisis",
-          "link": "https://hornobserver.com/articles/3710/A-Government-With-One-Foot-Out-the-Door-Somalias-Foreign-Passport-Crisis",
-          "description": "It took a Kenyan airport officer to do what Somalia's own constitution could not. He was not alone. On July 26, State Minister at the Presidency Abshir Bukhaari — a former First Deputy Speaker of Somalia's Senate — was also denied entry at the same airport and placed on a return flight to Mogadishu after immigration officials raised questions about his travel documents. Neither the Kenyan nor the Somali government has officially confirmed the reasons behind the incident. Somalia's Foreign Ministry summoned Kenya's ambassador for consultations the following day. The embarrassments forced Presid",
-          "pubDate": "Sat, 08 Aug 2026 11:40:07 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "A Government With One Foot Out the Door: Somalia's Foreign Passport Crisis"
-        },
-        {
-          "title": "Somaliland Seeks International Partnerships as Government Highlights Progress in Peace, Development and Recognition",
-          "link": "https://hornobserver.com/articles/3709/Somaliland-Seeks-International-Partnerships-as-Government-Highlights-Progress-in-Peace-Development-and-Recognition",
-          "description": "Addressing an international community in Nairobi, Somaliland President said the government had focused since taking office on strengthening institutions, maintaining peace and turning public confidence into measurable national development. One of the government's key achievements, according to the address, has been the demobilization and integration of around 60,000 former militia members into the Somaliland National Army. The government also highlighted efforts to resolve community conflicts through traditional leadership, reconciliation and dialogue rather than military force. Somaliland pre",
-          "pubDate": "Sat, 08 Aug 2026 11:07:10 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somaliland Seeks International Partnerships as Government Highlights Progress in Peace, Development and Recognition"
-        },
-        {
-          "title": "Somali Cabinet Approves Passport, Trade and Judicial Reforms",
-          "link": "https://hornobserver.com/articles/3707/Somali-Cabinet-Approves-Passport-Trade-and-Judicial-Reforms",
-          "description": "The council was briefed on Somalia's new third-generation electronic passport and was told that changes to personal data in issued passports have been stopped entirely to strengthen the document's credibility. Ministers also approved a Rules of Origin Bill allowing goods containing at least 30% Somali content to qualify for preferential treatment in regional markets. The law is aimed at boosting local production and exports following Somalia's entry into the East African Community and its participation in the African Continental Free Trade Area. The council also confirmed four appointed member",
-          "pubDate": "Sat, 08 Aug 2026 10:02:19 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somali Cabinet Approves Passport, Trade and Judicial Reforms"
-        },
-        {
-          "title": "AUSSOM Leadership Meets New Djibouti Ambassador to Somalia",
-          "link": "https://hornobserver.com/articles/3704/AUSSOM-Leadership-Meets-New-Djibouti-Ambassador-to-Somalia",
-          "description": "Ambassador Diene was accompanied by Deputy SRCC Ambassador Mouktar Osman Kaire during the meeting, which focused on AUSSOM's mandate, the evolving security situation in Somalia, and recent developments related to Somali-led efforts to enhance peace, security, and stability. Ambassador Diene expressed appreciation for Djibouti's longstanding contribution to peace and security in Somalia, including the continued deployment of Djiboutian troops under AUSSOM. He also commended Ambassador Sougouleh for his contribution to peace, security, and stability in Somalia, particularly during his tenure as ",
-          "pubDate": "Sat, 25 Jul 2026 09:47:17 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "AUSSOM Leadership Meets New Djibouti Ambassador to Somalia"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Who owns East Africa Corridors ?"
         }
       ]
     },
@@ -342,7 +369,7 @@
       "items": [
         {
           "title": "Business news: Panama, Ck Hutchison chiede 1,5 miliardi di dollari per disputa sui porti",
-          "link": "https://www.agenzianova.com/a/6a8ba54cd5d6d7.21046310/7717014/2026-08-23/business-news-panama-ck-hutchison-chiede-1-5-miliardi-di-dollari-per-disputa-sui-porti",
+          "link": "https://www.agenzianova.com/a/6a8bb7ea1dd131.21830408/7717014/2026-08-23/business-news-panama-ck-hutchison-chiede-1-5-miliardi-di-dollari-per-disputa-sui-porti",
           "description": "23 ago 23:00 - (Agenzia Nova) - Il conglomerato di Hong Kong Ck Hutchison ha avviato un procedimento arbitrale internazionale contro Panama,... (Cip)",
           "pubDate": "2026-08-23T23:00:00+02:00",
           "source": "Agenzia Nova",
@@ -366,15 +393,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: Ethiopia, U.S. Agree to Establish Comprehensive Strategic Cooperation in Defense, Security"
-        },
-        {
-          "title": "Rwanda: Rubavu - Eritrean Investor Caught in Land Lease Dispute Considers Lawsuit",
-          "link": "https://allafrica.com/stories/202608210574.html",
-          "description": "[New Times] An Eritrean investor whose business has been caught up in a commercial land lease dispute with the new owner of a plot located on the shores of Lake Kivu is considering taking the matter to the court of law after the two parties have failed to reach an agreement.",
-          "pubDate": "Fri, 21 Aug 2026 14:46:56 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Rwanda: Rubavu - Eritrean Investor Caught in Land Lease Dispute Considers Lawsuit"
         },
         {
           "title": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow",
@@ -519,6 +537,15 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia Hosts Djibouti Police Delegation for Security Talks"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -526,19 +553,199 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Egypt: Egypt Sets 50 Percent Cash Collateral Limit in New Rules for Short Selling",
-          "link": "https://allafrica.com/stories/202608220072.html",
-          "description": "[Daba Finance] Egypt has issued new rules for short selling on the Egyptian Exchange, requiring investors to provide cash collateral equal to at least 50% of the market value of borrowed securities. The Financial Regulatory Authority approved the framework under Resolution No. 155 of 2026 as part of efforts to increase trading and add more investment tools to the market.",
-          "pubDate": "Sat, 22 Aug 2026 14:58:56 GMT",
-          "source": "AllAfrica",
+          "title": "What A Week !",
+          "link": "https://www.greanvillepost.com/what-a-week/",
+          "source": "greanvillepost.com",
+          "pubDate": "2026-08-24T02:00:00Z",
           "lang": "en",
-          "titleIt": "Egypt: Egypt Sets 50 Percent Cash Collateral Limit in New Rules for Short Selling"
+          "description": "",
+          "titleIt": "What A Week !"
+        },
+        {
+          "title": "Financial expert gives exclusive take on  conspiracy theory  around Man City and Tottenham transfer",
+          "link": "https://www.hitc.com/financial-expert-gives-exclusive-take-on-conspiracy-theory-around-man-city-and-tottenham-transfer/",
+          "source": "hitc.com",
+          "pubDate": "2026-08-23T23:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Financial expert gives exclusive take on  conspiracy theory  around Man City and Tottenham transfer"
+        },
+        {
+          "title": "Iran Hangs Another January Protester As Surge In Executions Continues",
+          "link": "http://www.southeastasiapost.com/news/279260091/iran-hangs-another-january-protester-as-surge-in-executions-continues",
+          "source": "southeastasiapost.com",
+          "pubDate": "2026-08-23T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran Hangs Another January Protester As Surge In Executions Continues"
+        },
+        {
+          "title": "Lioness Season 3 , Episode 4 Recap :  Murder Hornets",
+          "link": "https://www.esquire.com/entertainment/tv/a73477610/lioness-season-3-episode-4-recap/",
+          "source": "esquire.com",
+          "pubDate": "2026-08-23T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Lioness Season 3 , Episode 4 Recap :  Murder Hornets"
+        },
+        {
+          "title": "Iran Hangs Another January Protester As Surge In Executions Continues",
+          "link": "http://www.middleeaststar.com/news/279260091/iran-hangs-another-january-protester-as-surge-in-executions-continues",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-08-23T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran Hangs Another January Protester As Surge In Executions Continues"
+        },
+        {
+          "title": "Abdul El - Sayed : Michigan Bid for America first Muslim Senator",
+          "link": "https://organiser.org/2026/08/23/376658/world/who-is-abdul-el-sayed-michigans-bid-for-americas-first-muslim-senator-and-how-is-he-linked-to-bin-laden-al-qaeda/",
+          "source": "organiser.org",
+          "pubDate": "2026-08-23T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Abdul El - Sayed : Michigan Bid for America first Muslim Senator"
+        },
+        {
+          "title": "Iran Hangs Another January Protester As Surge In Executions Continues",
+          "link": "http://www.parisguardian.com/news/279260091/iran-hangs-another-january-protester-as-surge-in-executions-continues",
+          "source": "parisguardian.com",
+          "pubDate": "2026-08-23T18:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran Hangs Another January Protester As Surge In Executions Continues"
+        },
+        {
+          "title": "Iran Hangs Another January Protester As Surge In Executions Continues",
+          "link": "http://www.pakistantelegraph.com/news/279260091/iran-hangs-another-january-protester-as-surge-in-executions-continues",
+          "source": "pakistantelegraph.com",
+          "pubDate": "2026-08-23T17:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran Hangs Another January Protester As Surge In Executions Continues"
+        },
+        {
+          "title": "HANSON : Hating Israel fatigue | Toronto Sun",
+          "link": "https://torontosun.com/opinion/columnists/hanson-hating-israel-fatique",
+          "source": "torontosun.com",
+          "pubDate": "2026-08-23T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "HANSON : Hating Israel fatigue | Toronto Sun"
+        },
+        {
+          "title": "Iran Warns U . S .  Economic War  Allies Are  Enemies , Threatens Retaliation",
+          "link": "https://www.breitbart.com/politics/2026/08/23/iran-warns-neighbors-joining-u-s-economic-war-will-be-enemies-threatens-earthquake-like-retaliation/",
+          "source": "breitbart.com",
+          "pubDate": "2026-08-23T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran Warns U . S .  Economic War  Allies Are  Enemies , Threatens Retaliation"
+        },
+        {
+          "title": "Spider - Man : Brand New Day Box Office Swings Past Star War Biggest Hit On All - Time Chart",
+          "link": "https://screenrant.com/spider-man-brand-new-day-box-office-week-4-global-chart-report/",
+          "source": "screenrant.com",
+          "pubDate": "2026-08-23T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Spider - Man : Brand New Day Box Office Swings Past Star War Biggest Hit On All - Time Chart"
+        },
+        {
+          "title": "Waterways Will Shape the Middle East Future",
+          "link": "https://www.fairobserver.com/region/middle_east_north_africa/waterways-will-shape-the-middle-easts-future/",
+          "source": "fairobserver.com",
+          "pubDate": "2026-08-23T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Waterways Will Shape the Middle East Future"
+        },
+        {
+          "title": "Project completion demonstrates strong bilateral relations , says Egypt PM",
+          "link": "https://dailynews.co.tz/project-completion-demonstrates-strong-bilateral-relations-says-egypt-pm/",
+          "source": "dailynews.co.tz",
+          "pubDate": "2026-08-23T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Project completion demonstrates strong bilateral relations , says Egypt PM"
+        },
+        {
+          "title": "UAE Adnoc picks Reatile as BEE partner in R16bn Shell deal",
+          "link": "https://www.businessday.co.za/companies/2026-08-23-uaes-adnoc-picks-reatile-as-bee-partner-in-r16bn-shell-deal/",
+          "source": "businessday.co.za",
+          "pubDate": "2026-08-23T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE Adnoc picks Reatile as BEE partner in R16bn Shell deal"
+        },
+        {
+          "title": "UAE Adnoc picks Reatile as BEE partner in R16bn Shell deal",
+          "link": "https://www.timeslive.co.za/news/business/2026-08-23-uaes-adnoc-picks-reatile-as-bee-partner-in-r16bn-shell-deal/",
+          "source": "timeslive.co.za",
+          "pubDate": "2026-08-23T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE Adnoc picks Reatile as BEE partner in R16bn Shell deal"
+        },
+        {
+          "title": "Rapping out a Lowell beat",
+          "link": "https://www.bostonherald.com/2026/08/23/rapping-out-a-lowell-beat/",
+          "source": "bostonherald.com",
+          "pubDate": "2026-08-23T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rapping out a Lowell beat"
+        },
+        {
+          "title": "Mecca and the new Middle East : what it means for Cyprus",
+          "link": "https://cyprus-mail.com/2026/08/23/mecca-and-the-new-middle-east-what-it-means-for-cyprus",
+          "source": "cyprus-mail.com",
+          "pubDate": "2026-08-23T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mecca and the new Middle East : what it means for Cyprus"
+        },
+        {
+          "title": "Iran Hangs Another January Protester As Surge In Executions Continue",
+          "link": "http://www.europesun.com/news/279259505/iran-hangs-another-january-protester-as-surge-in-executions-continue",
+          "source": "europesun.com",
+          "pubDate": "2026-08-23T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran Hangs Another January Protester As Surge In Executions Continue"
+        },
+        {
+          "title": "The energy challenges of the next presidency",
+          "link": "https://cyprus-mail.com/2026/08/23/the-energy-challenges-of-the-next-presidency",
+          "source": "cyprus-mail.com",
+          "pubDate": "2026-08-23T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The energy challenges of the next presidency"
+        },
+        {
+          "title": "Evening news wrap : JeM base hit in Op Sindoor operational again ; ex - envoy flags SIR process , and more | India News",
+          "link": "https://timesofindia.indiatimes.com/india/evening-news-wrap-jem-base-hit-in-op-sindoor-operational-again-ex-envoy-flags-sir-process-and-more/articleshow/133440364.cms",
+          "source": "timesofindia.indiatimes.com",
+          "pubDate": "2026-08-23T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Evening news wrap : JeM base hit in Op Sindoor operational again ; ex - envoy flags SIR process , and more | India News"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Sudan: Sudan's Aid Workers Under Fire As Volunteers Keep Humanitarian Lifeline Alive",
+          "link": "https://allafrica.com/stories/202608210429.html",
+          "description": "[Dabanga] Amsterdam -- By Suleiman Siri for Radio Dabanga",
+          "pubDate": "Fri, 21 Aug 2026 12:06:11 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudan's Aid Workers Under Fire As Volunteers Keep Humanitarian Lifeline Alive"
+        },
         {
           "title": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow",
           "link": "http://www.africanews.com/2026/08/21/drone-strike-wounds-13-in-tigray-capital-as-fears-of-renewed-war-grow/",
