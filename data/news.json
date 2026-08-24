@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T10:56:55.867Z",
+  "generatedAt": "2026-08-24T13:17:07.431Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -14,15 +14,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Six Million Somalis Face Acute Hunger As Drought and Conflict Worsen"
-        },
-        {
-          "title": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education",
-          "link": "https://allafrica.com/stories/202608240332.html",
-          "description": "[Shabelle] Mogadishu, August 24, 2026 -- Somali President Hassan Sheikh Mohamud on Monday met the 10 students who achieved the highest scores in the country's national Grade 12 secondary school examinations, praising their performance and promising educational opportunities for those wishing to continue their studies in Somalia.",
-          "pubDate": "Mon, 24 Aug 2026 10:35:07 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education"
         },
         {
           "title": "Somalia: Mogadishu's 'Forced' Eviction Turns Into War",
@@ -185,6 +176,15 @@
           "source": "Crisis Group",
           "lang": "en",
           "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -192,13 +192,22 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education",
-          "link": "https://allafrica.com/stories/202608240332.html",
-          "description": "[Shabelle] Mogadishu, August 24, 2026 -- Somali President Hassan Sheikh Mohamud on Monday met the 10 students who achieved the highest scores in the country's national Grade 12 secondary school examinations, praising their performance and promising educational opportunities for those wishing to continue their studies in Somalia.",
-          "pubDate": "Mon, 24 Aug 2026 10:35:07 GMT",
+          "title": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza",
+          "link": "https://www.agenzianova.com/a/6a8c439403dec8.21530012/7716700/2026-08-24/speciale-porti-etiopia-usa-accordo-per-un-partenariato-strategico-globale-in-difesa-e-sicurezza",
+          "description": "24 ago 15:00 - (Agenzia Nova) - L'Etiopia e gli Stati Uniti hanno concordato di elevare la cooperazione bilaterale nei settori della difesa... (Suk)",
+          "pubDate": "2026-08-24T15:00:49+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza"
+        },
+        {
+          "title": "Kenya: Gachagua Rules Out Ruto Alliance Deal, Says 'I Cannot Be Bought'",
+          "link": "https://allafrica.com/stories/202608240458.html",
+          "description": "[Capital FM] Nairobi -- DCP leader Rigathi Gachagua says he was ready to carry the opposition ticket if fellow leaders chose him, insisting that he would remain firm despite political pressure.",
+          "pubDate": "Mon, 24 Aug 2026 12:05:31 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education"
+          "titleIt": "Kenya: Gachagua Rules Out Ruto Alliance Deal, Says 'I Cannot Be Bought'"
         },
         {
           "title": "Somalia: Mogadishu's 'Forced' Eviction Turns Into War",
@@ -332,31 +341,31 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education",
-          "link": "https://allafrica.com/stories/202608240332.html",
-          "description": "[Shabelle] Mogadishu, August 24, 2026 -- Somali President Hassan Sheikh Mohamud on Monday met the 10 students who achieved the highest scores in the country's national Grade 12 secondary school examinations, praising their performance and promising educational opportunities for those wishing to continue their studies in Somalia.",
-          "pubDate": "Mon, 24 Aug 2026 10:35:07 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia President Meets Top 10 High School Graduates, Promises Free University Education"
+          "title": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza",
+          "link": "https://www.agenzianova.com/a/6a8c439403dec8.21530012/7716700/2026-08-24/speciale-porti-etiopia-usa-accordo-per-un-partenariato-strategico-globale-in-difesa-e-sicurezza",
+          "description": "24 ago 15:00 - (Agenzia Nova) - L'Etiopia e gli Stati Uniti hanno concordato di elevare la cooperazione bilaterale nei settori della difesa... (Suk)",
+          "pubDate": "2026-08-24T15:00:49+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza"
         },
         {
-          "title": "Returning players like Farouk Miya and Ibrahim Kasule set to impact league",
-          "link": "https://kawowo.com/2026/08/24/how-will-upl-returnees-fare-in-the-2026-27/",
-          "source": "kawowo.com",
-          "pubDate": "2026-08-24T07:30:00Z",
+          "title": "Merz spokesman says sees no conflict between Berlin and Rome on migrants",
+          "link": "https://www.ansa.it/english/news/2026/08/24/merz-spokesman-says-sees-no-conflict-between-berlin-and-rome-on-migrants_d8cad91b-d1a3-430e-bd0f-c264e9829fda.html",
+          "description": "(ANSA) - ROME, AUG 24 - German Chancellor Friedrich Merz's spokesman said Monday he saw no conflict between Berlin and Rome on migrants after Germany became the first of six EU members to start sending migrants back to Italy under the bloc's new Migration and Asylum Pact. \"I see no conflict between Germany and Italy,\" said Stefan Kornelius, spokesman, in response to a question during a government press conference regarding the ongoing exchange between the two countries on the case of the deportations of the so-called 'Dubliners', announced in recent days by Berlin. \"There is close cooperation ",
+          "pubDate": "Mon, 24 Aug 2026 12:57:01 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Returning players like Farouk Miya and Ibrahim Kasule set to impact league"
+          "titleIt": "Merz spokesman says sees no conflict between Berlin and Rome on migrants"
         },
         {
-          "title": "Controversial crash comes back to haunt South African Civil Aviation Authority",
-          "link": "https://www.citizen.co.za/news/south-african-civil-aviation-authority-fires-whistleblower/",
-          "source": "citizen.co.za",
-          "pubDate": "2026-08-24T06:45:00Z",
+          "title": "Merz spokesman says sees no conflict between Berlin and Rome on migrants",
+          "link": "https://www.ansa.it/english/news/world/2026/08/24/merz-spokesman-says-sees-no-conflict-between-berlin-and-rome-on-migrants_e1a48b3e-cbc9-458c-ad05-e50f5f16ab09.html",
+          "description": "(ANSA) - ROME, AUG 24 - German Chancellor Friedrich Merz's spokesman said Monday he saw no conflict between Berlin and Rome on migrants after Germany became the first of six EU members to start sending migrants back to Italy under the bloc's new Migration and Asylum Pact. \"I see no conflict between Germany and Italy,\" said Stefan Kornelius, spokesman, in response to a question during a government press conference regarding the ongoing exchange between the two countries on the case of the deportations of the so-called 'Dubliners', announced in recent days by Berlin. \"There is close cooperation ",
+          "pubDate": "Mon, 24 Aug 2026 12:56:48 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Controversial crash comes back to haunt South African Civil Aviation Authority"
+          "titleIt": "Merz spokesman says sees no conflict between Berlin and Rome on migrants"
         },
         {
           "title": "Somalia: Mogadishu's 'Forced' Eviction Turns Into War",
@@ -377,15 +386,6 @@
           "titleIt": "Somalia: Somalia Says It Is Aware of Military Operations Off Puntland Coast"
         },
         {
-          "title": "PART II The Moment the Ghedli Lost Its Soul – Awate . com",
-          "link": "https://awate.com/part-ii-the-moment-the-ghedli-lost-its-soul/",
-          "source": "awate.com",
-          "pubDate": "2026-08-23T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "PART II The Moment the Ghedli Lost Its Soul – Awate . com"
-        },
-        {
           "title": "Ethiopia: Tigrayan women celebrate Ashenda amid fears of new war",
           "link": "http://www.africanews.com/2026/08/23/ethiopia-tigrayan-women-celebrate-ashenda-amid-fears-of-new-war/",
           "description": "In Addis Ababa, Tigrayan women gather to celebrate Ashenda, while expressing hopes for lasting peace in Ethiopia's Tigray region, where recent drone strikes on the regional capital Mekella have renewed fears of conflict after the devastating 2020-2022 war",
@@ -395,312 +395,149 @@
           "titleIt": "Ethiopia: Tigrayan women celebrate Ashenda amid fears of new war"
         },
         {
-          "title": "Tanzania inaugurates $2 . 9B hydropower project built by Egyptian consortium",
-          "link": "https://www.middleeastmonitor.com/20260822-tanzania-inaugurates-2-9b-hydropower-project-built-by-egyptian-consortium/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-08-22T18:30:00Z",
+          "title": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow",
+          "link": "http://www.africanews.com/2026/08/21/drone-strike-wounds-13-in-tigray-capital-as-fears-of-renewed-war-grow/",
+          "description": "A drone strike on Mekelle, the capital of Ethiopia’s Tigray region, injured at least 13 people, including five children, a hospital official said Thursday. The attack comes amid growing tensions between federal and Tigrayan forces and fears the region could slide back into war.",
+          "pubDate": "Fri, 21 Aug 2026 10:41:33 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Tanzania inaugurates $2 . 9B hydropower project built by Egyptian consortium"
+          "titleIt": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow"
         },
         {
-          "title": "Court of Law – Seattle as an Example – Awate . com",
-          "link": "https://awate.com/court-of-law-seattle-as-an-example/",
-          "source": "awate.com",
-          "pubDate": "2026-08-22T17:15:00Z",
+          "title": "First US deportees arrive in Liberia under controversial third-country deal",
+          "link": "http://www.africanews.com/2026/08/21/first-us-deportees-arrive-in-liberia-under-controversial-third-country-deal/",
+          "description": "Twenty migrants deported from the United States have arrived in Liberia, the first group of up to 1,200 people the West African country says it will receive under a new agreement.",
+          "pubDate": "Fri, 21 Aug 2026 05:07:21 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Court of Law – Seattle as an Example – Awate . com"
+          "titleIt": "First US deportees arrive in Liberia under controversial third-country deal"
         },
         {
-          "title": "IGAD Advances Political Leadership and Action for Agrifood Systems Transformation",
-          "link": "https://igad.int/igad-advances-political-leadership-and-action-for-agrifood-systems-transformation/",
-          "source": "igad.int",
-          "pubDate": "2026-08-22T17:15:00Z",
+          "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
+          "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
+          "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
+          "pubDate": "Thu, 20 Aug 2026 15:58:57 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "IGAD Advances Political Leadership and Action for Agrifood Systems Transformation"
+          "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
         },
         {
-          "title": "US Judge Strikes Down Trump - Era Visa Ban on 75 Countries",
-          "link": "https://punchng.com/full-list-nigeria-74-others-spared-as-us-judge-strikes-down-visa-ban/",
-          "source": "punchng.com",
-          "pubDate": "2026-08-22T13:15:00Z",
+          "title": "Pope meets with Aoun, Holy See supports peace deal",
+          "link": "https://www.ansa.it/english/news/2026/08/20/pope-meets-with-aoun-holy-see-supports-peace-deal_86d1c90d-e8c8-49b3-abd0-152035b77b8c.html",
+          "description": "(ANSA) - ROME, AUG 20 - Pope Leo XIV on Thursday received Lebanese President Joseph Aoun in audience, the Holy See said saying it backed a recent peace agreement over Lebanon. The discussions in the Secretariat of State, the Vatican said, \"focused essentially on the Trilateral Framework Agreement, signed by the United States, Israel, and Lebanon, aimed at stabilizing the southern borders of the Republic of Lebanon and achieving a just and lasting peace. \"The Holy See, while expressing satisfaction with the signing of the document, expressed serious concerns about the difficulties being experie",
+          "pubDate": "Thu, 20 Aug 2026 13:48:16 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "US Judge Strikes Down Trump - Era Visa Ban on 75 Countries"
+          "titleIt": "Pope meets with Aoun, Holy See supports peace deal"
         },
         {
-          "title": "US judge strikes down Trump visa ban affecting Nigeria , 74 other countries [ Full list ]",
-          "link": "https://www.vanguardngr.com/2026/08/us-judge-strikes-down-trump-visa-ban-affecting-nigeria-74-other-countries-full-list/",
-          "source": "vanguardngr.com",
-          "pubDate": "2026-08-22T11:45:00Z",
+          "title": "Pope meets with Aoun, Holy See supports peace deal",
+          "link": "https://www.ansa.it/english/news/vatican/2026/08/20/pope-meets-with-aoun-holy-see-supports-peace-deal_469dbc74-4326-4130-bbd6-a579131c856d.html",
+          "description": "(ANSA) - ROME, AUG 20 - Pope Leo XIV on Thursday received Lebanese President Joseph Aoun in audience, the Holy See said saying it backed a recent peace agreement over Lebanon. The discussions in the Secretariat of State, the Vatican said, \"focused essentially on the Trilateral Framework Agreement, signed by the United States, Israel, and Lebanon, aimed at stabilizing the southern borders of the Republic of Lebanon and achieving a just and lasting peace. \"The Holy See, while expressing satisfaction with the signing of the document, expressed serious concerns about the difficulties being experie",
+          "pubDate": "Thu, 20 Aug 2026 13:45:04 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "US judge strikes down Trump visa ban affecting Nigeria , 74 other countries [ Full list ]"
+          "titleIt": "Pope meets with Aoun, Holy See supports peace deal"
         },
         {
-          "title": "Ashenda , Far From Home | The Reporter Ethiopia",
-          "link": "https://www.thereporterethiopia.com/52412/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-22T09:15:00Z",
+          "title": "Gulf war fallout: Somali households pay the price of trade disruption",
+          "link": "https://www.thenewhumanitarian.org/news-feature/2026/08/17/gulf-war-fallout-somali-households-pay-price-trade-disruption",
+          "description": "The closure of the Strait of Hormuz is hurting Somalia’s import-dependent economy.",
+          "pubDate": "Mon, 17 Aug 26 10:30:55 +0000",
+          "source": "The New Humanitarian",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ashenda , Far From Home | The Reporter Ethiopia"
+          "titleIt": "Gulf war fallout: Somali households pay the price of trade disruption"
         },
         {
-          "title": "Dangote Offers East African States Stake In Planned Refinery",
-          "link": "https://www.thereporterethiopia.com/52431/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-22T09:15:00Z",
+          "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
+          "link": "https://hornobserver.com/articles/3715/Conflict-Drives-Farmers-Into-Somalias-capital-Mogadishu",
+          "description": "The families were displaced by disputes over agricultural land ownership, alongside ongoing fighting between the Somali government and Al-Shabaab and renewed clan conflicts over contested farmland. Aadan Rooble, a former farmer now living in an IDP camp in Mogadishu, said he fled the village of Farxaano in Lower Shabelle about 10 days ago because of continued fighting. Aadan said some members of his family were able to secure transportation, while he initially travelled on foot before eventually finding a vehicle. He said the family was forced to abandon the farms where they worked after repea",
+          "pubDate": "Mon, 17 Aug 2026 12:31:00 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Dangote Offers East African States Stake In Planned Refinery"
+          "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
         },
         {
-          "title": "Industry Titan Tells All : The Rise And Fall Of Akir Construction",
-          "link": "https://www.thereporterethiopia.com/52415/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-08-22T09:15:00Z",
+          "title": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug",
+          "link": "https://hornobserver.com/articles/3714/Policy-Brief-From-Elections-to-Democratic-Governance-Strengthening-Political-Stability-and-Electoral-Integrity-in-Somalias-Galmudug",
+          "description": "As the state enters a new electoral phase in 2026, the central question is no longer simply whether elections can be conducted, but whether electoral reform can contribute to stronger institutions, inclusive governance, and lasting political stability. This new policy brief by the Insight Horn Institute (IHI) examines Galmudug's four electoral cycles between 2015 and 2026 and explores what they reveal about institutional development, federal-state relations, political inclusion, security, and democratic legitimacy. It argues that elections are an important part of democratic transition, but th",
+          "pubDate": "Thu, 13 Aug 2026 19:52:05 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Industry Titan Tells All : The Rise And Fall Of Akir Construction"
+          "titleIt": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug"
         },
         {
-          "title": "Ethiopian Economy news | Breaking News",
-          "link": "https://www.newsnow.co.uk/h/World+News/Africa/Ethiopia/Economy",
-          "source": "newsnow.co.uk",
-          "pubDate": "2026-08-22T06:30:00Z",
+          "title": "A Government With One Foot Out the Door: Somalia's Foreign Passport Crisis",
+          "link": "https://hornobserver.com/articles/3710/A-Government-With-One-Foot-Out-the-Door-Somalias-Foreign-Passport-Crisis",
+          "description": "It took a Kenyan airport officer to do what Somalia's own constitution could not. He was not alone. On July 26, State Minister at the Presidency Abshir Bukhaari — a former First Deputy Speaker of Somalia's Senate — was also denied entry at the same airport and placed on a return flight to Mogadishu after immigration officials raised questions about his travel documents. Neither the Kenyan nor the Somali government has officially confirmed the reasons behind the incident. Somalia's Foreign Ministry summoned Kenya's ambassador for consultations the following day. The embarrassments forced Presid",
+          "pubDate": "Sat, 08 Aug 2026 11:40:07 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopian Economy news | Breaking News"
+          "titleIt": "A Government With One Foot Out the Door: Somalia's Foreign Passport Crisis"
         },
         {
-          "title": "Somaliland Offers Berbera for U . S . and Israeli Bases as Red Sea Rivalry Intensifies",
-          "link": "https://wardheernews.com/somaliland-offers-berbera-for-u-s-and-israeli-bases-as-red-sea-rivalry-intensifies/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-08-22T06:00:00Z",
+          "title": "Somali Cabinet Approves Passport, Trade and Judicial Reforms",
+          "link": "https://hornobserver.com/articles/3707/Somali-Cabinet-Approves-Passport-Trade-and-Judicial-Reforms",
+          "description": "The council was briefed on Somalia's new third-generation electronic passport and was told that changes to personal data in issued passports have been stopped entirely to strengthen the document's credibility. Ministers also approved a Rules of Origin Bill allowing goods containing at least 30% Somali content to qualify for preferential treatment in regional markets. The law is aimed at boosting local production and exports following Somalia's entry into the East African Community and its participation in the African Continental Free Trade Area. The council also confirmed four appointed member",
+          "pubDate": "Sat, 08 Aug 2026 10:02:19 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Offers Berbera for U . S . and Israeli Bases as Red Sea Rivalry Intensifies"
+          "titleIt": "Somali Cabinet Approves Passport, Trade and Judicial Reforms"
         },
         {
-          "title": "Overnight News Digest : Friday night elsewhere",
-          "link": "https://www.dailykos.com/stories/2026/8/21/800087838/community/overnight-news-digest-friday-night-elsewhere-9/",
-          "source": "dailykos.com",
-          "pubDate": "2026-08-22T05:15:00Z",
+          "title": "AUSSOM Leadership Meets New Djibouti Ambassador to Somalia",
+          "link": "https://hornobserver.com/articles/3704/AUSSOM-Leadership-Meets-New-Djibouti-Ambassador-to-Somalia",
+          "description": "Ambassador Diene was accompanied by Deputy SRCC Ambassador Mouktar Osman Kaire during the meeting, which focused on AUSSOM's mandate, the evolving security situation in Somalia, and recent developments related to Somali-led efforts to enhance peace, security, and stability. Ambassador Diene expressed appreciation for Djibouti's longstanding contribution to peace and security in Somalia, including the continued deployment of Djiboutian troops under AUSSOM. He also commended Ambassador Sougouleh for his contribution to peace, security, and stability in Somalia, particularly during his tenure as ",
+          "pubDate": "Sat, 25 Jul 2026 09:47:17 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Overnight News Digest : Friday night elsewhere"
+          "titleIt": "AUSSOM Leadership Meets New Djibouti Ambassador to Somalia"
         },
         {
-          "title": "It  s Fire Away Friday on Exploring the Word !",
-          "link": "https://afr.net:443/podcasts/exploring-the-word-with-bert-harper-and-alex-mcfarland/2026/august/its-fire-away-friday-on-exploring-the-word/",
-          "source": "afr.net",
-          "pubDate": "2026-08-21T23:15:00Z",
+          "title": "Somalia Says 25 Al-Shabaab Militants Killed, Four Surrender",
+          "link": "https://hornobserver.com/articles/3701/Somalia-Says-25-Al-Shabaab-Militants-Killed-Four-Surrender",
+          "description": "The Ministry of Defence announced the outcome in a press statement released on Saturday, describing the operation as part of the Federal Government of Somalia's ongoing military campaign against Al-Shabaab. According to the ministry, the strike targeted positions the group had established in Suullaay, an area where security forces have continued operations aimed at disrupting militant activity in central Somalia. The ministry identified the four individuals who surrendered to the Somali National Army as Aden Mohamed Jimale, known within the group as Abbas, Ibrahim Aden Dahir, Aden Abshir Abdi,",
+          "pubDate": "Sat, 18 Jul 2026 16:09:16 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "It  s Fire Away Friday on Exploring the Word !"
+          "titleIt": "Somalia Says 25 Al-Shabaab Militants Killed, Four Surrender"
         },
         {
-          "title": "Traveller Letters : Is Singapore Airline premium economy worth the price ?",
-          "link": "https://www.brisbanetimes.com.au/traveller/travel-news/premium-economy-was-a-colossal-waste-of-money-20260820-p60q5n.html",
-          "source": "brisbanetimes.com.au",
-          "pubDate": "2026-08-21T19:45:00Z",
+          "title": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges",
+          "link": "https://hornobserver.com/articles/3699/Ethiopia-Somali-Oromo-Officials-Discuss-Cross-Border-Challenges",
+          "description": "The dialogue brought together officials from six districts in the Fafan and Sitti zones of the Somali Regional State and five districts from the East and West Hararghe zones of the Oromia National Regional State. The meeting focused on improving collaboration between neighboring communities through locally led initiatives aimed at reinforcing social cohesion, conflict prevention, and cross-border cooperation. According to information released by the organizers, the discussions were held under the Strengthening the Resilience of Disaster-Affected Communities project, which promotes community re",
+          "pubDate": "Thu, 16 Jul 2026 23:48:28 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Traveller Letters : Is Singapore Airline premium economy worth the price ?"
+          "titleIt": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges"
+        },
+        {
+          "title": "Somalia Hosts Djibouti Police Delegation for Security Talks",
+          "link": "https://hornobserver.com/articles/3698/Somalia-Hosts-Djibouti-Police-Delegation-for-Security-Talks",
+          "description": "During the visit, the delegation toured the Somali Police Force's Godir Special Police Unit, the Criminal Investigation Department (CID), the Counter-Terrorism Command, and the Haram'ad Special Police Command. Senior Somali police officials briefed the visiting delegation on the structure, operational capabilities, specialized training, and ongoing security missions carried out by the respective units. Officials accompanying the delegation observed demonstrations highlighting tactical preparedness, criminal investigation procedures, intelligence coordination, and counterterrorism response capa",
+          "pubDate": "Thu, 16 Jul 2026 04:29:49 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia Hosts Djibouti Police Delegation for Security Talks"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Frank Galligan : A policeman lot is not a happy one",
-          "link": "https://www.impartialreporter.com/news/26481968.frank-galligan-policemans-lot-not-happy-one/",
-          "source": "impartialreporter.com",
-          "pubDate": "2026-08-24T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Frank Galligan : A policeman lot is not a happy one"
-        },
-        {
-          "title": "EDITORIAL : Osun election , the rise of civic action , and 2027",
-          "link": "https://www.premiumtimesng.com/news/905021-editorial-osun-election-the-rise-of-civic-action-and-2027.html",
-          "source": "premiumtimesng.com",
-          "pubDate": "2026-08-24T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "EDITORIAL : Osun election , the rise of civic action , and 2027"
-        },
-        {
-          "title": "Copenhagen Next Course",
-          "link": "https://www.aol.co.uk/articles/copenhagen-next-course-073754000.html",
-          "source": "aol.co.uk",
-          "pubDate": "2026-08-24T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Copenhagen Next Course"
-        },
-        {
-          "title": "Greek FM :  Peace , But From a Position of Strength  - Rejects  Soft  Turkey Policy Criticism",
-          "link": "https://www.iefimerida.gr/english/greek-fm-peace-position-strength-rejects-soft-turkey-policy-criticism",
-          "source": "iefimerida.gr",
-          "pubDate": "2026-08-24T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Greek FM :  Peace , But From a Position of Strength  - Rejects  Soft  Turkey Policy Criticism"
-        },
-        {
-          "title": "India could gain greater strategic leverage through SCO : Report",
-          "link": "https://www.sentinelassam.com/more-news/national-news/india-could-gain-greater-strategic-leverage-through-sco-report",
-          "source": "sentinelassam.com",
-          "pubDate": "2026-08-24T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "India could gain greater strategic leverage through SCO : Report"
-        },
-        {
-          "title": "Türkiye boosts commercial integration with Islamic countries",
-          "link": "https://aa.com.tr/en/economy/turkiye-boosts-commercial-integration-with-islamic-countries/4035422",
-          "source": "aa.com.tr",
-          "pubDate": "2026-08-24T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Türkiye boosts commercial integration with Islamic countries"
-        },
-        {
-          "title": "Greek FM :  Peace , But From a Position of Strength  - Rejects  Soft  Turkey Policy Criticism",
-          "link": "https://www.inewsgr.com/184/Greek-FM-Peace-But-From-a-Position-of-Strength---Rejects-Soft-Turkey-Policy-Criticism.htm",
-          "source": "inewsgr.com",
-          "pubDate": "2026-08-24T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Greek FM :  Peace , But From a Position of Strength  - Rejects  Soft  Turkey Policy Criticism"
-        },
-        {
-          "title": "Libya : Failure To Fix Libya",
-          "link": "http://www.strategypage.com/%5Cqnd%5Clibya%5Carticles%5C2026082365616.aspx",
-          "source": "strategypage.com",
-          "pubDate": "2026-08-24T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Libya : Failure To Fix Libya"
-        },
-        {
-          "title": "In the pack : Beauty , bottles and buyouts - The HinduBusinessLine",
-          "link": "https://www.thehindubusinessline.com/catalyst/in-the-pack-beauty-bottles-and-buyouts/article71382116.ece",
-          "source": "thehindubusinessline.com",
-          "pubDate": "2026-08-24T04:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "In the pack : Beauty , bottles and buyouts - The HinduBusinessLine"
-        },
-        {
-          "title": "What A Week !",
-          "link": "https://www.greanvillepost.com/what-a-week/",
-          "source": "greanvillepost.com",
-          "pubDate": "2026-08-24T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "What A Week !"
-        },
-        {
-          "title": "Financial expert gives exclusive take on  conspiracy theory  around Man City and Tottenham transfer",
-          "link": "https://www.hitc.com/financial-expert-gives-exclusive-take-on-conspiracy-theory-around-man-city-and-tottenham-transfer/",
-          "source": "hitc.com",
-          "pubDate": "2026-08-23T23:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Financial expert gives exclusive take on  conspiracy theory  around Man City and Tottenham transfer"
-        },
-        {
-          "title": "Iran Hangs Another January Protester As Surge In Executions Continues",
-          "link": "http://www.southeastasiapost.com/news/279260091/iran-hangs-another-january-protester-as-surge-in-executions-continues",
-          "source": "southeastasiapost.com",
-          "pubDate": "2026-08-23T20:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Hangs Another January Protester As Surge In Executions Continues"
-        },
-        {
-          "title": "Lioness Season 3 , Episode 4 Recap :  Murder Hornets",
-          "link": "https://www.esquire.com/entertainment/tv/a73477610/lioness-season-3-episode-4-recap/",
-          "source": "esquire.com",
-          "pubDate": "2026-08-23T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Lioness Season 3 , Episode 4 Recap :  Murder Hornets"
-        },
-        {
-          "title": "Iran Hangs Another January Protester As Surge In Executions Continues",
-          "link": "http://www.middleeaststar.com/news/279260091/iran-hangs-another-january-protester-as-surge-in-executions-continues",
-          "source": "middleeaststar.com",
-          "pubDate": "2026-08-23T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Hangs Another January Protester As Surge In Executions Continues"
-        },
-        {
-          "title": "Abdul El - Sayed : Michigan Bid for America first Muslim Senator",
-          "link": "https://organiser.org/2026/08/23/376658/world/who-is-abdul-el-sayed-michigans-bid-for-americas-first-muslim-senator-and-how-is-he-linked-to-bin-laden-al-qaeda/",
-          "source": "organiser.org",
-          "pubDate": "2026-08-23T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Abdul El - Sayed : Michigan Bid for America first Muslim Senator"
-        },
-        {
-          "title": "Iran Hangs Another January Protester As Surge In Executions Continues",
-          "link": "http://www.parisguardian.com/news/279260091/iran-hangs-another-january-protester-as-surge-in-executions-continues",
-          "source": "parisguardian.com",
-          "pubDate": "2026-08-23T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Hangs Another January Protester As Surge In Executions Continues"
-        },
-        {
-          "title": "Iran Hangs Another January Protester As Surge In Executions Continues",
-          "link": "http://www.pakistantelegraph.com/news/279260091/iran-hangs-another-january-protester-as-surge-in-executions-continues",
-          "source": "pakistantelegraph.com",
-          "pubDate": "2026-08-23T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Hangs Another January Protester As Surge In Executions Continues"
-        },
-        {
-          "title": "HANSON : Hating Israel fatigue | Toronto Sun",
-          "link": "https://torontosun.com/opinion/columnists/hanson-hating-israel-fatique",
-          "source": "torontosun.com",
-          "pubDate": "2026-08-23T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "HANSON : Hating Israel fatigue | Toronto Sun"
-        },
-        {
-          "title": "Iran Warns U . S .  Economic War  Allies Are  Enemies , Threatens Retaliation",
-          "link": "https://www.breitbart.com/politics/2026/08/23/iran-warns-neighbors-joining-u-s-economic-war-will-be-enemies-threatens-earthquake-like-retaliation/",
-          "source": "breitbart.com",
-          "pubDate": "2026-08-23T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Warns U . S .  Economic War  Allies Are  Enemies , Threatens Retaliation"
-        },
-        {
-          "title": "Spider - Man : Brand New Day Box Office Swings Past Star War Biggest Hit On All - Time Chart",
-          "link": "https://screenrant.com/spider-man-brand-new-day-box-office-week-4-global-chart-report/",
-          "source": "screenrant.com",
-          "pubDate": "2026-08-23T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Spider - Man : Brand New Day Box Office Swings Past Star War Biggest Hit On All - Time Chart"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza",
+          "link": "https://www.agenzianova.com/a/6a8c439403dec8.21530012/7716700/2026-08-24/speciale-porti-etiopia-usa-accordo-per-un-partenariato-strategico-globale-in-difesa-e-sicurezza",
+          "description": "24 ago 15:00 - (Agenzia Nova) - L'Etiopia e gli Stati Uniti hanno concordato di elevare la cooperazione bilaterale nei settori della difesa... (Suk)",
+          "pubDate": "2026-08-24T15:00:49+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale porti: Etiopia-Usa, accordo per un partenariato strategico globale in difesa e sicurezza"
+        },
         {
           "title": "Drone strike wounds 13 in Tigray capital as fears of renewed war grow",
           "link": "http://www.africanews.com/2026/08/21/drone-strike-wounds-13-in-tigray-capital-as-fears-of-renewed-war-grow/",
