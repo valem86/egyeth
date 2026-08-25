@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-08-25T15:09:36.804Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-08-25T16:59:25.289Z",
+  "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Italian Ambassador to Sudan Mignano Presents Credentials to Al Burhan",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/25/italian-ambassador-to-sudan-mignano-presents-credentials-to-al-burhan_32e5aa4c-1891-4c4a-8b09-daa320c8e6c0.html",
+          "description": "(ANSA) - IL CAIRO, 25 AGO - The Italian Ambassador to Sudan, Silvio Mignano, presented his letters of credence today in Khartoum as Ambassador Extraordinary and Plenipotentiary to the President of the Sudanese Transitional Sovereignty Council, Abdelfattah Al Burhan. The visit marks the first by an Italian institutional representative to Khartoum since the outbreak of the Sudanese civil war on April 15, 2023, and also provided an opportunity to discuss the next phases of the “Italy for Sudan,” which between December and April has already delivered over 135 metric tons of food and basic necessit",
+          "pubDate": "Tue, 25 Aug 2026 18:51:16 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Italian Ambassador to Sudan Mignano Presents Credentials to Al Burhan"
+        },
+        {
+          "title": "Somalia: autorita' Oltregiuba monitorano propaganda Al Shabaab",
+          "link": "https://www.agenzianova.com/a/6a8dc935391d85.77500299/7722523/2026-08-25/somalia-autorita-oltregiuba-monitorano-propaganda-al-shabaab",
+          "description": "25 ago 18:13 - (Agenzia Nova) - Le autorita' di intelligence e sicurezza dell'Oltregiuba, nel sud della Somalia, stanno monitorando con maggiore... (Suk)",
+          "pubDate": "2026-08-25T18:13:20+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Somalia: autorita' Oltregiuba monitorano propaganda Al Shabaab"
+        },
         {
           "title": "Ambassador Mignano on a mission to Sudan, the first Italian ambassador in Khartoum since 2023",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/25/ambassador-mignano-on-a-mission-to-sudan-the-first-italian-ambassador-in-khartoum-since_ecd1d5c6-f23d-49fa-aaa3-e3ac2f113c4e.html",
@@ -149,6 +167,24 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia Hosts Djibouti Police Delegation for Security Talks"
+        },
+        {
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -271,6 +307,15 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "AUSSOM Leadership Meets New Djibouti Ambassador to Somalia"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
