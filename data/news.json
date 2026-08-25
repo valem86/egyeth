@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T20:49:56.631Z",
+  "generatedAt": "2026-08-25T22:49:04.166Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -359,15 +359,6 @@
           "titleIt": "Leonardo Maria Del Vecchio resigns from all positions at EssilorLuxottica"
         },
         {
-          "title": "Nigeria: Call for Pitches - People-Centred Investigative Reporting On Peace and Public Safety",
-          "link": "https://allafrica.com/stories/202608250057.html",
-          "description": "[CJID] The Centre for Journalism Innovation and Development (CJID) invites journalists and investigative reporters to submit pitches for in-depth, original, underreported investigative and solutions-focused stories that explore people-centred approaches to public safety, conflict prevention and accountability.",
-          "pubDate": "Tue, 25 Aug 2026 05:09:14 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Nigeria: Call for Pitches - People-Centred Investigative Reporting On Peace and Public Safety"
-        },
-        {
           "title": "How Canada could hit back to hurt the US economy - and Trump",
           "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
           "description": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?",
@@ -492,22 +483,21 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges"
+        },
+        {
+          "title": "Somalia Hosts Djibouti Police Delegation for Security Talks",
+          "link": "https://hornobserver.com/articles/3698/Somalia-Hosts-Djibouti-Police-Delegation-for-Security-Talks",
+          "description": "During the visit, the delegation toured the Somali Police Force's Godir Special Police Unit, the Criminal Investigation Department (CID), the Counter-Terrorism Command, and the Haram'ad Special Police Command. Senior Somali police officials briefed the visiting delegation on the structure, operational capabilities, specialized training, and ongoing security missions carried out by the respective units. Officials accompanying the delegation observed demonstrations highlighting tactical preparedness, criminal investigation procedures, intelligence coordination, and counterterrorism response capa",
+          "pubDate": "Thu, 16 Jul 2026 04:29:49 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia Hosts Djibouti Police Delegation for Security Talks"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Energia: Egitto, Shell approva la fase 12a del progetto gasifero West Delta",
-          "link": "https://www.agenzianova.com/a/6a8dff44e64a30.10689760/7722736/2026-08-25/energia-egitto-shell-approva-la-fase-12a-del-progetto-gasifero-west-delta",
-          "description": "25 ago 19:49 - (Agenzia Nova) - La filiale egiziana di Shell, Bg Delta Limited, ha adottato la decisione finale di investimento (Fid) per lo... (Cae)",
-          "pubDate": "2026-08-25T19:49:30+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Energia: Egitto, Shell approva la fase 12a del progetto gasifero West Delta"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
