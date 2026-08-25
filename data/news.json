@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T16:59:25.289Z",
+  "generatedAt": "2026-08-25T19:00:53.062Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -14,15 +14,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Italian Ambassador to Sudan Mignano Presents Credentials to Al Burhan"
-        },
-        {
-          "title": "Somalia: autorita' Oltregiuba monitorano propaganda Al Shabaab",
-          "link": "https://www.agenzianova.com/a/6a8dc935391d85.77500299/7722523/2026-08-25/somalia-autorita-oltregiuba-monitorano-propaganda-al-shabaab",
-          "description": "25 ago 18:13 - (Agenzia Nova) - Le autorita' di intelligence e sicurezza dell'Oltregiuba, nel sud della Somalia, stanno monitorando con maggiore... (Suk)",
-          "pubDate": "2026-08-25T18:13:20+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Somalia: autorita' Oltregiuba monitorano propaganda Al Shabaab"
         },
         {
           "title": "Ambassador Mignano on a mission to Sudan, the first Italian ambassador in Khartoum since 2023",
@@ -192,6 +183,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya: Mobile Money Features in Half of Reported Fraud Cases As Kenya Steps Up Cybercrime Fight",
+          "link": "https://allafrica.com/stories/202608250381.html",
+          "description": "[Capital FM] Nairobi -- Mobile money was used as the payment method or destination in half of the computer fraud cases reviewed by Kenya's cybercrime authorities between February and July, prompting the government to intensify monitoring of digital financial transactions.",
+          "pubDate": "Tue, 25 Aug 2026 11:08:48 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Mobile Money Features in Half of Reported Fraud Cases As Kenya Steps Up Cybercrime Fight"
+        },
+        {
           "title": "Sudan: Sudanese UN Envoy - Eastern Libya, Chad and Ethiopia Are Supply Routes for RSF Militia",
           "link": "https://allafrica.com/stories/202608250212.html",
           "description": "[SNA] Sudan's Permanent Representative to the United Nations, Ambassador Al-Harith Idris, said in a briefing to the UN Security Council on Monday that the UN Panel of Experts had documented the transformation of eastern Libya into a central hub in the supply chain of the Rapid Support Forces (RSF), with the renovation and expansion of Kufra Airport and a significant increase in cargo flights coinciding with the growth of the RSF's capabilities.",
@@ -208,15 +208,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador Mignano on a mission to Sudan, the first Italian ambassador in Khartoum since 2023"
-        },
-        {
-          "title": "East Africa: Refinery Rivalry - Billion-Dollar Oil Projects Expose East Africa's Long-Running Regional Tensions",
-          "link": "https://allafrica.com/stories/202608250049.html",
-          "description": "[The Conversation Africa] East Africa, a region that has been working to deepen economic integration for more than 25 years, has a history of disagreements about the location of energy infrastructure. Uganda discovered oil in 2006 with the potential to pump an estimated 210,000 to 230,000 barrels of oil per day at peak production. Back in 2014, Kenya and Uganda agreed on a joint crude oil pipeline from Uganda's oil fields at Lake Albert to the Indian Ocean. But the plan was shelved in 2016. Eventually, Uganda chose a southern",
-          "pubDate": "Tue, 25 Aug 2026 05:06:47 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "East Africa: Refinery Rivalry - Billion-Dollar Oil Projects Expose East Africa's Long-Running Regional Tensions"
         },
         {
           "title": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Commerce and Industry",
@@ -506,7 +497,17 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Energia: Egitto, Shell approva la fase 12a del progetto gasifero West Delta",
+          "link": "https://www.agenzianova.com/a/6a8de5b868d0a2.71042509/7722736/2026-08-25/energia-egitto-shell-approva-la-fase-12a-del-progetto-gasifero-west-delta",
+          "description": "25 ago 19:49 - (Agenzia Nova) - La filiale egiziana di Shell, Bg Delta Limited, ha adottato la decisione finale di investimento (Fid) per lo... (Cae)",
+          "pubDate": "2026-08-25T19:49:30+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Energia: Egitto, Shell approva la fase 12a del progetto gasifero West Delta"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
