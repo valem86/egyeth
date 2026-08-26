@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T03:28:38.250Z",
+  "generatedAt": "2026-08-26T04:59:05.140Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -183,13 +183,22 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Mobile Money Features in Half of Reported Fraud Cases As Kenya Steps Up Cybercrime Fight",
-          "link": "https://allafrica.com/stories/202608250381.html",
-          "description": "[Capital FM] Nairobi -- Mobile money was used as the payment method or destination in half of the computer fraud cases reviewed by Kenya's cybercrime authorities between February and July, prompting the government to intensify monitoring of digital financial transactions.",
-          "pubDate": "Tue, 25 Aug 2026 11:08:48 GMT",
+          "title": "Sudan: War in Sudan Spreads to Neighboring Countries - Tensions With Chad and Ethiopia",
+          "link": "https://allafrica.com/stories/202608260033.html",
+          "description": "[Agenzia Fides] Khartoum -- The war in Sudan is increasingly involving neighboring countries into the conflict. The Sudan Armed Forces (SAF), led by General Abdel Fattah al-Burhan, have stepped up operations aimed at cutting the supply lines of the Rapid Support Forces (RSF), led by Mohammed Hamdan Dagalo, known as \"Hemedti,\" which run through several neighboring countries.",
+          "pubDate": "Wed, 26 Aug 2026 04:32:39 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Mobile Money Features in Half of Reported Fraud Cases As Kenya Steps Up Cybercrime Fight"
+          "titleIt": "Sudan: War in Sudan Spreads to Neighboring Countries - Tensions With Chad and Ethiopia"
+        },
+        {
+          "title": "Ethiopia: Ethiopia-Eritrea Tensions Over Red Sea Port Have Turned the Tigray Peace Deal Into a Political Weapon",
+          "link": "https://allafrica.com/stories/202608260009.html",
+          "description": "[The Conversation Africa] The large-scale war between the Ethiopian federal government and Tigray regional government forces ended in November 2022 with the signing of the Pretoria Agreement. The two sides agreed that the Tigrayan forces would disarm, and that foreign forces and other troops outside the federal army would withdraw from Tigray. They also agreed to restore constitutional order in Tigray and resolve disputes over contested areas in accordance with the constitution.",
+          "pubDate": "Wed, 26 Aug 2026 04:16:16 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia-Eritrea Tensions Over Red Sea Port Have Turned the Tigray Peace Deal Into a Political Weapon"
         },
         {
           "title": "Sudan: Sudanese UN Envoy - Eastern Libya, Chad and Ethiopia Are Supply Routes for RSF Militia",
@@ -313,6 +322,24 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Sudan: War in Sudan Spreads to Neighboring Countries - Tensions With Chad and Ethiopia",
+          "link": "https://allafrica.com/stories/202608260033.html",
+          "description": "[Agenzia Fides] Khartoum -- The war in Sudan is increasingly involving neighboring countries into the conflict. The Sudan Armed Forces (SAF), led by General Abdel Fattah al-Burhan, have stepped up operations aimed at cutting the supply lines of the Rapid Support Forces (RSF), led by Mohammed Hamdan Dagalo, known as \"Hemedti,\" which run through several neighboring countries.",
+          "pubDate": "Wed, 26 Aug 2026 04:32:39 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: War in Sudan Spreads to Neighboring Countries - Tensions With Chad and Ethiopia"
+        },
+        {
+          "title": "Ethiopia: Ethiopia-Eritrea Tensions Over Red Sea Port Have Turned the Tigray Peace Deal Into a Political Weapon",
+          "link": "https://allafrica.com/stories/202608260009.html",
+          "description": "[The Conversation Africa] The large-scale war between the Ethiopian federal government and Tigray regional government forces ended in November 2022 with the signing of the Pretoria Agreement. The two sides agreed that the Tigrayan forces would disarm, and that foreign forces and other troops outside the federal army would withdraw from Tigray. They also agreed to restore constitutional order in Tigray and resolve disputes over contested areas in accordance with the constitution.",
+          "pubDate": "Wed, 26 Aug 2026 04:16:16 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia-Eritrea Tensions Over Red Sea Port Have Turned the Tigray Peace Deal Into a Political Weapon"
+        },
         {
           "title": "Leonardo Maria Del Vecchio resigns from all positions at EssilorLuxottica",
           "link": "https://www.ansa.it/english/news/2026/08/25/leonardo-maria-del-vecchio-resigns-from-all-positions-at-essilorluxottica_8d55e889-3163-4cda-a78d-b1892cc8a63b.html",
@@ -474,24 +501,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "AUSSOM Leadership Meets New Djibouti Ambassador to Somalia"
-        },
-        {
-          "title": "Somalia Says 25 Al-Shabaab Militants Killed, Four Surrender",
-          "link": "https://hornobserver.com/articles/3701/Somalia-Says-25-Al-Shabaab-Militants-Killed-Four-Surrender",
-          "description": "The Ministry of Defence announced the outcome in a press statement released on Saturday, describing the operation as part of the Federal Government of Somalia's ongoing military campaign against Al-Shabaab. According to the ministry, the strike targeted positions the group had established in Suullaay, an area where security forces have continued operations aimed at disrupting militant activity in central Somalia. The ministry identified the four individuals who surrendered to the Somali National Army as Aden Mohamed Jimale, known within the group as Abbas, Ibrahim Aden Dahir, Aden Abshir Abdi,",
-          "pubDate": "Sat, 18 Jul 2026 16:09:16 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia Says 25 Al-Shabaab Militants Killed, Four Surrender"
-        },
-        {
-          "title": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges",
-          "link": "https://hornobserver.com/articles/3699/Ethiopia-Somali-Oromo-Officials-Discuss-Cross-Border-Challenges",
-          "description": "The dialogue brought together officials from six districts in the Fafan and Sitti zones of the Somali Regional State and five districts from the East and West Hararghe zones of the Oromia National Regional State. The meeting focused on improving collaboration between neighboring communities through locally led initiatives aimed at reinforcing social cohesion, conflict prevention, and cross-border cooperation. According to information released by the organizers, the discussions were held under the Strengthening the Resilience of Disaster-Affected Communities project, which promotes community re",
-          "pubDate": "Thu, 16 Jul 2026 23:48:28 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Ethiopia: Somali, Oromo Officials Discuss Cross-Border Challenges"
         }
       ]
     },
@@ -502,6 +511,24 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Sudan: War in Sudan Spreads to Neighboring Countries - Tensions With Chad and Ethiopia",
+          "link": "https://allafrica.com/stories/202608260033.html",
+          "description": "[Agenzia Fides] Khartoum -- The war in Sudan is increasingly involving neighboring countries into the conflict. The Sudan Armed Forces (SAF), led by General Abdel Fattah al-Burhan, have stepped up operations aimed at cutting the supply lines of the Rapid Support Forces (RSF), led by Mohammed Hamdan Dagalo, known as \"Hemedti,\" which run through several neighboring countries.",
+          "pubDate": "Wed, 26 Aug 2026 04:32:39 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: War in Sudan Spreads to Neighboring Countries - Tensions With Chad and Ethiopia"
+        },
+        {
+          "title": "Ethiopia: Ethiopia-Eritrea Tensions Over Red Sea Port Have Turned the Tigray Peace Deal Into a Political Weapon",
+          "link": "https://allafrica.com/stories/202608260009.html",
+          "description": "[The Conversation Africa] The large-scale war between the Ethiopian federal government and Tigray regional government forces ended in November 2022 with the signing of the Pretoria Agreement. The two sides agreed that the Tigrayan forces would disarm, and that foreign forces and other troops outside the federal army would withdraw from Tigray. They also agreed to restore constitutional order in Tigray and resolve disputes over contested areas in accordance with the constitution.",
+          "pubDate": "Wed, 26 Aug 2026 04:16:16 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia-Eritrea Tensions Over Red Sea Port Have Turned the Tigray Peace Deal Into a Political Weapon"
+        },
         {
           "title": "5 teen far-right extremists cited in Arezzo",
           "link": "https://www.ansa.it/english/news/2026/08/25/5-teen-far-right-extremists-cited-in-arezzo_e6589880-458f-4031-9179-daf542c3f36a.html",
