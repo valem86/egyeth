@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-26T09:06:03.564Z",
+  "generatedAt": "2026-08-26T10:54:36.903Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: WFP Warns Somalia Faces Deepening Humanitarian Crisis As Millions Go Hungry",
+          "link": "https://allafrica.com/stories/202608260288.html",
+          "description": "[Shabelle] Mogadishu -- The United Nations World Food Programme has warned the Security Council that Somalia is facing a worsening humanitarian crisis, with millions of people struggling with severe food insecurity and malnutrition.",
+          "pubDate": "Wed, 26 Aug 2026 10:33:56 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: WFP Warns Somalia Faces Deepening Humanitarian Crisis As Millions Go Hungry"
+        },
         {
           "title": "Italy and Somalia Collaborate on Maritime Cooperation and Training",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/26/italy-and-somalia-collaborate-on-maritime-cooperation-and-training_2da5cde7-fa5c-4ed2-aa58-d827882df339.html",
@@ -176,21 +185,21 @@
           "source": "Crisis Group",
           "lang": "en",
           "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenya: Peace Pulse Seeks to Curb Election Risks to Kenya's Economy Ahead of 2027",
+          "link": "https://allafrica.com/stories/202608260247.html",
+          "description": "[Capital FM] Nairobi -- A new peacebuilding initiative targeting 11 Kenyan counties will use community-based early warning systems and digital monitoring to help contain conflict, misinformation and other risks that could disrupt businesses and livelihoods ahead of the 2027 General Election.",
+          "pubDate": "Wed, 26 Aug 2026 10:14:02 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Peace Pulse Seeks to Curb Election Risks to Kenya's Economy Ahead of 2027"
+        },
         {
           "title": "Italy and Somalia Collaborate on Maritime Cooperation and Training",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/26/italy-and-somalia-collaborate-on-maritime-cooperation-and-training_2da5cde7-fa5c-4ed2-aa58-d827882df339.html",
@@ -217,15 +226,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: Ethiopia-Eritrea Tensions Over Red Sea Port Have Turned the Tigray Peace Deal Into a Political Weapon"
-        },
-        {
-          "title": "Sudan: Sudanese UN Envoy - Eastern Libya, Chad and Ethiopia Are Supply Routes for RSF Militia",
-          "link": "https://allafrica.com/stories/202608250212.html",
-          "description": "[SNA] Sudan's Permanent Representative to the United Nations, Ambassador Al-Harith Idris, said in a briefing to the UN Security Council on Monday that the UN Panel of Experts had documented the transformation of eastern Libya into a central hub in the supply chain of the Rapid Support Forces (RSF), with the renovation and expansion of Kufra Airport and a significant increase in cargo flights coinciding with the growth of the RSF's capabilities.",
-          "pubDate": "Tue, 25 Aug 2026 09:55:44 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Sudanese UN Envoy - Eastern Libya, Chad and Ethiopia Are Supply Routes for RSF Militia"
         },
         {
           "title": "Ambassador Mignano on a mission to Sudan, the first Italian ambassador in Khartoum since 2023",
@@ -341,13 +341,22 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Germania: ministra Ricerca , governo \"estremamente stabile\", focus su geopolitica e partenariati strategici",
-          "link": "https://www.agenzianova.com/a/6a8eabf4275f47.37815657/7723849/2026-08-26/germania-ministra-ricerca-governo-estremamente-stabile-focus-su-geopolitica-e-partenariati-strategici",
-          "description": "26 ago 10:40 - (Agenzia Nova) - Il governo tedesco e' \"estremamente stabile\" e al suo interno esiste una forte volonta' di portare avanti un'azione... (Geb)",
-          "pubDate": "2026-08-26T10:40:58+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Germania: ministra Ricerca , governo \"estremamente stabile\", focus su geopolitica e partenariati strategici"
+          "title": "No rift with US, bond transcends individual presidents says Tajani",
+          "link": "https://www.ansa.it/english/news/2026/08/26/no-rift-with-us-bond-transcends-individual-presidents-says-tajani_caf0858c-8347-40e7-9a3c-7a9ebe430469.html",
+          "description": "(ANSA) - ROME, AUG 26 - There is no rift between Italy and the United States and the strong bond between the two countries transcends individual presidents, Foreign MIinister Antonio Tajani said Wednesday amid tensions over Rome's lack of support for Donald Trump's Iran war. Premier Giorgia Meloni told the New York Times Friday she thought it would be easier to talk withTrump given their common political ground against migrants and woke culture but it had not turned out that way in the long run, after he turned against her for failing to back his war. Meloni, who was the only EU leader invited",
+          "pubDate": "Wed, 26 Aug 2026 11:55:39 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "No rift with US, bond transcends individual presidents says Tajani"
+        },
+        {
+          "title": "No rift with US, bond transcends individual presidents says Tajani",
+          "link": "https://www.ansa.it/english/news/world/2026/08/26/no-rift-with-us-bond-transcends-individual-presidents-says-tajani_1f3a9f36-5f2d-4ba3-9af1-a8e43dcd7965.html",
+          "description": "(ANSA) - ROME, AUG 26 - There is no rift between Italy and the United States and the strong bond between the two countries transcends individual presidents, Foreign MIinister Antonio Tajani said Wednesday amid tensions over Rome's lack of support for Donald Trump's Iran war. Premier Giorgia Meloni told the New York Times Friday she thought it would be easier to talk withTrump given their common political ground against migrants and woke culture but it had not turned out that way in the long run, after he turned against her for failing to back his war. Meloni, who was the only EU leader invited",
+          "pubDate": "Wed, 26 Aug 2026 11:43:36 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "No rift with US, bond transcends individual presidents says Tajani"
         },
         {
           "title": "Italy and Somalia Collaborate on Maritime Cooperation and Training",
@@ -395,15 +404,6 @@
           "titleIt": "US urges tougher UN sanctions to pressure Sudan’s warring sides toward peace"
         },
         {
-          "title": "Sudan: Sudanese UN Envoy - Eastern Libya, Chad and Ethiopia Are Supply Routes for RSF Militia",
-          "link": "https://allafrica.com/stories/202608250212.html",
-          "description": "[SNA] Sudan's Permanent Representative to the United Nations, Ambassador Al-Harith Idris, said in a briefing to the UN Security Council on Monday that the UN Panel of Experts had documented the transformation of eastern Libya into a central hub in the supply chain of the Rapid Support Forces (RSF), with the renovation and expansion of Kufra Airport and a significant increase in cargo flights coinciding with the growth of the RSF's capabilities.",
-          "pubDate": "Tue, 25 Aug 2026 09:55:44 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Sudanese UN Envoy - Eastern Libya, Chad and Ethiopia Are Supply Routes for RSF Militia"
-        },
-        {
           "title": "Ambassador Mignano on a mission to Sudan, the first Italian ambassador in Khartoum since 2023",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/25/ambassador-mignano-on-a-mission-to-sudan-the-first-italian-ambassador-in-khartoum-since_ecd1d5c6-f23d-49fa-aaa3-e3ac2f113c4e.html",
           "description": "(ANSA) - IL CAIRO, 25 AGO - The new ambassador to Sudan, Silvio Mignano—who had been based in Addis Ababa since the start of the conflict—carried out his first mission in the country. The mission included a stop in Port Sudan before moving on to Khartoum for the presentation of credentials. This was the embassy’s first mission to the capital since the evacuation in 2023. Italy is the first Western country to present its credentials. The Sudanese capital had been occupied in 2023 by paramilitaries of the Rapid Support Forces (RSF), but since May 2025, it has returned to the control of the army ",
@@ -429,15 +429,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Nigeria: Call for Pitches - People-Centred Investigative Reporting On Peace and Public Safety"
-        },
-        {
-          "title": "How Canada could hit back to hurt the US economy - and Trump",
-          "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-          "description": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?",
-          "pubDate": "Tue, 25 Aug 2026 02:49:22 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "How Canada could hit back to hurt the US economy - and Trump"
         },
         {
           "title": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Commerce and Industry",
@@ -519,6 +510,15 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "A Government With One Foot Out the Door: Somalia's Foreign Passport Crisis"
+        },
+        {
+          "title": "Somali Cabinet Approves Passport, Trade and Judicial Reforms",
+          "link": "https://hornobserver.com/articles/3707/Somali-Cabinet-Approves-Passport-Trade-and-Judicial-Reforms",
+          "description": "The council was briefed on Somalia's new third-generation electronic passport and was told that changes to personal data in issued passports have been stopped entirely to strengthen the document's credibility. Ministers also approved a Rules of Origin Bill allowing goods containing at least 30% Somali content to qualify for preferential treatment in regional markets. The law is aimed at boosting local production and exports following Somalia's entry into the East African Community and its participation in the African Continental Free Trade Area. The council also confirmed four appointed member",
+          "pubDate": "Sat, 08 Aug 2026 10:02:19 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somali Cabinet Approves Passport, Trade and Judicial Reforms"
         }
       ]
     },
@@ -564,15 +564,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "5 teen far-right extremists cited in Arezzo"
-        },
-        {
-          "title": "Sudan: Sudan Renews Call for UN Security Council to Designate RSF Militia As a Terrorist Organization",
-          "link": "https://allafrica.com/stories/202608250213.html",
-          "description": "[SNA] Sudan's Permanent Representative to the United Nations, Ambassador Al-Harith Idris, renewed Sudan's call for the UN Security Council to designate the Rapid Support Forces (RSF) militia as a terrorist organization, stressing that the nature of its attacks has fundamentally changed following its military setbacks.",
-          "pubDate": "Tue, 25 Aug 2026 09:56:15 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Sudan Renews Call for UN Security Council to Designate RSF Militia As a Terrorist Organization"
         },
         {
           "title": "RSF drone attacks in Sudan, Somalia’s drought emergency, and WFP sticks with Palantir: The Cheat Sheet",
