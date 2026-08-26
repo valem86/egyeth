@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T20:06:46.144Z",
+  "generatedAt": "2026-08-26T23:39:42.997Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -192,24 +192,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Brasile: azienda cinese Gulf Resources firma joint venture per litio e terre rare (2)",
-          "link": "https://www.agenzianova.com/a/6a8f46e16604c9.16777401/7725320/2026-08-26/brasile-azienda-cinese-gulf-resources-firma-joint-venture-per-litio-e-terre-rare-2",
-          "description": "26 ago 19:33 - (Agenzia Nova) - L'accordo, scrive \"Cnn Brasil\", prevede che le attivita' confluite nella nuova societa' generino entrate per... (Brs)",
-          "pubDate": "2026-08-26T19:33:15+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Brasile: azienda cinese Gulf Resources firma joint venture per litio e terre rare (2)"
-        },
-        {
-          "title": "Brasile: azienda cinese Gulf Resources firma joint venture per litio e terre rare",
-          "link": "https://www.agenzianova.com/a/6a8f46e16617c5.97187596/7725319/2026-08-26/brasile-azienda-cinese-gulf-resources-firma-joint-venture-per-litio-e-terre-rare",
-          "description": "26 ago 19:33 - (Agenzia Nova) - La societa' cinese Gulf Resources, produttrice di bromo e sale grezzo quotata al Nasdaq, ha annunciato un accordo... (Brs)",
-          "pubDate": "2026-08-26T19:33:15+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Brasile: azienda cinese Gulf Resources firma joint venture per litio e terre rare"
-        },
-        {
           "title": "Kenya: Peace Pulse Seeks to Curb Election Risks to Kenya's Economy Ahead of 2027",
           "link": "https://allafrica.com/stories/202608260247.html",
           "description": "[Capital FM] Nairobi -- A new peacebuilding initiative targeting 11 Kenyan counties will use community-based early warning systems and digital monitoring to help contain conflict, misinformation and other risks that could disrupt businesses and livelihoods ahead of the 2027 General Election.",
@@ -340,24 +322,6 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Brasile: azienda cinese Gulf Resources firma joint venture per litio e terre rare (2)",
-          "link": "https://www.agenzianova.com/a/6a8f46e16604c9.16777401/7725320/2026-08-26/brasile-azienda-cinese-gulf-resources-firma-joint-venture-per-litio-e-terre-rare-2",
-          "description": "26 ago 19:33 - (Agenzia Nova) - L'accordo, scrive \"Cnn Brasil\", prevede che le attivita' confluite nella nuova societa' generino entrate per... (Brs)",
-          "pubDate": "2026-08-26T19:33:15+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Brasile: azienda cinese Gulf Resources firma joint venture per litio e terre rare (2)"
-        },
-        {
-          "title": "Brasile: azienda cinese Gulf Resources firma joint venture per litio e terre rare",
-          "link": "https://www.agenzianova.com/a/6a8f46e16617c5.97187596/7725319/2026-08-26/brasile-azienda-cinese-gulf-resources-firma-joint-venture-per-litio-e-terre-rare",
-          "description": "26 ago 19:33 - (Agenzia Nova) - La societa' cinese Gulf Resources, produttrice di bromo e sale grezzo quotata al Nasdaq, ha annunciato un accordo... (Brs)",
-          "pubDate": "2026-08-26T19:33:15+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Brasile: azienda cinese Gulf Resources firma joint venture per litio e terre rare"
-        },
         {
           "title": "No rift with US, bond transcends individual presidents says Tajani",
           "link": "https://www.ansa.it/english/news/2026/08/26/no-rift-with-us-bond-transcends-individual-presidents-says-tajani_caf0858c-8347-40e7-9a3c-7a9ebe430469.html",
@@ -519,6 +483,15 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia Says 25 Al-Shabaab Militants Killed, Four Surrender"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
