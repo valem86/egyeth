@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-26T17:52:18.723Z",
+  "generatedAt": "2026-08-26T20:06:46.144Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "UK backs Somalia's path to security and political progress",
+          "link": "https://hornobserver.com/articles/3720/UK-backs-Somalias-path-to-security-and-political-progress",
+          "description": "The UK has reaffirmed its long-term commitment to Somalia during the first visit to the country by the minister for Development and Africa, Kirsty McNeill MP. During her visit, the minister met President Hassan Sheikh Mohamud and discussed Somalia's political and security priorities and the need for progress towards a credible and sustainable transition to Somali-led security. The minister encouraged leaders from across Somalia to engage in constructive dialogue that strengthens national unity, advances political progress and helps build consensus on Somalia's future, underlining that continue",
+          "pubDate": "Wed, 26 Aug 2026 21:29:35 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "UK backs Somalia's path to security and political progress"
+        },
         {
           "title": "Somalia Trains Journalists as New Frontline Against Digital Extremism",
           "link": "https://hornobserver.com/articles/3718/Somalia-Trains-Journalists-as-New-Frontline-Against-Digital-Extremism",
@@ -176,15 +185,6 @@
           "source": "Crisis Group",
           "lang": "en",
           "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -193,7 +193,7 @@
       "items": [
         {
           "title": "Brasile: azienda cinese Gulf Resources firma joint venture per litio e terre rare (2)",
-          "link": "https://www.agenzianova.com/a/6a8f27cd786953.04576361/7725320/2026-08-26/brasile-azienda-cinese-gulf-resources-firma-joint-venture-per-litio-e-terre-rare-2",
+          "link": "https://www.agenzianova.com/a/6a8f46e16604c9.16777401/7725320/2026-08-26/brasile-azienda-cinese-gulf-resources-firma-joint-venture-per-litio-e-terre-rare-2",
           "description": "26 ago 19:33 - (Agenzia Nova) - L'accordo, scrive \"Cnn Brasil\", prevede che le attivita' confluite nella nuova societa' generino entrate per... (Brs)",
           "pubDate": "2026-08-26T19:33:15+02:00",
           "source": "Agenzia Nova",
@@ -202,7 +202,7 @@
         },
         {
           "title": "Brasile: azienda cinese Gulf Resources firma joint venture per litio e terre rare",
-          "link": "https://www.agenzianova.com/a/6a8f27cd788193.23579562/7725319/2026-08-26/brasile-azienda-cinese-gulf-resources-firma-joint-venture-per-litio-e-terre-rare",
+          "link": "https://www.agenzianova.com/a/6a8f46e16617c5.97187596/7725319/2026-08-26/brasile-azienda-cinese-gulf-resources-firma-joint-venture-per-litio-e-terre-rare",
           "description": "26 ago 19:33 - (Agenzia Nova) - La societa' cinese Gulf Resources, produttrice di bromo e sale grezzo quotata al Nasdaq, ha annunciato un accordo... (Brs)",
           "pubDate": "2026-08-26T19:33:15+02:00",
           "source": "Agenzia Nova",
@@ -342,7 +342,7 @@
       "items": [
         {
           "title": "Brasile: azienda cinese Gulf Resources firma joint venture per litio e terre rare (2)",
-          "link": "https://www.agenzianova.com/a/6a8f27cd786953.04576361/7725320/2026-08-26/brasile-azienda-cinese-gulf-resources-firma-joint-venture-per-litio-e-terre-rare-2",
+          "link": "https://www.agenzianova.com/a/6a8f46e16604c9.16777401/7725320/2026-08-26/brasile-azienda-cinese-gulf-resources-firma-joint-venture-per-litio-e-terre-rare-2",
           "description": "26 ago 19:33 - (Agenzia Nova) - L'accordo, scrive \"Cnn Brasil\", prevede che le attivita' confluite nella nuova societa' generino entrate per... (Brs)",
           "pubDate": "2026-08-26T19:33:15+02:00",
           "source": "Agenzia Nova",
@@ -351,21 +351,12 @@
         },
         {
           "title": "Brasile: azienda cinese Gulf Resources firma joint venture per litio e terre rare",
-          "link": "https://www.agenzianova.com/a/6a8f27cd788193.23579562/7725319/2026-08-26/brasile-azienda-cinese-gulf-resources-firma-joint-venture-per-litio-e-terre-rare",
+          "link": "https://www.agenzianova.com/a/6a8f46e16617c5.97187596/7725319/2026-08-26/brasile-azienda-cinese-gulf-resources-firma-joint-venture-per-litio-e-terre-rare",
           "description": "26 ago 19:33 - (Agenzia Nova) - La societa' cinese Gulf Resources, produttrice di bromo e sale grezzo quotata al Nasdaq, ha annunciato un accordo... (Brs)",
           "pubDate": "2026-08-26T19:33:15+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
           "titleIt": "Brasile: azienda cinese Gulf Resources firma joint venture per litio e terre rare"
-        },
-        {
-          "title": "Livorno: Tar azzera vincoli paesaggistici e urbanistici al porto, sulle banchine decide l'Autorita' di sistema portuale",
-          "link": "https://www.agenzianova.com/a/6a8f27cd7996c7.71072606/7725299/2026-08-26/livorno-tar-azzera-vincoli-paesaggistici-e-urbanistici-al-porto-sulle-banchine-decide-l-autorita-di-sistema-portuale",
-          "description": "26 ago 19:24 - (Agenzia Nova) - Svolta strategica per il porto di Livorno: il Tar della Toscana (Sezione prima), con la sentenza numero 1740... (Com)",
-          "pubDate": "2026-08-26T19:24:22+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Livorno: Tar azzera vincoli paesaggistici e urbanistici al porto, sulle banchine decide l'Autorita' di sistema portuale"
         },
         {
           "title": "No rift with US, bond transcends individual presidents says Tajani",
@@ -519,6 +510,15 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "AUSSOM Leadership Meets New Djibouti Ambassador to Somalia"
+        },
+        {
+          "title": "Somalia Says 25 Al-Shabaab Militants Killed, Four Surrender",
+          "link": "https://hornobserver.com/articles/3701/Somalia-Says-25-Al-Shabaab-Militants-Killed-Four-Surrender",
+          "description": "The Ministry of Defence announced the outcome in a press statement released on Saturday, describing the operation as part of the Federal Government of Somalia's ongoing military campaign against Al-Shabaab. According to the ministry, the strike targeted positions the group had established in Suullaay, an area where security forces have continued operations aimed at disrupting militant activity in central Somalia. The ministry identified the four individuals who surrendered to the Somali National Army as Aden Mohamed Jimale, known within the group as Abbas, Ibrahim Aden Dahir, Aden Abshir Abdi,",
+          "pubDate": "Sat, 18 Jul 2026 16:09:16 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia Says 25 Al-Shabaab Militants Killed, Four Surrender"
         }
       ]
     },
