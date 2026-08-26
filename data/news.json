@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T10:54:36.903Z",
+  "generatedAt": "2026-08-26T13:19:44.614Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -192,6 +192,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Speciale porti: Hormuz, forte aumento dei trasferimenti di petrolio tra navi nel Golfo di Oman",
+          "link": "https://www.agenzianova.com/a/6a8ee774a82412.37686316/7724241/2026-08-26/speciale-porti-hormuz-forte-aumento-dei-trasferimenti-di-petrolio-tra-navi-nel-golfo-di-oman",
+          "description": "26 ago 15:00 - (Agenzia Nova) - Almeno 20 operazioni di trasferimento di petrolio da nave a nave (Sts) sono state effettuate nell'arco di 24... (Res)",
+          "pubDate": "2026-08-26T15:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale porti: Hormuz, forte aumento dei trasferimenti di petrolio tra navi nel Golfo di Oman"
+        },
+        {
           "title": "Kenya: Peace Pulse Seeks to Curb Election Risks to Kenya's Economy Ahead of 2027",
           "link": "https://allafrica.com/stories/202608260247.html",
           "description": "[Capital FM] Nairobi -- A new peacebuilding initiative targeting 11 Kenyan counties will use community-based early warning systems and digital monitoring to help contain conflict, misinformation and other risks that could disrupt businesses and livelihoods ahead of the 2027 General Election.",
@@ -341,13 +350,40 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Speciale porti: Infrastrutture, accordo sviluppo terminal porto di Gedda tra societa' saudita e francese",
+          "link": "https://www.agenzianova.com/a/6a8ee774a87e66.92177107/7722843/2026-08-26/speciale-porti-infrastrutture-accordo-sviluppo-terminal-porto-di-gedda-tra-societa-saudita-e-francese",
+          "description": "26 ago 15:00 - (Agenzia Nova) - La societa' saudita Red Sea gateway terminal (Rsgt), operatrice di terminal portuali, e il gruppo francese... (Res)",
+          "pubDate": "2026-08-26T15:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale porti: Infrastrutture, accordo sviluppo terminal porto di Gedda tra societa' saudita e francese"
+        },
+        {
+          "title": "Speciale porti: Hormuz, \"Al Arabiya\", Usa propongono sospensione blocco navale in cambio di apertura Stretto",
+          "link": "https://www.agenzianova.com/a/6a8ee774a8dd48.35554133/7722839/2026-08-26/speciale-porti-hormuz-al-arabiya-usa-propongono-sospensione-blocco-navale-in-cambio-di-apertura-stretto",
+          "description": "26 ago 15:00 - (Agenzia Nova) - Gli Stati Uniti avrebbero offerto di sospendere il blocco navale imposto all'Iran e di revocare le sanzioni... (Res)",
+          "pubDate": "2026-08-26T15:00:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale porti: Hormuz, \"Al Arabiya\", Usa propongono sospensione blocco navale in cambio di apertura Stretto"
+        },
+        {
           "title": "No rift with US, bond transcends individual presidents says Tajani",
           "link": "https://www.ansa.it/english/news/2026/08/26/no-rift-with-us-bond-transcends-individual-presidents-says-tajani_caf0858c-8347-40e7-9a3c-7a9ebe430469.html",
           "description": "(ANSA) - ROME, AUG 26 - There is no rift between Italy and the United States and the strong bond between the two countries transcends individual presidents, Foreign MIinister Antonio Tajani said Wednesday amid tensions over Rome's lack of support for Donald Trump's Iran war. Premier Giorgia Meloni told the New York Times Friday she thought it would be easier to talk withTrump given their common political ground against migrants and woke culture but it had not turned out that way in the long run, after he turned against her for failing to back his war. Meloni, who was the only EU leader invited",
-          "pubDate": "Wed, 26 Aug 2026 11:55:39 +0200",
+          "pubDate": "Wed, 26 Aug 2026 13:19:24 +0200",
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "No rift with US, bond transcends individual presidents says Tajani"
+        },
+        {
+          "title": "Iran, Oman agree temporary Strait of Hormuz corridor",
+          "link": "http://www.africanews.com/2026/08/26/iran-oman-agree-temporary-strait-of-hormuz-corridor/",
+          "description": "Iran and Oman have agreed on a temporary shipping corridor through the Strait of Hormuz to allow commercial vessels to transit the strategic waterway, as Tehran dismissed U.S. claims that mines had been cleared and warned that the strait could remain closed unless its conditions are met.",
+          "pubDate": "Wed, 26 Aug 2026 11:06:18 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Iran, Oman agree temporary Strait of Hormuz corridor"
         },
         {
           "title": "No rift with US, bond transcends individual presidents says Tajani",
@@ -492,33 +528,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
-        },
-        {
-          "title": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug",
-          "link": "https://hornobserver.com/articles/3714/Policy-Brief-From-Elections-to-Democratic-Governance-Strengthening-Political-Stability-and-Electoral-Integrity-in-Somalias-Galmudug",
-          "description": "As the state enters a new electoral phase in 2026, the central question is no longer simply whether elections can be conducted, but whether electoral reform can contribute to stronger institutions, inclusive governance, and lasting political stability. This new policy brief by the Insight Horn Institute (IHI) examines Galmudug's four electoral cycles between 2015 and 2026 and explores what they reveal about institutional development, federal-state relations, political inclusion, security, and democratic legitimacy. It argues that elections are an important part of democratic transition, but th",
-          "pubDate": "Thu, 13 Aug 2026 19:52:05 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug"
-        },
-        {
-          "title": "A Government With One Foot Out the Door: Somalia's Foreign Passport Crisis",
-          "link": "https://hornobserver.com/articles/3710/A-Government-With-One-Foot-Out-the-Door-Somalias-Foreign-Passport-Crisis",
-          "description": "It took a Kenyan airport officer to do what Somalia's own constitution could not. He was not alone. On July 26, State Minister at the Presidency Abshir Bukhaari — a former First Deputy Speaker of Somalia's Senate — was also denied entry at the same airport and placed on a return flight to Mogadishu after immigration officials raised questions about his travel documents. Neither the Kenyan nor the Somali government has officially confirmed the reasons behind the incident. Somalia's Foreign Ministry summoned Kenya's ambassador for consultations the following day. The embarrassments forced Presid",
-          "pubDate": "Sat, 08 Aug 2026 11:40:07 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "A Government With One Foot Out the Door: Somalia's Foreign Passport Crisis"
-        },
-        {
-          "title": "Somali Cabinet Approves Passport, Trade and Judicial Reforms",
-          "link": "https://hornobserver.com/articles/3707/Somali-Cabinet-Approves-Passport-Trade-and-Judicial-Reforms",
-          "description": "The council was briefed on Somalia's new third-generation electronic passport and was told that changes to personal data in issued passports have been stopped entirely to strengthen the document's credibility. Ministers also approved a Rules of Origin Bill allowing goods containing at least 30% Somali content to qualify for preferential treatment in regional markets. The law is aimed at boosting local production and exports following Somalia's entry into the East African Community and its participation in the African Continental Free Trade Area. The council also confirmed four appointed member",
-          "pubDate": "Sat, 08 Aug 2026 10:02:19 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somali Cabinet Approves Passport, Trade and Judicial Reforms"
         }
       ]
     },
