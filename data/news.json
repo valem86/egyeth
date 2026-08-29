@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T02:51:22.675Z",
+  "generatedAt": "2026-08-29T11:09:49.392Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -11,7 +11,7 @@
           "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
           "description": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
           "pubDate": "Sat, 29 Aug 2026 01:14:13 GMT",
-          "source": "BBC World",
+          "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Somali piracy surges as the impact of the US-Iran war ripples outwards"
         },
@@ -174,15 +174,6 @@
           "titleIt": "Kenya: US Launches Sh930m Initiative to Modernise Kenya Police Training"
         },
         {
-          "title": "Kenya: Police Deployed As Nairobi Traders Protest Increased Taxes On Imports",
-          "link": "https://allafrica.com/stories/202608280231.html",
-          "description": "[Capital FM] Nairobi -- Police have been deployed around the Archives, Luthuli Avenue and Railways Roundabout in Nairobi's central business district as traders prepare to march to the Kenya Revenue Authority (KRA) offices in protest against a revised customs valuation benchmark.",
-          "pubDate": "Fri, 28 Aug 2026 11:00:22 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Police Deployed As Nairobi Traders Protest Increased Taxes On Imports"
-        },
-        {
           "title": "China: Video shows mudslide surging through Gyirong port",
           "link": "http://www.africanews.com/2026/08/27/china-video-shows-mudslide-surging-through-gyirong-port/",
           "description": "A flash flood swept through China’s Gyirong port on 26 August after a major disaster struck nearby Nepal. Footage shows mud and debris engulfing the border trade hub.",
@@ -332,15 +323,6 @@
           "titleIt": "Ambassador Cuculi at the inauguration of the Thessaloniki metro extension"
         },
         {
-          "title": "Malawi: Chikangawa Plane Crash Inquiry Hears Conflicting Visibility Reports",
-          "link": "https://allafrica.com/stories/202608280036.html",
-          "description": "[Nyasa Times] A former weather station chief has delivered explosive testimony to the parliamentary inquiry investigating the Chikangawa plane crash that killed Vice-President Saulos Chilima and eight others, telling the committee the doomed military aircraft could in fact have landed safely at Mzuzu Airport on the morning of the tragedy.",
-          "pubDate": "Fri, 28 Aug 2026 04:10:15 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Malawi: Chikangawa Plane Crash Inquiry Hears Conflicting Visibility Reports"
-        },
-        {
           "title": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him",
           "link": "https://hornobserver.com/articles/3721/Somalia-The-Killer-Who-Was-Also-a-Journalist-And-the-Method-That-Didnt-Die-With-Him",
           "description": "Hanafi did more than report on al-Shabaab. He became the group´s eyes inside Somalia&#39;s newsrooms. He picked out which journalists to threaten, which ones to trap, and which ones to have killed. A military court found him responsible for the deaths of five journalists between 2007 and 2010, including HornAfrik co-founder Ali Iimaan Sharmaarke and Radio Mogadishu´s Sheikh Nur Mohamed Abkey. Abkey was the only one Hanafi admitted to killing with his own hands. His method was simple. As al-Shabaab´s head of press monitoring, he tracked which journalists criticized the group or spoke well of th",
@@ -429,6 +411,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: Tigray Education Bureau Decries 'Pattern of Drone Destruction'"
+        },
+        {
+          "title": "Uganda: Lawyers Raise Concerns Over Handling of Case Against Driver in Next Media Crash",
+          "link": "https://allafrica.com/stories/202608280403.html",
+          "description": "[Nile Post] Kampala -- Lawyers representing the families of former Next Media employees Isaac Ndamagye and Badru Kasirye have asked the Kajjansi Magistrates Court to consider allowing the families to participate more fully in the criminal case arising from their deaths.",
+          "pubDate": "Fri, 28 Aug 2026 12:36:37 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Uganda: Lawyers Raise Concerns Over Handling of Case Against Driver in Next Media Crash"
         },
         {
           "title": "IPI: Africa Media Freedom Monitoring: April to June 2026",
