@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-28T18:47:25.316Z",
+  "generatedAt": "2026-08-29T02:51:22.675Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+          "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+          "description": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
+          "pubDate": "Sat, 29 Aug 2026 01:14:13 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Somali piracy surges as the impact of the US-Iran war ripples outwards"
+        },
         {
           "title": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him",
           "link": "https://hornobserver.com/articles/3721/Somalia-The-Killer-Who-Was-Also-a-Journalist-And-the-Method-That-Didnt-Die-With-Him",
@@ -146,6 +155,15 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenyan police fire teargas to disperse protesting small-scale traders",
+          "link": "http://www.africanews.com/2026/08/28/kenyan-police-fire-teargas-to-disperse-protesting-small-scale-traders/",
+          "description": "Shop owners and importers were demonstrating against an increase in import duties they say will hurt small businesses.",
+          "pubDate": "Fri, 28 Aug 2026 18:21:19 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Kenyan police fire teargas to disperse protesting small-scale traders"
+        },
         {
           "title": "Kenya: US Launches Sh930m Initiative to Modernise Kenya Police Training",
           "link": "https://allafrica.com/stories/202608280358.html",
