@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T11:09:49.392Z",
+  "generatedAt": "2026-08-29T16:46:44.930Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -174,6 +174,15 @@
           "titleIt": "Kenya: US Launches Sh930m Initiative to Modernise Kenya Police Training"
         },
         {
+          "title": "Kenya: Police Deployed As Nairobi Traders Protest Increased Taxes On Imports",
+          "link": "https://allafrica.com/stories/202608280231.html",
+          "description": "[Capital FM] Nairobi -- Police have been deployed around the Archives, Luthuli Avenue and Railways Roundabout in Nairobi's central business district as traders prepare to march to the Kenya Revenue Authority (KRA) offices in protest against a revised customs valuation benchmark.",
+          "pubDate": "Fri, 28 Aug 2026 11:00:22 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Police Deployed As Nairobi Traders Protest Increased Taxes On Imports"
+        },
+        {
           "title": "China: Video shows mudslide surging through Gyirong port",
           "link": "http://www.africanews.com/2026/08/27/china-video-shows-mudslide-surging-through-gyirong-port/",
           "description": "A flash flood swept through China’s Gyirong port on 26 August after a major disaster struck nearby Nepal. Footage shows mud and debris engulfing the border trade hub.",
@@ -287,15 +296,6 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Liberia: Gender Ministry, Legal Experts Clash Over Spousal Support Law",
-          "link": "https://allafrica.com/stories/202608280541.html",
-          "description": "[Liberian Observer] A fierce public dispute has erupted between the Ministry of Gender, Children, and Social Protection and legal experts over the interpretation of Liberia's Domestic Relations Law, triggering a broader debate about spousal obligations, unemployment, gender equality and economic hardship.",
-          "pubDate": "Fri, 28 Aug 2026 15:57:15 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Liberia: Gender Ministry, Legal Experts Clash Over Spousal Support Law"
-        },
-        {
           "title": "Soccer: Leao bids farewell to AC Milan, chooses Galatasaray",
           "link": "https://www.ansa.it/english/news/2026/08/28/soccer-leao-bids-farewell-to-ac-milan-chooses-galatasaray_ae225ece-aa53-4f50-afc6-e0a8f4f0333f.html",
           "description": "(ANSA) - ROME, AUG 28 - After days of speculation, Portugal winger Rafael Leao on Friday made his choice and will leave AC Milan for Galatasaray, preferring the Turkish club to Premier League outfit Aston Villa. The Portuguese, after days of intense negotiations with the Turks and Villa, ultimately chose the former. AC Milan had already reached an agreement to sell him for approximately €45 million. Then, the Rossoneri number 10, who could choose between Aston Villa's offer and Galatasaray's, made his decision, opting for Turkey for €12 million per season. The English club had offered a salary",
@@ -321,6 +321,15 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Ambassador Cuculi at the inauguration of the Thessaloniki metro extension"
+        },
+        {
+          "title": "Malawi: Chikangawa Plane Crash Inquiry Hears Conflicting Visibility Reports",
+          "link": "https://allafrica.com/stories/202608280036.html",
+          "description": "[Nyasa Times] A former weather station chief has delivered explosive testimony to the parliamentary inquiry investigating the Chikangawa plane crash that killed Vice-President Saulos Chilima and eight others, telling the committee the doomed military aircraft could in fact have landed safely at Mzuzu Airport on the morning of the tragedy.",
+          "pubDate": "Fri, 28 Aug 2026 04:10:15 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Malawi: Chikangawa Plane Crash Inquiry Hears Conflicting Visibility Reports"
         },
         {
           "title": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him",
@@ -398,7 +407,17 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "US due to cut off UAE branches of Egypt's Banque Misr over Iran ties",
+          "link": "http://www.africanews.com/2026/08/29/us-due-to-cut-off-uae-branches-of-egypts-banque-misr-over-iran-ties/",
+          "description": "The US Treasury Department is due to cut off a major Egyptian bank's operations in the United Arab Emirates from the US financial system, an official said Friday, as Washington pushes to choke Iran off economically.",
+          "pubDate": "Sat, 29 Aug 2026 14:16:11 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "US due to cut off UAE branches of Egypt's Banque Misr over Iran ties"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
@@ -411,15 +430,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: Tigray Education Bureau Decries 'Pattern of Drone Destruction'"
-        },
-        {
-          "title": "Uganda: Lawyers Raise Concerns Over Handling of Case Against Driver in Next Media Crash",
-          "link": "https://allafrica.com/stories/202608280403.html",
-          "description": "[Nile Post] Kampala -- Lawyers representing the families of former Next Media employees Isaac Ndamagye and Badru Kasirye have asked the Kajjansi Magistrates Court to consider allowing the families to participate more fully in the criminal case arising from their deaths.",
-          "pubDate": "Fri, 28 Aug 2026 12:36:37 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Uganda: Lawyers Raise Concerns Over Handling of Case Against Driver in Next Media Crash"
         },
         {
           "title": "IPI: Africa Media Freedom Monitoring: April to June 2026",
