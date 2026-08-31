@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-08-31T13:58:13.199Z",
+  "generatedAt": "2026-08-31T20:10:06.928Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somalia, Qatar Discuss Security and Defence Cooperation",
+          "link": "https://allafrica.com/stories/202608310655.html",
+          "description": "[Shabelle] Doha -- Somali Prime Minister Hamza Abdi Barre met Qatar's Deputy Prime Minister and Defence Minister, Sheikh Saud bin Abdulrahman bin Hassan Al Thani, in Doha to discuss strengthening security and defence cooperation between the two countries.",
+          "pubDate": "Mon, 31 Aug 2026 15:40:00 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia, Qatar Discuss Security and Defence Cooperation"
+        },
         {
           "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
           "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
@@ -146,6 +155,15 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenya: Rwandair Cancels Nairobi Flights Again Amid Air Traffic Control Issues",
+          "link": "https://allafrica.com/stories/202608310653.html",
+          "description": "[New Times] RwandAir has cancelled flights to and from Nairobi for a second consecutive day due to ongoing operational constraints affecting air traffic control services at Jomo Kenyatta International Airport.",
+          "pubDate": "Mon, 31 Aug 2026 15:38:34 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Rwandair Cancels Nairobi Flights Again Amid Air Traffic Control Issues"
+        },
         {
           "title": "Kenya: Tourism CS Miano Dismisses Viral Claims She Was Attacked On Way to Work",
           "link": "https://allafrica.com/stories/202608310620.html",
@@ -296,6 +314,42 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "West Africa: What Did They Sign? Gambia's Political Alliances Face AU, Ecowas Transparency Test",
+          "link": "https://allafrica.com/stories/202608310681.html",
+          "description": "[Foroyaa] As political parties race to build alliances ahead of The Gambia's December 2026 presidential election, a growing question is being asked about the agreements shaping those partnerships: what exactly did they sign? From the coalition that helped end Yahya Jammeh's rule in 2016 to the alliances being formed today, political parties have increasingly used agreements to determine who they support and how they will contest power, yet many of the documents remain unavailable to the public. The issue comes as",
+          "pubDate": "Mon, 31 Aug 2026 15:50:48 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "West Africa: What Did They Sign? Gambia's Political Alliances Face AU, Ecowas Transparency Test"
+        },
+        {
+          "title": "Ethiopia: Ethiopia in the Spotlight - From Health Diplomacy to Strategic Assertiveness On Abay River and Red Sea",
+          "link": "https://allafrica.com/stories/202608310649.html",
+          "description": "[ENA] Ethiopia's week unfolded at the intersection of continental diplomacy, health cooperation and the country's broader development ambitions, with Addis Ababa once again serving as a major platform for regional and international engagement.",
+          "pubDate": "Mon, 31 Aug 2026 15:35:42 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia in the Spotlight - From Health Diplomacy to Strategic Assertiveness On Abay River and Red Sea"
+        },
+        {
+          "title": "Ex centre-left leader goes public with Parkinson's struggle",
+          "link": "https://www.ansa.it/english/news/2026/08/31/ex-centre-left-leader-goes-public-with-parkinsons-struggle_e7497a4b-7226-4bca-ac8e-5e252bb4c880.html",
+          "description": "(ANSA) - ROME, AUG 31 - Former centre-left leader Dario Franceschini on Monday went public with his six-year struggle with Parkinson's Disease drawing praise from across the political spectrum and from support groups. Franceschini, a Christian leftwinger and former culture minister who was briefly head of the Democratic Party (PD) in 2009, told the story of his ordeal for the first time in an interview with Corriere della Sera. \"I have Parkinson's. I was diagnosed in November 2020,\" said the 68-year-old PD Senator. \"The diagnosis was a tremendous blow. I'd had a heart attack in 2014, plus a fe",
+          "pubDate": "Mon, 31 Aug 2026 17:23:27 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Ex centre-left leader goes public with Parkinson's struggle"
+        },
+        {
+          "title": "Ex centre-left leader goes public with Parkinson's struggle",
+          "link": "https://www.ansa.it/english/news/politics/2026/08/31/ex-centre-left-leader-goes-public-with-parkinsons-struggle_ba8d7e0b-6286-474a-89cb-8a6598359a41.html",
+          "description": "(ANSA) - ROME, AUG 31 - Former centre-left leader Dario Franceschini on Monday went public with his six-year struggle with Parkinson's Disease drawing praise from across the political spectrum and from support groups. Franceschini, a Christian leftwinger and former culture minister who was briefly head of the Democratic Party (PD) in 2009, told the story of his ordeal for the first time in an interview with Corriere della Sera. \"I have Parkinson's. I was diagnosed in November 2020,\" said the 68-year-old PD Senator. \"The diagnosis was a tremendous blow. I'd had a heart attack in 2014, plus a fe",
+          "pubDate": "Mon, 31 Aug 2026 17:08:31 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Ex centre-left leader goes public with Parkinson's struggle"
+        },
+        {
           "title": "Soccer: Fiorentina sign Beto and Gnonto",
           "link": "https://www.ansa.it/english/news/2026/08/31/soccer-fiorentina-sign-beto-and-gnonto_7732ddb5-a7d5-4f01-95da-837fd4408ffb.html",
           "description": "(ANSA) - ROME, AUG 31 - Fiorentina have signed Guinea-Bissua striker Beto from Everton and ex Italy winger Wilfried Gntono from Leeds United. Beto, 28, signed in a reported 18 million euro deal while 22-year-old Gnonto, who last played for the Azzurri three years ago, came on loan with a buy option. Beto's arrival frees 28-year-old Italy striker Moise Kean to join Como in a 40 million euro deal. (ANSA). Read article...",
@@ -348,15 +402,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Soccer: Leao bids farewell to AC Milan, chooses Galatasaray"
-        },
-        {
-          "title": "Ambassador Cuculi at the inauguration of the Thessaloniki metro extension",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/08/28/ambassador-cuculi-at-the-inauguration-of-the-thessaloniki-metro-extension_8635a3c3-f98a-43bc-b336-04dcbd654faf.html",
-          "description": "(ANSA) - ATENE, 28 AGO - The Italian Ambassador to Greece, Paolo Cuculi, attended the inauguration of the extension of the Thessaloniki metro system in Greece’s second-largest city. The extension includes five new stations along a 5-kilometer route, adding to the line built by the Italian companies Webuild and Hitachi Rail, which was inaugurated in November 2024. The infrastructure is managed by Azienda Trasporti Milanesi (ATM) through its Greek subsidiary, Thema. The ceremony took place in the presence of Greek Prime Minister Mitsotakis —who expressed great satisfaction with the line’s expans",
-          "pubDate": "Fri, 28 Aug 2026 11:30:56 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Ambassador Cuculi at the inauguration of the Thessaloniki metro extension"
         },
         {
           "title": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him",
@@ -449,15 +494,6 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Sudan: Sudan's Women Pay the Price As Weapons Keep Flowing - Why an Arms Embargo Is Crucial to Protecting Them",
-          "link": "https://allafrica.com/stories/202608310049.html",
-          "description": "[Dabanga] The US proposal to expand the arms embargo on Darfur to cover all of Sudan is raising questions about how far a comprehensive weapons ban can reduce the risks facing women. The proposal cannot be viewed simply as a security or political measure: it is directly linked to women's rights to life, safety, freedom of movement, and the protection of their families.",
-          "pubDate": "Mon, 31 Aug 2026 03:59:33 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Sudan's Women Pay the Price As Weapons Keep Flowing - Why an Arms Embargo Is Crucial to Protecting Them"
-        },
         {
           "title": "IPI: Africa Media Freedom Monitoring: April to June 2026",
           "link": "https://hornobserver.com/articles/3719/IPI-Africa-Media-Freedom-Monitoring-April-to-June-2026",
