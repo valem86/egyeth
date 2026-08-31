@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T05:42:18.086Z",
+  "generatedAt": "2026-08-31T13:58:13.199Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -7,28 +7,10 @@
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Somalia: Somalia and Turkey Celebrate Victory Day in Mogadishu",
-          "link": "https://allafrica.com/stories/202608310105.html",
-          "description": "[Radio Dalsan] MOGADISHU, Somalia Somalia's Minister of Interior, Federal Affairs and Reconciliation, Ali Yusuf Ali (Xoosh), attended a ceremony in Mogadishu marking the 104th anniversary of Türkiye's Victory Day, commemorating the military victory of August 30, 1922, which played a decisive role in Türkiye's struggle for independence.The ceremony, organized by the Embassy of Türkiye in Mogadishu, brought together senior Somali government officials, diplomats and representatives from both",
-          "pubDate": "Mon, 31 Aug 2026 04:23:17 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia and Turkey Celebrate Victory Day in Mogadishu"
-        },
-        {
-          "title": "Somalia: Somalia and Qatar Leaders Discuss Security, Trade and Bilateral Ties",
-          "link": "https://allafrica.com/stories/202608310098.html",
-          "description": "[Shabelle] Doha, Qatar -- Somali Prime Minister Hamza Abdi Barre held talks with his Qatari counterpart, Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, during an official visit to Qatar, focusing on security, peace and bilateral cooperation.",
-          "pubDate": "Mon, 31 Aug 2026 04:23:14 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia and Qatar Leaders Discuss Security, Trade and Bilateral Ties"
-        },
-        {
           "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
           "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
           "description": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
-          "pubDate": "Sat, 29 Aug 2026 01:14:13 GMT",
+          "pubDate": "Mon, 31 Aug 2026 13:34:09 GMT",
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Somali piracy surges as the impact of the US-Iran war ripples outwards"
@@ -68,15 +50,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
-        },
-        {
-          "title": "Spurs in talks to sign Egypt's Marmoush from Man City",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cz645z0w3ypo?at_medium=RSS&at_campaign=rss",
-          "description": "Spurs open talks with Manchester City to sign attacking duo Omar Marmoush and Savinho.",
-          "pubDate": "Thu, 20 Aug 2026 09:01:26 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Spurs in talks to sign Egypt's Marmoush from Man City"
         },
         {
           "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
@@ -174,22 +147,40 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Emirati: Iran rivendica attacco con droni contro una base militare Usa",
-          "link": "https://www.agenzianova.com/a/6a9514373d5a58.38634240/7731382/2026-08-31/emirati-iran-rivendica-attacco-con-droni-contro-una-base-militare-usa",
-          "description": "31 ago 07:14 - (Agenzia Nova) - Le forze armate dell'Iran hanno riferito di aver attaccato la base aerea di Al Minhad, negli Emirati Arabi... (Res)",
-          "pubDate": "2026-08-31T07:14:46+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Emirati: Iran rivendica attacco con droni contro una base militare Usa"
-        },
-        {
-          "title": "Somalia: Somalia and Turkey Celebrate Victory Day in Mogadishu",
-          "link": "https://allafrica.com/stories/202608310105.html",
-          "description": "[Radio Dalsan] MOGADISHU, Somalia Somalia's Minister of Interior, Federal Affairs and Reconciliation, Ali Yusuf Ali (Xoosh), attended a ceremony in Mogadishu marking the 104th anniversary of Türkiye's Victory Day, commemorating the military victory of August 30, 1922, which played a decisive role in Türkiye's struggle for independence.The ceremony, organized by the Embassy of Türkiye in Mogadishu, brought together senior Somali government officials, diplomats and representatives from both",
-          "pubDate": "Mon, 31 Aug 2026 04:23:17 GMT",
+          "title": "Kenya: Tourism CS Miano Dismisses Viral Claims She Was Attacked On Way to Work",
+          "link": "https://allafrica.com/stories/202608310620.html",
+          "description": "[Capital FM] Nairobi -- Tourism and Wildlife Cabinet Secretary Rebecca Miano has dismissed social media claims that goons attacked her while she was travelling to work, calling the reports \"fake\".",
+          "pubDate": "Mon, 31 Aug 2026 13:45:04 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: Somalia and Turkey Celebrate Victory Day in Mogadishu"
+          "titleIt": "Kenya: Tourism CS Miano Dismisses Viral Claims She Was Attacked On Way to Work"
+        },
+        {
+          "title": "Passengers stranded as strike disrupts flights at Kenya's main airport",
+          "link": "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
+          "description": "Kenya Airways says the strike has caused delays of more than six hours, with some flights cancelled.",
+          "pubDate": "Mon, 31 Aug 2026 10:54:01 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Passengers stranded as strike disrupts flights at Kenya's main airport"
+        },
+        {
+          "title": "Kenya: Passengers Stranded Amid Airport Staff Strike",
+          "link": "https://allafrica.com/stories/202608310178.html",
+          "description": "[DW] Airport workers are staging a work slow-down to protest poor working conditions and a lack of support from relevant authorities.",
+          "pubDate": "Mon, 31 Aug 2026 09:56:23 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Passengers Stranded Amid Airport Staff Strike"
+        },
+        {
+          "title": "Passengers face long delays as Kenyan airport workers call strike",
+          "link": "http://www.africanews.com/2026/08/31/passengers-face-long-delays-as-kenyan-airport-workers-call-strike/",
+          "description": "Passengers at Nairobi’s Jomo Kenyatta International Airport faced long delays on Sunday after Kenyan air traffic controllers and airport staff resumed a strike.",
+          "pubDate": "Mon, 31 Aug 2026 09:19:35 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Passengers face long delays as Kenyan airport workers call strike"
         },
         {
           "title": "Kenyan police fire teargas to disperse protesting small-scale traders",
@@ -199,15 +190,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Kenyan police fire teargas to disperse protesting small-scale traders"
-        },
-        {
-          "title": "China: Video shows mudslide surging through Gyirong port",
-          "link": "http://www.africanews.com/2026/08/27/china-video-shows-mudslide-surging-through-gyirong-port/",
-          "description": "A flash flood swept through China’s Gyirong port on 26 August after a major disaster struck nearby Nepal. Footage shows mud and debris engulfing the border trade hub.",
-          "pubDate": "Thu, 27 Aug 2026 18:02:11 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "China: Video shows mudslide surging through Gyirong port"
         },
         {
           "title": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him",
@@ -313,6 +295,42 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Soccer: Fiorentina sign Beto and Gnonto",
+          "link": "https://www.ansa.it/english/news/2026/08/31/soccer-fiorentina-sign-beto-and-gnonto_7732ddb5-a7d5-4f01-95da-837fd4408ffb.html",
+          "description": "(ANSA) - ROME, AUG 31 - Fiorentina have signed Guinea-Bissua striker Beto from Everton and ex Italy winger Wilfried Gntono from Leeds United. Beto, 28, signed in a reported 18 million euro deal while 22-year-old Gnonto, who last played for the Azzurri three years ago, came on loan with a buy option. Beto's arrival frees 28-year-old Italy striker Moise Kean to join Como in a 40 million euro deal. (ANSA). Read article...",
+          "pubDate": "Mon, 31 Aug 2026 15:43:21 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Soccer: Fiorentina sign Beto and Gnonto"
+        },
+        {
+          "title": "Soccer: Fiorentina sign Beto and Gnonto",
+          "link": "https://www.ansa.it/english/news/sports/2026/08/31/soccer-fiorentina-sign-beto-and-gnonto_5a21839e-89e8-476a-82b8-ad05b7af02c6.html",
+          "description": "(ANSA) - ROME, AUG 31 - Fiorentina have signed Guinea-Bissua striker Beto from Everton and ex Italy winger Wilfried Gntono from Leeds United. Beto, 28, signed in a reported 18 million euro deal while 22-year-old Gnonto, who last played for the Azzurri three years ago, came on loan with a buy option. (ANSA). Read article...",
+          "pubDate": "Mon, 31 Aug 2026 15:31:29 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Soccer: Fiorentina sign Beto and Gnonto"
+        },
+        {
+          "title": "Madrid extends border controls on arrivals from Italy for two weeks",
+          "link": "https://www.ansa.it/english/news/2026/08/31/madrid-extends-border-controls-on-arrivals-from-italy-for-two-weeks_d8f3f02c-5e0b-41bd-9b8f-907a5fbf886e.html",
+          "description": "(ANSA) - ROME, AUG 31 - Madrid on Monday extended border controls on arrivals from Italy for two weeks in a tit-for-tat move after Rome did the same in the wake of the Ceuta migrant crisis. Madrid has decided to \"extend for two weeks border controls on passengers entering the national territory by sea or air from Italy,\" sources from the Spanish Ministry of the Interior reported to ANSA. The decision, they explained, follows the formal communication received from Italy of the extension for another 15 days of the suspension of Schengen for Spain. The controls, established on August 8th for an i",
+          "pubDate": "Mon, 31 Aug 2026 13:06:06 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Madrid extends border controls on arrivals from Italy for two weeks"
+        },
+        {
+          "title": "Madrid extends border controls on arrivals from Italy for two weeks",
+          "link": "https://www.ansa.it/english/news/world/2026/08/31/madrid-extends-border-controls-on-arrivals-from-italy-for-two-weeks_b0d6a8b1-2902-4125-a1ad-c16611a0c608.html",
+          "description": "(ANSA) - ROME, AUG 31 - Madrid on Monday extended border controls on arrivals from Italy for two weeks in a tit-for-tat move after Rome did the same in the wake of the Ceuta migrant crisis. Madrid has decided to \"extend for two weeks border controls on passengers entering the national territory by sea or air from Italy,\" sources from the Spanish Ministry of the Interior reported to ANSA. The decision, they explained, follows the formal communication received from Italy of the extension for another 15 days of the suspension of Schengen for Spain. The controls, established on August 8th for an i",
+          "pubDate": "Mon, 31 Aug 2026 13:06:06 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Madrid extends border controls on arrivals from Italy for two weeks"
+        },
         {
           "title": "Soccer: Leao bids farewell to AC Milan, chooses Galatasaray",
           "link": "https://www.ansa.it/english/news/2026/08/28/soccer-leao-bids-farewell-to-ac-milan-chooses-galatasaray_ae225ece-aa53-4f50-afc6-e0a8f4f0333f.html",
