@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-09-01T05:15:47.674Z",
+  "generatedAt": "2026-09-01T11:43:56.069Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Energia: Egitto, consumo di gas sale a 7 miliardi di piedi cubi al giorno",
+          "link": "https://www.agenzianova.com/a/6a96b980b52f70.92075044/7736046/2026-09-01/energia-egitto-consumo-di-gas-sale-a-7-miliardi-di-piedi-cubi-al-giorno",
+          "description": "01 set 13:20 - (Agenzia Nova) - Il costo di importazione di una singola spedizione di gas naturale liquefatto (Gnl) e' raddoppiato per l'Egitto,... (Cae)",
+          "pubDate": "2026-09-01T13:20:33+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Energia: Egitto, consumo di gas sale a 7 miliardi di piedi cubi al giorno"
+        },
+        {
+          "title": "Somalia: SNA Probes Video of Soldiers Suffocating Bound Al-Shabaab Suspect",
+          "link": "https://allafrica.com/stories/202609010097.html",
+          "description": "[Radio Dalsan] Somalia's military opened a preliminary investigation on Tuesday after a video circulated online appeared to show members of the Somali National Army (SNA) abusing a man in custody during an operation against Al-Shabaab, the SNAF Command said in a statement, adding that the footage contravenes its Code of Conduct and the laws of armed conflict.",
+          "pubDate": "Tue, 01 Sep 2026 08:19:06 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: SNA Probes Video of Soldiers Suffocating Bound Al-Shabaab Suspect"
+        },
         {
           "title": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia",
           "link": "https://hornobserver.com/articles/3723/The-Copyright-Trap-How-fake-claims-are-silencing-independent-media-and-journalists-in-Somalia",
@@ -14,24 +32,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia"
-        },
-        {
-          "title": "Cina-Egitto: Xi, nostri Paesi \"partner affidabili\" legati da \"cooperazione reciprocamente vantaggiosa\"",
-          "link": "https://www.agenzianova.com/a/6a965f7feef0b1.56298800/7734376/2026-09-01/cina-egitto-xi-nostri-paesi-partner-affidabili-legati-da-cooperazione-reciprocamente-vantaggiosa",
-          "description": "01 set 06:13 - (Agenzia Nova) - Cina ed Egitto \"sono sempre stati partner affidabili\" legati da \"una cooperazione reciprocamente vantaggiosa\".... (Cip)",
-          "pubDate": "2026-09-01T06:13:00+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Cina-Egitto: Xi, nostri Paesi \"partner affidabili\" legati da \"cooperazione reciprocamente vantaggiosa\""
-        },
-        {
-          "title": "Cina-Egitto: Xi, nostre relazioni \"ottimo esempio\" di amicizia, solidarieta' e collaborazione",
-          "link": "https://www.agenzianova.com/a/6a965f7fef18b5.01057147/7734372/2026-09-01/cina-egitto-xi-nostre-relazioni-ottimo-esempio-di-amicizia-solidarieta-e-collaborazione",
-          "description": "01 set 05:59 - (Agenzia Nova) - Quello tra Cina ed Egitto e' \"un ottimo esempio di cooperazione tra Pechino e gli Stati arabi\", nonche' di... (Cip)",
-          "pubDate": "2026-09-01T05:59:26+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Cina-Egitto: Xi, nostre relazioni \"ottimo esempio\" di amicizia, solidarieta' e collaborazione"
         },
         {
           "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
@@ -174,6 +174,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya: Aviation Workers Call Off Strike After Deal On Pay, Union Dues",
+          "link": "https://allafrica.com/stories/202609010071.html",
+          "description": "[Capital FM] Nairobi -- Aviation workers have called off their industrial action and resumed normal duties after reaching a return-to-work agreement with their employers, ending a standoff that threatened to disrupt operations in the aviation sector.",
+          "pubDate": "Tue, 01 Sep 2026 06:05:00 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Aviation Workers Call Off Strike After Deal On Pay, Union Dues"
+        },
+        {
           "title": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia",
           "link": "https://hornobserver.com/articles/3723/The-Copyright-Trap-How-fake-claims-are-silencing-independent-media-and-journalists-in-Somalia",
           "description": "Journalists, editors and media managers told SJS that the attacks intensified early this year amid opposition protests in Mogadishu and escalating tensions between the Federal Government and Southwest State, as well as the continuing political rift with Puntland. The attacks are contributing to a shrinking space for independent reporting across the country. With Facebook serving as the primary news and communication platform for most Somali journalists and the general public, the copyright strikes, removals and account restrictions have significantly limited journalists' ability to report and ",
@@ -183,24 +192,6 @@
           "titleIt": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia"
         },
         {
-          "title": "Kenya: Aviation Strike Threatens Kenya's Regional Hub Status As Flights Disrupted",
-          "link": "https://allafrica.com/stories/202609010026.html",
-          "description": "[Capital FM] Nairobi -- Kenya's aviation industry has called for an urgent end to an ongoing air traffic services strike, warning that prolonged disruption at Jomo Kenyatta International Airport (JKIA) is threatening flight safety, passenger connectivity and the country's reputation as a regional aviation hub.",
-          "pubDate": "Tue, 01 Sep 2026 04:10:21 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Aviation Strike Threatens Kenya's Regional Hub Status As Flights Disrupted"
-        },
-        {
-          "title": "Kenya: Flights Disrupted for Second Day As Transport Ministry Stays Silent On Aviation Strike",
-          "link": "https://allafrica.com/stories/202609010027.html",
-          "description": "[Capital FM] Nairobi -- Kenya's aviation strike entered its second day on Monday, with hundreds of passengers facing delays and cancellations as the Ministry of Roads and Transport remained publicly silent on the disruption.",
-          "pubDate": "Tue, 01 Sep 2026 04:10:21 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Flights Disrupted for Second Day As Transport Ministry Stays Silent On Aviation Strike"
-        },
-        {
           "title": "Kenya: Tourism CS Miano Dismisses Viral Claims She Was Attacked On Way to Work",
           "link": "https://allafrica.com/stories/202608310620.html",
           "description": "[Capital FM] Nairobi -- Tourism and Wildlife Cabinet Secretary Rebecca Miano has dismissed social media claims that goons attacked her while she was travelling to work, calling the reports \"fake\".",
@@ -208,24 +199,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: Tourism CS Miano Dismisses Viral Claims She Was Attacked On Way to Work"
-        },
-        {
-          "title": "Passengers stranded as strike disrupts flights at Kenya's main airport",
-          "link": "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
-          "description": "Kenya Airways says the strike has caused delays of more than six hours, with some flights cancelled.",
-          "pubDate": "Mon, 31 Aug 2026 10:54:01 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Passengers stranded as strike disrupts flights at Kenya's main airport"
-        },
-        {
-          "title": "Kenya: Passengers Stranded Amid Airport Staff Strike",
-          "link": "https://allafrica.com/stories/202608310178.html",
-          "description": "[DW] Airport workers are staging a work slow-down to protest poor working conditions and a lack of support from relevant authorities.",
-          "pubDate": "Mon, 31 Aug 2026 09:56:23 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Passengers Stranded Amid Airport Staff Strike"
         },
         {
           "title": "Passengers face long delays as Kenyan airport workers call strike",
@@ -349,6 +322,42 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Energy prices push up inflation to near-three-year high of 3.3% in August (3)",
+          "link": "https://www.ansa.it/english/news/business/2026/09/01/energy-prices-push-up-inflation-to-near-three-year-high-of-3.3-in-august_03b4f73f-5c42-489e-ad6b-a1412d314c96.html",
+          "description": "(ANSA) - ROME, SEP 1 - Rising energy prices due to the Iran war are continuing to push up Italian inflation, which was 3.3% in August, a near three-year high, Istat said Tuesday. According to preliminary estimates, in August 2026, the national consumer price index (NIC), excluding tobacco, will increase by +0.5% month-on-month and +3.3% year-on-year (from +2.9% the previous month). \"In August 2026, inflation will rise to +3.3% (from +2.9% in July), supported by the trend in energy prices (from +11.6% to +17.0%), which are still affected by international tensions,\" explains the national statist",
+          "pubDate": "Tue, 1 Sep 2026 12:20:17 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Energy prices push up inflation to near-three-year high of 3.3% in August (3)"
+        },
+        {
+          "title": "Energy prices push up inflation to near-three-year high of 3.3% in August (3)",
+          "link": "https://www.ansa.it/english/news/2026/09/01/energy-prices-push-up-inflation-to-near-three-year-high-of-3.3-in-august_2f1f3320-a609-480d-b3bf-112ecb010881.html",
+          "description": "(ANSA) - ROME, SEP 1 - Rising energy prices due to the Iran war are continuing to push up Italian inflation, which was 3.3% in August, a near three-year high, Istat said Tuesday. According to preliminary estimates, in August 2026, the national consumer price index (NIC), excluding tobacco, will increase by +0.5% month-on-month and +3.3% year-on-year (from +2.9% the previous month). \"In August 2026, inflation will rise to +3.3% (from +2.9% in July), supported by the trend in energy prices (from +11.6% to +17.0%), which are still affected by international tensions,\" explains the national statist",
+          "pubDate": "Tue, 1 Sep 2026 12:19:56 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Energy prices push up inflation to near-three-year high of 3.3% in August (3)"
+        },
+        {
+          "title": "Energy prices push up inflation, 3.3% in August",
+          "link": "https://www.ansa.it/english/news/business/2026/09/01/energy-prices-push-up-inflation-3.3-in-august_cd3d65e4-ac35-4b35-a5f4-7618a0d992af.html",
+          "description": "(ANSA) - ROME, SEP 1 - Rising energy prices due to the Iran war are continuing to push up Italian inflation, which was 3.3% in August, Istat said Tuesday. According to preliminary estimates, in August 2026, the national consumer price index (NIC), excluding tobacco, will increase by +0.5% month-on-month and +3.3% year-on-year (from +2.9% the previous month). \"In August 2026, inflation will rise to +3.3% (from +2.9% in July), supported by the trend in energy prices (from +11.6% to +17.0%), which are still affected by international tensions,\" explains the national statistics institute. The 'acqu",
+          "pubDate": "Tue, 1 Sep 2026 11:57:52 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Energy prices push up inflation, 3.3% in August"
+        },
+        {
+          "title": "Energy prices push up inflation, 3.3% in August",
+          "link": "https://www.ansa.it/english/news/2026/09/01/energy-prices-push-up-inflation-3.3-in-august_8a16efb6-e327-4b2a-ae04-a29e37a747fa.html",
+          "description": "(ANSA) - ROME, SEP 1 - Rising energy prices due to the Iran war are continuing to push up Italian inflation, which was 3.3% in August, Istat said Tuesday. According to preliminary estimates, in August 2026, the national consumer price index (NIC), excluding tobacco, will increase by +0.5% month-on-month and +3.3% year-on-year (from +2.9% the previous month). \"In August 2026, inflation will rise to +3.3% (from +2.9% in July), supported by the trend in energy prices (from +11.6% to +17.0%), which are still affected by international tensions,\" explains the national statistics institute. The 'acqu",
+          "pubDate": "Tue, 1 Sep 2026 11:57:13 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Energy prices push up inflation, 3.3% in August"
+        },
         {
           "title": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia",
           "link": "https://hornobserver.com/articles/3723/The-Copyright-Trap-How-fake-claims-are-silencing-independent-media-and-journalists-in-Somalia",
@@ -492,15 +501,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "AUSSOM Leadership Meets New Djibouti Ambassador to Somalia"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
