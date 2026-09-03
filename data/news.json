@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T00:20:09.130Z",
+  "generatedAt": "2026-09-03T07:14:13.261Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -14,15 +14,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt: Cairo and Beijing sign deals on economy, technology"
-        },
-        {
-          "title": "Bus crash on Egypt's Red Sea coast kills 22",
-          "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
-          "description": "Reports say Jordanian nationals are among those killed in the accident in the South Sinai governorate.",
-          "pubDate": "Wed, 02 Sep 2026 12:07:32 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Bus crash on Egypt's Red Sea coast kills 22"
         },
         {
           "title": "Chinese President Xi starts state visit to Egypt with energy, AI on agenda",
@@ -185,21 +176,21 @@
           "source": "Crisis Group",
           "lang": "en",
           "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Ethiopia: Ethiopian Embassy Says Murder Suspect, Five Accomplices Arrested in Saudi Arabia - Over 100 Held Over Social Media Content",
-          "link": "https://allafrica.com/stories/202609020589.html",
-          "description": "[Addis Standard] Addis Abeba -- Ethiopia's Embassy in Riyadh says a suspected perpetrator of a recent murder involving Ethiopian nationals in Saudi Arabia, along with 5 alleged accomplices, has been arrested as authorities investigate reports of violence in border and desert areas.",
-          "pubDate": "Wed, 02 Sep 2026 16:23:06 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopian Embassy Says Murder Suspect, Five Accomplices Arrested in Saudi Arabia - Over 100 Held Over Social Media Content"
-        },
         {
           "title": "Somalia: Somalia Urges Arab States to Block Wider Recognition of Somaliland",
           "link": "https://allafrica.com/stories/202609020580.html",
@@ -349,15 +340,6 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Ethiopia: Ethiopian Embassy Says Murder Suspect, Five Accomplices Arrested in Saudi Arabia - Over 100 Held Over Social Media Content",
-          "link": "https://allafrica.com/stories/202609020589.html",
-          "description": "[Addis Standard] Addis Abeba -- Ethiopia's Embassy in Riyadh says a suspected perpetrator of a recent murder involving Ethiopian nationals in Saudi Arabia, along with 5 alleged accomplices, has been arrested as authorities investigate reports of violence in border and desert areas.",
-          "pubDate": "Wed, 02 Sep 2026 16:23:06 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopian Embassy Says Murder Suspect, Five Accomplices Arrested in Saudi Arabia - Over 100 Held Over Social Media Content"
-        },
         {
           "title": "Senegal: Senegal and IMF Strike $2.2bn Deal, Two Years After Debt Scandal Froze Funding",
           "link": "https://allafrica.com/stories/202609020462.html",
@@ -548,6 +530,15 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Sudan: Sudanese Refugees Walk 20km for Aid in Eastern Chad",
+          "link": "https://allafrica.com/stories/202609030003.html",
+          "description": "[Dabanga] Eastern Chad -- Dozens of Sudanese refugees have walked from Marra refugee camp in eastern Chad to the town of Amliouna to demand humanitarian assistance, as heavy rain and strong winds have also damaged shelters at Mile refugee camp near the town of Guéréda in eastern Chad.",
+          "pubDate": "Thu, 03 Sep 2026 04:51:29 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudanese Refugees Walk 20km for Aid in Eastern Chad"
+        },
         {
           "title": "Ethiopia: Wajirat Officials Warn of Looming Human, Livestock Deaths As Drought Devastates Southeastern Tigray",
           "link": "https://allafrica.com/stories/202609020583.html",
