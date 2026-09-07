@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-09-07T18:47:05.280Z",
+  "generatedAt": "2026-09-07T22:53:36.164Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Energia: importazioni di gas naturale aumentate del 73 per cento (2)",
+          "link": "https://www.agenzianova.com/a/6a9f40099473c7.29444864/7754125/2026-09-07/energia-importazioni-di-gas-naturale-aumentate-del-73-per-cento-2",
+          "description": "07 set 21:01 - (Agenzia Nova) - Le importazioni egiziane di gas naturale liquefatto lo scorso luglio sono aumentate del 70 per cento, ovvero... (Cae)",
+          "pubDate": "2026-09-07T21:01:47+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Energia: importazioni di gas naturale aumentate del 73 per cento (2)"
+        },
+        {
+          "title": "Energia: importazioni di gas naturale aumentate del 73 per cento",
+          "link": "https://www.agenzianova.com/a/6a9f4009948a64.40516398/7754124/2026-09-07/energia-importazioni-di-gas-naturale-aumentate-del-73-per-cento",
+          "description": "07 set 21:01 - (Agenzia Nova) - Il valore delle importazioni egiziane di gas naturale e' aumentato del 73 per cento nel primo semestre del... (Cae)",
+          "pubDate": "2026-09-07T21:01:47+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Energia: importazioni di gas naturale aumentate del 73 per cento"
+        },
         {
           "title": "Arab League urges restraint as regional tensions escalate",
           "link": "http://www.africanews.com/2026/09/07/arab-league-urges-restraint-as-regional-tensions-escalate/",
@@ -167,24 +185,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
-        },
-        {
-          "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
-          "link": "https://hornobserver.com/articles/3715/Conflict-Drives-Farmers-Into-Somalias-capital-Mogadishu",
-          "description": "The families were displaced by disputes over agricultural land ownership, alongside ongoing fighting between the Somali government and Al-Shabaab and renewed clan conflicts over contested farmland. Aadan Rooble, a former farmer now living in an IDP camp in Mogadishu, said he fled the village of Farxaano in Lower Shabelle about 10 days ago because of continued fighting. Aadan said some members of his family were able to secure transportation, while he initially travelled on foot before eventually finding a vehicle. He said the family was forced to abandon the farms where they worked after repea",
-          "pubDate": "Mon, 17 Aug 2026 12:31:00 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
-        },
-        {
-          "title": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug",
-          "link": "https://hornobserver.com/articles/3714/Policy-Brief-From-Elections-to-Democratic-Governance-Strengthening-Political-Stability-and-Electoral-Integrity-in-Somalias-Galmudug",
-          "description": "As the state enters a new electoral phase in 2026, the central question is no longer simply whether elections can be conducted, but whether electoral reform can contribute to stronger institutions, inclusive governance, and lasting political stability. This new policy brief by the Insight Horn Institute (IHI) examines Galmudug's four electoral cycles between 2015 and 2026 and explores what they reveal about institutional development, federal-state relations, political inclusion, security, and democratic legitimacy. It argues that elections are an important part of democratic transition, but th",
-          "pubDate": "Thu, 13 Aug 2026 19:52:05 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug"
         }
       ]
     },
@@ -304,15 +304,6 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Cinema: Giuli firma Accordo di coproduzione con la Corea del Sud",
-          "link": "https://www.agenzianova.com/a/6a9f063585e890.42004851/7754080/2026-09-07/cinema-giuli-firma-accordo-di-coproduzione-con-la-corea-del-sud",
-          "description": "07 set 19:57 - (Agenzia Nova) - Il ministro della Cultura, Alessandro Giuli e il ministro della Cultura, Sport e Turismo della Repubblica di... (Com)",
-          "pubDate": "2026-09-07T19:57:59+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Cinema: Giuli firma Accordo di coproduzione con la Corea del Sud"
-        },
         {
           "title": "Arab League urges restraint as regional tensions escalate",
           "link": "http://www.africanews.com/2026/09/07/arab-league-urges-restraint-as-regional-tensions-escalate/",
@@ -443,7 +434,188 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "China - Africa cooperation : The living laboratory BRICS+ cannot afford to ignore",
+          "link": "https://weeklyblitz.net/2026/09/08/china-africa-cooperation-the-living-laboratory-brics-cannot-afford-to-ignore/",
+          "source": "weeklyblitz.net",
+          "pubDate": "2026-09-07T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China - Africa cooperation : The living laboratory BRICS+ cannot afford to ignore"
+        },
+        {
+          "title": "Morocco Wins Presidency of Arab League Permanent Information Committee",
+          "link": "https://www.moroccoworldnews.com/2026/09/337508/morocco-wins-presidency-of-arab-leagues-permanent-information-committee/",
+          "source": "moroccoworldnews.com",
+          "pubDate": "2026-09-07T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Morocco Wins Presidency of Arab League Permanent Information Committee"
+        },
+        {
+          "title": "China emphasises judicial cooperation at BRICS Chief Justice Forum",
+          "link": "http://www.middleeaststar.com/news/279291772/china-emphasises-judicial-cooperation-at-brics-chief-justices-forum",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-09-07T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China emphasises judicial cooperation at BRICS Chief Justice Forum"
+        },
+        {
+          "title": "Wall Street Absent , World Markets Divided : Hong Kong Drops Nearly 1 Percent",
+          "link": "http://www.myanmarnews.net/news/279292003/wall-street-absent-world-markets-divided-hong-kong-drops-nearly-1-percent",
+          "source": "myanmarnews.net",
+          "pubDate": "2026-09-07T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Wall Street Absent , World Markets Divided : Hong Kong Drops Nearly 1 Percent"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.argentinastar.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "argentinastar.com",
+          "pubDate": "2026-09-07T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Nowhere else do you have such a collective : South African envoy to India Sooklal says BRICS expansion strengthens global influence",
+          "link": "http://www.middleeaststar.com/news/279292247/nowhere-else-do-you-have-such-a-collective-south-african-envoy-to-india-sooklal-says-brics-expansion-strengthens-global-influence",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-09-07T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nowhere else do you have such a collective : South African envoy to India Sooklal says BRICS expansion strengthens global influence"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.newyorkstatesman.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "newyorkstatesman.com",
+          "pubDate": "2026-09-07T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.torontotelegraph.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "torontotelegraph.com",
+          "pubDate": "2026-09-07T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.stlouisstar.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "stlouisstar.com",
+          "pubDate": "2026-09-07T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.nigeriasun.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-09-07T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Nowhere else do you have such a collective : South African envoy to India Sooklal says BRICS expansion strengthens global influence",
+          "link": "http://www.nigeriasun.com/news/279292247/nowhere-else-do-you-have-such-a-collective-south-african-envoy-to-india-sooklal-says-brics-expansion-strengthens-global-influence",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-09-07T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nowhere else do you have such a collective : South African envoy to India Sooklal says BRICS expansion strengthens global influence"
+        },
+        {
+          "title": "Nowhere else do you have such a collective : South African envoy to India Sooklal says BRICS expansion strengthens global influence",
+          "link": "http://www.calcuttanews.net/news/279292247/nowhere-else-do-you-have-such-a-collective-south-african-envoy-to-india-sooklal-says-brics-expansion-strengthens-global-influence",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-09-07T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nowhere else do you have such a collective : South African envoy to India Sooklal says BRICS expansion strengthens global influence"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.saltlakecitysun.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "saltlakecitysun.com",
+          "pubDate": "2026-09-07T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.oklahomacitysun.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "oklahomacitysun.com",
+          "pubDate": "2026-09-07T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.batonrougepost.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "batonrougepost.com",
+          "pubDate": "2026-09-07T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.zimbabwestar.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "zimbabwestar.com",
+          "pubDate": "2026-09-07T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.japanherald.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "japanherald.com",
+          "pubDate": "2026-09-07T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.sanantoniopost.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "sanantoniopost.com",
+          "pubDate": "2026-09-07T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        },
+        {
+          "title": "Sudan Could Become the Red Sea Next Energy Security Flashpoint",
+          "link": "https://oilprice.com/Geopolitics/Africa/Sudan-Could-Become-the-Red-Seas-Next-Energy-Security-Flashpoint.html",
+          "source": "oilprice.com",
+          "pubDate": "2026-09-07T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan Could Become the Red Sea Next Energy Security Flashpoint"
+        },
+        {
+          "title": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda",
+          "link": "http://www.cincinnatisun.com/news/279292003/asian-markets-shine-while-europe-slips-on-holiday-thinned-monda",
+          "source": "cincinnatisun.com",
+          "pubDate": "2026-09-07T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Asian Markets Shine While Europe Slips on Holiday - Thinned Monda"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
