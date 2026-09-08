@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T16:42:34.585Z",
+  "generatedAt": "2026-09-08T21:13:41.802Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -14,6 +14,15 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "AFRICOM Conducts Airstrike Against al-Shabaab in Somalia"
+        },
+        {
+          "title": "Somalia: Somali Army Chief Visits Wounded Soldiers At Mogadishu Hospital",
+          "link": "https://allafrica.com/stories/202609080437.html",
+          "description": "[Shabelle] Mogadishu -- Somali army chief Brigadier General Ibrahim Mohamed Mohamud visited a hospital in Mogadishu on Tuesday to check on soldiers wounded during security operations, the military said.",
+          "pubDate": "Tue, 08 Sep 2026 14:09:33 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somali Army Chief Visits Wounded Soldiers At Mogadishu Hospital"
         },
         {
           "title": "Arab League urges restraint as regional tensions escalate",
@@ -59,15 +68,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt TV presenter Sarah Khalifa sentenced to death in drug case"
-        },
-        {
-          "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-          "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-          "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-          "pubDate": "Sun, 06 Sep 2026 08:05:22 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "TV presenter among 12 sentenced to death in Egypt drugs case"
         },
         {
           "title": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow",
@@ -278,6 +278,33 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "PAEC leads Pakistan Push to tap Africa Vast Economic Potential",
+          "link": "https://en.dailypakistan.com.pk/08-Sep-2026/paec-leads-pakistans-push-to-tap-africas-vast-economic-potential",
+          "source": "en.dailypakistan.com.pk",
+          "pubDate": "2026-09-08T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "PAEC leads Pakistan Push to tap Africa Vast Economic Potential"
+        },
+        {
+          "title": "Nigeria: Nigerian Government Reportedly Enters Secret Ceasefire Agreement With Boko Haram",
+          "link": "https://allafrica.com/stories/202609080472.html",
+          "description": "[Premium Times] The Nigerian government has reportedly entered into a secret ceasefire agreement with the Boko Haram faction led by Bakura Doro.",
+          "pubDate": "Tue, 08 Sep 2026 14:51:46 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Nigeria: Nigerian Government Reportedly Enters Secret Ceasefire Agreement With Boko Haram"
+        },
+        {
+          "title": "Arab News | 250 African Umrah guests arrive in Makkah",
+          "link": "https://www.arabnews.com/saudi-arabia/250-african-umrah-guests-arrive-in-makkah-3000919",
+          "source": "arabnews.com",
+          "pubDate": "2026-09-08T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | 250 African Umrah guests arrive in Makkah"
+        },
+        {
           "title": "Sudan: UN Human Rights Council Urged to Widen Sudan Arms Embargo and Extend Fact-Finding Mission",
           "link": "https://allafrica.com/stories/202609080366.html",
           "description": "[Dabanga] Geneva / Amsterdam -- The UN's Sudan fact-finding mission has urged the Human Rights Council to expand the Darfur arms embargo to the whole country, warning that foreign support is sustaining a war in which both sides may have committed war crimes. Sudan's government, however, rejects efforts to treat the warring parties as equivalent and says the conflict is being prolonged by external backing for the Rapid Support Forces.",
@@ -287,13 +314,85 @@
           "titleIt": "Sudan: UN Human Rights Council Urged to Widen Sudan Arms Embargo and Extend Fact-Finding Mission"
         },
         {
-          "title": "Algeria: Beyond the Fighter Jets - What Algeria's Deployment to Niger Really Signals",
+          "title": "Algeria : Beyond the Fighter Jets - What Algeria Deployment to Niger Really Signals",
           "link": "https://allafrica.com/stories/202609080017.html",
-          "description": "[African Arguments] Four Algerian Su-30 fighters touched down in Niamey on 30 August 2026, trailed by an aerial refueling aircraft. A day earlier, mutinous soldiers -- some drawn from units worn down by heavy losses fighting jihadist groups -- had stormed a military base next to the capital's airport and moved on the presidential palace. Niger's government asked for help, and Algiers answered. Algeria's Ministry of National Defense described the deployment as a mission to support the Nigerien army and deepen strategic",
-          "pubDate": "Tue, 08 Sep 2026 05:08:46 GMT",
-          "source": "AllAfrica",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-08T06:00:00Z",
           "lang": "en",
-          "titleIt": "Algeria: Beyond the Fighter Jets - What Algeria's Deployment to Niger Really Signals"
+          "description": "",
+          "titleIt": "Algeria : Beyond the Fighter Jets - What Algeria Deployment to Niger Really Signals"
+        },
+        {
+          "title": "Puntland Is Not A Platform – OpEd",
+          "link": "https://www.eurasiareview.com/07092026-puntland-is-not-a-platform-oped/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-09-08T00:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Puntland Is Not A Platform – OpEd"
+        },
+        {
+          "title": "Rearmed And Reckless : How Sudan New Arsenal Is Dragging Chad And Ethiopia Into Its War - OpEd",
+          "link": "https://www.eurasiareview.com/08092026-rearmed-and-reckless-how-sudans-new-arsenal-is-dragging-chad-and-ethiopia-into-its-war-oped/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-09-07T23:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rearmed And Reckless : How Sudan New Arsenal Is Dragging Chad And Ethiopia Into Its War - OpEd"
+        },
+        {
+          "title": "China - Africa cooperation : The living laboratory BRICS+ cannot afford to ignore",
+          "link": "https://weeklyblitz.net/2026/09/08/china-africa-cooperation-the-living-laboratory-brics-cannot-afford-to-ignore/",
+          "source": "weeklyblitz.net",
+          "pubDate": "2026-09-07T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China - Africa cooperation : The living laboratory BRICS+ cannot afford to ignore"
+        },
+        {
+          "title": "U . S . DFC targets SME investment for Bishoftu International Airport",
+          "link": "https://capitalethiopia.com/2026/09/07/u-s-dfc-targets-sme-investment-for-bishoftu-international-airport/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-09-07T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . DFC targets SME investment for Bishoftu International Airport"
+        },
+        {
+          "title": "Africa Intelligence Brief Monday , September 7 , 2026",
+          "link": "https://www.riotimesonline.com/africa-intelligence-brief-monday-september-7-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-07T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa Intelligence Brief Monday , September 7 , 2026"
+        },
+        {
+          "title": "Africa China debt stock hits $180bn as loan strategy",
+          "link": "https://www.riotimesonline.com/africa-china-debt-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-07T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa China debt stock hits $180bn as loan strategy"
+        },
+        {
+          "title": "Gulf states Africa investment shifts to ports and bases",
+          "link": "https://www.riotimesonline.com/gulf-states-africa-investment-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-07T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Gulf states Africa investment shifts to ports and bases"
+        },
+        {
+          "title": "Africa elections 2027 set for Nigeria Kenya Angola",
+          "link": "https://www.riotimesonline.com/africa-election-calendar-2027/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-07T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa elections 2027 set for Nigeria Kenya Angola"
         },
         {
           "title": "Arab League urges restraint as regional tensions escalate",
@@ -303,6 +402,15 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Arab League urges restraint as regional tensions escalate"
+        },
+        {
+          "title": "UN General Assembly Votes to Promote Equal Earth Projection for More Accurate World Maps",
+          "link": "https://www.archdaily.com/1184635/un-general-assembly-votes-to-promote-equal-earth-projection-for-more-accurate-world-maps",
+          "source": "archdaily.com",
+          "pubDate": "2026-09-07T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UN General Assembly Votes to Promote Equal Earth Projection for More Accurate World Maps"
         },
         {
           "title": "Mattarella and Estonian counterpart Karis confirm support for Kyiv",
@@ -323,6 +431,15 @@
           "titleIt": "Mattarella and Estonian counterpart Karis confirm support for Kyiv"
         },
         {
+          "title": "Sudan Borders Have Become as Dangerous as the War Itself",
+          "link": "https://themedialine.org/top-stories/sudans-borders-have-become-as-dangerous-as-the-war-itself/",
+          "source": "themedialine.org",
+          "pubDate": "2026-09-07T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan Borders Have Become as Dangerous as the War Itself"
+        },
+        {
           "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
           "link": "https://hornobserver.com/articles/3731/Somali-journalist-Bashir-Mohamed-Abdullahi-dies-after-being-shot-during-Baidoa-clashes",
           "description": "MOGADISHU, Somalia 7 September 2026 – The Somali Journalists Syndicate (SJS) expresses its deepest condolences over the death of journalist Bashir Mohamed Abdullahi, also known as Bashir Moalin, a reporter with the local Arlaadi Media Network, who succumbed to gunshot injuries sustained during armed clashes in Baidoa on Thursday, 3 September 2026. He becomes the second journalist killed in Somalia this year. Early on Monday, 7 September 2026, Bashir, 28, died from critical injuries he sustained while seeking shelter during armed clashes in Baidoa, Southwest State, his family told SJS. Accordin",
@@ -332,100 +449,200 @@
           "titleIt": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes"
         },
         {
-          "title": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow",
-          "link": "https://hornobserver.com/articles/3729/Protests-Erupt-in-Somalias-Gedo-Region-Over-Alleged-Turkish-Strikes-in-Doolow",
-          "description": "In Doolow, protesters accused Turkey of becoming involved in Somalia's political and clan disputes and expressed anger over the reported attack on General Shub's residence. Demonstrators chanted slogans critical of the federal government led by President Hassan Sheikh Mohamud and called for those responsible to be identified and held accountable. The residence of General Shub was reportedly targeted in an overnight attack involving a drone. General Shub and members of his family were reportedly inside the house at the time and sustained minor injuries. The Somali federal government has rejecte",
-          "pubDate": "Sat, 05 Sep 2026 22:24:29 +0300",
-          "source": "Horn Observer",
+          "title": "Refinery rivalry : billion ‑ dollar oil projects expose East Africa long ‑ running regional tensions",
+          "link": "https://www.independent.co.ug/refinery-rivalry-billion%E2%80%91dollar-oil-projects-expose-east-africas-long%E2%80%91running-regional-tensions/",
+          "source": "independent.co.ug",
+          "pubDate": "2026-09-07T08:30:00Z",
           "lang": "en",
-          "titleIt": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow"
-        },
-        {
-          "title": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10",
-          "link": "https://www.ansa.it/english/news/general_news/2026/09/04/meloni-govt-to-extend-17-cent-cut-in-diesel-duties-to-sept-10_4b768f0f-d2f6-4240-a6b3-4dffbf1cd8ae.html",
-          "description": "(ANSA) - ROME, 04 SET - The economy ministry has prepared a decree extending a 17-cent cut in diesel duties until September 10, sources said on Friday. The cut was first introduced by Premier Giorgia Meloni's government at the end of July to help people cope with high fuel costs following the return of conflict in the Persian Gulf and it has been renewed several times since. The current reduction was set to expire on Saturday. The cut, which does not regard unleaded petrol, has not stopped diesel prices from rising well above two euros a litre. The centre-left opposition has criticised the cut",
-          "pubDate": "Fri, 4 Sep 2026 14:22:16 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10"
-        },
-        {
-          "title": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10",
-          "link": "https://www.ansa.it/english/news/2026/09/04/meloni-govt-to-extend-17-cent-cut-in-diesel-duties-to-sept-10_8e2bad50-a7af-4457-8550-db4fdbfa8ed6.html",
-          "description": "(ANSA) - ROME, 04 SET - The economy ministry has prepared a decree extending a 17-cent cut in diesel duties until September 10, sources said on Friday. The cut was first introduced by Premier Giorgia Meloni's government at the end of July to help people cope with high fuel costs following the return of conflict in the Persian Gulf and it has been renewed several times since. The current reduction was set to expire on Saturday. The cut, which does not regard unleaded petrol, has not stopped diesel prices from rising well above two euros a litre. The centre-left opposition has criticised the cut",
-          "pubDate": "Fri, 4 Sep 2026 13:26:16 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10"
-        },
-        {
-          "title": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army",
-          "link": "https://hornobserver.com/articles/3725/Somalia-How-Mogadishu-Removes-a-Regional-President-It-Costs-Cash-or-It-Costs-an-Army",
-          "description": "An investigation into South West State, Hirshabelle, and Galmudug found that federal governments — Farmaajo's and now Hassan Sheikh Mohamud's — have used two tools to control who governs the regions. The first is cash. The second, used once so far, is force. The First Payment In 2018, South West State's president, Sharif Hassan Sheikh Aden, stood in the way of Mogadishu's plans. He had a strong clan base and his own political network. He was not easy to remove. So Mogadishu paid him. According to sources with direct knowledge of the negotiations, Sharif Hassan received about two million US dol",
-          "pubDate": "Thu, 03 Sep 2026 15:54:42 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army"
-        },
-        {
-          "title": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia",
-          "link": "https://hornobserver.com/articles/3723/The-Copyright-Trap-How-fake-claims-are-silencing-independent-media-and-journalists-in-Somalia",
-          "description": "Journalists, editors and media managers told SJS that the attacks intensified early this year amid opposition protests in Mogadishu and escalating tensions between the Federal Government and Southwest State, as well as the continuing political rift with Puntland. The attacks are contributing to a shrinking space for independent reporting across the country. With Facebook serving as the primary news and communication platform for most Somali journalists and the general public, the copyright strikes, removals and account restrictions have significantly limited journalists' ability to report and ",
-          "pubDate": "Tue, 01 Sep 2026 07:25:00 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia"
-        },
-        {
-          "title": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him",
-          "link": "https://hornobserver.com/articles/3721/Somalia-The-Killer-Who-Was-Also-a-Journalist-And-the-Method-That-Didnt-Die-With-Him",
-          "description": "Hanafi did more than report on al-Shabaab. He became the group´s eyes inside Somalia's newsrooms. He picked out which journalists to threaten, which ones to trap, and which ones to have killed. A military court found him responsible for the deaths of five journalists between 2007 and 2010, including HornAfrik co-founder Ali Iimaan Sharma'arke and Radio Mogadishu´s Sheikh Nur Mohamed Abkey. Abkey was the only one Hanafi admitted to killing with his own hands. His method was simple. As al-Shabaab´s head of press monitoring, he tracked which journalists criticized the group or spoke well of the g",
-          "pubDate": "Thu, 27 Aug 2026 19:43:58 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him"
-        },
-        {
-          "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
-          "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
-          "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
-          "pubDate": "Thu, 20 Aug 2026 15:58:57 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
-        },
-        {
-          "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
-          "link": "https://hornobserver.com/articles/3715/Conflict-Drives-Farmers-Into-Somalias-capital-Mogadishu",
-          "description": "The families were displaced by disputes over agricultural land ownership, alongside ongoing fighting between the Somali government and Al-Shabaab and renewed clan conflicts over contested farmland. Aadan Rooble, a former farmer now living in an IDP camp in Mogadishu, said he fled the village of Farxaano in Lower Shabelle about 10 days ago because of continued fighting. Aadan said some members of his family were able to secure transportation, while he initially travelled on foot before eventually finding a vehicle. He said the family was forced to abandon the farms where they worked after repea",
-          "pubDate": "Mon, 17 Aug 2026 12:31:00 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
-        },
-        {
-          "title": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug",
-          "link": "https://hornobserver.com/articles/3714/Policy-Brief-From-Elections-to-Democratic-Governance-Strengthening-Political-Stability-and-Electoral-Integrity-in-Somalias-Galmudug",
-          "description": "As the state enters a new electoral phase in 2026, the central question is no longer simply whether elections can be conducted, but whether electoral reform can contribute to stronger institutions, inclusive governance, and lasting political stability. This new policy brief by the Insight Horn Institute (IHI) examines Galmudug's four electoral cycles between 2015 and 2026 and explores what they reveal about institutional development, federal-state relations, political inclusion, security, and democratic legitimacy. It argues that elections are an important part of democratic transition, but th",
-          "pubDate": "Thu, 13 Aug 2026 19:52:05 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Refinery rivalry : billion ‑ dollar oil projects expose East Africa long ‑ running regional tensions"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Strategic autonomy in motion as India hosts Brics summit",
+          "link": "https://timesofindia.indiatimes.com/india/strategic-autonomy-in-motion-as-india-hosts-brics-summit/articleshow/133940862.cms",
+          "source": "timesofindia.indiatimes.com",
+          "pubDate": "2026-09-08T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Strategic autonomy in motion as India hosts Brics summit"
+        },
+        {
+          "title": "Wall Street ends sharply lower Tuesday in broad selloff",
+          "link": "http://www.iranherald.com/news/279294749/wall-street-ends-sharply-lower-tuesday-in-broad-selloff",
+          "source": "iranherald.com",
+          "pubDate": "2026-09-08T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Wall Street ends sharply lower Tuesday in broad selloff"
+        },
+        {
+          "title": "Will hold bilateral talks with numerous leaders : MEA on PM Modi upcoming BRICS engagements",
+          "link": "http://www.iranherald.com/news/279294542/will-hold-bilateral-talks-with-numerous-leaders-mea-on-pm-modi-upcoming-brics-engagements",
+          "source": "iranherald.com",
+          "pubDate": "2026-09-08T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Will hold bilateral talks with numerous leaders : MEA on PM Modi upcoming BRICS engagements"
+        },
+        {
+          "title": "Wall Street ends sharply lower Tuesday in broad selloff",
+          "link": "http://www.baltimorestar.com/news/279294749/wall-street-ends-sharply-lower-tuesday-in-broad-selloff",
+          "source": "baltimorestar.com",
+          "pubDate": "2026-09-08T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Wall Street ends sharply lower Tuesday in broad selloff"
+        },
+        {
+          "title": "US Treasury Targets Iran Aviation Sector With Sweeping New Sanctions",
+          "link": "https://www.algemeiner.com/2026/09/08/us-treasury-targets-irans-aviation-sector-sweeping-new-sanctions/",
+          "source": "algemeiner.com",
+          "pubDate": "2026-09-08T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Treasury Targets Iran Aviation Sector With Sweeping New Sanctions"
+        },
+        {
+          "title": "Inside SA R6bn OnlyFans boom",
+          "link": "https://www.dailymaverick.co.za/article/2026-09-08-sex-worker-no-im-an-adult-content-creator-inside-sas-r6bn-onlyfans-boom/",
+          "source": "dailymaverick.co.za",
+          "pubDate": "2026-09-08T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Inside SA R6bn OnlyFans boom"
+        },
+        {
+          "title": "Will hold bilateral talks with numerous leaders : MEA on PM Modi upcoming BRICS engagements",
+          "link": "http://www.calcuttanews.net/news/279294542/will-hold-bilateral-talks-with-numerous-leaders-mea-on-pm-modi-upcoming-brics-engagements",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-09-08T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Will hold bilateral talks with numerous leaders : MEA on PM Modi upcoming BRICS engagements"
+        },
+        {
+          "title": "Wall Street ends sharply lower Tuesday in broad selloff",
+          "link": "http://www.srilankasource.com/news/279294749/wall-street-ends-sharply-lower-tuesday-in-broad-selloff",
+          "source": "srilankasource.com",
+          "pubDate": "2026-09-08T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Wall Street ends sharply lower Tuesday in broad selloff"
+        },
+        {
+          "title": "China supports India in hosting BRICS Summit , highlighting importance of cooperation",
+          "link": "http://www.shanghainews.net/news/279294289/china-supports-india-in-hosting-brics-summit-highlighting-importance-of-cooperation",
+          "source": "shanghainews.net",
+          "pubDate": "2026-09-08T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China supports India in hosting BRICS Summit , highlighting importance of cooperation"
+        },
+        {
+          "title": "US Treasury ratchets up pressure on Iran with sweeping new aviation sanctions",
+          "link": "https://www.aol.com/articles/us-issues-fresh-iran-related-145314000.html",
+          "source": "aol.com",
+          "pubDate": "2026-09-08T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Treasury ratchets up pressure on Iran with sweeping new aviation sanctions"
+        },
+        {
+          "title": "APO Group - Africa Newsroom / Press release | Launch of Egypt First National Artificial Intelligence ( AI ) Factory Through Vodafone Business Partnership with Cassava Technologies",
+          "link": "https://www.africa-newsroom.com/press/launch-of-egypts-first-national-artificial-intelligence-aic-factory-through-vodafone-business-partnership-with-cassava-technologies",
+          "source": "africa-newsroom.com",
+          "pubDate": "2026-09-08T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "APO Group - Africa Newsroom / Press release | Launch of Egypt First National Artificial Intelligence ( AI ) Factory Through Vodafone Business Partnership with Cassava Technologies"
+        },
+        {
+          "title": "China supports India in hosting BRICS Summit , highlighting importance of cooperation",
+          "link": "http://www.malaysiasun.com/news/279294289/china-supports-india-in-hosting-brics-summit-highlighting-importance-of-cooperation",
+          "source": "malaysiasun.com",
+          "pubDate": "2026-09-08T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China supports India in hosting BRICS Summit , highlighting importance of cooperation"
+        },
+        {
+          "title": "China supports India in hosting BRICS Summit , highlighting importance of cooperation",
+          "link": "http://www.zimbabwestar.com/news/279294289/china-supports-india-in-hosting-brics-summit-highlighting-importance-of-cooperation",
+          "source": "zimbabwestar.com",
+          "pubDate": "2026-09-08T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China supports India in hosting BRICS Summit , highlighting importance of cooperation"
+        },
+        {
+          "title": "Will hold bilateral talks with numerous leaders : MEA on PM Modi upcoming BRICS engagements",
+          "link": "http://www.indiagazette.com/news/279294542/will-hold-bilateral-talks-with-numerous-leaders-mea-on-pm-modi-upcoming-brics-engagements",
+          "source": "indiagazette.com",
+          "pubDate": "2026-09-08T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Will hold bilateral talks with numerous leaders : MEA on PM Modi upcoming BRICS engagements"
+        },
+        {
+          "title": "US Sanctions All Remaining Iranian Airlines In Sweeping Aviation Crackdown",
+          "link": "https://www.rferl.org/a/us-sanctions-iran-airlines-aviation/33850336.html",
+          "source": "rferl.org",
+          "pubDate": "2026-09-08T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Sanctions All Remaining Iranian Airlines In Sweeping Aviation Crackdown"
+        },
+        {
+          "title": "Drum - Tidbit",
+          "link": "https://www.postcourier.com.pg/drum090926/",
+          "source": "postcourier.com.pg",
+          "pubDate": "2026-09-08T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Drum - Tidbit"
+        },
+        {
+          "title": "Will hold bilateral talks with numerous leaders : MEA on PM Modi upcoming BRICS engagements",
+          "link": "http://www.newyorktelegraph.com/news/279294542/will-hold-bilateral-talks-with-numerous-leaders-mea-on-pm-modi-upcoming-brics-engagements",
+          "source": "newyorktelegraph.com",
+          "pubDate": "2026-09-08T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Will hold bilateral talks with numerous leaders : MEA on PM Modi upcoming BRICS engagements"
+        },
+        {
+          "title": "Super  movable fair  before the civil war of 1975 : Beirut",
+          "link": "https://adonis49.wordpress.com/2026/09/08/super-movable-fair-before-the-civil-war-of-1975-beirut/",
+          "source": "adonis49.wordpress.com",
+          "pubDate": "2026-09-08T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Super  movable fair  before the civil war of 1975 : Beirut"
+        },
+        {
+          "title": "Will hold bilateral talks with numerous leaders : MEA on PM Modi upcoming BRICS engagements",
+          "link": "http://www.iraqsun.com/news/279294542/will-hold-bilateral-talks-with-numerous-leaders-mea-on-pm-modi-upcoming-brics-engagements",
+          "source": "iraqsun.com",
+          "pubDate": "2026-09-08T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Will hold bilateral talks with numerous leaders : MEA on PM Modi upcoming BRICS engagements"
+        },
+        {
+          "title": "Ethiopia : Downstream Countries Should Have Shared Ethiopia Watershed Restoration , Afforestation Costs - Senior Water Expert",
+          "link": "https://allafrica.com/stories/202609080441.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-08T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Downstream Countries Should Have Shared Ethiopia Watershed Restoration , Afforestation Costs - Senior Water Expert"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
