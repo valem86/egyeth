@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-09-08T04:44:09.138Z",
+  "generatedAt": "2026-09-08T11:25:22.330Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Speciale difesa: Egitto propone intese di sicurezza e difesa per rispondere alle crisi regionali",
+          "link": "https://www.agenzianova.com/a/6a9ff09e955877.41513358/7754059/2026-09-08/speciale-difesa-egitto-propone-intese-di-sicurezza-e-difesa-per-rispondere-alle-crisi-regionali",
+          "description": "08 set 13:15 - (Agenzia Nova) - L'Egitto propone di sviluppare intese di sicurezza e difesa fra i Paesi arabi per coordinare le capacita' disponibili... (Cae)",
+          "pubDate": "2026-09-08T13:15:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale difesa: Egitto propone intese di sicurezza e difesa per rispondere alle crisi regionali"
+        },
         {
           "title": "Arab League urges restraint as regional tensions escalate",
           "link": "http://www.africanews.com/2026/09/07/arab-league-urges-restraint-as-regional-tensions-escalate/",
@@ -176,30 +185,12 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
-        },
-        {
-          "title": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug",
-          "link": "https://hornobserver.com/articles/3714/Policy-Brief-From-Elections-to-Democratic-Governance-Strengthening-Political-Stability-and-Electoral-Integrity-in-Somalias-Galmudug",
-          "description": "As the state enters a new electoral phase in 2026, the central question is no longer simply whether elections can be conducted, but whether electoral reform can contribute to stronger institutions, inclusive governance, and lasting political stability. This new policy brief by the Insight Horn Institute (IHI) examines Galmudug's four electoral cycles between 2015 and 2026 and explores what they reveal about institutional development, federal-state relations, political inclusion, security, and democratic legitimacy. It argues that elections are an important part of democratic transition, but th",
-          "pubDate": "Thu, 13 Aug 2026 19:52:05 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Kenya: Oparanya Convenes Western Leaders in Kisumu, Rallies Support for Ruto's Re-Election",
-          "link": "https://allafrica.com/stories/202609070413.html",
-          "description": "[Capital FM] Kisumu -- Cooperatives Cabinet Secretary Wycliffe Oparanya has convened elected and nominated leaders from Western Kenya in Kisumu to chart a common political and development agenda for the region ahead of the 2027 General Election.",
-          "pubDate": "Mon, 07 Sep 2026 12:09:37 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Oparanya Convenes Western Leaders in Kisumu, Rallies Support for Ruto's Re-Election"
-        },
         {
           "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
           "link": "https://hornobserver.com/articles/3731/Somali-journalist-Bashir-Mohamed-Abdullahi-dies-after-being-shot-during-Baidoa-clashes",
@@ -208,15 +199,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes"
-        },
-        {
-          "title": "Kenya: Ruto, Governors Set for Talks to End Nationwide Nurses' Strike",
-          "link": "https://allafrica.com/stories/202609070033.html",
-          "description": "[Capital FM] Nairobi -- President William Ruto and governors are set to hold talks on Monday as pressure mounts to resolve the nationwide nurses' strike that has disrupted healthcare services across Kenya.",
-          "pubDate": "Mon, 07 Sep 2026 05:24:01 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Ruto, Governors Set for Talks to End Nationwide Nurses' Strike"
         },
         {
           "title": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow",
@@ -305,76 +287,40 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Puntland Is Not A Platform – OpEd",
-          "link": "https://www.eurasiareview.com/07092026-puntland-is-not-a-platform-oped/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-09-08T00:30:00Z",
+          "title": "Liberia: MCSS Teachers Launch Go-Slow",
+          "link": "https://allafrica.com/stories/202609080280.html",
+          "description": "[New Dawn] MONROVIA -- Teachers of the Monrovia Consolidated School System (MCSS) have begun a go-slow action over what they say is the government's failure to implement a 2025 agreement addressing employment, salary adjustments and increased support for public school teachers.",
+          "pubDate": "Tue, 08 Sep 2026 11:16:57 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Puntland Is Not A Platform – OpEd"
+          "titleIt": "Liberia: MCSS Teachers Launch Go-Slow"
         },
         {
-          "title": "Rearmed And Reckless : How Sudan New Arsenal Is Dragging Chad And Ethiopia Into Its War - OpEd",
-          "link": "https://www.eurasiareview.com/08092026-rearmed-and-reckless-how-sudans-new-arsenal-is-dragging-chad-and-ethiopia-into-its-war-oped/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-09-07T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Rearmed And Reckless : How Sudan New Arsenal Is Dragging Chad And Ethiopia Into Its War - OpEd"
+          "title": "Autonomia: Calderoli, \"ora l'ultimo miglio, questo Governo la portera' a casa\"",
+          "link": "https://www.agenzianova.com/a/6a9ff09e94d834.20600506/7755920/2026-09-08/autonomia-calderoli-ora-l-ultimo-miglio-questo-governo-la-portera-a-casa",
+          "description": "08 set 13:16 - (Agenzia Nova) - \"Nei prossimi giorni gli schemi di intesa definitiva passeranno al vaglio dei consigli regionali in Liguria,... (Com)",
+          "pubDate": "2026-09-08T13:16:52+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Autonomia: Calderoli, \"ora l'ultimo miglio, questo Governo la portera' a casa\""
         },
         {
-          "title": "China - Africa cooperation : The living laboratory BRICS+ cannot afford to ignore",
-          "link": "https://weeklyblitz.net/2026/09/08/china-africa-cooperation-the-living-laboratory-brics-cannot-afford-to-ignore/",
-          "source": "weeklyblitz.net",
-          "pubDate": "2026-09-07T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China - Africa cooperation : The living laboratory BRICS+ cannot afford to ignore"
+          "title": "Speciale difesa: Mattarella, auspicio che negoziati in Ucraina in corso portino risultati",
+          "link": "https://www.agenzianova.com/a/6a9ff09e960826.16181313/7754052/2026-09-08/speciale-difesa-mattarella-auspicio-che-negoziati-in-ucraina-in-corso-portino-risultati",
+          "description": "08 set 13:15 - (Agenzia Nova) - Colazione di lavoro al Quirinale per il presidente della Repubblica, Sergio Mattarella, che ha ricevuto il... (Rin)",
+          "pubDate": "2026-09-08T13:15:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale difesa: Mattarella, auspicio che negoziati in Ucraina in corso portino risultati"
         },
         {
-          "title": "U . S . DFC targets SME investment for Bishoftu International Airport",
-          "link": "https://capitalethiopia.com/2026/09/07/u-s-dfc-targets-sme-investment-for-bishoftu-international-airport/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-09-07T19:30:00Z",
+          "title": "Algeria: Beyond the Fighter Jets - What Algeria's Deployment to Niger Really Signals",
+          "link": "https://allafrica.com/stories/202609080017.html",
+          "description": "[African Arguments] Four Algerian Su-30 fighters touched down in Niamey on 30 August 2026, trailed by an aerial refueling aircraft. A day earlier, mutinous soldiers -- some drawn from units worn down by heavy losses fighting jihadist groups -- had stormed a military base next to the capital's airport and moved on the presidential palace. Niger's government asked for help, and Algiers answered. Algeria's Ministry of National Defense described the deployment as a mission to support the Nigerien army and deepen strategic",
+          "pubDate": "Tue, 08 Sep 2026 05:08:46 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "U . S . DFC targets SME investment for Bishoftu International Airport"
-        },
-        {
-          "title": "Africa Intelligence Brief Monday , September 7 , 2026",
-          "link": "https://www.riotimesonline.com/africa-intelligence-brief-monday-september-7-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-07T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa Intelligence Brief Monday , September 7 , 2026"
-        },
-        {
-          "title": "Africa China debt stock hits $180bn as loan strategy",
-          "link": "https://www.riotimesonline.com/africa-china-debt-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-07T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa China debt stock hits $180bn as loan strategy"
-        },
-        {
-          "title": "Gulf states Africa investment shifts to ports and bases",
-          "link": "https://www.riotimesonline.com/gulf-states-africa-investment-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-07T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gulf states Africa investment shifts to ports and bases"
-        },
-        {
-          "title": "Africa elections 2027 set for Nigeria Kenya Angola",
-          "link": "https://www.riotimesonline.com/africa-election-calendar-2027/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-07T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa elections 2027 set for Nigeria Kenya Angola"
+          "titleIt": "Algeria: Beyond the Fighter Jets - What Algeria's Deployment to Niger Really Signals"
         },
         {
           "title": "Arab League urges restraint as regional tensions escalate",
@@ -384,15 +330,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Arab League urges restraint as regional tensions escalate"
-        },
-        {
-          "title": "UN General Assembly Votes to Promote Equal Earth Projection for More Accurate World Maps",
-          "link": "https://www.archdaily.com/1184635/un-general-assembly-votes-to-promote-equal-earth-projection-for-more-accurate-world-maps",
-          "source": "archdaily.com",
-          "pubDate": "2026-09-07T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "UN General Assembly Votes to Promote Equal Earth Projection for More Accurate World Maps"
         },
         {
           "title": "Mattarella and Estonian counterpart Karis confirm support for Kyiv",
@@ -413,15 +350,6 @@
           "titleIt": "Mattarella and Estonian counterpart Karis confirm support for Kyiv"
         },
         {
-          "title": "Sudan Borders Have Become as Dangerous as the War Itself",
-          "link": "https://themedialine.org/top-stories/sudans-borders-have-become-as-dangerous-as-the-war-itself/",
-          "source": "themedialine.org",
-          "pubDate": "2026-09-07T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan Borders Have Become as Dangerous as the War Itself"
-        },
-        {
           "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
           "link": "https://hornobserver.com/articles/3731/Somali-journalist-Bashir-Mohamed-Abdullahi-dies-after-being-shot-during-Baidoa-clashes",
           "description": "MOGADISHU, Somalia 7 September 2026 – The Somali Journalists Syndicate (SJS) expresses its deepest condolences over the death of journalist Bashir Mohamed Abdullahi, also known as Bashir Moalin, a reporter with the local Arlaadi Media Network, who succumbed to gunshot injuries sustained during armed clashes in Baidoa on Thursday, 3 September 2026. He becomes the second journalist killed in Somalia this year. Early on Monday, 7 September 2026, Bashir, 28, died from critical injuries he sustained while seeking shelter during armed clashes in Baidoa, Southwest State, his family told SJS. Accordin",
@@ -431,64 +359,110 @@
           "titleIt": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes"
         },
         {
-          "title": "Refinery rivalry : billion ‑ dollar oil projects expose East Africa long ‑ running regional tensions",
-          "link": "https://www.independent.co.ug/refinery-rivalry-billion%E2%80%91dollar-oil-projects-expose-east-africas-long%E2%80%91running-regional-tensions/",
-          "source": "independent.co.ug",
-          "pubDate": "2026-09-07T08:30:00Z",
+          "title": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow",
+          "link": "https://hornobserver.com/articles/3729/Protests-Erupt-in-Somalias-Gedo-Region-Over-Alleged-Turkish-Strikes-in-Doolow",
+          "description": "In Doolow, protesters accused Turkey of becoming involved in Somalia's political and clan disputes and expressed anger over the reported attack on General Shub's residence. Demonstrators chanted slogans critical of the federal government led by President Hassan Sheikh Mohamud and called for those responsible to be identified and held accountable. The residence of General Shub was reportedly targeted in an overnight attack involving a drone. General Shub and members of his family were reportedly inside the house at the time and sustained minor injuries. The Somali federal government has rejecte",
+          "pubDate": "Sat, 05 Sep 2026 22:24:29 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Refinery rivalry : billion ‑ dollar oil projects expose East Africa long ‑ running regional tensions"
+          "titleIt": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow"
         },
         {
-          "title": "Jubaland Protests ; Put Turkey Longstanding Somalia Partnership Under New Political Strain",
-          "link": "https://wardheernews.com/jubaland-protests-put-turkeys-longstanding-somalia-partnership-under-new-political-strain/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-09-07T08:15:00Z",
+          "title": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10",
+          "link": "https://www.ansa.it/english/news/general_news/2026/09/04/meloni-govt-to-extend-17-cent-cut-in-diesel-duties-to-sept-10_4b768f0f-d2f6-4240-a6b3-4dffbf1cd8ae.html",
+          "description": "(ANSA) - ROME, 04 SET - The economy ministry has prepared a decree extending a 17-cent cut in diesel duties until September 10, sources said on Friday. The cut was first introduced by Premier Giorgia Meloni's government at the end of July to help people cope with high fuel costs following the return of conflict in the Persian Gulf and it has been renewed several times since. The current reduction was set to expire on Saturday. The cut, which does not regard unleaded petrol, has not stopped diesel prices from rising well above two euros a litre. The centre-left opposition has criticised the cut",
+          "pubDate": "Fri, 4 Sep 2026 14:22:16 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Jubaland Protests ; Put Turkey Longstanding Somalia Partnership Under New Political Strain"
+          "titleIt": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10"
         },
         {
-          "title": "Battle for water : Could the Nile dispute trigger a regional war ?",
-          "link": "https://news.az/news/battle-for-water-could-the-nile-dispute-trigger-a-regional-war",
-          "source": "news.az",
-          "pubDate": "2026-09-07T08:15:00Z",
+          "title": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10",
+          "link": "https://www.ansa.it/english/news/2026/09/04/meloni-govt-to-extend-17-cent-cut-in-diesel-duties-to-sept-10_8e2bad50-a7af-4457-8550-db4fdbfa8ed6.html",
+          "description": "(ANSA) - ROME, 04 SET - The economy ministry has prepared a decree extending a 17-cent cut in diesel duties until September 10, sources said on Friday. The cut was first introduced by Premier Giorgia Meloni's government at the end of July to help people cope with high fuel costs following the return of conflict in the Persian Gulf and it has been renewed several times since. The current reduction was set to expire on Saturday. The cut, which does not regard unleaded petrol, has not stopped diesel prices from rising well above two euros a litre. The centre-left opposition has criticised the cut",
+          "pubDate": "Fri, 4 Sep 2026 13:26:16 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Battle for water : Could the Nile dispute trigger a regional war ?"
+          "titleIt": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10"
         },
         {
-          "title": "Africa true size revealed - CAJ News Africa",
-          "link": "https://cajnewsafrica.com/2026/09/07/africas-true-size-revealed/",
-          "source": "cajnewsafrica.com",
-          "pubDate": "2026-09-07T07:00:00Z",
+          "title": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army",
+          "link": "https://hornobserver.com/articles/3725/Somalia-How-Mogadishu-Removes-a-Regional-President-It-Costs-Cash-or-It-Costs-an-Army",
+          "description": "An investigation into South West State, Hirshabelle, and Galmudug found that federal governments — Farmaajo's and now Hassan Sheikh Mohamud's — have used two tools to control who governs the regions. The first is cash. The second, used once so far, is force. The First Payment In 2018, South West State's president, Sharif Hassan Sheikh Aden, stood in the way of Mogadishu's plans. He had a strong clan base and his own political network. He was not easy to remove. So Mogadishu paid him. According to sources with direct knowledge of the negotiations, Sharif Hassan received about two million US dol",
+          "pubDate": "Thu, 03 Sep 2026 15:54:42 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Africa true size revealed - CAJ News Africa"
+          "titleIt": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army"
         },
         {
-          "title": "India BRICS Chair : Strategy for a human - centric world",
-          "link": "https://organiser.org/2026/09/07/379084/world/indias-brics-strategy-bridging-diversity-leading-human-centric-partnership-balancing-fragile-world-beyond-hegemony/",
-          "source": "organiser.org",
-          "pubDate": "2026-09-07T06:00:00Z",
+          "title": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia",
+          "link": "https://hornobserver.com/articles/3723/The-Copyright-Trap-How-fake-claims-are-silencing-independent-media-and-journalists-in-Somalia",
+          "description": "Journalists, editors and media managers told SJS that the attacks intensified early this year amid opposition protests in Mogadishu and escalating tensions between the Federal Government and Southwest State, as well as the continuing political rift with Puntland. The attacks are contributing to a shrinking space for independent reporting across the country. With Facebook serving as the primary news and communication platform for most Somali journalists and the general public, the copyright strikes, removals and account restrictions have significantly limited journalists' ability to report and ",
+          "pubDate": "Tue, 01 Sep 2026 07:25:00 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "India BRICS Chair : Strategy for a human - centric world"
+          "titleIt": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia"
         },
         {
-          "title": "Nigeria in a new Middle - East",
-          "link": "https://dailytrust.com/nigeria-in-a-new-middle-east/",
-          "source": "dailytrust.com",
-          "pubDate": "2026-09-07T05:00:00Z",
+          "title": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him",
+          "link": "https://hornobserver.com/articles/3721/Somalia-The-Killer-Who-Was-Also-a-Journalist-And-the-Method-That-Didnt-Die-With-Him",
+          "description": "Hanafi did more than report on al-Shabaab. He became the group´s eyes inside Somalia's newsrooms. He picked out which journalists to threaten, which ones to trap, and which ones to have killed. A military court found him responsible for the deaths of five journalists between 2007 and 2010, including HornAfrik co-founder Ali Iimaan Sharma'arke and Radio Mogadishu´s Sheikh Nur Mohamed Abkey. Abkey was the only one Hanafi admitted to killing with his own hands. His method was simple. As al-Shabaab´s head of press monitoring, he tracked which journalists criticized the group or spoke well of the g",
+          "pubDate": "Thu, 27 Aug 2026 19:43:58 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Nigeria in a new Middle - East"
+          "titleIt": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him"
+        },
+        {
+          "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
+          "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
+          "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
+          "pubDate": "Thu, 20 Aug 2026 15:58:57 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
+        },
+        {
+          "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
+          "link": "https://hornobserver.com/articles/3715/Conflict-Drives-Farmers-Into-Somalias-capital-Mogadishu",
+          "description": "The families were displaced by disputes over agricultural land ownership, alongside ongoing fighting between the Somali government and Al-Shabaab and renewed clan conflicts over contested farmland. Aadan Rooble, a former farmer now living in an IDP camp in Mogadishu, said he fled the village of Farxaano in Lower Shabelle about 10 days ago because of continued fighting. Aadan said some members of his family were able to secure transportation, while he initially travelled on foot before eventually finding a vehicle. He said the family was forced to abandon the farms where they worked after repea",
+          "pubDate": "Mon, 17 Aug 2026 12:31:00 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
+        },
+        {
+          "title": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug",
+          "link": "https://hornobserver.com/articles/3714/Policy-Brief-From-Elections-to-Democratic-Governance-Strengthening-Political-Stability-and-Electoral-Integrity-in-Somalias-Galmudug",
+          "description": "As the state enters a new electoral phase in 2026, the central question is no longer simply whether elections can be conducted, but whether electoral reform can contribute to stronger institutions, inclusive governance, and lasting political stability. This new policy brief by the Insight Horn Institute (IHI) examines Galmudug's four electoral cycles between 2015 and 2026 and explores what they reveal about institutional development, federal-state relations, political inclusion, security, and democratic legitimacy. It argues that elections are an important part of democratic transition, but th",
+          "pubDate": "Thu, 13 Aug 2026 19:52:05 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Speciale difesa: Egitto propone intese di sicurezza e difesa per rispondere alle crisi regionali",
+          "link": "https://www.agenzianova.com/a/6a9ff09e955877.41513358/7754059/2026-09-08/speciale-difesa-egitto-propone-intese-di-sicurezza-e-difesa-per-rispondere-alle-crisi-regionali",
+          "description": "08 set 13:15 - (Agenzia Nova) - L'Egitto propone di sviluppare intese di sicurezza e difesa fra i Paesi arabi per coordinare le capacita' disponibili... (Cae)",
+          "pubDate": "2026-09-08T13:15:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale difesa: Egitto propone intese di sicurezza e difesa per rispondere alle crisi regionali"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
