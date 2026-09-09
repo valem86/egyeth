@@ -1,19 +1,28 @@
 {
-  "generatedAt": "2026-09-09T07:26:57.753Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-09-09T13:01:05.235Z",
+  "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Trasporto aereo: compagnia egiziana Air Cairo ordina 15 Airbus A320neo",
-          "link": "https://www.agenzianova.com/a/6aa10a3e25c796.00667328/7757996/2026-09-09/trasporto-aereo-compagnia-egiziana-air-cairo-ordina-15-airbus-a320neo",
-          "description": "09 set 09:19 - (Agenzia Nova) - La compagnia aerea egiziana Air Cairo ha firmato un ordine definitivo per l'acquisto di 15 aeromobili Airbus... (Cae)",
-          "pubDate": "2026-09-09T09:19:08+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Trasporto aereo: compagnia egiziana Air Cairo ordina 15 Airbus A320neo"
+          "title": "Egypt air show spotlights drones and military hardware",
+          "link": "http://www.africanews.com/2026/09/09/egypt-air-show-spotlights-drones-and-military-hardware/",
+          "description": "Dozens of exhibitors from several countries are taking part in the El Alamein International Air Show, held this week at the airport in Egypt's northwestern Mediterranean coast.",
+          "pubDate": "Wed, 09 Sep 2026 12:24:41 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egypt air show spotlights drones and military hardware"
+        },
+        {
+          "title": "AFRICOM Conducts Airstrike Against al-Shabaab in Somalia",
+          "link": "https://hornobserver.com/articles/3734/AFRICOM-Conducts-Airstrike-Against-al-Shabaab-in-Somalia",
+          "description": "According to AFRICOM, the strike took place approximately 175 kilometers west of Mogadishu as part of ongoing joint efforts to weaken al-Shabaab's operational capabilities. AFRICOM said it continues to work alongside the Somali federal government and Somali Armed Forces to degrade the militant group's ability to threaten U.S. forces and American citizens abroad. The command did not disclose specific details about the units or military assets involved, citing operational security concerns. The strike comes as Somali and international forces continue military operations against al-Shabaab, which",
+          "pubDate": "Tue, 08 Sep 2026 18:27:05 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "AFRICOM Conducts Airstrike Against al-Shabaab in Somalia"
         },
         {
           "title": "Arab League urges restraint as regional tensions escalate",
@@ -25,6 +34,33 @@
           "titleIt": "Arab League urges restraint as regional tensions escalate"
         },
         {
+          "title": "Switzerland plans deportation of seriously injured Somali citizen",
+          "link": "https://hornobserver.com/articles/3732/Switzerland-plans-deportation-of-seriously-injured-Somali-citizen",
+          "description": "As we have learnt from two individuals affected, Swiss police authorities use an enormous amount of violence during forced deportations. From the perspective of lawyers and Swiss human rights organisations, the authorities are thereby committing massive violations of Swiss and international law. Furthermore, in at least two cases, they have put the lives of those affected at serious risk. Augenauf shares this assessment and has informed the relevant&nbsp;authorities (including the commander of the Zurich cantonal police and the National&nbsp;Commission for the Prevention of Torture, NKVF). Bot",
+          "pubDate": "Mon, 07 Sep 2026 19:35:51 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Switzerland plans deportation of seriously injured Somali citizen"
+        },
+        {
+          "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
+          "link": "https://hornobserver.com/articles/3731/Somali-journalist-Bashir-Mohamed-Abdullahi-dies-after-being-shot-during-Baidoa-clashes",
+          "description": "MOGADISHU, Somalia 7 September 2026 – The Somali Journalists Syndicate (SJS) expresses its deepest condolences over the death of journalist Bashir Mohamed Abdullahi, also known as Bashir Moalin, a reporter with the local Arlaadi Media Network, who succumbed to gunshot injuries sustained during armed clashes in Baidoa on Thursday, 3 September 2026. He becomes the second journalist killed in Somalia this year. Early on Monday, 7 September 2026, Bashir, 28, died from critical injuries he sustained while seeking shelter during armed clashes in Baidoa, Southwest State, his family told SJS. Accordin",
+          "pubDate": "Mon, 07 Sep 2026 13:49:29 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes"
+        },
+        {
+          "title": "Somalia's Hirshabelle Authorities Step Up Flood Preparedness Ahead of Forecast El Niño Conditions",
+          "link": "https://hornobserver.com/articles/3730/Somalias-Hirshabelle-Authorities-Step-Up-Flood-Preparedness-Ahead-of-Forecast-El-Nino-Conditions",
+          "description": "Commissioner of the Somali Disaster Management Agency Mahamuud Moallim opened the multi-day meeting, which brings together religious scholars, traditional elders, women, youth, civil society organizations, and local and international humanitarian partners. Representatives from the Hiraan Regional Administration, Beledweyne District Administration and the Hirshabelle Ministry of Humanitarian Affairs and Disaster Management are also expected to join the discussions in the coming days. The meeting provides a platform for humanitarian and government actors to review climate forecasts, assess poten",
+          "pubDate": "Mon, 07 Sep 2026 11:31:57 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia's Hirshabelle Authorities Step Up Flood Preparedness Ahead of Forecast El Niño Conditions"
+        },
+        {
           "title": "Egypt TV presenter Sarah Khalifa sentenced to death in drug case",
           "link": "http://www.africanews.com/2026/09/07/egypt-tv-presenter-sarah-khalifa-sentenced-to-death-in-drug-case/",
           "description": "Egyptian television presenter Sarah Khalifa and 11 other people have been sentenced to death after being convicted of drug trafficking and other offences, state-owned Al-Ahram reported.",
@@ -32,6 +68,51 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt TV presenter Sarah Khalifa sentenced to death in drug case"
+        },
+        {
+          "title": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow",
+          "link": "https://hornobserver.com/articles/3729/Protests-Erupt-in-Somalias-Gedo-Region-Over-Alleged-Turkish-Strikes-in-Doolow",
+          "description": "In Doolow, protesters accused Turkey of becoming involved in Somalia's political and clan disputes and expressed anger over the reported attack on General Shub's residence. Demonstrators chanted slogans critical of the federal government led by President Hassan Sheikh Mohamud and called for those responsible to be identified and held accountable. The residence of General Shub was reportedly targeted in an overnight attack involving a drone. General Shub and members of his family were reportedly inside the house at the time and sustained minor injuries. The Somali federal government has rejecte",
+          "pubDate": "Sat, 05 Sep 2026 22:24:29 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow"
+        },
+        {
+          "title": "Somalia: Doolow Explosions Trigger Clash of Accounts Between Jubbaland and Mogadishu",
+          "link": "https://hornobserver.com/articles/3727/Somalia-Doolow-Explosions-Trigger-Clash-of-Accounts-Between-Jubbaland-and-Mogadishu",
+          "description": "Jubbaland said General Abdirahman and members of his family were inside the residence when the explosions occurred, sustaining minor injuries before being moved to a secure location for treatment. The Somali federal government, however, has denied any involvement in the incident and offered a different account. Government officials said preliminary information gathered by security agencies indicates that the explosions were caused by materials being prepared inside the house, rather than by an external airstrike. The government's account could not immediately be independently verified. Jubbala",
+          "pubDate": "Fri, 04 Sep 2026 23:10:49 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: Doolow Explosions Trigger Clash of Accounts Between Jubbaland and Mogadishu"
+        },
+        {
+          "title": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army",
+          "link": "https://hornobserver.com/articles/3725/Somalia-How-Mogadishu-Removes-a-Regional-President-It-Costs-Cash-or-It-Costs-an-Army",
+          "description": "An investigation into South West State, Hirshabelle, and Galmudug found that federal governments — Farmaajo's and now Hassan Sheikh Mohamud's — have used two tools to control who governs the regions. The first is cash. The second, used once so far, is force. The First Payment In 2018, South West State's president, Sharif Hassan Sheikh Aden, stood in the way of Mogadishu's plans. He had a strong clan base and his own political network. He was not easy to remove. So Mogadishu paid him. According to sources with direct knowledge of the negotiations, Sharif Hassan received about two million US dol",
+          "pubDate": "Thu, 03 Sep 2026 15:54:42 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army"
+        },
+        {
+          "title": "Somalia: How Sadia Bajaaj Was Convicted — Inside the Judge Swap and the Pressure Behind Her Case",
+          "link": "https://hornobserver.com/articles/3724/Somalia-How-Sadia-Bajaaj-Was-Convicted-Inside-the-Judge-Swap-and-the-Pressure-Behind-Her-Case",
+          "description": "According to her legal team and a review of court proceedings, a judge was swapped out mid-trial, and the Attorney General's office pushed the case at both the trial and the appeal. A Conviction That Almost Didn't Happen Sadia, a tuk-tuk driver turned social media activist, was arrested twice in 2026. The first time, on March 12, she was held four days after joining protests over rising fuel prices, then released without charge. The second arrest came April 12, when officers from Somalia's National Intelligence and Security Agency (NISA) detained her in Mogadishu's Hodan district. The trigger ",
+          "pubDate": "Thu, 03 Sep 2026 15:44:59 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: How Sadia Bajaaj Was Convicted — Inside the Judge Swap and the Pressure Behind Her Case"
+        },
+        {
+          "title": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia",
+          "link": "https://hornobserver.com/articles/3723/The-Copyright-Trap-How-fake-claims-are-silencing-independent-media-and-journalists-in-Somalia",
+          "description": "Journalists, editors and media managers told SJS that the attacks intensified early this year amid opposition protests in Mogadishu and escalating tensions between the Federal Government and Southwest State, as well as the continuing political rift with Puntland. The attacks are contributing to a shrinking space for independent reporting across the country. With Facebook serving as the primary news and communication platform for most Somali journalists and the general public, the copyright strikes, removals and account restrictions have significantly limited journalists' ability to report and ",
+          "pubDate": "Tue, 01 Sep 2026 07:25:00 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia"
         },
         {
           "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
@@ -43,6 +124,60 @@
           "titleIt": "Somali piracy surges as the impact of the US-Iran war ripples outwards"
         },
         {
+          "title": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him",
+          "link": "https://hornobserver.com/articles/3721/Somalia-The-Killer-Who-Was-Also-a-Journalist-And-the-Method-That-Didnt-Die-With-Him",
+          "description": "Hanafi did more than report on al-Shabaab. He became the group´s eyes inside Somalia's newsrooms. He picked out which journalists to threaten, which ones to trap, and which ones to have killed. A military court found him responsible for the deaths of five journalists between 2007 and 2010, including HornAfrik co-founder Ali Iimaan Sharma'arke and Radio Mogadishu´s Sheikh Nur Mohamed Abkey. Abkey was the only one Hanafi admitted to killing with his own hands. His method was simple. As al-Shabaab´s head of press monitoring, he tracked which journalists criticized the group or spoke well of the g",
+          "pubDate": "Thu, 27 Aug 2026 19:43:58 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him"
+        },
+        {
+          "title": "UK backs Somalia's path to security and political progress",
+          "link": "https://hornobserver.com/articles/3720/UK-backs-Somalias-path-to-security-and-political-progress",
+          "description": "The UK has reaffirmed its long-term commitment to Somalia during the first visit to the country by the minister for Development and Africa, Kirsty McNeill MP. During her visit, the minister met President Hassan Sheikh Mohamud and discussed Somalia's political and security priorities and the need for progress towards a credible and sustainable transition to Somali-led security. The minister encouraged leaders from across Somalia to engage in constructive dialogue that strengthens national unity, advances political progress and helps build consensus on Somalia's future, underlining that continue",
+          "pubDate": "Wed, 26 Aug 2026 21:29:35 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "UK backs Somalia's path to security and political progress"
+        },
+        {
+          "title": "Somalia Trains Journalists as New Frontline Against Digital Extremism",
+          "link": "https://hornobserver.com/articles/3718/Somalia-Trains-Journalists-as-New-Frontline-Against-Digital-Extremism",
+          "description": "&nbsp; &nbsp; The Minister of Information of #Somalia H.E. Abdifatah Qasim Mohamud, today closed a four-day training programme in #Mogadishu conducted as part of the strategic \"Peace Journalists\" initiative, organised by the Islamic Military Counter Terrorism Coalition #IMCTC. pic.twitter.com/uXPvwvsQAL— Ministry of Information, Culture & Tourism (@MOISOMALIA) August 26, 2026 // &nbsp; The programme brought together journalists from state and private media organizations, as well as digital content creators. Participants received training identifying extremist narratives, countering disinformat",
+          "pubDate": "Wed, 26 Aug 2026 19:20:48 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia Trains Journalists as New Frontline Against Digital Extremism"
+        },
+        {
+          "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
+          "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
+          "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
+          "pubDate": "Thu, 20 Aug 2026 15:58:57 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
+        },
+        {
+          "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
+          "link": "https://hornobserver.com/articles/3715/Conflict-Drives-Farmers-Into-Somalias-capital-Mogadishu",
+          "description": "The families were displaced by disputes over agricultural land ownership, alongside ongoing fighting between the Somali government and Al-Shabaab and renewed clan conflicts over contested farmland. Aadan Rooble, a former farmer now living in an IDP camp in Mogadishu, said he fled the village of Farxaano in Lower Shabelle about 10 days ago because of continued fighting. Aadan said some members of his family were able to secure transportation, while he initially travelled on foot before eventually finding a vehicle. He said the family was forced to abandon the farms where they worked after repea",
+          "pubDate": "Mon, 17 Aug 2026 12:31:00 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
+        },
+        {
+          "title": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug",
+          "link": "https://hornobserver.com/articles/3714/Policy-Brief-From-Elections-to-Democratic-Governance-Strengthening-Political-Stability-and-Electoral-Integrity-in-Somalias-Galmudug",
+          "description": "As the state enters a new electoral phase in 2026, the central question is no longer simply whether elections can be conducted, but whether electoral reform can contribute to stronger institutions, inclusive governance, and lasting political stability. This new policy brief by the Insight Horn Institute (IHI) examines Galmudug's four electoral cycles between 2015 and 2026 and explores what they reveal about institutional development, federal-state relations, political inclusion, security, and democratic legitimacy. It argues that elections are an important part of democratic transition, but th",
+          "pubDate": "Thu, 13 Aug 2026 19:52:05 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug"
+        },
+        {
           "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
           "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
           "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
@@ -50,21 +185,120 @@
           "source": "Crisis Group",
           "lang": "en",
           "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Rpt - Kenya-Italia: governo e gruppo Gksd firmano intesa per 15 nuovi ospedali",
+          "link": "https://www.agenzianova.com/a/6aa1588d8ea417.89339982/7760118/2026-09-09/rpt-kenya-italia-governo-e-gruppo-gksd-firmano-intesa-per-15-nuovi-ospedali",
+          "description": "09 set 14:41 - (Agenzia Nova) - Ripetizione con testo corretto - Il Kenya ha sottoscritto con il gruppo Gksd, partecipata del Gruppo San Donato,... (Suk)",
+          "pubDate": "2026-09-09T14:41:41+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Rpt - Kenya-Italia: governo e gruppo Gksd firmano intesa per 15 nuovi ospedali"
+        },
+        {
+          "title": "Kenya: Govt Deploys Automatic Terminal Information Service At JKIA to Improve Management of Arriving, Departing Flights",
+          "link": "https://allafrica.com/stories/202609090361.html",
+          "description": "[Capital FM] Nairobi -- The government is tightening operational and security controls at Jomo Kenyatta International Airport (JKIA), deploying new flight-information and passenger-data systems as it seeks to improve processing, strengthen oversight and curb irregular baggage handling.",
+          "pubDate": "Wed, 09 Sep 2026 12:17:38 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Govt Deploys Automatic Terminal Information Service At JKIA to Improve Management of Arriving, Departing Flights"
+        },
+        {
+          "title": "Ethiopia: Ethiopia Expands Domestic Drone Production As Conflicts Persist Across Regions",
+          "link": "https://allafrica.com/stories/202609090282.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia has expanded its domestic production of military and civilian drones, with two factories reportedly manufacturing unmanned aerial vehicles as the federal government increasingly relies on drones in its operations against armed groups in several regions, according to Agence France-Presse (AFP).",
+          "pubDate": "Wed, 09 Sep 2026 10:47:58 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Expands Domestic Drone Production As Conflicts Persist Across Regions"
+        },
+        {
+          "title": "Concerns over wildlife, water supply, as wildfire rages across Mount Kenya",
+          "link": "http://www.africanews.com/2026/09/09/concerns-over-wildlife-water-supply-as-wildfire-rages-across-mount-kenya/",
+          "description": "A wildfire has burned about 8,700 hectares of vegetation on Mount Kenya since the fire was first reported on Sept 1, Mount Kenya Trust, an environmental conservation group, said.",
+          "pubDate": "Wed, 09 Sep 2026 09:25:33 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Concerns over wildlife, water supply, as wildfire rages across Mount Kenya"
+        },
+        {
+          "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
+          "link": "https://hornobserver.com/articles/3731/Somali-journalist-Bashir-Mohamed-Abdullahi-dies-after-being-shot-during-Baidoa-clashes",
+          "description": "MOGADISHU, Somalia 7 September 2026 – The Somali Journalists Syndicate (SJS) expresses its deepest condolences over the death of journalist Bashir Mohamed Abdullahi, also known as Bashir Moalin, a reporter with the local Arlaadi Media Network, who succumbed to gunshot injuries sustained during armed clashes in Baidoa on Thursday, 3 September 2026. He becomes the second journalist killed in Somalia this year. Early on Monday, 7 September 2026, Bashir, 28, died from critical injuries he sustained while seeking shelter during armed clashes in Baidoa, Southwest State, his family told SJS. Accordin",
+          "pubDate": "Mon, 07 Sep 2026 13:49:29 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes"
+        },
+        {
+          "title": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow",
+          "link": "https://hornobserver.com/articles/3729/Protests-Erupt-in-Somalias-Gedo-Region-Over-Alleged-Turkish-Strikes-in-Doolow",
+          "description": "In Doolow, protesters accused Turkey of becoming involved in Somalia's political and clan disputes and expressed anger over the reported attack on General Shub's residence. Demonstrators chanted slogans critical of the federal government led by President Hassan Sheikh Mohamud and called for those responsible to be identified and held accountable. The residence of General Shub was reportedly targeted in an overnight attack involving a drone. General Shub and members of his family were reportedly inside the house at the time and sustained minor injuries. The Somali federal government has rejecte",
+          "pubDate": "Sat, 05 Sep 2026 22:24:29 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow"
+        },
+        {
+          "title": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army",
+          "link": "https://hornobserver.com/articles/3725/Somalia-How-Mogadishu-Removes-a-Regional-President-It-Costs-Cash-or-It-Costs-an-Army",
+          "description": "An investigation into South West State, Hirshabelle, and Galmudug found that federal governments — Farmaajo's and now Hassan Sheikh Mohamud's — have used two tools to control who governs the regions. The first is cash. The second, used once so far, is force. The First Payment In 2018, South West State's president, Sharif Hassan Sheikh Aden, stood in the way of Mogadishu's plans. He had a strong clan base and his own political network. He was not easy to remove. So Mogadishu paid him. According to sources with direct knowledge of the negotiations, Sharif Hassan received about two million US dol",
+          "pubDate": "Thu, 03 Sep 2026 15:54:42 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army"
+        },
+        {
+          "title": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia",
+          "link": "https://hornobserver.com/articles/3723/The-Copyright-Trap-How-fake-claims-are-silencing-independent-media-and-journalists-in-Somalia",
+          "description": "Journalists, editors and media managers told SJS that the attacks intensified early this year amid opposition protests in Mogadishu and escalating tensions between the Federal Government and Southwest State, as well as the continuing political rift with Puntland. The attacks are contributing to a shrinking space for independent reporting across the country. With Facebook serving as the primary news and communication platform for most Somali journalists and the general public, the copyright strikes, removals and account restrictions have significantly limited journalists' ability to report and ",
+          "pubDate": "Tue, 01 Sep 2026 07:25:00 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia"
+        },
+        {
+          "title": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him",
+          "link": "https://hornobserver.com/articles/3721/Somalia-The-Killer-Who-Was-Also-a-Journalist-And-the-Method-That-Didnt-Die-With-Him",
+          "description": "Hanafi did more than report on al-Shabaab. He became the group´s eyes inside Somalia's newsrooms. He picked out which journalists to threaten, which ones to trap, and which ones to have killed. A military court found him responsible for the deaths of five journalists between 2007 and 2010, including HornAfrik co-founder Ali Iimaan Sharma'arke and Radio Mogadishu´s Sheikh Nur Mohamed Abkey. Abkey was the only one Hanafi admitted to killing with his own hands. His method was simple. As al-Shabaab´s head of press monitoring, he tracked which journalists criticized the group or spoke well of the g",
+          "pubDate": "Thu, 27 Aug 2026 19:43:58 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him"
+        },
+        {
+          "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
+          "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
+          "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
+          "pubDate": "Thu, 20 Aug 2026 15:58:57 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
+        },
+        {
+          "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
+          "link": "https://hornobserver.com/articles/3715/Conflict-Drives-Farmers-Into-Somalias-capital-Mogadishu",
+          "description": "The families were displaced by disputes over agricultural land ownership, alongside ongoing fighting between the Somali government and Al-Shabaab and renewed clan conflicts over contested farmland. Aadan Rooble, a former farmer now living in an IDP camp in Mogadishu, said he fled the village of Farxaano in Lower Shabelle about 10 days ago because of continued fighting. Aadan said some members of his family were able to secure transportation, while he initially travelled on foot before eventually finding a vehicle. He said the family was forced to abandon the farms where they worked after repea",
+          "pubDate": "Mon, 17 Aug 2026 12:31:00 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
+        },
+        {
+          "title": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug",
+          "link": "https://hornobserver.com/articles/3714/Policy-Brief-From-Elections-to-Democratic-Governance-Strengthening-Political-Stability-and-Electoral-Integrity-in-Somalias-Galmudug",
+          "description": "As the state enters a new electoral phase in 2026, the central question is no longer simply whether elections can be conducted, but whether electoral reform can contribute to stronger institutions, inclusive governance, and lasting political stability. This new policy brief by the Insight Horn Institute (IHI) examines Galmudug's four electoral cycles between 2015 and 2026 and explores what they reveal about institutional development, federal-state relations, political inclusion, security, and democratic legitimacy. It argues that elections are an important part of democratic transition, but th",
+          "pubDate": "Thu, 13 Aug 2026 19:52:05 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug"
+        },
         {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
           "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
@@ -80,6 +314,33 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Ethiopia: Ethiopia Expands Domestic Drone Production As Conflicts Persist Across Regions",
+          "link": "https://allafrica.com/stories/202609090282.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia has expanded its domestic production of military and civilian drones, with two factories reportedly manufacturing unmanned aerial vehicles as the federal government increasingly relies on drones in its operations against armed groups in several regions, according to Agence France-Presse (AFP).",
+          "pubDate": "Wed, 09 Sep 2026 10:47:58 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Expands Domestic Drone Production As Conflicts Persist Across Regions"
+        },
+        {
+          "title": "Africa: Ships and Seafarers Increasingly Caught in the Crossfire of Unrelated Wars",
+          "link": "https://allafrica.com/stories/202609090161.html",
+          "description": "[UN News] The global shipping industry is facing a \"genuinely unprecedented\" convergence of maritime crises, with vessels and seafarers increasingly used as \"leverage\" in conflicts that have nothing to do with them.",
+          "pubDate": "Wed, 09 Sep 2026 09:24:07 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Ships and Seafarers Increasingly Caught in the Crossfire of Unrelated Wars"
+        },
+        {
+          "title": "Ethiopia: Rising Tigray Tensions Test African Union",
+          "link": "https://allafrica.com/stories/202609090094.html",
+          "description": "[HRW] AU Should Act Before Conflict Escalates",
+          "pubDate": "Wed, 09 Sep 2026 07:10:12 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Rising Tigray Tensions Test African Union"
+        },
+        {
           "title": "Africa: What Do Disruptions in Major Trade Routes Mean for Food Security?",
           "link": "https://allafrica.com/stories/202609090062.html",
           "description": "[WFP] Conflicts in the Strait of Hormuz, the Red Sea and the Black Sea are disrupting the movement of food, fuel and fertilizer, with devastating consequences across the world.",
@@ -87,15 +348,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Africa: What Do Disruptions in Major Trade Routes Mean for Food Security?"
-        },
-        {
-          "title": "Sudan: UN Human Rights Council Urged to Widen Sudan Arms Embargo and Extend Fact-Finding Mission",
-          "link": "https://allafrica.com/stories/202609080366.html",
-          "description": "[Dabanga] Geneva / Amsterdam -- The UN's Sudan fact-finding mission has urged the Human Rights Council to expand the Darfur arms embargo to the whole country, warning that foreign support is sustaining a war in which both sides may have committed war crimes. Sudan's government, however, rejects efforts to treat the warring parties as equivalent and says the conflict is being prolonged by external backing for the Rapid Support Forces.",
-          "pubDate": "Tue, 08 Sep 2026 12:13:22 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: UN Human Rights Council Urged to Widen Sudan Arms Embargo and Extend Fact-Finding Mission"
         },
         {
           "title": "Arab League urges restraint as regional tensions escalate",
@@ -125,22 +377,76 @@
           "titleIt": "Mattarella and Estonian counterpart Karis confirm support for Kyiv"
         },
         {
-          "title": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10",
-          "link": "https://www.ansa.it/english/news/general_news/2026/09/04/meloni-govt-to-extend-17-cent-cut-in-diesel-duties-to-sept-10_4b768f0f-d2f6-4240-a6b3-4dffbf1cd8ae.html",
-          "description": "(ANSA) - ROME, 04 SET - The economy ministry has prepared a decree extending a 17-cent cut in diesel duties until September 10, sources said on Friday. The cut was first introduced by Premier Giorgia Meloni's government at the end of July to help people cope with high fuel costs following the return of conflict in the Persian Gulf and it has been renewed several times since. The current reduction was set to expire on Saturday. The cut, which does not regard unleaded petrol, has not stopped diesel prices from rising well above two euros a litre. The centre-left opposition has criticised the cut",
-          "pubDate": "Fri, 4 Sep 2026 14:22:16 +0200",
-          "source": "ANSA English",
+          "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
+          "link": "https://hornobserver.com/articles/3731/Somali-journalist-Bashir-Mohamed-Abdullahi-dies-after-being-shot-during-Baidoa-clashes",
+          "description": "MOGADISHU, Somalia 7 September 2026 – The Somali Journalists Syndicate (SJS) expresses its deepest condolences over the death of journalist Bashir Mohamed Abdullahi, also known as Bashir Moalin, a reporter with the local Arlaadi Media Network, who succumbed to gunshot injuries sustained during armed clashes in Baidoa on Thursday, 3 September 2026. He becomes the second journalist killed in Somalia this year. Early on Monday, 7 September 2026, Bashir, 28, died from critical injuries he sustained while seeking shelter during armed clashes in Baidoa, Southwest State, his family told SJS. Accordin",
+          "pubDate": "Mon, 07 Sep 2026 13:49:29 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "titleIt": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10"
+          "titleIt": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes"
         },
         {
-          "title": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10",
-          "link": "https://www.ansa.it/english/news/2026/09/04/meloni-govt-to-extend-17-cent-cut-in-diesel-duties-to-sept-10_8e2bad50-a7af-4457-8550-db4fdbfa8ed6.html",
-          "description": "(ANSA) - ROME, 04 SET - The economy ministry has prepared a decree extending a 17-cent cut in diesel duties until September 10, sources said on Friday. The cut was first introduced by Premier Giorgia Meloni's government at the end of July to help people cope with high fuel costs following the return of conflict in the Persian Gulf and it has been renewed several times since. The current reduction was set to expire on Saturday. The cut, which does not regard unleaded petrol, has not stopped diesel prices from rising well above two euros a litre. The centre-left opposition has criticised the cut",
-          "pubDate": "Fri, 4 Sep 2026 13:26:16 +0200",
-          "source": "ANSA English",
+          "title": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow",
+          "link": "https://hornobserver.com/articles/3729/Protests-Erupt-in-Somalias-Gedo-Region-Over-Alleged-Turkish-Strikes-in-Doolow",
+          "description": "In Doolow, protesters accused Turkey of becoming involved in Somalia's political and clan disputes and expressed anger over the reported attack on General Shub's residence. Demonstrators chanted slogans critical of the federal government led by President Hassan Sheikh Mohamud and called for those responsible to be identified and held accountable. The residence of General Shub was reportedly targeted in an overnight attack involving a drone. General Shub and members of his family were reportedly inside the house at the time and sustained minor injuries. The Somali federal government has rejecte",
+          "pubDate": "Sat, 05 Sep 2026 22:24:29 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "titleIt": "Meloni govt to extend 17-cent cut in diesel duties to Sept 10"
+          "titleIt": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow"
+        },
+        {
+          "title": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army",
+          "link": "https://hornobserver.com/articles/3725/Somalia-How-Mogadishu-Removes-a-Regional-President-It-Costs-Cash-or-It-Costs-an-Army",
+          "description": "An investigation into South West State, Hirshabelle, and Galmudug found that federal governments — Farmaajo's and now Hassan Sheikh Mohamud's — have used two tools to control who governs the regions. The first is cash. The second, used once so far, is force. The First Payment In 2018, South West State's president, Sharif Hassan Sheikh Aden, stood in the way of Mogadishu's plans. He had a strong clan base and his own political network. He was not easy to remove. So Mogadishu paid him. According to sources with direct knowledge of the negotiations, Sharif Hassan received about two million US dol",
+          "pubDate": "Thu, 03 Sep 2026 15:54:42 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army"
+        },
+        {
+          "title": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia",
+          "link": "https://hornobserver.com/articles/3723/The-Copyright-Trap-How-fake-claims-are-silencing-independent-media-and-journalists-in-Somalia",
+          "description": "Journalists, editors and media managers told SJS that the attacks intensified early this year amid opposition protests in Mogadishu and escalating tensions between the Federal Government and Southwest State, as well as the continuing political rift with Puntland. The attacks are contributing to a shrinking space for independent reporting across the country. With Facebook serving as the primary news and communication platform for most Somali journalists and the general public, the copyright strikes, removals and account restrictions have significantly limited journalists' ability to report and ",
+          "pubDate": "Tue, 01 Sep 2026 07:25:00 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia"
+        },
+        {
+          "title": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him",
+          "link": "https://hornobserver.com/articles/3721/Somalia-The-Killer-Who-Was-Also-a-Journalist-And-the-Method-That-Didnt-Die-With-Him",
+          "description": "Hanafi did more than report on al-Shabaab. He became the group´s eyes inside Somalia's newsrooms. He picked out which journalists to threaten, which ones to trap, and which ones to have killed. A military court found him responsible for the deaths of five journalists between 2007 and 2010, including HornAfrik co-founder Ali Iimaan Sharma'arke and Radio Mogadishu´s Sheikh Nur Mohamed Abkey. Abkey was the only one Hanafi admitted to killing with his own hands. His method was simple. As al-Shabaab´s head of press monitoring, he tracked which journalists criticized the group or spoke well of the g",
+          "pubDate": "Thu, 27 Aug 2026 19:43:58 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him"
+        },
+        {
+          "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
+          "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
+          "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
+          "pubDate": "Thu, 20 Aug 2026 15:58:57 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
+        },
+        {
+          "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
+          "link": "https://hornobserver.com/articles/3715/Conflict-Drives-Farmers-Into-Somalias-capital-Mogadishu",
+          "description": "The families were displaced by disputes over agricultural land ownership, alongside ongoing fighting between the Somali government and Al-Shabaab and renewed clan conflicts over contested farmland. Aadan Rooble, a former farmer now living in an IDP camp in Mogadishu, said he fled the village of Farxaano in Lower Shabelle about 10 days ago because of continued fighting. Aadan said some members of his family were able to secure transportation, while he initially travelled on foot before eventually finding a vehicle. He said the family was forced to abandon the farms where they worked after repea",
+          "pubDate": "Mon, 17 Aug 2026 12:31:00 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
+        },
+        {
+          "title": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug",
+          "link": "https://hornobserver.com/articles/3714/Policy-Brief-From-Elections-to-Democratic-Governance-Strengthening-Political-Stability-and-Electoral-Integrity-in-Somalias-Galmudug",
+          "description": "As the state enters a new electoral phase in 2026, the central question is no longer simply whether elections can be conducted, but whether electoral reform can contribute to stronger institutions, inclusive governance, and lasting political stability. This new policy brief by the Insight Horn Institute (IHI) examines Galmudug's four electoral cycles between 2015 and 2026 and explores what they reveal about institutional development, federal-state relations, political inclusion, security, and democratic legitimacy. It argues that elections are an important part of democratic transition, but th",
+          "pubDate": "Thu, 13 Aug 2026 19:52:05 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Policy Brief: From Elections to Democratic Governance: Strengthening Political Stability and Electoral Integrity in Somalia's Galmudug"
         },
         {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
@@ -161,13 +467,13 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Sudan: UN Human Rights Council Urged to Widen Sudan Arms Embargo and Extend Fact-Finding Mission",
-          "link": "https://allafrica.com/stories/202609080366.html",
-          "description": "[Dabanga] Geneva / Amsterdam -- The UN's Sudan fact-finding mission has urged the Human Rights Council to expand the Darfur arms embargo to the whole country, warning that foreign support is sustaining a war in which both sides may have committed war crimes. Sudan's government, however, rejects efforts to treat the warring parties as equivalent and says the conflict is being prolonged by external backing for the Rapid Support Forces.",
-          "pubDate": "Tue, 08 Sep 2026 12:13:22 GMT",
+          "title": "Ethiopia: Rising Tigray Tensions Test African Union",
+          "link": "https://allafrica.com/stories/202609090094.html",
+          "description": "[HRW] AU Should Act Before Conflict Escalates",
+          "pubDate": "Wed, 09 Sep 2026 07:10:12 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Sudan: UN Human Rights Council Urged to Widen Sudan Arms Embargo and Extend Fact-Finding Mission"
+          "titleIt": "Ethiopia: Rising Tigray Tensions Test African Union"
         },
         {
           "title": "Arab League urges restraint as regional tensions escalate",
@@ -177,6 +483,15 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Arab League urges restraint as regional tensions escalate"
+        },
+        {
+          "title": "IPI: Africa Media Freedom Monitoring: April to June 2026",
+          "link": "https://hornobserver.com/articles/3719/IPI-Africa-Media-Freedom-Monitoring-April-to-June-2026",
+          "description": "The International Press Institute (IPI) recorded nearly 100 cases of threats and attacks on journalists (82 male and 18 female) across 22 countries in sub-Saharan Africa between April and June 2026. Physical and verbal attacks, as well as arrests and detention, were the most frequent types of incidents. An Ethiopian journalist in exile was found dead in Kenya under suspicious circumstances. &nbsp; Police and state security forces (55%) continued to be the primary perpetrators of attacks and threats against journalists, a trend that continues from the previous quarter. However, attacks by commu",
+          "pubDate": "Wed, 26 Aug 2026 20:31:58 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "IPI: Africa Media Freedom Monitoring: April to June 2026"
         }
       ]
     }
