@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-09-10T16:29:32.282Z",
+  "generatedAt": "2026-09-10T20:57:08.005Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
+          "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
+          "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
+          "pubDate": "Thu, 10 Sep 2026 22:33:24 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
+        },
         {
           "title": "Italy Committed to Water Security, Agriculture, and Climate Action in Somalia",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/10/italy-committed-to-water-security-agriculture-and-climate-action-in-somalia_32af403a-121e-4c69-90b9-c5b309092a5f.html",
@@ -50,15 +59,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "AFRICOM Conducts Airstrike Against al-Shabaab in Somalia"
-        },
-        {
-          "title": "Arab League urges restraint as regional tensions escalate",
-          "link": "http://www.africanews.com/2026/09/07/arab-league-urges-restraint-as-regional-tensions-escalate/",
-          "description": "The Arab League gathers in Cairo as tensions escalate across the region. Maritime security in the Gulf is under growing strain after renewed Iran-U.S. exchanges, including attacks near the Strait of Hormuz.",
-          "pubDate": "Mon, 07 Sep 2026 16:38:49 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Arab League urges restraint as regional tensions escalate"
         },
         {
           "title": "Switzerland plans deportation of seriously injured Somali citizen",
@@ -178,19 +178,37 @@
           "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
         },
         {
-          "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
-          "link": "https://hornobserver.com/articles/3715/Conflict-Drives-Farmers-Into-Somalias-capital-Mogadishu",
-          "description": "The families were displaced by disputes over agricultural land ownership, alongside ongoing fighting between the Somali government and Al-Shabaab and renewed clan conflicts over contested farmland. Aadan Rooble, a former farmer now living in an IDP camp in Mogadishu, said he fled the village of Farxaano in Lower Shabelle about 10 days ago because of continued fighting. Aadan said some members of his family were able to secure transportation, while he initially travelled on foot before eventually finding a vehicle. He said the family was forced to abandon the farms where they worked after repea",
-          "pubDate": "Mon, 17 Aug 2026 12:31:00 +0300",
-          "source": "Horn Observer",
+          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
+          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
+          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
+          "pubDate": "Tuesday, June 30, 2026 - 15:20",
+          "source": "Crisis Group",
           "lang": "en",
-          "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
+          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
+          "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
+          "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
+          "pubDate": "Thu, 10 Sep 2026 22:33:24 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
+        },
+        {
+          "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+          "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+          "description": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
+          "pubDate": "Thu, 10 Sep 2026 15:54:17 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack"
+        },
         {
           "title": "Ethiopia: Amid Escalating Federal-Tigray Tensions, Debretsion Says Alliance Has Become 'Irreversible'",
           "link": "https://allafrica.com/stories/202609100582.html",
@@ -309,15 +327,6 @@
           "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
         },
         {
-          "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
-          "link": "https://hornobserver.com/articles/3715/Conflict-Drives-Farmers-Into-Somalias-capital-Mogadishu",
-          "description": "The families were displaced by disputes over agricultural land ownership, alongside ongoing fighting between the Somali government and Al-Shabaab and renewed clan conflicts over contested farmland. Aadan Rooble, a former farmer now living in an IDP camp in Mogadishu, said he fled the village of Farxaano in Lower Shabelle about 10 days ago because of continued fighting. Aadan said some members of his family were able to secure transportation, while he initially travelled on foot before eventually finding a vehicle. He said the family was forced to abandon the farms where they worked after repea",
-          "pubDate": "Mon, 17 Aug 2026 12:31:00 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
-        },
-        {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
           "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
           "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
@@ -332,40 +341,22 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Libia-Italia: Portolano incontra omologo di Tripoli, intesa per rafforzare cooperazione militare (3)",
-          "link": "https://www.agenzianova.com/a/6aa2dae88d8fc9.41055576/7764976/2026-09-10/libia-italia-portolano-incontra-omologo-di-tripoli-intesa-per-rafforzare-cooperazione-militare-3",
-          "description": "10 set 18:16 - (Agenzia Nova) - Nel corso della visita, il generale Portolano ha incontrato anche il sottosegretario di Stato alla Difesa del... (Res)",
-          "pubDate": "2026-09-10T18:16:49+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Libia-Italia: Portolano incontra omologo di Tripoli, intesa per rafforzare cooperazione militare (3)"
+          "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
+          "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
+          "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
+          "pubDate": "Thu, 10 Sep 2026 22:33:24 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
         },
         {
-          "title": "Libia-Italia: Portolano incontra omologo di Tripoli, intesa per rafforzare cooperazione militare (2)",
-          "link": "https://www.agenzianova.com/a/6aa2dae88db065.34224244/7764975/2026-09-10/libia-italia-portolano-incontra-omologo-di-tripoli-intesa-per-rafforzare-cooperazione-militare-2",
-          "description": "10 set 18:16 - (Agenzia Nova) - Nell'ambito dell'attuazione dell'Accordo di cooperazione siglato nel 2020, entrambi i capi di Stato maggiore... (Res)",
-          "pubDate": "2026-09-10T18:16:49+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Libia-Italia: Portolano incontra omologo di Tripoli, intesa per rafforzare cooperazione militare (2)"
-        },
-        {
-          "title": "Libia-Italia: Portolano incontra omologo di Tripoli, intesa per rafforzare cooperazione militare",
-          "link": "https://www.agenzianova.com/a/6aa2dae88dd241.29750203/7764974/2026-09-10/libia-italia-portolano-incontra-omologo-di-tripoli-intesa-per-rafforzare-cooperazione-militare",
-          "description": "10 set 18:16 - (Agenzia Nova) - Rafforzare e definire nuovi ambiti della cooperazione tecnico-militare tra Italia e Libia, incrementare le... (Res)",
-          "pubDate": "2026-09-10T18:16:49+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Libia-Italia: Portolano incontra omologo di Tripoli, intesa per rafforzare cooperazione militare"
-        },
-        {
-          "title": "Trasporti: Trenitalia regionale rinnova la partnership con X Factor 2026 (2)",
-          "link": "https://www.agenzianova.com/a/6aa2dae88e5808.59478213/7764965/2026-09-10/trasporti-trenitalia-regionale-rinnova-la-partnership-con-x-factor-2026-2",
-          "description": "10 set 18:12 - (Agenzia Nova) - La rinnovata intesa conferma la volonta' del Regionale di Trenitalia di costruire un dialogo sempre piu' vicino... (Com)",
-          "pubDate": "2026-09-10T18:12:45+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Trasporti: Trenitalia regionale rinnova la partnership con X Factor 2026 (2)"
+          "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+          "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+          "description": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+          "pubDate": "Thu, 10 Sep 2026 18:15:47 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha"
         },
         {
           "title": "Ethiopia: Amid Escalating Federal-Tigray Tensions, Debretsion Says Alliance Has Become 'Irreversible'",
@@ -411,15 +402,6 @@
           "source": "The New Humanitarian",
           "lang": "en",
           "titleIt": "Finding a path to peace: Nigeria’s long, faltering history of dialogue with Boko Haram"
-        },
-        {
-          "title": "Arab League urges restraint as regional tensions escalate",
-          "link": "http://www.africanews.com/2026/09/07/arab-league-urges-restraint-as-regional-tensions-escalate/",
-          "description": "The Arab League gathers in Cairo as tensions escalate across the region. Maritime security in the Gulf is under growing strain after renewed Iran-U.S. exchanges, including attacks near the Strait of Hormuz.",
-          "pubDate": "Mon, 07 Sep 2026 16:38:49 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Arab League urges restraint as regional tensions escalate"
         },
         {
           "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
@@ -476,15 +458,6 @@
           "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
         },
         {
-          "title": "Conflict Drives Farmers Into Somalia's capital Mogadishu",
-          "link": "https://hornobserver.com/articles/3715/Conflict-Drives-Farmers-Into-Somalias-capital-Mogadishu",
-          "description": "The families were displaced by disputes over agricultural land ownership, alongside ongoing fighting between the Somali government and Al-Shabaab and renewed clan conflicts over contested farmland. Aadan Rooble, a former farmer now living in an IDP camp in Mogadishu, said he fled the village of Farxaano in Lower Shabelle about 10 days ago because of continued fighting. Aadan said some members of his family were able to secure transportation, while he initially travelled on foot before eventually finding a vehicle. He said the family was forced to abandon the farms where they worked after repea",
-          "pubDate": "Mon, 17 Aug 2026 12:31:00 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Conflict Drives Farmers Into Somalia's capital Mogadishu"
-        },
-        {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
           "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
           "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
@@ -497,20 +470,192 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Cyril Ramaphosa leaves South Africa to attend BRICS Summit",
+          "link": "https://www.thesouthafrican.com/news/politics/cyril-ramaphosa-leaves-south-africa-to-attend-brics-summit/",
+          "source": "thesouthafrican.com",
+          "pubDate": "2026-09-10T20:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cyril Ramaphosa leaves South Africa to attend BRICS Summit"
+        },
+        {
+          "title": "Meet of the Tiger and the Dragon : Chinese MoFA confirms Xi Jinping visit to India for 18th BRICS summit",
+          "link": "http://www.beijingbulletin.com/news/279299246/meet-of-the-tiger-and-the-dragon-chinese-mofa-confirms-xi-jinping-visit-to-india-for-18th-brics-summit",
+          "source": "beijingbulletin.com",
+          "pubDate": "2026-09-10T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Meet of the Tiger and the Dragon : Chinese MoFA confirms Xi Jinping visit to India for 18th BRICS summit"
+        },
+        {
+          "title": "India BRICS trade deficit likely to remain key challenge as imports outpace exports : Report",
+          "link": "http://www.beijingbulletin.com/news/279299300/india-brics-trade-deficit-likely-to-remain-key-challenge-as-imports-outpace-exports-report",
+          "source": "beijingbulletin.com",
+          "pubDate": "2026-09-10T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India BRICS trade deficit likely to remain key challenge as imports outpace exports : Report"
+        },
+        {
+          "title": "Meet of the Tiger and the Dragon : Chinese MoFA confirms Xi Jinping visit to India for 18th BRICS summit",
+          "link": "http://www.nigeriasun.com/news/279299246/meet-of-the-tiger-and-the-dragon-chinese-mofa-confirms-xi-jinping-visit-to-india-for-18th-brics-summit",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-09-10T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Meet of the Tiger and the Dragon : Chinese MoFA confirms Xi Jinping visit to India for 18th BRICS summit"
+        },
+        {
+          "title": "South African Minister Lamola arrives in India ahead of BRICS , President Ramaphosa to also attend summit",
+          "link": "http://www.nigeriasun.com/news/279299311/south-african-minister-lamola-arrives-in-india-ahead-of-brics-president-ramaphosa-to-also-attend-summit",
+          "source": "nigeriasun.com",
+          "pubDate": "2026-09-10T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "South African Minister Lamola arrives in India ahead of BRICS , President Ramaphosa to also attend summit"
+        },
+        {
+          "title": "West African Governments Are Finally Tracking Their Own Vehicles",
+          "link": "https://www.liberianobserver.com/business/tech/west-african-governments-are-finally-tracking-their-own-vehicles/article_18727049-497e-4084-9c65-2a736a62ebc2.html",
+          "source": "liberianobserver.com",
+          "pubDate": "2026-09-10T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "West African Governments Are Finally Tracking Their Own Vehicles"
+        },
+        {
+          "title": "Ansar Allah seize key Yemeni Red Sea port",
+          "link": "https://www.omanobserver.om/article/1195956/world/asia/ansar-allah-seize-key-yemeni-red-sea-port",
+          "source": "omanobserver.om",
+          "pubDate": "2026-09-10T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ansar Allah seize key Yemeni Red Sea port"
+        },
+        {
+          "title": "Jeremy Kuzmarov – The Greanville Post",
+          "link": "https://www.greanvillepost.com/author/jeremy-kuzmarov/",
+          "source": "greanvillepost.com",
+          "pubDate": "2026-09-10T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Jeremy Kuzmarov – The Greanville Post"
+        },
+        {
+          "title": "17 years after first BRICS summit , Lula skips meet for election campaign",
+          "link": "https://www.newindianexpress.com/world/2026/Sep/10/17-years-after-first-brics-summit-lula-skips-meet-for-election-campaign",
+          "source": "newindianexpress.com",
+          "pubDate": "2026-09-10T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "17 years after first BRICS summit , Lula skips meet for election campaign"
+        },
+        {
+          "title": "The pharaohs were black : How one scholar reclaimed Africas past",
+          "link": "http://www.middleeaststar.com/news/279298827/the-pharaohs-were-black-how-one-scholar-reclaimed-africas-past",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-09-10T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The pharaohs were black : How one scholar reclaimed Africas past"
+        },
+        {
+          "title": "Houthis take Yemeni port city , threaten Saudi oil exports",
+          "link": "https://www.rte.ie/news/2026/0910/1591087-iran-houthis-mideast/",
+          "source": "rte.ie",
+          "pubDate": "2026-09-10T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthis take Yemeni port city , threaten Saudi oil exports"
+        },
+        {
+          "title": "The pharaohs were black : How one scholar reclaimed Africas past",
+          "link": "http://www.kenyastar.com/news/279298827/the-pharaohs-were-black-how-one-scholar-reclaimed-africas-past",
+          "source": "kenyastar.com",
+          "pubDate": "2026-09-10T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The pharaohs were black : How one scholar reclaimed Africas past"
+        },
+        {
+          "title": "Xinhua Headlines : Xi to attend New Delhi summit to boost greater BRICS cooperation",
+          "link": "http://www.kenyastar.com/news/279298872/xinhua-headlines-xi-to-attend-new-delhi-summit-to-boost-greater-brics-cooperation",
+          "source": "kenyastar.com",
+          "pubDate": "2026-09-10T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Xinhua Headlines : Xi to attend New Delhi summit to boost greater BRICS cooperation"
+        },
+        {
+          "title": "Bharat Mandapam lights up as Delhi gears up to host BRICS Summit 2026",
+          "link": "https://aninews.in/news/national/general-news/bharat-mandapam-lights-up-as-delhi-gears-up-to-host-brics-summit-202620260911003633/",
+          "source": "aninews.in",
+          "pubDate": "2026-09-10T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Bharat Mandapam lights up as Delhi gears up to host BRICS Summit 2026"
+        },
+        {
+          "title": "Brics , Shenoy :  Delhi può dimostrare che un mondo diviso può ancora parlarsi  – Padovanews",
+          "link": "https://www.padovanews.it/2026/09/10/brics-shenoy-delhi-puo-dimostrare-che-un-mondo-diviso-puo-ancora-parlarsi/",
+          "source": "padovanews.it",
+          "pubDate": "2026-09-10T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Brics , Shenoy :  Delhi può dimostrare che un mondo diviso può ancora parlarsi  – Padovanews"
+        },
+        {
+          "title": "Beyond Iran : America Long Record Of Middle East Blunders",
+          "link": "https://www.scoop.co.nz/stories/HL2609/S00032/beyond-iran-americas-long-record-of-middle-east-blunders.htm",
+          "source": "scoop.co.nz",
+          "pubDate": "2026-09-10T19:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Beyond Iran : America Long Record Of Middle East Blunders"
+        },
+        {
+          "title": "Xinhua Headlines : Xi to attend New Delhi summit to boost greater BRICS cooperation",
+          "link": "http://www.newyorkstatesman.com/news/279298872/xinhua-headlines-xi-to-attend-new-delhi-summit-to-boost-greater-brics-cooperation",
+          "source": "newyorkstatesman.com",
+          "pubDate": "2026-09-10T18:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Xinhua Headlines : Xi to attend New Delhi summit to boost greater BRICS cooperation"
+        },
+        {
+          "title": "Xinhua Headlines : Xi to attend New Delhi summit to boost greater BRICS cooperation",
+          "link": "http://www.greekherald.com/news/279298872/xinhua-headlines-xi-to-attend-new-delhi-summit-to-boost-greater-brics-cooperation",
+          "source": "greekherald.com",
+          "pubDate": "2026-09-10T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Xinhua Headlines : Xi to attend New Delhi summit to boost greater BRICS cooperation"
+        },
+        {
+          "title": "Meet of the Tiger and the Dragon : Chinese MoFA confirms Xi Jinping visit to India for 18th BRICS summit",
+          "link": "http://www.calcuttanews.net/news/279299246/meet-of-the-tiger-and-the-dragon-chinese-mofa-confirms-xi-jinping-visit-to-india-for-18th-brics-summit",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-09-10T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Meet of the Tiger and the Dragon : Chinese MoFA confirms Xi Jinping visit to India for 18th BRICS summit"
+        },
+        {
+          "title": "South African Minister Lamola arrives in India ahead of BRICS , President Ramaphosa to also attend summit",
+          "link": "http://www.bignewsnetwork.com/news/279299311/south-african-minister-lamola-arrives-in-india-ahead-of-brics-president-ramaphosa-to-also-attend-summit",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-09-10T18:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "South African Minister Lamola arrives in India ahead of BRICS , President Ramaphosa to also attend summit"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Egitto: ministro Esteri incontra ambasciatori Ue, focus su partenariato e migranti (3)",
-          "link": "https://www.agenzianova.com/a/6aa2dae88fbdb6.84738426/7764923/2026-09-10/egitto-ministro-esteri-incontra-ambasciatori-ue-focus-su-partenariato-e-migranti-3",
-          "description": "10 set 18:04 - (Agenzia Nova) - Durante l'incontro con gli ambasciatori Ue, Abdelatty ha inoltre elogiato la dichiarazione congiunta rilasciata... (Cae)",
-          "pubDate": "2026-09-10T18:04:31+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: ministro Esteri incontra ambasciatori Ue, focus su partenariato e migranti (3)"
-        },
         {
           "title": "Ethiopia: Amid Escalating Federal-Tigray Tensions, Debretsion Says Alliance Has Become 'Irreversible'",
           "link": "https://allafrica.com/stories/202609100582.html",
@@ -530,13 +675,130 @@
           "titleIt": "Uganda: Government Dismisses Claims Tooro Queen Mother Is Under House Arrest"
         },
         {
-          "title": "Arab League urges restraint as regional tensions escalate",
-          "link": "http://www.africanews.com/2026/09/07/arab-league-urges-restraint-as-regional-tensions-escalate/",
-          "description": "The Arab League gathers in Cairo as tensions escalate across the region. Maritime security in the Gulf is under growing strain after renewed Iran-U.S. exchanges, including attacks near the Strait of Hormuz.",
-          "pubDate": "Mon, 07 Sep 2026 16:38:49 +0000",
-          "source": "Africanews",
+          "title": "The war must not end – NATO",
+          "link": "https://www.bankingnews.gr/diethni/articles/898500/the-war-must-not-end-nato-s-madmen-rammstein-decided-ukraine-is-the-west-s-guinea-pig%20title=",
+          "source": "bankingnews.gr",
+          "pubDate": "2026-09-10T10:00:00Z",
           "lang": "en",
-          "titleIt": "Arab League urges restraint as regional tensions escalate"
+          "description": "",
+          "titleIt": "The war must not end – NATO"
+        },
+        {
+          "title": "The war must not end – NATO",
+          "link": "https://www.bankingnews.gr/diethni/articles/898500/the-war-must-not-end-nato-s-madmen-rammstein-decided-ukraine-is-the-west-s-guinea-pig",
+          "source": "bankingnews.gr",
+          "pubDate": "2026-09-10T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The war must not end – NATO"
+        },
+        {
+          "title": "Ethiopia : Finance Minister Ahmed Shide , AIIB President Zou Jiayi Discuss Infrastructure Cooperation",
+          "link": "https://allafrica.com/stories/202609100052.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-10T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Finance Minister Ahmed Shide , AIIB President Zou Jiayi Discuss Infrastructure Cooperation"
+        },
+        {
+          "title": "Egypt Must Recognize 2026 Nile Reality , Not 19th / 20th Century , Says Former U . S . Diplomat Tibor Nagy",
+          "link": "https://allafrica.com/stories/202609100039.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Must Recognize 2026 Nile Reality , Not 19th / 20th Century , Says Former U . S . Diplomat Tibor Nagy"
+        },
+        {
+          "title": "GERD supplies 52 % of Ethiopia electricity - International Water Power",
+          "link": "https://www.waterpowermagazine.com/news/gerd-supplies-52-of-ethiopias-electricity/",
+          "source": "waterpowermagazine.com",
+          "pubDate": "2026-09-09T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GERD supplies 52 % of Ethiopia electricity - International Water Power"
+        },
+        {
+          "title": "Rearmed And Reckless : How Sudan New Arsenal Is Dragging Chad And Ethiopia Into Its War - OpEd",
+          "link": "https://www.eurasiareview.com/08092026-rearmed-and-reckless-how-sudans-new-arsenal-is-dragging-chad-and-ethiopia-into-its-war-oped/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-09-07T23:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rearmed And Reckless : How Sudan New Arsenal Is Dragging Chad And Ethiopia Into Its War - OpEd"
+        },
+        {
+          "title": "Mottley calls for stronger CARICOM - Africa ties",
+          "link": "https://barbadostoday.bb/2026/09/07/mottley-calls-for-stronger-caricom-africa-ties/",
+          "source": "barbadostoday.bb",
+          "pubDate": "2026-09-07T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mottley calls for stronger CARICOM - Africa ties"
+        },
+        {
+          "title": "Sudan Borders Have Become as Dangerous as the War Itself",
+          "link": "https://themedialine.org/top-stories/sudans-borders-have-become-as-dangerous-as-the-war-itself/",
+          "source": "themedialine.org",
+          "pubDate": "2026-09-07T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan Borders Have Become as Dangerous as the War Itself"
+        },
+        {
+          "title": "Battle for water : Could the Nile dispute trigger a regional war ?",
+          "link": "https://news.az/news/battle-for-water-could-the-nile-dispute-trigger-a-regional-war",
+          "source": "news.az",
+          "pubDate": "2026-09-07T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Battle for water : Could the Nile dispute trigger a regional war ?"
+        },
+        {
+          "title": "Beyond The Zero - Sum : Reimagining The Nile And The Horn",
+          "link": "https://www.thereporterethiopia.com/52620/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-09-05T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Beyond The Zero - Sum : Reimagining The Nile And The Horn"
+        },
+        {
+          "title": "Nepal needs more giant dams to avert disastrous floods",
+          "link": "https://www.taipeitimes.com/News/editorials/archives/2026/09/02/2003863529",
+          "source": "taipeitimes.com",
+          "pubDate": "2026-09-01T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nepal needs more giant dams to avert disastrous floods"
+        },
+        {
+          "title": "Ethiopia Electricity Data Miners Now Top the Payer List",
+          "link": "https://www.riotimesonline.com/ethiopia-electricity-data-miners-revenue-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-01T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Electricity Data Miners Now Top the Payer List"
+        },
+        {
+          "title": "The Stream , September 1 , 2026 : Israel Abruptly Shuts Down All But One Desalination Plant Due to Weather",
+          "link": "https://www.circleofblue.org/newsletter/the-stream-september-1-2026-israel-abruptly-shuts-down-all-but-one-desalination-plant-due-to-weather/",
+          "source": "circleofblue.org",
+          "pubDate": "2026-09-01T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Stream , September 1 , 2026 : Israel Abruptly Shuts Down All But One Desalination Plant Due to Weather"
+        },
+        {
+          "title": "Africa : GERD Offers Blueprint for Africa Self - Reliance , Says Hailemariam",
+          "link": "https://allafrica.com/stories/202608270018.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-27T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : GERD Offers Blueprint for Africa Self - Reliance , Says Hailemariam"
         },
         {
           "title": "IPI: Africa Media Freedom Monitoring: April to June 2026",
@@ -546,6 +808,33 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "IPI: Africa Media Freedom Monitoring: April to June 2026"
+        },
+        {
+          "title": "Domestic and Regional Pressures Strain Ethiopia Fragile Peace",
+          "link": "https://www.justsecurity.org/154852/ethiopia-horn-africa-regional-tensions/",
+          "source": "justsecurity.org",
+          "pubDate": "2026-08-26T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Domestic and Regional Pressures Strain Ethiopia Fragile Peace"
+        },
+        {
+          "title": "Pumped storage : powering the age of flexibility - International Water Power",
+          "link": "https://www.waterpowermagazine.com/analysis/pumped-storage-powering-the-age-of-flexibility/",
+          "source": "waterpowermagazine.com",
+          "pubDate": "2026-08-26T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pumped storage : powering the age of flexibility - International Water Power"
+        },
+        {
+          "title": "Egypt faces crises from all directions , foreign minister warns",
+          "link": "https://www.thenationalnews.com/news/mena/2026/08/25/irans-irgc-holds-real-power-but-peace-talks-must-go-on-says-egypts-foreign-minister/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-08-25T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt faces crises from all directions , foreign minister warns"
         }
       ]
     }
