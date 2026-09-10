@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-09-10T04:56:13.040Z",
+  "generatedAt": "2026-09-10T11:26:17.133Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Fighter jets soar in the sky at Egypt's El Alamein air show",
+          "link": "http://www.africanews.com/2026/09/10/fighter-jets-soar-in-the-sky-at-egypts-el-alamein-air-show/",
+          "description": "The 2026 edition has brought together government and military delegations, aviation authorities, space agencies, airlines, and aerospace manufacturers",
+          "pubDate": "Thu, 10 Sep 2026 09:08:35 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Fighter jets soar in the sky at Egypt's El Alamein air show"
+        },
+        {
+          "title": "Sudan: Cairo Declaration Forces Reject El Burhan National Dialogue, Call for Negotiated End to Sudan War",
+          "link": "https://allafrica.com/stories/202609100013.html",
+          "description": "[Dabanga] Cairo -- A coalition of Sudanese political forces has rejected a proposed Sudanese-led national dialogue announced by Sudanese Armed Forces (SAF) chief and head of the Sovereignty Council, Gen Abdelfattah El Burhan, arguing that it would legitimise a reality created by war and entrench a de facto authority. The Cairo Declaration forces made the statement after a meeting of their leaders in Cairo on Monday. They said that, although El Burhan's recent rhetoric had shifted from \"Glory to the rifle\" to \"Glory to",
+          "pubDate": "Thu, 10 Sep 2026 05:15:40 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Cairo Declaration Forces Reject El Burhan National Dialogue, Call for Negotiated End to Sudan War"
+        },
         {
           "title": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro",
           "link": "https://hornobserver.com/articles/3735/Somaliland-arrests-two-journalists-and-a-poet-in-two-weeks-over-criticism-of-president-Abdirahman-Irro",
@@ -14,15 +32,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro"
-        },
-        {
-          "title": "Somalia: Somali Army Commander, Turkey-Trained Troops Welcomed in Mogadishu",
-          "link": "https://allafrica.com/stories/202609090520.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's 21st Gorgor Commando Brigade commander and a contingent of Somali soldiers who completed advanced military training in Turkey have been welcomed at a ceremony in Mogadishu, the military said Wednesday.",
-          "pubDate": "Wed, 09 Sep 2026 15:11:55 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somali Army Commander, Turkey-Trained Troops Welcomed in Mogadishu"
         },
         {
           "title": "Egypt air show spotlights drones and military hardware",
@@ -77,15 +86,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's Hirshabelle Authorities Step Up Flood Preparedness Ahead of Forecast El Niño Conditions"
-        },
-        {
-          "title": "Egypt TV presenter Sarah Khalifa sentenced to death in drug case",
-          "link": "http://www.africanews.com/2026/09/07/egypt-tv-presenter-sarah-khalifa-sentenced-to-death-in-drug-case/",
-          "description": "Egyptian television presenter Sarah Khalifa and 11 other people have been sentenced to death after being convicted of drug trafficking and other offences, state-owned Al-Ahram reported.",
-          "pubDate": "Mon, 07 Sep 2026 07:57:03 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Egypt TV presenter Sarah Khalifa sentenced to death in drug case"
         },
         {
           "title": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow",
@@ -192,6 +192,33 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Ethiopia: Unity By Choice, Not Fear - Lessons From Eritrea's Independence for Future Ethiopia-Tigray Relations",
+          "link": "https://allafrica.com/stories/202609100224.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia's political history is often reduced to the decisions of political parties and armed movements. Eritrea's independence, in particular, is sometimes portrayed as the result of a choice made solely by the Tigray People's Liberation Front (TPLF) or the Ethiopian People's Revolutionary Democratic Front (EPRDF). That interpretation is historically incomplete.",
+          "pubDate": "Thu, 10 Sep 2026 10:19:01 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Unity By Choice, Not Fear - Lessons From Eritrea's Independence for Future Ethiopia-Tigray Relations"
+        },
+        {
+          "title": "Somalia: Somaliland Ready to Contribute Up to 2,000 Troops to Gaza Stabilisation Force, President Says",
+          "link": "https://allafrica.com/stories/202609100182.html",
+          "description": "[Horn Diplomat] Washington (Horndiplomat) -- Somaliland is prepared to contribute as many as 2,000 soldiers to a proposed international stabilisation force in Gaza if formally requested by the United States or Israel, President Abdirahman Mohamed Abdullahi \"Irro\" has said.",
+          "pubDate": "Thu, 10 Sep 2026 09:29:08 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somaliland Ready to Contribute Up to 2,000 Troops to Gaza Stabilisation Force, President Says"
+        },
+        {
+          "title": "Kenya: Senate Throws Out NTSA Regulations for Lack of Public Participation",
+          "link": "https://allafrica.com/stories/202609100119.html",
+          "description": "[Capital FM] Nairobi -- The Senate has scrapped three new regulations that were issued by the National Transport and Safety Authority (NTSA), citing a lack of public participation.",
+          "pubDate": "Thu, 10 Sep 2026 07:32:21 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Senate Throws Out NTSA Regulations for Lack of Public Participation"
+        },
+        {
           "title": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro",
           "link": "https://hornobserver.com/articles/3735/Somaliland-arrests-two-journalists-and-a-poet-in-two-weeks-over-criticism-of-president-Abdirahman-Irro",
           "description": "Journalist Abdiqani Hussein Abokor, known as Baylood, founder of Heegan TV, was arrested on 29 August 2026 after interviewing Somaliland-based poet Ismail Yusuf Abdi, also known as Jiheeye. During the interview, published by Abdiqani Hussein Abokor on his Facebook page on 27 August, Ismail complained to President Irro about the forced eviction of his family from their home in Hargeisa. During the interview, Ismail recited a poem in which he cursed the president and said \"that the president's honour should be diminished and failure comes to him\" if the vulnerable family were evicted from their ",
@@ -199,15 +226,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro"
-        },
-        {
-          "title": "Kenya: Govt Deploys Automatic Terminal Information Service At JKIA to Improve Management of Arriving, Departing Flights",
-          "link": "https://allafrica.com/stories/202609090361.html",
-          "description": "[Capital FM] Nairobi -- The government is tightening operational and security controls at Jomo Kenyatta International Airport (JKIA), deploying new flight-information and passenger-data systems as it seeks to improve processing, strengthen oversight and curb irregular baggage handling.",
-          "pubDate": "Wed, 09 Sep 2026 12:17:38 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Govt Deploys Automatic Terminal Information Service At JKIA to Improve Management of Arriving, Departing Flights"
         },
         {
           "title": "Concerns over wildlife, water supply, as wildfire rages across Mount Kenya",
@@ -296,13 +314,22 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Ecuador-Usa: Rubio, negoziati commerciali avanzano, \"presto buone notizie\" (2)",
-          "link": "https://www.agenzianova.com/a/6aa2386953b202.70779851/7761787/2026-09-10/ecuador-usa-rubio-negoziati-commerciali-avanzano-presto-buone-notizie-2",
-          "description": "10 set 05:42 - (Agenzia Nova) - Rubio ha inoltre indicato nei minerali critici, in particolare nel rame e nell'oro, un'importante area di cooperazione... (Was)",
-          "pubDate": "2026-09-10T05:42:28+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Ecuador-Usa: Rubio, negoziati commerciali avanzano, \"presto buone notizie\" (2)"
+          "title": "Ethiopia: Unity By Choice, Not Fear - Lessons From Eritrea's Independence for Future Ethiopia-Tigray Relations",
+          "link": "https://allafrica.com/stories/202609100224.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia's political history is often reduced to the decisions of political parties and armed movements. Eritrea's independence, in particular, is sometimes portrayed as the result of a choice made solely by the Tigray People's Liberation Front (TPLF) or the Ethiopian People's Revolutionary Democratic Front (EPRDF). That interpretation is historically incomplete.",
+          "pubDate": "Thu, 10 Sep 2026 10:19:01 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Unity By Choice, Not Fear - Lessons From Eritrea's Independence for Future Ethiopia-Tigray Relations"
+        },
+        {
+          "title": "Libya: UN Hails Libya Election Deal As Security Council Urges Libyans to Seize the Moment",
+          "link": "https://allafrica.com/stories/202609100002.html",
+          "description": "[UN News] The UN Security Council has welcomed a breakthrough agreement between Libya's rival political blocs, calling it \"an important step\" towards the country's first national elections in over a decade - while pressing all sides to move quickly from paper to practice.",
+          "pubDate": "Thu, 10 Sep 2026 05:08:34 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Libya: UN Hails Libya Election Deal As Security Council Urges Libyans to Seize the Moment"
         },
         {
           "title": "Finding a path to peace: Nigeria’s long, faltering history of dialogue with Boko Haram",
@@ -314,15 +341,6 @@
           "titleIt": "Finding a path to peace: Nigeria’s long, faltering history of dialogue with Boko Haram"
         },
         {
-          "title": "Ethiopia: Rising Tigray Tensions Test African Union",
-          "link": "https://allafrica.com/stories/202609090094.html",
-          "description": "[HRW] AU Should Act Before Conflict Escalates",
-          "pubDate": "Wed, 09 Sep 2026 07:10:12 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Rising Tigray Tensions Test African Union"
-        },
-        {
           "title": "Arab League urges restraint as regional tensions escalate",
           "link": "http://www.africanews.com/2026/09/07/arab-league-urges-restraint-as-regional-tensions-escalate/",
           "description": "The Arab League gathers in Cairo as tensions escalate across the region. Maritime security in the Gulf is under growing strain after renewed Iran-U.S. exchanges, including attacks near the Strait of Hormuz.",
@@ -330,24 +348,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Arab League urges restraint as regional tensions escalate"
-        },
-        {
-          "title": "Mattarella and Estonian counterpart Karis confirm support for Kyiv",
-          "link": "https://www.ansa.it/english/news/politics/2026/09/07/mattarella-and-estonian-counterpart-karis-confirm-support-for-kyiv_4a64bd3c-22c9-464e-8254-b09333a47e6e.html",
-          "description": "(ANSA) - ROME, 07 SET - President Sergio Mattarella met his Estonian counterpart Alar Karis at the Quirinal Palace in Rome on Monday in a meeting in which the two heads of State confirmed their support for Ukraine. The leaders also expressed the hope that \"the ongoing negotiations will bring results\". The two presidents discussed European integration, defence, Gaza, Israel and migration too. (ANSA). Read article...",
-          "pubDate": "Mon, 7 Sep 2026 15:49:17 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Mattarella and Estonian counterpart Karis confirm support for Kyiv"
-        },
-        {
-          "title": "Mattarella and Estonian counterpart Karis confirm support for Kyiv",
-          "link": "https://www.ansa.it/english/news/2026/09/07/mattarella-and-estonian-counterpart-karis-confirm-support-for-kyiv_d6da6af9-12d0-4d0f-9263-403a2494d1c9.html",
-          "description": "(ANSA) - ROME, 07 SET - President Sergio Mattarella met his Estonian counterpart Alar Karis at the Quirinal Palace in Rome on Monday in a meeting in which the two heads of State confirmed their support for Ukraine. The leaders also expressed the hope that \"the ongoing negotiations will bring results\". The two presidents discussed European integration, defence, Gaza, Israel and migration too. (ANSA). Read article...",
-          "pubDate": "Mon, 7 Sep 2026 15:46:57 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Mattarella and Estonian counterpart Karis confirm support for Kyiv"
         },
         {
           "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
@@ -431,40 +431,13 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "GERD supplies 52 % of Ethiopia electricity - International Water Power",
-          "link": "https://www.waterpowermagazine.com/news/gerd-supplies-52-of-ethiopias-electricity/",
-          "source": "waterpowermagazine.com",
-          "pubDate": "2026-09-09T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "GERD supplies 52 % of Ethiopia electricity - International Water Power"
-        },
-        {
-          "title": "Ethiopia: Rising Tigray Tensions Test African Union",
-          "link": "https://allafrica.com/stories/202609090094.html",
-          "description": "[HRW] AU Should Act Before Conflict Escalates",
-          "pubDate": "Wed, 09 Sep 2026 07:10:12 GMT",
+          "title": "Sudan: Sudanese Clinics Close Amid Aid Cuts, Leaving Millions With Shrinking Access to Healthcare - MSF",
+          "link": "https://allafrica.com/stories/202609100015.html",
+          "description": "[Dabanga] Amsterdam -- Humanitarian funding crisis is forcing patients to travel further for treatment as remaining hospitals struggle to absorb the growing demand, Médecins Sans Frontières (MSF) warns international aid cuts are forcing clinics across Sudan to close, leaving people to make longer and more dangerous journeys for healthcare and pushing the country's remaining hospitals towards breaking point.",
+          "pubDate": "Thu, 10 Sep 2026 05:15:42 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Ethiopia: Rising Tigray Tensions Test African Union"
-        },
-        {
-          "title": "Rearmed And Reckless : How Sudan New Arsenal Is Dragging Chad And Ethiopia Into Its War - OpEd",
-          "link": "https://www.eurasiareview.com/08092026-rearmed-and-reckless-how-sudans-new-arsenal-is-dragging-chad-and-ethiopia-into-its-war-oped/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-09-07T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Rearmed And Reckless : How Sudan New Arsenal Is Dragging Chad And Ethiopia Into Its War - OpEd"
-        },
-        {
-          "title": "Mottley calls for stronger CARICOM - Africa ties",
-          "link": "https://barbadostoday.bb/2026/09/07/mottley-calls-for-stronger-caricom-africa-ties/",
-          "source": "barbadostoday.bb",
-          "pubDate": "2026-09-07T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mottley calls for stronger CARICOM - Africa ties"
+          "titleIt": "Sudan: Sudanese Clinics Close Amid Aid Cuts, Leaving Millions With Shrinking Access to Healthcare - MSF"
         },
         {
           "title": "Arab League urges restraint as regional tensions escalate",
@@ -476,69 +449,6 @@
           "titleIt": "Arab League urges restraint as regional tensions escalate"
         },
         {
-          "title": "Sudan Borders Have Become as Dangerous as the War Itself",
-          "link": "https://themedialine.org/top-stories/sudans-borders-have-become-as-dangerous-as-the-war-itself/",
-          "source": "themedialine.org",
-          "pubDate": "2026-09-07T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan Borders Have Become as Dangerous as the War Itself"
-        },
-        {
-          "title": "Battle for water : Could the Nile dispute trigger a regional war ?",
-          "link": "https://news.az/news/battle-for-water-could-the-nile-dispute-trigger-a-regional-war",
-          "source": "news.az",
-          "pubDate": "2026-09-07T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Battle for water : Could the Nile dispute trigger a regional war ?"
-        },
-        {
-          "title": "Beyond The Zero - Sum : Reimagining The Nile And The Horn",
-          "link": "https://www.thereporterethiopia.com/52620/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-09-05T13:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Beyond The Zero - Sum : Reimagining The Nile And The Horn"
-        },
-        {
-          "title": "Nepal needs more giant dams to avert disastrous floods",
-          "link": "https://www.taipeitimes.com/News/editorials/archives/2026/09/02/2003863529",
-          "source": "taipeitimes.com",
-          "pubDate": "2026-09-01T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nepal needs more giant dams to avert disastrous floods"
-        },
-        {
-          "title": "Ethiopia Electricity Data Miners Now Top the Payer List",
-          "link": "https://www.riotimesonline.com/ethiopia-electricity-data-miners-revenue-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-01T19:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Electricity Data Miners Now Top the Payer List"
-        },
-        {
-          "title": "The Stream , September 1 , 2026 : Israel Abruptly Shuts Down All But One Desalination Plant Due to Weather",
-          "link": "https://www.circleofblue.org/newsletter/the-stream-september-1-2026-israel-abruptly-shuts-down-all-but-one-desalination-plant-due-to-weather/",
-          "source": "circleofblue.org",
-          "pubDate": "2026-09-01T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Stream , September 1 , 2026 : Israel Abruptly Shuts Down All But One Desalination Plant Due to Weather"
-        },
-        {
-          "title": "Africa : GERD Offers Blueprint for Africa Self - Reliance , Says Hailemariam",
-          "link": "https://allafrica.com/stories/202608270018.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-08-27T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : GERD Offers Blueprint for Africa Self - Reliance , Says Hailemariam"
-        },
-        {
           "title": "IPI: Africa Media Freedom Monitoring: April to June 2026",
           "link": "https://hornobserver.com/articles/3719/IPI-Africa-Media-Freedom-Monitoring-April-to-June-2026",
           "description": "The International Press Institute (IPI) recorded nearly 100 cases of threats and attacks on journalists (82 male and 18 female) across 22 countries in sub-Saharan Africa between April and June 2026. Physical and verbal attacks, as well as arrests and detention, were the most frequent types of incidents. An Ethiopian journalist in exile was found dead in Kenya under suspicious circumstances. &nbsp; Police and state security forces (55%) continued to be the primary perpetrators of attacks and threats against journalists, a trend that continues from the previous quarter. However, attacks by commu",
@@ -546,69 +456,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "IPI: Africa Media Freedom Monitoring: April to June 2026"
-        },
-        {
-          "title": "Domestic and Regional Pressures Strain Ethiopia Fragile Peace",
-          "link": "https://www.justsecurity.org/154852/ethiopia-horn-africa-regional-tensions/",
-          "source": "justsecurity.org",
-          "pubDate": "2026-08-26T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Domestic and Regional Pressures Strain Ethiopia Fragile Peace"
-        },
-        {
-          "title": "Pumped storage : powering the age of flexibility - International Water Power",
-          "link": "https://www.waterpowermagazine.com/analysis/pumped-storage-powering-the-age-of-flexibility/",
-          "source": "waterpowermagazine.com",
-          "pubDate": "2026-08-26T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pumped storage : powering the age of flexibility - International Water Power"
-        },
-        {
-          "title": "Egypt faces crises from all directions , foreign minister warns",
-          "link": "https://www.thenationalnews.com/news/mena/2026/08/25/irans-irgc-holds-real-power-but-peace-talks-must-go-on-says-egypts-foreign-minister/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-08-25T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt faces crises from all directions , foreign minister warns"
-        },
-        {
-          "title": "Tanzania inaugurates $2 . 9B hydropower project built by Egyptian consortium",
-          "link": "https://www.middleeastmonitor.com/20260822-tanzania-inaugurates-2-9b-hydropower-project-built-by-egyptian-consortium/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-08-22T18:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tanzania inaugurates $2 . 9B hydropower project built by Egyptian consortium"
-        },
-        {
-          "title": "Sudan farms lie barren as El Nino leaves Nile banks dry",
-          "link": "https://www.africanews.com/2026/08/22/sudan-farms-lie-barren-as-el-nino-leaves-nile-banks-dry/",
-          "source": "africanews.com",
-          "pubDate": "2026-08-22T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan farms lie barren as El Nino leaves Nile banks dry"
-        },
-        {
-          "title": "Sudan farms lie barren as El Nino dries up Nile banks",
-          "link": "https://www.freemalaysiatoday.com/category/world/2026/08/22/sudan-farms-lie-barren-as-el-nino-leaves-nile-banks-dry",
-          "source": "freemalaysiatoday.com",
-          "pubDate": "2026-08-22T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan farms lie barren as El Nino dries up Nile banks"
-        },
-        {
-          "title": "Sudan Farms Lie Barren as El Nino Leaves Nile Banks Dry",
-          "link": "https://english.aawsat.com/arab-world/5309769-sudan-farms-lie-barren-el-nino-leaves-nile-banks-dry",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-08-22T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan Farms Lie Barren as El Nino Leaves Nile Banks Dry"
         }
       ]
     }
