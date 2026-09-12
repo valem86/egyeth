@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-09-12T07:13:20.533Z",
+  "generatedAt": "2026-09-12T12:13:45.733Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somalia Parliament Speaker Warns Against Disinformation Targeting Ties With Türkiye",
+          "link": "https://allafrica.com/stories/202609110506.html",
+          "description": "[Shabelle] Mogadishu -- Somalia's parliamentary speaker, Abdulqadir Mohamed Nur Jama, has called for stronger efforts to protect the country's strategic partnership with Türkiye from misinformation and other threats to bilateral cooperation.",
+          "pubDate": "Fri, 11 Sep 2026 15:53:59 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia Parliament Speaker Warns Against Disinformation Targeting Ties With Türkiye"
+        },
         {
           "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
           "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
@@ -176,30 +185,12 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
-        },
-        {
-          "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
-          "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
-          "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
-          "pubDate": "Tuesday, June 30, 2026 - 15:20",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Kenya: AI Plot to Divide Opposition Ahead of 2027 Exposed",
-          "link": "https://allafrica.com/stories/202609110160.html",
-          "description": "[Capital FM] Nairobi -- An artificial intelligence-driven influence operation targeted former President Uhuru Kenyatta and former Deputy President Rigathi Gachagua while promoting Energy Cabinet Secretary Opiyo Wandayi in a covert social media campaign ahead of Kenya's 2027 General Election, according to a threat intelligence report by global AI firm Anthropic.",
-          "pubDate": "Fri, 11 Sep 2026 09:36:27 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: AI Plot to Divide Opposition Ahead of 2027 Exposed"
-        },
         {
           "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
           "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
@@ -296,139 +287,184 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Business news: Georgia, porto di Poti a limite capacita', Apm Terminals punta a ripresa negoziati su ampliamento",
-          "link": "https://www.agenzianova.com/a/6aa4faa52f85d5.67821077/7764012/2026-09-12/business-news-georgia-porto-di-poti-a-limite-capacita-apm-terminals-punta-a-ripresa-negoziati-su-ampliamento",
-          "description": "12 set 07:00 - (Agenzia Nova) - Apm Terminals intende tornare entro la fine del 2026 al tavolo dei negoziati con il governo georgiano per definire... (Rum)",
-          "pubDate": "2026-09-12T07:00:00+02:00",
+          "title": "Irlanda: Downing Street su parole di Trump, Regno Unito si atterra' ad Accordo del Venerdi' Santo",
+          "link": "https://www.agenzianova.com/a/6aa5418e717b51.18357756/7771299/2026-09-12/irlanda-downing-street-su-parole-di-trump-regno-unito-si-atterra-ad-accordo-del-venerdi-santo",
+          "description": "12 set 14:10 - (Agenzia Nova) - Il Regno Unito \"si atterra' al 100 per cento\" all'Accordo del Venerdi' Santo. Lo ha fatto sapere un portavoce... (Rel)",
+          "pubDate": "2026-09-12T14:10:49+02:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Business news: Georgia, porto di Poti a limite capacita', Apm Terminals punta a ripresa negoziati su ampliamento"
+          "titleIt": "Irlanda: Downing Street su parole di Trump, Regno Unito si atterra' ad Accordo del Venerdi' Santo"
         },
         {
-          "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-          "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-          "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-          "pubDate": "Fri, 11 Sep 2026 22:17:45 GMT",
-          "source": "BBC World",
+          "title": "BRICS to agree on joint declaration at New Delhi summit",
+          "link": "https://www.queanbeyanage.com.au/story/9348964/brics-to-agree-on-joint-declaration-at-new-delhi-summit/",
+          "source": "queanbeyanage.com.au",
+          "pubDate": "2026-09-12T11:45:00Z",
           "lang": "en",
-          "titleIt": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane"
+          "description": "",
+          "titleIt": "BRICS to agree on joint declaration at New Delhi summit"
         },
         {
-          "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-          "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-          "description": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
-          "pubDate": "Fri, 11 Sep 2026 19:44:58 GMT",
-          "source": "BBC World",
+          "title": "POINT : Post - 9 / 11 lessons We overlooked festering geostrategic issues",
+          "link": "https://www.wyomingnews.com/rawlinstimes/opinion/guest_column/point-post-9-11-lessons-we-overlooked-festering-geostrategic-issues/article_1e28c6f4-04c3-4395-9fb8-1af17cb3c1f8.html",
+          "source": "wyomingnews.com",
+          "pubDate": "2026-09-12T11:30:00Z",
           "lang": "en",
-          "titleIt": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war"
+          "description": "",
+          "titleIt": "POINT : Post - 9 / 11 lessons We overlooked festering geostrategic issues"
         },
         {
-          "title": "Gambia: Assembly Committee Warns Marine Protected Areas Face Illegal Fishing & Weak Oversight",
-          "link": "https://allafrica.com/stories/202609110554.html",
-          "description": "[Foroyaa] The National Assembly's Select Committee on Environment, Sustainable Development and NGO Affairs has warned that weak enforcement, inadequate funding, institutional conflicts and illegal activities are undermining the management of coastal and marine protected areas of the country.",
-          "pubDate": "Fri, 11 Sep 2026 16:07:02 GMT",
-          "source": "AllAfrica",
+          "title": "BRICS to agree on joint declaration at New Delhi summit",
+          "link": "https://www.illawarramercury.com.au/story/9348964/brics-to-agree-on-joint-declaration-at-new-delhi-summit/",
+          "source": "illawarramercury.com.au",
+          "pubDate": "2026-09-12T11:30:00Z",
           "lang": "en",
-          "titleIt": "Gambia: Assembly Committee Warns Marine Protected Areas Face Illegal Fishing & Weak Oversight"
+          "description": "",
+          "titleIt": "BRICS to agree on joint declaration at New Delhi summit"
         },
         {
-          "title": "Africa: NACC Welcomes AGOA Extension to 2028, Calls for Swift Action By Nigeria, Africa",
-          "link": "https://allafrica.com/stories/202609110270.html",
-          "description": "[Vanguard] The Nigerian-American Chamber of Commerce, NACC, has welcomed the signing by United States President Donald Trump of the Continuing Appropriations and Extensions Act, 2027, which extends the African Growth and Opportunity Act, AGOA, through December 31, 2028.",
-          "pubDate": "Fri, 11 Sep 2026 11:15:59 GMT",
-          "source": "AllAfrica",
+          "title": "BRICS Agrees On Joint Declaration Ahead Of New Delhi Summit , Leaders Set To Give Final Nod",
+          "link": "https://www.freepressjournal.in/india/brics-agrees-on-joint-declaration-ahead-of-new-delhi-summit-leaders-set-to-give-final-nod",
+          "source": "freepressjournal.in",
+          "pubDate": "2026-09-12T11:30:00Z",
           "lang": "en",
-          "titleIt": "Africa: NACC Welcomes AGOA Extension to 2028, Calls for Swift Action By Nigeria, Africa"
+          "description": "",
+          "titleIt": "BRICS Agrees On Joint Declaration Ahead Of New Delhi Summit , Leaders Set To Give Final Nod"
         },
         {
-          "title": "Africa: African Development Bank Group and African Forum of Deposit Funds Enter Into New Alliance to Mobilize More Long-Term Financing",
-          "link": "https://allafrica.com/stories/202609100691.html",
-          "description": "[African Development Bank (AfDB)] The African Development Bank Group and the members of the African Forum of Deposit Funds have agreed to strengthen their cooperation to mobilise more long-term financing for the continent's sustainable development. Through this strategic alliance, they aim to support productive investment, strengthen the continent's economic resilience and contribute to more inclusive growth.",
-          "pubDate": "Thu, 10 Sep 2026 21:41:29 GMT",
-          "source": "AllAfrica",
+          "title": "BRICS leaders adopt New Delhi declaration , voice concerns over  unilateral  tariffs and non - tariff trade barriers",
+          "link": "https://economictimes.indiatimes.com/news/india/brics-leaders-adopt-joint-declaration-as-bloc-seeks-unity-on-middle-east-conflict/articleshow/134125827.cms",
+          "source": "economictimes.indiatimes.com",
+          "pubDate": "2026-09-12T11:30:00Z",
           "lang": "en",
-          "titleIt": "Africa: African Development Bank Group and African Forum of Deposit Funds Enter Into New Alliance to Mobilize More Long-Term Financing"
+          "description": "",
+          "titleIt": "BRICS leaders adopt New Delhi declaration , voice concerns over  unilateral  tariffs and non - tariff trade barriers"
         },
         {
-          "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
-          "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
-          "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
-          "pubDate": "Thu, 10 Sep 2026 22:33:24 +0300",
-          "source": "Horn Observer",
+          "title": "BRICS Summit unanimously adopts  New Delhi Declaration , stresses need to engage in conflict prevention",
+          "link": "https://aninews.in/news/world/asia/brics-summit-unanimously-adopts-new-delhi-declaration-stresses-need-to-engage-in-conflict-prevention20260912162937/",
+          "source": "aninews.in",
+          "pubDate": "2026-09-12T11:30:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
+          "description": "",
+          "titleIt": "BRICS Summit unanimously adopts  New Delhi Declaration , stresses need to engage in conflict prevention"
         },
         {
-          "title": "Finding a path to peace: Nigeria’s long, faltering history of dialogue with Boko Haram",
-          "link": "https://www.thenewhumanitarian.org/analysis/2026/09/09/finding-path-peace-nigerias-long-faltering-history-dialogue-boko-haram",
-          "description": "Could a reported ceasefire in the Boko Haram conflict be the beginning of a broader settlement?",
-          "pubDate": "Wed, 09 Sep 26 15:10:03 +0000",
-          "source": "The New Humanitarian",
+          "title": "Exclusive : UAE pursuing  port imperialism  across Africa , Eritrean foreign minister says",
+          "link": "https://www.middleeasteye.net/news/exclusive-eritrea-foreign-minister-says-uae-pursuing-port-imperialism-across-africa",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-09-12T11:15:00Z",
           "lang": "en",
-          "titleIt": "Finding a path to peace: Nigeria’s long, faltering history of dialogue with Boko Haram"
+          "description": "",
+          "titleIt": "Exclusive : UAE pursuing  port imperialism  across Africa , Eritrean foreign minister says"
         },
         {
-          "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
-          "link": "https://hornobserver.com/articles/3731/Somali-journalist-Bashir-Mohamed-Abdullahi-dies-after-being-shot-during-Baidoa-clashes",
-          "description": "MOGADISHU, Somalia 7 September 2026 – The Somali Journalists Syndicate (SJS) expresses its deepest condolences over the death of journalist Bashir Mohamed Abdullahi, also known as Bashir Moalin, a reporter with the local Arlaadi Media Network, who succumbed to gunshot injuries sustained during armed clashes in Baidoa on Thursday, 3 September 2026. He becomes the second journalist killed in Somalia this year. Early on Monday, 7 September 2026, Bashir, 28, died from critical injuries he sustained while seeking shelter during armed clashes in Baidoa, Southwest State, his family told SJS. Accordin",
-          "pubDate": "Mon, 07 Sep 2026 13:49:29 +0300",
-          "source": "Horn Observer",
+          "title": "BRICS to agree on joint declaration at New Delhi summit",
+          "link": "https://www.goulburnpost.com.au/story/9348964/brics-to-agree-on-joint-declaration-at-new-delhi-summit/",
+          "source": "goulburnpost.com.au",
+          "pubDate": "2026-09-12T11:00:00Z",
           "lang": "en",
-          "titleIt": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes"
+          "description": "",
+          "titleIt": "BRICS to agree on joint declaration at New Delhi summit"
         },
         {
-          "title": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow",
-          "link": "https://hornobserver.com/articles/3729/Protests-Erupt-in-Somalias-Gedo-Region-Over-Alleged-Turkish-Strikes-in-Doolow",
-          "description": "In Doolow, protesters accused Turkey of becoming involved in Somalia's political and clan disputes and expressed anger over the reported attack on General Shub's residence. Demonstrators chanted slogans critical of the federal government led by President Hassan Sheikh Mohamud and called for those responsible to be identified and held accountable. The residence of General Shub was reportedly targeted in an overnight attack involving a drone. General Shub and members of his family were reportedly inside the house at the time and sustained minor injuries. The Somali federal government has rejecte",
-          "pubDate": "Sat, 05 Sep 2026 22:24:29 +0300",
-          "source": "Horn Observer",
+          "title": "BRICS to agree on joint declaration at New Delhi summit",
+          "link": "https://www.canberratimes.com.au/story/9348964/brics-to-agree-on-joint-declaration-at-new-delhi-summit/",
+          "source": "canberratimes.com.au",
+          "pubDate": "2026-09-12T11:00:00Z",
           "lang": "en",
-          "titleIt": "Protests Erupt in Somalia's Gedo Region Over Alleged Turkish Strikes in Doolow"
+          "description": "",
+          "titleIt": "BRICS to agree on joint declaration at New Delhi summit"
         },
         {
-          "title": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army",
-          "link": "https://hornobserver.com/articles/3725/Somalia-How-Mogadishu-Removes-a-Regional-President-It-Costs-Cash-or-It-Costs-an-Army",
-          "description": "An investigation into South West State, Hirshabelle, and Galmudug found that federal governments — Farmaajo's and now Hassan Sheikh Mohamud's — have used two tools to control who governs the regions. The first is cash. The second, used once so far, is force. The First Payment In 2018, South West State's president, Sharif Hassan Sheikh Aden, stood in the way of Mogadishu's plans. He had a strong clan base and his own political network. He was not easy to remove. So Mogadishu paid him. According to sources with direct knowledge of the negotiations, Sharif Hassan received about two million US dol",
-          "pubDate": "Thu, 03 Sep 2026 15:54:42 +0300",
-          "source": "Horn Observer",
+          "title": "BRICS summit begins in Delhi with Modi , Putin , Xi present",
+          "link": "https://dailypioneer.com/news/brics-summit-new-delhi-modi-world-leaders",
+          "source": "dailypioneer.com",
+          "pubDate": "2026-09-12T10:30:00Z",
           "lang": "en",
-          "titleIt": "Somalia: How Mogadishu Removes a Regional President. It Costs Cash, or It Costs an Army"
+          "description": "",
+          "titleIt": "BRICS summit begins in Delhi with Modi , Putin , Xi present"
         },
         {
-          "title": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia",
-          "link": "https://hornobserver.com/articles/3723/The-Copyright-Trap-How-fake-claims-are-silencing-independent-media-and-journalists-in-Somalia",
-          "description": "Journalists, editors and media managers told SJS that the attacks intensified early this year amid opposition protests in Mogadishu and escalating tensions between the Federal Government and Southwest State, as well as the continuing political rift with Puntland. The attacks are contributing to a shrinking space for independent reporting across the country. With Facebook serving as the primary news and communication platform for most Somali journalists and the general public, the copyright strikes, removals and account restrictions have significantly limited journalists' ability to report and ",
-          "pubDate": "Tue, 01 Sep 2026 07:25:00 +0300",
-          "source": "Horn Observer",
+          "title": "China weather services power smarter decisions , global cooperation",
+          "link": "http://www.vietnamtribune.com/news/279302384/china-weather-services-power-smarter-decisions-global-cooperation",
+          "source": "vietnamtribune.com",
+          "pubDate": "2026-09-12T10:00:00Z",
           "lang": "en",
-          "titleIt": "The Copyright Trap: How fake claims are silencing independent media and journalists in Somalia"
+          "description": "",
+          "titleIt": "China weather services power smarter decisions , global cooperation"
         },
         {
-          "title": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him",
-          "link": "https://hornobserver.com/articles/3721/Somalia-The-Killer-Who-Was-Also-a-Journalist-And-the-Method-That-Didnt-Die-With-Him",
-          "description": "Hanafi did more than report on al-Shabaab. He became the group´s eyes inside Somalia's newsrooms. He picked out which journalists to threaten, which ones to trap, and which ones to have killed. A military court found him responsible for the deaths of five journalists between 2007 and 2010, including HornAfrik co-founder Ali Iimaan Sharma'arke and Radio Mogadishu´s Sheikh Nur Mohamed Abkey. Abkey was the only one Hanafi admitted to killing with his own hands. His method was simple. As al-Shabaab´s head of press monitoring, he tracked which journalists criticized the group or spoke well of the g",
-          "pubDate": "Thu, 27 Aug 2026 19:43:58 +0300",
-          "source": "Horn Observer",
+          "title": "BRICS to agree on joint declaration at New Delhi summit",
+          "link": "https://www.centralwesterndaily.com.au/story/9348964/brics-to-agree-on-joint-declaration-at-new-delhi-summit/",
+          "source": "centralwesterndaily.com.au",
+          "pubDate": "2026-09-12T09:45:00Z",
           "lang": "en",
-          "titleIt": "Somalia: The Killer Who Was Also a Journalist — And the Method That Didn't Die With Him"
+          "description": "",
+          "titleIt": "BRICS to agree on joint declaration at New Delhi summit"
         },
         {
-          "title": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won",
-          "link": "https://hornobserver.com/articles/3716/Laftagareens-Forces-Attack-Baidoa-Reviving-the-Fight-Somalia-Thought-It-Had-Won",
-          "description": "Residents reported heavy gunfire and explosions in the Towfiiq neighborhood. Fighting broke out around 5 a.m. Somalia's Ministry of Defense said the assault involved vehicles packed with explosives. It described the attacking force as a mix of Al-Shabaab militants and militias loyal to Laftagareen — using the term \"Khawaarij,\" the standard Somali term for Al-Shabaab, to describe them. The ministry said its forces repelled the attack and killed at least 30 of the assailants. Laftagareen's side told a different story. His spokesperson, Hassan Mohamed, said in a statement that Laftagareen's force",
-          "pubDate": "Thu, 20 Aug 2026 15:58:57 +0300",
-          "source": "Horn Observer",
+          "title": "UAE seeks to strengthen East - West links through Brics , says senior official",
+          "link": "https://www.thenationalnews.com/news/uae/2026/09/12/uae-seeks-to-strengthen-east-west-links-through-brics-says-senior-official/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-09-12T09:30:00Z",
           "lang": "en",
-          "titleIt": "Laftagareen's Forces Attack Baidoa, Reviving the Fight Somalia Thought It Had Won"
+          "description": "",
+          "titleIt": "UAE seeks to strengthen East - West links through Brics , says senior official"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "BRICS meets in India : What on the agenda , why it matters - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/brics-meets-in-india-whats-on-the-agenda-why-it-matters/",
+          "source": "dominicanrepublicpost.com",
+          "pubDate": "2026-09-12T09:15:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "BRICS meets in India : What on the agenda , why it matters - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
+        },
+        {
+          "title": "Taking old friendship into new frontiers : PM Modi discusses defence , critical minerals with Ethiopian PM , hails India - Africa ties",
+          "link": "https://aninews.in/news/world/asia/taking-old-friendship-into-new-frontiers-pm-modi-discusses-defence-critical-minerals-with-ethiopian-pm-hails-india-africa-ties20260912134220/",
+          "source": "aninews.in",
+          "pubDate": "2026-09-12T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Taking old friendship into new frontiers : PM Modi discusses defence , critical minerals with Ethiopian PM , hails India - Africa ties"
+        },
+        {
+          "title": "PM Modi , Vietnam counterpart Hung discuss bilateral ties , regional and global issues of importance ( Lead )",
+          "link": "https://ianslive.in/pm-modi-vietnam-counterpart-hung-discuss-bilateral-ties-regional-and-global-issues-of-importance-lead--20260912130529",
+          "source": "ianslive.in",
+          "pubDate": "2026-09-12T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "PM Modi , Vietnam counterpart Hung discuss bilateral ties , regional and global issues of importance ( Lead )"
+        },
+        {
+          "title": "PM Modi , Vietnam counterpart Le Minh Hung hold talks on BRICS Summit sidelines",
+          "link": "https://ianslive.in/pm-modi-vietnam-counterpart-le-minh-hung-hold-talks-on-brics-summit-sidelines--20260912124530",
+          "source": "ianslive.in",
+          "pubDate": "2026-09-12T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "PM Modi , Vietnam counterpart Le Minh Hung hold talks on BRICS Summit sidelines"
+        },
+        {
+          "title": "Manipulating Perspectives : Prosperity Party Latest Repackaging of  Deflection  – Eritrea Ministry Of Information",
+          "link": "https://shabait.com/2026/09/12/manipulating-perspectives-prosperity-partys-latest-repackaging-of-deflection/",
+          "source": "shabait.com",
+          "pubDate": "2026-09-12T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Manipulating Perspectives : Prosperity Party Latest Repackaging of  Deflection  – Eritrea Ministry Of Information"
+        },
+        {
+          "title": "China weather services power smarter decisions , global cooperation",
+          "link": "http://www.laosnews.net/news/279302384/china-weather-services-power-smarter-decisions-global-cooperation",
+          "source": "laosnews.net",
+          "pubDate": "2026-09-12T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China weather services power smarter decisions , global cooperation"
         }
       ]
     },
