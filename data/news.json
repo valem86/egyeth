@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-09-14T23:11:37.695Z",
+  "generatedAt": "2026-09-15T04:59:32.756Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: Somali Army Land Forces Chief Inspects Frontline Positions in Baidoa",
-          "link": "https://allafrica.com/stories/202609140654.html",
-          "description": "[Shabelle] Baidoa -- The commander of the Somali National Army's land forces, Brigadier General Sahal Abdullahi Omar, inspected frontline military positions in Baidoa during an official visit to the interim capital of South West State, the army said.",
-          "pubDate": "Mon, 14 Sep 2026 15:18:51 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somali Army Land Forces Chief Inspects Frontline Positions in Baidoa"
-        },
         {
           "title": "Spike in online attacks silence Somali journalists in the midst of China and Turkey strategic communications partnership with Somalia",
           "link": "https://hornobserver.com/articles/3743/Spike-in-online-attacks-silence-Somali-journalists-in-the-midst-of-China-and-Turkey-strategic-communications-partnership-with-Somalia",
@@ -192,6 +183,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Africa: When Protecting Local Traders Turns Foreigners Into Targets",
+          "link": "https://allafrica.com/stories/202609150004.html",
+          "description": "[African Arguments] On Dennis Pritt Road in Nairobi's Kilimani district, long queues formed outside the Burundian embassy on 7 September. People were waiting for laissez-passers, temporary travel documents enabling them to return home without valid passports. The embassy had offered to issue them free of charge. Early social-media reports also referred to Congolese nationals preparing to leave Kenya. None of those in line had necessarily received an individual deportation order. They were responding to something less formal",
+          "pubDate": "Tue, 15 Sep 2026 04:35:51 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: When Protecting Local Traders Turns Foreigners Into Targets"
+        },
+        {
           "title": "Spike in online attacks silence Somali journalists in the midst of China and Turkey strategic communications partnership with Somalia",
           "link": "https://hornobserver.com/articles/3743/Spike-in-online-attacks-silence-Somali-journalists-in-the-midst-of-China-and-Turkey-strategic-communications-partnership-with-Somalia",
           "description": "On Sunday, 13 September, at least three journalists and three media outlets reported they were affected by a fake memorialization campaign, account suspensions and content removals, leaving their platforms inaccessible to their audiences. According to exiled journalist Zakariye Mohamud Timacadde, his Facebook page, Zakariye Timacadde which has more than one million followers, was suspended around midnight on Sunday. He said he did not receive any notification or explanation from Meta, the parent company of Facebook. In his recent reporting, Zakariye published stories on forced evictions in Mog",
@@ -228,78 +228,6 @@
           "titleIt": "Somalia: Blood, Blades, and Broken Streets: Inside the Terror Colonizing Mogadishu"
         },
         {
-          "title": "Exclusive : UAE pursuing  port imperialism  across Africa , Eritrean foreign minister says",
-          "link": "https://www.middleeasteye.net/news/exclusive-eritrea-foreign-minister-says-uae-pursuing-port-imperialism-across-africa",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-09-12T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Exclusive : UAE pursuing  port imperialism  across Africa , Eritrean foreign minister says"
-        },
-        {
-          "title": "Somaliland Opposition Condemns Cirro Gaza Troop Proposal as Political Backlash Grows",
-          "link": "https://wardheernews.com/somaliland-opposition-condemns-cirros-gaza-troop-proposal-as-political-backlash-grows/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-09-12T01:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Opposition Condemns Cirro Gaza Troop Proposal as Political Backlash Grows"
-        },
-        {
-          "title": "Israel Backs Ethiopia Bid for Red Sea Access , Raising New Regional Questions",
-          "link": "https://wardheernews.com/israel-backs-ethiopias-bid-for-red-sea-access-raising-new-regional-questions/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-09-12T01:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Backs Ethiopia Bid for Red Sea Access , Raising New Regional Questions"
-        },
-        {
-          "title": "Right - hand - man  son of genocidal Somali dictator who killed 200 , 000 found living in Ohio , linked to $1 . 8M Medicare firm",
-          "link": "https://nypost.com/2026/09/11/world-news/right-hand-man-son-of-genocidal-somali-dictator-who-killed-200000-found-living-in-ohio-linked-to-1-8m-medicare-firm/",
-          "source": "nypost.com",
-          "pubDate": "2026-09-11T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Right - hand - man  son of genocidal Somali dictator who killed 200 , 000 found living in Ohio , linked to $1 . 8M Medicare firm"
-        },
-        {
-          "title": "Israel election raises hopes and fears across the Arab world",
-          "link": "https://www.ynetnews.com/opinions-analysis/article/sywtqpxtme",
-          "source": "ynetnews.com",
-          "pubDate": "2026-09-11T02:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel election raises hopes and fears across the Arab world"
-        },
-        {
-          "title": "Algeria cuts diplomatic ties with UAE : What we know - Grenada Chronicle – Daily Grenada And Caribbean News",
-          "link": "https://grenadachronicle.com/algeria-cuts-diplomatic-ties-with-uae-what-we-know/",
-          "source": "grenadachronicle.com",
-          "pubDate": "2026-09-10T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Algeria cuts diplomatic ties with UAE : What we know - Grenada Chronicle – Daily Grenada And Caribbean News"
-        },
-        {
-          "title": "GAZA FORCE : Somaliland Ready To Send 2 , 000 Soldiers To International Stabilization Mission",
-          "link": "https://www.theyeshivaworld.com/news/israel-news/2596839/gaza-force-somaliland-ready-to-send-2000-soldiers-to-international-stabilization-mission.html",
-          "source": "theyeshivaworld.com",
-          "pubDate": "2026-09-10T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "GAZA FORCE : Somaliland Ready To Send 2 , 000 Soldiers To International Stabilization Mission"
-        },
-        {
-          "title": "Algeria cuts diplomatic ties with UAE : What we know",
-          "link": "https://www.aljazeera.com/news/2026/9/10/algeria-cuts-diplomatic-ties-with-uae-what-we-know",
-          "source": "aljazeera.com",
-          "pubDate": "2026-09-10T21:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Algeria cuts diplomatic ties with UAE : What we know"
-        },
-        {
           "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
           "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
           "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
@@ -307,42 +235,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
-        },
-        {
-          "title": "Somaliland Says Ready to Send Troops to Gaza if Trump , Netanyahu Request",
-          "link": "https://www.garoweonline.com/en/news/somalia/somaliland-says-ready-to-send-troops-to-gaza-if-trump-netanyahu-request",
-          "source": "garoweonline.com",
-          "pubDate": "2026-09-10T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Says Ready to Send Troops to Gaza if Trump , Netanyahu Request"
-        },
-        {
-          "title": "Somalia : Somaliland Ready to Contribute Up to 2 , 000 Troops to Gaza Stabilisation Force , President Says",
-          "link": "https://allafrica.com/stories/202609100182.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-10T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland Ready to Contribute Up to 2 , 000 Troops to Gaza Stabilisation Force , President Says"
-        },
-        {
-          "title": "Somalia : Somaliland Denies Talks On Israeli Operations Against Houthis",
-          "link": "https://allafrica.com/stories/202609100181.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-10T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland Denies Talks On Israeli Operations Against Houthis"
-        },
-        {
-          "title": "Somaliland willing to send up to 2 , 000 troops to Gaza force , president says",
-          "link": "http://www.jpost.com/middle-east/article-908185",
-          "source": "jpost.com",
-          "pubDate": "2026-09-10T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland willing to send up to 2 , 000 troops to Gaza force , president says"
         },
         {
           "title": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro",
@@ -352,74 +244,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro"
-        },
-        {
-          "title": "The Global South Needs a New Economic Development Model",
-          "link": "https://foreignpolicy.com/2026/09/09/economic-development-global-south-over-growth-globalization-jobs-population-demographics-labor-force/?tpcc=recirc_trending062921",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-09-09T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Global South Needs a New Economic Development Model"
-        },
-        {
-          "title": "The Global South Needs a New Economic Development Model",
-          "link": "https://foreignpolicy.com/2026/09/09/economic-development-global-south-over-growth-globalization-jobs-population-demographics-labor-force/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-09-09T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Global South Needs a New Economic Development Model"
-        }
-      ]
-    },
-    "ethiopia-sea-access": {
-      "title": "Accesso etiope al mare",
-      "items": [
-        {
-          "title": "Spike in online attacks silence Somali journalists in the midst of China and Turkey strategic communications partnership with Somalia",
-          "link": "https://hornobserver.com/articles/3743/Spike-in-online-attacks-silence-Somali-journalists-in-the-midst-of-China-and-Turkey-strategic-communications-partnership-with-Somalia",
-          "description": "On Sunday, 13 September, at least three journalists and three media outlets reported they were affected by a fake memorialization campaign, account suspensions and content removals, leaving their platforms inaccessible to their audiences. According to exiled journalist Zakariye Mohamud Timacadde, his Facebook page, Zakariye Timacadde which has more than one million followers, was suspended around midnight on Sunday. He said he did not receive any notification or explanation from Meta, the parent company of Facebook. In his recent reporting, Zakariye published stories on forced evictions in Mog",
-          "pubDate": "Mon, 14 Sep 2026 17:37:21 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Spike in online attacks silence Somali journalists in the midst of China and Turkey strategic communications partnership with Somalia"
-        },
-        {
-          "title": "South Sudan: Unicef Reaches Communities Cut Off By Conflict in Jonglei State",
-          "link": "https://allafrica.com/stories/202609140427.html",
-          "description": "[UN News] The UN Children's Fund (UNICEF) and partners have delivered lifesaving assistance to families in conflict-affected communities in South Sudan's Jonglei state, many of whom had gone months without humanitarian support.",
-          "pubDate": "Mon, 14 Sep 2026 12:06:05 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "South Sudan: Unicef Reaches Communities Cut Off By Conflict in Jonglei State"
-        },
-        {
-          "title": "Zebre Parma in Dublin: Embassy Promotes Sports and Agri-Food Excellence",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/13/zebre-parma-in-dublin-embassy-promotes-sports-and-agri-food-excellence_62973346-c46c-484d-9ac2-0f6c33b88a50.html",
-          "description": "(ANSA) - LONDRA, 13 SET - Sports, diplomacy, and Italian agri-food excellence in Dublin, where the “Zebre Parma Business Tour” event brought together “Made in Italy” and top-tier rugby over the weekend. This “strategic initiative that combines sports diplomacy with the promotion of the Italian peninsula’s culinary and wine excellence”—as stated in a press release from the Italian Embassy in Ireland—was hosted by the Italian Cultural Institute in the Irish capital. The event, promoted by the Zebre Parma rugby franchise and organized by the ICE Agency (ITA) with the support of the Embassy and th",
-          "pubDate": "Sun, 13 Sep 2026 21:53:49 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Zebre Parma in Dublin: Embassy Promotes Sports and Agri-Food Excellence"
-        },
-        {
-          "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
-          "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
-          "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
-          "pubDate": "Thu, 10 Sep 2026 22:33:24 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
-        },
-        {
-          "title": "Finding a path to peace: Nigeria’s long, faltering history of dialogue with Boko Haram",
-          "link": "https://www.thenewhumanitarian.org/analysis/2026/09/09/finding-path-peace-nigerias-long-faltering-history-dialogue-boko-haram",
-          "description": "Could a reported ceasefire in the Boko Haram conflict be the beginning of a broader settlement?",
-          "pubDate": "Wed, 09 Sep 26 15:10:03 +0000",
-          "source": "The New Humanitarian",
-          "lang": "en",
-          "titleIt": "Finding a path to peace: Nigeria’s long, faltering history of dialogue with Boko Haram"
         },
         {
           "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
@@ -465,6 +289,191 @@
           "source": "Crisis Group",
           "lang": "en",
           "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+        }
+      ]
+    },
+    "ethiopia-sea-access": {
+      "title": "Accesso etiope al mare",
+      "items": [
+        {
+          "title": "Cina: oggi il Forum Xiangshan sulla sicurezza tra tensioni su Taiwan e Mar Cinese Meridionale (3)",
+          "link": "https://www.agenzianova.com/a/6aa8d0b112bdf4.08619617/7776110/2026-09-15/cina-oggi-il-forum-xiangshan-sulla-sicurezza-tra-tensioni-su-taiwan-e-mar-cinese-meridionale-3",
+          "description": "15 set 05:44 - (Agenzia Nova) - Il forum offrira' alle delegazioni straniere anche l'opportunita' di valutare l'impatto delle epurazioni condotte... (Cip)",
+          "pubDate": "2026-09-15T05:44:02+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Cina: oggi il Forum Xiangshan sulla sicurezza tra tensioni su Taiwan e Mar Cinese Meridionale (3)"
+        },
+        {
+          "title": "Spike in online attacks silence Somali journalists in the midst of China and Turkey strategic communications partnership with Somalia",
+          "link": "https://hornobserver.com/articles/3743/Spike-in-online-attacks-silence-Somali-journalists-in-the-midst-of-China-and-Turkey-strategic-communications-partnership-with-Somalia",
+          "description": "On Sunday, 13 September, at least three journalists and three media outlets reported they were affected by a fake memorialization campaign, account suspensions and content removals, leaving their platforms inaccessible to their audiences. According to exiled journalist Zakariye Mohamud Timacadde, his Facebook page, Zakariye Timacadde which has more than one million followers, was suspended around midnight on Sunday. He said he did not receive any notification or explanation from Meta, the parent company of Facebook. In his recent reporting, Zakariye published stories on forced evictions in Mog",
+          "pubDate": "Mon, 14 Sep 2026 17:37:21 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Spike in online attacks silence Somali journalists in the midst of China and Turkey strategic communications partnership with Somalia"
+        },
+        {
+          "title": "South Sudan: Unicef Reaches Communities Cut Off By Conflict in Jonglei State",
+          "link": "https://allafrica.com/stories/202609140427.html",
+          "description": "[UN News] The UN Children's Fund (UNICEF) and partners have delivered lifesaving assistance to families in conflict-affected communities in South Sudan's Jonglei state, many of whom had gone months without humanitarian support.",
+          "pubDate": "Mon, 14 Sep 2026 12:06:05 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "South Sudan: Unicef Reaches Communities Cut Off By Conflict in Jonglei State"
+        },
+        {
+          "title": "Zebre Parma in Dublin: Embassy Promotes Sports and Agri-Food Excellence",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/13/zebre-parma-in-dublin-embassy-promotes-sports-and-agri-food-excellence_62973346-c46c-484d-9ac2-0f6c33b88a50.html",
+          "description": "(ANSA) - LONDRA, 13 SET - Sports, diplomacy, and Italian agri-food excellence in Dublin, where the “Zebre Parma Business Tour” event brought together “Made in Italy” and top-tier rugby over the weekend. This “strategic initiative that combines sports diplomacy with the promotion of the Italian peninsula’s culinary and wine excellence”—as stated in a press release from the Italian Embassy in Ireland—was hosted by the Italian Cultural Institute in the Irish capital. The event, promoted by the Zebre Parma rugby franchise and organized by the ICE Agency (ITA) with the support of the Embassy and th",
+          "pubDate": "Sun, 13 Sep 2026 21:53:49 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Zebre Parma in Dublin: Embassy Promotes Sports and Agri-Food Excellence"
+        },
+        {
+          "title": "One Reportedly Killed After Iranian Commercial Vessel Hit Near Qeshm",
+          "link": "http://www.israelherald.com/news/279304278/one-reportedly-killed-after-iranian-commercial-vessel-hit-near-qeshm",
+          "source": "israelherald.com",
+          "pubDate": "2026-09-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "One Reportedly Killed After Iranian Commercial Vessel Hit Near Qeshm"
+        },
+        {
+          "title": "China , Russia , India seek economic cooperation at BRICS - Asia & Pacific",
+          "link": "http://www.thejakartapost.com/world/2026/09/13/china-russia-india-seek-economic-cooperation-at-brics",
+          "source": "thejakartapost.com",
+          "pubDate": "2026-09-13T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China , Russia , India seek economic cooperation at BRICS - Asia & Pacific"
+        },
+        {
+          "title": "About 1 , 400 Yemenis flee to Djibouti within 24 hours",
+          "link": "https://www.yahoo.com/news/world/articles/1-400-yemenis-flee-djibouti-044018085.html",
+          "source": "yahoo.com",
+          "pubDate": "2026-09-13T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "About 1 , 400 Yemenis flee to Djibouti within 24 hours"
+        },
+        {
+          "title": "Ethiopia and Israel : How a shared New Year can renew an ancient partnership",
+          "link": "http://www.jpost.com/opinion/article-908242",
+          "source": "jpost.com",
+          "pubDate": "2026-09-13T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia and Israel : How a shared New Year can renew an ancient partnership"
+        },
+        {
+          "title": "Iran and UAE back joint BRICS statement urging restraint in war",
+          "link": "https://dunyanews.tv/en/World/972624-iran-and-uae-back-joint-brics-statement-urging-restraint-in-war",
+          "source": "dunyanews.tv",
+          "pubDate": "2026-09-13T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran and UAE back joint BRICS statement urging restraint in war"
+        },
+        {
+          "title": "Brunei No . 1 News Website",
+          "link": "https://brudirect.com/post/Saudi-Arabia-shuts-key-oil-pipeline-after-drone-attack-launched-from-Iraq",
+          "source": "brudirect.com",
+          "pubDate": "2026-09-13T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Brunei No . 1 News Website"
+        },
+        {
+          "title": "UAE Crown Prince Meets Putin At BRICS Summit As Bloc Navigates Iran - UAE Divide",
+          "link": "https://www.i24news.tv/en/news/international/artc-uae-s-crown-prince-meets-putin-at-brics-summit-as-bloc-navigates-iran-uae-divide",
+          "source": "i24news.tv",
+          "pubDate": "2026-09-13T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE Crown Prince Meets Putin At BRICS Summit As Bloc Navigates Iran - UAE Divide"
+        },
+        {
+          "title": "The CEO who tells women to think twice before being  nice",
+          "link": "https://www.businessdailyafrica.com/bd/lifestyle/weekend-with-the-ceo/ceo-jacqueline-waihenya-5591954",
+          "source": "businessdailyafrica.com",
+          "pubDate": "2026-09-13T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The CEO who tells women to think twice before being  nice"
+        },
+        {
+          "title": "Column : How BRICS is reshaping the Global South place in the world",
+          "link": "http://www.zimbabwestar.com/news/279303604/column-how-brics-is-reshaping-the-global-south-place-in-the-world",
+          "source": "zimbabwestar.com",
+          "pubDate": "2026-09-13T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Column : How BRICS is reshaping the Global South place in the world"
+        },
+        {
+          "title": "Column : How BRICS is reshaping the Global South place in the world",
+          "link": "http://www.iraqsun.com/news/279303604/column-how-brics-is-reshaping-the-global-south-place-in-the-world",
+          "source": "iraqsun.com",
+          "pubDate": "2026-09-13T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Column : How BRICS is reshaping the Global South place in the world"
+        },
+        {
+          "title": "Column : How BRICS is reshaping the Global South place in the world",
+          "link": "http://www.middleeaststar.com/news/279303604/column-how-brics-is-reshaping-the-global-south-place-in-the-world",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-09-13T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Column : How BRICS is reshaping the Global South place in the world"
+        },
+        {
+          "title": "Column : How BRICS is reshaping the Global South place in the world",
+          "link": "http://www.bignewsnetwork.com/news/279303604/column-how-brics-is-reshaping-the-global-south-place-in-the-world",
+          "source": "bignewsnetwork.com",
+          "pubDate": "2026-09-13T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Column : How BRICS is reshaping the Global South place in the world"
+        },
+        {
+          "title": "BRICS Summit unanimously adopts  New Delhi Declaration , stresses need to engage in conflict prevention",
+          "link": "http://www.africaleader.com/news/279303149/brics-summit-unanimously-adopts-new-delhi-declaration-stresses-need-to-engage-in-conflict-prevention",
+          "source": "africaleader.com",
+          "pubDate": "2026-09-12T23:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Summit unanimously adopts  New Delhi Declaration , stresses need to engage in conflict prevention"
+        },
+        {
+          "title": "PM Modi launches two postage stamps commemorating 20 years of BRICS",
+          "link": "http://www.indiagazette.com/news/279303152/pm-modi-launches-two-postage-stamps-commemorating-20-years-of-brics",
+          "source": "indiagazette.com",
+          "pubDate": "2026-09-12T21:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "PM Modi launches two postage stamps commemorating 20 years of BRICS"
+        },
+        {
+          "title": "Rule - Taker into Rule - Shaper : PM Modi proposes 10 governance reforms for Global South for next BRICS Summit",
+          "link": "http://www.indiagazette.com/news/279303157/rule-taker-into-rule-shaper-pm-modi-proposes-10-governance-reforms-for-global-south-for-next-brics-summit",
+          "source": "indiagazette.com",
+          "pubDate": "2026-09-12T21:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rule - Taker into Rule - Shaper : PM Modi proposes 10 governance reforms for Global South for next BRICS Summit"
+        },
+        {
+          "title": "BRICS Summit unanimously adopts  New Delhi Declaration , stresses need to engage in conflict prevention",
+          "link": "http://www.indiagazette.com/news/279303149/brics-summit-unanimously-adopts-new-delhi-declaration-stresses-need-to-engage-in-conflict-prevention",
+          "source": "indiagazette.com",
+          "pubDate": "2026-09-12T21:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Summit unanimously adopts  New Delhi Declaration , stresses need to engage in conflict prevention"
         }
       ]
     },
@@ -655,7 +664,44 @@
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": []
+      "items": [
+        {
+          "title": "Sudan: Sudan War - Explosions Heard Across Blue Nile Capital Ed Damazin As Drones Strafe City",
+          "link": "https://allafrica.com/stories/202609150009.html",
+          "description": "[Dabanga] Ed Damazin -- Explosions were heard in several parts of Ed Damazin, the capital of Sudan's Blue Nile state, on Sunday night after what sources described as a drone attack on the city. The attack was reportedly carried out using drones by the Rapid Support Forces (RSF) and the Sudan People's Liberation Movement-North (SPLM-N), which controls parts of the state, including Kurmuk and Geissan.",
+          "pubDate": "Tue, 15 Sep 2026 04:37:17 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudan War - Explosions Heard Across Blue Nile Capital Ed Damazin As Drones Strafe City"
+        },
+        {
+          "title": "Sudan: Death Sentences for Women During Sudan's War 'Profound Failure of Justice'",
+          "link": "https://allafrica.com/stories/202609150007.html",
+          "description": "[Dabanga] Amsterdam -- The growing number of harsh sentences handed down to women by courts during Sudan's war, including death sentences*, represents a profound failure of justice, according to Hala Al-Karib, regional director of the Strategic Initiative for Women in the Horn of Africa (SIHA), told Radio Dabanga",
+          "pubDate": "Tue, 15 Sep 2026 04:37:16 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Death Sentences for Women During Sudan's War 'Profound Failure of Justice'"
+        },
+        {
+          "title": "Sudan: North Darfur - Humanitarian Crisis Deepens in Tawila Amid Fresh Wave of Displacement",
+          "link": "https://allafrica.com/stories/202609150008.html",
+          "description": "[Dabanga] Tawila -- A new wave of displaced people fleeing conflict, insecurity, and drought, has arrived in Tawila, in Sudan's North Darfur, with 216 families, or about 1,300 people seeking refuge in an already struggling to provide even the most basic services.",
+          "pubDate": "Tue, 15 Sep 2026 04:37:16 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: North Darfur - Humanitarian Crisis Deepens in Tawila Amid Fresh Wave of Displacement"
+        },
+        {
+          "title": "Sudan: WFP Director Warns Sudan Aid Cuts Could Intensify World's Worst Hunger Crisis",
+          "link": "https://allafrica.com/stories/202609150006.html",
+          "description": "[Dabanga] UN food agency says it may be forced to scale back within weeks as war, displacement and drought leave millions facing acute hunger...",
+          "pubDate": "Tue, 15 Sep 2026 04:37:15 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: WFP Director Warns Sudan Aid Cuts Could Intensify World's Worst Hunger Crisis"
+        }
+      ]
     }
   }
 }
