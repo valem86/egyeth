@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-09-16T13:34:16.750Z",
+  "generatedAt": "2026-09-16T18:14:46.926Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September",
+          "link": "https://hornobserver.com/articles/3750/Highlights-of-the-Month-from-SJS-Monthly-Newsletter-on-Climate-Change-Reporting-August-September",
+          "description": "El Niño Climate Impact Outlook – Somalia – UN OCHA Somalia's El Niño Climate Impact Outlook warns of a credible risk of severe flooding during the October–December 2026 Deyr season, particularly along the Jubba and Shabelle river corridors, if El Niño strengthens alongside a positive Indian Ocean Dipole. While the scenario is not certain, the outlook urges early action to address the combined risks of flooding, drought, extreme heat, disease, food insecurity, displacement, and infrastructure vulnerabilities. It prioritizes stronger early-warning and evacuation systems, flood anticipatory-actio",
+          "pubDate": "Wed, 16 Sep 2026 19:45:09 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September"
+        },
         {
           "title": "Somalia's Federal Member States Aren't Defending Sovereignty — They're Defending Their Patrons - No One in This Fight Is Neutral",
           "link": "https://hornobserver.com/articles/3748/Somalias-Federal-Member-States-Arent-Defending-Sovereignty-Theyre-Defending-Their-Patrons-No-One-in-This-Fight-Is-Neutral",
@@ -133,24 +142,6 @@
           "titleIt": "Switzerland plans deportation of seriously injured Somali citizen"
         },
         {
-          "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
-          "link": "https://hornobserver.com/articles/3731/Somali-journalist-Bashir-Mohamed-Abdullahi-dies-after-being-shot-during-Baidoa-clashes",
-          "description": "MOGADISHU, Somalia 7 September 2026 – The Somali Journalists Syndicate (SJS) expresses its deepest condolences over the death of journalist Bashir Mohamed Abdullahi, also known as Bashir Moalin, a reporter with the local Arlaadi Media Network, who succumbed to gunshot injuries sustained during armed clashes in Baidoa on Thursday, 3 September 2026. He becomes the second journalist killed in Somalia this year. Early on Monday, 7 September 2026, Bashir, 28, died from critical injuries he sustained while seeking shelter during armed clashes in Baidoa, Southwest State, his family told SJS. Accordin",
-          "pubDate": "Mon, 07 Sep 2026 13:49:29 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes"
-        },
-        {
-          "title": "Somalia's Hirshabelle Authorities Step Up Flood Preparedness Ahead of Forecast El Niño Conditions",
-          "link": "https://hornobserver.com/articles/3730/Somalias-Hirshabelle-Authorities-Step-Up-Flood-Preparedness-Ahead-of-Forecast-El-Nino-Conditions",
-          "description": "Commissioner of the Somali Disaster Management Agency Mahamuud Moallim opened the multi-day meeting, which brings together religious scholars, traditional elders, women, youth, civil society organizations, and local and international humanitarian partners. Representatives from the Hiraan Regional Administration, Beledweyne District Administration and the Hirshabelle Ministry of Humanitarian Affairs and Disaster Management are also expected to join the discussions in the coming days. The meeting provides a platform for humanitarian and government actors to review climate forecasts, assess poten",
-          "pubDate": "Mon, 07 Sep 2026 11:31:57 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia's Hirshabelle Authorities Step Up Flood Preparedness Ahead of Forecast El Niño Conditions"
-        },
-        {
           "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
           "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
           "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
@@ -173,6 +164,15 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September",
+          "link": "https://hornobserver.com/articles/3750/Highlights-of-the-Month-from-SJS-Monthly-Newsletter-on-Climate-Change-Reporting-August-September",
+          "description": "El Niño Climate Impact Outlook – Somalia – UN OCHA Somalia's El Niño Climate Impact Outlook warns of a credible risk of severe flooding during the October–December 2026 Deyr season, particularly along the Jubba and Shabelle river corridors, if El Niño strengthens alongside a positive Indian Ocean Dipole. While the scenario is not certain, the outlook urges early action to address the combined risks of flooding, drought, extreme heat, disease, food insecurity, displacement, and infrastructure vulnerabilities. It prioritizes stronger early-warning and evacuation systems, flood anticipatory-actio",
+          "pubDate": "Wed, 16 Sep 2026 19:45:09 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September"
+        },
         {
           "title": "Somalia's Federal Member States Aren't Defending Sovereignty — They're Defending Their Patrons - No One in This Fight Is Neutral",
           "link": "https://hornobserver.com/articles/3748/Somalias-Federal-Member-States-Arent-Defending-Sovereignty-Theyre-Defending-Their-Patrons-No-One-in-This-Fight-Is-Neutral",
@@ -343,21 +343,39 @@
           "lang": "en",
           "description": "",
           "titleIt": "Somalia : Somaliland Ready to Contribute Up to 2 , 000 Troops to Gaza Stabilisation Force , President Says"
-        },
-        {
-          "title": "Somalia : Somaliland Denies Talks On Israeli Operations Against Houthis",
-          "link": "https://allafrica.com/stories/202609100181.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-10T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland Denies Talks On Israeli Operations Against Houthis"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ambassador Davoli Honored by Ecuador’s Judicial Council",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/16/ambassador-davoli-honored-by-ecuadors-judicial-council_8b3a41e4-4cdb-429b-8141-3db05e36f628.html",
+          "description": "(ANSA) - QUITO, 16 SET - The Italian Ambassador to Ecuador, Giovanni Davoli, received a plaque of recognition from the Judicial Council of the South American country. The plaque, presented personally by the Council’s president, Mercedes Caicedo, acknowledges “his strategic and unconditional support for the Ecuadorian judiciary in the fight against corruption and transnational organized crime.” The Ambassador’s commitment, the citation continues, “strengthens the justice system and consolidates our determination to ensure the transparency and efficiency of the rule of law.” The presentation too",
+          "pubDate": "Wed, 16 Sep 2026 18:48:31 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Ambassador Davoli Honored by Ecuador’s Judicial Council"
+        },
+        {
+          "title": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September",
+          "link": "https://hornobserver.com/articles/3750/Highlights-of-the-Month-from-SJS-Monthly-Newsletter-on-Climate-Change-Reporting-August-September",
+          "description": "El Niño Climate Impact Outlook – Somalia – UN OCHA Somalia's El Niño Climate Impact Outlook warns of a credible risk of severe flooding during the October–December 2026 Deyr season, particularly along the Jubba and Shabelle river corridors, if El Niño strengthens alongside a positive Indian Ocean Dipole. While the scenario is not certain, the outlook urges early action to address the combined risks of flooding, drought, extreme heat, disease, food insecurity, displacement, and infrastructure vulnerabilities. It prioritizes stronger early-warning and evacuation systems, flood anticipatory-actio",
+          "pubDate": "Wed, 16 Sep 2026 19:45:09 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September"
+        },
+        {
+          "title": "Italy and Ivory Coast Join Forces for the Training of Public Officials",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/16/italy-and-ivory-coast-join-forces-for-the-training-of-public_1097134c-e377-4afd-afba-1693e725578a.html",
+          "description": "(ANSA) - ROMA, 16 SET - The Italian Ambassador to Côte d’Ivoire, Roberta Di Lecce, participated—along with the Director General of the École Nationale d’Administration (ENA)—in the closing ceremony of the training session organized by ENA and the National School of Administration (SNA). The initiative is part of the Mattei Plan for Africa—of which Côte d’Ivoire is one of the pilot countries—and underscores the importance placed on strengthening institutional capacities and enhancing expertise within the Ivorian public administration. The project contributes to the consolidation of a strategic ",
+          "pubDate": "Wed, 16 Sep 2026 16:36:31 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Italy and Ivory Coast Join Forces for the Training of Public Officials"
+        },
         {
           "title": "Somalia's Federal Member States Aren't Defending Sovereignty — They're Defending Their Patrons - No One in This Fight Is Neutral",
           "link": "https://hornobserver.com/articles/3748/Somalias-Federal-Member-States-Arent-Defending-Sovereignty-Theyre-Defending-Their-Patrons-No-One-in-This-Fight-Is-Neutral",
@@ -368,15 +386,6 @@
           "titleIt": "Somalia's Federal Member States Aren't Defending Sovereignty — They're Defending Their Patrons - No One in This Fight Is Neutral"
         },
         {
-          "title": "Nigeria: Boko Haram 'Judge' Denies Reported Ceasefire Deal With Nigerian Govt",
-          "link": "https://allafrica.com/stories/202609160088.html",
-          "description": "[Premium Times] Jama'atu Ahlis Sunna Lidda'awati Wal Jihad (JAS), popularly known as Boko Haram, has debunked reports that it struck a ceasefire deal with the Nigerian government, HumAngle reports.",
-          "pubDate": "Wed, 16 Sep 2026 06:13:49 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Nigeria: Boko Haram 'Judge' Denies Reported Ceasefire Deal With Nigerian Govt"
-        },
-        {
           "title": "Somali-Turkish Tensions Rise as Deportations Follow Anti-Ankara Protests",
           "link": "https://hornobserver.com/articles/3746/Somali-Turkish-Tensions-Rise-as-Deportations-Follow-Anti-Ankara-Protests",
           "description": "The group that arrived in Mogadishu reportedly comprised 25 men and 25 women. The deportees are said to have been living in Turkey for various reasons, including education and employment, while some were reportedly suspected of involvement in irregular migration or attempts to travel onward to Europe. Several of those deported said they had committed no crimes in Turkey and had been living in the country under different legal circumstances. Some identified themselves as university students, while others said they had been employed in Turkey. The differing accounts have raised questions about t",
@@ -384,15 +393,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somali-Turkish Tensions Rise as Deportations Follow Anti-Ankara Protests"
-        },
-        {
-          "title": "Consul Manara Visits Sakai to Promote Industrial Cooperation",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/15/consul-manara-visits-sakai-to-promote-industrial-cooperation_d6d87c84-e138-4dde-95ea-a35b2af8240d.html",
-          "description": "(ANSA) - ROMA, 15 SET - The Consul General of Italy in Osaka, Filippo Manara, visited the city of Sakai and met with Mayor Hideki Nagafuji upon his return from a mission to Venice. The meeting focused on new opportunities for academic and cultural exchange with the lagoon city. It was also emphasized that the two cities are deeply linked by a shared history of trade and seafaring. The city of Sakai, located in the southern part of Osaka Prefecture, developed from the very beginning as a strategic hub for domestic logistics. In the 15th century, international trade flourished in Sakai, and the ",
-          "pubDate": "Tue, 15 Sep 2026 09:44:26 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Consul Manara Visits Sakai to Promote Industrial Cooperation"
         },
         {
           "title": "Spike in online attacks silence Somali journalists in the midst of China and Turkey strategic communications partnership with Somalia",
@@ -420,15 +420,6 @@
           "source": "The New Humanitarian",
           "lang": "en",
           "titleIt": "Finding a path to peace: Nigeria’s long, faltering history of dialogue with Boko Haram"
-        },
-        {
-          "title": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes",
-          "link": "https://hornobserver.com/articles/3731/Somali-journalist-Bashir-Mohamed-Abdullahi-dies-after-being-shot-during-Baidoa-clashes",
-          "description": "MOGADISHU, Somalia 7 September 2026 – The Somali Journalists Syndicate (SJS) expresses its deepest condolences over the death of journalist Bashir Mohamed Abdullahi, also known as Bashir Moalin, a reporter with the local Arlaadi Media Network, who succumbed to gunshot injuries sustained during armed clashes in Baidoa on Thursday, 3 September 2026. He becomes the second journalist killed in Somalia this year. Early on Monday, 7 September 2026, Bashir, 28, died from critical injuries he sustained while seeking shelter during armed clashes in Baidoa, Southwest State, his family told SJS. Accordin",
-          "pubDate": "Mon, 07 Sep 2026 13:49:29 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somali journalist Bashir Mohamed Abdullahi dies after being shot during Baidoa clashes"
         },
         {
           "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
