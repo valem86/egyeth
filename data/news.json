@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T13:01:08.885Z",
+  "generatedAt": "2026-09-18T17:44:07.930Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -156,13 +156,31 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Ethiopia: Chemicals Used in Gold Mining Reportedly Killing Endemic Birds and Other Wildlife in Borena",
-          "link": "https://allafrica.com/stories/202609180057.html",
-          "description": "[Addis Standard] Addis Abeba -- Local residents in Arsite, Abunu Kebele of Gomole Woreda, near Borena National Park in Ethiopia's Oromia Region, have raised concerns over the reported deaths of birds and other wildlife following the use of chemicals in informal gold mining activities in the area.",
-          "pubDate": "Fri, 18 Sep 2026 05:47:52 GMT",
+          "title": "Teleperformance Kenya faces allegations over workers’ rights",
+          "link": "http://www.africanews.com/2026/09/18/teleperformance-kenya-faces-allegations-over-workers-rights/",
+          "description": "The company has three months to engage in mediation. If no agreement is reached, the organisations say they could take the case to a French court.",
+          "pubDate": "Fri, 18 Sep 2026 16:33:44 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Teleperformance Kenya faces allegations over workers’ rights"
+        },
+        {
+          "title": "Kenya: Health workers increasingly concerned in wake of USAID cuts",
+          "link": "http://www.africanews.com/2026/09/18/kenya-health-workers-increasingly-concerned-in-wake-of-usaid-cuts/",
+          "description": "In Kenya, the impact of USAID cuts is being increasingly felt. At least 24 deaths of HIV-positive sex workers in Kenya have been reported, who, like Beatrice, in good health until aid was slashed by the United States early last year, health workers say.",
+          "pubDate": "Fri, 18 Sep 2026 13:36:57 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Kenya: Health workers increasingly concerned in wake of USAID cuts"
+        },
+        {
+          "title": "East Africa: East Africa's Iconic Snow Peaks Face Imminent Extinction",
+          "link": "https://allafrica.com/stories/202609180327.html",
+          "description": "[Daily News] EAST Africa's iconic equatorial glaciers across three mountain peaks in Kenya, Uganda, and Tanzania will soon disappear entirely, with new climate assessments predicting total extinction within three to five years.",
+          "pubDate": "Fri, 18 Sep 2026 12:04:21 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Ethiopia: Chemicals Used in Gold Mining Reportedly Killing Endemic Birds and Other Wildlife in Borena"
+          "titleIt": "East Africa: East Africa's Iconic Snow Peaks Face Imminent Extinction"
         },
         {
           "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
@@ -255,31 +273,67 @@
           "titleIt": "Somalia: Blood, Blades, and Broken Streets: Inside the Terror Colonizing Mogadishu"
         },
         {
-          "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
-          "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
-          "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
-          "pubDate": "Thu, 10 Sep 2026 22:33:24 +0300",
-          "source": "Horn Observer",
+          "title": "Exclusive : UAE pursuing  port imperialism  across Africa , Eritrean foreign minister says",
+          "link": "https://www.middleeasteye.net/news/exclusive-eritrea-foreign-minister-says-uae-pursuing-port-imperialism-across-africa",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-09-12T11:15:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
+          "description": "",
+          "titleIt": "Exclusive : UAE pursuing  port imperialism  across Africa , Eritrean foreign minister says"
         },
         {
-          "title": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro",
-          "link": "https://hornobserver.com/articles/3735/Somaliland-arrests-two-journalists-and-a-poet-in-two-weeks-over-criticism-of-president-Abdirahman-Irro",
-          "description": "Journalist Abdiqani Hussein Abokor, known as Baylood, founder of Heegan TV, was arrested on 29 August 2026 after interviewing Somaliland-based poet Ismail Yusuf Abdi, also known as Jiheeye. During the interview, published by Abdiqani Hussein Abokor on his Facebook page on 27 August, Ismail complained to President Irro about the forced eviction of his family from their home in Hargeisa. During the interview, Ismail recited a poem in which he cursed the president and said \"that the president's honour should be diminished and failure comes to him\" if the vulnerable family were evicted from their ",
-          "pubDate": "Wed, 09 Sep 2026 22:54:17 +0300",
-          "source": "Horn Observer",
+          "title": "Somaliland Opposition Condemns Cirro Gaza Troop Proposal as Political Backlash Grows",
+          "link": "https://wardheernews.com/somaliland-opposition-condemns-cirros-gaza-troop-proposal-as-political-backlash-grows/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-09-12T01:45:00Z",
           "lang": "en",
-          "titleIt": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro"
+          "description": "",
+          "titleIt": "Somaliland Opposition Condemns Cirro Gaza Troop Proposal as Political Backlash Grows"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Israel Backs Ethiopia Bid for Red Sea Access , Raising New Regional Questions",
+          "link": "https://wardheernews.com/israel-backs-ethiopias-bid-for-red-sea-access-raising-new-regional-questions/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-09-12T01:45:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Israel Backs Ethiopia Bid for Red Sea Access , Raising New Regional Questions"
+        },
+        {
+          "title": "Right - hand - man  son of genocidal Somali dictator who killed 200 , 000 found living in Ohio , linked to $1 . 8M Medicare firm",
+          "link": "https://nypost.com/2026/09/11/world-news/right-hand-man-son-of-genocidal-somali-dictator-who-killed-200000-found-living-in-ohio-linked-to-1-8m-medicare-firm/",
+          "source": "nypost.com",
+          "pubDate": "2026-09-11T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Right - hand - man  son of genocidal Somali dictator who killed 200 , 000 found living in Ohio , linked to $1 . 8M Medicare firm"
+        },
+        {
+          "title": "Israel election raises hopes and fears across the Arab world",
+          "link": "https://www.ynetnews.com/opinions-analysis/article/sywtqpxtme",
+          "source": "ynetnews.com",
+          "pubDate": "2026-09-11T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel election raises hopes and fears across the Arab world"
+        },
+        {
+          "title": "Algeria cuts diplomatic ties with UAE : What we know - Grenada Chronicle – Daily Grenada And Caribbean News",
+          "link": "https://grenadachronicle.com/algeria-cuts-diplomatic-ties-with-uae-what-we-know/",
+          "source": "grenadachronicle.com",
+          "pubDate": "2026-09-10T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Algeria cuts diplomatic ties with UAE : What we know - Grenada Chronicle – Daily Grenada And Caribbean News"
+        },
+        {
+          "title": "GAZA FORCE : Somaliland Ready To Send 2 , 000 Soldiers To International Stabilization Mission",
+          "link": "https://www.theyeshivaworld.com/news/israel-news/2596839/gaza-force-somaliland-ready-to-send-2000-soldiers-to-international-stabilization-mission.html",
+          "source": "theyeshivaworld.com",
+          "pubDate": "2026-09-10T22:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GAZA FORCE : Somaliland Ready To Send 2 , 000 Soldiers To International Stabilization Mission"
         }
       ]
     },
@@ -287,19 +341,10 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Yemen: ministro Esteri eritreo, non esiste soluzione militare (2)",
-          "link": "https://www.agenzianova.com/a/6aad35b10b9039.39168389/7790638/2026-09-18/yemen-ministro-esteri-eritreo-non-esiste-soluzione-militare-2",
-          "description": "18 set 14:33 - (Agenzia Nova) - \"L'Eritrea si trova in una posizione molto strategica. Abbiamo la responsabilita' di salvaguardare il Mar Rosso... (Suk)",
-          "pubDate": "2026-09-18T14:33:28+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Yemen: ministro Esteri eritreo, non esiste soluzione militare (2)"
-        },
-        {
           "title": "Dozens of suspected illegal miners die in Nigerian custody",
           "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
           "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-          "pubDate": "Fri, 18 Sep 2026 11:56:16 GMT",
+          "pubDate": "Fri, 18 Sep 2026 15:47:28 GMT",
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Dozens of suspected illegal miners die in Nigerian custody"
@@ -314,24 +359,6 @@
           "titleIt": "Zimbabwe farmers seek funds to cash in on China blueberry boom"
         },
         {
-          "title": "Ethiopia: Chemicals Used in Gold Mining Reportedly Killing Endemic Birds and Other Wildlife in Borena",
-          "link": "https://allafrica.com/stories/202609180057.html",
-          "description": "[Addis Standard] Addis Abeba -- Local residents in Arsite, Abunu Kebele of Gomole Woreda, near Borena National Park in Ethiopia's Oromia Region, have raised concerns over the reported deaths of birds and other wildlife following the use of chemicals in informal gold mining activities in the area.",
-          "pubDate": "Fri, 18 Sep 2026 05:47:52 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Chemicals Used in Gold Mining Reportedly Killing Endemic Birds and Other Wildlife in Borena"
-        },
-        {
-          "title": "Sudan: Urgent Report Underlines Sudan Famine Risk As Food Insecurity Worsens",
-          "link": "https://allafrica.com/stories/202609180010.html",
-          "description": "[Dabanga] El Malha / Jebel Marra / Buram / Tawila -- Sudan faces a growing risk of severe food insecurity and famine-like conditions in parts of Darfur and Kordofan as poor rainfall, war, displacement and rising prices squeeze access to food, according to a new early-warning report by conflict analyst and researcher Dr Adeeb Yousif.",
-          "pubDate": "Fri, 18 Sep 2026 05:26:32 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Urgent Report Underlines Sudan Famine Risk As Food Insecurity Worsens"
-        },
-        {
           "title": "'Gunfire everywhere': Displaced Yemenis describe terrifying journey to Djibouti",
           "link": "http://www.africanews.com/2026/09/17/gunfire-everywhere-displaced-yemenis-describe-terrifying-journey-to-djibouti/",
           "description": "Displaced Yemenis who fled to Djibouti have been describing the fighting that forced them to leave. At least 100,000 people have left Yemen since the start of September as Iran-backed Houthi rebels advanced on the coast, seizing control of the strategic Bab el-Mandeb strait.",
@@ -341,24 +368,6 @@
           "titleIt": "'Gunfire everywhere': Displaced Yemenis describe terrifying journey to Djibouti"
         },
         {
-          "title": "Africa: KOAFEC 2026 - African Development Bank and Korea's Export-Import Bank Strengthen Partnership to Finance Africa's Strategic Priorities",
-          "link": "https://allafrica.com/stories/202609160743.html",
-          "description": "[African Development Bank (AfDB)] The African Development Bank Group (AfDB) and the Export-Import Bank of Korea (KEXIM) have signed a new memorandum of understanding to deepen co-financing cooperation on projects across Africa and mobilise additional resources for the continent's sustainable development.",
-          "pubDate": "Wed, 16 Sep 2026 23:36:55 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: KOAFEC 2026 - African Development Bank and Korea's Export-Import Bank Strengthen Partnership to Finance Africa's Strategic Priorities"
-        },
-        {
-          "title": "Ambassador Davoli Honored by Ecuador’s Judicial Council",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/16/ambassador-davoli-honored-by-ecuadors-judicial-council_8b3a41e4-4cdb-429b-8141-3db05e36f628.html",
-          "description": "(ANSA) - QUITO, 16 SET - The Italian Ambassador to Ecuador, Giovanni Davoli, received a plaque of recognition from the Judicial Council of the South American country. The plaque, presented personally by the Council’s president, Mercedes Caicedo, acknowledges “his strategic and unconditional support for the Ecuadorian judiciary in the fight against corruption and transnational organized crime.” The Ambassador’s commitment, the citation continues, “strengthens the justice system and consolidates our determination to ensure the transparency and efficiency of the rule of law.” The presentation too",
-          "pubDate": "Wed, 16 Sep 2026 18:48:31 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Ambassador Davoli Honored by Ecuador’s Judicial Council"
-        },
-        {
           "title": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September",
           "link": "https://hornobserver.com/articles/3750/Highlights-of-the-Month-from-SJS-Monthly-Newsletter-on-Climate-Change-Reporting-August-September",
           "description": "El Niño Climate Impact Outlook – Somalia – UN OCHA Somalia's El Niño Climate Impact Outlook warns of a credible risk of severe flooding during the October–December 2026 Deyr season, particularly along the Jubba and Shabelle river corridors, if El Niño strengthens alongside a positive Indian Ocean Dipole. While the scenario is not certain, the outlook urges early action to address the combined risks of flooding, drought, extreme heat, disease, food insecurity, displacement, and infrastructure vulnerabilities. It prioritizes stronger early-warning and evacuation systems, flood anticipatory-actio",
@@ -366,15 +375,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September"
-        },
-        {
-          "title": "Italy and Ivory Coast Join Forces for the Training of Public Officials",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/16/italy-and-ivory-coast-join-forces-for-the-training-of-public_1097134c-e377-4afd-afba-1693e725578a.html",
-          "description": "(ANSA) - ROMA, 16 SET - The Italian Ambassador to Côte d’Ivoire, Roberta Di Lecce, participated—along with the Director General of the École Nationale d’Administration (ENA)—in the closing ceremony of the training session organized by ENA and the National School of Administration (SNA). The initiative is part of the Mattei Plan for Africa—of which Côte d’Ivoire is one of the pilot countries—and underscores the importance placed on strengthening institutional capacities and enhancing expertise within the Ivorian public administration. The project contributes to the consolidation of a strategic ",
-          "pubDate": "Wed, 16 Sep 2026 16:36:31 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italy and Ivory Coast Join Forces for the Training of Public Officials"
         },
         {
           "title": "Somalia's Federal Member States Aren't Defending Sovereignty — They're Defending Their Patrons - No One in This Fight Is Neutral",
@@ -425,7 +425,188 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "BRICS member , partner countries to take part in open session ; PM Modi to hold series of bilateral meetings",
+          "link": "http://www.philippinetimes.com/news/279304064/brics-member-partner-countries-to-take-part-in-open-session-pm-modi-to-hold-series-of-bilateral-meetings",
+          "source": "philippinetimes.com",
+          "pubDate": "2026-09-13T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS member , partner countries to take part in open session ; PM Modi to hold series of bilateral meetings"
+        },
+        {
+          "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+          "link": "http://www.zimbabwestar.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+          "source": "zimbabwestar.com",
+          "pubDate": "2026-09-13T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit"
+        },
+        {
+          "title": "PM Modi arrives at Bharat Mandapam for second day of BRICS Summit",
+          "link": "http://www.afghanistansun.com/news/279304174/pm-modi-arrives-at-bharat-mandapam-for-second-day-of-brics-summit",
+          "source": "afghanistansun.com",
+          "pubDate": "2026-09-13T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "PM Modi arrives at Bharat Mandapam for second day of BRICS Summit"
+        },
+        {
+          "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+          "link": "http://www.israelherald.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+          "source": "israelherald.com",
+          "pubDate": "2026-09-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit"
+        },
+        {
+          "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+          "link": "http://www.iranherald.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+          "source": "iranherald.com",
+          "pubDate": "2026-09-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit"
+        },
+        {
+          "title": "BRICS to strengthen cooperation in ICTs",
+          "link": "https://www.sanews.gov.za/south-africa/brics-strengthen-cooperation-icts",
+          "source": "sanews.gov.za",
+          "pubDate": "2026-09-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS to strengthen cooperation in ICTs"
+        },
+        {
+          "title": "BRICS expresses concern over trade - restrictive measures",
+          "link": "https://www.sanews.gov.za/south-africa/brics-expresses-concern-over-trade-restrictive-measures",
+          "source": "sanews.gov.za",
+          "pubDate": "2026-09-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS expresses concern over trade - restrictive measures"
+        },
+        {
+          "title": "One Reportedly Killed After Iranian Commercial Vessel Hit Near Qeshm",
+          "link": "http://www.israelherald.com/news/279304278/one-reportedly-killed-after-iranian-commercial-vessel-hit-near-qeshm",
+          "source": "israelherald.com",
+          "pubDate": "2026-09-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "One Reportedly Killed After Iranian Commercial Vessel Hit Near Qeshm"
+        },
+        {
+          "title": "BRICS urges international law to be applied in Palestine",
+          "link": "https://www.sanews.gov.za/south-africa/brics-urges-international-law-be-applied-palestine",
+          "source": "sanews.gov.za",
+          "pubDate": "2026-09-13T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS urges international law to be applied in Palestine"
+        },
+        {
+          "title": "BRICS member , partner countries to take part in open session ; PM Modi to hold series of bilateral meetings",
+          "link": "http://www.kenyastar.com/news/279304064/brics-member-partner-countries-to-take-part-in-open-session-pm-modi-to-hold-series-of-bilateral-meetings",
+          "source": "kenyastar.com",
+          "pubDate": "2026-09-13T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS member , partner countries to take part in open session ; PM Modi to hold series of bilateral meetings"
+        },
+        {
+          "title": "PM Modi welcomes leaders at Bharat Mandapam on 2nd day of BRICS Summit",
+          "link": "https://ianslive.in/pm-modi-welcomes-leaders-at-bharat-mandapam-on-2nd-day-of-brics-summit--20260913104732",
+          "source": "ianslive.in",
+          "pubDate": "2026-09-13T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "PM Modi welcomes leaders at Bharat Mandapam on 2nd day of BRICS Summit"
+        },
+        {
+          "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+          "link": "http://www.africaleader.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+          "source": "africaleader.com",
+          "pubDate": "2026-09-13T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit"
+        },
+        {
+          "title": "PM Modi arrives at Bharat Mandapam for second day of BRICS Summit",
+          "link": "http://www.africaleader.com/news/279304174/pm-modi-arrives-at-bharat-mandapam-for-second-day-of-brics-summit",
+          "source": "africaleader.com",
+          "pubDate": "2026-09-13T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "PM Modi arrives at Bharat Mandapam for second day of BRICS Summit"
+        },
+        {
+          "title": "BRICS member , partner countries to take part in open session ; PM Modi to hold series of bilateral meetings",
+          "link": "http://www.africaleader.com/news/279304064/brics-member-partner-countries-to-take-part-in-open-session-pm-modi-to-hold-series-of-bilateral-meetings",
+          "source": "africaleader.com",
+          "pubDate": "2026-09-13T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS member , partner countries to take part in open session ; PM Modi to hold series of bilateral meetings"
+        },
+        {
+          "title": "PM Modi arrives at Bharat Mandapam for second day of BRICS Summit",
+          "link": "http://www.kenyastar.com/news/279304174/pm-modi-arrives-at-bharat-mandapam-for-second-day-of-brics-summit",
+          "source": "kenyastar.com",
+          "pubDate": "2026-09-13T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "PM Modi arrives at Bharat Mandapam for second day of BRICS Summit"
+        },
+        {
+          "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+          "link": "http://www.irishsun.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+          "source": "irishsun.com",
+          "pubDate": "2026-09-13T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit"
+        },
+        {
+          "title": "BRICS at 20 : a new economic and diplomatic equation for Mauritius",
+          "link": "https://defimedia.info/brics-20-new-economic-and-diplomatic-equation-mauritius",
+          "source": "defimedia.info",
+          "pubDate": "2026-09-13T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS at 20 : a new economic and diplomatic equation for Mauritius"
+        },
+        {
+          "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+          "link": "http://www.newyorkstatesman.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+          "source": "newyorkstatesman.com",
+          "pubDate": "2026-09-13T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit"
+        },
+        {
+          "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+          "link": "http://www.shanghainews.net/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+          "source": "shanghainews.net",
+          "pubDate": "2026-09-13T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit"
+        },
+        {
+          "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+          "link": "http://www.kenyastar.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+          "source": "kenyastar.com",
+          "pubDate": "2026-09-13T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
@@ -438,6 +619,177 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Sudanese women preserve bridal henna tradition amid war and water crisis"
+        },
+        {
+          "title": "Ethiopia and Israel : How a shared New Year can renew an ancient partnership",
+          "link": "http://www.jpost.com/opinion/article-908242",
+          "source": "jpost.com",
+          "pubDate": "2026-09-13T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia and Israel : How a shared New Year can renew an ancient partnership"
+        },
+        {
+          "title": "Arab News | Sudan war is now a regional crisis",
+          "link": "https://www.arabnews.com/opinion/sudans-war-is-now-a-regional-crisis-3001319",
+          "source": "arabnews.com",
+          "pubDate": "2026-09-12T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | Sudan war is now a regional crisis"
+        },
+        {
+          "title": "GERD Output Surpasses Design Estimates By 17 % In First Year , Consortium Urges Focus On Domestic Access",
+          "link": "https://www.thereporterethiopia.com/52764/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-09-12T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GERD Output Surpasses Design Estimates By 17 % In First Year , Consortium Urges Focus On Domestic Access"
+        },
+        {
+          "title": "A River Has A Source | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/52717/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-09-12T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A River Has A Source | The Reporter Ethiopia"
+        },
+        {
+          "title": "The war must not end – NATO",
+          "link": "https://www.bankingnews.gr/diethni/articles/898500/the-war-must-not-end-nato-s-madmen-rammstein-decided-ukraine-is-the-west-s-guinea-pig%20title=",
+          "source": "bankingnews.gr",
+          "pubDate": "2026-09-10T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The war must not end – NATO"
+        },
+        {
+          "title": "The war must not end – NATO",
+          "link": "https://www.bankingnews.gr/diethni/articles/898500/the-war-must-not-end-nato-s-madmen-rammstein-decided-ukraine-is-the-west-s-guinea-pig",
+          "source": "bankingnews.gr",
+          "pubDate": "2026-09-10T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The war must not end – NATO"
+        },
+        {
+          "title": "Ethiopia : Finance Minister Ahmed Shide , AIIB President Zou Jiayi Discuss Infrastructure Cooperation",
+          "link": "https://allafrica.com/stories/202609100052.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-10T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Finance Minister Ahmed Shide , AIIB President Zou Jiayi Discuss Infrastructure Cooperation"
+        },
+        {
+          "title": "Egypt Must Recognize 2026 Nile Reality , Not 19th / 20th Century , Says Former U . S . Diplomat Tibor Nagy",
+          "link": "https://allafrica.com/stories/202609100039.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-10T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Must Recognize 2026 Nile Reality , Not 19th / 20th Century , Says Former U . S . Diplomat Tibor Nagy"
+        },
+        {
+          "title": "GERD supplies 52 % of Ethiopia electricity - International Water Power",
+          "link": "https://www.waterpowermagazine.com/news/gerd-supplies-52-of-ethiopias-electricity/",
+          "source": "waterpowermagazine.com",
+          "pubDate": "2026-09-09T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GERD supplies 52 % of Ethiopia electricity - International Water Power"
+        },
+        {
+          "title": "Rearmed And Reckless : How Sudan New Arsenal Is Dragging Chad And Ethiopia Into Its War - OpEd",
+          "link": "https://www.eurasiareview.com/08092026-rearmed-and-reckless-how-sudans-new-arsenal-is-dragging-chad-and-ethiopia-into-its-war-oped/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-09-07T23:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Rearmed And Reckless : How Sudan New Arsenal Is Dragging Chad And Ethiopia Into Its War - OpEd"
+        },
+        {
+          "title": "Mottley calls for stronger CARICOM - Africa ties",
+          "link": "https://barbadostoday.bb/2026/09/07/mottley-calls-for-stronger-caricom-africa-ties/",
+          "source": "barbadostoday.bb",
+          "pubDate": "2026-09-07T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mottley calls for stronger CARICOM - Africa ties"
+        },
+        {
+          "title": "Sudan Borders Have Become as Dangerous as the War Itself",
+          "link": "https://themedialine.org/top-stories/sudans-borders-have-become-as-dangerous-as-the-war-itself/",
+          "source": "themedialine.org",
+          "pubDate": "2026-09-07T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan Borders Have Become as Dangerous as the War Itself"
+        },
+        {
+          "title": "Battle for water : Could the Nile dispute trigger a regional war ?",
+          "link": "https://news.az/news/battle-for-water-could-the-nile-dispute-trigger-a-regional-war",
+          "source": "news.az",
+          "pubDate": "2026-09-07T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Battle for water : Could the Nile dispute trigger a regional war ?"
+        },
+        {
+          "title": "Beyond The Zero - Sum : Reimagining The Nile And The Horn",
+          "link": "https://www.thereporterethiopia.com/52620/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-09-05T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Beyond The Zero - Sum : Reimagining The Nile And The Horn"
+        },
+        {
+          "title": "Nepal needs more giant dams to avert disastrous floods",
+          "link": "https://www.taipeitimes.com/News/editorials/archives/2026/09/02/2003863529",
+          "source": "taipeitimes.com",
+          "pubDate": "2026-09-01T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nepal needs more giant dams to avert disastrous floods"
+        },
+        {
+          "title": "Ethiopia Electricity Data Miners Now Top the Payer List",
+          "link": "https://www.riotimesonline.com/ethiopia-electricity-data-miners-revenue-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-01T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Electricity Data Miners Now Top the Payer List"
+        },
+        {
+          "title": "The Stream , September 1 , 2026 : Israel Abruptly Shuts Down All But One Desalination Plant Due to Weather",
+          "link": "https://www.circleofblue.org/newsletter/the-stream-september-1-2026-israel-abruptly-shuts-down-all-but-one-desalination-plant-due-to-weather/",
+          "source": "circleofblue.org",
+          "pubDate": "2026-09-01T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Stream , September 1 , 2026 : Israel Abruptly Shuts Down All But One Desalination Plant Due to Weather"
+        },
+        {
+          "title": "Africa : GERD Offers Blueprint for Africa Self - Reliance , Says Hailemariam",
+          "link": "https://allafrica.com/stories/202608270018.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-08-27T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : GERD Offers Blueprint for Africa Self - Reliance , Says Hailemariam"
+        },
+        {
+          "title": "Domestic and Regional Pressures Strain Ethiopia Fragile Peace",
+          "link": "https://www.justsecurity.org/154852/ethiopia-horn-africa-regional-tensions/",
+          "source": "justsecurity.org",
+          "pubDate": "2026-08-26T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Domestic and Regional Pressures Strain Ethiopia Fragile Peace"
         }
       ]
     }
