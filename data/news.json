@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T17:44:07.930Z",
+  "generatedAt": "2026-09-18T20:57:47.001Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -155,6 +155,15 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Ethiopia: EU Supports Ethiopia's COP32 Hosting, Green Growth Agenda",
+          "link": "https://allafrica.com/stories/202609180596.html",
+          "description": "[ENA] Addis Ababa -- The European Union (EU) will support Ethiopia's preparations to host the 32nd United Nations (UN) Climate Change Conference (COP32) and strengthen cooperation on environmental protection and green economic development, an EU official said.",
+          "pubDate": "Fri, 18 Sep 2026 17:12:40 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: EU Supports Ethiopia's COP32 Hosting, Green Growth Agenda"
+        },
         {
           "title": "Teleperformance Kenya faces allegations over workers’ rights",
           "link": "http://www.africanews.com/2026/09/18/teleperformance-kenya-faces-allegations-over-workers-rights/",
@@ -325,21 +334,39 @@
           "lang": "en",
           "description": "",
           "titleIt": "Algeria cuts diplomatic ties with UAE : What we know - Grenada Chronicle – Daily Grenada And Caribbean News"
-        },
-        {
-          "title": "GAZA FORCE : Somaliland Ready To Send 2 , 000 Soldiers To International Stabilization Mission",
-          "link": "https://www.theyeshivaworld.com/news/israel-news/2596839/gaza-force-somaliland-ready-to-send-2000-soldiers-to-international-stabilization-mission.html",
-          "source": "theyeshivaworld.com",
-          "pubDate": "2026-09-10T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "GAZA FORCE : Somaliland Ready To Send 2 , 000 Soldiers To International Stabilization Mission"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Usa-Cina: \"Cnn\", rapporto di intelligence generato con l'Ia ha quasi provocato conflitto militare",
+          "link": "https://www.agenzianova.com/a/6aada4f911aec5.08183262/7791956/2026-09-18/usa-cina-cnn-rapporto-di-intelligence-generato-con-l-ia-ha-quasi-provocato-conflitto-militare",
+          "description": "18 set 22:40 - (Agenzia Nova) - Un rapporto di intelligence generato con l'aiuto dell'intelligenza artificiale (Ia) ha rischiato di provocare... (Was)",
+          "pubDate": "2026-09-18T22:40:43+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Usa-Cina: \"Cnn\", rapporto di intelligence generato con l'Ia ha quasi provocato conflitto militare"
+        },
+        {
+          "title": "Africa: Korea, African Development Bank Sign Deal to Launch Joint Ai Hub to Support Africa",
+          "link": "https://allafrica.com/stories/202609180673.html",
+          "description": "[African Development Bank (AfDB)] The African Development Bank Group and the Republic of Korea signed a Letter of Intent on 9 September in Seoul to establish a Korea-Africa Hub for artificial intelligence (AI) to support the responsible development, adoption and financing of AI technologies across Africa.",
+          "pubDate": "Fri, 18 Sep 2026 19:59:32 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Korea, African Development Bank Sign Deal to Launch Joint Ai Hub to Support Africa"
+        },
+        {
+          "title": "Ethiopia: EU Supports Ethiopia's COP32 Hosting, Green Growth Agenda",
+          "link": "https://allafrica.com/stories/202609180596.html",
+          "description": "[ENA] Addis Ababa -- The European Union (EU) will support Ethiopia's preparations to host the 32nd United Nations (UN) Climate Change Conference (COP32) and strengthen cooperation on environmental protection and green economic development, an EU official said.",
+          "pubDate": "Fri, 18 Sep 2026 17:12:40 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: EU Supports Ethiopia's COP32 Hosting, Green Growth Agenda"
+        },
         {
           "title": "Dozens of suspected illegal miners die in Nigerian custody",
           "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
