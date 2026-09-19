@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T12:33:14.830Z",
+  "generatedAt": "2026-09-19T17:19:54.748Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -14,15 +14,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Greece-Egypt military exercise draws tourists’ attention in Crete"
-        },
-        {
-          "title": "North Africa: Human Resources, Arab Labour Organization Agree On Plan to Support Reconstruction of Sudan's Labour Market",
-          "link": "https://allafrica.com/stories/202609180578.html",
-          "description": "[SNA] Cairo -- Minister of Human Resources and Social Welfare Motasem Ahmed Saleh and Director-General of the Arab Labour Organization Fayez Al-Mutairi agreed to develop an implementation plan with a specific timeline to support the reconstruction of Sudan's labour market and the development of its human resources.",
-          "pubDate": "Fri, 18 Sep 2026 17:07:17 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "North Africa: Human Resources, Arab Labour Organization Agree On Plan to Support Reconstruction of Sudan's Labour Market"
         },
         {
           "title": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September",
@@ -174,15 +165,6 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Ethiopia: Ethiopia's Green Energy Drives Electric Mobility Transition - Trademark Africa",
-          "link": "https://allafrica.com/stories/202609180598.html",
-          "description": "[ENA] Addis Ababa -- Ethiopia's abundant renewable electricity resources provide a strong strategic foundation for transitioning from diesel-powered transport to electric mobility, according to TradeMark Africa.",
-          "pubDate": "Fri, 18 Sep 2026 17:13:17 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia's Green Energy Drives Electric Mobility Transition - Trademark Africa"
-        },
-        {
           "title": "Ethiopia: EU Supports Ethiopia's COP32 Hosting, Green Growth Agenda",
           "link": "https://allafrica.com/stories/202609180596.html",
           "description": "[ENA] Addis Ababa -- The European Union (EU) will support Ethiopia's preparations to host the 32nd United Nations (UN) Climate Change Conference (COP32) and strengthen cooperation on environmental protection and green economic development, an EU official said.",
@@ -208,6 +190,15 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Kenya: Health workers increasingly concerned in wake of USAID cuts"
+        },
+        {
+          "title": "East Africa: East Africa's Iconic Snow Peaks Face Imminent Extinction",
+          "link": "https://allafrica.com/stories/202609180327.html",
+          "description": "[Daily News] EAST Africa's iconic equatorial glaciers across three mountain peaks in Kenya, Uganda, and Tanzania will soon disappear entirely, with new climate assessments predicting total extinction within three to five years.",
+          "pubDate": "Fri, 18 Sep 2026 12:04:21 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "East Africa: East Africa's Iconic Snow Peaks Face Imminent Extinction"
         },
         {
           "title": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September",
@@ -291,31 +282,67 @@
           "titleIt": "Somalia: Blood, Blades, and Broken Streets: Inside the Terror Colonizing Mogadishu"
         },
         {
-          "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
-          "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
-          "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
-          "pubDate": "Thu, 10 Sep 2026 22:33:24 +0300",
-          "source": "Horn Observer",
+          "title": "Exclusive : UAE pursuing  port imperialism  across Africa , Eritrean foreign minister says",
+          "link": "https://www.middleeasteye.net/news/exclusive-eritrea-foreign-minister-says-uae-pursuing-port-imperialism-across-africa",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-09-12T11:15:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
+          "description": "",
+          "titleIt": "Exclusive : UAE pursuing  port imperialism  across Africa , Eritrean foreign minister says"
         },
         {
-          "title": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro",
-          "link": "https://hornobserver.com/articles/3735/Somaliland-arrests-two-journalists-and-a-poet-in-two-weeks-over-criticism-of-president-Abdirahman-Irro",
-          "description": "Journalist Abdiqani Hussein Abokor, known as Baylood, founder of Heegan TV, was arrested on 29 August 2026 after interviewing Somaliland-based poet Ismail Yusuf Abdi, also known as Jiheeye. During the interview, published by Abdiqani Hussein Abokor on his Facebook page on 27 August, Ismail complained to President Irro about the forced eviction of his family from their home in Hargeisa. During the interview, Ismail recited a poem in which he cursed the president and said \"that the president's honour should be diminished and failure comes to him\" if the vulnerable family were evicted from their ",
-          "pubDate": "Wed, 09 Sep 2026 22:54:17 +0300",
-          "source": "Horn Observer",
+          "title": "Somaliland Opposition Condemns Cirro Gaza Troop Proposal as Political Backlash Grows",
+          "link": "https://wardheernews.com/somaliland-opposition-condemns-cirros-gaza-troop-proposal-as-political-backlash-grows/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-09-12T01:45:00Z",
           "lang": "en",
-          "titleIt": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro"
+          "description": "",
+          "titleIt": "Somaliland Opposition Condemns Cirro Gaza Troop Proposal as Political Backlash Grows"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "Israel Backs Ethiopia Bid for Red Sea Access , Raising New Regional Questions",
+          "link": "https://wardheernews.com/israel-backs-ethiopias-bid-for-red-sea-access-raising-new-regional-questions/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-09-12T01:45:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Israel Backs Ethiopia Bid for Red Sea Access , Raising New Regional Questions"
+        },
+        {
+          "title": "Right - hand - man  son of genocidal Somali dictator who killed 200 , 000 found living in Ohio , linked to $1 . 8M Medicare firm",
+          "link": "https://nypost.com/2026/09/11/world-news/right-hand-man-son-of-genocidal-somali-dictator-who-killed-200000-found-living-in-ohio-linked-to-1-8m-medicare-firm/",
+          "source": "nypost.com",
+          "pubDate": "2026-09-11T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Right - hand - man  son of genocidal Somali dictator who killed 200 , 000 found living in Ohio , linked to $1 . 8M Medicare firm"
+        },
+        {
+          "title": "Israel election raises hopes and fears across the Arab world",
+          "link": "https://www.ynetnews.com/opinions-analysis/article/sywtqpxtme",
+          "source": "ynetnews.com",
+          "pubDate": "2026-09-11T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Israel election raises hopes and fears across the Arab world"
+        },
+        {
+          "title": "Algeria cuts diplomatic ties with UAE : What we know - Grenada Chronicle – Daily Grenada And Caribbean News",
+          "link": "https://grenadachronicle.com/algeria-cuts-diplomatic-ties-with-uae-what-we-know/",
+          "source": "grenadachronicle.com",
+          "pubDate": "2026-09-10T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Algeria cuts diplomatic ties with UAE : What we know - Grenada Chronicle – Daily Grenada And Caribbean News"
+        },
+        {
+          "title": "GAZA FORCE : Somaliland Ready To Send 2 , 000 Soldiers To International Stabilization Mission",
+          "link": "https://www.theyeshivaworld.com/news/israel-news/2596839/gaza-force-somaliland-ready-to-send-2000-soldiers-to-international-stabilization-mission.html",
+          "source": "theyeshivaworld.com",
+          "pubDate": "2026-09-10T22:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GAZA FORCE : Somaliland Ready To Send 2 , 000 Soldiers To International Stabilization Mission"
         }
       ]
     },
@@ -330,15 +357,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Africa: Korea, African Development Bank Sign Deal to Launch Joint Ai Hub to Support Africa"
-        },
-        {
-          "title": "Ethiopia: Ethiopia's Green Energy Drives Electric Mobility Transition - Trademark Africa",
-          "link": "https://allafrica.com/stories/202609180598.html",
-          "description": "[ENA] Addis Ababa -- Ethiopia's abundant renewable electricity resources provide a strong strategic foundation for transitioning from diesel-powered transport to electric mobility, according to TradeMark Africa.",
-          "pubDate": "Fri, 18 Sep 2026 17:13:17 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia's Green Energy Drives Electric Mobility Transition - Trademark Africa"
         },
         {
           "title": "Ethiopia: EU Supports Ethiopia's COP32 Hosting, Green Growth Agenda",
@@ -377,15 +395,6 @@
           "titleIt": "'Gunfire everywhere': Displaced Yemenis describe terrifying journey to Djibouti"
         },
         {
-          "title": "Africa: KOAFEC 2026 - African Development Bank and Korea's Export-Import Bank Strengthen Partnership to Finance Africa's Strategic Priorities",
-          "link": "https://allafrica.com/stories/202609160743.html",
-          "description": "[African Development Bank (AfDB)] The African Development Bank Group (AfDB) and the Export-Import Bank of Korea (KEXIM) have signed a new memorandum of understanding to deepen co-financing cooperation on projects across Africa and mobilise additional resources for the continent's sustainable development.",
-          "pubDate": "Wed, 16 Sep 2026 23:36:55 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: KOAFEC 2026 - African Development Bank and Korea's Export-Import Bank Strengthen Partnership to Finance Africa's Strategic Priorities"
-        },
-        {
           "title": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September",
           "link": "https://hornobserver.com/articles/3750/Highlights-of-the-Month-from-SJS-Monthly-Newsletter-on-Climate-Change-Reporting-August-September",
           "description": "El Niño Climate Impact Outlook – Somalia – UN OCHA Somalia's El Niño Climate Impact Outlook warns of a credible risk of severe flooding during the October–December 2026 Deyr season, particularly along the Jubba and Shabelle river corridors, if El Niño strengthens alongside a positive Indian Ocean Dipole. While the scenario is not certain, the outlook urges early action to address the combined risks of flooding, drought, extreme heat, disease, food insecurity, displacement, and infrastructure vulnerabilities. It prioritizes stronger early-warning and evacuation systems, flood anticipatory-actio",
@@ -422,22 +431,103 @@
           "titleIt": "Spike in online attacks silence Somali journalists in the midst of China and Turkey strategic communications partnership with Somalia"
         },
         {
-          "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
-          "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
-          "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
-          "pubDate": "Thu, 10 Sep 2026 22:33:24 +0300",
-          "source": "Horn Observer",
+          "title": "One Reportedly Killed After Iranian Commercial Vessel Hit Near Qeshm",
+          "link": "http://www.israelherald.com/news/279304278/one-reportedly-killed-after-iranian-commercial-vessel-hit-near-qeshm",
+          "source": "israelherald.com",
+          "pubDate": "2026-09-13T08:45:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
+          "description": "",
+          "titleIt": "One Reportedly Killed After Iranian Commercial Vessel Hit Near Qeshm"
         },
         {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
+          "title": "China , Russia , India seek economic cooperation at BRICS - Asia & Pacific",
+          "link": "http://www.thejakartapost.com/world/2026/09/13/china-russia-india-seek-economic-cooperation-at-brics",
+          "source": "thejakartapost.com",
+          "pubDate": "2026-09-13T08:15:00Z",
           "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "China , Russia , India seek economic cooperation at BRICS - Asia & Pacific"
+        },
+        {
+          "title": "About 1 , 400 Yemenis flee to Djibouti within 24 hours",
+          "link": "https://www.yahoo.com/news/world/articles/1-400-yemenis-flee-djibouti-044018085.html",
+          "source": "yahoo.com",
+          "pubDate": "2026-09-13T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "About 1 , 400 Yemenis flee to Djibouti within 24 hours"
+        },
+        {
+          "title": "Ethiopia and Israel : How a shared New Year can renew an ancient partnership",
+          "link": "http://www.jpost.com/opinion/article-908242",
+          "source": "jpost.com",
+          "pubDate": "2026-09-13T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia and Israel : How a shared New Year can renew an ancient partnership"
+        },
+        {
+          "title": "Iran and UAE back joint BRICS statement urging restraint in war",
+          "link": "https://dunyanews.tv/en/World/972624-iran-and-uae-back-joint-brics-statement-urging-restraint-in-war",
+          "source": "dunyanews.tv",
+          "pubDate": "2026-09-13T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran and UAE back joint BRICS statement urging restraint in war"
+        },
+        {
+          "title": "Brunei No . 1 News Website",
+          "link": "https://brudirect.com/post/Saudi-Arabia-shuts-key-oil-pipeline-after-drone-attack-launched-from-Iraq",
+          "source": "brudirect.com",
+          "pubDate": "2026-09-13T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Brunei No . 1 News Website"
+        },
+        {
+          "title": "UAE Crown Prince Meets Putin At BRICS Summit As Bloc Navigates Iran - UAE Divide",
+          "link": "https://www.i24news.tv/en/news/international/artc-uae-s-crown-prince-meets-putin-at-brics-summit-as-bloc-navigates-iran-uae-divide",
+          "source": "i24news.tv",
+          "pubDate": "2026-09-13T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE Crown Prince Meets Putin At BRICS Summit As Bloc Navigates Iran - UAE Divide"
+        },
+        {
+          "title": "The CEO who tells women to think twice before being  nice",
+          "link": "https://www.businessdailyafrica.com/bd/lifestyle/weekend-with-the-ceo/ceo-jacqueline-waihenya-5591954",
+          "source": "businessdailyafrica.com",
+          "pubDate": "2026-09-13T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The CEO who tells women to think twice before being  nice"
+        },
+        {
+          "title": "Column : How BRICS is reshaping the Global South place in the world",
+          "link": "http://www.zimbabwestar.com/news/279303604/column-how-brics-is-reshaping-the-global-south-place-in-the-world",
+          "source": "zimbabwestar.com",
+          "pubDate": "2026-09-13T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Column : How BRICS is reshaping the Global South place in the world"
+        },
+        {
+          "title": "Column : How BRICS is reshaping the Global South place in the world",
+          "link": "http://www.iraqsun.com/news/279303604/column-how-brics-is-reshaping-the-global-south-place-in-the-world",
+          "source": "iraqsun.com",
+          "pubDate": "2026-09-13T03:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Column : How BRICS is reshaping the Global South place in the world"
+        },
+        {
+          "title": "Column : How BRICS is reshaping the Global South place in the world",
+          "link": "http://www.middleeaststar.com/news/279303604/column-how-brics-is-reshaping-the-global-south-place-in-the-world",
+          "source": "middleeaststar.com",
+          "pubDate": "2026-09-13T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Column : How BRICS is reshaping the Global South place in the world"
         }
       ]
     },
@@ -448,15 +538,6 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Sudan: Al-Noor Al-Goba - '70 Percent of Militia Members Stand With the Armed Forces but Fear Retaliation'",
-          "link": "https://allafrica.com/stories/202609180577.html",
-          "description": "[SNA] Khartoum -- Commander Al-Nour Ahmed Adam (Al-Noor Al-Goba) announced that his forces had completed preparations to move to the fighting fronts and operate alongside the Sudanese Armed Forces (SAF) and the forces supporting them to liberate the states of Darfur and Kordofan from the stain of rebellion.",
-          "pubDate": "Fri, 18 Sep 2026 17:06:41 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Al-Noor Al-Goba - '70 Percent of Militia Members Stand With the Armed Forces but Fear Retaliation'"
-        },
         {
           "title": "Sudanese women preserve bridal henna tradition amid war and water crisis",
           "link": "http://www.africanews.com/2026/09/17/sudanese-women-preserve-bridal-henna-tradition-amid-war-and-water-crisis/",
