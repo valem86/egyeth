@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T05:03:07.845Z",
+  "generatedAt": "2026-09-21T12:55:06.732Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -7,13 +7,22 @@
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Sudan: El-Sisi and Cia Chief Discuss Sudan War",
-          "link": "https://allafrica.com/stories/202609210021.html",
-          "description": "[Dabanga] Egyptian President Abdel Fattah El-Sisi and US Central Intelligence Agency Director John Ratcliffe discussed Sudan's war during talks in Cairo earlier today, with El-Sisi reaffirming Egypt's support for Sudan's unity, sovereignty and state institutions.",
-          "pubDate": "Mon, 21 Sep 2026 04:50:34 GMT",
+          "title": "Somalia: Somalia, Pakistan Discuss Strengthening Air Force Cooperation",
+          "link": "https://allafrica.com/stories/202609210362.html",
+          "description": "[Shabelle] Mogadishu -- Somali President Hassan Sheikh Mohamud met with a senior Pakistani Air Force delegation at the presidential palace to discuss strengthening Somalia's air force and expanding defense cooperation between the two countries.",
+          "pubDate": "Mon, 21 Sep 2026 12:13:27 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Sudan: El-Sisi and Cia Chief Discuss Sudan War"
+          "titleIt": "Somalia: Somalia, Pakistan Discuss Strengthening Air Force Cooperation"
+        },
+        {
+          "title": "Egypt: Egypt, CIA Chief Affirm Support for Somalia's Sovereignty",
+          "link": "https://allafrica.com/stories/202609210230.html",
+          "description": "[Radio Dalsan] Cairo -- Egyptian President Abdel Fattah El-Sisi met with CIA Director John Ratcliffe in Cairo on Sunday, September 20, 2026, where both leaders reaffirmed support for Somalia's security and stability. The meeting, also attended by Egyptian General Intelligence Director Hassan Rashad, focused on regional developments including the situations in Somalia, Sudan, Gaza, and the Horn of Africa .",
+          "pubDate": "Mon, 21 Sep 2026 10:24:14 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Egypt: Egypt, CIA Chief Affirm Support for Somalia's Sovereignty"
         },
         {
           "title": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany",
@@ -151,15 +160,6 @@
           "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
         },
         {
-          "title": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro",
-          "link": "https://hornobserver.com/articles/3735/Somaliland-arrests-two-journalists-and-a-poet-in-two-weeks-over-criticism-of-president-Abdirahman-Irro",
-          "description": "Journalist Abdiqani Hussein Abokor, known as Baylood, founder of Heegan TV, was arrested on 29 August 2026 after interviewing Somaliland-based poet Ismail Yusuf Abdi, also known as Jiheeye. During the interview, published by Abdiqani Hussein Abokor on his Facebook page on 27 August, Ismail complained to President Irro about the forced eviction of his family from their home in Hargeisa. During the interview, Ismail recited a poem in which he cursed the president and said \"that the president's honour should be diminished and failure comes to him\" if the vulnerable family were evicted from their ",
-          "pubDate": "Wed, 09 Sep 2026 22:54:17 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro"
-        },
-        {
           "title": "New Chapter, Same Stalemate: Somalia’s War with Al-Shabaab",
           "link": "https://www.crisisgroup.org/brf/africa/somalia/b212-new-chapter-same-stalemate-somalias-war-al-shabaab",
           "description": "The Somali government’s battle with Al-Shabaab militants grinds on, with neither able to gain a decisive advantage. To improve its lot, Mogadishu needs to bolster its military and alleviate civilian suffering in areas under insurgent control, while looking for openings for dialogue with the group.",
@@ -183,6 +183,60 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Africa: AU, UN Reinforce Joint Commitments On Peace, Economy and Resource Equity",
+          "link": "https://allafrica.com/stories/202609210426.html",
+          "description": "[ENA] Addis Ababa -- The Chairperson of the African Union Commission, Mahmoud Ali Youssouf, and United Nations Secretary-General António Guterres have co-chaired a high-level AU-UN meeting on the margins of the 81st United Nations General Assembly to deepen strategic cooperation, strengthen peace and security frameworks, and advance global financial reforms in support of Africa.",
+          "pubDate": "Mon, 21 Sep 2026 12:35:24 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: AU, UN Reinforce Joint Commitments On Peace, Economy and Resource Equity"
+        },
+        {
+          "title": "Somalia: Elections, the Constitution, and Somaliland - What Is Happening in Mogadishu?",
+          "link": "https://allafrica.com/stories/202609210425.html",
+          "description": "[Radio Dalsan] MOGADISHU -- Somalia's political dispute deepens over elections and governance",
+          "pubDate": "Mon, 21 Sep 2026 12:33:49 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Elections, the Constitution, and Somaliland - What Is Happening in Mogadishu?"
+        },
+        {
+          "title": "Egypt: Egypt, CIA Chief Affirm Support for Somalia's Sovereignty",
+          "link": "https://allafrica.com/stories/202609210230.html",
+          "description": "[Radio Dalsan] Cairo -- Egyptian President Abdel Fattah El-Sisi met with CIA Director John Ratcliffe in Cairo on Sunday, September 20, 2026, where both leaders reaffirmed support for Somalia's security and stability. The meeting, also attended by Egyptian General Intelligence Director Hassan Rashad, focused on regional developments including the situations in Somalia, Sudan, Gaza, and the Horn of Africa .",
+          "pubDate": "Mon, 21 Sep 2026 10:24:14 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Egypt: Egypt, CIA Chief Affirm Support for Somalia's Sovereignty"
+        },
+        {
+          "title": "Kenya: Museveni Says Kenyan Media Misrepresented His Fuel Remarks, Thanks Ruto for Supporting Uganda Fuel Deal",
+          "link": "https://allafrica.com/stories/202609210085.html",
+          "description": "[Capital FM] Nairobi -- Ugandan President Yoweri Museveni has clarified remarks that triggered a fresh debate over petroleum imports between Kenya and Uganda, saying sections of the Kenyan media misrepresented what he said about the use of middlemen in fuel procurement.",
+          "pubDate": "Mon, 21 Sep 2026 05:40:22 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Museveni Says Kenyan Media Misrepresented His Fuel Remarks, Thanks Ruto for Supporting Uganda Fuel Deal"
+        },
+        {
+          "title": "It Official : The Tables Have Turned in the US - versus - Russia , China , North Korea , and Iran diplomatic rivalry",
+          "link": "https://www.dailykos.com/stories/2026/9/20/800100961/community/its-official-the-tables-have-turned-in-the-us-versus-russia-china-nor-diplomatic-rivalry/",
+          "source": "dailykos.com",
+          "pubDate": "2026-09-21T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "It Official : The Tables Have Turned in the US - versus - Russia , China , North Korea , and Iran diplomatic rivalry"
+        },
+        {
+          "title": "President Irro Takes Somaliland Recognition Fight to Capitol Hill and Puts Strategic Partnership on the Table",
+          "link": "https://wardheernews.com/president-irro-takes-somalilands-recognition-fight-to-capitol-hill-and-puts-strategic-partnership-on-the-table/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-09-20T19:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "President Irro Takes Somaliland Recognition Fight to Capitol Hill and Puts Strategic Partnership on the Table"
+        },
+        {
           "title": "SJS mourns Somali radio journalist Hassan Kafi Qoyste who died at 57",
           "link": "https://hornobserver.com/articles/3753/SJS-mourns-Somali-radio-journalist-Hassan-Kafi-Qoyste-who-died-at-57",
           "description": "Ayanle Hassan, Qoyste's son, told SJS that his father, who was diabetic, fell ill on Friday night and was rushed to hospital, where he was pronounced dead. The late Qoyste was a veteran journalist and one of the most remarkable radio journalists in Somalia, known for his distinctive and memorable voice. He first worked as an archive manager at the Ministry of Labour of the Somali central government in the 1980s before joining the print media in Mogadishu in the early 1990s, as the country descended into civil war. Qoyste became involved in journalism after his family moved from Beledweyne in c",
@@ -190,6 +244,24 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "SJS mourns Somali radio journalist Hassan Kafi Qoyste who died at 57"
+        },
+        {
+          "title": "Djibouti Rejects Ethiopia Tadjourah Corridor and Naval Base",
+          "link": "https://www.riotimesonline.com/djibouti-rejects-ethiopia-tadjourah-corridor-naval-base/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-20T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Djibouti Rejects Ethiopia Tadjourah Corridor and Naval Base"
+        },
+        {
+          "title": "Inside Somaliland : How Berbera Port is central to the Red Sea power struggle",
+          "link": "https://www.middleeasteye.net/news/inside-berbera-port-center-scramble-red-sea",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-09-20T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Inside Somaliland : How Berbera Port is central to the Red Sea power struggle"
         },
         {
           "title": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany",
@@ -217,15 +289,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Kenya: Health workers increasingly concerned in wake of USAID cuts"
-        },
-        {
-          "title": "East Africa: East Africa's Iconic Snow Peaks Face Imminent Extinction",
-          "link": "https://allafrica.com/stories/202609180327.html",
-          "description": "[Daily News] EAST Africa's iconic equatorial glaciers across three mountain peaks in Kenya, Uganda, and Tanzania will soon disappear entirely, with new climate assessments predicting total extinction within three to five years.",
-          "pubDate": "Fri, 18 Sep 2026 12:04:21 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "East Africa: East Africa's Iconic Snow Peaks Face Imminent Extinction"
         },
         {
           "title": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September",
@@ -298,42 +361,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia Mobilises for El Niño as Climate Risks Mount"
-        },
-        {
-          "title": "Somalia: Blood, Blades, and Broken Streets: Inside the Terror Colonizing Mogadishu",
-          "link": "https://hornobserver.com/articles/3738/Somalia-Blood-Blades-and-Broken-Streets-Inside-the-Terror-Colonizing-Mogadishu",
-          "description": "Speaking after his son's funeral at Muuse Boqor Mosque the following day, veteran journalist Maxamed Cumar Baakaay put words to what the killing meant: \"Allah gave me my son, and now Allah has taken him back. I praise Him. We have survived so many historic atrocities here in Mogadishu, only for me to lose my boy to the blades of the Ciyaal Weero.\" Family members say police have since detained several suspects, though authorities have not issued an official statement confirming the arrests. A journalist mourning his university-bound son has shattered the illusion of security in central Mogadish",
-          "pubDate": "Mon, 14 Sep 2026 09:23:32 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia: Blood, Blades, and Broken Streets: Inside the Terror Colonizing Mogadishu"
-        },
-        {
-          "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
-          "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
-          "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
-          "pubDate": "Thu, 10 Sep 2026 22:33:24 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
-        },
-        {
-          "title": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro",
-          "link": "https://hornobserver.com/articles/3735/Somaliland-arrests-two-journalists-and-a-poet-in-two-weeks-over-criticism-of-president-Abdirahman-Irro",
-          "description": "Journalist Abdiqani Hussein Abokor, known as Baylood, founder of Heegan TV, was arrested on 29 August 2026 after interviewing Somaliland-based poet Ismail Yusuf Abdi, also known as Jiheeye. During the interview, published by Abdiqani Hussein Abokor on his Facebook page on 27 August, Ismail complained to President Irro about the forced eviction of his family from their home in Hargeisa. During the interview, Ismail recited a poem in which he cursed the president and said \"that the president's honour should be diminished and failure comes to him\" if the vulnerable family were evicted from their ",
-          "pubDate": "Wed, 09 Sep 2026 22:54:17 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somaliland arrests two journalists and a poet in two weeks over criticism of president Abdirahman Irro"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -341,22 +368,157 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Ethiopia: The Rivalry Between Ethiopia and Eritrea Is Reshaping Tigray",
-          "link": "https://allafrica.com/stories/202609210018.html",
-          "description": "[African Arguments] On 1 August 2026, Ethiopian federal and Tigrayan forces clashed in western Tigray, a northern Ethiopian region bordering Eritrea and Sudan. By 3 August, fighting had subsided, but hundreds of Tigrayans, including wounded fighters, had crossed into war-torn Sudan. The clash followed Ethiopia's 1 June election: Tigray did not vote, while Prime Minister Abiy Ahmed's Prosperity Party won 438 seats.",
-          "pubDate": "Mon, 21 Sep 2026 04:50:31 GMT",
+          "title": "Africa: AU, UN Reinforce Joint Commitments On Peace, Economy and Resource Equity",
+          "link": "https://allafrica.com/stories/202609210426.html",
+          "description": "[ENA] Addis Ababa -- The Chairperson of the African Union Commission, Mahmoud Ali Youssouf, and United Nations Secretary-General António Guterres have co-chaired a high-level AU-UN meeting on the margins of the 81st United Nations General Assembly to deepen strategic cooperation, strengthen peace and security frameworks, and advance global financial reforms in support of Africa.",
+          "pubDate": "Mon, 21 Sep 2026 12:35:24 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Ethiopia: The Rivalry Between Ethiopia and Eritrea Is Reshaping Tigray"
+          "titleIt": "Africa: AU, UN Reinforce Joint Commitments On Peace, Economy and Resource Equity"
         },
         {
-          "title": "Angola: Angola's Tax Authority Hires Money-Laundering Suspect to Investigate Tax Crime",
-          "link": "https://allafrica.com/stories/202609210017.html",
-          "description": "[Maka] Angola's Tax Authority (AGT) has awarded Portuguese academic Carla Trindade two consultancy contracts worth a combined 551 million kwanzas to help investigate tax offences. Yet documents reviewed by Maka Angola point to irregularities in dealings between her husband's company and the same authority. She and her husband are also named in a criminal complaint formally lodged with prosecutors alleging money laundering, tax evasion and other offences.",
-          "pubDate": "Mon, 21 Sep 2026 04:50:30 GMT",
+          "title": "Seven Ethiopian rebel groups form new alliance",
+          "link": "https://capitalfm.africa/seven-ethiopian-rebel-groups-form-new-alliance/",
+          "source": "capitalfm.africa",
+          "pubDate": "2026-09-21T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Seven Ethiopian rebel groups form new alliance"
+        },
+        {
+          "title": "Egypt: Egypt, CIA Chief Affirm Support for Somalia's Sovereignty",
+          "link": "https://allafrica.com/stories/202609210230.html",
+          "description": "[Radio Dalsan] Cairo -- Egyptian President Abdel Fattah El-Sisi met with CIA Director John Ratcliffe in Cairo on Sunday, September 20, 2026, where both leaders reaffirmed support for Somalia's security and stability. The meeting, also attended by Egyptian General Intelligence Director Hassan Rashad, focused on regional developments including the situations in Somalia, Sudan, Gaza, and the Horn of Africa .",
+          "pubDate": "Mon, 21 Sep 2026 10:24:14 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Angola: Angola's Tax Authority Hires Money-Laundering Suspect to Investigate Tax Crime"
+          "titleIt": "Egypt: Egypt, CIA Chief Affirm Support for Somalia's Sovereignty"
+        },
+        {
+          "title": "Major investigation reveals scale and opacity of US deportations to Africa",
+          "link": "http://www.africanews.com/2026/09/21/major-investigation-reveals-scale-and-opacity-of-us-deportations-to-africa/",
+          "description": "The United States has deported more than 25,000 people under secretive agreements with 35 countries to take migrants with no ties to those nations, according to an investigation published Monday.",
+          "pubDate": "Mon, 21 Sep 2026 09:38:28 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Major investigation reveals scale and opacity of US deportations to Africa"
+        },
+        {
+          "title": "Zimbabwe farmers seek funds to cash in on China blueberry boom",
+          "link": "http://www.africanews.com/2026/09/18/zimbabwe-farmers-seek-funds-to-cash-in-on-china-blueberry-boom/",
+          "description": "The southern African country dispatched its first shipment of blueberries to China in July after a phytosanitary agreement signed a year ago and Beijing's scrapping of tariffs on imports from 53 African countries in May",
+          "pubDate": "Mon, 21 Sep 2026 08:01:49 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Zimbabwe farmers seek funds to cash in on China blueberry boom"
+        },
+        {
+          "title": "Ethiopia Strategic Water , Red Sea Access and Diplomacy Take Center Stage",
+          "link": "https://allafrica.com/stories/202609210031.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-21T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Strategic Water , Red Sea Access and Diplomacy Take Center Stage"
+        },
+        {
+          "title": "Ethiopia : The Rivalry Between Ethiopia and Eritrea Is Reshaping Tigray",
+          "link": "https://allafrica.com/stories/202609210018.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-21T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : The Rivalry Between Ethiopia and Eritrea Is Reshaping Tigray"
+        },
+        {
+          "title": "Sudan : Blood on Foreign Power Hands | Inter Press Service",
+          "link": "https://www.ipsnews.net/2026/09/sudan-blood-on-foreign-powers-hands/",
+          "source": "ipsnews.net",
+          "pubDate": "2026-09-21T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Blood on Foreign Power Hands | Inter Press Service"
+        },
+        {
+          "title": "Kenya: Museveni Says Kenyan Media Misrepresented His Fuel Remarks, Thanks Ruto for Supporting Uganda Fuel Deal",
+          "link": "https://allafrica.com/stories/202609210085.html",
+          "description": "[Capital FM] Nairobi -- Ugandan President Yoweri Museveni has clarified remarks that triggered a fresh debate over petroleum imports between Kenya and Uganda, saying sections of the Kenyan media misrepresented what he said about the use of middlemen in fuel procurement.",
+          "pubDate": "Mon, 21 Sep 2026 05:40:22 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Museveni Says Kenyan Media Misrepresented His Fuel Remarks, Thanks Ruto for Supporting Uganda Fuel Deal"
+        },
+        {
+          "title": "The 23 Eastern Catholic Churches : Ancient Traditions In Communion With Rome - Analysis",
+          "link": "https://www.eurasiareview.com/21092026-the-23-eastern-catholic-churches-ancient-traditions-in-communion-with-rome-analysis/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-09-21T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The 23 Eastern Catholic Churches : Ancient Traditions In Communion With Rome - Analysis"
+        },
+        {
+          "title": "The 23 Eastern Catholic Churches : Ancient traditions in communion with Rome",
+          "link": "https://www.catholicworldreport.com/2026/09/20/the-23-eastern-catholic-churches-ancient-traditions-in-communion-with-rome/",
+          "source": "catholicworldreport.com",
+          "pubDate": "2026-09-20T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The 23 Eastern Catholic Churches : Ancient traditions in communion with Rome"
+        },
+        {
+          "title": "It took a team effort to break the Sudanese low block , admits Uganda Hippo Munogera",
+          "link": "https://kawowo.com/2026/09/20/it-took-a-team-effort-to-break-the-sudanese-low-block-admits-uganda-hippos-munogera/",
+          "source": "kawowo.com",
+          "pubDate": "2026-09-20T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "It took a team effort to break the Sudanese low block , admits Uganda Hippo Munogera"
+        },
+        {
+          "title": "The 23 Eastern Catholic Churches : Ancient Traditions in Communion With Rome",
+          "link": "https://www.ncregister.com/cna/ewtn-news-cardiel-twenty-three-eastern-catholic-churches",
+          "source": "ncregister.com",
+          "pubDate": "2026-09-20T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The 23 Eastern Catholic Churches : Ancient Traditions in Communion With Rome"
+        },
+        {
+          "title": "Somalia Faces Critical Security Transition as AUSSOM Support Comes Under Strain",
+          "link": "https://raxanreeb.com/somalia-faces-critical-security-transition-as-aussom-support-comes-under-strain/",
+          "source": "raxanreeb.com",
+          "pubDate": "2026-09-20T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia Faces Critical Security Transition as AUSSOM Support Comes Under Strain"
+        },
+        {
+          "title": "The 23 Eastern Catholic Churches : ancient traditions in communion with Rome",
+          "link": "https://www.ewtnnews.com/vatican/the-23-eastern-catholic-churches-ancient-traditions-in-communion-with-rome",
+          "source": "ewtnnews.com",
+          "pubDate": "2026-09-20T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The 23 Eastern Catholic Churches : ancient traditions in communion with Rome"
+        },
+        {
+          "title": "Yes , With Climate Change , Our Children Can Grow Up In A World Of Nature , Wonder - And Prosperity",
+          "link": "http://science20.com/robert_walker/yes_with_climate_change_our_children_can_grow_up_in_a_world_of_nature_wonder_and_prosperity-239290",
+          "source": "science20.com",
+          "pubDate": "2026-09-20T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yes , With Climate Change , Our Children Can Grow Up In A World Of Nature , Wonder - And Prosperity"
+        },
+        {
+          "title": "The 23 Eastern Catholic Churches : Ancient traditions in communion with Rome",
+          "link": "https://www.myspiritfm.com/News?view=post&blogid=Catholic%2DNews&articleid=303837",
+          "source": "myspiritfm.com",
+          "pubDate": "2026-09-20T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The 23 Eastern Catholic Churches : Ancient traditions in communion with Rome"
         },
         {
           "title": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany",
@@ -368,104 +530,231 @@
           "titleIt": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany"
         },
         {
-          "title": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany",
-          "link": "https://hornobserver.com/articles/3752/Somali-Journalist-Mohamed-Aweys-Moodey-Dies-After-Stabbing-in-Germany",
-          "description": "The incident reportedly occurred at a residential facility. German authorities have identified a 28-year-old Somali man as the suspect. Police and prosecutors are investigating the circumstances of the incident, including the motive and whether it was connected to an earlier dispute between the two men. Moodey was a veteran journalist who worked in Somali media for many years. In 2014, he was arrested in Ethiopia and later sentenced to 27 years in prison under the country's anti-terrorism laws. The International Federation of Journalists and the National Union of Somali Journalists called for ",
-          "pubDate": "Sat, 19 Sep 2026 22:49:53 +0300",
-          "source": "Horn Observer",
+          "title": "Africa at BRICS New Delhi : what it contributed and what it gained",
+          "link": "https://capitalethiopia.com/2026/09/20/africa-at-brics-new-delhi-what-it-contributed-and-what-it-gained/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-09-20T09:30:00Z",
           "lang": "en",
-          "titleIt": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany"
+          "description": "",
+          "titleIt": "Africa at BRICS New Delhi : what it contributed and what it gained"
         },
         {
-          "title": "Dozens of suspected illegal miners die in Nigerian custody",
-          "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-          "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-          "pubDate": "Fri, 18 Sep 2026 15:47:28 GMT",
-          "source": "BBC Africa",
+          "title": "Djibouti Rejects Ethiopia Tadjourah Corridor and Naval Base",
+          "link": "https://www.riotimesonline.com/djibouti-rejects-ethiopia-tadjourah-corridor-naval-base/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-20T09:30:00Z",
           "lang": "en",
-          "titleIt": "Dozens of suspected illegal miners die in Nigerian custody"
-        },
-        {
-          "title": "Zimbabwe farmers seek funds to cash in on China blueberry boom",
-          "link": "http://www.africanews.com/2026/09/18/zimbabwe-farmers-seek-funds-to-cash-in-on-china-blueberry-boom/",
-          "description": "The southern African country dispatched its first shipment of blueberries to China in July after a phytosanitary agreement signed a year ago and Beijing's scrapping of tariffs on imports from 53 African countries in May",
-          "pubDate": "Fri, 18 Sep 2026 10:32:11 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Zimbabwe farmers seek funds to cash in on China blueberry boom"
-        },
-        {
-          "title": "'Gunfire everywhere': Displaced Yemenis describe terrifying journey to Djibouti",
-          "link": "http://www.africanews.com/2026/09/17/gunfire-everywhere-displaced-yemenis-describe-terrifying-journey-to-djibouti/",
-          "description": "Displaced Yemenis who fled to Djibouti have been describing the fighting that forced them to leave. At least 100,000 people have left Yemen since the start of September as Iran-backed Houthi rebels advanced on the coast, seizing control of the strategic Bab el-Mandeb strait.",
-          "pubDate": "Thu, 17 Sep 2026 18:56:35 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "'Gunfire everywhere': Displaced Yemenis describe terrifying journey to Djibouti"
-        },
-        {
-          "title": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September",
-          "link": "https://hornobserver.com/articles/3750/Highlights-of-the-Month-from-SJS-Monthly-Newsletter-on-Climate-Change-Reporting-August-September",
-          "description": "El Niño Climate Impact Outlook – Somalia – UN OCHA Somalia's El Niño Climate Impact Outlook warns of a credible risk of severe flooding during the October–December 2026 Deyr season, particularly along the Jubba and Shabelle river corridors, if El Niño strengthens alongside a positive Indian Ocean Dipole. While the scenario is not certain, the outlook urges early action to address the combined risks of flooding, drought, extreme heat, disease, food insecurity, displacement, and infrastructure vulnerabilities. It prioritizes stronger early-warning and evacuation systems, flood anticipatory-actio",
-          "pubDate": "Wed, 16 Sep 2026 19:45:09 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September"
-        },
-        {
-          "title": "Somalia's Federal Member States Aren't Defending Sovereignty — They're Defending Their Patrons - No One in This Fight Is Neutral",
-          "link": "https://hornobserver.com/articles/3748/Somalias-Federal-Member-States-Arent-Defending-Sovereignty-Theyre-Defending-Their-Patrons-No-One-in-This-Fight-Is-Neutral",
-          "description": "Puntland is furious at Türkiye. Jubaland is furious at Türkiye. Both have spent the past five weeks accusing Ankara of killing their own people. Neither is in a position to make that accusation as a matter of principle. Puntland's ports are run by the UAE. Jubaland's survival for over a decade has depended on Kenya. The one Somali federal member state that tried to stand apart from any foreign patron — South West State — was crushed by federal troops within 48 hours in March. This is not a story about Somali federal member states defending sovereignty against a foreign power. It is a story abo",
-          "pubDate": "Wed, 16 Sep 2026 15:55:14 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia's Federal Member States Aren't Defending Sovereignty — They're Defending Their Patrons - No One in This Fight Is Neutral"
-        },
-        {
-          "title": "Somali-Turkish Tensions Rise as Deportations Follow Anti-Ankara Protests",
-          "link": "https://hornobserver.com/articles/3746/Somali-Turkish-Tensions-Rise-as-Deportations-Follow-Anti-Ankara-Protests",
-          "description": "The group that arrived in Mogadishu reportedly comprised 25 men and 25 women. The deportees are said to have been living in Turkey for various reasons, including education and employment, while some were reportedly suspected of involvement in irregular migration or attempts to travel onward to Europe. Several of those deported said they had committed no crimes in Turkey and had been living in the country under different legal circumstances. Some identified themselves as university students, while others said they had been employed in Turkey. The differing accounts have raised questions about t",
-          "pubDate": "Tue, 15 Sep 2026 20:46:55 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somali-Turkish Tensions Rise as Deportations Follow Anti-Ankara Protests"
-        },
-        {
-          "title": "Spike in online attacks silence Somali journalists in the midst of China and Turkey strategic communications partnership with Somalia",
-          "link": "https://hornobserver.com/articles/3743/Spike-in-online-attacks-silence-Somali-journalists-in-the-midst-of-China-and-Turkey-strategic-communications-partnership-with-Somalia",
-          "description": "On Sunday, 13 September, at least three journalists and three media outlets reported they were affected by a fake memorialization campaign, account suspensions and content removals, leaving their platforms inaccessible to their audiences. According to exiled journalist Zakariye Mohamud Timacadde, his Facebook page, Zakariye Timacadde which has more than one million followers, was suspended around midnight on Sunday. He said he did not receive any notification or explanation from Meta, the parent company of Facebook. In his recent reporting, Zakariye published stories on forced evictions in Mog",
-          "pubDate": "Mon, 14 Sep 2026 17:37:21 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Spike in online attacks silence Somali journalists in the midst of China and Turkey strategic communications partnership with Somalia"
-        },
-        {
-          "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
-          "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
-          "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
-          "pubDate": "Thu, 10 Sep 2026 22:33:24 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
+          "description": "",
+          "titleIt": "Djibouti Rejects Ethiopia Tadjourah Corridor and Naval Base"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Yemen Houthis pledge not to target US ships after Trump cancels strikes",
+          "link": "https://www.euronews.com/2026/09/21/yemens-houthis-pledge-not-to-target-us-ships-after-trump-cancels-strikes",
+          "source": "euronews.com",
+          "pubDate": "2026-09-21T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yemen Houthis pledge not to target US ships after Trump cancels strikes"
+        },
+        {
+          "title": "Mount Vesuvius : AI may help scientists read ancient scrolls",
+          "link": "https://www.cp24.com/news/world/2026/09/21/scientists-may-soon-be-able-to-read-more-ancient-scrolls-damaged-by-mount-vesuvius-eruption/",
+          "source": "cp24.com",
+          "pubDate": "2026-09-21T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mount Vesuvius : AI may help scientists read ancient scrolls"
+        },
+        {
+          "title": "Why the Suez Canal Recovery Matters for Egypt Economy",
+          "link": "https://egyptianstreets.com/2026/09/21/why-the-suez-canals-recovery-matters-for-egypts-economy/",
+          "source": "egyptianstreets.com",
+          "pubDate": "2026-09-21T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why the Suez Canal Recovery Matters for Egypt Economy"
+        },
+        {
+          "title": "Morning Briefing : Sept . 21 , 2026",
+          "link": "https://aa.com.tr/en/world/morning-briefing-sept-21-2026/4062870",
+          "source": "aa.com.tr",
+          "pubDate": "2026-09-21T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Morning Briefing : Sept . 21 , 2026"
+        },
+        {
+          "title": "Interview with Nine OClock | H . E . Lili - Evangelia Grammatika , on 145 Years of Greece – Romania Relations and What Comes Next – Nine O  Clock – first exclusively daily publication to appear in English language in Romania",
+          "link": "https://nineoclock.ro/interview-with-nine-oclock-h-e-lili-evangelia-grammatika-on-145-years-of-greece-romania-relations-and-what-comes-next/",
+          "source": "nineoclock.ro",
+          "pubDate": "2026-09-21T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Interview with Nine OClock | H . E . Lili - Evangelia Grammatika , on 145 Years of Greece – Romania Relations and What Comes Next – Nine O  Clock – first exclusively daily publication to appear in English language in Romania"
+        },
+        {
+          "title": "Uber : Twelve Years , Then Silence",
+          "link": "https://hallmarknews.com/uber-twelve-years-then-silence/",
+          "source": "hallmarknews.com",
+          "pubDate": "2026-09-21T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Uber : Twelve Years , Then Silence"
+        },
+        {
+          "title": "Erdoğan arrives in US to attend UN General Assembly",
+          "link": "https://www.dailysabah.com/politics/erdogan-arrives-in-us-to-attend-un-general-assembly/news",
+          "source": "dailysabah.com",
+          "pubDate": "2026-09-21T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Erdoğan arrives in US to attend UN General Assembly"
+        },
+        {
+          "title": "CANEX WKND 2026 brings Global Africa creative economy to Lagos this November",
+          "link": "https://www.bizcommunity.com/article/canex-wknd-2026-brings-global-africas-creative-economy-to-lagos-this-november-742922a",
+          "source": "bizcommunity.com",
+          "pubDate": "2026-09-21T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "CANEX WKND 2026 brings Global Africa creative economy to Lagos this November"
+        },
+        {
+          "title": "Black Sea Blockade Threatens Global Food Supply Shock",
+          "link": "https://slguardian.org/black-sea-blockade-threatens-global-food-supply-shock/",
+          "source": "slguardian.org",
+          "pubDate": "2026-09-21T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Black Sea Blockade Threatens Global Food Supply Shock"
+        },
+        {
+          "title": "ADIPEC 2026 to bring energy leaders to Abu Dhabi",
+          "link": "https://oilreviewmiddleeast.com/events/event-news/adipec-2026-to-bring-energy-leaders-to-abu-dhabi",
+          "source": "oilreviewmiddleeast.com",
+          "pubDate": "2026-09-21T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "ADIPEC 2026 to bring energy leaders to Abu Dhabi"
+        },
+        {
+          "title": "Xiplomacy : Five years on , China Global Development Initiative delivers tangible progress",
+          "link": "http://en.people.cn/n3/2026/0921/c90000-20502130.html",
+          "source": "en.people.cn",
+          "pubDate": "2026-09-21T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Xiplomacy : Five years on , China Global Development Initiative delivers tangible progress"
+        },
+        {
+          "title": "Ethiopia Strategic Water , Red Sea Access and Diplomacy Take Center Stage",
+          "link": "https://allafrica.com/stories/202609210031.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-21T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Strategic Water , Red Sea Access and Diplomacy Take Center Stage"
+        },
+        {
+          "title": "Ethiopia : The Rivalry Between Ethiopia and Eritrea Is Reshaping Tigray",
+          "link": "https://allafrica.com/stories/202609210018.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-21T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : The Rivalry Between Ethiopia and Eritrea Is Reshaping Tigray"
+        },
+        {
+          "title": "US warns of rapid escalation in Middle East war",
+          "link": "https://www.yahoo.com/news/us/articles/us-warns-rapid-escalation-mideast-120406369.html",
+          "source": "yahoo.com",
+          "pubDate": "2026-09-21T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US warns of rapid escalation in Middle East war"
+        },
+        {
+          "title": "The Other Hormuz : Black Sea Blockade Threatens a Food Supply Shock",
+          "link": "https://finance.yahoo.com/markets/commodities/articles/other-hormuz-black-sea-blockade-230101888.html",
+          "source": "finance.yahoo.com",
+          "pubDate": "2026-09-21T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Other Hormuz : Black Sea Blockade Threatens a Food Supply Shock"
+        },
+        {
+          "title": "Xiplomacy : Five years on , China Global Development Initiative delivers tangible progress",
+          "link": "http://www.afghanistannews.net/news/279320003/xiplomacy-five-years-on-china-global-development-initiative-delivers-tangible-progress",
+          "source": "afghanistannews.net",
+          "pubDate": "2026-09-21T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Xiplomacy : Five years on , China Global Development Initiative delivers tangible progress"
+        },
+        {
+          "title": "AP News Summary at 1 : 27 a . m . EDT",
+          "link": "https://www.cadillacnews.com/ap/national/ap-news-summary-at-1-27-a-m-edt/article_fe98b0a8-0f11-5252-91d1-489d7173a99a.html",
+          "source": "cadillacnews.com",
+          "pubDate": "2026-09-21T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AP News Summary at 1 : 27 a . m . EDT"
+        },
+        {
+          "title": "AUC - Led Initiative Plants 50 , 000 Mangrove Trees Along Red Sea Coast",
+          "link": "https://cairoscene.com/News/AUC-Led-Initiative-Plants-50-000-Mangrove-Trees-Along-Red-Sea-Coast",
+          "source": "cairoscene.com",
+          "pubDate": "2026-09-21T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AUC - Led Initiative Plants 50 , 000 Mangrove Trees Along Red Sea Coast"
+        },
+        {
+          "title": "川普觀察 ： 爛人爛事錄 -- 開欄文 - 時事論壇",
+          "link": "https://city.udn.com/2976/7246211?raid=7298709",
+          "source": "city.udn.com",
+          "pubDate": "2026-09-21T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "川普觀察 ： 爛人爛事錄 -- 開欄文 - 時事論壇"
+        },
+        {
+          "title": "Xiplomacy : Five years on , China Global Development Initiative delivers tangible progress",
+          "link": "http://www.shanghainews.net/news/279320003/xiplomacy-five-years-on-china-global-development-initiative-delivers-tangible-progress",
+          "source": "shanghainews.net",
+          "pubDate": "2026-09-21T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Xiplomacy : Five years on , China Global Development Initiative delivers tangible progress"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "South Sudan: Egypt Says It Backs South Sudan's Fula Dam After Review, Renews Objections to Ethiopia's GERD",
+          "link": "https://allafrica.com/stories/202609210242.html",
+          "description": "[Addis Standard] Addis Abeba -- Egypt has agreed to South Sudan's planned Grand Fula Dam after reviewing technical studies on the project, Egyptian Minister of Water Resources and Irrigation Hani Sewilam said, as Cairo simultaneously reiterated its objections to Ethiopia's unilateral operation of the Grand Ethiopian Renaissance Dam (GERD).",
+          "pubDate": "Mon, 21 Sep 2026 10:29:49 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "South Sudan: Egypt Says It Backs South Sudan's Fula Dam After Review, Renews Objections to Ethiopia's GERD"
+        },
+        {
+          "title": "Uganda: Nearly 1,000 Cattle Die in Month As Drought Ravages Kasese",
+          "link": "https://allafrica.com/stories/202609210232.html",
+          "description": "[Nile Post] Nearly 1,000 cattle have died in Nyakatonzi Sub-county, Kasese District, in the past month as prolonged drought leaves livestock farmers without adequate pasture and water.",
+          "pubDate": "Mon, 21 Sep 2026 10:25:15 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Uganda: Nearly 1,000 Cattle Die in Month As Drought Ravages Kasese"
+        },
         {
           "title": "Sudan: Sudan Doctors Warn of Health Catastrophe As Disease Spreads",
           "link": "https://allafrica.com/stories/202609210024.html",
@@ -474,24 +763,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: Sudan Doctors Warn of Health Catastrophe As Disease Spreads"
-        },
-        {
-          "title": "Sudan: 202 Sudanese Refugees Return From Uganda On Voluntary Flights",
-          "link": "https://allafrica.com/stories/202609210023.html",
-          "description": "[Dabanga] Khartoum / Kampala / Amsterdam -- A total of 202 Sudanese refugees have returned from Uganda to Sudan on two voluntary repatriation flights, arriving in Khartoum and Port Sudan. The 23rd voluntary return flight from Uganda arrived at Khartoum International Airport on Sunday morning, carrying 142 returnees on a Badr Airlines flight.",
-          "pubDate": "Mon, 21 Sep 2026 04:50:36 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: 202 Sudanese Refugees Return From Uganda On Voluntary Flights"
-        },
-        {
-          "title": "South Sudan: What South Sudan's Mothers Teach Us About Political Authority",
-          "link": "https://allafrica.com/stories/202609210019.html",
-          "description": "[African Arguments] South Sudan is approaching a critical moment in its political transition. Elections are scheduled for December 2026, while questions around constitutional reform, political inclusion and the faltering implementation of the 2018 peace agreementcontinue to shape debate about the country's future. As South Sudan considers what legitimate and accountable governance might look like, the experience of a group of mothers and grandmothers in its eastern borderlands offers another place to look for political",
-          "pubDate": "Mon, 21 Sep 2026 04:50:32 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "South Sudan: What South Sudan's Mothers Teach Us About Political Authority"
         },
         {
           "title": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany",
