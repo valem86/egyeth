@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-09-20T22:30:22.244Z",
+  "generatedAt": "2026-09-21T05:03:07.845Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Sudan: El-Sisi and Cia Chief Discuss Sudan War",
+          "link": "https://allafrica.com/stories/202609210021.html",
+          "description": "[Dabanga] Egyptian President Abdel Fattah El-Sisi and US Central Intelligence Agency Director John Ratcliffe discussed Sudan's war during talks in Cairo earlier today, with El-Sisi reaffirming Egypt's support for Sudan's unity, sovereignty and state institutions.",
+          "pubDate": "Mon, 21 Sep 2026 04:50:34 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: El-Sisi and Cia Chief Discuss Sudan War"
+        },
         {
           "title": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany",
           "link": "https://hornobserver.com/articles/3754/Somali-journalist-Mohamed-Aweys-Muudey-stabbed-to-death-in-exile-in-Germany",
@@ -192,15 +201,6 @@
           "titleIt": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany"
         },
         {
-          "title": "Ethiopia: EU Supports Ethiopia's COP32 Hosting, Green Growth Agenda",
-          "link": "https://allafrica.com/stories/202609180596.html",
-          "description": "[ENA] Addis Ababa -- The European Union (EU) will support Ethiopia's preparations to host the 32nd United Nations (UN) Climate Change Conference (COP32) and strengthen cooperation on environmental protection and green economic development, an EU official said.",
-          "pubDate": "Fri, 18 Sep 2026 17:12:40 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: EU Supports Ethiopia's COP32 Hosting, Green Growth Agenda"
-        },
-        {
           "title": "Teleperformance Kenya faces allegations over workers’ rights",
           "link": "http://www.africanews.com/2026/09/18/teleperformance-kenya-faces-allegations-over-workers-rights/",
           "description": "The company has three months to engage in mediation. If no agreement is reached, the organisations say they could take the case to a French court.",
@@ -341,67 +341,22 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "The 23 Eastern Catholic Churches : Ancient traditions in communion with Rome",
-          "link": "https://www.catholicworldreport.com/2026/09/20/the-23-eastern-catholic-churches-ancient-traditions-in-communion-with-rome/",
-          "source": "catholicworldreport.com",
-          "pubDate": "2026-09-20T19:15:00Z",
+          "title": "Ethiopia: The Rivalry Between Ethiopia and Eritrea Is Reshaping Tigray",
+          "link": "https://allafrica.com/stories/202609210018.html",
+          "description": "[African Arguments] On 1 August 2026, Ethiopian federal and Tigrayan forces clashed in western Tigray, a northern Ethiopian region bordering Eritrea and Sudan. By 3 August, fighting had subsided, but hundreds of Tigrayans, including wounded fighters, had crossed into war-torn Sudan. The clash followed Ethiopia's 1 June election: Tigray did not vote, while Prime Minister Abiy Ahmed's Prosperity Party won 438 seats.",
+          "pubDate": "Mon, 21 Sep 2026 04:50:31 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "The 23 Eastern Catholic Churches : Ancient traditions in communion with Rome"
+          "titleIt": "Ethiopia: The Rivalry Between Ethiopia and Eritrea Is Reshaping Tigray"
         },
         {
-          "title": "It took a team effort to break the Sudanese low block , admits Uganda Hippo Munogera",
-          "link": "https://kawowo.com/2026/09/20/it-took-a-team-effort-to-break-the-sudanese-low-block-admits-uganda-hippos-munogera/",
-          "source": "kawowo.com",
-          "pubDate": "2026-09-20T17:15:00Z",
+          "title": "Angola: Angola's Tax Authority Hires Money-Laundering Suspect to Investigate Tax Crime",
+          "link": "https://allafrica.com/stories/202609210017.html",
+          "description": "[Maka] Angola's Tax Authority (AGT) has awarded Portuguese academic Carla Trindade two consultancy contracts worth a combined 551 million kwanzas to help investigate tax offences. Yet documents reviewed by Maka Angola point to irregularities in dealings between her husband's company and the same authority. She and her husband are also named in a criminal complaint formally lodged with prosecutors alleging money laundering, tax evasion and other offences.",
+          "pubDate": "Mon, 21 Sep 2026 04:50:30 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "It took a team effort to break the Sudanese low block , admits Uganda Hippo Munogera"
-        },
-        {
-          "title": "The 23 Eastern Catholic Churches : Ancient Traditions in Communion With Rome",
-          "link": "https://www.ncregister.com/cna/ewtn-news-cardiel-twenty-three-eastern-catholic-churches",
-          "source": "ncregister.com",
-          "pubDate": "2026-09-20T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The 23 Eastern Catholic Churches : Ancient Traditions in Communion With Rome"
-        },
-        {
-          "title": "Somalia Faces Critical Security Transition as AUSSOM Support Comes Under Strain",
-          "link": "https://raxanreeb.com/somalia-faces-critical-security-transition-as-aussom-support-comes-under-strain/",
-          "source": "raxanreeb.com",
-          "pubDate": "2026-09-20T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia Faces Critical Security Transition as AUSSOM Support Comes Under Strain"
-        },
-        {
-          "title": "The 23 Eastern Catholic Churches : ancient traditions in communion with Rome",
-          "link": "https://www.ewtnnews.com/vatican/the-23-eastern-catholic-churches-ancient-traditions-in-communion-with-rome",
-          "source": "ewtnnews.com",
-          "pubDate": "2026-09-20T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The 23 Eastern Catholic Churches : ancient traditions in communion with Rome"
-        },
-        {
-          "title": "Yes , With Climate Change , Our Children Can Grow Up In A World Of Nature , Wonder - And Prosperity",
-          "link": "http://science20.com/robert_walker/yes_with_climate_change_our_children_can_grow_up_in_a_world_of_nature_wonder_and_prosperity-239290",
-          "source": "science20.com",
-          "pubDate": "2026-09-20T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Yes , With Climate Change , Our Children Can Grow Up In A World Of Nature , Wonder - And Prosperity"
-        },
-        {
-          "title": "The 23 Eastern Catholic Churches : Ancient traditions in communion with Rome",
-          "link": "https://www.myspiritfm.com/News?view=post&blogid=Catholic%2DNews&articleid=303837",
-          "source": "myspiritfm.com",
-          "pubDate": "2026-09-20T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The 23 Eastern Catholic Churches : Ancient traditions in communion with Rome"
+          "titleIt": "Angola: Angola's Tax Authority Hires Money-Laundering Suspect to Investigate Tax Crime"
         },
         {
           "title": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany",
@@ -413,78 +368,6 @@
           "titleIt": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany"
         },
         {
-          "title": "Africa at BRICS New Delhi : what it contributed and what it gained",
-          "link": "https://capitalethiopia.com/2026/09/20/africa-at-brics-new-delhi-what-it-contributed-and-what-it-gained/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-09-20T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa at BRICS New Delhi : what it contributed and what it gained"
-        },
-        {
-          "title": "Djibouti Rejects Ethiopia Tadjourah Corridor and Naval Base",
-          "link": "https://www.riotimesonline.com/djibouti-rejects-ethiopia-tadjourah-corridor-naval-base/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-20T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Djibouti Rejects Ethiopia Tadjourah Corridor and Naval Base"
-        },
-        {
-          "title": "El Niño drought threatens Ethiopian power supply to crypto miners",
-          "link": "https://capitalethiopia.com/2026/09/20/el-nino-drought-threatens-ethiopian-power-supply-to-crypto-miners/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-09-20T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "El Niño drought threatens Ethiopian power supply to crypto miners"
-        },
-        {
-          "title": "Inside Somaliland : How Berbera Port is central to the Red Sea power struggle",
-          "link": "https://www.middleeasteye.net/news/inside-berbera-port-center-scramble-red-sea",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-09-20T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Inside Somaliland : How Berbera Port is central to the Red Sea power struggle"
-        },
-        {
-          "title": "Mecca Alliance will be  game - changing platform : Turkish foreign minister – The Frontier Post",
-          "link": "https://thefrontierpost.com/mecca-alliance-will-be-game-changing-platform-turkish-foreign-minister/",
-          "source": "thefrontierpost.com",
-          "pubDate": "2026-09-20T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mecca Alliance will be  game - changing platform : Turkish foreign minister – The Frontier Post"
-        },
-        {
-          "title": "Mecca Alliance will be  game - changing platform : Turkish foreign minister",
-          "link": "https://aa.com.tr/en/world/mecca-alliance-will-be-game-changing-platform-turkish-foreign-minister/4062212",
-          "source": "aa.com.tr",
-          "pubDate": "2026-09-20T04:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mecca Alliance will be  game - changing platform : Turkish foreign minister"
-        },
-        {
-          "title": "Eritrea Leaves the US Sanctions List as Mines Stay Chinese",
-          "link": "https://www.riotimesonline.com/eritrea-diaspora-mining-investment-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-20T00:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea Leaves the US Sanctions List as Mines Stay Chinese"
-        },
-        {
-          "title": "World Bank Raises Chad Growth Forecast to 5 . 2 %",
-          "link": "https://www.riotimesonline.com/chad-world-bank-upgrade-connexion-2030-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-20T00:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "World Bank Raises Chad Growth Forecast to 5 . 2 %"
-        },
-        {
           "title": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany",
           "link": "https://hornobserver.com/articles/3752/Somali-Journalist-Mohamed-Aweys-Moodey-Dies-After-Stabbing-in-Germany",
           "description": "The incident reportedly occurred at a residential facility. German authorities have identified a 28-year-old Somali man as the suspect. Police and prosecutors are investigating the circumstances of the incident, including the motive and whether it was connected to an earlier dispute between the two men. Moodey was a veteran journalist who worked in Somali media for many years. In 2014, he was arrested in Ethiopia and later sentenced to 27 years in prison under the country's anti-terrorism laws. The International Federation of Journalists and the National Union of Somali Journalists called for ",
@@ -494,24 +377,6 @@
           "titleIt": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany"
         },
         {
-          "title": "Africa: Korea, African Development Bank Sign Deal to Launch Joint Ai Hub to Support Africa",
-          "link": "https://allafrica.com/stories/202609180673.html",
-          "description": "[African Development Bank (AfDB)] The African Development Bank Group and the Republic of Korea signed a Letter of Intent on 9 September in Seoul to establish a Korea-Africa Hub for artificial intelligence (AI) to support the responsible development, adoption and financing of AI technologies across Africa.",
-          "pubDate": "Fri, 18 Sep 2026 19:59:32 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: Korea, African Development Bank Sign Deal to Launch Joint Ai Hub to Support Africa"
-        },
-        {
-          "title": "Ethiopia: EU Supports Ethiopia's COP32 Hosting, Green Growth Agenda",
-          "link": "https://allafrica.com/stories/202609180596.html",
-          "description": "[ENA] Addis Ababa -- The European Union (EU) will support Ethiopia's preparations to host the 32nd United Nations (UN) Climate Change Conference (COP32) and strengthen cooperation on environmental protection and green economic development, an EU official said.",
-          "pubDate": "Fri, 18 Sep 2026 17:12:40 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: EU Supports Ethiopia's COP32 Hosting, Green Growth Agenda"
-        },
-        {
           "title": "Dozens of suspected illegal miners die in Nigerian custody",
           "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
           "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
@@ -519,6 +384,78 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Dozens of suspected illegal miners die in Nigerian custody"
+        },
+        {
+          "title": "Zimbabwe farmers seek funds to cash in on China blueberry boom",
+          "link": "http://www.africanews.com/2026/09/18/zimbabwe-farmers-seek-funds-to-cash-in-on-china-blueberry-boom/",
+          "description": "The southern African country dispatched its first shipment of blueberries to China in July after a phytosanitary agreement signed a year ago and Beijing's scrapping of tariffs on imports from 53 African countries in May",
+          "pubDate": "Fri, 18 Sep 2026 10:32:11 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Zimbabwe farmers seek funds to cash in on China blueberry boom"
+        },
+        {
+          "title": "'Gunfire everywhere': Displaced Yemenis describe terrifying journey to Djibouti",
+          "link": "http://www.africanews.com/2026/09/17/gunfire-everywhere-displaced-yemenis-describe-terrifying-journey-to-djibouti/",
+          "description": "Displaced Yemenis who fled to Djibouti have been describing the fighting that forced them to leave. At least 100,000 people have left Yemen since the start of September as Iran-backed Houthi rebels advanced on the coast, seizing control of the strategic Bab el-Mandeb strait.",
+          "pubDate": "Thu, 17 Sep 2026 18:56:35 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "'Gunfire everywhere': Displaced Yemenis describe terrifying journey to Djibouti"
+        },
+        {
+          "title": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September",
+          "link": "https://hornobserver.com/articles/3750/Highlights-of-the-Month-from-SJS-Monthly-Newsletter-on-Climate-Change-Reporting-August-September",
+          "description": "El Niño Climate Impact Outlook – Somalia – UN OCHA Somalia's El Niño Climate Impact Outlook warns of a credible risk of severe flooding during the October–December 2026 Deyr season, particularly along the Jubba and Shabelle river corridors, if El Niño strengthens alongside a positive Indian Ocean Dipole. While the scenario is not certain, the outlook urges early action to address the combined risks of flooding, drought, extreme heat, disease, food insecurity, displacement, and infrastructure vulnerabilities. It prioritizes stronger early-warning and evacuation systems, flood anticipatory-actio",
+          "pubDate": "Wed, 16 Sep 2026 19:45:09 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September"
+        },
+        {
+          "title": "Somalia's Federal Member States Aren't Defending Sovereignty — They're Defending Their Patrons - No One in This Fight Is Neutral",
+          "link": "https://hornobserver.com/articles/3748/Somalias-Federal-Member-States-Arent-Defending-Sovereignty-Theyre-Defending-Their-Patrons-No-One-in-This-Fight-Is-Neutral",
+          "description": "Puntland is furious at Türkiye. Jubaland is furious at Türkiye. Both have spent the past five weeks accusing Ankara of killing their own people. Neither is in a position to make that accusation as a matter of principle. Puntland's ports are run by the UAE. Jubaland's survival for over a decade has depended on Kenya. The one Somali federal member state that tried to stand apart from any foreign patron — South West State — was crushed by federal troops within 48 hours in March. This is not a story about Somali federal member states defending sovereignty against a foreign power. It is a story abo",
+          "pubDate": "Wed, 16 Sep 2026 15:55:14 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia's Federal Member States Aren't Defending Sovereignty — They're Defending Their Patrons - No One in This Fight Is Neutral"
+        },
+        {
+          "title": "Somali-Turkish Tensions Rise as Deportations Follow Anti-Ankara Protests",
+          "link": "https://hornobserver.com/articles/3746/Somali-Turkish-Tensions-Rise-as-Deportations-Follow-Anti-Ankara-Protests",
+          "description": "The group that arrived in Mogadishu reportedly comprised 25 men and 25 women. The deportees are said to have been living in Turkey for various reasons, including education and employment, while some were reportedly suspected of involvement in irregular migration or attempts to travel onward to Europe. Several of those deported said they had committed no crimes in Turkey and had been living in the country under different legal circumstances. Some identified themselves as university students, while others said they had been employed in Turkey. The differing accounts have raised questions about t",
+          "pubDate": "Tue, 15 Sep 2026 20:46:55 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somali-Turkish Tensions Rise as Deportations Follow Anti-Ankara Protests"
+        },
+        {
+          "title": "Spike in online attacks silence Somali journalists in the midst of China and Turkey strategic communications partnership with Somalia",
+          "link": "https://hornobserver.com/articles/3743/Spike-in-online-attacks-silence-Somali-journalists-in-the-midst-of-China-and-Turkey-strategic-communications-partnership-with-Somalia",
+          "description": "On Sunday, 13 September, at least three journalists and three media outlets reported they were affected by a fake memorialization campaign, account suspensions and content removals, leaving their platforms inaccessible to their audiences. According to exiled journalist Zakariye Mohamud Timacadde, his Facebook page, Zakariye Timacadde which has more than one million followers, was suspended around midnight on Sunday. He said he did not receive any notification or explanation from Meta, the parent company of Facebook. In his recent reporting, Zakariye published stories on forced evictions in Mog",
+          "pubDate": "Mon, 14 Sep 2026 17:37:21 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Spike in online attacks silence Somali journalists in the midst of China and Turkey strategic communications partnership with Somalia"
+        },
+        {
+          "title": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown",
+          "link": "https://hornobserver.com/articles/3736/Somalia-Two-journalists-arrested-in-Baidoa-over-Facebook-reporting-whereabouts-of-one-of-them-still-unknown",
+          "description": "On 6 September, journalist Abdirahman Mohamed Abdi known as Jakataa was arrested by security services in Baidoa, according to colleagues who requested anonymity for fear of their safety. His whereabouts have remained unknown since his arrest. When SJS sought clarification from the Baidoa police, no response was provided. However, Abdirahman's colleagues told SJS that they believe he was detained over a post he published on his Facebook page on 5 September, which said: \"Can you name the only Digil/Mirifle clan whose members are being attacked by an aircraft, and the only clan whose members are ",
+          "pubDate": "Thu, 10 Sep 2026 22:33:24 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: Two journalists arrested in Baidoa over Facebook reporting, whereabouts of one of them still unknown"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -529,6 +466,33 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Sudan: Sudan Doctors Warn of Health Catastrophe As Disease Spreads",
+          "link": "https://allafrica.com/stories/202609210024.html",
+          "description": "[Dabanga] Khartoum / Amsterdam -- Sudan's health system is nearing collapse, with disease and epidemics spreading across the country amid poor sanitation, overcrowding and the destruction of medical infrastructure during the war, the Preparatory Committee of the Sudanese Doctors' Syndicate has warned.",
+          "pubDate": "Mon, 21 Sep 2026 04:50:37 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudan Doctors Warn of Health Catastrophe As Disease Spreads"
+        },
+        {
+          "title": "Sudan: 202 Sudanese Refugees Return From Uganda On Voluntary Flights",
+          "link": "https://allafrica.com/stories/202609210023.html",
+          "description": "[Dabanga] Khartoum / Kampala / Amsterdam -- A total of 202 Sudanese refugees have returned from Uganda to Sudan on two voluntary repatriation flights, arriving in Khartoum and Port Sudan. The 23rd voluntary return flight from Uganda arrived at Khartoum International Airport on Sunday morning, carrying 142 returnees on a Badr Airlines flight.",
+          "pubDate": "Mon, 21 Sep 2026 04:50:36 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: 202 Sudanese Refugees Return From Uganda On Voluntary Flights"
+        },
+        {
+          "title": "South Sudan: What South Sudan's Mothers Teach Us About Political Authority",
+          "link": "https://allafrica.com/stories/202609210019.html",
+          "description": "[African Arguments] South Sudan is approaching a critical moment in its political transition. Elections are scheduled for December 2026, while questions around constitutional reform, political inclusion and the faltering implementation of the 2018 peace agreementcontinue to shape debate about the country's future. As South Sudan considers what legitimate and accountable governance might look like, the experience of a group of mothers and grandmothers in its eastern borderlands offers another place to look for political",
+          "pubDate": "Mon, 21 Sep 2026 04:50:32 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "South Sudan: What South Sudan's Mothers Teach Us About Political Authority"
+        },
         {
           "title": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany",
           "link": "https://hornobserver.com/articles/3754/Somali-journalist-Mohamed-Aweys-Muudey-stabbed-to-death-in-exile-in-Germany",
