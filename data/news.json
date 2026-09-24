@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T11:52:30.034Z",
+  "generatedAt": "2026-09-24T17:16:45.633Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -32,15 +32,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Italian Ambassador Meets EUTM Commander in Somalia's capital Mogadishu"
-        },
-        {
-          "title": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Agriculture",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/22/somalia-ambassador-dacco-coppi-meets-with-the-minister-of-agriculture_3c7ebe5e-8d4a-42e9-9fce-1989bfdc5c47.html",
-          "description": "(ANSA) - NAIROBI, 22 SET - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with the Minister of Agriculture and Irrigation, Mohamed Abdi Hayir Maareeye, for an exchange of views and an update on the Somali government’s initiatives aimed at promoting local production, increasing added value, and supporting the development of exports. Minister Hayir expressed the hope that Italy, within the framework of its historic fraternal ties and excellent bilateral relations, would once again play a leading role—drawing on the excellence of its companies—in the development of sustainable, ef",
-          "pubDate": "Tue, 22 Sep 2026 14:40:10 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Agriculture"
         },
         {
           "title": "Somalia: Lt. Col. Ahmed: I am living my dream of joining the military to serve",
@@ -165,6 +156,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Ethiopia: Ethiopia - Turning Growth into Lasting Prosperity",
+          "link": "https://allafrica.com/stories/202609240413.html",
+          "description": "[allAfrica] The country has proved that economic momentum is possible. Its harder task is to make growth survive conflict--and turn people, farms and renewable power into jobs, exports and a more durable prosperity.",
+          "pubDate": "Thu, 24 Sep 2026 14:12:22 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia - Turning Growth into Lasting Prosperity"
+        },
+        {
           "title": "Sistema Italia: Meeting in Nairobi with Kenya’s Major Companies",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/24/sistema-italia-meeting-in-nairobi-with-kenyas-major-companies_51e2d428-eb41-4e86-a50a-81d16d9c7786.html",
           "description": "(ANSA) - NAIROBI, 24 SET - The Italian Ambassador to Kenya, Vincenzo Del Monaco, met at his residence in Nairobi with a large delegation of CEOs from leading Kenyan companies. This was the first meeting of its kind, aimed at presenting to Kenyan companies—which collectively generate approximately 15 billion euros in revenue—the tools and opportunities offered by the “Sistema Italia” in Kenya, in line with the Mattei Plan for Africa. In addition to collaboration with the embassy, the Kenyan business community was able to evaluate the options provided by the Italian Trade Agency (ITA), the newly",
@@ -181,24 +181,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: EU Calls for 'De-Escalation' As Tigray Rebels Clash With Ethiopian Forces"
-        },
-        {
-          "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-          "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-          "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-          "pubDate": "Thu, 24 Sep 2026 09:28:33 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war"
-        },
-        {
-          "title": "Kenya: Ningbo's Smart Port Model Shows What Mombasa Can Learn From China",
-          "link": "https://allafrica.com/stories/202609240073.html",
-          "description": "[Capital FM] Ningbo, China -- From a distance, Ningbo-Zhoushan Port looks like the conventional image of a major global seaport; ships lined along deep-water berths, towering cranes moving containers and stacks of steel boxes stretching across enormous yards.",
-          "pubDate": "Thu, 24 Sep 2026 09:08:55 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Ningbo's Smart Port Model Shows What Mombasa Can Learn From China"
         },
         {
           "title": "Ethiopia: Tigray forces seize airports as fighting spreads to Afar",
@@ -244,15 +226,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Italian Ambassador Meets EUTM Commander in Somalia's capital Mogadishu"
-        },
-        {
-          "title": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Agriculture",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/22/somalia-ambassador-dacco-coppi-meets-with-the-minister-of-agriculture_3c7ebe5e-8d4a-42e9-9fce-1989bfdc5c47.html",
-          "description": "(ANSA) - NAIROBI, 22 SET - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with the Minister of Agriculture and Irrigation, Mohamed Abdi Hayir Maareeye, for an exchange of views and an update on the Somali government’s initiatives aimed at promoting local production, increasing added value, and supporting the development of exports. Minister Hayir expressed the hope that Italy, within the framework of its historic fraternal ties and excellent bilateral relations, would once again play a leading role—drawing on the excellence of its companies—in the development of sustainable, ef",
-          "pubDate": "Tue, 22 Sep 2026 14:40:10 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Agriculture"
         },
         {
           "title": "Somalia: Lt. Col. Ahmed: I am living my dream of joining the military to serve",
@@ -343,12 +316,84 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "The Legal Case of Somaliland Secession from Somalia"
+        },
+        {
+          "title": "Spike in online attacks silence Somali journalists in the midst of China and Turkey strategic communications partnership with Somalia",
+          "link": "https://hornobserver.com/articles/3743/Spike-in-online-attacks-silence-Somali-journalists-in-the-midst-of-China-and-Turkey-strategic-communications-partnership-with-Somalia",
+          "description": "On Sunday, 13 September, at least three journalists and three media outlets reported they were affected by a fake memorialization campaign, account suspensions and content removals, leaving their platforms inaccessible to their audiences. According to exiled journalist Zakariye Mohamud Timacadde, his Facebook page, Zakariye Timacadde which has more than one million followers, was suspended around midnight on Sunday. He said he did not receive any notification or explanation from Meta, the parent company of Facebook. In his recent reporting, Zakariye published stories on forced evictions in Mog",
+          "pubDate": "Mon, 14 Sep 2026 17:37:21 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Spike in online attacks silence Somali journalists in the midst of China and Turkey strategic communications partnership with Somalia"
+        },
+        {
+          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
+          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
+          "pubDate": "Saturday, May 16, 2026 - 00:08",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Iran: Costa, Ue sostiene sforzi per soluzione conflitto e libera navigazione a Hormuz",
+          "link": "https://www.agenzianova.com/a/6ab55afd4aedf2.96049669/7811040/2026-09-24/iran-costa-ue-sostiene-sforzi-per-soluzione-conflitto-e-libera-navigazione-a-hormuz",
+          "description": "24 set 19:08 - (Agenzia Nova) - L'Ue sostiene \"tutti gli sforzi volti a una soluzione del conflitto che coinvolge l'Iran\" e chiede che il cessate... (Beb)",
+          "pubDate": "2026-09-24T19:08:46+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Iran: Costa, Ue sostiene sforzi per soluzione conflitto e libera navigazione a Hormuz"
+        },
+        {
+          "title": "Onu: Costa, serve multilateralismo per affrontare sfide, Nazioni Unite riformate al centro",
+          "link": "https://www.agenzianova.com/a/6ab55afd4bf9d7.93723006/7811015/2026-09-24/onu-costa-serve-multilateralismo-per-affrontare-sfide-nazioni-unite-riformate-al-centro",
+          "description": "24 set 19:02 - (Agenzia Nova) - Il multilateralismo non e' un ideale del passato, \"e' l'unico modo realistico per affrontare le sfide di oggi\".... (Beb)",
+          "pubDate": "2026-09-24T19:02:20+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Onu: Costa, serve multilateralismo per affrontare sfide, Nazioni Unite riformate al centro"
+        },
+        {
+          "title": "Ethiopia: Ethiopia - Turning Growth into Lasting Prosperity",
+          "link": "https://allafrica.com/stories/202609240413.html",
+          "description": "[allAfrica] The country has proved that economic momentum is possible. Its harder task is to make growth survive conflict--and turn people, farms and renewable power into jobs, exports and a more durable prosperity.",
+          "pubDate": "Thu, 24 Sep 2026 14:12:22 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia - Turning Growth into Lasting Prosperity"
+        },
+        {
+          "title": "The Autonomous Region of Friuli-Venezia Giulia at Expo 2027 Belgrade",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/24/the-autonomous-region-of-friuli-venezia-giulia-at-expo-2027-belgrade_f8e4b1d7-7eb8-44ab-82fa-78df7d49ed75.html",
+          "description": "(ANSA) - ROMA, 24 SET - The commissioner of the Italian Pavilion at Expo 2027 Belgrade, Ambassador to Serbia Luca Gori, and the president of the Friuli Venezia Giulia Region, Massimiliano Fedriga, have signed the agreement outlining the terms of the autonomous region’s participation in the International Specialized Exposition, scheduled to take place in the Serbian capital from May 15 to August 15, 2027. Expo 2027 Belgrade, titled “Playing for Humanity: Sports and Music for All,” will feature the participation of approximately 140 countries. The signed agreement implements the Framework Agreem",
+          "pubDate": "Thu, 24 Sep 2026 15:25:54 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "The Autonomous Region of Friuli-Venezia Giulia at Expo 2027 Belgrade"
+        },
+        {
+          "title": "Ethiopia: Attack By Rebel Group Raises Fear of Renewed War in Ethiopia",
+          "link": "https://allafrica.com/stories/202609240343.html",
+          "description": "[Premium Times] Months of rising tension in Ethiopia have now escalated into renewed armed clashes in the northern Tigray region, raising concerns that the country could slide back into a civil war.",
+          "pubDate": "Thu, 24 Sep 2026 13:05:14 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Attack By Rebel Group Raises Fear of Renewed War in Ethiopia"
+        },
+        {
+          "title": "Ethiopia's federalism dilemma: Why regional power keeps fuelling conflict",
+          "link": "http://www.africanews.com/2026/09/24/ethiopias-federalism-dilemma-why-regional-power-keeps-fuelling-conflict/",
+          "description": "Tigrayan authorities say they are responding to attacks by federal forces, while the federal government has described the Tigrayan military action as an offensive. Both sides have accused the other of triggering the latest escalation.",
+          "pubDate": "Thu, 24 Sep 2026 11:24:20 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia's federalism dilemma: Why regional power keeps fuelling conflict"
+        },
         {
           "title": "Ethiopia: EU Calls for 'De-Escalation' As Tigray Rebels Clash With Ethiopian Forces",
           "link": "https://allafrica.com/stories/202609240165.html",
@@ -375,15 +420,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: Has the U.S. Adopted a Regime Change Policy in Sudan?"
-        },
-        {
-          "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-          "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-          "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-          "pubDate": "Thu, 24 Sep 2026 09:28:33 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war"
         },
         {
           "title": "University of Palermo Mission to Senegal for a Project on the Causes of Conflict in Africa",
@@ -440,42 +476,6 @@
           "titleIt": "Italian Ambassador Meets EUTM Commander in Somalia's capital Mogadishu"
         },
         {
-          "title": "Tajani says discussed negotiations on reopening Hormuz with Araghchi",
-          "link": "https://www.ansa.it/english/news/2026/09/22/tajani-says-discussed-negotiations-on-reopening-hormuz-with-araghchi_f2318020-a1d7-48c7-bbad-4f75e4c6594e.html",
-          "description": "(ANSA) - ROME, 22 SET - Foreign Minister Antonio Tajani said he had discussed negotiations to reopen the Strait of Hormuz with Iranian counterpart Abbas Araghchi on the sidelines of the United Nations General Assembly in New York on Tuesday. \"The memorandum from last June demonstrated that an agreement is possible, and Italy will continue to support every step toward fully restoring freedom of navigation and ending the conflict,\" Tajani, who is also deputy premier, emphasized on X. He noted that he and Araghchi \"also addressed the crises in Lebanon and Yemen—specifically the need to guarantee ",
-          "pubDate": "Tue, 22 Sep 2026 16:22:06 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Tajani says discussed negotiations on reopening Hormuz with Araghchi"
-        },
-        {
-          "title": "Tajani says discussed negotiations on reopening Hormuz with Araghchi",
-          "link": "https://www.ansa.it/english/news/world/2026/09/22/tajani-says-discussed-negotiations-on-reopening-hormuz-with-araghchi_d5f723ad-c259-48d3-9561-634a60ad81d1.html",
-          "description": "(ANSA) - ROME, 22 SET - Foreign Minister Antonio Tajani said he had discussed negotiations to reopen the Strait of Hormuz with Iranian counterpart Abbas Araghchi on the sidelines of the United Nations General Assembly in New York on Tuesday. \"The memorandum from last June demonstrated that an agreement is possible, and Italy will continue to support every step toward fully restoring freedom of navigation and ending the conflict,\" Tajani, who is also deputy premier, emphasized on X. He noted that he and Araghchi \"also addressed the crises in Lebanon and Yemen—specifically the need to guarantee ",
-          "pubDate": "Tue, 22 Sep 2026 16:21:07 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Tajani says discussed negotiations on reopening Hormuz with Araghchi"
-        },
-        {
-          "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
-          "link": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
-          "description": "Doyle was best known for reporting on African conflicts in the 1990s and 2000s, notably in Rwanda and Sierra Leone.",
-          "pubDate": "Tue, 22 Sep 2026 14:16:42 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Veteran BBC Africa correspondent Mark Doyle dies aged 67"
-        },
-        {
-          "title": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Agriculture",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/22/somalia-ambassador-dacco-coppi-meets-with-the-minister-of-agriculture_3c7ebe5e-8d4a-42e9-9fce-1989bfdc5c47.html",
-          "description": "(ANSA) - NAIROBI, 22 SET - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with the Minister of Agriculture and Irrigation, Mohamed Abdi Hayir Maareeye, for an exchange of views and an update on the Somali government’s initiatives aimed at promoting local production, increasing added value, and supporting the development of exports. Minister Hayir expressed the hope that Italy, within the framework of its historic fraternal ties and excellent bilateral relations, would once again play a leading role—drawing on the excellence of its companies—in the development of sustainable, ef",
-          "pubDate": "Tue, 22 Sep 2026 14:40:10 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Somalia: Ambassador Daccò Coppi Meets with the Minister of Agriculture"
-        },
-        {
           "title": "Somalia: Lt. Col. Ahmed: I am living my dream of joining the military to serve",
           "link": "https://hornobserver.com/articles/3757/Somalia-Lt-Col-Ahmed-I-am-living-my-dream-of-joining-the-military-to-serve",
           "description": "Today, Lt. Col. Ahmed commands the 13th Djiboutian National Defence Forces (DNDF) Battalion serving under the African Union Support and Stabilisation Mission in Somalia (AUSSOM) in Sector 4. Based in Beletweyne, he oversees Djiboutian forces deployed across Beletweyne, Buula Burde, Jalalaqsi and Dhusamareb. For Lt. Col. Ahmed, becoming a military officer is not simply a career achievement. It is the fulfilment of a long-held dream and an opportunity to serve his country and support the people of Somalia. \"I joined the military for two reasons: one is to defend my country by being part of the D",
@@ -519,15 +519,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September"
-        },
-        {
-          "title": "Somalia's Federal Member States Aren't Defending Sovereignty — They're Defending Their Patrons - No One in This Fight Is Neutral",
-          "link": "https://hornobserver.com/articles/3748/Somalias-Federal-Member-States-Arent-Defending-Sovereignty-Theyre-Defending-Their-Patrons-No-One-in-This-Fight-Is-Neutral",
-          "description": "Puntland is furious at Türkiye. Jubaland is furious at Türkiye. Both have spent the past five weeks accusing Ankara of killing their own people. Neither is in a position to make that accusation as a matter of principle. Puntland's ports are run by the UAE. Jubaland's survival for over a decade has depended on Kenya. The one Somali federal member state that tried to stand apart from any foreign patron — South West State — was crushed by federal troops within 48 hours in March. This is not a story about Somali federal member states defending sovereignty against a foreign power. It is a story abo",
-          "pubDate": "Wed, 16 Sep 2026 15:55:14 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia's Federal Member States Aren't Defending Sovereignty — They're Defending Their Patrons - No One in This Fight Is Neutral"
         }
       ]
     },
@@ -535,184 +526,13 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Postwar Arrangements Top al - Zaidi New York Talks",
-          "link": "https://english.aawsat.com/arab-world/5321961-postwar-arrangements-top-al-zaidi%E2%80%99s-new-york-talks",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-09-24T11:15:00Z",
+          "title": "Egypt: Egypt's Next Economy Lies Beyond the Suez Canal",
+          "link": "https://allafrica.com/stories/202609240384.html",
+          "description": "[allAfrica] For centuries, Egypt's power has flowed from the Nile and its position between continents. In the twenty-first century, the question is whether geography can become industry--and strategic relevance become broadly shared prosperity.",
+          "pubDate": "Thu, 24 Sep 2026 13:44:50 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Postwar Arrangements Top al - Zaidi New York Talks"
-        },
-        {
-          "title": "Arab News | Hormuz turmoil pushes EU to seek new alliances , routes through Gulf , commissioner tells Arab News",
-          "link": "https://www.arabnews.com/middle-east/hormuz-turmoil-pushes-eu-to-seek-new-alliances-routes-through-gulf-commissioner-tells-arab-news-3002917",
-          "source": "arabnews.com",
-          "pubDate": "2026-09-24T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | Hormuz turmoil pushes EU to seek new alliances , routes through Gulf , commissioner tells Arab News"
-        },
-        {
-          "title": "Africa shifts masters as Russian arms replace French influence",
-          "link": "https://www.bankingnews.gr/diethni/articles/901254/africa-shifts-masters-as-russian-arms-replace-french-influence",
-          "source": "bankingnews.gr",
-          "pubDate": "2026-09-24T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa shifts masters as Russian arms replace French influence"
-        },
-        {
-          "title": "Salam turns  new page  with Syria as he meets Sharaa in New York",
-          "link": "https://www.naharnet.com:443/stories/en/322682-salam-turns-new-page-with-syria-as-he-meets-sharaa-in-new-york",
-          "source": "naharnet.com",
-          "pubDate": "2026-09-24T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Salam turns  new page  with Syria as he meets Sharaa in New York"
-        },
-        {
-          "title": "Gulf nations have found ways to keep oil flowing through the Iran war , but the costs are mounting",
-          "link": "http://www.leadertelegram.com/news/world/gulf-nations-have-found-ways-to-keep-oil-flowing-through-the-iran-war-but-the/article_9c7a3f5f-85b8-56bd-88be-308417880bc9.html",
-          "source": "leadertelegram.com",
-          "pubDate": "2026-09-24T09:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gulf nations have found ways to keep oil flowing through the Iran war , but the costs are mounting"
-        },
-        {
-          "title": "Gulf nations have found ways to keep oil flowing through the Iran war , but the costs are mounting",
-          "link": "https://www.winknews.com/news/international/gulf-nations-have-found-ways-to-keep-oil-flowing-through-the-iran-war-but-the/article_e6ac3172-97b6-5c8e-b301-744a36232484.html",
-          "source": "winknews.com",
-          "pubDate": "2026-09-24T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gulf nations have found ways to keep oil flowing through the Iran war , but the costs are mounting"
-        },
-        {
-          "title": "Christodoulides calls for  development  of Cypru natural gas  as soon as possible",
-          "link": "https://cyprus-mail.com/2026/09/24/christodoulides-calls-for-development-of-cyprus-natural-gas-as-soon-as-possible",
-          "source": "cyprus-mail.com",
-          "pubDate": "2026-09-24T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Christodoulides calls for  development  of Cypru natural gas  as soon as possible"
-        },
-        {
-          "title": "Capricorn Energy announces Half Year Report",
-          "link": "https://www.energy-pedia.com/news/general/capricorn-energy-announces-205424",
-          "source": "energy-pedia.com",
-          "pubDate": "2026-09-24T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Capricorn Energy announces Half Year Report"
-        },
-        {
-          "title": "Gulf nations have found ways to keep oil flowing through the Iran war , but the costs are mounting",
-          "link": "https://www.durangoherald.com/articles/associated-press/gulf-nations-have-found-ways-to-keep-oil-flowing-through-the-iran-war-but-the-costs-are-mounting/",
-          "source": "durangoherald.com",
-          "pubDate": "2026-09-24T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gulf nations have found ways to keep oil flowing through the Iran war , but the costs are mounting"
-        },
-        {
-          "title": "Saudi Arabia monarch slams targeting of Mecca by Houthis",
-          "link": "https://thenationonlineng.net/saudi-arabias-monarch-slams-targeting-of-mecca-by-houthis/",
-          "source": "thenationonlineng.net",
-          "pubDate": "2026-09-24T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Saudi Arabia monarch slams targeting of Mecca by Houthis"
-        },
-        {
-          "title": "Union Minister for Finance & Corporate Affairs Smt . Nirmala Sitharaman inaugurates BRICS Heads of Tax Authorities Meeting in New Delhi",
-          "link": "https://orissadiary.com/union-minister-for-finance-corporate-affairs-smt-nirmala-sitharaman-inaugurates-brics-heads-of-tax-authorities-meeting-in-new-delhi/",
-          "source": "orissadiary.com",
-          "pubDate": "2026-09-24T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Union Minister for Finance & Corporate Affairs Smt . Nirmala Sitharaman inaugurates BRICS Heads of Tax Authorities Meeting in New Delhi"
-        },
-        {
-          "title": "GSMA and PDAA Unveil Roadmap to Close Africa Mobile Internet Usage Gap and Connect One Billion People by 2030",
-          "link": "https://www.webwire.com/ViewPressRel.asp?aId=360918",
-          "source": "webwire.com",
-          "pubDate": "2026-09-24T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "GSMA and PDAA Unveil Roadmap to Close Africa Mobile Internet Usage Gap and Connect One Billion People by 2030"
-        },
-        {
-          "title": "Gulf nations have found ways to keep oil flowing through the Iran war , but the costs are mounting",
-          "link": "https://abcnews.com/International/wireStory/gulf-nations-found-ways-oil-flowing-iran-war-136708380",
-          "source": "abcnews.com",
-          "pubDate": "2026-09-24T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gulf nations have found ways to keep oil flowing through the Iran war , but the costs are mounting"
-        },
-        {
-          "title": "Gulf nations have found ways to keep oil flowing",
-          "link": "https://abcnews.com/US/wireStory/gulf-nations-found-ways-oil-flowing-iran-war-136708375",
-          "source": "abcnews.com",
-          "pubDate": "2026-09-24T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gulf nations have found ways to keep oil flowing"
-        },
-        {
-          "title": "Software ate my homework  FULL transcript of Michael OLeary press conference in London",
-          "link": "https://www.travelextra.ie/software-ate-my-homework-full-transcript-of-michael-oleary-press-conference-in-london/",
-          "source": "travelextra.ie",
-          "pubDate": "2026-09-24T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Software ate my homework  FULL transcript of Michael OLeary press conference in London"
-        },
-        {
-          "title": "New report flags tighter financing conditions , persistent inflation and pressure on energy and water resources",
-          "link": "https://www.ebrd.com/home/news-and-events/news/2026/running-dry.html",
-          "source": "ebrd.com",
-          "pubDate": "2026-09-24T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "New report flags tighter financing conditions , persistent inflation and pressure on energy and water resources"
-        },
-        {
-          "title": "Gulf nations have found ways to keep oil flowing through the Iran war , but the costs are mounting",
-          "link": "https://www.wral.com/news/ap/3aa72-gulf-nations-have-found-ways-to-keep-oil-flowing-through-the-iran-war-but-the-costs-are-mounting/",
-          "source": "wral.com",
-          "pubDate": "2026-09-24T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gulf nations have found ways to keep oil flowing through the Iran war , but the costs are mounting"
-        },
-        {
-          "title": "Energy , Labor , Steel Tariffs , Competition Hurt Midwest Food Processors",
-          "link": "https://www.q106.com/2026/09/23/energy-labor-steel-tariffs-competition-hurt-midwest-food-processors/",
-          "source": "q106.com",
-          "pubDate": "2026-09-24T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Energy , Labor , Steel Tariffs , Competition Hurt Midwest Food Processors"
-        },
-        {
-          "title": "Gulf nations have found ways to keep oil flowing through the Iran war , but the costs are mounting",
-          "link": "https://economictimes.indiatimes.com/news/international/world-news/gulf-nations-have-found-ways-to-keep-oil-flowing-through-the-iran-war-but-the-costs-are-mounting/articleshow/134451290.cms",
-          "source": "economictimes.indiatimes.com",
-          "pubDate": "2026-09-24T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gulf nations have found ways to keep oil flowing through the Iran war , but the costs are mounting"
-        },
-        {
-          "title": "Gulf nations have found ways to keep oil flowing through the Iran war , but the costs are mounting – Winnipeg Free Press",
-          "link": "https://www.winnipegfreepress.com/business/2026/09/23/gulf-nations-have-found-ways-to-keep-oil-flowing-through-the-iran-war-but-the-costs-are-mounting",
-          "source": "winnipegfreepress.com",
-          "pubDate": "2026-09-24T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gulf nations have found ways to keep oil flowing through the Iran war , but the costs are mounting – Winnipeg Free Press"
+          "titleIt": "Egypt: Egypt's Next Economy Lies Beyond the Suez Canal"
         }
       ]
     },
@@ -720,22 +540,31 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Explainer - Why new war in Ethiopia Tigray threatens to trigger wider conflict",
-          "link": "https://whbl.com/2026/09/23/explainer-why-new-war-in-ethiopias-tigray-threatens-to-trigger-wider-conflict/",
-          "source": "whbl.com",
-          "pubDate": "2026-09-23T18:00:00Z",
+          "title": "Egypt: Egypt's Next Economy Lies Beyond the Suez Canal",
+          "link": "https://allafrica.com/stories/202609240384.html",
+          "description": "[allAfrica] For centuries, Egypt's power has flowed from the Nile and its position between continents. In the twenty-first century, the question is whether geography can become industry--and strategic relevance become broadly shared prosperity.",
+          "pubDate": "Thu, 24 Sep 2026 13:44:50 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Explainer - Why new war in Ethiopia Tigray threatens to trigger wider conflict"
+          "titleIt": "Egypt: Egypt's Next Economy Lies Beyond the Suez Canal"
         },
         {
-          "title": "Explainer - Why new war in Ethiopia Tigray threatens to trigger wider conflict",
-          "link": "https://www.straitstimes.com/world/explainer-why-new-war-in-ethiopias-tigray-threatens-to-trigger-wider-conflict",
-          "source": "straitstimes.com",
-          "pubDate": "2026-09-23T16:45:00Z",
+          "title": "South Sudan: Kiir Dissolves Government Ahead of December 22 Elections",
+          "link": "https://allafrica.com/stories/202609240380.html",
+          "description": "[Agenzia Fides] Juba -- South Sudan is heading toward elections scheduled for December 22 after President Salva Kiir, on September 22, dissolved the Transitional Government of National Unity and appointed an interim executive. The move brings to an end the power-sharing arrangement established under the Revitalized Agreement on the Resolution of the Conflict in South Sudan (R-ARCSS), signed in 2018 to end the civil war that broke out in 2013.",
+          "pubDate": "Thu, 24 Sep 2026 13:42:25 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Explainer - Why new war in Ethiopia Tigray threatens to trigger wider conflict"
+          "titleIt": "South Sudan: Kiir Dissolves Government Ahead of December 22 Elections"
+        },
+        {
+          "title": "Ethiopia: Attack By Rebel Group Raises Fear of Renewed War in Ethiopia",
+          "link": "https://allafrica.com/stories/202609240343.html",
+          "description": "[Premium Times] Months of rising tension in Ethiopia have now escalated into renewed armed clashes in the northern Tigray region, raising concerns that the country could slide back into a civil war.",
+          "pubDate": "Thu, 24 Sep 2026 13:05:14 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Attack By Rebel Group Raises Fear of Renewed War in Ethiopia"
         },
         {
           "title": "Ethiopia: Tigray forces seize airports as fighting spreads to Afar",
@@ -756,78 +585,6 @@
           "titleIt": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray"
         },
         {
-          "title": "Ethiopia : The Egyptian Illusion of Guardianship Over Nile River Demolished Foreever",
-          "link": "https://allafrica.com/stories/202609230460.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-23T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : The Egyptian Illusion of Guardianship Over Nile River Demolished Foreever"
-        },
-        {
-          "title": "Tigray rebels seize airport and clash with federal forces as fighting in Ethiopia reignites",
-          "link": "https://www.euronews.com/2026/09/23/tigray-rebels-seize-airport-and-clash-with-federal-forces-as-fighting-in-ethiopia-reignite",
-          "source": "euronews.com",
-          "pubDate": "2026-09-23T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tigray rebels seize airport and clash with federal forces as fighting in Ethiopia reignites"
-        },
-        {
-          "title": "Ethiopia armed opposition unites against Abiy Ahmed : 5 reads on the country political struggles",
-          "link": "https://theconversation.com/ethiopias-armed-opposition-unites-against-abiy-ahmed-5-reads-on-the-countrys-political-struggles-292619",
-          "source": "theconversation.com",
-          "pubDate": "2026-09-22T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia armed opposition unites against Abiy Ahmed : 5 reads on the country political struggles"
-        },
-        {
-          "title": "Transforming Borders into Bridges : Ethiopia Regional Integration Approach under Prime Minister Abiy Ahmed",
-          "link": "https://www.garoweonline.com/en/opinions/transforming-borders-into-bridges-ethiopia-s-regional-integration-approach-under-prime-minister-abiy-ahmed",
-          "source": "garoweonline.com",
-          "pubDate": "2026-09-21T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Transforming Borders into Bridges : Ethiopia Regional Integration Approach under Prime Minister Abiy Ahmed"
-        },
-        {
-          "title": "Egypt Reaffirms Right to Defend Nile Water Security Under International Law",
-          "link": "https://egyptianstreets.com/2026/09/21/egypt-reaffirms-right-to-defend-nile-water-security-under-international-law/",
-          "source": "egyptianstreets.com",
-          "pubDate": "2026-09-21T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Reaffirms Right to Defend Nile Water Security Under International Law"
-        },
-        {
-          "title": "Africa Intelligence Brief Monday , September 21 , 2026",
-          "link": "https://www.riotimesonline.com/africa-intelligence-brief-monday-september-21-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-21T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa Intelligence Brief Monday , September 21 , 2026"
-        },
-        {
-          "title": "All options on table to protect Nile rights , Egyptian Water Minister warns over GERD",
-          "link": "https://www.egyptindependent.com/all-options-on-table-to-protect-nile-rights-egyptian-water-minister-warns-over-gerd/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-09-21T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "All options on table to protect Nile rights , Egyptian Water Minister warns over GERD"
-        },
-        {
-          "title": "Egypt says it agreed to South Sudan Fula dam",
-          "link": "https://www.radiotamazuj.org/en/news/article/egypt-says-it-agreed-to-south-sudans-fula-dam",
-          "source": "radiotamazuj.org",
-          "pubDate": "2026-09-21T04:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says it agreed to South Sudan Fula dam"
-        },
-        {
           "title": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany",
           "link": "https://hornobserver.com/articles/3754/Somali-journalist-Mohamed-Aweys-Muudey-stabbed-to-death-in-exile-in-Germany",
           "description": "According to a joint press release from the Darmstadt Public Prosecutor's Office and the South Hesse Police Headquarters, Mohamed Aweys Muudey, 68, an asylum seeker who had fled Somalia, was stabbed inside his communal accommodation by a 28-year-old suspect who is now in police custody. Muudey left Somalia in search of safety and protection. However, his life was cut short in a violent knife attack, highlighting the dangers many journalists in exile continue to face. He spent several years in prison in Ethiopia where he was arrested while seeking protection in 2014 before he was pardoned. Muud",
@@ -844,60 +601,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany"
-        },
-        {
-          "title": "Ethiopia and Israel : How a shared New Year can renew an ancient partnership",
-          "link": "http://www.jpost.com/opinion/article-908242",
-          "source": "jpost.com",
-          "pubDate": "2026-09-13T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia and Israel : How a shared New Year can renew an ancient partnership"
-        },
-        {
-          "title": "Arab News | Sudan war is now a regional crisis",
-          "link": "https://www.arabnews.com/opinion/sudans-war-is-now-a-regional-crisis-3001319",
-          "source": "arabnews.com",
-          "pubDate": "2026-09-12T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | Sudan war is now a regional crisis"
-        },
-        {
-          "title": "GERD Output Surpasses Design Estimates By 17 % In First Year , Consortium Urges Focus On Domestic Access",
-          "link": "https://www.thereporterethiopia.com/52764/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-09-12T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "GERD Output Surpasses Design Estimates By 17 % In First Year , Consortium Urges Focus On Domestic Access"
-        },
-        {
-          "title": "A River Has A Source | The Reporter Ethiopia",
-          "link": "https://www.thereporterethiopia.com/52717/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-09-12T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A River Has A Source | The Reporter Ethiopia"
-        },
-        {
-          "title": "The war must not end – NATO",
-          "link": "https://www.bankingnews.gr/diethni/articles/898500/the-war-must-not-end-nato-s-madmen-rammstein-decided-ukraine-is-the-west-s-guinea-pig%20title=",
-          "source": "bankingnews.gr",
-          "pubDate": "2026-09-10T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The war must not end – NATO"
-        },
-        {
-          "title": "The war must not end – NATO",
-          "link": "https://www.bankingnews.gr/diethni/articles/898500/the-war-must-not-end-nato-s-madmen-rammstein-decided-ukraine-is-the-west-s-guinea-pig",
-          "source": "bankingnews.gr",
-          "pubDate": "2026-09-10T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The war must not end – NATO"
         }
       ]
     }
