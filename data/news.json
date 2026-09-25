@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:35:18.817Z",
+  "generatedAt": "2026-09-25T00:36:28.836Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -341,6 +341,42 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "CDC updates polio advisory for Americans traveling to Europe ... as deadly disease sees resurgence",
+          "link": "https://www.dailymail.com/health/article-16158087/cdc-polio-advisory-germany-uk-europe.html",
+          "source": "dailymail.com",
+          "pubDate": "2026-09-25T00:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "CDC updates polio advisory for Americans traveling to Europe ... as deadly disease sees resurgence"
+        },
+        {
+          "title": "Ethiopia , Djibouti hail Dangote $660 million pipeline as energy security boost",
+          "link": "https://www.premiumtimesng.com/business/business-news/912201-ethiopia-djibouti-hail-dangotes-660-million-pipeline-as-energy-security-boost.html",
+          "source": "premiumtimesng.com",
+          "pubDate": "2026-09-24T22:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia , Djibouti hail Dangote $660 million pipeline as energy security boost"
+        },
+        {
+          "title": "Ethiopia Faces Renewed Tigray Conflict",
+          "link": "https://www.africa.com/top-10-news/ethiopia-faces-renewed-tigray-conflict",
+          "source": "africa.com",
+          "pubDate": "2026-09-24T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Faces Renewed Tigray Conflict"
+        },
+        {
+          "title": "Ethiopia and Tigray on verge of return to full - scale war : NPR",
+          "link": "https://www.npr.org/transcripts/nx-s1-5978861",
+          "source": "npr.org",
+          "pubDate": "2026-09-24T21:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia and Tigray on verge of return to full - scale war : NPR"
+        },
+        {
           "title": "War in Ethiopia - The Hill Times",
           "link": "https://www.hilltimes.com/2026/09/24/war-in-ethiopia/519517/",
           "source": "hilltimes.com",
@@ -483,42 +519,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Netanyahu arrives in New York to address the UN , and other Mideast developments"
-        },
-        {
-          "title": "Netanyahu arrives in New York to address the UN , and other Mideast developments",
-          "link": "https://www.local10.com/news/2026/09/24/netanyahu-arrives-in-new-york-to-address-the-un-and-other-mideast-developments/",
-          "source": "local10.com",
-          "pubDate": "2026-09-24T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Netanyahu arrives in New York to address the UN , and other Mideast developments"
-        },
-        {
-          "title": "Fighting widens across Ethiopia as Tigray clashes escalate",
-          "link": "https://www.aljazeera.com/news/2026/9/24/fighting-widens-across-ethiopia-as-tigray-clashes-escalate",
-          "source": "aljazeera.com",
-          "pubDate": "2026-09-24T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fighting widens across Ethiopia as Tigray clashes escalate"
-        },
-        {
-          "title": "Ethiopia , Djibouti Unveil Cross - Border Fuel Pipeline to Strengthen Energy Corridor",
-          "link": "https://www.2merkato.com/news/energy-and-mining/8998-ethiopia-djibouti-unveil-cross-border-fuel-pipeline-to-strengthen-energy-corridor",
-          "source": "2merkato.com",
-          "pubDate": "2026-09-24T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia , Djibouti Unveil Cross - Border Fuel Pipeline to Strengthen Energy Corridor"
-        },
-        {
-          "title": "APO Group - Africa Newsroom / Press release | Eritrean delegation participating in United Nations General Assembly",
-          "link": "https://www.africa-newsroom.com/press/eritrean-delegation-participating-in-united-nations-general-assembly",
-          "source": "africa-newsroom.com",
-          "pubDate": "2026-09-24T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "APO Group - Africa Newsroom / Press release | Eritrean delegation participating in United Nations General Assembly"
         }
       ]
     },
@@ -567,6 +567,24 @@
           "titleIt": "Ethiopia: Attack By Rebel Group Raises Fear of Renewed War in Ethiopia"
         },
         {
+          "title": "Explainer - Why new war in Ethiopia Tigray threatens to trigger wider conflict",
+          "link": "https://whbl.com/2026/09/23/explainer-why-new-war-in-ethiopias-tigray-threatens-to-trigger-wider-conflict/",
+          "source": "whbl.com",
+          "pubDate": "2026-09-23T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Explainer - Why new war in Ethiopia Tigray threatens to trigger wider conflict"
+        },
+        {
+          "title": "Explainer - Why new war in Ethiopia Tigray threatens to trigger wider conflict",
+          "link": "https://www.straitstimes.com/world/explainer-why-new-war-in-ethiopias-tigray-threatens-to-trigger-wider-conflict",
+          "source": "straitstimes.com",
+          "pubDate": "2026-09-23T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Explainer - Why new war in Ethiopia Tigray threatens to trigger wider conflict"
+        },
+        {
           "title": "Ethiopia: Tigray forces seize airports as fighting spreads to Afar",
           "link": "http://www.africanews.com/2026/09/23/ethiopia-tigray-forces-seize-airports-as-fighting-spreads-to-afar/",
           "description": "Tigrayan rebels in northern Ethiopia seized control of airports and battled federal troops in the neighbouring Afar region, multiple sources told AFP on Wednesday, as long-standing tensions spilled into open conflict.",
@@ -585,6 +603,78 @@
           "titleIt": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray"
         },
         {
+          "title": "Ethiopia : The Egyptian Illusion of Guardianship Over Nile River Demolished Foreever",
+          "link": "https://allafrica.com/stories/202609230460.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-23T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : The Egyptian Illusion of Guardianship Over Nile River Demolished Foreever"
+        },
+        {
+          "title": "Tigray rebels seize airport and clash with federal forces as fighting in Ethiopia reignites",
+          "link": "https://www.euronews.com/2026/09/23/tigray-rebels-seize-airport-and-clash-with-federal-forces-as-fighting-in-ethiopia-reignite",
+          "source": "euronews.com",
+          "pubDate": "2026-09-23T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tigray rebels seize airport and clash with federal forces as fighting in Ethiopia reignites"
+        },
+        {
+          "title": "Ethiopia armed opposition unites against Abiy Ahmed : 5 reads on the country political struggles",
+          "link": "https://theconversation.com/ethiopias-armed-opposition-unites-against-abiy-ahmed-5-reads-on-the-countrys-political-struggles-292619",
+          "source": "theconversation.com",
+          "pubDate": "2026-09-22T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia armed opposition unites against Abiy Ahmed : 5 reads on the country political struggles"
+        },
+        {
+          "title": "Transforming Borders into Bridges : Ethiopia Regional Integration Approach under Prime Minister Abiy Ahmed",
+          "link": "https://www.garoweonline.com/en/opinions/transforming-borders-into-bridges-ethiopia-s-regional-integration-approach-under-prime-minister-abiy-ahmed",
+          "source": "garoweonline.com",
+          "pubDate": "2026-09-21T22:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Transforming Borders into Bridges : Ethiopia Regional Integration Approach under Prime Minister Abiy Ahmed"
+        },
+        {
+          "title": "Egypt Reaffirms Right to Defend Nile Water Security Under International Law",
+          "link": "https://egyptianstreets.com/2026/09/21/egypt-reaffirms-right-to-defend-nile-water-security-under-international-law/",
+          "source": "egyptianstreets.com",
+          "pubDate": "2026-09-21T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Reaffirms Right to Defend Nile Water Security Under International Law"
+        },
+        {
+          "title": "Africa Intelligence Brief Monday , September 21 , 2026",
+          "link": "https://www.riotimesonline.com/africa-intelligence-brief-monday-september-21-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-21T17:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa Intelligence Brief Monday , September 21 , 2026"
+        },
+        {
+          "title": "All options on table to protect Nile rights , Egyptian Water Minister warns over GERD",
+          "link": "https://www.egyptindependent.com/all-options-on-table-to-protect-nile-rights-egyptian-water-minister-warns-over-gerd/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-09-21T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "All options on table to protect Nile rights , Egyptian Water Minister warns over GERD"
+        },
+        {
+          "title": "Egypt says it agreed to South Sudan Fula dam",
+          "link": "https://www.radiotamazuj.org/en/news/article/egypt-says-it-agreed-to-south-sudans-fula-dam",
+          "source": "radiotamazuj.org",
+          "pubDate": "2026-09-21T04:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt says it agreed to South Sudan Fula dam"
+        },
+        {
           "title": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany",
           "link": "https://hornobserver.com/articles/3754/Somali-journalist-Mohamed-Aweys-Muudey-stabbed-to-death-in-exile-in-Germany",
           "description": "According to a joint press release from the Darmstadt Public Prosecutor's Office and the South Hesse Police Headquarters, Mohamed Aweys Muudey, 68, an asylum seeker who had fled Somalia, was stabbed inside his communal accommodation by a 28-year-old suspect who is now in police custody. Muudey left Somalia in search of safety and protection. However, his life was cut short in a violent knife attack, highlighting the dangers many journalists in exile continue to face. He spent several years in prison in Ethiopia where he was arrested while seeking protection in 2014 before he was pardoned. Muud",
@@ -601,6 +691,33 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany"
+        },
+        {
+          "title": "Ethiopia and Israel : How a shared New Year can renew an ancient partnership",
+          "link": "http://www.jpost.com/opinion/article-908242",
+          "source": "jpost.com",
+          "pubDate": "2026-09-13T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia and Israel : How a shared New Year can renew an ancient partnership"
+        },
+        {
+          "title": "Arab News | Sudan war is now a regional crisis",
+          "link": "https://www.arabnews.com/opinion/sudans-war-is-now-a-regional-crisis-3001319",
+          "source": "arabnews.com",
+          "pubDate": "2026-09-12T20:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | Sudan war is now a regional crisis"
+        },
+        {
+          "title": "GERD Output Surpasses Design Estimates By 17 % In First Year , Consortium Urges Focus On Domestic Access",
+          "link": "https://www.thereporterethiopia.com/52764/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-09-12T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GERD Output Surpasses Design Estimates By 17 % In First Year , Consortium Urges Focus On Domestic Access"
         }
       ]
     }
