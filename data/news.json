@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T13:52:29.496Z",
+  "generatedAt": "2026-09-25T18:41:27.022Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -156,6 +156,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+          "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+          "description": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
+          "pubDate": "Fri, 25 Sep 2026 14:24:19 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti"
+        },
+        {
           "title": "Kenya: Gulf Energy Receives Drilling Rig in Mombasa As Kenya Targets First Oil in Dec",
           "link": "https://allafrica.com/stories/202609250341.html",
           "description": "[Capital FM] Nairobi -- Kenya's push to commence commercial crude oil production by the end of 2026 has gained momentum following the arrival of an onshore drilling rig for the South Lokichar oil development at the Port of Mombasa.",
@@ -199,24 +208,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Mattei Plan: Lombardy in Kenya for an Agricultural Partnership"
-        },
-        {
-          "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-          "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-          "description": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
-          "pubDate": "Fri, 25 Sep 2026 06:48:07 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti"
-        },
-        {
-          "title": "Ethiopia: Ethiopia - Turning Growth into Lasting Prosperity",
-          "link": "https://allafrica.com/stories/202609240413.html",
-          "description": "[allAfrica] The country has proved that economic momentum is possible. Its harder task is to make growth survive conflict--and turn people, farms and renewable power into jobs, exports and a more durable prosperity.",
-          "pubDate": "Thu, 24 Sep 2026 14:12:22 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia - Turning Growth into Lasting Prosperity"
         },
         {
           "title": "Sistema Italia: Meeting in Nairobi with Kenya’s Major Companies",
@@ -334,12 +325,48 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "South West Leader Nominates El Niño Committee as Somalia Warns of Flood Risks"
+        },
+        {
+          "title": "The Legal Case of Somaliland Secession from Somalia",
+          "link": "https://hornobserver.com/articles/3744/The-Legal-Case-of-Somaliland-Secession-from-Somalia",
+          "description": "Somaliland's quest for indepedance and self-governace stands at more than 30 years and seems a reality in the Horn of Africa region, thus the paper presents the historical background and analysis of that ongoing journey, in reference in international legal frameworks, and its domestic supreme law of the land that came into effect through public Referendum, in May 2001. Hence, the short legal article uses academic materials as secondary and author's personal reflection, and legal understanding on the subject matter, without further exaggration, or incongruity, but rather what set-out by the law",
+          "pubDate": "Tue, 15 Sep 2026 16:56:43 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "The Legal Case of Somaliland Secession from Somalia"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Liberia: Robtel Pailey Says U.S. Deportee Deal Is Unconstitutional",
+          "link": "https://allafrica.com/stories/202609250468.html",
+          "description": "[Liberian Investigator] Liberia's agreement to take up to 1,200 people deported from the United States violates the Constitution and undermines the country's credibility on the U.N. Security Council, Liberian academic Robtel Neajai Pailey argues in a commentary calling on the government to cancel agreements with Washington that breach national law.",
+          "pubDate": "Fri, 25 Sep 2026 17:33:50 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Liberia: Robtel Pailey Says U.S. Deportee Deal Is Unconstitutional"
+        },
+        {
+          "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+          "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+          "description": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
+          "pubDate": "Fri, 25 Sep 2026 14:24:19 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti"
+        },
+        {
+          "title": "Analyst warns Ethiopia fighting could widen into regional conflict",
+          "link": "http://www.africanews.com/2026/09/25/analyst-warns-ethiopia-fighting-could-widen-into-regional-conflict/",
+          "description": "Renewed fighting in northern Ethiopia could spread beyond Tigray and destabilize the wider Horn of Africa, an International Crisis Group analyst warned",
+          "pubDate": "Fri, 25 Sep 2026 13:49:27 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Analyst warns Ethiopia fighting could widen into regional conflict"
+        },
         {
           "title": "Heavy fighting, internet disruption as Ethiopia conflict rages",
           "link": "http://www.africanews.com/2026/09/25/heavy-fighting-internet-disruption-as-ethiopia-conflict-rages/",
@@ -377,15 +404,6 @@
           "titleIt": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia"
         },
         {
-          "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-          "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-          "description": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
-          "pubDate": "Fri, 25 Sep 2026 06:48:07 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti"
-        },
-        {
           "title": "Ethiopian president warns of 'interference' amid renewed Tigray fighting",
           "link": "http://www.africanews.com/2026/09/25/ethiopian-president-warns-of-interference-amid-renewed-tigray-fighting/",
           "description": "Speaking at the UN General Assembly, Taye Atske Selassie blamed 'external actors' for renewed conflict in the region.",
@@ -393,15 +411,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopian president warns of 'interference' amid renewed Tigray fighting"
-        },
-        {
-          "title": "Ethiopia: Ethiopia - Turning Growth into Lasting Prosperity",
-          "link": "https://allafrica.com/stories/202609240413.html",
-          "description": "[allAfrica] The country has proved that economic momentum is possible. Its harder task is to make growth survive conflict--and turn people, farms and renewable power into jobs, exports and a more durable prosperity.",
-          "pubDate": "Thu, 24 Sep 2026 14:12:22 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia - Turning Growth into Lasting Prosperity"
         },
         {
           "title": "The Autonomous Region of Friuli-Venezia Giulia at Expo 2027 Belgrade",
@@ -510,202 +519,12 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September"
-        },
-        {
-          "title": "Somalia's Federal Member States Aren't Defending Sovereignty — They're Defending Their Patrons - No One in This Fight Is Neutral",
-          "link": "https://hornobserver.com/articles/3748/Somalias-Federal-Member-States-Arent-Defending-Sovereignty-Theyre-Defending-Their-Patrons-No-One-in-This-Fight-Is-Neutral",
-          "description": "Puntland is furious at Türkiye. Jubaland is furious at Türkiye. Both have spent the past five weeks accusing Ankara of killing their own people. Neither is in a position to make that accusation as a matter of principle. Puntland's ports are run by the UAE. Jubaland's survival for over a decade has depended on Kenya. The one Somali federal member state that tried to stand apart from any foreign patron — South West State — was crushed by federal troops within 48 hours in March. This is not a story about Somali federal member states defending sovereignty against a foreign power. It is a story abo",
-          "pubDate": "Wed, 16 Sep 2026 15:55:14 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia's Federal Member States Aren't Defending Sovereignty — They're Defending Their Patrons - No One in This Fight Is Neutral"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Increased Cash Offer for Capricorn by Genel Energy | Company Announcement",
-          "link": "https://www.investegate.co.uk/announcement/rns/capricorn-energy--cne/increased-cash-offer-for-capricorn-by-genel-energy/9791073",
-          "source": "investegate.co.uk",
-          "pubDate": "2026-09-25T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Increased Cash Offer for Capricorn by Genel Energy | Company Announcement"
-        },
-        {
-          "title": "Latest Articles",
-          "link": "https://freerepublic.com/tag/*/index?more=4396809",
-          "source": "freerepublic.com",
-          "pubDate": "2026-09-25T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Latest Articles"
-        },
-        {
-          "title": "FULL TEXT : Netanyahu UN speech as delegates walk out",
-          "link": "https://punchng.com/full-text-netanyahus-speech-at-un-general-assembly/",
-          "source": "punchng.com",
-          "pubDate": "2026-09-25T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "FULL TEXT : Netanyahu UN speech as delegates walk out"
-        },
-        {
-          "title": "Latest Articles",
-          "link": "https://freerepublic.com/tag/*/index?more=4396802",
-          "source": "freerepublic.com",
-          "pubDate": "2026-09-25T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Latest Articles"
-        },
-        {
-          "title": "Salam turns  new page  with Syria as he meets Sharaa in New York",
-          "link": "https://naharnet.com/stories/en/322682-salam-turns-new-page-with-syria-as-he-meets-sharaa-in-new-york",
-          "source": "naharnet.com",
-          "pubDate": "2026-09-25T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Salam turns  new page  with Syria as he meets Sharaa in New York"
-        },
-        {
-          "title": "Genel Energy Plc : Increased Recommended Cash Offer For Capricorn Energy Plc By Genel Energy No . 9 Limited",
-          "link": "https://www.finanznachrichten.de/nachrichten-2026-09/69674418-genel-energy-plc-increased-recommended-cash-offer-for-capricorn-energy-plc-by-genel-energy-no-9-limited-015.htm",
-          "source": "finanznachrichten.de",
-          "pubDate": "2026-09-25T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Genel Energy Plc : Increased Recommended Cash Offer For Capricorn Energy Plc By Genel Energy No . 9 Limited"
-        },
-        {
-          "title": "Feature : The Address Is African , The Ownership Is Chinese : The Intelligence Question Nobody Is Asking of Announcement 54 of 2026",
-          "link": "https://thechronicle.com.gh/feature-the-address-is-african-the-ownership-is-chinese-the-intelligence-question-nobody-is-asking-of-announcement-54-of-2026/",
-          "source": "thechronicle.com.gh",
-          "pubDate": "2026-09-25T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Feature : The Address Is African , The Ownership Is Chinese : The Intelligence Question Nobody Is Asking of Announcement 54 of 2026"
-        },
-        {
-          "title": "Who gives up the gun first ? Gaza path to peace lies in learning how other wars ended",
-          "link": "https://www.thenationalnews.com/opinion/comment/2026/09/25/gaza-palestine-israel-hamas-un-board-of-peace/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-09-25T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who gives up the gun first ? Gaza path to peace lies in learning how other wars ended"
-        },
-        {
-          "title": "INS Sudarshini in the Missile Age : Why India Navy Still Trains on a Three - Masted Sailing Ship",
-          "link": "https://openthemagazine.com/india/sails-in-the-missile-age-why-the-indian-navy-still-needs-ins-sudarshini",
-          "source": "openthemagazine.com",
-          "pubDate": "2026-09-25T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "INS Sudarshini in the Missile Age : Why India Navy Still Trains on a Three - Masted Sailing Ship"
-        },
-        {
-          "title": "INS Sudarshini reaches Egypt Alexandria port during Lokayan 26 transoceanic expedition",
-          "link": "https://aninews.in/news/world/middle-east/ins-sudarshini-reaches-egypts-alexandria-port-during-lokayan-26-transoceanic-expedition20260925065401/",
-          "source": "aninews.in",
-          "pubDate": "2026-09-25T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "INS Sudarshini reaches Egypt Alexandria port during Lokayan 26 transoceanic expedition"
-        },
-        {
-          "title": "Iran seeks deal with US , not war : Pezeshkian",
-          "link": "https://tribune.com.pk/story/2631318/iran-seeks-deal-with-us-not-war-pezeshkian",
-          "source": "tribune.com.pk",
-          "pubDate": "2026-09-25T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran seeks deal with US , not war : Pezeshkian"
-        },
-        {
-          "title": "INS Sudarshini reaches Egypt Alexandria port during Lokayan 26 transoceanic expedition",
-          "link": "http://www.indiagazette.com/news/279330002/ins-sudarshini-reaches-egypt-alexandria-port-during-lokayan-26-transoceanic-expedition",
-          "source": "indiagazette.com",
-          "pubDate": "2026-09-25T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "INS Sudarshini reaches Egypt Alexandria port during Lokayan 26 transoceanic expedition"
-        },
-        {
-          "title": "UNGA Day 3 : Netanyahu defends Israel as delegates walk out",
-          "link": "https://www.dw.com/en/unga-day-3-netanyahu-defends-israel-as-delegates-walk-out/live-79366211",
-          "source": "dw.com",
-          "pubDate": "2026-09-25T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "UNGA Day 3 : Netanyahu defends Israel as delegates walk out"
-        },
-        {
-          "title": "Aucamp urges faster agricultural master plan rollout and more private investment",
-          "link": "https://www.businessday.co.za/news/2026-09-25-aucamp-urges-quicker-rollout-of-agriculture-master-plan/",
-          "source": "businessday.co.za",
-          "pubDate": "2026-09-25T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Aucamp urges faster agricultural master plan rollout and more private investment"
-        },
-        {
-          "title": "Gaza Strike on Funeral Car Adds to Toll a Year Into Fragile Truce",
-          "link": "https://www.hngn.com/articles/273357/20260924/gaza-strike-funeral-car-adds-toll-year-fragile-truce.htm",
-          "source": "hngn.com",
-          "pubDate": "2026-09-25T04:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gaza Strike on Funeral Car Adds to Toll a Year Into Fragile Truce"
-        },
-        {
-          "title": "Peace in unexpected places : What if Gazans picked olives with Israelis ?",
-          "link": "https://www.jpost.com/opinion/article-909258",
-          "source": "jpost.com",
-          "pubDate": "2026-09-25T02:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Peace in unexpected places : What if Gazans picked olives with Israelis ?"
-        },
-        {
-          "title": "INS Sudarshini reaches Egypt Alexandria port during Lokayan 26 transoceanic expedition",
-          "link": "http://www.arabherald.com/news/279330002/ins-sudarshini-reaches-egypt-alexandria-port-during-lokayan-26-transoceanic-expedition",
-          "source": "arabherald.com",
-          "pubDate": "2026-09-25T02:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "INS Sudarshini reaches Egypt Alexandria port during Lokayan 26 transoceanic expedition"
-        },
-        {
-          "title": "BRICS Rising : Reimagining Global Geopolitics And The Emerging Multipolar World Order - Analysis",
-          "link": "https://www.eurasiareview.com/25092026-brics-rising-reimagining-global-geopolitics-and-the-emerging-multipolar-world-order-analysis/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-09-25T02:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BRICS Rising : Reimagining Global Geopolitics And The Emerging Multipolar World Order - Analysis"
-        },
-        {
-          "title": "INS Sudarshini reaches Egypt Alexandria port during Lokayan 26 transoceanic expedition",
-          "link": "http://www.bignewsnetwork.com/news/279330002/ins-sudarshini-reaches-egypt-alexandria-port-during-lokayan-26-transoceanic-expedition",
-          "source": "bignewsnetwork.com",
-          "pubDate": "2026-09-25T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "INS Sudarshini reaches Egypt Alexandria port during Lokayan 26 transoceanic expedition"
-        },
-        {
-          "title": "U . S . stock markets fall further as Treasury yields soar",
-          "link": "http://www.floridastatesman.com/news/279329659/u-s-stock-markets-fall-further-as-treasury-yields-soar",
-          "source": "floridastatesman.com",
-          "pubDate": "2026-09-25T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stock markets fall further as Treasury yields soar"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
@@ -718,24 +537,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopia, Djibouti, and Dangote to build $660m petroleum pipeline"
-        },
-        {
-          "title": "Explainer - Why new war in Ethiopia Tigray threatens to trigger wider conflict",
-          "link": "https://whbl.com/2026/09/23/explainer-why-new-war-in-ethiopias-tigray-threatens-to-trigger-wider-conflict/",
-          "source": "whbl.com",
-          "pubDate": "2026-09-23T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Explainer - Why new war in Ethiopia Tigray threatens to trigger wider conflict"
-        },
-        {
-          "title": "Explainer - Why new war in Ethiopia Tigray threatens to trigger wider conflict",
-          "link": "https://www.straitstimes.com/world/explainer-why-new-war-in-ethiopias-tigray-threatens-to-trigger-wider-conflict",
-          "source": "straitstimes.com",
-          "pubDate": "2026-09-23T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Explainer - Why new war in Ethiopia Tigray threatens to trigger wider conflict"
         },
         {
           "title": "Ethiopia: Tigray forces seize airports as fighting spreads to Afar",
@@ -756,78 +557,6 @@
           "titleIt": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray"
         },
         {
-          "title": "Ethiopia : The Egyptian Illusion of Guardianship Over Nile River Demolished Foreever",
-          "link": "https://allafrica.com/stories/202609230460.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-23T15:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : The Egyptian Illusion of Guardianship Over Nile River Demolished Foreever"
-        },
-        {
-          "title": "Tigray rebels seize airport and clash with federal forces as fighting in Ethiopia reignites",
-          "link": "https://www.euronews.com/2026/09/23/tigray-rebels-seize-airport-and-clash-with-federal-forces-as-fighting-in-ethiopia-reignite",
-          "source": "euronews.com",
-          "pubDate": "2026-09-23T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tigray rebels seize airport and clash with federal forces as fighting in Ethiopia reignites"
-        },
-        {
-          "title": "Ethiopia armed opposition unites against Abiy Ahmed : 5 reads on the country political struggles",
-          "link": "https://theconversation.com/ethiopias-armed-opposition-unites-against-abiy-ahmed-5-reads-on-the-countrys-political-struggles-292619",
-          "source": "theconversation.com",
-          "pubDate": "2026-09-22T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia armed opposition unites against Abiy Ahmed : 5 reads on the country political struggles"
-        },
-        {
-          "title": "Transforming Borders into Bridges : Ethiopia Regional Integration Approach under Prime Minister Abiy Ahmed",
-          "link": "https://www.garoweonline.com/en/opinions/transforming-borders-into-bridges-ethiopia-s-regional-integration-approach-under-prime-minister-abiy-ahmed",
-          "source": "garoweonline.com",
-          "pubDate": "2026-09-21T22:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Transforming Borders into Bridges : Ethiopia Regional Integration Approach under Prime Minister Abiy Ahmed"
-        },
-        {
-          "title": "Egypt Reaffirms Right to Defend Nile Water Security Under International Law",
-          "link": "https://egyptianstreets.com/2026/09/21/egypt-reaffirms-right-to-defend-nile-water-security-under-international-law/",
-          "source": "egyptianstreets.com",
-          "pubDate": "2026-09-21T19:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Reaffirms Right to Defend Nile Water Security Under International Law"
-        },
-        {
-          "title": "Africa Intelligence Brief Monday , September 21 , 2026",
-          "link": "https://www.riotimesonline.com/africa-intelligence-brief-monday-september-21-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-09-21T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa Intelligence Brief Monday , September 21 , 2026"
-        },
-        {
-          "title": "All options on table to protect Nile rights , Egyptian Water Minister warns over GERD",
-          "link": "https://www.egyptindependent.com/all-options-on-table-to-protect-nile-rights-egyptian-water-minister-warns-over-gerd/",
-          "source": "egyptindependent.com",
-          "pubDate": "2026-09-21T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "All options on table to protect Nile rights , Egyptian Water Minister warns over GERD"
-        },
-        {
-          "title": "Egypt says it agreed to South Sudan Fula dam",
-          "link": "https://www.radiotamazuj.org/en/news/article/egypt-says-it-agreed-to-south-sudans-fula-dam",
-          "source": "radiotamazuj.org",
-          "pubDate": "2026-09-21T04:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt says it agreed to South Sudan Fula dam"
-        },
-        {
           "title": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany",
           "link": "https://hornobserver.com/articles/3754/Somali-journalist-Mohamed-Aweys-Muudey-stabbed-to-death-in-exile-in-Germany",
           "description": "According to a joint press release from the Darmstadt Public Prosecutor's Office and the South Hesse Police Headquarters, Mohamed Aweys Muudey, 68, an asylum seeker who had fled Somalia, was stabbed inside his communal accommodation by a 28-year-old suspect who is now in police custody. Muudey left Somalia in search of safety and protection. However, his life was cut short in a violent knife attack, highlighting the dangers many journalists in exile continue to face. He spent several years in prison in Ethiopia where he was arrested while seeking protection in 2014 before he was pardoned. Muud",
@@ -844,51 +573,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany"
-        },
-        {
-          "title": "Ethiopia and Israel : How a shared New Year can renew an ancient partnership",
-          "link": "http://www.jpost.com/opinion/article-908242",
-          "source": "jpost.com",
-          "pubDate": "2026-09-13T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia and Israel : How a shared New Year can renew an ancient partnership"
-        },
-        {
-          "title": "Arab News | Sudan war is now a regional crisis",
-          "link": "https://www.arabnews.com/opinion/sudans-war-is-now-a-regional-crisis-3001319",
-          "source": "arabnews.com",
-          "pubDate": "2026-09-12T20:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | Sudan war is now a regional crisis"
-        },
-        {
-          "title": "GERD Output Surpasses Design Estimates By 17 % In First Year , Consortium Urges Focus On Domestic Access",
-          "link": "https://www.thereporterethiopia.com/52764/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-09-12T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "GERD Output Surpasses Design Estimates By 17 % In First Year , Consortium Urges Focus On Domestic Access"
-        },
-        {
-          "title": "A River Has A Source | The Reporter Ethiopia",
-          "link": "https://www.thereporterethiopia.com/52717/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-09-12T12:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A River Has A Source | The Reporter Ethiopia"
-        },
-        {
-          "title": "The war must not end – NATO",
-          "link": "https://www.bankingnews.gr/diethni/articles/898500/the-war-must-not-end-nato-s-madmen-rammstein-decided-ukraine-is-the-west-s-guinea-pig%20title=",
-          "source": "bankingnews.gr",
-          "pubDate": "2026-09-10T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The war must not end – NATO"
         }
       ]
     }
