@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T05:05:40.256Z",
+  "generatedAt": "2026-09-26T11:30:37.950Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -155,6 +155,24 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Kenya: Stakeholders Urge Parliament to Review Tobacco Bill Over Business, Licensing Concerns",
+          "link": "https://allafrica.com/stories/202609250407.html",
+          "description": "[Capital FM] Eldoret -- Stakeholders in Uasin Gishu County have urged Parliament to consider the impact of proposed changes to the Tobacco Control Act on businesses and livelihoods as it reviews the Tobacco Control (Amendment) Bill, 2025.",
+          "pubDate": "Fri, 25 Sep 2026 15:58:52 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Stakeholders Urge Parliament to Review Tobacco Bill Over Business, Licensing Concerns"
+        },
+        {
+          "title": "East Africa: A Pipeline Linking Ports, Markets and the Horn's Future",
+          "link": "https://allafrica.com/stories/202609250392.html",
+          "description": "[ENA] The Horn of Africa is on the cusp of a significant transformation, driven by a new 660 million USD infrastructure project. This project promises to revolutionize the way Ethiopia receives, stores, and distributes petroleum products. At the heart of this project is a 120-kilometer refined petroleum pipeline linking Damerjog in Djibouti with Dewele in Ethiopia.",
+          "pubDate": "Fri, 25 Sep 2026 15:53:29 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "East Africa: A Pipeline Linking Ports, Markets and the Horn's Future"
+        },
         {
           "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
           "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
@@ -316,24 +334,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "South West Leader Nominates El Niño Committee as Somalia Warns of Flood Risks"
-        },
-        {
-          "title": "The Legal Case of Somaliland Secession from Somalia",
-          "link": "https://hornobserver.com/articles/3744/The-Legal-Case-of-Somaliland-Secession-from-Somalia",
-          "description": "Somaliland's quest for indepedance and self-governace stands at more than 30 years and seems a reality in the Horn of Africa region, thus the paper presents the historical background and analysis of that ongoing journey, in reference in international legal frameworks, and its domestic supreme law of the land that came into effect through public Referendum, in May 2001. Hence, the short legal article uses academic materials as secondary and author's personal reflection, and legal understanding on the subject matter, without further exaggration, or incongruity, but rather what set-out by the law",
-          "pubDate": "Tue, 15 Sep 2026 16:56:43 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "The Legal Case of Somaliland Secession from Somalia"
-        },
-        {
-          "title": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/egypt/strategic-balance-under-stress-egypt-and-us-israeli-war-iran",
-          "description": "Egypt has been walking a tightrope since the U.S.-Israeli war with Iran began, joining mediation efforts while signalling solidarity with Gulf Arab partners under Iranian attack. But with some Gulf capitals voicing expectations of stronger support, Cairo may find itself under increasing pressure.&nbsp;",
-          "pubDate": "Saturday, May 16, 2026 - 00:08",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "“Strategic Balance” under Stress: Egypt and the U.S.-Israeli War with Iran"
         }
       ]
     },
@@ -357,6 +357,24 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Liberia: Robtel Pailey Says U.S. Deportee Deal Is Unconstitutional"
+        },
+        {
+          "title": "Uganda: Euro Gold Partners With Karamoja Miners to Formalise Gold Production",
+          "link": "https://allafrica.com/stories/202609250414.html",
+          "description": "[Independent (Kampala)] Moroto -- Euro Gold Refinery has signed an agreement with the Kakoka Artisanal Miners Association in Abim District to support licensed gold production and improve access to formal markets, as Uganda seeks to strengthen oversight of its artisanal mining sector.",
+          "pubDate": "Fri, 25 Sep 2026 16:05:58 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Uganda: Euro Gold Partners With Karamoja Miners to Formalise Gold Production"
+        },
+        {
+          "title": "East Africa: A Pipeline Linking Ports, Markets and the Horn's Future",
+          "link": "https://allafrica.com/stories/202609250392.html",
+          "description": "[ENA] The Horn of Africa is on the cusp of a significant transformation, driven by a new 660 million USD infrastructure project. This project promises to revolutionize the way Ethiopia receives, stores, and distributes petroleum products. At the heart of this project is a 120-kilometer refined petroleum pipeline linking Damerjog in Djibouti with Dewele in Ethiopia.",
+          "pubDate": "Fri, 25 Sep 2026 15:53:29 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "East Africa: A Pipeline Linking Ports, Markets and the Horn's Future"
         },
         {
           "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
@@ -413,6 +431,78 @@
           "titleIt": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia"
         },
         {
+          "title": "Fighting rages in Ethiopia as civil war resumes",
+          "link": "https://www.rte.ie/news/world/2026/0925/1592922-ethiopia-tigray/",
+          "source": "rte.ie",
+          "pubDate": "2026-09-25T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fighting rages in Ethiopia as civil war resumes"
+        },
+        {
+          "title": "ILO , UNHCR Boost Decent Work for Refugees in Ethiopia",
+          "link": "https://www.miragenews.com/ilo-unhcr-boost-decent-work-for-refugees-in-1750361/",
+          "source": "miragenews.com",
+          "pubDate": "2026-09-25T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "ILO , UNHCR Boost Decent Work for Refugees in Ethiopia"
+        },
+        {
+          "title": "Ethiopia , Djibouti Launch US$660M Dangote Petroleum Pipeline",
+          "link": "https://www.riotimesonline.com/dangote-ethiopia-djibouti-pipeline-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-09-25T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia , Djibouti Launch US$660M Dangote Petroleum Pipeline"
+        },
+        {
+          "title": "Africa : Ethiopia , Djibouti Hail Dangote $660 Million Pipeline As Energy Security Boost",
+          "link": "https://allafrica.com/stories/202609250028.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-25T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Ethiopia , Djibouti Hail Dangote $660 Million Pipeline As Energy Security Boost"
+        },
+        {
+          "title": "Africa : Dangote , Ethiopia to Build $660m Djibouti Fuel Pipeline",
+          "link": "https://allafrica.com/stories/202609250008.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-25T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : Dangote , Ethiopia to Build $660m Djibouti Fuel Pipeline"
+        },
+        {
+          "title": "Ethiopia , Djibouti presidents laud Dangote $660m pipeline project",
+          "link": "https://thenationonlineng.net/ethiopia-djibouti-presidents-laud-dangotes-660m-pipeline-project/",
+          "source": "thenationonlineng.net",
+          "pubDate": "2026-09-25T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia , Djibouti presidents laud Dangote $660m pipeline project"
+        },
+        {
+          "title": "Ethiopia army says it has repelled attacks in first comment on fresh fighting - News",
+          "link": "https://www.namibian.com.na/ethiopias-army-says-it-has-repelled-attacks-in-first-comment-on-fresh-fighting/",
+          "source": "namibian.com.na",
+          "pubDate": "2026-09-25T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia army says it has repelled attacks in first comment on fresh fighting - News"
+        },
+        {
+          "title": "Tigray forces launch offensive against Ethiopian government",
+          "link": "https://ghanaiantimes.com.gh/tigray-forces-launch-offensive-against-ethiopian-government/",
+          "source": "ghanaiantimes.com.gh",
+          "pubDate": "2026-09-25T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tigray forces launch offensive against Ethiopian government"
+        },
+        {
           "title": "Ethiopian president warns of 'interference' amid renewed Tigray fighting",
           "link": "http://www.africanews.com/2026/09/25/ethiopian-president-warns-of-interference-amid-renewed-tigray-fighting/",
           "description": "Speaking at the UN General Assembly, Taye Atske Selassie blamed 'external actors' for renewed conflict in the region.",
@@ -422,103 +512,13 @@
           "titleIt": "Ethiopian president warns of 'interference' amid renewed Tigray fighting"
         },
         {
-          "title": "The Autonomous Region of Friuli-Venezia Giulia at Expo 2027 Belgrade",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/24/the-autonomous-region-of-friuli-venezia-giulia-at-expo-2027-belgrade_f8e4b1d7-7eb8-44ab-82fa-78df7d49ed75.html",
-          "description": "(ANSA) - ROMA, 24 SET - The commissioner of the Italian Pavilion at Expo 2027 Belgrade, Ambassador to Serbia Luca Gori, and the president of the Friuli Venezia Giulia Region, Massimiliano Fedriga, have signed the agreement outlining the terms of the autonomous region’s participation in the International Specialized Exposition, scheduled to take place in the Serbian capital from May 15 to August 15, 2027. Expo 2027 Belgrade, titled “Playing for Humanity: Sports and Music for All,” will feature the participation of approximately 140 countries. The signed agreement implements the Framework Agreem",
-          "pubDate": "Thu, 24 Sep 2026 15:25:54 +0200",
-          "source": "ANSA English",
+          "title": "CDC updates polio advisory for Americans traveling to Europe ... as deadly disease sees resurgence",
+          "link": "https://www.dailymail.com/health/article-16158087/cdc-polio-advisory-germany-uk-europe.html",
+          "source": "dailymail.com",
+          "pubDate": "2026-09-25T00:00:00Z",
           "lang": "en",
-          "titleIt": "The Autonomous Region of Friuli-Venezia Giulia at Expo 2027 Belgrade"
-        },
-        {
-          "title": "Ethiopia's federalism dilemma: Why regional power keeps fuelling conflict",
-          "link": "http://www.africanews.com/2026/09/24/ethiopias-federalism-dilemma-why-regional-power-keeps-fuelling-conflict/",
-          "description": "Tigrayan authorities say they are responding to attacks by federal forces, while the federal government has described the Tigrayan military action as an offensive. Both sides have accused the other of triggering the latest escalation.",
-          "pubDate": "Thu, 24 Sep 2026 11:24:21 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopia's federalism dilemma: Why regional power keeps fuelling conflict"
-        },
-        {
-          "title": "Tigray tensions rise as regional forces seize Mekelle airport",
-          "link": "http://www.africanews.com/2026/09/24/tigray-tensions-rise-as-regional-forces-seize-mekelle-airport/",
-          "description": "The developments follow a series of reported drone strikes in Tigray. Regional authorities say at least 14 people were killed and 22 injured in a strike on the town of Alamata on Tuesday, with the mayor accusing federal forces of targeting schools.",
-          "pubDate": "Thu, 24 Sep 2026 10:22:24 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Tigray tensions rise as regional forces seize Mekelle airport"
-        },
-        {
-          "title": "University of Palermo Mission to Senegal for a Project on the Causes of Conflict in Africa",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/09/24/university-of-palermo-mission-to-senegal-for-a-project-on-the-causes-of-conflict-in-africa_98d2cd84-b2e0-4db5-9f89-cc0d5662b2b9.html",
-          "description": "(ANSA) - ROMA, 24 SET - The Italian Ambassador to Senegal, Michele Tommasi, received Prof. Edoardo Baldaro and researcher Daniela Musina from the University of Palermo, who were on a mission in Dakar as part of the Reswa project—“Dynamics of Conflict and Instability in the West African Regional Security Complex.” The work of the two scholars, supported by the Ministry of Universities and Research, focuses on the causes and dynamics of insecurity and conflict in West Africa and the Sahel, with particular attention to the interactions between international competition, transformations in politic",
-          "pubDate": "Thu, 24 Sep 2026 10:41:19 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "University of Palermo Mission to Senegal for a Project on the Causes of Conflict in Africa"
-        },
-        {
-          "title": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray",
-          "link": "https://hornobserver.com/articles/3761/AU-US-Call-for-De-escalation-as-Tensions-Rise-in-Tigray",
-          "description": "African Union Commission Chairperson Mahmoud Ali Youssouf expressed concern over reports that Tigray forces had seized the airports in Mekelle, Axum and Shire, detained federal personnel and disrupted civilian air services. Ethiopian Airlines suspended flights to the three destinations on Wednesday, citing the \"current situation\" in the region, according to Addis Standard. The airline said passengers would be notified when services resume. Separately, officials in northwestern Tigray said a truck carrying grain for displaced families was struck by drones near Adi Daero on the Shire–Sheraro roa",
-          "pubDate": "Wed, 23 Sep 2026 18:54:08 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray"
-        },
-        {
-          "title": "Italian Ambassador Meets EUTM Commander in Somalia's capital Mogadishu",
-          "link": "https://hornobserver.com/articles/3759/Italian-Ambassador-Meets-EUTM-Commander-in-Somalias-capital-Mogadishu",
-          "description": "The discussions focused on Italy's long-standing engagement with Somalia and its partnership with the European Union in supporting the country's security sector. The ambassador highlighted Italy's continued cooperation with Somali institutions and its commitment to efforts aimed at strengthening stability. Italy is the only European country with an embassy in Mogadishu, reflecting its longstanding diplomatic presence in the country. During the meeting, the two sides exchanged views on EUTM Somalia's work to strengthen the capabilities of the Somali Security Forces and on Somalia's current secu",
-          "pubDate": "Tue, 22 Sep 2026 20:19:39 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Italian Ambassador Meets EUTM Commander in Somalia's capital Mogadishu"
-        },
-        {
-          "title": "Somalia: Lt. Col. Ahmed: I am living my dream of joining the military to serve",
-          "link": "https://hornobserver.com/articles/3757/Somalia-Lt-Col-Ahmed-I-am-living-my-dream-of-joining-the-military-to-serve",
-          "description": "Today, Lt. Col. Ahmed commands the 13th Djiboutian National Defence Forces (DNDF) Battalion serving under the African Union Support and Stabilisation Mission in Somalia (AUSSOM) in Sector 4. Based in Beletweyne, he oversees Djiboutian forces deployed across Beletweyne, Buula Burde, Jalalaqsi and Dhusamareb. For Lt. Col. Ahmed, becoming a military officer is not simply a career achievement. It is the fulfilment of a long-held dream and an opportunity to serve his country and support the people of Somalia. \"I joined the military for two reasons: one is to defend my country by being part of the D",
-          "pubDate": "Tue, 22 Sep 2026 08:04:28 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia: Lt. Col. Ahmed: I am living my dream of joining the military to serve"
-        },
-        {
-          "title": "New Ethiopian Coalition Emerges as Reported Drone Strike Destroys Tigray Aid",
-          "link": "https://hornobserver.com/articles/3756/New-Ethiopian-Coalition-Emerges-as-Reported-Drone-Strike-Destroys-Tigray-Aid",
-          "description": "The Ethiopian Peoples' Forces Alliance for Survival, known as the Alliance for Survival, said it would coordinate its members' efforts to challenge the government and push for an inclusive transitional administration. Its members include the Tigray People's Liberation Front, Oromo Liberation Army and Amhara Fano National Movement, along with four other groups. Introducing the statement of the Ethiopian Peoples' Forces Alliance for Survival: defending our peoples' survival, ending dictatorship and advancing an inclusive transition through dialogue and the peoples' freely expressed will.#Allianc",
-          "pubDate": "Tue, 22 Sep 2026 07:00:49 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "New Ethiopian Coalition Emerges as Reported Drone Strike Destroys Tigray Aid"
-        },
-        {
-          "title": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany",
-          "link": "https://hornobserver.com/articles/3754/Somali-journalist-Mohamed-Aweys-Muudey-stabbed-to-death-in-exile-in-Germany",
-          "description": "According to a joint press release from the Darmstadt Public Prosecutor's Office and the South Hesse Police Headquarters, Mohamed Aweys Muudey, 68, an asylum seeker who had fled Somalia, was stabbed inside his communal accommodation by a 28-year-old suspect who is now in police custody. Muudey left Somalia in search of safety and protection. However, his life was cut short in a violent knife attack, highlighting the dangers many journalists in exile continue to face. He spent several years in prison in Ethiopia where he was arrested while seeking protection in 2014 before he was pardoned. Muud",
-          "pubDate": "Sun, 20 Sep 2026 13:43:07 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany"
-        },
-        {
-          "title": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany",
-          "link": "https://hornobserver.com/articles/3752/Somali-Journalist-Mohamed-Aweys-Moodey-Dies-After-Stabbing-in-Germany",
-          "description": "The incident reportedly occurred at a residential facility. German authorities have identified a 28-year-old Somali man as the suspect. Police and prosecutors are investigating the circumstances of the incident, including the motive and whether it was connected to an earlier dispute between the two men. Moodey was a veteran journalist who worked in Somali media for many years. In 2014, he was arrested in Ethiopia and later sentenced to 27 years in prison under the country's anti-terrorism laws. The International Federation of Journalists and the National Union of Somali Journalists called for ",
-          "pubDate": "Sat, 19 Sep 2026 22:49:53 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany"
-        },
-        {
-          "title": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September",
-          "link": "https://hornobserver.com/articles/3750/Highlights-of-the-Month-from-SJS-Monthly-Newsletter-on-Climate-Change-Reporting-August-September",
-          "description": "El Niño Climate Impact Outlook – Somalia – UN OCHA Somalia's El Niño Climate Impact Outlook warns of a credible risk of severe flooding during the October–December 2026 Deyr season, particularly along the Jubba and Shabelle river corridors, if El Niño strengthens alongside a positive Indian Ocean Dipole. While the scenario is not certain, the outlook urges early action to address the combined risks of flooding, drought, extreme heat, disease, food insecurity, displacement, and infrastructure vulnerabilities. It prioritizes stronger early-warning and evacuation systems, flood anticipatory-actio",
-          "pubDate": "Wed, 16 Sep 2026 19:45:09 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September"
+          "description": "",
+          "titleIt": "CDC updates polio advisory for Americans traveling to Europe ... as deadly disease sees resurgence"
         }
       ]
     },
@@ -537,6 +537,15 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Are Ethiopians marching back to war in Tigray?"
+        },
+        {
+          "title": "East Africa: A Pipeline Linking Ports, Markets and the Horn's Future",
+          "link": "https://allafrica.com/stories/202609250392.html",
+          "description": "[ENA] The Horn of Africa is on the cusp of a significant transformation, driven by a new 660 million USD infrastructure project. This project promises to revolutionize the way Ethiopia receives, stores, and distributes petroleum products. At the heart of this project is a 120-kilometer refined petroleum pipeline linking Damerjog in Djibouti with Dewele in Ethiopia.",
+          "pubDate": "Fri, 25 Sep 2026 15:53:29 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "East Africa: A Pipeline Linking Ports, Markets and the Horn's Future"
         },
         {
           "title": "Ethiopia, Djibouti, and Dangote to build $660m petroleum pipeline",
