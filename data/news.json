@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-10-02T12:43:30.411Z",
+  "generatedAt": "2026-10-02T19:23:30.661Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somaliland Detains Austrian Over Spiny-Tailed Lizard Smuggling",
+          "link": "https://allafrica.com/stories/202610020384.html",
+          "description": "[Horn Diplomat] Hargeisa -- Somaliland police and the Ministry of Environment and Climate Change have detained an Austrian national in the port city of Berbera after he was allegedly caught attempting to purchase and collect spiny-tailed lizards, locally known as caasho-badhi.",
+          "pubDate": "Fri, 02 Oct 2026 17:47:47 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somaliland Detains Austrian Over Spiny-Tailed Lizard Smuggling"
+        },
         {
           "title": "Somali families face renewed violence amid worsening hunger crisis",
           "link": "https://hornobserver.com/articles/3768/Somali-families-face-renewed-violence-amid-worsening-hunger-crisis",
@@ -14,33 +23,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somali families face renewed violence amid worsening hunger crisis"
-        },
-        {
-          "title": "We will ensure Regeni ruling is enforced and seek compensation says Foti",
-          "link": "https://www.ansa.it/english/news/politics/2026/09/30/we-will-ensure-regeni-ruling-is-enforced-and-seek-compensation-says-foti_e3a8f7a3-8796-44c5-a8f1-4aeadf8a26b7.html",
-          "description": "(ANSA) - ROME, 30 SET - The government will ensure that Monday's conviction of three Egyptian security officials for the kidnapping of Giulio Regeni, an Italian student who was tortured to death in Cairo in 2016, is enforced and will also seek compensation from the Egyptian government, European Affairs Minister Tommaso Foti, a bigwig n Premier Giorgia Meloni's right-wing Brothers of Italy (FdI) party, told Italian TV Wednesday. The government will reportedly seek two million euros in damages from Cairo since the three officers convicted and sentenced to 10 years each for Regeni's abduction, bu",
-          "pubDate": "Wed, 30 Sep 2026 19:33:45 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "We will ensure Regeni ruling is enforced and seek compensation says Foti"
-        },
-        {
-          "title": "We will ensure Regeni ruling is enforced and seek compensation says Foti",
-          "link": "https://www.ansa.it/english/news/2026/09/30/we-will-ensure-regeni-ruling-is-enforced-and-seek-compensation-says-foti_174db6f5-f292-4b86-855e-5965ac3ff29d.html",
-          "description": "(ANSA) - ROME, 30 SET - The government will ensure that Monday's conviction of three Egyptian security officials for the kidnapping of Giulio Regeni, an Italian student who was tortured to death in Cairo in 2016, is enforced and will also seek compensation from the Egyptian government, European Affairs Minister Tommaso Foti, a bigwig n Premier Giorgia Meloni's right-wing Brothers of Italy (FdI) party, told Italian TV Wednesday. The government will reportedly seek two million euros in damages from Cairo since the three officers convicted and sentenced to 10 years each for Regeni's abduction, bu",
-          "pubDate": "Wed, 30 Sep 2026 17:45:22 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "We will ensure Regeni ruling is enforced and seek compensation says Foti"
-        },
-        {
-          "title": "Somali pirates killed oil tanker crew before rescue, official tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss",
-          "description": "Piracy off the Somali coast has increased in recent years after dropping when international naval operations began in 2011.",
-          "pubDate": "Wed, 30 Sep 2026 06:41:35 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Somali pirates killed oil tanker crew before rescue, official tells BBC"
         },
         {
           "title": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims",
@@ -165,6 +147,51 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Emirati-Israele: ripartito da Dubai per Tel Aviv aereo per rimpatrio cittadini israeliani",
+          "link": "https://www.agenzianova.com/a/6ac003b0cf62c0.22228348/7843275/2026-10-02/emirati-israele-ripartito-da-dubai-per-tel-aviv-aereo-per-rimpatrio-cittadini-israeliani",
+          "description": "02 ott 20:52 - (Agenzia Nova) - E' ripartito da Dubai verso l'aeroporto Ben Gurion di Tel Aviv il primo dei due aerei dalla compagnia Arkia... (Res)",
+          "pubDate": "2026-10-02T20:52:15+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Emirati-Israele: ripartito da Dubai per Tel Aviv aereo per rimpatrio cittadini israeliani"
+        },
+        {
+          "title": "Somalia: Somaliland Detains Austrian Over Spiny-Tailed Lizard Smuggling",
+          "link": "https://allafrica.com/stories/202610020384.html",
+          "description": "[Horn Diplomat] Hargeisa -- Somaliland police and the Ministry of Environment and Climate Change have detained an Austrian national in the port city of Berbera after he was allegedly caught attempting to purchase and collect spiny-tailed lizards, locally known as caasho-badhi.",
+          "pubDate": "Fri, 02 Oct 2026 17:47:47 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somaliland Detains Austrian Over Spiny-Tailed Lizard Smuggling"
+        },
+        {
+          "title": "Kenya: 'Why Raila Odinga International Stadium Is in Same Class With Emirates Stadium'",
+          "link": "https://allafrica.com/stories/202610020376.html",
+          "description": "[Capital FM] NAIROBI -- National Assembly Sports Committee chair Dan Wanyama believes Kenya have broken a world record for building a modern stadium like Talanta Sports in just under four years.",
+          "pubDate": "Fri, 02 Oct 2026 17:43:26 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: 'Why Raila Odinga International Stadium Is in Same Class With Emirates Stadium'"
+        },
+        {
+          "title": "Ethiopia: Alamata Fighting Leaves Trail of Civilian Casualties - Adigrat Eparch Appeals for Help",
+          "link": "https://allafrica.com/stories/202610020283.html",
+          "description": "[Addis Standard] Addis Abeba -- More than 50 civilians have reportedly been killed in and around Alamata, southern Tigray, during several days of intense fighting in late September, as renewed hostilities in northern Ethiopia leave residents displaced, medical facilities overwhelmed and humanitarian access increasingly difficult.",
+          "pubDate": "Fri, 02 Oct 2026 16:03:37 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Alamata Fighting Leaves Trail of Civilian Casualties - Adigrat Eparch Appeals for Help"
+        },
+        {
+          "title": "Kenya: Lecturers and University Staff Down Tools Over 2025-2029 Cba Dispute",
+          "link": "https://allafrica.com/stories/202610020160.html",
+          "description": "[Capital FM] Nairobi -- Lecturers and other staff in public universities have begun a nationwide strike after their unions rejected a counter-offer by the Inter-Public Universities Councils Consultative Forum (IPUCCF) over the 2025-2029 Collective Bargaining Agreement (CBA).",
+          "pubDate": "Fri, 02 Oct 2026 14:35:09 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Lecturers and University Staff Down Tools Over 2025-2029 Cba Dispute"
+        },
+        {
           "title": "Residents of Kenya's Lamu island fear damage from mega-refinery",
           "link": "http://www.africanews.com/2026/10/02/residents-of-kenyas-lamu-island-fear-damage-from-mega-refinery/",
           "description": "The Kenyan island of Lamu is known for its stunning Indian Ocean setting and 12th-century Old Town. Cars are non-existent here and transport mostly happens by donkey. But the island is about to become home to one of Kenya’s largest industrial projects, raising fears of environmental damage.",
@@ -174,24 +201,6 @@
           "titleIt": "Residents of Kenya's Lamu island fear damage from mega-refinery"
         },
         {
-          "title": "Kenya: Lecturers and University Staff Go On Strike",
-          "link": "https://allafrica.com/stories/202610020160.html",
-          "description": "[Capital FM] Nairobi -- Lecturers and other staff in public universities have begun a nationwide strike after their unions rejected a counter-offer by the Inter-Public Universities Councils Consultative Forum (IPUCCF) over the 2025-2029 Collective Bargaining Agreement (CBA).",
-          "pubDate": "Fri, 02 Oct 2026 09:37:56 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Lecturers and University Staff Go On Strike"
-        },
-        {
-          "title": "Why renewed fighting in Ethiopia Tigray risks a regional war",
-          "link": "https://www.cnbcafrica.com/2026/why-renewed-fighting-in-ethiopias-tigray-risks-a-regional-war",
-          "source": "cnbcafrica.com",
-          "pubDate": "2026-10-02T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why renewed fighting in Ethiopia Tigray risks a regional war"
-        },
-        {
           "title": "Ethiopia and Eritrea sever diplomatic ties as Tigray fighting intensifies",
           "link": "http://www.africanews.com/2026/10/02/ethiopia-and-eritrea-sever-ties-as-tigray-fighting-intensifies/",
           "description": "Addis Ababa accused Eritrea of supporting the Tigray People's Liberation Front, which has launched attacks into the neighbouring Afar and Amhara regions. Ethiopia said it would expel 10 Eritrean diplomats and close its embassy in Asmara.",
@@ -199,33 +208,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopia and Eritrea sever diplomatic ties as Tigray fighting intensifies"
-        },
-        {
-          "title": "Ethiopia: Overnight Explosions Reported in Addis Abeba Amid Northern Ethiopia Fighting",
-          "link": "https://allafrica.com/stories/202610020081.html",
-          "description": "[Addis Standard] Addis Ababa -- Explosions were heard in Ethiopia's capital shortly after midnight on Thursday, with diplomatic sources reporting blasts near the Ethiopian National Defense Forces (ENDF) headquarters and another military installation, as renewed fighting in northern Ethiopia raises concerns that the conflict could spread to the capital.",
-          "pubDate": "Fri, 02 Oct 2026 05:45:21 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Overnight Explosions Reported in Addis Abeba Amid Northern Ethiopia Fighting"
-        },
-        {
-          "title": "Kenya: Kenya's Large Class Sizes Make It Harder for Teachers to Help Children Learn",
-          "link": "https://allafrica.com/stories/202610020009.html",
-          "description": "[The Conversation Africa] Kenya introduced a competency-based approach to education in 2017. It was meant to give learners a range of skills, from basic reading, writing and arithmetic to critical thinking, creativity, digital literacy and social-emotional skills.",
-          "pubDate": "Fri, 02 Oct 2026 04:54:41 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Kenya's Large Class Sizes Make It Harder for Teachers to Help Children Learn"
-        },
-        {
-          "title": "Weekly roundup of world briefs",
-          "link": "https://www.heritagefl.com/story/2026/10/02/news/weekly-roundup-of-world-briefs/24073.html",
-          "source": "heritagefl.com",
-          "pubDate": "2026-10-01T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Weekly roundup of world briefs"
         },
         {
           "title": "East African countries are racing to finish preparations ahead of AFCON 2027",
@@ -235,173 +217,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "East African countries are racing to finish preparations ahead of AFCON 2027"
-        },
-        {
-          "title": "Djibouti Explained 2026 , Bases , Ports and Guelleh",
-          "link": "https://www.riotimesonline.com/djibouti-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-01T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Djibouti Explained 2026 , Bases , Ports and Guelleh"
-        },
-        {
-          "title": "Ethiopia: 'We Are Completely Isolated - Humanitarian Access Is Urgently Needed'",
-          "link": "https://allafrica.com/stories/202610010354.html",
-          "description": "[Agenzia Fides] Adigrat -- \"It is extremely urgent to facilitate humanitarian access, dialogue for peace and every form of dialogue. We are completely isolated, communications are blocked, and we have no contact with anyone.\" This is the message sent to Fides by the Eparch of Adigrat, Tesfaselassie Medhin, in a brief message sent with the support of UNICEF, which continues to assist the Church and, where possible, to maintain a minimum connection with the outside world.",
-          "pubDate": "Thu, 01 Oct 2026 13:33:01 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: 'We Are Completely Isolated - Humanitarian Access Is Urgently Needed'"
-        },
-        {
-          "title": "Somalia : Somaliland Welcomes Athletes for Hargeisa Half Marathon",
-          "link": "https://allafrica.com/stories/202610010185.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-01T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland Welcomes Athletes for Hargeisa Half Marathon"
-        },
-        {
-          "title": "Ethiopia: federal forces advance in Tigray as 52 civilians reported killed",
-          "link": "http://www.africanews.com/2026/10/01/ethiopia-federal-forces-advance-in-tigray-as-52-civilians-reported-killed/",
-          "description": "The conflict is also spreading beyond Tigray, with fighting reported in neighbouring Afar and Amhara regions. Communications remain disrupted, making independent verification of battlefield claims difficult.",
-          "pubDate": "Thu, 01 Oct 2026 11:11:27 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopia: federal forces advance in Tigray as 52 civilians reported killed"
-        },
-        {
-          "title": "Ethiopian Airlines signs deal to buy 10 Boeing cargo planes",
-          "link": "http://www.africanews.com/2026/10/01/ethiopian-airlines-signs-deal-to-buy-10-boeing-cargo-planes/",
-          "description": "State-owned company Ethiopian Airlines has agreed to buy 10 Boeing cargo aircraft, with an option to acquire eight more, in an effort to increase its cargo services.",
-          "pubDate": "Thu, 01 Oct 2026 08:14:42 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopian Airlines signs deal to buy 10 Boeing cargo planes"
-        },
-        {
-          "title": "Pope Leo calls for dialogue to solve the Tigray crisis in Ethiopia",
-          "link": "https://cruxnow.com/church-in-africa/2026/09/pope-leo-calls-for-dialogue-to-solve-the-tigray-crisis-in-ethiopia",
-          "source": "cruxnow.com",
-          "pubDate": "2026-09-30T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pope Leo calls for dialogue to solve the Tigray crisis in Ethiopia"
-        },
-        {
-          "title": "Tanzania Removes Special Visa Clearance for Nigerians",
-          "link": "https://allafrica.com/stories/202609300086.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-30T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tanzania Removes Special Visa Clearance for Nigerians"
-        },
-        {
-          "title": "Somaliland Pushes to Take Control of Its Airspace and Border Entry System",
-          "link": "https://wardheernews.com/somaliland-pushes-to-take-control-of-its-airspace-and-border-entry-system/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-09-29T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Pushes to Take Control of Its Airspace and Border Entry System"
-        },
-        {
-          "title": "Algeria accuses Israel of seeking to divide Somalia",
-          "link": "https://horseedmedia.net/algeria-accuses-israel-of-seeking-to-divide-somalia/426020/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-09-29T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Algeria accuses Israel of seeking to divide Somalia"
-        },
-        {
-          "title": "Eritrea proxy war against Ethiopia - Israel & Jewish News",
-          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/eritreas-proxy-war-against-ethiopia",
-          "source": "jns.org",
-          "pubDate": "2026-09-29T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea proxy war against Ethiopia - Israel & Jewish News"
-        },
-        {
-          "title": "Arab News | Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels",
-          "link": "https://www.arabnews.com/world/ethiopias-army-chief-accuses-eritrea-sudan-and-egypt-of-supporting-tigray-rebels-3003637",
-          "source": "arabnews.com",
-          "pubDate": "2026-09-28T23:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels"
-        },
-        {
-          "title": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels",
-          "link": "https://www.news4jax.com/news/world/2026/09/28/ethiopias-army-chief-accuses-eritrea-sudan-and-egypt-of-supporting-tigray-rebels/",
-          "source": "news4jax.com",
-          "pubDate": "2026-09-28T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels"
-        }
-      ]
-    },
-    "ethiopia-sea-access": {
-      "title": "Accesso etiope al mare",
-      "items": [
-        {
-          "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
-          "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
-          "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-          "pubDate": "Fri, 02 Oct 2026 11:24:13 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "How fresh fighting in Tigray could spark wider conflict in Ethiopia"
-        },
-        {
-          "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-          "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-          "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-          "pubDate": "Fri, 02 Oct 2026 10:04:56 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates"
-        },
-        {
-          "title": "Ethiopia and Eritrea sever diplomatic ties as Tigray fighting intensifies",
-          "link": "http://www.africanews.com/2026/10/02/ethiopia-and-eritrea-sever-ties-as-tigray-fighting-intensifies/",
-          "description": "Addis Ababa accused Eritrea of supporting the Tigray People's Liberation Front, which has launched attacks into the neighbouring Afar and Amhara regions. Ethiopia said it would expel 10 Eritrean diplomats and close its embassy in Asmara.",
-          "pubDate": "Fri, 02 Oct 2026 07:43:58 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopia and Eritrea sever diplomatic ties as Tigray fighting intensifies"
-        },
-        {
-          "title": "Ethiopia: Overnight Explosions Reported in Addis Abeba Amid Northern Ethiopia Fighting",
-          "link": "https://allafrica.com/stories/202610020081.html",
-          "description": "[Addis Standard] Addis Ababa -- Explosions were heard in Ethiopia's capital shortly after midnight on Thursday, with diplomatic sources reporting blasts near the Ethiopian National Defense Forces (ENDF) headquarters and another military installation, as renewed fighting in northern Ethiopia raises concerns that the conflict could spread to the capital.",
-          "pubDate": "Fri, 02 Oct 2026 05:45:21 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Overnight Explosions Reported in Addis Abeba Amid Northern Ethiopia Fighting"
-        },
-        {
-          "title": "Ethiopia: Govt Declares 10 Eritrean Diplomats Persona Non Grata",
-          "link": "https://allafrica.com/stories/202610020023.html",
-          "description": "[ENA] Addis Ababa -- Ethiopia has decided to close its Embassy in Asmara, Eritrea, and declared 10 Eritrean diplomats in Addis Ababa persona non grata and ordered them to leave the country within 48 hours.",
-          "pubDate": "Fri, 02 Oct 2026 05:05:50 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Govt Declares 10 Eritrean Diplomats Persona Non Grata"
-        },
-        {
-          "title": "Ethiopia: 'We Are Completely Isolated - Humanitarian Access Is Urgently Needed'",
-          "link": "https://allafrica.com/stories/202610010354.html",
-          "description": "[Agenzia Fides] Adigrat -- \"It is extremely urgent to facilitate humanitarian access, dialogue for peace and every form of dialogue. We are completely isolated, communications are blocked, and we have no contact with anyone.\" This is the message sent to Fides by the Eparch of Adigrat, Tesfaselassie Medhin, in a brief message sent with the support of UNICEF, which continues to assist the Church and, where possible, to maintain a minimum connection with the outside world.",
-          "pubDate": "Thu, 01 Oct 2026 13:33:01 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: 'We Are Completely Isolated - Humanitarian Access Is Urgently Needed'"
         },
         {
           "title": "Ethiopia: federal forces advance in Tigray as 52 civilians reported killed",
@@ -485,13 +300,13 @@
           "titleIt": "New Ethiopian Coalition Emerges as Reported Drone Strike Destroys Tigray Aid"
         },
         {
-          "title": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany",
-          "link": "https://hornobserver.com/articles/3754/Somali-journalist-Mohamed-Aweys-Muudey-stabbed-to-death-in-exile-in-Germany",
-          "description": "According to a joint press release from the Darmstadt Public Prosecutor's Office and the South Hesse Police Headquarters, Mohamed Aweys Muudey, 68, an asylum seeker who had fled Somalia, was stabbed inside his communal accommodation by a 28-year-old suspect who is now in police custody. Muudey left Somalia in search of safety and protection. However, his life was cut short in a violent knife attack, highlighting the dangers many journalists in exile continue to face. He spent several years in prison in Ethiopia where he was arrested while seeking protection in 2014 before he was pardoned. Muud",
-          "pubDate": "Sun, 20 Sep 2026 13:43:07 +0300",
+          "title": "SJS mourns Somali radio journalist Hassan Kafi Qoyste who died at 57",
+          "link": "https://hornobserver.com/articles/3753/SJS-mourns-Somali-radio-journalist-Hassan-Kafi-Qoyste-who-died-at-57",
+          "description": "Ayanle Hassan, Qoyste's son, told SJS that his father, who was diabetic, fell ill on Friday night and was rushed to hospital, where he was pronounced dead. The late Qoyste was a veteran journalist and one of the most remarkable radio journalists in Somalia, known for his distinctive and memorable voice. He first worked as an archive manager at the Ministry of Labour of the Somali central government in the 1980s before joining the print media in Mogadishu in the early 1990s, as the country descended into civil war. Qoyste became involved in journalism after his family moved from Beledweyne in c",
+          "pubDate": "Sun, 20 Sep 2026 13:41:07 +0300",
           "source": "Horn Observer",
           "lang": "en",
-          "titleIt": "Somali journalist Mohamed Aweys Muudey stabbed to death in exile in Germany"
+          "titleIt": "SJS mourns Somali radio journalist Hassan Kafi Qoyste who died at 57"
         },
         {
           "title": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany",
@@ -513,13 +328,90 @@
         }
       ]
     },
-    "egypt-economy": {
-      "title": "Fragilità economica egiziana",
-      "items": []
-    },
-    "gerd-opacity": {
-      "title": "Opacità sui rilasci GERD",
+    "ethiopia-sea-access": {
+      "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Somalia: Somaliland Detains Austrian Over Spiny-Tailed Lizard Smuggling",
+          "link": "https://allafrica.com/stories/202610020384.html",
+          "description": "[Horn Diplomat] Hargeisa -- Somaliland police and the Ministry of Environment and Climate Change have detained an Austrian national in the port city of Berbera after he was allegedly caught attempting to purchase and collect spiny-tailed lizards, locally known as caasho-badhi.",
+          "pubDate": "Fri, 02 Oct 2026 17:47:47 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somaliland Detains Austrian Over Spiny-Tailed Lizard Smuggling"
+        },
+        {
+          "title": "Ethiopia: AU Urges Restraint As Ethiopia, Eritrea, Egypt Tensions Rise",
+          "link": "https://allafrica.com/stories/202610020383.html",
+          "description": "[Horn Diplomat] Addis Ababa -- The African Union Commission has urged Ethiopia, Eritrea and Egypt to exercise maximum restraint amid heightened tensions between the three countries, warning against actions or statements that could further destabilise the region.",
+          "pubDate": "Fri, 02 Oct 2026 17:47:15 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: AU Urges Restraint As Ethiopia, Eritrea, Egypt Tensions Rise"
+        },
+        {
+          "title": "Ethiopia: U.S. Lawmakers, Europe Peace Foundation Urge Dialogue As Fighting Escalates in Ethiopia",
+          "link": "https://allafrica.com/stories/202610020310.html",
+          "description": "[Addis Standard] Addis Abeba -- The Europe Peace Foundation and three US lawmakers have separately called for an immediate end to hostilities in Ethiopia, urging the parties to return to negotiations as fighting intensifies in Tigray and neighbouring Amhara and Afar regions.",
+          "pubDate": "Fri, 02 Oct 2026 16:45:36 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: U.S. Lawmakers, Europe Peace Foundation Urge Dialogue As Fighting Escalates in Ethiopia"
+        },
+        {
+          "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+          "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+          "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+          "pubDate": "Fri, 02 Oct 2026 16:08:25 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates"
+        },
+        {
+          "title": "Ethiopia: Alamata Fighting Leaves Trail of Civilian Casualties - Adigrat Eparch Appeals for Help",
+          "link": "https://allafrica.com/stories/202610020283.html",
+          "description": "[Addis Standard] Addis Abeba -- More than 50 civilians have reportedly been killed in and around Alamata, southern Tigray, during several days of intense fighting in late September, as renewed hostilities in northern Ethiopia leave residents displaced, medical facilities overwhelmed and humanitarian access increasingly difficult.",
+          "pubDate": "Fri, 02 Oct 2026 16:03:37 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Alamata Fighting Leaves Trail of Civilian Casualties - Adigrat Eparch Appeals for Help"
+        },
+        {
+          "title": "Lombardy: A Hub for Investment and Innovation—A Discussion in London",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/02/lombardy-a-hub-for-investment-and-innovationa-discussion-in-london_a85d9465-ef17-4cc9-91c2-e60722a19321.html",
+          "description": "(ANSA) - LONDRA, 02 OTT - 'Lombardy: Where European Scale Meets Innovation Speed’: this was the central theme of the event dedicated to Lombardy’s role as a strategic platform for investment and innovation in Europe and to growth opportunities for British and international companies, organized in London by the Italian Embassy in the United Kingdom and the Lombardy Region, in collaboration with Promos Italia, Milano&Partners, and the ITA Italian Trade Agency. The meeting, hosted at Casa Italia, brought together representatives from institutions, the business community, and the international inv",
+          "pubDate": "Fri, 2 Oct 2026 17:17:17 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Lombardy: A Hub for Investment and Innovation—A Discussion in London"
+        },
+        {
+          "title": "Ethiopia’s resurgent conflict, Rohingya repatriations, and Gaza’s devastation on Google Maps: The Cheat Sheet",
+          "link": "https://www.thenewhumanitarian.org/news/2026/10/02/ethiopia-resurgent-conflict-rohingya-repatriations-gaza-devastation-cheat-sheat",
+          "description": "A weekly read to keep you in the loop on humanitarian issues.",
+          "pubDate": "Fri, 02 Oct 26 15:09:02 +0000",
+          "source": "The New Humanitarian",
+          "lang": "en",
+          "titleIt": "Ethiopia’s resurgent conflict, Rohingya repatriations, and Gaza’s devastation on Google Maps: The Cheat Sheet"
+        },
+        {
+          "title": "Diplomatic Break: Ethiopia and Eritrea Slide Into a New Crisis",
+          "link": "https://hornobserver.com/articles/3769/Diplomatic-Break-Ethiopia-and-Eritrea-Slide-Into-a-New-Crisis",
+          "description": "Ethiopia's Foreign Ministry said Thursday that the embassy closure was a response to what it described as Eritrea's \"direct and indirect acts of hostility and belligerence\" toward Ethiopia. The ministry also accused the expelled diplomats of engaging in activities that threatened Ethiopia's national security and violated the Vienna Convention on Diplomatic Relations. Among those ordered to leave Ethiopia within 48 hours were Eritrea's charg&eacute; d'affaires and officials accredited to the African Union, according to the Ethiopian government. Eritrea rejected the accusations, arguing that Eth",
+          "pubDate": "Fri, 02 Oct 2026 17:35:54 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Diplomatic Break: Ethiopia and Eritrea Slide Into a New Crisis"
+        },
+        {
+          "title": "2025 AFCON final: CAS to hear Senegal appeal on October 8",
+          "link": "http://www.africanews.com/2026/10/02/2025-afcon-final-cas-to-hear-senegal-appeal-on-october-8/",
+          "description": "The Court of Arbitration for Sport will hear Senegal’s appeal over the disputed 2025 Africa Cup of Nations final against Morocco on October 8 in Lausanne.",
+          "pubDate": "Fri, 02 Oct 2026 12:26:37 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "2025 AFCON final: CAS to hear Senegal appeal on October 8"
+        },
         {
           "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
           "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
@@ -530,31 +422,139 @@
           "titleIt": "How fresh fighting in Tigray could spark wider conflict in Ethiopia"
         },
         {
+          "title": "African Union urges restraint as Ethiopia , Eritrea and Egypt edge toward confrontation",
+          "link": "https://kenya-today.com/report-african-union-urges-restraint-as-ethiopia-eritrea-and-egypt-edge-toward-confrontation-5769/",
+          "source": "kenya-today.com",
+          "pubDate": "2026-10-02T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African Union urges restraint as Ethiopia , Eritrea and Egypt edge toward confrontation"
+        },
+        {
+          "title": "Eritrea cuts ties with Ethiopia over Asmara embassy closure",
+          "link": "https://www.cnbcafrica.com/2026/eritrea-cuts-ties-with-ethiopia-over-asmara-embassy-closure",
+          "source": "cnbcafrica.com",
+          "pubDate": "2026-10-02T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Eritrea cuts ties with Ethiopia over Asmara embassy closure"
+        },
+        {
+          "title": "Why renewed fighting in Ethiopia Tigray risks a regional war",
+          "link": "https://www.cnbcafrica.com/2026/why-renewed-fighting-in-ethiopias-tigray-risks-a-regional-war",
+          "source": "cnbcafrica.com",
+          "pubDate": "2026-10-02T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why renewed fighting in Ethiopia Tigray risks a regional war"
+        },
+        {
+          "title": "How the fighting in Ethiopia spread beyond Tigray , in maps and charts",
+          "link": "https://www.aljazeera.com/news/2026/10/2/how-the-fighting-in-ethiopia-spread-beyond-tigray-in-maps-and-charts",
+          "source": "aljazeera.com",
+          "pubDate": "2026-10-02T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How the fighting in Ethiopia spread beyond Tigray , in maps and charts"
+        },
+        {
+          "title": "Egypt retaliates against Ethiopia as regional tensions surge",
+          "link": "https://www.middle-east-online.com/en/egypt-retaliates-against-ethiopia-regional-tensions-surge",
+          "source": "middle-east-online.com",
+          "pubDate": "2026-10-02T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt retaliates against Ethiopia as regional tensions surge"
+        },
+        {
+          "title": "Eritrea cuts ties with Ethiopia over Asmara embassy closure – Channel Africa",
+          "link": "https://www.channelafrica.co.za/channelafrica/news/eritrea-cuts-ties-with-ethiopia-over-asmara-embassy-closure/",
+          "source": "channelafrica.co.za",
+          "pubDate": "2026-10-02T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Eritrea cuts ties with Ethiopia over Asmara embassy closure – Channel Africa"
+        },
+        {
+          "title": "Eritrea cuts ties with Ethiopia over Asmara embassy closure",
+          "link": "https://www.al-monitor.com/originals/2026/10/eritrea-cuts-ties-ethiopia-over-asmara-embassy-closure",
+          "source": "al-monitor.com",
+          "pubDate": "2026-10-02T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Eritrea cuts ties with Ethiopia over Asmara embassy closure"
+        },
+        {
+          "title": "Morning Briefing : Oct . 2 , 2026",
+          "link": "https://aa.com.tr/en/world/morning-briefing-oct-2-2026/4075660",
+          "source": "aa.com.tr",
+          "pubDate": "2026-10-02T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Morning Briefing : Oct . 2 , 2026"
+        },
+        {
+          "title": "Ethiopia : Pope Leo Urges Dialogue As Fighting Intensifies in Northern Ethiopia",
+          "link": "https://allafrica.com/stories/202610020084.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-02T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Pope Leo Urges Dialogue As Fighting Intensifies in Northern Ethiopia"
+        },
+        {
+          "title": "Ethiopia : Eritrea Says It Will Sever All Diplomatic Ties With Ethiopia Following Expulsion of 10 Diplomats",
+          "link": "https://allafrica.com/stories/202610020075.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-02T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Eritrea Says It Will Sever All Diplomatic Ties With Ethiopia Following Expulsion of 10 Diplomats"
+        }
+      ]
+    },
+    "egypt-economy": {
+      "title": "Fragilità economica egiziana",
+      "items": []
+    },
+    "gerd-opacity": {
+      "title": "Opacità sui rilasci GERD",
+      "items": [
+        {
+          "title": "Ethiopia: AU Urges Restraint As Ethiopia, Eritrea, Egypt Tensions Rise",
+          "link": "https://allafrica.com/stories/202610020383.html",
+          "description": "[Horn Diplomat] Addis Ababa -- The African Union Commission has urged Ethiopia, Eritrea and Egypt to exercise maximum restraint amid heightened tensions between the three countries, warning against actions or statements that could further destabilise the region.",
+          "pubDate": "Fri, 02 Oct 2026 17:47:15 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: AU Urges Restraint As Ethiopia, Eritrea, Egypt Tensions Rise"
+        },
+        {
+          "title": "Ethiopia: U.S. Lawmakers, Europe Peace Foundation Urge Dialogue As Fighting Escalates in Ethiopia",
+          "link": "https://allafrica.com/stories/202610020310.html",
+          "description": "[Addis Standard] Addis Abeba -- The Europe Peace Foundation and three US lawmakers have separately called for an immediate end to hostilities in Ethiopia, urging the parties to return to negotiations as fighting intensifies in Tigray and neighbouring Amhara and Afar regions.",
+          "pubDate": "Fri, 02 Oct 2026 16:45:36 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: U.S. Lawmakers, Europe Peace Foundation Urge Dialogue As Fighting Escalates in Ethiopia"
+        },
+        {
           "title": "Egypt expels Ethiopian diplomat in growing rife over Blue Nile dam",
           "link": "http://www.africanews.com/2026/10/02/egypt-expels-ethiopian-diplomat-in-growing-rife-over-nile-dam/",
           "description": "The tit for tat move on Thursday came after Addis Ababa expelled an Egyptian official, further straining relations between the two countries.",
-          "pubDate": "Fri, 02 Oct 2026 11:09:32 +0000",
+          "pubDate": "Fri, 02 Oct 2026 12:40:00 +0000",
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt expels Ethiopian diplomat in growing rife over Blue Nile dam"
         },
         {
-          "title": "We will ensure Regeni ruling is enforced and seek compensation says Foti",
-          "link": "https://www.ansa.it/english/news/politics/2026/09/30/we-will-ensure-regeni-ruling-is-enforced-and-seek-compensation-says-foti_e3a8f7a3-8796-44c5-a8f1-4aeadf8a26b7.html",
-          "description": "(ANSA) - ROME, 30 SET - The government will ensure that Monday's conviction of three Egyptian security officials for the kidnapping of Giulio Regeni, an Italian student who was tortured to death in Cairo in 2016, is enforced and will also seek compensation from the Egyptian government, European Affairs Minister Tommaso Foti, a bigwig n Premier Giorgia Meloni's right-wing Brothers of Italy (FdI) party, told Italian TV Wednesday. The government will reportedly seek two million euros in damages from Cairo since the three officers convicted and sentenced to 10 years each for Regeni's abduction, bu",
-          "pubDate": "Wed, 30 Sep 2026 19:33:45 +0200",
-          "source": "ANSA English",
+          "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
+          "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+          "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+          "pubDate": "Fri, 02 Oct 2026 11:24:13 GMT",
+          "source": "BBC Africa",
           "lang": "en",
-          "titleIt": "We will ensure Regeni ruling is enforced and seek compensation says Foti"
-        },
-        {
-          "title": "We will ensure Regeni ruling is enforced and seek compensation says Foti",
-          "link": "https://www.ansa.it/english/news/2026/09/30/we-will-ensure-regeni-ruling-is-enforced-and-seek-compensation-says-foti_174db6f5-f292-4b86-855e-5965ac3ff29d.html",
-          "description": "(ANSA) - ROME, 30 SET - The government will ensure that Monday's conviction of three Egyptian security officials for the kidnapping of Giulio Regeni, an Italian student who was tortured to death in Cairo in 2016, is enforced and will also seek compensation from the Egyptian government, European Affairs Minister Tommaso Foti, a bigwig n Premier Giorgia Meloni's right-wing Brothers of Italy (FdI) party, told Italian TV Wednesday. The government will reportedly seek two million euros in damages from Cairo since the three officers convicted and sentenced to 10 years each for Regeni's abduction, bu",
-          "pubDate": "Wed, 30 Sep 2026 17:45:22 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "We will ensure Regeni ruling is enforced and seek compensation says Foti"
+          "titleIt": "How fresh fighting in Tigray could spark wider conflict in Ethiopia"
         },
         {
           "title": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray",
