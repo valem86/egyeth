@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-10-02T05:44:55.872Z",
+  "generatedAt": "2026-10-02T12:43:30.411Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Ethiopia: Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly 'Obstructed By Egypt'",
-          "link": "https://allafrica.com/stories/202610020077.html",
-          "description": "[Addis Standard] Addis Abeba- Ethiopia has established a committee to assess economic losses and missed development opportunities arising from projects it says were \"obstructed by Egypt\", with more than 22 projects, including the Grand Ethiopian Renaissance Dam (GERD), already identified, Minister of Water and Energy Habtamu Itefa (PhD) said.",
-          "pubDate": "Fri, 02 Oct 2026 05:41:14 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly 'Obstructed By Egypt'"
-        },
         {
           "title": "Somali families face renewed violence amid worsening hunger crisis",
           "link": "https://hornobserver.com/articles/3768/Somali-families-face-renewed-violence-amid-worsening-hunger-crisis",
@@ -174,31 +165,67 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Ethiopia: Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly 'Obstructed By Egypt'",
-          "link": "https://allafrica.com/stories/202610020077.html",
-          "description": "[Addis Standard] Addis Abeba- Ethiopia has established a committee to assess economic losses and missed development opportunities arising from projects it says were \"obstructed by Egypt\", with more than 22 projects, including the Grand Ethiopian Renaissance Dam (GERD), already identified, Minister of Water and Energy Habtamu Itefa (PhD) said.",
-          "pubDate": "Fri, 02 Oct 2026 05:41:14 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly 'Obstructed By Egypt'"
-        },
-        {
-          "title": "Ethiopia: Fake Admissions, Real Losses - Why Ethiopia's Study-Abroad Conversation Needs Better Verification, Not More Promotion",
-          "link": "https://allafrica.com/stories/202610020074.html",
-          "description": "[Addis Standard] Addis Abeba -- Overseas study opportunities reach Ethiopian students today mostly through social media pages, WhatsApp groups, and websites run by agents and advisers, rather than through official university or embassy channels. Discovering an opportunity is no longer the challenging part of the process. Knowing which of those opportunities are genuine has become the harder question, and it is one Ethiopia's own institutions have already shown they take seriously in adjacent areas.",
-          "pubDate": "Fri, 02 Oct 2026 05:41:13 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Fake Admissions, Real Losses - Why Ethiopia's Study-Abroad Conversation Needs Better Verification, Not More Promotion"
-        },
-        {
-          "title": "Ethiopia and Eritrea sever ties as Tigray fighting intensifies",
-          "link": "http://www.africanews.com/2026/10/02/ethiopia-and-eritrea-sever-ties-as-tigray-fighting-intensifies/",
-          "description": "Addis Ababa accused Eritrea of supporting the Tigray People's Liberation Front, which has launched attacks into the neighbouring Afar and Amhara regions. Ethiopia said it would expel 10 Eritrean diplomats and close its embassy in Asmara.",
-          "pubDate": "Fri, 02 Oct 2026 05:03:05 +0000",
+          "title": "Residents of Kenya's Lamu island fear damage from mega-refinery",
+          "link": "http://www.africanews.com/2026/10/02/residents-of-kenyas-lamu-island-fear-damage-from-mega-refinery/",
+          "description": "The Kenyan island of Lamu is known for its stunning Indian Ocean setting and 12th-century Old Town. Cars are non-existent here and transport mostly happens by donkey. But the island is about to become home to one of Kenya’s largest industrial projects, raising fears of environmental damage.",
+          "pubDate": "Fri, 02 Oct 2026 10:19:03 +0000",
           "source": "Africanews",
           "lang": "en",
-          "titleIt": "Ethiopia and Eritrea sever ties as Tigray fighting intensifies"
+          "titleIt": "Residents of Kenya's Lamu island fear damage from mega-refinery"
+        },
+        {
+          "title": "Kenya: Lecturers and University Staff Go On Strike",
+          "link": "https://allafrica.com/stories/202610020160.html",
+          "description": "[Capital FM] Nairobi -- Lecturers and other staff in public universities have begun a nationwide strike after their unions rejected a counter-offer by the Inter-Public Universities Councils Consultative Forum (IPUCCF) over the 2025-2029 Collective Bargaining Agreement (CBA).",
+          "pubDate": "Fri, 02 Oct 2026 09:37:56 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Lecturers and University Staff Go On Strike"
+        },
+        {
+          "title": "Why renewed fighting in Ethiopia Tigray risks a regional war",
+          "link": "https://www.cnbcafrica.com/2026/why-renewed-fighting-in-ethiopias-tigray-risks-a-regional-war",
+          "source": "cnbcafrica.com",
+          "pubDate": "2026-10-02T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why renewed fighting in Ethiopia Tigray risks a regional war"
+        },
+        {
+          "title": "Ethiopia and Eritrea sever diplomatic ties as Tigray fighting intensifies",
+          "link": "http://www.africanews.com/2026/10/02/ethiopia-and-eritrea-sever-ties-as-tigray-fighting-intensifies/",
+          "description": "Addis Ababa accused Eritrea of supporting the Tigray People's Liberation Front, which has launched attacks into the neighbouring Afar and Amhara regions. Ethiopia said it would expel 10 Eritrean diplomats and close its embassy in Asmara.",
+          "pubDate": "Fri, 02 Oct 2026 07:43:58 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia and Eritrea sever diplomatic ties as Tigray fighting intensifies"
+        },
+        {
+          "title": "Ethiopia: Overnight Explosions Reported in Addis Abeba Amid Northern Ethiopia Fighting",
+          "link": "https://allafrica.com/stories/202610020081.html",
+          "description": "[Addis Standard] Addis Ababa -- Explosions were heard in Ethiopia's capital shortly after midnight on Thursday, with diplomatic sources reporting blasts near the Ethiopian National Defense Forces (ENDF) headquarters and another military installation, as renewed fighting in northern Ethiopia raises concerns that the conflict could spread to the capital.",
+          "pubDate": "Fri, 02 Oct 2026 05:45:21 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Overnight Explosions Reported in Addis Abeba Amid Northern Ethiopia Fighting"
+        },
+        {
+          "title": "Kenya: Kenya's Large Class Sizes Make It Harder for Teachers to Help Children Learn",
+          "link": "https://allafrica.com/stories/202610020009.html",
+          "description": "[The Conversation Africa] Kenya introduced a competency-based approach to education in 2017. It was meant to give learners a range of skills, from basic reading, writing and arithmetic to critical thinking, creativity, digital literacy and social-emotional skills.",
+          "pubDate": "Fri, 02 Oct 2026 04:54:41 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Kenya's Large Class Sizes Make It Harder for Teachers to Help Children Learn"
+        },
+        {
+          "title": "Weekly roundup of world briefs",
+          "link": "https://www.heritagefl.com/story/2026/10/02/news/weekly-roundup-of-world-briefs/24073.html",
+          "source": "heritagefl.com",
+          "pubDate": "2026-10-01T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Weekly roundup of world briefs"
         },
         {
           "title": "East African countries are racing to finish preparations ahead of AFCON 2027",
@@ -210,6 +237,15 @@
           "titleIt": "East African countries are racing to finish preparations ahead of AFCON 2027"
         },
         {
+          "title": "Djibouti Explained 2026 , Bases , Ports and Guelleh",
+          "link": "https://www.riotimesonline.com/djibouti-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-01T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Djibouti Explained 2026 , Bases , Ports and Guelleh"
+        },
+        {
           "title": "Ethiopia: 'We Are Completely Isolated - Humanitarian Access Is Urgently Needed'",
           "link": "https://allafrica.com/stories/202610010354.html",
           "description": "[Agenzia Fides] Adigrat -- \"It is extremely urgent to facilitate humanitarian access, dialogue for peace and every form of dialogue. We are completely isolated, communications are blocked, and we have no contact with anyone.\" This is the message sent to Fides by the Eparch of Adigrat, Tesfaselassie Medhin, in a brief message sent with the support of UNICEF, which continues to assist the Church and, where possible, to maintain a minimum connection with the outside world.",
@@ -217,6 +253,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: 'We Are Completely Isolated - Humanitarian Access Is Urgently Needed'"
+        },
+        {
+          "title": "Somalia : Somaliland Welcomes Athletes for Hargeisa Half Marathon",
+          "link": "https://allafrica.com/stories/202610010185.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-01T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland Welcomes Athletes for Hargeisa Half Marathon"
         },
         {
           "title": "Ethiopia: federal forces advance in Tigray as 52 civilians reported killed",
@@ -237,94 +282,67 @@
           "titleIt": "Ethiopian Airlines signs deal to buy 10 Boeing cargo planes"
         },
         {
-          "title": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims",
-          "link": "https://hornobserver.com/articles/3765/Somalia-Heavy-Fighting-Erupts-in-Baidoa-as-Rival-Forces-Trade-Claims",
-          "description": "Residents reported hearing a series of powerful explosions across Baidoa, with thick plumes of smoke visible over parts of the city. Initial reports indicated that several locations, including a power facility and a base used by federal government forces, were struck during the clashes. Ugaas Hassan, the information minister for the Laftagareen-aligned faction, confirmed that its forces had launched an attack, describing the assault as involving several successive waves. &nbsp; New footage, moment when Laftagaren's militias attacked #Baidoa this morning, one resident recorded. pic.twitter.com/",
-          "pubDate": "Mon, 28 Sep 2026 12:32:52 +0300",
-          "source": "Horn Observer",
+          "title": "Pope Leo calls for dialogue to solve the Tigray crisis in Ethiopia",
+          "link": "https://cruxnow.com/church-in-africa/2026/09/pope-leo-calls-for-dialogue-to-solve-the-tigray-crisis-in-ethiopia",
+          "source": "cruxnow.com",
+          "pubDate": "2026-09-30T17:45:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims"
+          "description": "",
+          "titleIt": "Pope Leo calls for dialogue to solve the Tigray crisis in Ethiopia"
         },
         {
-          "title": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues",
-          "link": "https://hornobserver.com/articles/3764/Your-account-has-been-disabled-The-new-wave-of-online-attacks-silencing-Somali-journalists-continues",
-          "description": "Beyond their immediate impact on individual journalists, the Somali Journalists Syndicate (SJS) is concerned that these attacks now threaten media freedom and the public's access to independent information by disrupting journalists' ability to report on human rights violations, corruption, insecurity and other developments affecting communities across Somalia. At a time when the country is facing overlapping political and humanitarian crises, the silencing, harassment and removal of journalists from digital platforms risks shrinking the space for public reporting, accountability and scrutiny—p",
-          "pubDate": "Mon, 28 Sep 2026 08:29:27 +0300",
-          "source": "Horn Observer",
+          "title": "Tanzania Removes Special Visa Clearance for Nigerians",
+          "link": "https://allafrica.com/stories/202609300086.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-30T06:00:00Z",
           "lang": "en",
-          "titleIt": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues"
+          "description": "",
+          "titleIt": "Tanzania Removes Special Visa Clearance for Nigerians"
         },
         {
-          "title": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia",
-          "link": "https://hornobserver.com/articles/3763/For-Josphine-Njeru-Protecting-Civilians-Is-the-True-Measure-of-Success-in-Somalia",
-          "description": "As the Senior Civilian Casualty Tracking, Analysis and Response Cell (CCTARC) and Board of Inquiry (BOI) Officer for the African Union Support and Stabilisation Mission in Somalia (AUSSOM), Njeru works behind the scenes. Her role is critical: to protect communities caught in the crossfire, investigate incidents, track civilian injuries, and ensure the mission's accountability to the people it serves. Operating in a complex conflict environment, facts are rarely clear from the outset. \"Information on civilian harm is often incomplete and comes from various sources, each holding only part of the",
-          "pubDate": "Fri, 25 Sep 2026 12:48:52 +0300",
-          "source": "Horn Observer",
+          "title": "Somaliland Pushes to Take Control of Its Airspace and Border Entry System",
+          "link": "https://wardheernews.com/somaliland-pushes-to-take-control-of-its-airspace-and-border-entry-system/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-09-29T09:45:00Z",
           "lang": "en",
-          "titleIt": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia"
+          "description": "",
+          "titleIt": "Somaliland Pushes to Take Control of Its Airspace and Border Entry System"
         },
         {
-          "title": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray",
-          "link": "https://hornobserver.com/articles/3761/AU-US-Call-for-De-escalation-as-Tensions-Rise-in-Tigray",
-          "description": "African Union Commission Chairperson Mahmoud Ali Youssouf expressed concern over reports that Tigray forces had seized the airports in Mekelle, Axum and Shire, detained federal personnel and disrupted civilian air services. Ethiopian Airlines suspended flights to the three destinations on Wednesday, citing the \"current situation\" in the region, according to Addis Standard. The airline said passengers would be notified when services resume. Separately, officials in northwestern Tigray said a truck carrying grain for displaced families was struck by drones near Adi Daero on the Shire–Sheraro roa",
-          "pubDate": "Wed, 23 Sep 2026 18:54:08 +0300",
-          "source": "Horn Observer",
+          "title": "Algeria accuses Israel of seeking to divide Somalia",
+          "link": "https://horseedmedia.net/algeria-accuses-israel-of-seeking-to-divide-somalia/426020/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-09-29T09:30:00Z",
           "lang": "en",
-          "titleIt": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray"
+          "description": "",
+          "titleIt": "Algeria accuses Israel of seeking to divide Somalia"
         },
         {
-          "title": "Italian Ambassador Meets EUTM Commander in Somalia's capital Mogadishu",
-          "link": "https://hornobserver.com/articles/3759/Italian-Ambassador-Meets-EUTM-Commander-in-Somalias-capital-Mogadishu",
-          "description": "The discussions focused on Italy's long-standing engagement with Somalia and its partnership with the European Union in supporting the country's security sector. The ambassador highlighted Italy's continued cooperation with Somali institutions and its commitment to efforts aimed at strengthening stability. Italy is the only European country with an embassy in Mogadishu, reflecting its longstanding diplomatic presence in the country. During the meeting, the two sides exchanged views on EUTM Somalia's work to strengthen the capabilities of the Somali Security Forces and on Somalia's current secu",
-          "pubDate": "Tue, 22 Sep 2026 20:19:39 +0300",
-          "source": "Horn Observer",
+          "title": "Eritrea proxy war against Ethiopia - Israel & Jewish News",
+          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/eritreas-proxy-war-against-ethiopia",
+          "source": "jns.org",
+          "pubDate": "2026-09-29T09:15:00Z",
           "lang": "en",
-          "titleIt": "Italian Ambassador Meets EUTM Commander in Somalia's capital Mogadishu"
+          "description": "",
+          "titleIt": "Eritrea proxy war against Ethiopia - Israel & Jewish News"
         },
         {
-          "title": "Somalia: Lt. Col. Ahmed: I am living my dream of joining the military to serve",
-          "link": "https://hornobserver.com/articles/3757/Somalia-Lt-Col-Ahmed-I-am-living-my-dream-of-joining-the-military-to-serve",
-          "description": "Today, Lt. Col. Ahmed commands the 13th Djiboutian National Defence Forces (DNDF) Battalion serving under the African Union Support and Stabilisation Mission in Somalia (AUSSOM) in Sector 4. Based in Beletweyne, he oversees Djiboutian forces deployed across Beletweyne, Buula Burde, Jalalaqsi and Dhusamareb. For Lt. Col. Ahmed, becoming a military officer is not simply a career achievement. It is the fulfilment of a long-held dream and an opportunity to serve his country and support the people of Somalia. \"I joined the military for two reasons: one is to defend my country by being part of the D",
-          "pubDate": "Tue, 22 Sep 2026 08:04:28 +0300",
-          "source": "Horn Observer",
+          "title": "Arab News | Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels",
+          "link": "https://www.arabnews.com/world/ethiopias-army-chief-accuses-eritrea-sudan-and-egypt-of-supporting-tigray-rebels-3003637",
+          "source": "arabnews.com",
+          "pubDate": "2026-09-28T23:15:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Lt. Col. Ahmed: I am living my dream of joining the military to serve"
+          "description": "",
+          "titleIt": "Arab News | Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels"
         },
         {
-          "title": "New Ethiopian Coalition Emerges as Reported Drone Strike Destroys Tigray Aid",
-          "link": "https://hornobserver.com/articles/3756/New-Ethiopian-Coalition-Emerges-as-Reported-Drone-Strike-Destroys-Tigray-Aid",
-          "description": "The Ethiopian Peoples' Forces Alliance for Survival, known as the Alliance for Survival, said it would coordinate its members' efforts to challenge the government and push for an inclusive transitional administration. Its members include the Tigray People's Liberation Front, Oromo Liberation Army and Amhara Fano National Movement, along with four other groups. Introducing the statement of the Ethiopian Peoples' Forces Alliance for Survival: defending our peoples' survival, ending dictatorship and advancing an inclusive transition through dialogue and the peoples' freely expressed will.#Allianc",
-          "pubDate": "Tue, 22 Sep 2026 07:00:49 +0300",
-          "source": "Horn Observer",
+          "title": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels",
+          "link": "https://www.news4jax.com/news/world/2026/09/28/ethiopias-army-chief-accuses-eritrea-sudan-and-egypt-of-supporting-tigray-rebels/",
+          "source": "news4jax.com",
+          "pubDate": "2026-09-28T22:45:00Z",
           "lang": "en",
-          "titleIt": "New Ethiopian Coalition Emerges as Reported Drone Strike Destroys Tigray Aid"
-        },
-        {
-          "title": "SJS mourns Somali radio journalist Hassan Kafi Qoyste who died at 57",
-          "link": "https://hornobserver.com/articles/3753/SJS-mourns-Somali-radio-journalist-Hassan-Kafi-Qoyste-who-died-at-57",
-          "description": "Ayanle Hassan, Qoyste's son, told SJS that his father, who was diabetic, fell ill on Friday night and was rushed to hospital, where he was pronounced dead. The late Qoyste was a veteran journalist and one of the most remarkable radio journalists in Somalia, known for his distinctive and memorable voice. He first worked as an archive manager at the Ministry of Labour of the Somali central government in the 1980s before joining the print media in Mogadishu in the early 1990s, as the country descended into civil war. Qoyste became involved in journalism after his family moved from Beledweyne in c",
-          "pubDate": "Sun, 20 Sep 2026 13:41:07 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "SJS mourns Somali radio journalist Hassan Kafi Qoyste who died at 57"
-        },
-        {
-          "title": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany",
-          "link": "https://hornobserver.com/articles/3752/Somali-Journalist-Mohamed-Aweys-Moodey-Dies-After-Stabbing-in-Germany",
-          "description": "The incident reportedly occurred at a residential facility. German authorities have identified a 28-year-old Somali man as the suspect. Police and prosecutors are investigating the circumstances of the incident, including the motive and whether it was connected to an earlier dispute between the two men. Moodey was a veteran journalist who worked in Somali media for many years. In 2014, he was arrested in Ethiopia and later sentenced to 27 years in prison under the country's anti-terrorism laws. The International Federation of Journalists and the National Union of Somali Journalists called for ",
-          "pubDate": "Sat, 19 Sep 2026 22:49:53 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany"
-        },
-        {
-          "title": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September",
-          "link": "https://hornobserver.com/articles/3750/Highlights-of-the-Month-from-SJS-Monthly-Newsletter-on-Climate-Change-Reporting-August-September",
-          "description": "El Niño Climate Impact Outlook – Somalia – UN OCHA Somalia's El Niño Climate Impact Outlook warns of a credible risk of severe flooding during the October–December 2026 Deyr season, particularly along the Jubba and Shabelle river corridors, if El Niño strengthens alongside a positive Indian Ocean Dipole. While the scenario is not certain, the outlook urges early action to address the combined risks of flooding, drought, extreme heat, disease, food insecurity, displacement, and infrastructure vulnerabilities. It prioritizes stronger early-warning and evacuation systems, flood anticipatory-actio",
-          "pubDate": "Wed, 16 Sep 2026 19:45:09 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September"
+          "description": "",
+          "titleIt": "Ethiopia army chief accuses Eritrea , Sudan and Egypt of supporting Tigray rebels"
         }
       ]
     },
@@ -332,67 +350,49 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
+          "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+          "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+          "pubDate": "Fri, 02 Oct 2026 11:24:13 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "How fresh fighting in Tigray could spark wider conflict in Ethiopia"
+        },
+        {
           "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
           "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-          "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across northern region.",
-          "pubDate": "Fri, 02 Oct 2026 05:42:07 GMT",
-          "source": "BBC World",
+          "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+          "pubDate": "Fri, 02 Oct 2026 10:04:56 GMT",
+          "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates"
         },
         {
-          "title": "Ethiopia: Ethiopia Closes Embassy in Asmara, Declares 10 Eritrean Diplomats Persona Non Grata",
-          "link": "https://allafrica.com/stories/202610020076.html",
-          "description": "[Addis Standard] Addis Abeba -- Ethiopia's Ministry of Foreign Affairs has announced the closure of its embassy in Asmara and declared 10 Eritrean diplomats in Addis Abeba persona non grata, ordering them to leave the country within 48 hours.",
-          "pubDate": "Fri, 02 Oct 2026 05:41:14 GMT",
-          "source": "AllAfrica",
+          "title": "Ethiopia and Eritrea sever diplomatic ties as Tigray fighting intensifies",
+          "link": "http://www.africanews.com/2026/10/02/ethiopia-and-eritrea-sever-ties-as-tigray-fighting-intensifies/",
+          "description": "Addis Ababa accused Eritrea of supporting the Tigray People's Liberation Front, which has launched attacks into the neighbouring Afar and Amhara regions. Ethiopia said it would expel 10 Eritrean diplomats and close its embassy in Asmara.",
+          "pubDate": "Fri, 02 Oct 2026 07:43:58 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Closes Embassy in Asmara, Declares 10 Eritrean Diplomats Persona Non Grata"
+          "titleIt": "Ethiopia and Eritrea sever diplomatic ties as Tigray fighting intensifies"
         },
         {
-          "title": "Ethiopia: Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly 'Obstructed By Egypt'",
-          "link": "https://allafrica.com/stories/202610020077.html",
-          "description": "[Addis Standard] Addis Abeba- Ethiopia has established a committee to assess economic losses and missed development opportunities arising from projects it says were \"obstructed by Egypt\", with more than 22 projects, including the Grand Ethiopian Renaissance Dam (GERD), already identified, Minister of Water and Energy Habtamu Itefa (PhD) said.",
-          "pubDate": "Fri, 02 Oct 2026 05:41:14 GMT",
+          "title": "Ethiopia: Overnight Explosions Reported in Addis Abeba Amid Northern Ethiopia Fighting",
+          "link": "https://allafrica.com/stories/202610020081.html",
+          "description": "[Addis Standard] Addis Ababa -- Explosions were heard in Ethiopia's capital shortly after midnight on Thursday, with diplomatic sources reporting blasts near the Ethiopian National Defense Forces (ENDF) headquarters and another military installation, as renewed fighting in northern Ethiopia raises concerns that the conflict could spread to the capital.",
+          "pubDate": "Fri, 02 Oct 2026 05:45:21 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly 'Obstructed By Egypt'"
+          "titleIt": "Ethiopia: Overnight Explosions Reported in Addis Abeba Amid Northern Ethiopia Fighting"
         },
         {
-          "title": "Ethiopia: Fake Admissions, Real Losses - Why Ethiopia's Study-Abroad Conversation Needs Better Verification, Not More Promotion",
-          "link": "https://allafrica.com/stories/202610020074.html",
-          "description": "[Addis Standard] Addis Abeba -- Overseas study opportunities reach Ethiopian students today mostly through social media pages, WhatsApp groups, and websites run by agents and advisers, rather than through official university or embassy channels. Discovering an opportunity is no longer the challenging part of the process. Knowing which of those opportunities are genuine has become the harder question, and it is one Ethiopia's own institutions have already shown they take seriously in adjacent areas.",
-          "pubDate": "Fri, 02 Oct 2026 05:41:13 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Fake Admissions, Real Losses - Why Ethiopia's Study-Abroad Conversation Needs Better Verification, Not More Promotion"
-        },
-        {
-          "title": "Ethiopia: Eritrea Says It Will Sever All Diplomatic Ties With Ethiopia Following Expulsion of 10 Diplomats",
-          "link": "https://allafrica.com/stories/202610020075.html",
-          "description": "[Addis Standard] Addis Abeba -- Eritrea has announced it will sever all diplomatic ties with Ethiopia, saying it has \"no option but to reciprocate in kind\" after Addis Abeba ordered the closure of its embassy in Asmara and declared 10 Eritrean diplomats persona non grata.",
-          "pubDate": "Fri, 02 Oct 2026 05:41:13 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Eritrea Says It Will Sever All Diplomatic Ties With Ethiopia Following Expulsion of 10 Diplomats"
-        },
-        {
-          "title": "Ethiopia: Ethiopia Decides to Close Embassy in Asmara, Declares 10 Eritrean Diplomats Persona Non Grata",
+          "title": "Ethiopia: Govt Declares 10 Eritrean Diplomats Persona Non Grata",
           "link": "https://allafrica.com/stories/202610020023.html",
           "description": "[ENA] Addis Ababa -- Ethiopia has decided to close its Embassy in Asmara, Eritrea, and declared 10 Eritrean diplomats in Addis Ababa persona non grata and ordered them to leave the country within 48 hours.",
           "pubDate": "Fri, 02 Oct 2026 05:05:50 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Decides to Close Embassy in Asmara, Declares 10 Eritrean Diplomats Persona Non Grata"
-        },
-        {
-          "title": "Ethiopia and Eritrea sever ties as Tigray fighting intensifies",
-          "link": "http://www.africanews.com/2026/10/02/ethiopia-and-eritrea-sever-ties-as-tigray-fighting-intensifies/",
-          "description": "Addis Ababa accused Eritrea of supporting the Tigray People's Liberation Front, which has launched attacks into the neighbouring Afar and Amhara regions. Ethiopia said it would expel 10 Eritrean diplomats and close its embassy in Asmara.",
-          "pubDate": "Fri, 02 Oct 2026 05:03:05 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopia and Eritrea sever ties as Tigray fighting intensifies"
+          "titleIt": "Ethiopia: Govt Declares 10 Eritrean Diplomats Persona Non Grata"
         },
         {
           "title": "Ethiopia: 'We Are Completely Isolated - Humanitarian Access Is Urgently Needed'",
@@ -438,15 +438,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues"
-        },
-        {
-          "title": "Are Ethiopians marching back to war in Tigray?",
-          "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
-          "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-          "pubDate": "Fri, 25 Sep 2026 23:42:39 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Are Ethiopians marching back to war in Tigray?"
         },
         {
           "title": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia",
@@ -510,34 +501,42 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany"
+        },
+        {
+          "title": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September",
+          "link": "https://hornobserver.com/articles/3750/Highlights-of-the-Month-from-SJS-Monthly-Newsletter-on-Climate-Change-Reporting-August-September",
+          "description": "El Niño Climate Impact Outlook – Somalia – UN OCHA Somalia's El Niño Climate Impact Outlook warns of a credible risk of severe flooding during the October–December 2026 Deyr season, particularly along the Jubba and Shabelle river corridors, if El Niño strengthens alongside a positive Indian Ocean Dipole. While the scenario is not certain, the outlook urges early action to address the combined risks of flooding, drought, extreme heat, disease, food insecurity, displacement, and infrastructure vulnerabilities. It prioritizes stronger early-warning and evacuation systems, flood anticipatory-actio",
+          "pubDate": "Wed, 16 Sep 2026 19:45:09 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Highlights of the Month from SJS Monthly Newsletter on Climate Change Reporting - August - September"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Ethiopia: Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly 'Obstructed By Egypt'",
-          "link": "https://allafrica.com/stories/202610020077.html",
-          "description": "[Addis Standard] Addis Abeba- Ethiopia has established a committee to assess economic losses and missed development opportunities arising from projects it says were \"obstructed by Egypt\", with more than 22 projects, including the Grand Ethiopian Renaissance Dam (GERD), already identified, Minister of Water and Energy Habtamu Itefa (PhD) said.",
-          "pubDate": "Fri, 02 Oct 2026 05:41:14 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly 'Obstructed By Egypt'"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Ethiopia: Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly 'Obstructed By Egypt'",
-          "link": "https://allafrica.com/stories/202610020077.html",
-          "description": "[Addis Standard] Addis Abeba- Ethiopia has established a committee to assess economic losses and missed development opportunities arising from projects it says were \"obstructed by Egypt\", with more than 22 projects, including the Grand Ethiopian Renaissance Dam (GERD), already identified, Minister of Water and Energy Habtamu Itefa (PhD) said.",
-          "pubDate": "Fri, 02 Oct 2026 05:41:14 GMT",
-          "source": "AllAfrica",
+          "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
+          "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+          "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+          "pubDate": "Fri, 02 Oct 2026 11:24:13 GMT",
+          "source": "BBC Africa",
           "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly 'Obstructed By Egypt'"
+          "titleIt": "How fresh fighting in Tigray could spark wider conflict in Ethiopia"
+        },
+        {
+          "title": "Egypt expels Ethiopian diplomat in growing rife over Blue Nile dam",
+          "link": "http://www.africanews.com/2026/10/02/egypt-expels-ethiopian-diplomat-in-growing-rife-over-nile-dam/",
+          "description": "The tit for tat move on Thursday came after Addis Ababa expelled an Egyptian official, further straining relations between the two countries.",
+          "pubDate": "Fri, 02 Oct 2026 11:09:32 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egypt expels Ethiopian diplomat in growing rife over Blue Nile dam"
         },
         {
           "title": "We will ensure Regeni ruling is enforced and seek compensation says Foti",
@@ -556,15 +555,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "We will ensure Regeni ruling is enforced and seek compensation says Foti"
-        },
-        {
-          "title": "Are Ethiopians marching back to war in Tigray?",
-          "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
-          "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-          "pubDate": "Fri, 25 Sep 2026 23:42:39 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Are Ethiopians marching back to war in Tigray?"
         },
         {
           "title": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray",
