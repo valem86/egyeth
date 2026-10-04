@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T08:31:03.866Z",
+  "generatedAt": "2026-10-04T15:25:39.760Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -7,13 +7,13 @@
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Egitto-Somalia: Al Sisi vede omologo Mohamud, focus su sfide regionali",
-          "link": "https://www.agenzianova.com/a/6ac20ec3e794e7.49407333/7844884/2026-10-04/egitto-somalia-al-sisi-vede-omologo-mohamud-focus-su-sfide-regionali",
-          "description": "04 ott 09:56 - (Agenzia Nova) - Il presidente egiziano, Abdel Fattah Al Sisi, ha incontrato il suo omologo della Somalia, Hassan Sheikh Mohamud,... (Cae)",
-          "pubDate": "2026-10-04T09:56:04+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto-Somalia: Al Sisi vede omologo Mohamud, focus su sfide regionali"
+          "title": "Persistent violence stalling African development, Burundi's Ndayishimiye tells summit",
+          "link": "http://www.africanews.com/2026/10/04/persistent-violence-stalling-african-development-burundis-ndayishimiye-tells-summit/",
+          "description": "Burundian President Evariste Ndayishimiye says at an African Union meeting in El Alamein, Egypt, that persistent violence across Africa is taking a toll on farming, education and development.",
+          "pubDate": "Sun, 04 Oct 2026 13:07:40 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Persistent violence stalling African development, Burundi's Ndayishimiye tells summit"
         },
         {
           "title": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland",
@@ -156,6 +156,24 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Ethiopian forces recapture Mekelle airport from Tigrayan fighters",
+          "link": "http://www.africanews.com/2026/10/04/ethiopian-forces-recapture-mekelle-airport-from-tigrayan-fighters/",
+          "description": "Ethiopian federal forces have taken Mekelle airport, reversing a takeover by Tigrayan fighters last month.",
+          "pubDate": "Sun, 04 Oct 2026 12:22:24 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopian forces recapture Mekelle airport from Tigrayan fighters"
+        },
+        {
+          "title": "Ethiopia’s Oromo celebrate Irreecha and call for peace as federal forces enter Mekelle",
+          "link": "http://www.africanews.com/2026/10/04/ethiopias-oromo-celebrate-irreecha-and-call-for-peace-as-federal-forces-enter-mekelle/",
+          "description": "Tens of thousands of Oromo gathered in Ethiopia’s capital Addis Ababa on Saturday to celebrate the thanksgiving festival of Irreecha. The gathering took place amid reports that federal forces had entered Mekelle, the capital of the northern region of Tigray.",
+          "pubDate": "Sun, 04 Oct 2026 08:35:45 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia’s Oromo celebrate Irreecha and call for peace as federal forces enter Mekelle"
+        },
+        {
           "title": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland",
           "link": "https://hornobserver.com/articles/3770/Journalists-face-arrests-and-alleged-assaults-while-covering-evictions-in-Somalia-and-Somaliland",
           "description": "The Somali Journalists Syndicate (SJS) says it has documented 13 arbitrary arrests of journalists in Mogadishu since Jan. 1, 2026, while 10 journalists have been arrested in Somaliland during the same period. Many of the cases involved reporters covering protests, forced evictions or criticism of government officials. In the latest incident, two journalists working for Somaliland-based Eryal TV said they were physically assaulted by Somali police and National Intelligence and Security Agency officers on Sept. 29 while reporting on forced evictions in Mogadishu's Yaqshiid district. Journalist M",
@@ -181,6 +199,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: 'Why Raila Odinga International Stadium Is in Same Class With Emirates Stadium'"
+        },
+        {
+          "title": "Namibia: Jordan, Namibia Highlight Cultural Ties to Boost Tourism Cooperation With Ethiopia",
+          "link": "https://allafrica.com/stories/202610020334.html",
+          "description": "[ENA] Addis Ababa -- Tourism representatives from Jordan and Namibia have emphasized shared cultural connections with Ethiopia as a key opportunity to expand tourism exchanges, business partnerships, and industry cooperation.",
+          "pubDate": "Fri, 02 Oct 2026 17:01:33 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Namibia: Jordan, Namibia Highlight Cultural Ties to Boost Tourism Cooperation With Ethiopia"
         },
         {
           "title": "Ethiopia: Alamata Fighting Leaves Trail of Civilian Casualties - Adigrat Eparch Appeals for Help",
@@ -307,21 +334,30 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "SJS mourns Somali radio journalist Hassan Kafi Qoyste who died at 57"
-        },
-        {
-          "title": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany",
-          "link": "https://hornobserver.com/articles/3752/Somali-Journalist-Mohamed-Aweys-Moodey-Dies-After-Stabbing-in-Germany",
-          "description": "The incident reportedly occurred at a residential facility. German authorities have identified a 28-year-old Somali man as the suspect. Police and prosecutors are investigating the circumstances of the incident, including the motive and whether it was connected to an earlier dispute between the two men. Moodey was a veteran journalist who worked in Somali media for many years. In 2014, he was arrested in Ethiopia and later sentenced to 27 years in prison under the country's anti-terrorism laws. The International Federation of Journalists and the National Union of Somali Journalists called for ",
-          "pubDate": "Sat, 19 Sep 2026 22:49:53 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somali Journalist Mohamed Aweys Moodey Dies After Stabbing in Germany"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ethiopian forces recapture Mekelle airport from Tigrayan fighters",
+          "link": "http://www.africanews.com/2026/10/04/ethiopian-forces-recapture-mekelle-airport-from-tigrayan-fighters/",
+          "description": "Ethiopian federal forces have taken Mekelle airport, reversing a takeover by Tigrayan fighters last month.",
+          "pubDate": "Sun, 04 Oct 2026 12:22:24 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopian forces recapture Mekelle airport from Tigrayan fighters"
+        },
+        {
+          "title": "Ethiopia’s Oromo celebrate Irreecha and call for peace as federal forces enter Mekelle",
+          "link": "http://www.africanews.com/2026/10/04/ethiopias-oromo-celebrate-irreecha-and-call-for-peace-as-federal-forces-enter-mekelle/",
+          "description": "Tens of thousands of Oromo gathered in Ethiopia’s capital Addis Ababa on Saturday to celebrate the thanksgiving festival of Irreecha. The gathering took place amid reports that federal forces had entered Mekelle, the capital of the northern region of Tigray.",
+          "pubDate": "Sun, 04 Oct 2026 08:35:45 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia’s Oromo celebrate Irreecha and call for peace as federal forces enter Mekelle"
+        },
         {
           "title": "Fuel shortage in Sudan drives up prices, burdening ordinary people",
           "link": "http://www.africanews.com/2026/10/03/fuel-shortage-in-sudan-drives-up-prices-burdening-ordinary-people/",
@@ -357,6 +393,24 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: AU Urges Restraint As Ethiopia, Eritrea, Egypt Tensions Rise"
+        },
+        {
+          "title": "Ethiopia: Egypt Engaged in Obstructing Ethiopia's Integrationist Role, Development",
+          "link": "https://allafrica.com/stories/202610020336.html",
+          "description": "[ENA] Addis Ababa -- Egypt has been attempting to hinder Ethiopia's integrationist role in the region and to obstruct its development, fearing that these might pull the rug out from under its feet, Abdulshakur Abdulsamad, a Senior Researcher at the Center for Strategic Studies and Regional Integration Initiative said.",
+          "pubDate": "Fri, 02 Oct 2026 17:05:01 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Egypt Engaged in Obstructing Ethiopia's Integrationist Role, Development"
+        },
+        {
+          "title": "Namibia: Jordan, Namibia Highlight Cultural Ties to Boost Tourism Cooperation With Ethiopia",
+          "link": "https://allafrica.com/stories/202610020334.html",
+          "description": "[ENA] Addis Ababa -- Tourism representatives from Jordan and Namibia have emphasized shared cultural connections with Ethiopia as a key opportunity to expand tourism exchanges, business partnerships, and industry cooperation.",
+          "pubDate": "Fri, 02 Oct 2026 17:01:33 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Namibia: Jordan, Namibia Highlight Cultural Ties to Boost Tourism Cooperation With Ethiopia"
         },
         {
           "title": "Ethiopia: U.S. Lawmakers, Europe Peace Foundation Urge Dialogue As Fighting Escalates in Ethiopia",
@@ -431,76 +485,40 @@
           "titleIt": "How fresh fighting in Tigray could spark wider conflict in Ethiopia"
         },
         {
-          "title": "African Union urges restraint as Ethiopia , Eritrea and Egypt edge toward confrontation",
-          "link": "https://kenya-today.com/report-african-union-urges-restraint-as-ethiopia-eritrea-and-egypt-edge-toward-confrontation-5769/",
-          "source": "kenya-today.com",
-          "pubDate": "2026-10-02T09:30:00Z",
+          "title": "Ethiopia and Eritrea sever diplomatic ties as Tigray fighting intensifies",
+          "link": "http://www.africanews.com/2026/10/02/ethiopia-and-eritrea-sever-ties-as-tigray-fighting-intensifies/",
+          "description": "Addis Ababa accused Eritrea of supporting the Tigray People's Liberation Front, which has launched attacks into the neighbouring Afar and Amhara regions. Ethiopia said it would expel 10 Eritrean diplomats and close its embassy in Asmara.",
+          "pubDate": "Fri, 02 Oct 2026 07:43:58 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "African Union urges restraint as Ethiopia , Eritrea and Egypt edge toward confrontation"
+          "titleIt": "Ethiopia and Eritrea sever diplomatic ties as Tigray fighting intensifies"
         },
         {
-          "title": "Eritrea cuts ties with Ethiopia over Asmara embassy closure",
-          "link": "https://www.cnbcafrica.com/2026/eritrea-cuts-ties-with-ethiopia-over-asmara-embassy-closure",
-          "source": "cnbcafrica.com",
-          "pubDate": "2026-10-02T09:15:00Z",
+          "title": "Ethiopia: federal forces advance in Tigray as 52 civilians reported killed",
+          "link": "http://www.africanews.com/2026/10/01/ethiopia-federal-forces-advance-in-tigray-as-52-civilians-reported-killed/",
+          "description": "The conflict is also spreading beyond Tigray, with fighting reported in neighbouring Afar and Amhara regions. Communications remain disrupted, making independent verification of battlefield claims difficult.",
+          "pubDate": "Thu, 01 Oct 2026 11:11:27 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea cuts ties with Ethiopia over Asmara embassy closure"
+          "titleIt": "Ethiopia: federal forces advance in Tigray as 52 civilians reported killed"
         },
         {
-          "title": "Why renewed fighting in Ethiopia Tigray risks a regional war",
-          "link": "https://www.cnbcafrica.com/2026/why-renewed-fighting-in-ethiopias-tigray-risks-a-regional-war",
-          "source": "cnbcafrica.com",
-          "pubDate": "2026-10-02T09:15:00Z",
+          "title": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims",
+          "link": "https://hornobserver.com/articles/3765/Somalia-Heavy-Fighting-Erupts-in-Baidoa-as-Rival-Forces-Trade-Claims",
+          "description": "Residents reported hearing a series of powerful explosions across Baidoa, with thick plumes of smoke visible over parts of the city. Initial reports indicated that several locations, including a power facility and a base used by federal government forces, were struck during the clashes. Ugaas Hassan, the information minister for the Laftagareen-aligned faction, confirmed that its forces had launched an attack, describing the assault as involving several successive waves. &nbsp; New footage, moment when Laftagaren's militias attacked #Baidoa this morning, one resident recorded. pic.twitter.com/",
+          "pubDate": "Mon, 28 Sep 2026 12:32:52 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Why renewed fighting in Ethiopia Tigray risks a regional war"
+          "titleIt": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims"
         },
         {
-          "title": "How the fighting in Ethiopia spread beyond Tigray , in maps and charts",
-          "link": "https://www.aljazeera.com/news/2026/10/2/how-the-fighting-in-ethiopia-spread-beyond-tigray-in-maps-and-charts",
-          "source": "aljazeera.com",
-          "pubDate": "2026-10-02T08:30:00Z",
+          "title": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues",
+          "link": "https://hornobserver.com/articles/3764/Your-account-has-been-disabled-The-new-wave-of-online-attacks-silencing-Somali-journalists-continues",
+          "description": "Beyond their immediate impact on individual journalists, the Somali Journalists Syndicate (SJS) is concerned that these attacks now threaten media freedom and the public's access to independent information by disrupting journalists' ability to report on human rights violations, corruption, insecurity and other developments affecting communities across Somalia. At a time when the country is facing overlapping political and humanitarian crises, the silencing, harassment and removal of journalists from digital platforms risks shrinking the space for public reporting, accountability and scrutiny—p",
+          "pubDate": "Mon, 28 Sep 2026 08:29:27 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "How the fighting in Ethiopia spread beyond Tigray , in maps and charts"
-        },
-        {
-          "title": "Egypt retaliates against Ethiopia as regional tensions surge",
-          "link": "https://www.middle-east-online.com/en/egypt-retaliates-against-ethiopia-regional-tensions-surge",
-          "source": "middle-east-online.com",
-          "pubDate": "2026-10-02T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt retaliates against Ethiopia as regional tensions surge"
-        },
-        {
-          "title": "Eritrea cuts ties with Ethiopia over Asmara embassy closure – Channel Africa",
-          "link": "https://www.channelafrica.co.za/channelafrica/news/eritrea-cuts-ties-with-ethiopia-over-asmara-embassy-closure/",
-          "source": "channelafrica.co.za",
-          "pubDate": "2026-10-02T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea cuts ties with Ethiopia over Asmara embassy closure – Channel Africa"
-        },
-        {
-          "title": "Eritrea cuts ties with Ethiopia over Asmara embassy closure",
-          "link": "https://www.al-monitor.com/originals/2026/10/eritrea-cuts-ties-ethiopia-over-asmara-embassy-closure",
-          "source": "al-monitor.com",
-          "pubDate": "2026-10-02T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea cuts ties with Ethiopia over Asmara embassy closure"
-        },
-        {
-          "title": "Morning Briefing : Oct . 2 , 2026",
-          "link": "https://aa.com.tr/en/world/morning-briefing-oct-2-2026/4075660",
-          "source": "aa.com.tr",
-          "pubDate": "2026-10-02T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Morning Briefing : Oct . 2 , 2026"
+          "titleIt": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues"
         }
       ]
     },
