@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T01:37:13.869Z",
+  "generatedAt": "2026-10-07T08:45:36.992Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -165,6 +165,24 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya: U.S. Embassy Issues Ebola Alert As Kenya Traces 28 Contacts",
+          "link": "https://allafrica.com/stories/202610070204.html",
+          "description": "[Capital FM] Nairobi -- The United States Embassy in Nairobi has issued a health alert following Kenya's confirmation of its first imported case of Bundibugyo virus disease, urging people at risk of exposure to seek medical guidance if they develop symptoms associated with Ebola.",
+          "pubDate": "Wed, 07 Oct 2026 07:55:07 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: U.S. Embassy Issues Ebola Alert As Kenya Traces 28 Contacts"
+        },
+        {
+          "title": "Kenya: Ruto Orders Enhanced Ebola Response As Kenya Traces 27 Passengers",
+          "link": "https://allafrica.com/stories/202610070188.html",
+          "description": "[Capital FM] Nairobi -- President William Ruto has directed the National Security Council Committee (NSCC) to assess Kenya's Ebola situation and recommend additional measures following the death of the country's first confirmed imported Ebola Virus Disease (EVD) case.",
+          "pubDate": "Wed, 07 Oct 2026 06:16:07 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Ruto Orders Enhanced Ebola Response As Kenya Traces 27 Passengers"
+        },
+        {
           "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
           "link": "https://hornobserver.com/articles/3776/Somalia-Xawaadle-Elders-and-Al-Shabaab-Reportedly-Reach-Truce-in-Hiiraan",
           "description": "A 16-point joint statement circulated by Al-Shabaab-affiliated media&nbsp; said the sides had resolved their disputes and agreed to maintain peace in areas controlled or influenced by the clan. The reported agreement includes a commitment by Hawadle elders not to allow the recruitment or operation of Macawiisley fighters in their areas or provide them with shelter. Macawiisley forces from Hiiraan have played a key role in supporting Somali government troops against Al-Shabaab. The meeting in Maxaas was attended by dozens of traditional elders, while Al-Shabaab was represented by senior figures",
@@ -325,30 +343,21 @@
           "lang": "en",
           "description": "",
           "titleIt": "Tanzania Removes Special Visa Clearance for Nigerians"
-        },
-        {
-          "title": "Somaliland Pushes to Take Control of Its Airspace and Border Entry System",
-          "link": "https://wardheernews.com/somaliland-pushes-to-take-control-of-its-airspace-and-border-entry-system/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-09-29T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Pushes to Take Control of Its Airspace and Border Entry System"
-        },
-        {
-          "title": "Algeria accuses Israel of seeking to divide Somalia",
-          "link": "https://horseedmedia.net/algeria-accuses-israel-of-seeking-to-divide-somalia/426020/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-09-29T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Algeria accuses Israel of seeking to divide Somalia"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Sudan: Sudan's Death Toll in 2025 Could Be As High As 100,000 - How We Did the Count",
+          "link": "https://allafrica.com/stories/202610070116.html",
+          "description": "[The Conversation Africa] Estimates of the number of people directly killed in Sudan's civil war vary widely, in part because counting casualties in active conflict zones is extremely difficult. In 2025, for instance, one conflict monitoring organisation reported around 19,000 direct deaths from political violence across Sudan. Other research teams put the toll at more than 70,000.",
+          "pubDate": "Wed, 07 Oct 2026 03:52:43 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudan's Death Toll in 2025 Could Be As High As 100,000 - How We Did the Count"
+        },
         {
           "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
           "link": "https://hornobserver.com/articles/3776/Somalia-Xawaadle-Elders-and-Al-Shabaab-Reportedly-Reach-Truce-in-Hiiraan",
@@ -422,15 +431,6 @@
           "titleIt": "Italian Cuisine Conquers Tbilisi: Gala Dinner for Cuisine Week"
         },
         {
-          "title": "Yemeni military says it has 'secured' Red Sea waterway",
-          "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-          "description": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
-          "pubDate": "Tue, 06 Oct 2026 07:43:07 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "Yemeni military says it has 'secured' Red Sea waterway"
-        },
-        {
           "title": "Ethiopia: PM vows to secure sea access amid fears of return to war",
           "link": "http://www.africanews.com/2026/10/05/ethiopia-pm-vows-to-secure-sea-access-amid-fears-of-return-to-war/",
           "description": "Following almost two weeks of internal conflict that threatens a wider regional war in Ethiopia, the country's prime minister has vowed that government forces are ready to bring a rebel offensive under control.",
@@ -494,15 +494,6 @@
           "titleIt": "Ethiopia’s Oromo celebrate Irreecha and call for peace as federal forces enter Mekelle"
         },
         {
-          "title": "Fuel shortage in Sudan drives up prices, burdening ordinary people",
-          "link": "http://www.africanews.com/2026/10/03/fuel-shortage-in-sudan-drives-up-prices-burdening-ordinary-people/",
-          "description": "The scarcity is driven by global oil disruptions tied to the Middle East conflict and by domestic import restrictions.",
-          "pubDate": "Sat, 03 Oct 2026 14:17:17 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Fuel shortage in Sudan drives up prices, burdening ordinary people"
-        },
-        {
           "title": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland",
           "link": "https://hornobserver.com/articles/3770/Journalists-face-arrests-and-alleged-assaults-while-covering-evictions-in-Somalia-and-Somaliland",
           "description": "The Somali Journalists Syndicate (SJS) says it has documented 13 arbitrary arrests of journalists in Mogadishu since Jan. 1, 2026, while 10 journalists have been arrested in Somaliland during the same period. Many of the cases involved reporters covering protests, forced evictions or criticism of government officials. In the latest incident, two journalists working for Somaliland-based Eryal TV said they were physically assaulted by Somali police and National Intelligence and Security Agency officers on Sept. 29 while reporting on forced evictions in Mogadishu's Yaqshiid district. Journalist M",
@@ -528,6 +519,15 @@
           "source": "The New Humanitarian",
           "lang": "en",
           "titleIt": "Ethiopia’s resurgent conflict, Rohingya repatriations, and Gaza’s devastation on Google Maps: The Cheat Sheet"
+        },
+        {
+          "title": "Diplomatic Break: Ethiopia and Eritrea Slide Into a New Crisis",
+          "link": "https://hornobserver.com/articles/3769/Diplomatic-Break-Ethiopia-and-Eritrea-Slide-Into-a-New-Crisis",
+          "description": "Ethiopia's Foreign Ministry said Thursday that the embassy closure was a response to what it described as Eritrea's \"direct and indirect acts of hostility and belligerence\" toward Ethiopia. The ministry also accused the expelled diplomats of engaging in activities that threatened Ethiopia's national security and violated the Vienna Convention on Diplomatic Relations. Among those ordered to leave Ethiopia within 48 hours were Eritrea's charg&eacute; d'affaires and officials accredited to the African Union, according to the Ethiopian government. Eritrea rejected the accusations, arguing that Eth",
+          "pubDate": "Fri, 02 Oct 2026 17:35:54 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Diplomatic Break: Ethiopia and Eritrea Slide Into a New Crisis"
         }
       ]
     },
@@ -557,6 +557,15 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Sudan: Sudan's Death Toll in 2025 Could Be As High As 100,000 - How We Did the Count",
+          "link": "https://allafrica.com/stories/202610070116.html",
+          "description": "[The Conversation Africa] Estimates of the number of people directly killed in Sudan's civil war vary widely, in part because counting casualties in active conflict zones is extremely difficult. In 2025, for instance, one conflict monitoring organisation reported around 19,000 direct deaths from political violence across Sudan. Other research teams put the toll at more than 70,000.",
+          "pubDate": "Wed, 07 Oct 2026 03:52:43 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudan's Death Toll in 2025 Could Be As High As 100,000 - How We Did the Count"
+        },
         {
           "title": "Ethiopia: Four African Countries Call for De-Escalation of Tension in Ethiopia",
           "link": "https://allafrica.com/stories/202610060177.html",
