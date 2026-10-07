@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-10-07T08:45:36.992Z",
+  "generatedAt": "2026-10-07T17:28:36.726Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somalia and Azerbaijan Discuss Expanding Education Cooperation",
+          "link": "https://allafrica.com/stories/202610070576.html",
+          "description": "[Shabelle] Baku -- Somalia and Azerbaijan have discussed ways to strengthen education cooperation, including expanding opportunities for Somali students and supporting those currently studying in Azerbaijan, Somalia's embassy said Wednesday.",
+          "pubDate": "Wed, 07 Oct 2026 15:33:45 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia and Azerbaijan Discuss Expanding Education Cooperation"
+        },
+        {
+          "title": "Somalia: Somalia Says Al-Shabab Amniyat Chief Killed in Nisa Operation",
+          "link": "https://allafrica.com/stories/202610070420.html",
+          "description": "[Shabelle] Mogadishu -- Somalia's intelligence agency said a former head of al-Shabab's Amniyat security wing was killed in a planned operation carried out with international partners in the southern town of Jilib.",
+          "pubDate": "Wed, 07 Oct 2026 13:07:58 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia Says Al-Shabab Amniyat Chief Killed in Nisa Operation"
+        },
         {
           "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
           "link": "https://hornobserver.com/articles/3776/Somalia-Xawaadle-Elders-and-Al-Shabaab-Reportedly-Reach-Truce-in-Hiiraan",
@@ -25,15 +43,6 @@
           "titleIt": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation"
         },
         {
-          "title": "Somalia: President Isaias Holds Talks With Somali President",
-          "link": "https://allafrica.com/stories/202610060374.html",
-          "description": "[Shabelle] Egypt -- President Isaias Afwerki met with Mr. Hassan Sheikh Mohamud, President of the Federal Republic of Somalia, in El Alamein City in the mid-morning hours today for extensive talks on bilateral relations and other matters of vital importance to both countries.",
-          "pubDate": "Tue, 06 Oct 2026 15:18:52 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: President Isaias Holds Talks With Somali President"
-        },
-        {
           "title": "Egypt: Interior Ministry denies torture claims of detained journalists",
           "link": "http://www.africanews.com/2026/10/06/egypt-interior-ministry-denies-torture-claims-of-detained-journalists/",
           "description": "Egypt on Tuesday rejected accusations that detained journalists from an independent fact-checking platform were tortured or mistreated, referring to the allegations as \"baseless\".",
@@ -50,15 +59,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somali Clans sign peace agreement to end long-running conflict in Galmudug"
-        },
-        {
-          "title": "Persistent violence stalling African development, Burundi's Ndayishimiye tells summit",
-          "link": "http://www.africanews.com/2026/10/04/persistent-violence-stalling-african-development-burundis-ndayishimiye-tells-summit/",
-          "description": "Burundian President Evariste Ndayishimiye says at an African Union meeting in El Alamein, Egypt, that persistent violence across Africa is taking a toll on farming, education and development.",
-          "pubDate": "Sun, 04 Oct 2026 13:07:40 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Persistent violence stalling African development, Burundi's Ndayishimiye tells summit"
         },
         {
           "title": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland",
@@ -165,6 +165,60 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Golfo: Yemen Airways proseguira' operazioni nonostante attacco aeroporto Aden",
+          "link": "https://www.agenzianova.com/a/6ac68144a3f708.06606541/7859421/2026-10-07/golfo-yemen-airways-proseguira-operazioni-nonostante-attacco-aeroporto-aden",
+          "description": "07 ott 18:54 - (Agenzia Nova) - La compagnia Yemen Airways continuera' a operare secondo il suo programma nonostante l'attacco all'aeroporto... (Res)",
+          "pubDate": "2026-10-07T18:54:32+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Golfo: Yemen Airways proseguira' operazioni nonostante attacco aeroporto Aden"
+        },
+        {
+          "title": "Kenya: The Researchers Building Kenya's Cotton Industry From The Seed Up",
+          "link": "https://allafrica.com/stories/202610070632.html",
+          "description": "[Bird Story Agency] At Kirinyaga University, researchers are testing whether Kenya can produce quality Bt cotton seed locally. The trials could help improve supply and lower costs, but taking the research to farmers will require commercial investment and support across the cotton value chain.",
+          "pubDate": "Wed, 07 Oct 2026 16:49:44 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: The Researchers Building Kenya's Cotton Industry From The Seed Up"
+        },
+        {
+          "title": "Somalia: Beyond Irro's U.S. Visit - Next Steps for Washington-Hargeisa Relations",
+          "link": "https://allafrica.com/stories/202610070588.html",
+          "description": "[Addis Standard] Addis Abeba -- President Abdirahman Mohamed Abdullahi 'Irro' spent nearly two weeks in the United States from 5 to 19 September 2026, engaging in Washington and New York to press Somaliland's case for deeper international engagement. His program includes discussions with lawmakers, policy institutions, and engagement with the Somaliland diaspora. The visit gave Somaliland access to audiences that matter in American foreign-policy debates, but access by itself is not a policy outcome",
+          "pubDate": "Wed, 07 Oct 2026 15:39:03 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Beyond Irro's U.S. Visit - Next Steps for Washington-Hargeisa Relations"
+        },
+        {
+          "title": "Somalia: Somalia and Azerbaijan Discuss Expanding Education Cooperation",
+          "link": "https://allafrica.com/stories/202610070576.html",
+          "description": "[Shabelle] Baku -- Somalia and Azerbaijan have discussed ways to strengthen education cooperation, including expanding opportunities for Somali students and supporting those currently studying in Azerbaijan, Somalia's embassy said Wednesday.",
+          "pubDate": "Wed, 07 Oct 2026 15:33:45 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia and Azerbaijan Discuss Expanding Education Cooperation"
+        },
+        {
+          "title": "Africa: African Ministers to Convene Dialogue With WHO Director-General Candidates in Addis Ababa On 23 November 2026",
+          "link": "https://allafrica.com/stories/202610070397.html",
+          "description": "[Africa CDC] Addis Ababa -- The 54 WHO recognized African countries represent nearly 30% of WHO Membership. Therefore, when leaders of this global health institution are selected, Africans should have the opportunity to hear directly from the candidates: their vision, priorities, and commitments to our continent.",
+          "pubDate": "Wed, 07 Oct 2026 12:15:56 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: African Ministers to Convene Dialogue With WHO Director-General Candidates in Addis Ababa On 23 November 2026"
+        },
+        {
+          "title": "Kenyan health workers demand protection after first Ebola death",
+          "link": "http://www.africanews.com/2026/10/07/kenyan-health-workers-demand-protection-after-first-ebola-death/",
+          "description": "The Kenya Medical Practitioners, Pharmacists and Dentists Union on Tuesday called on the government to protect health workers, after the country reported its first case of Ebola.",
+          "pubDate": "Wed, 07 Oct 2026 10:05:31 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Kenyan health workers demand protection after first Ebola death"
+        },
+        {
           "title": "Kenya: U.S. Embassy Issues Ebola Alert As Kenya Traces 28 Contacts",
           "link": "https://allafrica.com/stories/202610070204.html",
           "description": "[Capital FM] Nairobi -- The United States Embassy in Nairobi has issued a health alert following Kenya's confirmation of its first imported case of Bundibugyo virus disease, urging people at risk of exposure to seek medical guidance if they develop symptoms associated with Ebola.",
@@ -201,24 +255,6 @@
           "titleIt": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation"
         },
         {
-          "title": "Somalia: President Isaias Holds Talks With Somali President",
-          "link": "https://allafrica.com/stories/202610060374.html",
-          "description": "[Shabelle] Egypt -- President Isaias Afwerki met with Mr. Hassan Sheikh Mohamud, President of the Federal Republic of Somalia, in El Alamein City in the mid-morning hours today for extensive talks on bilateral relations and other matters of vital importance to both countries.",
-          "pubDate": "Tue, 06 Oct 2026 15:18:52 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: President Isaias Holds Talks With Somali President"
-        },
-        {
-          "title": "Kenya: KMPDU Demands Urgent Protection for Health Workers After Kenya Confirms First Ebola Case",
-          "link": "https://allafrica.com/stories/202610060372.html",
-          "description": "[Capital FM] Nairobi -- The Kenya Medical Practitioners, Pharmacists and Dentists' Union (KMPDU) has called for urgent measures to protect healthcare workers following the confirmation of Kenya's first imported case of Bundibugyo Ebola virus disease and the subsequent death of the patient in Nairobi.",
-          "pubDate": "Tue, 06 Oct 2026 15:16:49 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: KMPDU Demands Urgent Protection for Health Workers After Kenya Confirms First Ebola Case"
-        },
-        {
           "title": "Ebola Crosses Border Into Kenya as First Imported Bundibugyo Case Confirmed",
           "link": "https://hornobserver.com/articles/3773/Ebola-Crosses-Border-Into-Kenya-as-First-Imported-Bundibugyo-Case-Confirmed",
           "description": "The man became ill about a month ago while in Congo, where he was treated at several hospitals before traveling by road to Kampala, Uganda. He then boarded a Jambojet flight to Nairobi, arriving at Jomo Kenyatta International Airport on Oct. 3. He was taken directly to Nairobi Hospital and isolated, according to the ministry. The patient had symptoms including fever, chills, severe fatigue, muscle pain, painful swallowing, a sore throat and bleeding beneath the skin. Tests at Kenya's National Virology Reference Laboratory and the Kenya Medical Research Institute confirmed Bundibugyo Ebola viru",
@@ -226,15 +262,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Ebola Crosses Border Into Kenya as First Imported Bundibugyo Case Confirmed"
-        },
-        {
-          "title": "Kenya: Explainer - What Happens Next After Ebola Case Linked to Jambojet Flight?",
-          "link": "https://allafrica.com/stories/202610060308.html",
-          "description": "[Capital FM] Nairobi -- Kenya has confirmed its first imported case of Bundibugyo Ebola virus disease after a Kenyan citizen who had been living in the Democratic Republic of Congo travelled by road to Kampala before boarding Jambojet flight JM8523 from Entebbe to Nairobi on October 3.",
-          "pubDate": "Tue, 06 Oct 2026 12:32:45 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Explainer - What Happens Next After Ebola Case Linked to Jambojet Flight?"
         },
         {
           "title": "Kenya confirms first Ebola death as 28 contacts traced",
@@ -253,33 +280,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift"
-        },
-        {
-          "title": "Consul Manara Attends the Naples Festival in Kagoshima",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/05/consul-manara-attends-the-naples-festival-in-kagoshima_d22e47cc-d05e-460d-881c-d1c90b01119f.html",
-          "description": "(ANSA) - ROMA, 05 OTT - The Consul General of Italy in Osaka, Filippo Manara, undertook a mission to the city of Kagoshima, on the southern island of Kyushu, a dynamic city with many affinities with Italy. With its Kinkō Gulf dominated by the Sakurajima volcano, the city of Kagoshima has been twinned with the city of Naples since 1960. During the visit, the consul met with the prefectural governor, the mayor of Kagoshima, and the president of the Chamber of Commerce to give new impetus to commercial, cultural, and industrial relations, creating new opportunities for growth between Naples, Kago",
-          "pubDate": "Mon, 5 Oct 2026 09:55:00 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Consul Manara Attends the Naples Festival in Kagoshima"
-        },
-        {
-          "title": "Ethiopian forces recapture Mekelle airport from Tigrayan fighters",
-          "link": "http://www.africanews.com/2026/10/04/ethiopian-forces-recapture-mekelle-airport-from-tigrayan-fighters/",
-          "description": "Ethiopian federal forces have taken Mekelle airport, reversing a takeover by Tigrayan fighters last month.",
-          "pubDate": "Sun, 04 Oct 2026 12:22:24 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopian forces recapture Mekelle airport from Tigrayan fighters"
-        },
-        {
-          "title": "Ethiopia’s Oromo celebrate Irreecha and call for peace as federal forces enter Mekelle",
-          "link": "http://www.africanews.com/2026/10/04/ethiopias-oromo-celebrate-irreecha-and-call-for-peace-as-federal-forces-enter-mekelle/",
-          "description": "Tens of thousands of Oromo gathered in Ethiopia’s capital Addis Ababa on Saturday to celebrate the thanksgiving festival of Irreecha. The gathering took place amid reports that federal forces had entered Mekelle, the capital of the northern region of Tigray.",
-          "pubDate": "Sun, 04 Oct 2026 08:35:45 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopia’s Oromo celebrate Irreecha and call for peace as federal forces enter Mekelle"
         },
         {
           "title": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland",
@@ -350,13 +350,67 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Sudan: Sudan's Death Toll in 2025 Could Be As High As 100,000 - How We Did the Count",
-          "link": "https://allafrica.com/stories/202610070116.html",
-          "description": "[The Conversation Africa] Estimates of the number of people directly killed in Sudan's civil war vary widely, in part because counting casualties in active conflict zones is extremely difficult. In 2025, for instance, one conflict monitoring organisation reported around 19,000 direct deaths from political violence across Sudan. Other research teams put the toll at more than 70,000.",
-          "pubDate": "Wed, 07 Oct 2026 03:52:43 GMT",
+          "title": "Somalia: Beyond Irro's U.S. Visit - Next Steps for Washington-Hargeisa Relations",
+          "link": "https://allafrica.com/stories/202610070588.html",
+          "description": "[Addis Standard] Addis Abeba -- President Abdirahman Mohamed Abdullahi 'Irro' spent nearly two weeks in the United States from 5 to 19 September 2026, engaging in Washington and New York to press Somaliland's case for deeper international engagement. His program includes discussions with lawmakers, policy institutions, and engagement with the Somaliland diaspora. The visit gave Somaliland access to audiences that matter in American foreign-policy debates, but access by itself is not a policy outcome",
+          "pubDate": "Wed, 07 Oct 2026 15:39:03 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Sudan: Sudan's Death Toll in 2025 Could Be As High As 100,000 - How We Did the Count"
+          "titleIt": "Somalia: Beyond Irro's U.S. Visit - Next Steps for Washington-Hargeisa Relations"
+        },
+        {
+          "title": "Somalia: Somalia and Azerbaijan Discuss Expanding Education Cooperation",
+          "link": "https://allafrica.com/stories/202610070576.html",
+          "description": "[Shabelle] Baku -- Somalia and Azerbaijan have discussed ways to strengthen education cooperation, including expanding opportunities for Somali students and supporting those currently studying in Azerbaijan, Somalia's embassy said Wednesday.",
+          "pubDate": "Wed, 07 Oct 2026 15:33:45 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia and Azerbaijan Discuss Expanding Education Cooperation"
+        },
+        {
+          "title": "Agreement Signed for Umbria’s Participation in Expo Belgrade 2027",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/07/agreement-signed-for-umbrias-participation-in-expo-belgrade-2027_b5c87a38-275f-4c34-9caa-f89b6ff66a12.html",
+          "description": "(ANSA) - ROMA, 07 OTT - The commissioner of the Italian Pavilion at Expo 2027 Belgrade, Ambassador to Serbia Luca Gori, and the president of the Umbria Region, Stefania Proietti, signed the agreement outlining the terms of the region’s participation in the International Specialized Exposition, scheduled to take place in the Serbian capital from May 15 to August 15, 2027. Expo 2027 Belgrade, titled “Playing for Humanity: Sports and Music for All,” will feature the participation of approximately 140 countries. The signed agreement implements the Framework Agreement initialed on June 24, 2026, in",
+          "pubDate": "Wed, 7 Oct 2026 17:24:26 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Agreement Signed for Umbria’s Participation in Expo Belgrade 2027"
+        },
+        {
+          "title": "Eritrean troops deploy in Ethiopia's Tigray region, witnesses say",
+          "link": "http://www.africanews.com/2026/10/07/eritrean-troops-deploy-in-ethiopias-tigray-region-witnesses-say/",
+          "description": "Eritrean troops have been deployed in recent days around the town of Adigrat, in Ethiopia's Tigray region, a local official and residents told AFP on Wednesday.",
+          "pubDate": "Wed, 07 Oct 2026 14:58:31 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Eritrean troops deploy in Ethiopia's Tigray region, witnesses say"
+        },
+        {
+          "title": "Africa: U.S. Backs Stronger AU-UN Role in Africa Conflicts, Supports UN Financing for AU-Led Missions",
+          "link": "https://allafrica.com/stories/202610070467.html",
+          "description": "[Capital FM] Nairobi -- The United States has backed a stronger African Union-United Nations partnership to address conflicts across the continent, saying a UN framework for financing AU-led peace operations could provide a useful tool in responding to Africa's security crises.",
+          "pubDate": "Wed, 07 Oct 2026 13:23:46 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: U.S. Backs Stronger AU-UN Role in Africa Conflicts, Supports UN Financing for AU-Led Missions"
+        },
+        {
+          "title": "Africa: African Ministers to Convene Dialogue With WHO Director-General Candidates in Addis Ababa On 23 November 2026",
+          "link": "https://allafrica.com/stories/202610070397.html",
+          "description": "[Africa CDC] Addis Ababa -- The 54 WHO recognized African countries represent nearly 30% of WHO Membership. Therefore, when leaders of this global health institution are selected, Africans should have the opportunity to hear directly from the candidates: their vision, priorities, and commitments to our continent.",
+          "pubDate": "Wed, 07 Oct 2026 12:15:56 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: African Ministers to Convene Dialogue With WHO Director-General Candidates in Addis Ababa On 23 November 2026"
+        },
+        {
+          "title": "Nigeria: UN Cash Crisis Must Not Hurt Developing Countries - Nigeria",
+          "link": "https://allafrica.com/stories/202610070329.html",
+          "description": "[Vanguard] Nigeria has warned that the United Nations liquidity crisis must not disproportionately undermine human rights assistance to developing and conflict-affected countries.",
+          "pubDate": "Wed, 07 Oct 2026 10:58:50 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Nigeria: UN Cash Crisis Must Not Hurt Developing Countries - Nigeria"
         },
         {
           "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
@@ -386,24 +440,6 @@
           "titleIt": "Press Release: President Isaias of Eritrea holds talks with Somali President"
         },
         {
-          "title": "Somalia: President Isaias Holds Talks With Somali President",
-          "link": "https://allafrica.com/stories/202610060374.html",
-          "description": "[Shabelle] Egypt -- President Isaias Afwerki met with Mr. Hassan Sheikh Mohamud, President of the Federal Republic of Somalia, in El Alamein City in the mid-morning hours today for extensive talks on bilateral relations and other matters of vital importance to both countries.",
-          "pubDate": "Tue, 06 Oct 2026 15:18:52 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: President Isaias Holds Talks With Somali President"
-        },
-        {
-          "title": "Somalia: All 7 Surviving Pakistani Crew Members Rescued After Somalia Pirate Hijacking",
-          "link": "https://allafrica.com/stories/202610060299.html",
-          "description": "[Shabelle] Islamabad -- All seven Pakistani crew members who survived a pirate attack off Somalia's coast have been rescued, Pakistan's foreign minister said Monday.",
-          "pubDate": "Tue, 06 Oct 2026 12:27:15 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: All 7 Surviving Pakistani Crew Members Rescued After Somalia Pirate Hijacking"
-        },
-        {
           "title": "Tigray violence drives risk of Ethiopia-Eritrea war, analyst says",
           "link": "http://www.africanews.com/2026/10/06/tigray-violence-drives-risk-of-ethiopia-eritrea-war-analyst-says/",
           "description": "Renewed fighting between Ethiopian federal forces and Tigrayan rebels increases risks of an escalation into a wider regional conflict, according to International Crisis Group analyst Magnus Taylor.",
@@ -411,15 +447,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Tigray violence drives risk of Ethiopia-Eritrea war, analyst says"
-        },
-        {
-          "title": "Ethiopia: Four African Countries Call for De-Escalation of Tension in Ethiopia",
-          "link": "https://allafrica.com/stories/202610060177.html",
-          "description": "[Premium Times] This call comes amid the growing tension between Ethiopia's federal government and authorities in the northern Tigray region.",
-          "pubDate": "Tue, 06 Oct 2026 10:15:34 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Four African Countries Call for De-Escalation of Tension in Ethiopia"
         },
         {
           "title": "Italian Cuisine Conquers Tbilisi: Gala Dinner for Cuisine Week",
@@ -467,33 +494,6 @@
           "titleIt": "Putin authorizes reorganization of UniCredit's Russian division"
         },
         {
-          "title": "The Veneto Region at Expo 2027 Belgrade",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/05/the-veneto-region-at-expo-2027-belgrade_5edb3ab7-a4de-4d6a-8283-5a03bce5c615.html",
-          "description": "(ANSA) - ROMA, 05 OTT - The commissioner of the Italian Pavilion at Expo 2027 Belgrade, Ambassador to Serbia Luca Gori, and Marco Zecchinato, councilor for Interregional Cooperation, Territorial Governance, Infrastructure, Local Authorities, and Territorial Reorganization of the Veneto Region, Marco Zecchinato, signed the agreement outlining the region’s participation in the International Specialized Exposition, scheduled to take place in the Serbian capital from May 15 to August 15, 2027. Expo 2027 Belgrade, titled “Playing for Humanity: Sports and Music for All,” will feature the participati",
-          "pubDate": "Mon, 5 Oct 2026 16:06:26 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "The Veneto Region at Expo 2027 Belgrade"
-        },
-        {
-          "title": "Ethiopian forces recapture Mekelle airport from Tigrayan fighters",
-          "link": "http://www.africanews.com/2026/10/04/ethiopian-forces-recapture-mekelle-airport-from-tigrayan-fighters/",
-          "description": "Ethiopian federal forces have taken Mekelle airport, reversing a takeover by Tigrayan fighters last month.",
-          "pubDate": "Sun, 04 Oct 2026 12:22:24 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopian forces recapture Mekelle airport from Tigrayan fighters"
-        },
-        {
-          "title": "Ethiopia’s Oromo celebrate Irreecha and call for peace as federal forces enter Mekelle",
-          "link": "http://www.africanews.com/2026/10/04/ethiopias-oromo-celebrate-irreecha-and-call-for-peace-as-federal-forces-enter-mekelle/",
-          "description": "Tens of thousands of Oromo gathered in Ethiopia’s capital Addis Ababa on Saturday to celebrate the thanksgiving festival of Irreecha. The gathering took place amid reports that federal forces had entered Mekelle, the capital of the northern region of Tigray.",
-          "pubDate": "Sun, 04 Oct 2026 08:35:45 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopia’s Oromo celebrate Irreecha and call for peace as federal forces enter Mekelle"
-        },
-        {
           "title": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland",
           "link": "https://hornobserver.com/articles/3770/Journalists-face-arrests-and-alleged-assaults-while-covering-evictions-in-Somalia-and-Somaliland",
           "description": "The Somali Journalists Syndicate (SJS) says it has documented 13 arbitrary arrests of journalists in Mogadishu since Jan. 1, 2026, while 10 journalists have been arrested in Somaliland during the same period. Many of the cases involved reporters covering protests, forced evictions or criticism of government officials. In the latest incident, two journalists working for Somaliland-based Eryal TV said they were physically assaulted by Somali police and National Intelligence and Security Agency officers on Sept. 29 while reporting on forced evictions in Mogadishu's Yaqshiid district. Journalist M",
@@ -501,15 +501,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland"
-        },
-        {
-          "title": "Lombardy: A Hub for Investment and Innovation—A Discussion in London",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/02/lombardy-a-hub-for-investment-and-innovationa-discussion-in-london_a85d9465-ef17-4cc9-91c2-e60722a19321.html",
-          "description": "(ANSA) - LONDRA, 02 OTT - 'Lombardy: Where European Scale Meets Innovation Speed’: this was the central theme of the event dedicated to Lombardy’s role as a strategic platform for investment and innovation in Europe and to growth opportunities for British and international companies, organized in London by the Italian Embassy in the United Kingdom and the Lombardy Region, in collaboration with Promos Italia, Milano&Partners, and the ITA Italian Trade Agency. The meeting, hosted at Casa Italia, brought together representatives from institutions, the business community, and the international inv",
-          "pubDate": "Fri, 2 Oct 2026 17:17:17 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Lombardy: A Hub for Investment and Innovation—A Discussion in London"
         },
         {
           "title": "Ethiopia’s resurgent conflict, Rohingya repatriations, and Gaza’s devastation on Google Maps: The Cheat Sheet",
@@ -528,53 +519,25 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Diplomatic Break: Ethiopia and Eritrea Slide Into a New Crisis"
+        },
+        {
+          "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
+          "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+          "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+          "pubDate": "Fri, 02 Oct 2026 11:24:13 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "How fresh fighting in Tigray could spark wider conflict in Ethiopia"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Ambassador Franchetti Pardo at the Warsaw Museum for the 800th anniversary of St. Francis",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/05/ambassador-franchetti-pardo-at-the-warsaw-museum-for-the-800th-anniversary_eea62c48-f7b1-4369-a72e-09c89f98d13b.html",
-          "description": "(ANSA) - VARSAVIA, 05 OTT - As part of the celebrations marking the eighth centenary of the death of St. Francis of Assisi, the National Museum in Warsaw hosted “No Sky Is Without Light,” an audiovisual performance by composer Luca Maria Baldini and artist, director, and photographer Salvatore Insana, organized by the Italian Cultural Institute in Warsaw. Through the interplay of sound, images, texts, and archival materials, the performance reinterprets certain themes of the Franciscan tradition in light of contemporary issues: the relationship with nature, the ecological crisis, care, and int",
-          "pubDate": "Mon, 5 Oct 2026 12:22:33 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Ambassador Franchetti Pardo at the Warsaw Museum for the 800th anniversary of St. Francis"
-        },
-        {
-          "title": "African leaders call for continent to unlock capital at Egypt business summit",
-          "link": "http://www.africanews.com/2026/10/04/african-leaders-call-for-continent-to-unlock-capital-at-egypt-business-summit/",
-          "description": "African heads of state and business leaders gathered in Egypt on Saturday for the inaugural El-Alamein Africa Forum. They called for the continent to unlock its capital to finance growth and reduce reliance on external funding.",
-          "pubDate": "Sun, 04 Oct 2026 07:31:48 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "African leaders call for continent to unlock capital at Egypt business summit"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Sudan: Sudan's Death Toll in 2025 Could Be As High As 100,000 - How We Did the Count",
-          "link": "https://allafrica.com/stories/202610070116.html",
-          "description": "[The Conversation Africa] Estimates of the number of people directly killed in Sudan's civil war vary widely, in part because counting casualties in active conflict zones is extremely difficult. In 2025, for instance, one conflict monitoring organisation reported around 19,000 direct deaths from political violence across Sudan. Other research teams put the toll at more than 70,000.",
-          "pubDate": "Wed, 07 Oct 2026 03:52:43 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Sudan's Death Toll in 2025 Could Be As High As 100,000 - How We Did the Count"
-        },
-        {
-          "title": "Ethiopia: Four African Countries Call for De-Escalation of Tension in Ethiopia",
-          "link": "https://allafrica.com/stories/202610060177.html",
-          "description": "[Premium Times] This call comes amid the growing tension between Ethiopia's federal government and authorities in the northern Tigray region.",
-          "pubDate": "Tue, 06 Oct 2026 10:15:34 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Four African Countries Call for De-Escalation of Tension in Ethiopia"
-        },
         {
           "title": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver",
           "link": "https://hornobserver.com/articles/3771/Sudan-WFP-Strongly-Condemns-Attack-On-Trucks-In-South-Kordofan-Killing-One-Driver",
