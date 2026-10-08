@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-10-08T06:12:12.907Z",
+  "generatedAt": "2026-10-08T13:37:27.972Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: Somalia Says Al-Shabab Amniyat Chief Killed in Nisa Operation",
-          "link": "https://allafrica.com/stories/202610070420.html",
-          "description": "[Shabelle] Mogadishu -- Somalia's intelligence agency said a former head of al-Shabab's Amniyat security wing was killed in a planned operation carried out with international partners in the southern town of Jilib.",
-          "pubDate": "Wed, 07 Oct 2026 13:07:58 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia Says Al-Shabab Amniyat Chief Killed in Nisa Operation"
-        },
         {
           "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
           "link": "https://hornobserver.com/articles/3776/Somalia-Xawaadle-Elders-and-Al-Shabaab-Reportedly-Reach-Truce-in-Hiiraan",
@@ -156,6 +147,33 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+          "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+          "description": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
+          "pubDate": "Thu, 08 Oct 2026 12:11:31 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says"
+        },
+        {
+          "title": "Rwanda: Trade to Energy - What Is Driving Stronger Rwanda-Kenya Ties?",
+          "link": "https://allafrica.com/stories/202610080305.html",
+          "description": "[New Times] Rwanda and Kenya have signed 11 new MOUs (memoranda of understanding) but the latest agreements are only one part of a bilateral relationship being increasingly driven by trade, transport and logistics, energy, investment, tourism and the movement of people.",
+          "pubDate": "Thu, 08 Oct 2026 11:42:56 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Rwanda: Trade to Energy - What Is Driving Stronger Rwanda-Kenya Ties?"
+        },
+        {
+          "title": "Kenya boosts Ebola preparedness after registering first case",
+          "link": "http://www.africanews.com/2026/10/08/kenya-boosts-ebola-preparedness-after-registering-first-case/",
+          "description": "Kenya’s Health Ministry has heightened surveillance at border entry points and created an Ebola hotline for citizens to report symptoms related to Ebola",
+          "pubDate": "Thu, 08 Oct 2026 05:41:28 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Kenya boosts Ebola preparedness after registering first case"
+        },
+        {
           "title": "Kenya: The Researchers Building Kenya's Cotton Industry From The Seed Up",
           "link": "https://allafrica.com/stories/202610070632.html",
           "description": "[Bird Story Agency] At Kirinyaga University, researchers are testing whether Kenya can produce quality Bt cotton seed locally. The trials could help improve supply and lower costs, but taking the research to farmers will require commercial investment and support across the cotton value chain.",
@@ -190,24 +208,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Kenyan health workers demand protection after first Ebola death"
-        },
-        {
-          "title": "Kenya: U.S. Embassy Issues Ebola Alert As Kenya Traces 28 Contacts",
-          "link": "https://allafrica.com/stories/202610070204.html",
-          "description": "[Capital FM] Nairobi -- The United States Embassy in Nairobi has issued a health alert following Kenya's confirmation of its first imported case of Bundibugyo virus disease, urging people at risk of exposure to seek medical guidance if they develop symptoms associated with Ebola.",
-          "pubDate": "Wed, 07 Oct 2026 07:55:07 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: U.S. Embassy Issues Ebola Alert As Kenya Traces 28 Contacts"
-        },
-        {
-          "title": "Kenya: Ruto Orders Enhanced Ebola Response As Kenya Traces 27 Passengers",
-          "link": "https://allafrica.com/stories/202610070188.html",
-          "description": "[Capital FM] Nairobi -- President William Ruto has directed the National Security Council Committee (NSCC) to assess Kenya's Ebola situation and recommend additional measures following the death of the country's first confirmed imported Ebola Virus Disease (EVD) case.",
-          "pubDate": "Wed, 07 Oct 2026 06:16:07 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Ruto Orders Enhanced Ebola Response As Kenya Traces 27 Passengers"
         },
         {
           "title": "Africa: Africa CDC Expresses Solidarity With Kenya and Calls for Stronger Regional Ebola Preparedness",
@@ -323,6 +323,24 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Rwanda: Trade to Energy - What Is Driving Stronger Rwanda-Kenya Ties?",
+          "link": "https://allafrica.com/stories/202610080305.html",
+          "description": "[New Times] Rwanda and Kenya have signed 11 new MOUs (memoranda of understanding) but the latest agreements are only one part of a bilateral relationship being increasingly driven by trade, transport and logistics, energy, investment, tourism and the movement of people.",
+          "pubDate": "Thu, 08 Oct 2026 11:42:56 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Rwanda: Trade to Energy - What Is Driving Stronger Rwanda-Kenya Ties?"
+        },
+        {
+          "title": "Companies expect inflation to rise further - Bank of Italy survey",
+          "link": "https://www.ansa.it/english/news/business/2026/10/08/companies-expect-inflation-to-rise-further-bank-of-italy-survey_d2e30da8-0243-4e35-aa6b-f0c23aef9cdb.html",
+          "description": "(ANSA) - ROME, 08 OTT - Italian companies expect further increases in inflation over the next 12 months, following the spikes linked to the Iran war, due to hikes in raw material costs, according to a survey of industrial and service firms released on Thursday by the Bank of Italy. \"Most companies affected by price increases attributable to the conflict report having passed them on, in part or in full, to their own prices,\" the report said. (ANSA). Read article...",
+          "pubDate": "Thu, 8 Oct 2026 11:19:17 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Companies expect inflation to rise further - Bank of Italy survey"
+        },
+        {
           "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
           "link": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
           "description": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict.",
@@ -332,13 +350,13 @@
           "titleIt": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say"
         },
         {
-          "title": "Eritrean troops move deep into Ethiopia's Tigray region as fighting escalates",
+          "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
           "link": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
           "description": "Residents of Adigrat tell the BBC they have seen truck loads of soldiers from Eritrea moving south.",
           "pubDate": "Wed, 07 Oct 2026 18:40:52 GMT",
           "source": "BBC Africa",
           "lang": "en",
-          "titleIt": "Eritrean troops move deep into Ethiopia's Tigray region as fighting escalates"
+          "titleIt": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC"
         },
         {
           "title": "Somalia: Beyond Irro's U.S. Visit - Next Steps for Washington-Hargeisa Relations",
@@ -368,15 +386,6 @@
           "titleIt": "Eritrean troops deploy in Ethiopia's Tigray region, witnesses say"
         },
         {
-          "title": "Africa: U.S. Backs Stronger AU-UN Role in Africa Conflicts, Supports UN Financing for AU-Led Missions",
-          "link": "https://allafrica.com/stories/202610070467.html",
-          "description": "[Capital FM] Nairobi -- The United States has backed a stronger African Union-United Nations partnership to address conflicts across the continent, saying a UN framework for financing AU-led peace operations could provide a useful tool in responding to Africa's security crises.",
-          "pubDate": "Wed, 07 Oct 2026 13:23:46 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: U.S. Backs Stronger AU-UN Role in Africa Conflicts, Supports UN Financing for AU-Led Missions"
-        },
-        {
           "title": "Africa: African Ministers to Convene Dialogue With WHO Director-General Candidates in Addis Ababa On 23 November 2026",
           "link": "https://allafrica.com/stories/202610070397.html",
           "description": "[Africa CDC] Addis Ababa -- The 54 WHO recognized African countries represent nearly 30% of WHO Membership. Therefore, when leaders of this global health institution are selected, Africans should have the opportunity to hear directly from the candidates: their vision, priorities, and commitments to our continent.",
@@ -384,15 +393,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Africa: African Ministers to Convene Dialogue With WHO Director-General Candidates in Addis Ababa On 23 November 2026"
-        },
-        {
-          "title": "Nigeria: UN Cash Crisis Must Not Hurt Developing Countries - Nigeria",
-          "link": "https://allafrica.com/stories/202610070329.html",
-          "description": "[Vanguard] Nigeria has warned that the United Nations liquidity crisis must not disproportionately undermine human rights assistance to developing and conflict-affected countries.",
-          "pubDate": "Wed, 07 Oct 2026 10:58:50 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Nigeria: UN Cash Crisis Must Not Hurt Developing Countries - Nigeria"
         },
         {
           "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
@@ -429,15 +429,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Tigray violence drives risk of Ethiopia-Eritrea war, analyst says"
-        },
-        {
-          "title": "Italian Cuisine Conquers Tbilisi: Gala Dinner for Cuisine Week",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/06/italian-cuisine-conquers-tbilisi-gala-dinner-for-cuisine-week_96d2a6d6-bd67-459c-92d0-b8f572838da1.html",
-          "description": "(ANSA) - ROMA, 06 OTT - The gala dinner organized by the Italian Embassy in Tbilisi as part of Italian Cuisine Week was a great success. The #Scim2026 celebrations, held at “Republic,” one of the best restaurants in the Georgian capital, were attended by more than 150 people, including representatives of the Georgian government, the diplomatic corps, the business community, and the cultural sector, who had a unique opportunity to enjoy a menu—created by Chef Ottavio Giulio Surico—inspired by Apulian tradition. The undisputed star of the evening was Italian flavor in its many forms and facets. ",
-          "pubDate": "Tue, 6 Oct 2026 11:47:30 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italian Cuisine Conquers Tbilisi: Gala Dinner for Cuisine Week"
         },
         {
           "title": "Ethiopia: PM vows to secure sea access amid fears of return to war",
@@ -501,6 +492,15 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims"
+        },
+        {
+          "title": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues",
+          "link": "https://hornobserver.com/articles/3764/Your-account-has-been-disabled-The-new-wave-of-online-attacks-silencing-Somali-journalists-continues",
+          "description": "Beyond their immediate impact on individual journalists, the Somali Journalists Syndicate (SJS) is concerned that these attacks now threaten media freedom and the public's access to independent information by disrupting journalists' ability to report on human rights violations, corruption, insecurity and other developments affecting communities across Somalia. At a time when the country is facing overlapping political and humanitarian crises, the silencing, harassment and removal of journalists from digital platforms risks shrinking the space for public reporting, accountability and scrutiny—p",
+          "pubDate": "Mon, 28 Sep 2026 08:29:27 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues"
         }
       ]
     },
