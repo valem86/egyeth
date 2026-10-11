@@ -1,11 +1,38 @@
 {
-  "generatedAt": "2026-10-11T12:57:32.368Z",
+  "generatedAt": "2026-10-11T18:58:56.504Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egitto-Italia: progetto congiunto restaura \"Tondo dei due fratelli\", da novembre in mostra a Roma (4)",
+          "link": "https://www.agenzianova.com/a/0/7871777/2026-10-11/egitto-italia-progetto-congiunto-restaura-tondo-dei-due-fratelli-da-novembre-in-mostra-a-roma-4",
+          "description": "11 ott 18:59 - (Agenzia Nova) - Attraverso oltre 110 opere, tra tavole dipinte, sudari, maschere funerarie, marmi, calchi in gesso e oreficerie... (Cae)",
+          "pubDate": "2026-10-11T18:59:19+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Italia: progetto congiunto restaura \"Tondo dei due fratelli\", da novembre in mostra a Roma (4)"
+        },
+        {
+          "title": "Egitto-Italia: progetto congiunto restaura \"Tondo dei due fratelli\", da novembre in mostra a Roma (3)",
+          "link": "https://www.agenzianova.com/a/0/7871776/2026-10-11/egitto-italia-progetto-congiunto-restaura-tondo-dei-due-fratelli-da-novembre-in-mostra-a-roma-3",
+          "description": "11 ott 18:59 - (Agenzia Nova) - Il lavoro di restauro del \"Tondo dei due fratelli\" ha affrontato criticita' legate al degrado del supporto... (Cae)",
+          "pubDate": "2026-10-11T18:59:19+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Italia: progetto congiunto restaura \"Tondo dei due fratelli\", da novembre in mostra a Roma (3)"
+        },
+        {
+          "title": "Egitto-Italia: progetto congiunto restaura \"Tondo dei due fratelli\", da novembre in mostra a Roma (2)",
+          "link": "https://www.agenzianova.com/a/0/7871775/2026-10-11/egitto-italia-progetto-congiunto-restaura-tondo-dei-due-fratelli-da-novembre-in-mostra-a-roma-2",
+          "description": "11 ott 18:59 - (Agenzia Nova) - Il \"Tondo dei due fratelli\" restaurato sara' adesso portato per la prima volta fuori dall'Egitto per essere... (Cae)",
+          "pubDate": "2026-10-11T18:59:19+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Italia: progetto congiunto restaura \"Tondo dei due fratelli\", da novembre in mostra a Roma (2)"
+        },
         {
           "title": "Famine risk grows in southern Somalia as food crisis deepens",
           "link": "https://hornobserver.com/articles/3778/Famine-risk-grows-in-southern-Somalia-as-food-crisis-deepens",
@@ -138,13 +165,13 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+          "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
           "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-          "description": "The boat was travelling from Djibouti to Yemen with 350 people on board, when it capsized near the port town of Obock on Thursday night.",
-          "pubDate": "Sun, 11 Oct 2026 12:08:20 GMT",
+          "description": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+          "pubDate": "Sun, 11 Oct 2026 15:32:23 GMT",
           "source": "BBC Africa",
           "lang": "en",
-          "titleIt": "Children among 109 dead after boat capsizes off Djibouti, UN says"
+          "titleIt": "Children among 139 dead after boat capsizes off Djibouti, UN says"
         },
         {
           "title": "Ethiopia: UN Chief 'Gravely Concerned' By Renewed Fighting in Northern Ethiopia, Warns Against Escalation",
@@ -165,15 +192,6 @@
           "titleIt": "Unreliable weather creating mental health issues for Kenyan farmers"
         },
         {
-          "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-          "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-          "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
-          "pubDate": "Sat, 10 Oct 2026 04:34:55 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says"
-        },
-        {
           "title": "Kenya: U.S. Report Flags Kenya's Failure to Act On Officials Linked to Human Trafficking",
           "link": "https://allafrica.com/stories/202610090596.html",
           "description": "[Capital FM] Nairobi -- Kenya has failed to report meaningful enforcement action against public officials and recruitment agencies allegedly linked to human trafficking, with a new United States report warning that official complicity continues to undermine the country's efforts to prosecute the crime.",
@@ -192,15 +210,6 @@
           "titleIt": "Ethiopia warns Eritrea it will defend itself after troops cross border"
         },
         {
-          "title": "Ethiopian drones strike Eritrean forces near Adigrat",
-          "link": "http://www.africanews.com/2026/10/08/ethiopian-drones-strike-eritrean-forces-near-adigrat/",
-          "description": "Tensions between Ethiopia and Eritrea are escalating with fears of a new regional war growing. Ethiopian drones have reportedly struck Eritrean forces near Adigrat, a city in northern Tigray, according to conflict monitors and witnesses.",
-          "pubDate": "Fri, 09 Oct 2026 08:17:38 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopian drones strike Eritrean forces near Adigrat"
-        },
-        {
           "title": "Tigray war: Why peace talks may fail before they even begin {Africanews Debates}",
           "link": "http://www.africanews.com/2026/10/09/tigray-war-why-peace-talks-may-fail-before-they-even-begin-africanews-debates/",
           "description": "The November 2022 Pretoria agreement ended the previous war between Ethiopia’s federal government and the Tigray People’s Liberation Front (TPLF). However, the renewed fighting has exposed how fragile that settlement remains.",
@@ -208,15 +217,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Tigray war: Why peace talks may fail before they even begin {Africanews Debates}"
-        },
-        {
-          "title": "World anti-doping body seeks tough stance from Kenya ahead of championship",
-          "link": "http://www.africanews.com/2026/10/08/world-anti-doping-body-seeks-tough-stance-from-kenya-ahead-of-championship/",
-          "description": "WADA urged it to strive for a zero tolerance of drugs in sports as it prepares to host the 2029 World Athletics Championships.",
-          "pubDate": "Thu, 08 Oct 2026 14:32:52 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "World anti-doping body seeks tough stance from Kenya ahead of championship"
         },
         {
           "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
@@ -305,6 +305,33 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+          "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+          "description": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
+          "pubDate": "Sun, 11 Oct 2026 15:32:32 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Riyadh airport attacks another dangerous moment in already tense conflict"
+        },
+        {
+          "title": "At least 139 people dead after migrant boat capsizes off Djibouti",
+          "link": "http://www.africanews.com/2026/10/11/at-least-139-people-dead-after-migrant-boat-capsizes-off-djibouti/",
+          "description": "Fifteen children are among the dead, with 82 people, all Ethiopians, having survived while another 84 people are still missing.",
+          "pubDate": "Sun, 11 Oct 2026 15:19:39 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "At least 139 people dead after migrant boat capsizes off Djibouti"
+        },
+        {
+          "title": "Eritrea uges United Nations to intervene in standoff with Ethiopia",
+          "link": "http://www.africanews.com/2026/10/11/eritrea-uges-united-nations-to-intervene-in-standoff-with-ethiopia/",
+          "description": "The neighbours have accused each other of starting a war over Tigray, where Ethiopia says Eritrea is backing rebels.",
+          "pubDate": "Sun, 11 Oct 2026 13:20:43 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Eritrea uges United Nations to intervene in standoff with Ethiopia"
+        },
+        {
           "title": "Sudan: Diplomatic Setbacks Undermine U.S. Approach to Sudan",
           "link": "https://allafrica.com/stories/202610110093.html",
           "description": "[allAfrica] Khartoum -- Over the past two weeks, Washington has suffered a series of humiliating diplomatic defeats in its effort to force Sudanese authorities into a ceasefire deal they were not prepared to sign and that conditions on the ground did not support.",
@@ -312,15 +339,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Sudan: Diplomatic Setbacks Undermine U.S. Approach to Sudan"
-        },
-        {
-          "title": "Riyadh airport attack another dangerous moment in already tense conflict",
-          "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-          "description": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
-          "pubDate": "Sun, 11 Oct 2026 11:32:50 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "Riyadh airport attack another dangerous moment in already tense conflict"
         },
         {
           "title": "Ethiopia: UN Chief 'Gravely Concerned' By Renewed Fighting in Northern Ethiopia, Warns Against Escalation",
@@ -386,15 +404,6 @@
           "titleIt": "Niger set for $200 million financial package from IMF"
         },
         {
-          "title": "Ethiopian drones strike Eritrean forces near Adigrat",
-          "link": "http://www.africanews.com/2026/10/08/ethiopian-drones-strike-eritrean-forces-near-adigrat/",
-          "description": "Tensions between Ethiopia and Eritrea are escalating with fears of a new regional war growing. Ethiopian drones have reportedly struck Eritrean forces near Adigrat, a city in northern Tigray, according to conflict monitors and witnesses.",
-          "pubDate": "Fri, 09 Oct 2026 08:17:38 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopian drones strike Eritrean forces near Adigrat"
-        },
-        {
           "title": "Tigray war: Why peace talks may fail before they even begin {Africanews Debates}",
           "link": "http://www.africanews.com/2026/10/09/tigray-war-why-peace-talks-may-fail-before-they-even-begin-africanews-debates/",
           "description": "The November 2022 Pretoria agreement ended the previous war between Ethiopia’s federal government and the Tigray People’s Liberation Front (TPLF). However, the renewed fighting has exposed how fragile that settlement remains.",
@@ -411,6 +420,15 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Hundreds of farmers rally in Paris against EU-Mercosur pact and import fears"
+        },
+        {
+          "title": "US Embassy Issues Major Security Alert In Ethiopia Over Possible Long - Range Attacks , Urges Americans To Avoid Amhara , Tigray And Afar",
+          "link": "https://www.freepressjournal.in/world/us-embassy-issues-major-security-alert-in-ethiopia-over-possible-long-range-attacks-urges-americans-to-avoid-amhara-tigray-and-afar",
+          "source": "freepressjournal.in",
+          "pubDate": "2026-10-08T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Embassy Issues Major Security Alert In Ethiopia Over Possible Long - Range Attacks , Urges Americans To Avoid Amhara , Tigray And Afar"
         },
         {
           "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
@@ -440,6 +458,24 @@
           "titleIt": "Press Release: President Isaias of Eritrea holds talks with Somali President"
         },
         {
+          "title": "South Africa asylum system reopens after ConCourt judgment",
+          "link": "https://www.newzimbabwe.com/south-africa-asylum-system-reopens-after-concourt-judgment/",
+          "source": "newzimbabwe.com",
+          "pubDate": "2026-10-06T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "South Africa asylum system reopens after ConCourt judgment"
+        },
+        {
+          "title": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift",
+          "link": "https://www.thereporterethiopia.com/53223/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-06T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift"
+        },
+        {
           "title": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland",
           "link": "https://hornobserver.com/articles/3770/Journalists-face-arrests-and-alleged-assaults-while-covering-evictions-in-Somalia-and-Somaliland",
           "description": "The Somali Journalists Syndicate (SJS) says it has documented 13 arbitrary arrests of journalists in Mogadishu since Jan. 1, 2026, while 10 journalists have been arrested in Somaliland during the same period. Many of the cases involved reporters covering protests, forced evictions or criticism of government officials. In the latest incident, two journalists working for Somaliland-based Eryal TV said they were physically assaulted by Somali police and National Intelligence and Security Agency officers on Sept. 29 while reporting on forced evictions in Mogadishu's Yaqshiid district. Journalist M",
@@ -447,42 +483,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland"
-        },
-        {
-          "title": "Ethiopia’s resurgent conflict, Rohingya repatriations, and Gaza’s devastation on Google Maps: The Cheat Sheet",
-          "link": "https://www.thenewhumanitarian.org/news/2026/10/02/ethiopia-resurgent-conflict-rohingya-repatriations-gaza-devastation-cheat-sheat",
-          "description": "A weekly read to keep you in the loop on humanitarian issues.",
-          "pubDate": "Fri, 02 Oct 26 15:09:02 +0000",
-          "source": "The New Humanitarian",
-          "lang": "en",
-          "titleIt": "Ethiopia’s resurgent conflict, Rohingya repatriations, and Gaza’s devastation on Google Maps: The Cheat Sheet"
-        },
-        {
-          "title": "Diplomatic Break: Ethiopia and Eritrea Slide Into a New Crisis",
-          "link": "https://hornobserver.com/articles/3769/Diplomatic-Break-Ethiopia-and-Eritrea-Slide-Into-a-New-Crisis",
-          "description": "Ethiopia's Foreign Ministry said Thursday that the embassy closure was a response to what it described as Eritrea's \"direct and indirect acts of hostility and belligerence\" toward Ethiopia. The ministry also accused the expelled diplomats of engaging in activities that threatened Ethiopia's national security and violated the Vienna Convention on Diplomatic Relations. Among those ordered to leave Ethiopia within 48 hours were Eritrea's charg&eacute; d'affaires and officials accredited to the African Union, according to the Ethiopian government. Eritrea rejected the accusations, arguing that Eth",
-          "pubDate": "Fri, 02 Oct 2026 17:35:54 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Diplomatic Break: Ethiopia and Eritrea Slide Into a New Crisis"
-        },
-        {
-          "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
-          "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
-          "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-          "pubDate": "Fri, 02 Oct 2026 11:24:13 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "How fresh fighting in Tigray could spark wider conflict in Ethiopia"
-        },
-        {
-          "title": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims",
-          "link": "https://hornobserver.com/articles/3765/Somalia-Heavy-Fighting-Erupts-in-Baidoa-as-Rival-Forces-Trade-Claims",
-          "description": "Residents reported hearing a series of powerful explosions across Baidoa, with thick plumes of smoke visible over parts of the city. Initial reports indicated that several locations, including a power facility and a base used by federal government forces, were struck during the clashes. Ugaas Hassan, the information minister for the Laftagareen-aligned faction, confirmed that its forces had launched an attack, describing the assault as involving several successive waves. &nbsp; New footage, moment when Laftagaren's militias attacked #Baidoa this morning, one resident recorded. pic.twitter.com/",
-          "pubDate": "Mon, 28 Sep 2026 12:32:52 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims"
         }
       ]
     },
@@ -675,6 +675,15 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
+          "title": "Sudan: attacchi aerei su miniere d'oro al confine con l'Egitto, decine di vittime (2)",
+          "link": "https://www.agenzianova.com/a/0/7871637/2026-10-11/sudan-attacchi-aerei-su-miniere-d-oro-al-confine-con-l-egitto-decine-di-vittime-2",
+          "description": "11 ott 17:58 - (Agenzia Nova) - I lavoratori della zona hanno condiviso immagini, non verificate, di vittime e di campi distrutti. Le tensioni... (Suk)",
+          "pubDate": "2026-10-11T17:58:11+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Sudan: attacchi aerei su miniere d'oro al confine con l'Egitto, decine di vittime (2)"
+        },
+        {
           "title": "Over 20,000 Ethiopian Migrants cross into Djibouti in three weeks",
           "link": "http://www.africanews.com/2026/10/09/over-20000-ethiopian-migrants-cross-into-djibouti-in-three-weeks/",
           "description": "Thousands of Ethiopian migrants are facing a humanitarian crisis in Djibouti, with food and water running dangerously low along the treacherous route to Yemen.",
@@ -684,15 +693,6 @@
           "titleIt": "Over 20,000 Ethiopian Migrants cross into Djibouti in three weeks"
         },
         {
-          "title": "Ethiopian drones strike Eritrean forces near Adigrat",
-          "link": "http://www.africanews.com/2026/10/08/ethiopian-drones-strike-eritrean-forces-near-adigrat/",
-          "description": "Tensions between Ethiopia and Eritrea are escalating with fears of a new regional war growing. Ethiopian drones have reportedly struck Eritrean forces near Adigrat, a city in northern Tigray, according to conflict monitors and witnesses.",
-          "pubDate": "Fri, 09 Oct 2026 08:17:38 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopian drones strike Eritrean forces near Adigrat"
-        },
-        {
           "title": "Tigray war: Why peace talks may fail before they even begin {Africanews Debates}",
           "link": "http://www.africanews.com/2026/10/09/tigray-war-why-peace-talks-may-fail-before-they-even-begin-africanews-debates/",
           "description": "The November 2022 Pretoria agreement ended the previous war between Ethiopia’s federal government and the Tigray People’s Liberation Front (TPLF). However, the renewed fighting has exposed how fragile that settlement remains.",
@@ -700,15 +700,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Tigray war: Why peace talks may fail before they even begin {Africanews Debates}"
-        },
-        {
-          "title": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift",
-          "link": "https://www.thereporterethiopia.com/53223/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-06T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift"
         },
         {
           "title": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver",
@@ -729,130 +720,13 @@
           "titleIt": "How fresh fighting in Tigray could spark wider conflict in Ethiopia"
         },
         {
-          "title": "African Union urges restraint as Ethiopia , Eritrea and Egypt edge toward confrontation",
-          "link": "https://kenya-today.com/report-african-union-urges-restraint-as-ethiopia-eritrea-and-egypt-edge-toward-confrontation-5769/",
-          "source": "kenya-today.com",
-          "pubDate": "2026-10-02T09:30:00Z",
+          "title": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray",
+          "link": "https://hornobserver.com/articles/3761/AU-US-Call-for-De-escalation-as-Tensions-Rise-in-Tigray",
+          "description": "African Union Commission Chairperson Mahmoud Ali Youssouf expressed concern over reports that Tigray forces had seized the airports in Mekelle, Axum and Shire, detained federal personnel and disrupted civilian air services. Ethiopian Airlines suspended flights to the three destinations on Wednesday, citing the \"current situation\" in the region, according to Addis Standard. The airline said passengers would be notified when services resume. Separately, officials in northwestern Tigray said a truck carrying grain for displaced families was struck by drones near Adi Daero on the Shire–Sheraro roa",
+          "pubDate": "Wed, 23 Sep 2026 18:54:08 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "African Union urges restraint as Ethiopia , Eritrea and Egypt edge toward confrontation"
-        },
-        {
-          "title": "Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly  Obstructed By Egypt",
-          "link": "https://allafrica.com/stories/202610020077.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-02T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly  Obstructed By Egypt"
-        },
-        {
-          "title": "Ethiopia expels Egyptian diplomat as regional tensions escalate",
-          "link": "https://www.radiotamazuj.org/en/news/article/ethiopia-expels-egyptian-diplomat-as-regional-tensions-escalate",
-          "source": "radiotamazuj.org",
-          "pubDate": "2026-10-01T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia expels Egyptian diplomat as regional tensions escalate"
-        },
-        {
-          "title": "Ethiopia : Beyond GERD - Ethiopia Next Move On the Nile",
-          "link": "https://allafrica.com/stories/202610010633.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-01T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Beyond GERD - Ethiopia Next Move On the Nile"
-        },
-        {
-          "title": "Ethiopia claims over 22 development projects blocked by external opposition , citing collected evidence",
-          "link": "https://capitalethiopia.com/2026/10/01/ethiopia-claims-over-22-development-projects-blocked-by-external-opposition-citing-collected-evidence/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-10-01T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia claims over 22 development projects blocked by external opposition , citing collected evidence"
-        },
-        {
-          "title": "Egypt seeks greater share of Nile water amid rising tension with Ethiopia",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/30/egypt-seeks-greater-share-of-nile-water-amid-rising-tension-with-ethiopia/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-09-30T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt seeks greater share of Nile water amid rising tension with Ethiopia"
-        },
-        {
-          "title": "Beyond the Red Sea : Ethiopian - Eritrean Conflict Risks Converging With Yemen Crisis",
-          "link": "https://themedialine.org/top-stories/beyond-the-red-sea-ethiopian-eritrean-conflict-risks-converging-with-yemen-crisis/",
-          "source": "themedialine.org",
-          "pubDate": "2026-09-30T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Beyond the Red Sea : Ethiopian - Eritrean Conflict Risks Converging With Yemen Crisis"
-        },
-        {
-          "title": "African leaders to gather in Egypt for business summit",
-          "link": "https://www.al-monitor.com/originals/2026/09/african-leaders-gather-egypt-business-summit",
-          "source": "al-monitor.com",
-          "pubDate": "2026-09-29T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African leaders to gather in Egypt for business summit"
-        },
-        {
-          "title": "Ethiopia reaffirms support for boosting integration in Horn of Africa",
-          "link": "https://www.plenglish.com/news/2026/09/29/ethiopia-reaffirms-support-for-boosting-integration-in-horn-of-africa/",
-          "source": "plenglish.com",
-          "pubDate": "2026-09-29T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia reaffirms support for boosting integration in Horn of Africa"
-        },
-        {
-          "title": "Egypt Denies Backing Rebel Forces After Ethiopian General Allegation",
-          "link": "https://egyptianstreets.com/2026/09/29/egypt-denies-backing-rebel-forces-after-ethiopian-generals-allegation/",
-          "source": "egyptianstreets.com",
-          "pubDate": "2026-09-29T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Denies Backing Rebel Forces After Ethiopian General Allegation"
-        },
-        {
-          "title": "African leaders to meet in Egypt for business summit",
-          "link": "https://punchng.com/african-leaders-to-meet-in-egypt-for-business-summit/",
-          "source": "punchng.com",
-          "pubDate": "2026-09-29T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African leaders to meet in Egypt for business summit"
-        },
-        {
-          "title": "Cairo denies Ethiopian army chief accusations of supporting opposition armed groups – Middle East Monitor",
-          "link": "https://www.middleeastmonitor.com/20260929-cairo-denies-ethiopian-army-chiefs-accusations-of-supporting-opposition-armed-groups/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-09-29T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cairo denies Ethiopian army chief accusations of supporting opposition armed groups – Middle East Monitor"
-        },
-        {
-          "title": "Eritrea proxy war against Ethiopia - Israel & Jewish News",
-          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/eritreas-proxy-war-against-ethiopia",
-          "source": "jns.org",
-          "pubDate": "2026-09-29T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea proxy war against Ethiopia - Israel & Jewish News"
-        },
-        {
-          "title": "Sudan rejects Ethiopian accusation of backing armed groups",
-          "link": "https://www.radiotamazuj.org/en/news/article/sudan-rejects-ethiopian-accusation-of-backing-armed-groups",
-          "source": "radiotamazuj.org",
-          "pubDate": "2026-09-28T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan rejects Ethiopian accusation of backing armed groups"
+          "titleIt": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray"
         }
       ]
     }
