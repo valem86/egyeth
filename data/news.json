@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T15:33:46.444Z",
+  "generatedAt": "2026-10-12T23:03:03.368Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -23,24 +23,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu"
-        },
-        {
-          "title": "Sudan: Air Strikes Kill Dozens of Gold Miners on Sudan-Egypt Border",
-          "link": "https://allafrica.com/stories/202610120126.html",
-          "description": "[DW] A Sudan-based rights group said 72 people were killed in a remote, disputed area known for illegal gold mining.",
-          "pubDate": "Mon, 12 Oct 2026 05:37:59 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Air Strikes Kill Dozens of Gold Miners on Sudan-Egypt Border"
-        },
-        {
-          "title": "Somalia: Somali Opposition Party Warns Against Possible Military Action Against Opposition Leaders",
-          "link": "https://allafrica.com/stories/202610120059.html",
-          "description": "[Shabelle] Mogadishu, Somalia -- Somalia's Himilo Qaran party has warned against possible military action targeting opposition politicians' offices, saying President Hassan Sheikh Mohamud would bear responsibility for any consequences if such an attack occurred.",
-          "pubDate": "Mon, 12 Oct 2026 03:55:45 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somali Opposition Party Warns Against Possible Military Action Against Opposition Leaders"
         },
         {
           "title": "Famine risk grows in southern Somalia as food crisis deepens",
@@ -165,6 +147,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya: Ruto to Uhuru - You're a Conman, Retire",
+          "link": "https://allafrica.com/stories/202610120554.html",
+          "description": "[Capital FM] Nairobi -- President William Ruto has renewed his attack on retired President Uhuru Kenyatta, accusing him of betraying their political agreement and misleading other leaders as tensions build ahead of the 2027 elections.",
+          "pubDate": "Mon, 12 Oct 2026 15:31:30 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Ruto to Uhuru - You're a Conman, Retire"
+        },
+        {
           "title": "Kenya: KFS Helicopter Crashes At Kericho Golf Club, Five Escape Unhurt",
           "link": "https://allafrica.com/stories/202610120504.html",
           "description": "[Capital FM] Nairobi -- The Kenya Forest Service (KFS) is at the centre of investigations after a helicopter operated by the agency crashed at Kericho Golf Club in Kericho County, with all five occupants reported to have escaped without serious injuries.",
@@ -190,15 +181,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Death toll rises to 139 after migrant boat capsizes off Djibouti"
-        },
-        {
-          "title": "Kenya: 'I Will Deal With You' - Ruto to Opposition",
-          "link": "https://allafrica.com/stories/202610120053.html",
-          "description": "[Capital FM] Nairobi -- President William Ruto has renewed his attack on retired President Uhuru Kenyatta, accusing unnamed political opponents of sponsoring rivals to undermine his administration as the country heads towards the 2027 General Election.",
-          "pubDate": "Mon, 12 Oct 2026 03:55:38 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: 'I Will Deal With You' - Ruto to Opposition"
         },
         {
           "title": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
@@ -255,15 +237,6 @@
           "titleIt": "Ebola Crosses Border Into Kenya as First Imported Bundibugyo Case Confirmed"
         },
         {
-          "title": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift",
-          "link": "https://www.thereporterethiopia.com/53223/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-06T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift"
-        },
-        {
           "title": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland",
           "link": "https://hornobserver.com/articles/3770/Journalists-face-arrests-and-alleged-assaults-while-covering-evictions-in-Somalia-and-Somaliland",
           "description": "The Somali Journalists Syndicate (SJS) says it has documented 13 arbitrary arrests of journalists in Mogadishu since Jan. 1, 2026, while 10 journalists have been arrested in Somaliland during the same period. Many of the cases involved reporters covering protests, forced evictions or criticism of government officials. In the latest incident, two journalists working for Somaliland-based Eryal TV said they were physically assaulted by Somali police and National Intelligence and Security Agency officers on Sept. 29 while reporting on forced evictions in Mogadishu's Yaqshiid district. Journalist M",
@@ -273,82 +246,55 @@
           "titleIt": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland"
         },
         {
-          "title": "Why renewed fighting in Ethiopia Tigray risks a regional war",
-          "link": "https://www.cnbcafrica.com/2026/why-renewed-fighting-in-ethiopias-tigray-risks-a-regional-war",
-          "source": "cnbcafrica.com",
-          "pubDate": "2026-10-02T09:15:00Z",
+          "title": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims",
+          "link": "https://hornobserver.com/articles/3765/Somalia-Heavy-Fighting-Erupts-in-Baidoa-as-Rival-Forces-Trade-Claims",
+          "description": "Residents reported hearing a series of powerful explosions across Baidoa, with thick plumes of smoke visible over parts of the city. Initial reports indicated that several locations, including a power facility and a base used by federal government forces, were struck during the clashes. Ugaas Hassan, the information minister for the Laftagareen-aligned faction, confirmed that its forces had launched an attack, describing the assault as involving several successive waves. &nbsp; New footage, moment when Laftagaren's militias attacked #Baidoa this morning, one resident recorded. pic.twitter.com/",
+          "pubDate": "Mon, 28 Sep 2026 12:32:52 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Why renewed fighting in Ethiopia Tigray risks a regional war"
+          "titleIt": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims"
         },
         {
-          "title": "Weekly roundup of world briefs",
-          "link": "https://www.heritagefl.com/story/2026/10/02/news/weekly-roundup-of-world-briefs/24073.html",
-          "source": "heritagefl.com",
-          "pubDate": "2026-10-01T17:30:00Z",
+          "title": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues",
+          "link": "https://hornobserver.com/articles/3764/Your-account-has-been-disabled-The-new-wave-of-online-attacks-silencing-Somali-journalists-continues",
+          "description": "Beyond their immediate impact on individual journalists, the Somali Journalists Syndicate (SJS) is concerned that these attacks now threaten media freedom and the public's access to independent information by disrupting journalists' ability to report on human rights violations, corruption, insecurity and other developments affecting communities across Somalia. At a time when the country is facing overlapping political and humanitarian crises, the silencing, harassment and removal of journalists from digital platforms risks shrinking the space for public reporting, accountability and scrutiny—p",
+          "pubDate": "Mon, 28 Sep 2026 08:29:27 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Weekly roundup of world briefs"
+          "titleIt": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues"
         },
         {
-          "title": "Djibouti Explained 2026 , Bases , Ports and Guelleh",
-          "link": "https://www.riotimesonline.com/djibouti-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-01T14:00:00Z",
+          "title": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia",
+          "link": "https://hornobserver.com/articles/3763/For-Josphine-Njeru-Protecting-Civilians-Is-the-True-Measure-of-Success-in-Somalia",
+          "description": "As the Senior Civilian Casualty Tracking, Analysis and Response Cell (CCTARC) and Board of Inquiry (BOI) Officer for the African Union Support and Stabilisation Mission in Somalia (AUSSOM), Njeru works behind the scenes. Her role is critical: to protect communities caught in the crossfire, investigate incidents, track civilian injuries, and ensure the mission's accountability to the people it serves. Operating in a complex conflict environment, facts are rarely clear from the outset. \"Information on civilian harm is often incomplete and comes from various sources, each holding only part of the",
+          "pubDate": "Fri, 25 Sep 2026 12:48:52 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Djibouti Explained 2026 , Bases , Ports and Guelleh"
+          "titleIt": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia"
         },
         {
-          "title": "Somalia : Somaliland Welcomes Athletes for Hargeisa Half Marathon",
-          "link": "https://allafrica.com/stories/202610010185.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-01T12:30:00Z",
+          "title": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray",
+          "link": "https://hornobserver.com/articles/3761/AU-US-Call-for-De-escalation-as-Tensions-Rise-in-Tigray",
+          "description": "African Union Commission Chairperson Mahmoud Ali Youssouf expressed concern over reports that Tigray forces had seized the airports in Mekelle, Axum and Shire, detained federal personnel and disrupted civilian air services. Ethiopian Airlines suspended flights to the three destinations on Wednesday, citing the \"current situation\" in the region, according to Addis Standard. The airline said passengers would be notified when services resume. Separately, officials in northwestern Tigray said a truck carrying grain for displaced families was struck by drones near Adi Daero on the Shire–Sheraro roa",
+          "pubDate": "Wed, 23 Sep 2026 18:54:08 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland Welcomes Athletes for Hargeisa Half Marathon"
-        },
-        {
-          "title": "Pope Leo calls for dialogue to solve the Tigray crisis in Ethiopia",
-          "link": "https://cruxnow.com/church-in-africa/2026/09/pope-leo-calls-for-dialogue-to-solve-the-tigray-crisis-in-ethiopia",
-          "source": "cruxnow.com",
-          "pubDate": "2026-09-30T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pope Leo calls for dialogue to solve the Tigray crisis in Ethiopia"
-        },
-        {
-          "title": "Tanzania Removes Special Visa Clearance for Nigerians",
-          "link": "https://allafrica.com/stories/202609300086.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-30T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tanzania Removes Special Visa Clearance for Nigerians"
-        },
-        {
-          "title": "Somaliland Pushes to Take Control of Its Airspace and Border Entry System",
-          "link": "https://wardheernews.com/somaliland-pushes-to-take-control-of-its-airspace-and-border-entry-system/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-09-29T09:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Pushes to Take Control of Its Airspace and Border Entry System"
-        },
-        {
-          "title": "Algeria accuses Israel of seeking to divide Somalia",
-          "link": "https://horseedmedia.net/algeria-accuses-israel-of-seeking-to-divide-somalia/426020/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-09-29T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Algeria accuses Israel of seeking to divide Somalia"
+          "titleIt": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ethiopia: Adwa recaptured amid tensions with Eritrea [Africanews Today]",
+          "link": "http://www.africanews.com/2026/10/12/ethiopia-adwa-recaptured-amid-tensions-with-eritrea-africanews-today/",
+          "description": "In northern Ethiopia, federal forces have retaken the town of Adwa, near the Eritrean border, without a fight following the withdrawal of TPLF rebels. The advance comes amid rising tensions with Eritrea, as commercial flights resume between Addis Ababa and Mekelle",
+          "pubDate": "Mon, 12 Oct 2026 17:00:05 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia: Adwa recaptured amid tensions with Eritrea [Africanews Today]"
+        },
         {
           "title": "East Africa: Egypt, Sudan, Eritrea and Somalia Meet to Discuss Tensions and Unresolved Issues in the Horn of Africa",
           "link": "https://allafrica.com/stories/202610120520.html",
@@ -449,15 +395,6 @@
           "titleIt": "Ethiopia and Eritrea trade war accusations as regional conflict threatens to escalate"
         },
         {
-          "title": "Over 20,000 Ethiopian Migrants cross into Djibouti in three weeks",
-          "link": "http://www.africanews.com/2026/10/09/over-20000-ethiopian-migrants-cross-into-djibouti-in-three-weeks/",
-          "description": "Thousands of Ethiopian migrants are facing a humanitarian crisis in Djibouti, with food and water running dangerously low along the treacherous route to Yemen.",
-          "pubDate": "Fri, 09 Oct 2026 11:42:10 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Over 20,000 Ethiopian Migrants cross into Djibouti in three weeks"
-        },
-        {
           "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
           "link": "https://hornobserver.com/articles/3776/Somalia-Xawaadle-Elders-and-Al-Shabaab-Reportedly-Reach-Truce-in-Hiiraan",
           "description": "A 16-point joint statement circulated by Al-Shabaab-affiliated media&nbsp; said the sides had resolved their disputes and agreed to maintain peace in areas controlled or influenced by the clan. The reported agreement includes a commitment by Hawadle elders not to allow the recruitment or operation of Macawiisley fighters in their areas or provide them with shelter. Macawiisley forces from Hiiraan have played a key role in supporting Somali government troops against Al-Shabaab. The meeting in Maxaas was attended by dozens of traditional elders, while Al-Shabaab was represented by senior figures",
@@ -539,6 +476,15 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
+          "title": "Ethiopia: Adwa recaptured amid tensions with Eritrea [Africanews Today]",
+          "link": "http://www.africanews.com/2026/10/12/ethiopia-adwa-recaptured-amid-tensions-with-eritrea-africanews-today/",
+          "description": "In northern Ethiopia, federal forces have retaken the town of Adwa, near the Eritrean border, without a fight following the withdrawal of TPLF rebels. The advance comes amid rising tensions with Eritrea, as commercial flights resume between Addis Ababa and Mekelle",
+          "pubDate": "Mon, 12 Oct 2026 17:00:05 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia: Adwa recaptured amid tensions with Eritrea [Africanews Today]"
+        },
+        {
           "title": "East Africa: Egypt, Sudan, Eritrea and Somalia Meet to Discuss Tensions and Unresolved Issues in the Horn of Africa",
           "link": "https://allafrica.com/stories/202610120520.html",
           "description": "[Agenzia Fides] El Alamein -- As geopolitical tensions and internal conflicts continue to shake the Horn of Africa, the presidents of Egypt, Somalia and Eritrea, together with the head of Sudan's Transitional Council, met in El Alamein on Sunday, 4 October, to discuss the main challenges facing the region.",
@@ -546,42 +492,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "East Africa: Egypt, Sudan, Eritrea and Somalia Meet to Discuss Tensions and Unresolved Issues in the Horn of Africa"
-        },
-        {
-          "title": "Sudan: Air Strikes Kill Dozens of Gold Miners on Sudan-Egypt Border",
-          "link": "https://allafrica.com/stories/202610120126.html",
-          "description": "[DW] A Sudan-based rights group said 72 people were killed in a remote, disputed area known for illegal gold mining.",
-          "pubDate": "Mon, 12 Oct 2026 05:37:59 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Air Strikes Kill Dozens of Gold Miners on Sudan-Egypt Border"
-        },
-        {
-          "title": "Sudan: Sudan Condemns Suicide Drone Attacks On El-Obeid",
-          "link": "https://allafrica.com/stories/202610120072.html",
-          "description": "[SNA] Khartoum (SUNA) - The Government of the Republic of Sudan strongly condemned the attacks carried out against the city of El-Obeid, the capital of North Kordofan State, on Friday using suicide drones, attributed to the rebel Rapid Support Forces (RSF) militia. According to preliminary information, the attacks resulted in civilian injuries and damage to homes and property.",
-          "pubDate": "Mon, 12 Oct 2026 03:55:57 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Sudan Condemns Suicide Drone Attacks On El-Obeid"
-        },
-        {
-          "title": "Over 20,000 Ethiopian Migrants cross into Djibouti in three weeks",
-          "link": "http://www.africanews.com/2026/10/09/over-20000-ethiopian-migrants-cross-into-djibouti-in-three-weeks/",
-          "description": "Thousands of Ethiopian migrants are facing a humanitarian crisis in Djibouti, with food and water running dangerously low along the treacherous route to Yemen.",
-          "pubDate": "Fri, 09 Oct 2026 11:42:10 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Over 20,000 Ethiopian Migrants cross into Djibouti in three weeks"
-        },
-        {
-          "title": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift",
-          "link": "https://www.thereporterethiopia.com/53223/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-06T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift"
         },
         {
           "title": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver",
@@ -593,130 +503,13 @@
           "titleIt": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver"
         },
         {
-          "title": "African Union urges restraint as Ethiopia , Eritrea and Egypt edge toward confrontation",
-          "link": "https://kenya-today.com/report-african-union-urges-restraint-as-ethiopia-eritrea-and-egypt-edge-toward-confrontation-5769/",
-          "source": "kenya-today.com",
-          "pubDate": "2026-10-02T09:30:00Z",
+          "title": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray",
+          "link": "https://hornobserver.com/articles/3761/AU-US-Call-for-De-escalation-as-Tensions-Rise-in-Tigray",
+          "description": "African Union Commission Chairperson Mahmoud Ali Youssouf expressed concern over reports that Tigray forces had seized the airports in Mekelle, Axum and Shire, detained federal personnel and disrupted civilian air services. Ethiopian Airlines suspended flights to the three destinations on Wednesday, citing the \"current situation\" in the region, according to Addis Standard. The airline said passengers would be notified when services resume. Separately, officials in northwestern Tigray said a truck carrying grain for displaced families was struck by drones near Adi Daero on the Shire–Sheraro roa",
+          "pubDate": "Wed, 23 Sep 2026 18:54:08 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "African Union urges restraint as Ethiopia , Eritrea and Egypt edge toward confrontation"
-        },
-        {
-          "title": "Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly  Obstructed By Egypt",
-          "link": "https://allafrica.com/stories/202610020077.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-02T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly  Obstructed By Egypt"
-        },
-        {
-          "title": "Ethiopia expels Egyptian diplomat as regional tensions escalate",
-          "link": "https://www.radiotamazuj.org/en/news/article/ethiopia-expels-egyptian-diplomat-as-regional-tensions-escalate",
-          "source": "radiotamazuj.org",
-          "pubDate": "2026-10-01T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia expels Egyptian diplomat as regional tensions escalate"
-        },
-        {
-          "title": "Ethiopia : Beyond GERD - Ethiopia Next Move On the Nile",
-          "link": "https://allafrica.com/stories/202610010633.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-01T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Beyond GERD - Ethiopia Next Move On the Nile"
-        },
-        {
-          "title": "Ethiopia claims over 22 development projects blocked by external opposition , citing collected evidence",
-          "link": "https://capitalethiopia.com/2026/10/01/ethiopia-claims-over-22-development-projects-blocked-by-external-opposition-citing-collected-evidence/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-10-01T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia claims over 22 development projects blocked by external opposition , citing collected evidence"
-        },
-        {
-          "title": "Egypt seeks greater share of Nile water amid rising tension with Ethiopia",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/30/egypt-seeks-greater-share-of-nile-water-amid-rising-tension-with-ethiopia/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-09-30T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt seeks greater share of Nile water amid rising tension with Ethiopia"
-        },
-        {
-          "title": "Beyond the Red Sea : Ethiopian - Eritrean Conflict Risks Converging With Yemen Crisis",
-          "link": "https://themedialine.org/top-stories/beyond-the-red-sea-ethiopian-eritrean-conflict-risks-converging-with-yemen-crisis/",
-          "source": "themedialine.org",
-          "pubDate": "2026-09-30T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Beyond the Red Sea : Ethiopian - Eritrean Conflict Risks Converging With Yemen Crisis"
-        },
-        {
-          "title": "African leaders to gather in Egypt for business summit",
-          "link": "https://www.al-monitor.com/originals/2026/09/african-leaders-gather-egypt-business-summit",
-          "source": "al-monitor.com",
-          "pubDate": "2026-09-29T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African leaders to gather in Egypt for business summit"
-        },
-        {
-          "title": "Ethiopia reaffirms support for boosting integration in Horn of Africa",
-          "link": "https://www.plenglish.com/news/2026/09/29/ethiopia-reaffirms-support-for-boosting-integration-in-horn-of-africa/",
-          "source": "plenglish.com",
-          "pubDate": "2026-09-29T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia reaffirms support for boosting integration in Horn of Africa"
-        },
-        {
-          "title": "Egypt Denies Backing Rebel Forces After Ethiopian General Allegation",
-          "link": "https://egyptianstreets.com/2026/09/29/egypt-denies-backing-rebel-forces-after-ethiopian-generals-allegation/",
-          "source": "egyptianstreets.com",
-          "pubDate": "2026-09-29T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Denies Backing Rebel Forces After Ethiopian General Allegation"
-        },
-        {
-          "title": "African leaders to meet in Egypt for business summit",
-          "link": "https://punchng.com/african-leaders-to-meet-in-egypt-for-business-summit/",
-          "source": "punchng.com",
-          "pubDate": "2026-09-29T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African leaders to meet in Egypt for business summit"
-        },
-        {
-          "title": "Cairo denies Ethiopian army chief accusations of supporting opposition armed groups – Middle East Monitor",
-          "link": "https://www.middleeastmonitor.com/20260929-cairo-denies-ethiopian-army-chiefs-accusations-of-supporting-opposition-armed-groups/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-09-29T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cairo denies Ethiopian army chief accusations of supporting opposition armed groups – Middle East Monitor"
-        },
-        {
-          "title": "Eritrea proxy war against Ethiopia - Israel & Jewish News",
-          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/eritreas-proxy-war-against-ethiopia",
-          "source": "jns.org",
-          "pubDate": "2026-09-29T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea proxy war against Ethiopia - Israel & Jewish News"
-        },
-        {
-          "title": "Sudan rejects Ethiopian accusation of backing armed groups",
-          "link": "https://www.radiotamazuj.org/en/news/article/sudan-rejects-ethiopian-accusation-of-backing-armed-groups",
-          "source": "radiotamazuj.org",
-          "pubDate": "2026-09-28T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan rejects Ethiopian accusation of backing armed groups"
+          "titleIt": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray"
         }
       ]
     }
