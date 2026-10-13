@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-10-12T23:03:03.368Z",
+  "generatedAt": "2026-10-13T06:51:55.144Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "East Africa: Egypt, Sudan, Eritrea and Somalia Meet to Discuss Tensions and Unresolved Issues in the Horn of Africa",
-          "link": "https://allafrica.com/stories/202610120520.html",
-          "description": "[Agenzia Fides] El Alamein -- As geopolitical tensions and internal conflicts continue to shake the Horn of Africa, the presidents of Egypt, Somalia and Eritrea, together with the head of Sudan's Transitional Council, met in El Alamein on Sunday, 4 October, to discuss the main challenges facing the region.",
-          "pubDate": "Mon, 12 Oct 2026 15:03:01 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "East Africa: Egypt, Sudan, Eritrea and Somalia Meet to Discuss Tensions and Unresolved Issues in the Horn of Africa"
-        },
         {
           "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
           "link": "https://hornobserver.com/articles/3780/Somalia-national-intelligence-agency-abducts-journalist-reporting-on-security-tensions-in-Mogadishu",
@@ -287,6 +278,15 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Ethiopia: Eritrean Incursions Raise Fears of a Wider Regional War in Ethiopia",
+          "link": "https://allafrica.com/stories/202610130014.html",
+          "description": "[The New Humanitarian] Addis Ababa -- Three scenarios - all grim - on how the renewed conflict in Tigray could develop.",
+          "pubDate": "Tue, 13 Oct 2026 04:53:41 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Eritrean Incursions Raise Fears of a Wider Regional War in Ethiopia"
+        },
+        {
           "title": "Ethiopia: Adwa recaptured amid tensions with Eritrea [Africanews Today]",
           "link": "http://www.africanews.com/2026/10/12/ethiopia-adwa-recaptured-amid-tensions-with-eritrea-africanews-today/",
           "description": "In northern Ethiopia, federal forces have retaken the town of Adwa, near the Eritrean border, without a fight following the withdrawal of TPLF rebels. The advance comes amid rising tensions with Eritrea, as commercial flights resume between Addis Ababa and Mekelle",
@@ -294,15 +294,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopia: Adwa recaptured amid tensions with Eritrea [Africanews Today]"
-        },
-        {
-          "title": "East Africa: Egypt, Sudan, Eritrea and Somalia Meet to Discuss Tensions and Unresolved Issues in the Horn of Africa",
-          "link": "https://allafrica.com/stories/202610120520.html",
-          "description": "[Agenzia Fides] El Alamein -- As geopolitical tensions and internal conflicts continue to shake the Horn of Africa, the presidents of Egypt, Somalia and Eritrea, together with the head of Sudan's Transitional Council, met in El Alamein on Sunday, 4 October, to discuss the main challenges facing the region.",
-          "pubDate": "Mon, 12 Oct 2026 15:03:01 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "East Africa: Egypt, Sudan, Eritrea and Somalia Meet to Discuss Tensions and Unresolved Issues in the Horn of Africa"
         },
         {
           "title": "Ethiopian govt forces enter key Tigray town near Eritrea border",
@@ -359,15 +350,6 @@
           "titleIt": "Trump faces growing backlash over plans to import diesel from Russia"
         },
         {
-          "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
-          "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-          "description": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
-          "pubDate": "Sun, 11 Oct 2026 15:32:32 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "Riyadh airport attacks another dangerous moment in already tense conflict"
-        },
-        {
           "title": "At least 139 people dead after migrant boat capsizes off Djibouti",
           "link": "http://www.africanews.com/2026/10/11/at-least-139-people-dead-after-migrant-boat-capsizes-off-djibouti/",
           "description": "Fifteen children are among the dead, with 82 people, all Ethiopians, having survived while another 84 people are still missing.",
@@ -384,15 +366,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Vietnam: International Conference on the South China Sea Held in Hanoi"
-        },
-        {
-          "title": "Ethiopia and Eritrea trade war accusations as regional conflict threatens to escalate",
-          "link": "http://www.africanews.com/2026/10/09/ethiopia-and-eritrea-trade-war-accusations-as-regional-conflict-threatens-to-escalate/",
-          "description": "Ethiopia and Eritrea are trading accusations of aggression, as fighting in northern Ethiopia raises fears of a new regional war.",
-          "pubDate": "Fri, 09 Oct 2026 14:08:43 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopia and Eritrea trade war accusations as regional conflict threatens to escalate"
         },
         {
           "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
@@ -465,6 +438,24 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "'Your account has been disabled': The new wave of online attacks silencing Somali journalists continues"
+        },
+        {
+          "title": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia",
+          "link": "https://hornobserver.com/articles/3763/For-Josphine-Njeru-Protecting-Civilians-Is-the-True-Measure-of-Success-in-Somalia",
+          "description": "As the Senior Civilian Casualty Tracking, Analysis and Response Cell (CCTARC) and Board of Inquiry (BOI) Officer for the African Union Support and Stabilisation Mission in Somalia (AUSSOM), Njeru works behind the scenes. Her role is critical: to protect communities caught in the crossfire, investigate incidents, track civilian injuries, and ensure the mission's accountability to the people it serves. Operating in a complex conflict environment, facts are rarely clear from the outset. \"Information on civilian harm is often incomplete and comes from various sources, each holding only part of the",
+          "pubDate": "Fri, 25 Sep 2026 12:48:52 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "For Josphine Njeru, Protecting Civilians Is the True Measure of Success in Somalia"
+        },
+        {
+          "title": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray",
+          "link": "https://hornobserver.com/articles/3761/AU-US-Call-for-De-escalation-as-Tensions-Rise-in-Tigray",
+          "description": "African Union Commission Chairperson Mahmoud Ali Youssouf expressed concern over reports that Tigray forces had seized the airports in Mekelle, Axum and Shire, detained federal personnel and disrupted civilian air services. Ethiopian Airlines suspended flights to the three destinations on Wednesday, citing the \"current situation\" in the region, according to Addis Standard. The airline said passengers would be notified when services resume. Separately, officials in northwestern Tigray said a truck carrying grain for displaced families was struck by drones near Adi Daero on the Shire–Sheraro roa",
+          "pubDate": "Wed, 23 Sep 2026 18:54:08 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "AU, U.S. Call for De-escalation as Tensions Rise in Tigray"
         }
       ]
     },
@@ -476,6 +467,15 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
+          "title": "Sudan: Drought and War Push Darfur and Kordofan Towards Famine",
+          "link": "https://allafrica.com/stories/202610130016.html",
+          "description": "[UN News] The risk of famine is growing in parts of Sudan already torn apart by war, as a severe El Niño drought makes life even harder in Greater Darfur and Greater Kordofan, the UN-backed global hunger monitor warned on Monday.",
+          "pubDate": "Tue, 13 Oct 2026 04:53:42 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Drought and War Push Darfur and Kordofan Towards Famine"
+        },
+        {
           "title": "Ethiopia: Adwa recaptured amid tensions with Eritrea [Africanews Today]",
           "link": "http://www.africanews.com/2026/10/12/ethiopia-adwa-recaptured-amid-tensions-with-eritrea-africanews-today/",
           "description": "In northern Ethiopia, federal forces have retaken the town of Adwa, near the Eritrean border, without a fight following the withdrawal of TPLF rebels. The advance comes amid rising tensions with Eritrea, as commercial flights resume between Addis Ababa and Mekelle",
@@ -483,15 +483,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopia: Adwa recaptured amid tensions with Eritrea [Africanews Today]"
-        },
-        {
-          "title": "East Africa: Egypt, Sudan, Eritrea and Somalia Meet to Discuss Tensions and Unresolved Issues in the Horn of Africa",
-          "link": "https://allafrica.com/stories/202610120520.html",
-          "description": "[Agenzia Fides] El Alamein -- As geopolitical tensions and internal conflicts continue to shake the Horn of Africa, the presidents of Egypt, Somalia and Eritrea, together with the head of Sudan's Transitional Council, met in El Alamein on Sunday, 4 October, to discuss the main challenges facing the region.",
-          "pubDate": "Mon, 12 Oct 2026 15:03:01 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "East Africa: Egypt, Sudan, Eritrea and Somalia Meet to Discuss Tensions and Unresolved Issues in the Horn of Africa"
         },
         {
           "title": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver",
