@@ -1,38 +1,11 @@
 {
-  "generatedAt": "2026-10-15T17:06:44.697Z",
+  "generatedAt": "2026-10-15T21:27:09.645Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Egitto: Al Sisi, \"minacce all'Arabia Saudita colpiscono direttamente sicurezza nazionale\" (3)",
-          "link": "https://www.agenzianova.com/a/0/7891216/2026-10-15/egitto-al-sisi-minacce-all-arabia-saudita-colpiscono-direttamente-sicurezza-nazionale-3",
-          "description": "15 ott 18:46 - (Agenzia Nova) - Commentando gli affari interni, Al Sisi ha affermato che nessun Paese puo' realizzare i propri piani di sviluppo... (Cae)",
-          "pubDate": "2026-10-15T18:46:53+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: Al Sisi, \"minacce all'Arabia Saudita colpiscono direttamente sicurezza nazionale\" (3)"
-        },
-        {
-          "title": "Egitto: Al Sisi, \"minacce all'Arabia Saudita colpiscono direttamente sicurezza nazionale\" (2)",
-          "link": "https://www.agenzianova.com/a/0/7891215/2026-10-15/egitto-al-sisi-minacce-all-arabia-saudita-colpiscono-direttamente-sicurezza-nazionale-2",
-          "description": "15 ott 18:46 - (Agenzia Nova) - Il capo dello Stato egiziano ha inoltre evidenziato i rischi lungo i confini meridionali e occidentali dell'Egitto,... (Cae)",
-          "pubDate": "2026-10-15T18:46:53+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: Al Sisi, \"minacce all'Arabia Saudita colpiscono direttamente sicurezza nazionale\" (2)"
-        },
-        {
-          "title": "Egitto: Al Sisi, \"minacce all'Arabia Saudita colpiscono direttamente sicurezza nazionale\"",
-          "link": "https://www.agenzianova.com/a/0/7891214/2026-10-15/egitto-al-sisi-minacce-all-arabia-saudita-colpiscono-direttamente-sicurezza-nazionale",
-          "description": "15 ott 18:46 - (Agenzia Nova) - Le minacce all'Arabia Saudita \"colpiscono direttamente la sicurezza nazionale dell'Egitto e quella araba\".... (Cae)",
-          "pubDate": "2026-10-15T18:46:53+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: Al Sisi, \"minacce all'Arabia Saudita colpiscono direttamente sicurezza nazionale\""
-        },
         {
           "title": "Somalia: Somali Army Prepares Operations Against Al-Shabaab in Lower Shabelle",
           "link": "https://allafrica.com/stories/202610150472.html",
@@ -50,15 +23,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Somalia announces parliamentary and presidential elections for 2027"
-        },
-        {
-          "title": "Egypt to build a rail link as an alternative to the blocked Suez Canal",
-          "link": "http://www.africanews.com/2026/10/14/egypt-to-build-a-rail-link-as-an-alternative-to-the-blocked-suez-canal/",
-          "description": "Dubbed the \"Suez Canal on Rails\", the line connects Red Sea ports directly to Mediterranean export terminals. Once fully operational, it is expected to carry up to 13 million tonnes of freight each year, allowing cargo to be transferred across Egypt by rail and helping bypass maritime bottlenecks.",
-          "pubDate": "Wed, 14 Oct 2026 06:55:34 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Egypt to build a rail link as an alternative to the blocked Suez Canal"
         },
         {
           "title": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability",
@@ -192,6 +156,15 @@
           "titleIt": "Kenya hikes fuel prices amid higher import costs linked to Middle East conflict"
         },
         {
+          "title": "Hundreds celebrate in Somaliland capital after Trump comments",
+          "link": "https://www.africanews.com/2026/10/15/hundreds-celebrate-in-somalilands-capital-after-trump-comments/",
+          "source": "africanews.com",
+          "pubDate": "2026-10-15T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Hundreds celebrate in Somaliland capital after Trump comments"
+        },
+        {
           "title": "Somalia announces parliamentary and presidential elections for 2027",
           "link": "http://www.africanews.com/2026/10/15/somalia-announces-parliamentary-and-presidential-elections-for-2027/",
           "description": "Somalia announced on Thursday that parliamentary and presidential elections would be held next year, despite an increasingly fractured political landscape and worries over mounting instability.",
@@ -255,15 +228,6 @@
           "titleIt": "Redeployment to Saudi above aboard but Crosetto may still get mandate says Meloni"
         },
         {
-          "title": "Kenyans in border town 'afraid' of Ebola risk after first death",
-          "link": "http://www.africanews.com/2026/10/14/kenyans-in-border-town-afraid-of-ebola-risk-after-first-death/",
-          "description": "In the Kenyan border town of Busia, authorities are stepping up screening for people entering the country from Uganda. Earlier this month, Kenya reported its first ever death from Ebola. The victim had just returned from DR Congo via Uganda and that’s making people nervous.",
-          "pubDate": "Wed, 14 Oct 2026 07:44:08 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Kenyans in border town 'afraid' of Ebola risk after first death"
-        },
-        {
           "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
           "link": "https://hornobserver.com/articles/3780/Somalia-national-intelligence-agency-abducts-journalist-reporting-on-security-tensions-in-Mogadishu",
           "description": "At midday on Sunday, plainclothes NISA officers abducted journalist Khadar Abdirahim Ibrahim of Himilo Media in Mogadishu, according to his colleagues. Khadar was on his lunch break when NISA officers approached him at a restaurant near Himilo Media's offices in the Wadajir district of Mogadishu. A colleague who spoke to SJS said that was the last time they saw him. Earlier on Sunday morning, before Khadar's reported abduction, another Himilo Media journalist, Abdifatah Mohamed Hared, a cameraman, was stopped and slapped by NISA officers who had established a checkpoint on the road leading to ",
@@ -318,6 +282,15 @@
           "titleIt": "Ebola Crosses Border Into Kenya as First Imported Bundibugyo Case Confirmed"
         },
         {
+          "title": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift",
+          "link": "https://www.thereporterethiopia.com/53223/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-06T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift"
+        },
+        {
           "title": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland",
           "link": "https://hornobserver.com/articles/3770/Journalists-face-arrests-and-alleged-assaults-while-covering-evictions-in-Somalia-and-Somaliland",
           "description": "The Somali Journalists Syndicate (SJS) says it has documented 13 arbitrary arrests of journalists in Mogadishu since Jan. 1, 2026, while 10 journalists have been arrested in Somaliland during the same period. Many of the cases involved reporters covering protests, forced evictions or criticism of government officials. In the latest incident, two journalists working for Somaliland-based Eryal TV said they were physically assaulted by Somali police and National Intelligence and Security Agency officers on Sept. 29 while reporting on forced evictions in Mogadishu's Yaqshiid district. Journalist M",
@@ -327,19 +300,46 @@
           "titleIt": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland"
         },
         {
-          "title": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims",
-          "link": "https://hornobserver.com/articles/3765/Somalia-Heavy-Fighting-Erupts-in-Baidoa-as-Rival-Forces-Trade-Claims",
-          "description": "Residents reported hearing a series of powerful explosions across Baidoa, with thick plumes of smoke visible over parts of the city. Initial reports indicated that several locations, including a power facility and a base used by federal government forces, were struck during the clashes. Ugaas Hassan, the information minister for the Laftagareen-aligned faction, confirmed that its forces had launched an attack, describing the assault as involving several successive waves. &nbsp; New footage, moment when Laftagaren's militias attacked #Baidoa this morning, one resident recorded. pic.twitter.com/",
-          "pubDate": "Mon, 28 Sep 2026 12:32:52 +0300",
-          "source": "Horn Observer",
+          "title": "Why renewed fighting in Ethiopia Tigray risks a regional war",
+          "link": "https://www.cnbcafrica.com/2026/why-renewed-fighting-in-ethiopias-tigray-risks-a-regional-war",
+          "source": "cnbcafrica.com",
+          "pubDate": "2026-10-02T09:15:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims"
+          "description": "",
+          "titleIt": "Why renewed fighting in Ethiopia Tigray risks a regional war"
+        },
+        {
+          "title": "Weekly roundup of world briefs",
+          "link": "https://www.heritagefl.com/story/2026/10/02/news/weekly-roundup-of-world-briefs/24073.html",
+          "source": "heritagefl.com",
+          "pubDate": "2026-10-01T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Weekly roundup of world briefs"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ue: Consiglio invita Costa a portare avanti negoziati budget per accordo tempestivo",
+          "link": "https://www.agenzianova.com/a/0/7891835/2026-10-15/ue-consiglio-invita-costa-a-portare-avanti-negoziati-budget-per-accordo-tempestivo",
+          "description": "15 ott 22:34 - (Agenzia Nova) - Il Consiglio europeo \"invita il proprio presidente a portare avanti i negoziati, nell'ottica di giungere a... (Brs)",
+          "pubDate": "2026-10-15T22:34:51+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Ue: Consiglio invita Costa a portare avanti negoziati budget per accordo tempestivo"
+        },
+        {
+          "title": "Ue: Costa, concludiamo giornata con dibattito strategico su allargamento e riforme",
+          "link": "https://www.agenzianova.com/a/0/7891834/2026-10-15/ue-costa-concludiamo-giornata-con-dibattito-strategico-su-allargamento-e-riforme",
+          "description": "15 ott 22:34 - (Agenzia Nova) - Il Consiglio europeo sta \"concludendo la giornata con un dibattito strategico sull'allargamento dell'Ue e sulle... (Brs)",
+          "pubDate": "2026-10-15T22:34:00+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Ue: Costa, concludiamo giornata con dibattito strategico su allargamento e riforme"
+        },
         {
           "title": "Kenya hikes fuel prices amid higher import costs linked to Middle East conflict",
           "link": "http://www.africanews.com/2026/10/15/kenya-hikes-fuel-prices-amid-higher-import-costs-linked-to-middle-east-conflict/",
@@ -501,40 +501,12 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Why Rwanda's deal for F1 race remains controversial"
-        },
-        {
-          "title": "Italian Language Week at the National Library of Georgia",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/14/italian-language-week-at-the-national-library-of-georgia_4ef06093-5a50-44c1-89af-f116adf27632.html",
-          "description": "(ANSA) - MOSCA, 14 OTT - The first event celebrating the 26th Week of the Italian Language in the World took place at the historic National Library of Georgia. This initiative, launched in 2001 through an agreement between the Ministry of Foreign Affairs and International Cooperation and the Accademia della Crusca, with the subsequent support of the Swiss Confederation, which takes place annually under the High Patronage of the President of the Italian Republic and aims to promote Italy’s linguistic and cultural heritage abroad. Each Week is dedicated to a different theme, which serves as the ",
-          "pubDate": "Wed, 14 Oct 2026 14:01:26 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italian Language Week at the National Library of Georgia"
-        },
-        {
-          "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
-          "link": "https://hornobserver.com/articles/3780/Somalia-national-intelligence-agency-abducts-journalist-reporting-on-security-tensions-in-Mogadishu",
-          "description": "At midday on Sunday, plainclothes NISA officers abducted journalist Khadar Abdirahim Ibrahim of Himilo Media in Mogadishu, according to his colleagues. Khadar was on his lunch break when NISA officers approached him at a restaurant near Himilo Media's offices in the Wadajir district of Mogadishu. A colleague who spoke to SJS said that was the last time they saw him. Earlier on Sunday morning, before Khadar's reported abduction, another Himilo Media journalist, Abdifatah Mohamed Hared, a cameraman, was stopped and slapped by NISA officers who had established a checkpoint on the road leading to ",
-          "pubDate": "Mon, 12 Oct 2026 16:34:06 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Egypt to build a rail link as an alternative to the blocked Suez Canal",
-          "link": "http://www.africanews.com/2026/10/14/egypt-to-build-a-rail-link-as-an-alternative-to-the-blocked-suez-canal/",
-          "description": "Dubbed the \"Suez Canal on Rails\", the line connects Red Sea ports directly to Mediterranean export terminals. Once fully operational, it is expected to carry up to 13 million tonnes of freight each year, allowing cargo to be transferred across Egypt by rail and helping bypass maritime bottlenecks.",
-          "pubDate": "Wed, 14 Oct 2026 06:55:34 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Egypt to build a rail link as an alternative to the blocked Suez Canal"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
@@ -549,6 +521,15 @@
           "titleIt": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability"
         },
         {
+          "title": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift",
+          "link": "https://www.thereporterethiopia.com/53223/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-06T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift"
+        },
+        {
           "title": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver",
           "link": "https://hornobserver.com/articles/3771/Sudan-WFP-Strongly-Condemns-Attack-On-Trucks-In-South-Kordofan-Killing-One-Driver",
           "description": "One driver was killed in the air strike. We extend our deepest condolences to his family, friends and colleagues. The contracted trucks were en route from Dilling to Kadugli and clearly marked as humanitarian vehicles. Additional details regarding the circumstances of the incident, including the extent of the damage to the food cargo, are still being collected. WFP calls for a prompt and impartial investigation into this incident and for those responsible for any violations to be held accountable. This latest attack comes only one day after a WFP truck struck an explosive device in Dilling, So",
@@ -556,6 +537,159 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver"
+        },
+        {
+          "title": "African Union urges restraint as Ethiopia , Eritrea and Egypt edge toward confrontation",
+          "link": "https://kenya-today.com/report-african-union-urges-restraint-as-ethiopia-eritrea-and-egypt-edge-toward-confrontation-5769/",
+          "source": "kenya-today.com",
+          "pubDate": "2026-10-02T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African Union urges restraint as Ethiopia , Eritrea and Egypt edge toward confrontation"
+        },
+        {
+          "title": "Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly  Obstructed By Egypt",
+          "link": "https://allafrica.com/stories/202610020077.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-02T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly  Obstructed By Egypt"
+        },
+        {
+          "title": "Ethiopia expels Egyptian diplomat as regional tensions escalate",
+          "link": "https://www.radiotamazuj.org/en/news/article/ethiopia-expels-egyptian-diplomat-as-regional-tensions-escalate",
+          "source": "radiotamazuj.org",
+          "pubDate": "2026-10-01T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia expels Egyptian diplomat as regional tensions escalate"
+        },
+        {
+          "title": "Ethiopia : Beyond GERD - Ethiopia Next Move On the Nile",
+          "link": "https://allafrica.com/stories/202610010633.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-01T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Beyond GERD - Ethiopia Next Move On the Nile"
+        },
+        {
+          "title": "Ethiopia claims over 22 development projects blocked by external opposition , citing collected evidence",
+          "link": "https://capitalethiopia.com/2026/10/01/ethiopia-claims-over-22-development-projects-blocked-by-external-opposition-citing-collected-evidence/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-10-01T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia claims over 22 development projects blocked by external opposition , citing collected evidence"
+        },
+        {
+          "title": "Egypt seeks greater share of Nile water amid rising tension with Ethiopia",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/30/egypt-seeks-greater-share-of-nile-water-amid-rising-tension-with-ethiopia/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-09-30T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt seeks greater share of Nile water amid rising tension with Ethiopia"
+        },
+        {
+          "title": "Beyond the Red Sea : Ethiopian - Eritrean Conflict Risks Converging With Yemen Crisis",
+          "link": "https://themedialine.org/top-stories/beyond-the-red-sea-ethiopian-eritrean-conflict-risks-converging-with-yemen-crisis/",
+          "source": "themedialine.org",
+          "pubDate": "2026-09-30T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Beyond the Red Sea : Ethiopian - Eritrean Conflict Risks Converging With Yemen Crisis"
+        },
+        {
+          "title": "African leaders to gather in Egypt for business summit",
+          "link": "https://www.al-monitor.com/originals/2026/09/african-leaders-gather-egypt-business-summit",
+          "source": "al-monitor.com",
+          "pubDate": "2026-09-29T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African leaders to gather in Egypt for business summit"
+        },
+        {
+          "title": "Ethiopia reaffirms support for boosting integration in Horn of Africa",
+          "link": "https://www.plenglish.com/news/2026/09/29/ethiopia-reaffirms-support-for-boosting-integration-in-horn-of-africa/",
+          "source": "plenglish.com",
+          "pubDate": "2026-09-29T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia reaffirms support for boosting integration in Horn of Africa"
+        },
+        {
+          "title": "Egypt Denies Backing Rebel Forces After Ethiopian General Allegation",
+          "link": "https://egyptianstreets.com/2026/09/29/egypt-denies-backing-rebel-forces-after-ethiopian-generals-allegation/",
+          "source": "egyptianstreets.com",
+          "pubDate": "2026-09-29T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Denies Backing Rebel Forces After Ethiopian General Allegation"
+        },
+        {
+          "title": "African leaders to meet in Egypt for business summit",
+          "link": "https://punchng.com/african-leaders-to-meet-in-egypt-for-business-summit/",
+          "source": "punchng.com",
+          "pubDate": "2026-09-29T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African leaders to meet in Egypt for business summit"
+        },
+        {
+          "title": "Cairo denies Ethiopian army chief accusations of supporting opposition armed groups – Middle East Monitor",
+          "link": "https://www.middleeastmonitor.com/20260929-cairo-denies-ethiopian-army-chiefs-accusations-of-supporting-opposition-armed-groups/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-09-29T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cairo denies Ethiopian army chief accusations of supporting opposition armed groups – Middle East Monitor"
+        },
+        {
+          "title": "Eritrea proxy war against Ethiopia - Israel & Jewish News",
+          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/eritreas-proxy-war-against-ethiopia",
+          "source": "jns.org",
+          "pubDate": "2026-09-29T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Eritrea proxy war against Ethiopia - Israel & Jewish News"
+        },
+        {
+          "title": "Sudan rejects Ethiopian accusation of backing armed groups",
+          "link": "https://www.radiotamazuj.org/en/news/article/sudan-rejects-ethiopian-accusation-of-backing-armed-groups",
+          "source": "radiotamazuj.org",
+          "pubDate": "2026-09-28T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan rejects Ethiopian accusation of backing armed groups"
+        },
+        {
+          "title": "Should Africa Get a United Nations Security Council ( UNSC ) Seat ? Why This Is Not a Good Idea",
+          "link": "https://wardheernews.com/should-africa-get-a-united-nations-security-council-unsc-seat-why-this-is-not-a-good-idea/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-09-28T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Should Africa Get a United Nations Security Council ( UNSC ) Seat ? Why This Is Not a Good Idea"
+        },
+        {
+          "title": "Ethiopia Foretold War Arrives",
+          "link": "https://allafrica.com/stories/202609270104.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-09-27T17:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Foretold War Arrives"
+        },
+        {
+          "title": "Egyptian Source Denies Cairo Involvement in Ethiopia Unrest",
+          "link": "https://english.aawsat.com/arab-world/5323055-egyptian-source-denies-cairo-involvement-ethiopia-unrest",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-09-27T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egyptian Source Denies Cairo Involvement in Ethiopia Unrest"
         }
       ]
     }
