@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T07:15:37.493Z",
+  "generatedAt": "2026-10-16T13:18:51.612Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -138,6 +138,33 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Ethiopia: Ethiopia Establishes Six-Month Caretaker Administration in Tigray",
+          "link": "https://allafrica.com/stories/202610160282.html",
+          "description": "[Reporter] New admin tasked with restoring security, rebuilding institutions and preparing for elections",
+          "pubDate": "Fri, 16 Oct 2026 11:30:30 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Establishes Six-Month Caretaker Administration in Tigray"
+        },
+        {
+          "title": "US State Secretary calls for de-escalation by Ethiopia and Eritrea",
+          "link": "http://www.africanews.com/2026/10/16/us-state-secretary-calls-for-de-escalation-by-ethiopia-and-eritrea/",
+          "description": "US Secretary of State Marco Rubio spoke by phone with Ethiopian Prime Minister Abiy Ahmed on Wednesday, urging dialogue under a peace deal agreed between Ethiopia and Eritrea in 2018.",
+          "pubDate": "Fri, 16 Oct 2026 11:13:15 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "US State Secretary calls for de-escalation by Ethiopia and Eritrea"
+        },
+        {
+          "title": "Indonesia's skies turn apocalyptic orange as smoke blankets Singapore",
+          "link": "http://www.africanews.com/2026/10/15/indonesias-skies-turn-apocalyptic-orange-as-smoke-blankets-singapore/",
+          "description": "Apocalyptic orange skies engulf Palangkaraya in Indonesia, while Singapore's famous Marina Bay Sands nearly disappears behind thick smoke. Months of wildfires have triggered an air pollution crisis across Southeast Asia.",
+          "pubDate": "Fri, 16 Oct 2026 07:31:07 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Indonesia's skies turn apocalyptic orange as smoke blankets Singapore"
+        },
+        {
           "title": "Kenya: WHO Urges Vigilance After Kenya Confirms Second Ebola Case",
           "link": "https://allafrica.com/stories/202610160014.html",
           "description": "[UN News] The World Health Organization (WHO) continues to support Kenya's efforts to contain Ebola after a second person tested positive for the Bundibugyo virus, the UN agency's representative in the country said on Thursday.",
@@ -147,42 +174,6 @@
           "titleIt": "Kenya: WHO Urges Vigilance After Kenya Confirms Second Ebola Case"
         },
         {
-          "title": "Somalia says it will hold elections in 2027",
-          "link": "https://www.aljazeera.com/news/2026/10/15/somalia-says-it-will-hold-elections-in-2027",
-          "source": "aljazeera.com",
-          "pubDate": "2026-10-15T21:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia says it will hold elections in 2027"
-        },
-        {
-          "title": "Somalia says it will hold elections in 2027 - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/somalia-says-it-will-hold-elections-in-2027/",
-          "source": "dominicanrepublicpost.com",
-          "pubDate": "2026-10-15T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia says it will hold elections in 2027 - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
-        },
-        {
-          "title": "Somaliland Supporters Rally in Hargeisa After Trump Comments",
-          "link": "https://horseedmedia.net/somaliland-supporters-rally-in-hargeisa-after-trump-comments/426516/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-10-15T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland Supporters Rally in Hargeisa After Trump Comments"
-        },
-        {
-          "title": "Indonesia's skies turn apocalyptic orange as smoke blankets Singapore",
-          "link": "http://www.africanews.com/2026/10/15/indonesias-skies-turn-apocalyptic-orange-as-smoke-blankets-singapore/",
-          "description": "Apocalyptic orange skies engulf Palangkaraya in Indonesia, while Singapore's famous Marina Bay Sands nearly disappears behind thick smoke. Months of wildfires have triggered an air pollution crisis across Southeast Asia.",
-          "pubDate": "Thu, 15 Oct 2026 14:55:16 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Indonesia's skies turn apocalyptic orange as smoke blankets Singapore"
-        },
-        {
           "title": "Kenya hikes fuel prices amid higher import costs linked to Middle East conflict",
           "link": "http://www.africanews.com/2026/10/15/kenya-hikes-fuel-prices-amid-higher-import-costs-linked-to-middle-east-conflict/",
           "description": "Rising fuel prices are having a negative impact on household budgets and sectors including transport, agriculture, and construction.",
@@ -190,15 +181,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Kenya hikes fuel prices amid higher import costs linked to Middle East conflict"
-        },
-        {
-          "title": "Hundreds celebrate in Somaliland capital after Trump comments",
-          "link": "https://www.africanews.com/2026/10/15/hundreds-celebrate-in-somalilands-capital-after-trump-comments/",
-          "source": "africanews.com",
-          "pubDate": "2026-10-15T13:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Hundreds celebrate in Somaliland capital after Trump comments"
         },
         {
           "title": "Somalia announces parliamentary and presidential elections for 2027",
@@ -219,15 +201,6 @@
           "titleIt": "Vaccines, antibiotics: Africa's push for pharma independence [Business Africa]"
         },
         {
-          "title": "Kenya: Matatu Operators Announce Fare Hikes As Fuel Prices Surge",
-          "link": "https://allafrica.com/stories/202610150317.html",
-          "description": "[Capital FM] Nairobi -- Matatu operators have announced immediate fare increases following a sharp rise in fuel prices, setting the stage for higher transport costs for commuters across the country.",
-          "pubDate": "Thu, 15 Oct 2026 10:34:49 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Matatu Operators Announce Fare Hikes As Fuel Prices Surge"
-        },
-        {
           "title": "Hundreds celebrate in Somaliland's capital after Trump comments",
           "link": "http://www.africanews.com/2026/10/15/hundreds-celebrate-in-somalilands-capital-after-trump-comments/",
           "description": "United States President Donald Trump on Monday called Somaliland \"a totally different country\" from Somalia, prompting celebrations in Hargeisa.",
@@ -235,33 +208,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Hundreds celebrate in Somaliland's capital after Trump comments"
-        },
-        {
-          "title": "Kenya reports second Ebola case, family member of first patient",
-          "link": "http://www.africanews.com/2026/10/14/kenya-reports-second-ebola-case-family-member-of-first-patient/",
-          "description": "Kenya has recorded its second case of Ebola, the health ministry said Wednesday, just over a week after reporting its first ever Ebola case and death.",
-          "pubDate": "Thu, 15 Oct 2026 07:08:20 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Kenya reports second Ebola case, family member of first patient"
-        },
-        {
-          "title": "Redeployment to Saudi above aboard but Crosetto may still get mandate says Meloni",
-          "link": "https://www.ansa.it/english/news/world/2026/10/14/redeployment-to-saudi-above-aboard-but-crosetto-may-still-get-mandate_5bdeb313-ec9a-45cb-9ca7-31d724baab17.html",
-          "description": "(ANSA) - ROME, 14 OTT - Italy's recent military redeployment from Iraq to Saudi Arabia is fully above board but Defence Minister Guido Crosetto may seek a parliamentary mandate for it if needs be, Premier Giorgia Meloni said Wednesday. Regarding the Italian troops redeployed from Iraq to Saudi Arabia, \"we have adhered to the parliamentary resolution of March 5th concerning support for Gulf nations attacked by Iran\" and \"technically followed all necessary regulatory procedures,\" sh said. However, \"I believe Minister Crosetto would have no issue returning to Parliament—if necessary—to provide a ",
-          "pubDate": "Wed, 14 Oct 2026 13:22:35 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Redeployment to Saudi above aboard but Crosetto may still get mandate says Meloni"
-        },
-        {
-          "title": "Redeployment to Saudi above aboard but Crosetto may still get mandate says Meloni",
-          "link": "https://www.ansa.it/english/news/2026/10/14/redeployment-to-saudi-above-aboard-but-crosetto-may-still-get-mandate_badfac45-35ac-4792-841a-98363a5491e1.html",
-          "description": "(ANSA) - ROME, 14 OTT - Italy's recent military redeployment from Iraq to Saudi Arabia is fully above board but Defence Minister Guido Crosetto may seek a parliamentary mandate for it if needs be, Premier Giorgia Meloni said Wednesday. Regarding the Italian troops redeployed from Iraq to Saudi Arabia, \"we have adhered to the parliamentary resolution of March 5th concerning support for Gulf nations attacked by Iran\" and \"technically followed all necessary regulatory procedures,\" sh said. However, \"I believe Minister Crosetto would have no issue returning to Parliament—if necessary—to provide a ",
-          "pubDate": "Wed, 14 Oct 2026 13:20:50 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Redeployment to Saudi above aboard but Crosetto may still get mandate says Meloni"
         },
         {
           "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
@@ -316,12 +262,66 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Ebola Crosses Border Into Kenya as First Imported Bundibugyo Case Confirmed"
+        },
+        {
+          "title": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland",
+          "link": "https://hornobserver.com/articles/3770/Journalists-face-arrests-and-alleged-assaults-while-covering-evictions-in-Somalia-and-Somaliland",
+          "description": "The Somali Journalists Syndicate (SJS) says it has documented 13 arbitrary arrests of journalists in Mogadishu since Jan. 1, 2026, while 10 journalists have been arrested in Somaliland during the same period. Many of the cases involved reporters covering protests, forced evictions or criticism of government officials. In the latest incident, two journalists working for Somaliland-based Eryal TV said they were physically assaulted by Somali police and National Intelligence and Security Agency officers on Sept. 29 while reporting on forced evictions in Mogadishu's Yaqshiid district. Journalist M",
+          "pubDate": "Fri, 02 Oct 2026 23:26:00 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland"
+        },
+        {
+          "title": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims",
+          "link": "https://hornobserver.com/articles/3765/Somalia-Heavy-Fighting-Erupts-in-Baidoa-as-Rival-Forces-Trade-Claims",
+          "description": "Residents reported hearing a series of powerful explosions across Baidoa, with thick plumes of smoke visible over parts of the city. Initial reports indicated that several locations, including a power facility and a base used by federal government forces, were struck during the clashes. Ugaas Hassan, the information minister for the Laftagareen-aligned faction, confirmed that its forces had launched an attack, describing the assault as involving several successive waves. &nbsp; New footage, moment when Laftagaren's militias attacked #Baidoa this morning, one resident recorded. pic.twitter.com/",
+          "pubDate": "Mon, 28 Sep 2026 12:32:52 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: Heavy Fighting Erupts in Baidoa as Rival Forces Trade Claims"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "The Region of Tuscany renews its agreement with the Italian Consulate in San Francisco and Innovit",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/16/the-region-of-tuscany-renews-its-agreement-with-the-italian-consulate_d1fec1e2-e6eb-44c6-a2e1-6908413e9d3c.html",
+          "description": "(ANSA) - ROMA, 16 OTT - The Region of Tuscany has renewed its collaboration agreement with the Consulate General of Italy in San Francisco and Innovit, which connects Silicon Valley’s resources with the opportunities offered by Italian companies. The agreement—signed four years after the previous one—was signed by Consul General Massimo Carnelos, Regional Councilor for Productive Activities Leonardo Marras, and Vice President of the Regional Council Antonio Mazzeo. For the fourth consecutive year, Innovit and the consulate hosted “Casa Toscana”: a week of in-depth discussions and networking op",
+          "pubDate": "Fri, 16 Oct 2026 13:47:05 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "The Region of Tuscany renews its agreement with the Italian Consulate in San Francisco and Innovit"
+        },
+        {
+          "title": "Ethiopia: Ethiopia Establishes Six-Month Caretaker Administration in Tigray",
+          "link": "https://allafrica.com/stories/202610160282.html",
+          "description": "[Reporter] New admin tasked with restoring security, rebuilding institutions and preparing for elections",
+          "pubDate": "Fri, 16 Oct 2026 11:30:30 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Establishes Six-Month Caretaker Administration in Tigray"
+        },
+        {
+          "title": "US State Secretary calls for de-escalation by Ethiopia and Eritrea",
+          "link": "http://www.africanews.com/2026/10/16/us-state-secretary-calls-for-de-escalation-by-ethiopia-and-eritrea/",
+          "description": "US Secretary of State Marco Rubio spoke by phone with Ethiopian Prime Minister Abiy Ahmed on Wednesday, urging dialogue under a peace deal agreed between Ethiopia and Eritrea in 2018.",
+          "pubDate": "Fri, 16 Oct 2026 11:13:15 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "US State Secretary calls for de-escalation by Ethiopia and Eritrea"
+        },
+        {
+          "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+          "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+          "description": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
+          "pubDate": "Fri, 16 Oct 2026 10:37:47 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'"
+        },
         {
           "title": "Eritrea: UK Threatens Visa Ban on Eritreans Over Deportation Dispute",
           "link": "https://allafrica.com/stories/202610160094.html",
@@ -332,175 +332,139 @@
           "titleIt": "Eritrea: UK Threatens Visa Ban on Eritreans Over Deportation Dispute"
         },
         {
-          "title": "V20 Ministers call for longer - term concessional finance , set next phase of Vulnerability to Viability Compact",
-          "link": "https://pina.com.fj/2026/10/16/v20-ministers-call-for-longer-term-concessional-finance-set-next-phase-of-vulnerability-to-viability-compact/",
-          "source": "pina.com.fj",
-          "pubDate": "2026-10-16T05:45:00Z",
+          "title": "Kenya hikes fuel prices amid higher import costs linked to Middle East conflict",
+          "link": "http://www.africanews.com/2026/10/15/kenya-hikes-fuel-prices-amid-higher-import-costs-linked-to-middle-east-conflict/",
+          "description": "Rising fuel prices are having a negative impact on household budgets and sectors including transport, agriculture, and construction.",
+          "pubDate": "Thu, 15 Oct 2026 13:51:19 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "V20 Ministers call for longer - term concessional finance , set next phase of Vulnerability to Viability Compact"
+          "titleIt": "Kenya hikes fuel prices amid higher import costs linked to Middle East conflict"
         },
         {
-          "title": "Xinhua Headlines : Chinese open - source AI helps African innovators cut costs , develop local solutions - Xinhua",
-          "link": "https://english.news.cn/20261015/4964aebddd7e4f08b961806736754b6b/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-10-16T01:15:00Z",
+          "title": "In London, Ambassador Cassese meets with members of the Business Club Italia",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/15/in-london-ambassador-cassese-meets-with-members-of-the-business-club-italia_efe99146-566a-498f-9498-82ed5172226e.html",
+          "description": "(ANSA) - ROMA, 15 OTT - The Italian Ambassador to London, Fabio Cassese, met with members of the Business Club Italia at Armourers’ Hall. Introduced by the Club’s president, Giovanni Sanfelice di Monteforte, the ambassador outlined the embassy’s priorities: the strategic partnership between Italy and the United Kingdom, Italy’s constructive role in relations between the EU and the United Kingdom, support for Italian businesses and exports, attracting investment to our country, and promoting Italian innovation and culture. The ambassador then answered questions from the participants. The Italia",
+          "pubDate": "Thu, 15 Oct 2026 13:16:22 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Xinhua Headlines : Chinese open - source AI helps African innovators cut costs , develop local solutions - Xinhua"
+          "titleIt": "In London, Ambassador Cassese meets with members of the Business Club Italia"
         },
         {
-          "title": "Why the world is worried about the looming danger of an all - out Ethiopia - Eritrea war",
-          "link": "https://www.theglobeandmail.com/world/article-why-the-world-is-worried-about-the-looming-danger-of-an-all-out/",
-          "source": "theglobeandmail.com",
-          "pubDate": "2026-10-16T00:30:00Z",
+          "title": "Italy brings together 'Friends of Cohesion' for talks on new EU budget",
+          "link": "https://www.ansa.it/english/news/politics/2026/10/15/italy-brings-together-friends-of-cohesion-for-talks-on-new-eu-budget_9a896d57-d619-4f0a-a991-bd244ccb3ea9.html",
+          "description": "(ANSA) - ROME, 15 OTT - Italy on Thursday hosted a working breakfast of the 17 countries of the 'Friends of Cohesion' group for talks on the upcoming 2028-2034 EU multi-annual budget before European summit in Brussels. A meeting of the so-called \"frugal\" group of countries featuring Germany, the Netherlands, Denmark, Austria, Sweden, Finland, and Belgium took place at the same time. Rome is working to create e 'Friends of Cohesion' platform in view of the decisive stages of the negotiations on the multi-annual budget, including opposition to new budget cuts and rebates, support for the CAP and",
+          "pubDate": "Thu, 15 Oct 2026 12:08:17 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Why the world is worried about the looming danger of an all - out Ethiopia - Eritrea war"
+          "titleIt": "Italy brings together 'Friends of Cohesion' for talks on new EU budget"
         },
         {
-          "title": "DR Congo Ebola Funds : US$700 Million Still Untraced",
-          "link": "https://www.riotimesonline.com/dr-congo-ebola-funds-700-million-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-15T22:45:00Z",
+          "title": "Italy brings together 'Friends of Cohesion' for talks on new EU budget",
+          "link": "https://www.ansa.it/english/news/2026/10/15/italy-brings-together-friends-of-cohesion-for-talks-on-new-eu-budget_230a5b0f-2675-4e61-9596-9d1010d9df77.html",
+          "description": "(ANSA) - ROME, 15 OTT - Italy on Thursday hosted a working breakfast of the 17 countries of the 'Friends of Cohesion' group for talks on the upcoming 2028-2034 EU multi-annual budget before European summit in Brussels. A meeting of the so-called \"frugal\" group of countries featuring Germany, the Netherlands, Denmark, Austria, Sweden, Finland, and Belgium took place at the same time. Rome is working to create e 'Friends of Cohesion' platform in view of the decisive stages of the negotiations on the multi-annual budget, including opposition to new budget cuts and rebates, support for the CAP and",
+          "pubDate": "Thu, 15 Oct 2026 12:07:33 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "DR Congo Ebola Funds : US$700 Million Still Untraced"
+          "titleIt": "Italy brings together 'Friends of Cohesion' for talks on new EU budget"
         },
         {
-          "title": "Libyan Dinar Passes 10 per Dollar on Parallel Market",
-          "link": "https://www.riotimesonline.com/libyan-dinar-parallel-market-above-10-per-dollar-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-15T22:45:00Z",
+          "title": "Ambassador Tommasi and ITA Dakar Meet with Senegalese Investors",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/15/ambassador-tommasi-and-ita-dakar-meet-with-senegalese-investors_1a9b4ec7-e022-499f-9999-6d0d3683bef5.html",
+          "description": "(ANSA) - ROMA, 15 OTT - The Italian Ambassador to Senegal, Michele Tommasi, accompanied by the Director of the Italian Trade Agency (ITA) in Dakar, Alessandro Gerbino, met with the President of the Senegalese Investors’ Club (CIS), Amadou Ly, and a delegation of its members at the club’s headquarters. The meeting provided an opportunity to gain a deeper understanding of the activities and strategic projects of the CIS—a key player in the development of Senegal’s private sector—and to explore new avenues for economic cooperation between the two countries. Particular attention was given to the p",
+          "pubDate": "Thu, 15 Oct 2026 11:55:55 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Libyan Dinar Passes 10 per Dollar on Parallel Market"
+          "titleIt": "Ambassador Tommasi and ITA Dakar Meet with Senegalese Investors"
         },
         {
-          "title": "South Africa Investment Pledges Hit US$7 . 5B",
-          "link": "https://www.riotimesonline.com/south-africa-kwazulu-natal-investment-pledges-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-15T22:45:00Z",
+          "title": "Confindustria Vicenza on a mission to India to create growth opportunities",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/15/confindustria-vicenza-on-a-mission-to-india-to-create-growth-opportunities_29164f1e-8bcb-4e31-8448-57080dc2cc07.html",
+          "description": "(ANSA) - ROMA, 15 OTT - A delegation from Confindustria Vicenza has officially arrived in India, welcomed by the Italian Ambassador to New Delhi, Antonio Bartoli, for a strategic mission to explore new horizons for business relations between Italy and India. The mission is visiting three of the country’s most dynamic economic hubs: New Delhi, Bangalore, and Mumbai. Representing one of Italy’s strongest manufacturing and industrial regions, the goal is clear: to build bridges, promote cross-border innovation, and create opportunities for mutual growth with Indian companies. In recent days, the ",
+          "pubDate": "Thu, 15 Oct 2026 10:43:19 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "South Africa Investment Pledges Hit US$7 . 5B"
+          "titleIt": "Confindustria Vicenza on a mission to India to create growth opportunities"
         },
         {
-          "title": "Senegal Budget Targets a 4 . 7 % Deficit",
-          "link": "https://www.riotimesonline.com/senegal-budget-deficit-target-4-7-percent-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-15T22:45:00Z",
+          "title": "EU must choose envoy for peace in Ukraine says Tajani",
+          "link": "https://www.ansa.it/english/news/politics/2026/10/15/eu-must-choose-envoy-for-peace-in-ukraine-says-tajani_4ec52fe9-62e0-4de0-8b7b-b6dd0998791d.html",
+          "description": "(ANSA) - ROME, 15 OTT - The European Union must choose an envoy to represent it in talks seeking to bring an end to the Ukraine war, Deputy Premier and Foreign Minister Antonio Tajani said Thursday, adding that European Council President Antonio Costa could fit the bill. \"The important thing is that Europe has a spokesperson authorized to negotiate in the name of, and on behalf of, the entire Union (on Ukraine),\" Tajani told reporters on the sidelines of the EPP pre-summit meeting before the European Council in Brussels. \"Europe needs a spokesperson for everyone for it to carry more weight. Th",
+          "pubDate": "Thu, 15 Oct 2026 10:41:01 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Senegal Budget Targets a 4 . 7 % Deficit"
+          "titleIt": "EU must choose envoy for peace in Ukraine says Tajani"
         },
         {
-          "title": "Somalia Constitution Bill Due in 2 Months",
-          "link": "https://www.riotimesonline.com/somalia-constitution-bill-two-months-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-15T22:45:00Z",
+          "title": "EU must choose envoy for peace in Ukraine says Tajani",
+          "link": "https://www.ansa.it/english/news/2026/10/15/eu-must-choose-envoy-for-peace-in-ukraine-says-tajani_4cd7d57a-be7a-4e7c-82e0-c3939fde0d4f.html",
+          "description": "(ANSA) - ROME, 15 OTT - The European Union must choose an envoy to represent it in talks seeking to bring an end to the Ukraine war, Deputy Premier and Foreign Minister Antonio Tajani said Thursday, adding that European Council President Antonio Costa could fit the bill. \"The important thing is that Europe has a spokesperson authorized to negotiate in the name of, and on behalf of, the entire Union (on Ukraine),\" Tajani told reporters on the sidelines of the EPP pre-summit meeting before the European Council in Brussels. \"Europe needs a spokesperson for everyone for it to carry more weight. Th",
+          "pubDate": "Thu, 15 Oct 2026 10:38:51 +0200",
+          "source": "ANSA English",
           "lang": "en",
-          "description": "",
-          "titleIt": "Somalia Constitution Bill Due in 2 Months"
+          "titleIt": "EU must choose envoy for peace in Ukraine says Tajani"
         },
         {
-          "title": "Tanzania Targets 1 , 500 Rail Containers a Day",
-          "link": "https://www.riotimesonline.com/tanzania-rail-containers-1500-daily-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-15T22:45:00Z",
+          "title": "Eritrean forces suffer 'heavy losses' in Tigray, Ethiopian militia says",
+          "link": "http://www.africanews.com/2026/10/15/eritrean-forces-suffer-heavy-losses-in-tigray-ethiopian-militia-says/",
+          "description": "Eritrean troops in Tigray have suffered \"heavy losses\" and are retreating towards their border, according to a spokesperson for an Ethiopian pro-government militia.",
+          "pubDate": "Thu, 15 Oct 2026 08:25:56 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Tanzania Targets 1 , 500 Rail Containers a Day"
+          "titleIt": "Eritrean forces suffer 'heavy losses' in Tigray, Ethiopian militia says"
         },
         {
-          "title": "Kenya Election Tender Clears US$50M Hurdle",
-          "link": "https://www.riotimesonline.com/kenya-election-tender-iebc-us50m-cleared-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-15T22:45:00Z",
+          "title": "Why Rwanda's deal for F1 race remains controversial",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/c61kdv3k9gm2o?at_medium=RSS&at_campaign=rss",
+          "description": "Formula 1 will return to Africa in the early 2030s, but Rwanda's deal to stage a race has prompted accusations of sportswashing against the country.",
+          "pubDate": "Wed, 14 Oct 2026 14:47:31 GMT",
+          "source": "BBC Africa",
           "lang": "en",
-          "description": "",
-          "titleIt": "Kenya Election Tender Clears US$50M Hurdle"
+          "titleIt": "Why Rwanda's deal for F1 race remains controversial"
         },
         {
-          "title": "Ghana Economy Grows 7 . 4 % in July",
-          "link": "https://www.riotimesonline.com/ghana-economy-grows-7-4-percent-july-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-15T22:45:00Z",
+          "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
+          "link": "https://hornobserver.com/articles/3780/Somalia-national-intelligence-agency-abducts-journalist-reporting-on-security-tensions-in-Mogadishu",
+          "description": "At midday on Sunday, plainclothes NISA officers abducted journalist Khadar Abdirahim Ibrahim of Himilo Media in Mogadishu, according to his colleagues. Khadar was on his lunch break when NISA officers approached him at a restaurant near Himilo Media's offices in the Wadajir district of Mogadishu. A colleague who spoke to SJS said that was the last time they saw him. Earlier on Sunday morning, before Khadar's reported abduction, another Himilo Media journalist, Abdifatah Mohamed Hared, a cameraman, was stopped and slapped by NISA officers who had established a checkpoint on the road leading to ",
+          "pubDate": "Mon, 12 Oct 2026 16:34:06 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ghana Economy Grows 7 . 4 % in July"
+          "titleIt": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu"
         },
         {
-          "title": "DR Congo Ebola Aid : US$700 Million Unreported",
-          "link": "https://www.riotimesonline.com/dr-congo-ebola-aid-unreported-700-million-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-15T22:45:00Z",
+          "title": "Eritrean incursions raise fears of a wider regional war in Ethiopia",
+          "link": "https://www.thenewhumanitarian.org/analysis/2026/10/12/eritrean-incursions-raise-fears-wider-regional-war-ethiopia",
+          "description": "Three scenarios – all grim – on how the renewed conflict in Tigray could develop.",
+          "pubDate": "Mon, 12 Oct 26 09:44:39 +0000",
+          "source": "The New Humanitarian",
           "lang": "en",
-          "description": "",
-          "titleIt": "DR Congo Ebola Aid : US$700 Million Unreported"
+          "titleIt": "Eritrean incursions raise fears of a wider regional war in Ethiopia"
         },
         {
-          "title": "Senegal Budget Deficit Set at 4 . 7 % Next Year",
-          "link": "https://www.riotimesonline.com/senegal-budget-deficit-4-7-percent-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-15T22:45:00Z",
+          "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
+          "link": "https://hornobserver.com/articles/3776/Somalia-Xawaadle-Elders-and-Al-Shabaab-Reportedly-Reach-Truce-in-Hiiraan",
+          "description": "A 16-point joint statement circulated by Al-Shabaab-affiliated media&nbsp; said the sides had resolved their disputes and agreed to maintain peace in areas controlled or influenced by the clan. The reported agreement includes a commitment by Hawadle elders not to allow the recruitment or operation of Macawiisley fighters in their areas or provide them with shelter. Macawiisley forces from Hiiraan have played a key role in supporting Somali government troops against Al-Shabaab. The meeting in Maxaas was attended by dozens of traditional elders, while Al-Shabaab was represented by senior figures",
+          "pubDate": "Tue, 06 Oct 2026 21:41:19 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Senegal Budget Deficit Set at 4 . 7 % Next Year"
+          "titleIt": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan"
         },
         {
-          "title": "Ghana Economy Grows 7 . 4 % in July",
-          "link": "https://www.riotimesonline.com/ghana-economy-grows-7-4-july-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-15T22:45:00Z",
+          "title": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation",
+          "link": "https://hornobserver.com/articles/3775/Somalia-NISA-Says-Key-Al-Shabaab-Security-Chief-Killed-in-Jilib-Operation",
+          "description": "According to NISA, the operation was carried out by its forces with support from international partners that targeted Nunow who served as the head of Al-Shabaab's intelligence and security wing, known as the \"Amniyat,\" from 2016 to 2024. Nunow also used the aliases Geescadde, Fanax, Gardhuub and Ali Dheere. Somalia's NISA accused Nunow of playing a key role in planning and carrying out attacks targeting Somali civilians. Among the attacks NISA linked to him were the October 14, 2017, bombing at the Zoobe intersection in Mogadishu, the Ex-Control Afgooye attack, the second Zoobe attack, and oth",
+          "pubDate": "Tue, 06 Oct 2026 21:03:29 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ghana Economy Grows 7 . 4 % in July"
+          "titleIt": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation"
         },
         {
-          "title": "Togo and 3 Sahel States Draft Tariff Plan",
-          "link": "https://www.riotimesonline.com/togo-sahel-states-tariff-plan-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-15T21:45:00Z",
+          "title": "Press Release: President Isaias of Eritrea holds talks with Somali President",
+          "link": "https://hornobserver.com/articles/3774/Press-Release-President-Isaias-of-Eritrea-holds-talks-with-Somali-President",
+          "description": "The two Heads of State underlined the imperative of consolidating a conducive political climate that rejects external agendas of interference to safeguard and guarantee the territorial integrity, stability, and peace of Somalia and the unity of its people.&nbsp; President Isaias further remarked that federal governance architectures in Somalia and other countries in our region have often failed to meet the peoples' hopes and aspirations for unity and cohesion. Political frameworks that polarize socio-economic, religious, and ethnic differences to foment perennial crises and encourage foreign i",
+          "pubDate": "Tue, 06 Oct 2026 18:48:48 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Togo and 3 Sahel States Draft Tariff Plan"
-        },
-        {
-          "title": "Sao Tome Government Pick Due in 30 Days",
-          "link": "https://www.riotimesonline.com/sao-tome-government-30-days-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-15T21:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sao Tome Government Pick Due in 30 Days"
-        },
-        {
-          "title": "Gambia Gets US Ambassador , 7 Weeks to Vote",
-          "link": "https://www.riotimesonline.com/gambia-us-ambassador-socha-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-15T21:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Gambia Gets US Ambassador , 7 Weeks to Vote"
-        },
-        {
-          "title": "Libya Dollar Tops 10 Dinars on Street Market",
-          "link": "https://www.riotimesonline.com/libya-parallel-market-dollar-10-dinars-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-15T21:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Libya Dollar Tops 10 Dinars on Street Market"
-        },
-        {
-          "title": "Germany Funds 35 Togo Communes With US$8 . 8M",
-          "link": "https://www.riotimesonline.com/germany-funds-35-togo-communes-us-8-8-million-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-15T21:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Germany Funds 35 Togo Communes With US$8 . 8M"
+          "titleIt": "Press Release: President Isaias of Eritrea holds talks with Somali President"
         }
       ]
     },
@@ -508,190 +472,199 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.wboc.com/news/international/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/article_dfb8d560-865a-570d-9276-c610fef0ad62.html",
-          "source": "wboc.com",
-          "pubDate": "2026-10-16T06:45:00Z",
+          "title": "Where Politics Happens - NAKED PUNCH",
+          "link": "https://nakedpunch.com/where-politics-happens/",
+          "source": "nakedpunch.com",
+          "pubDate": "2026-10-16T12:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
+          "titleIt": "Where Politics Happens - NAKED PUNCH"
         },
         {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.niagarafallsreview.ca/business/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-nato-s-response/article_35fe499b-f8ae-5525-ab7a-fa0772385ea4.html",
-          "source": "niagarafallsreview.ca",
-          "pubDate": "2026-10-16T06:30:00Z",
+          "title": "Fair Observer Monthly : September 2026",
+          "link": "https://www.fairobserver.com/publications/fair-observer-monthly-september-2026/",
+          "source": "fairobserver.com",
+          "pubDate": "2026-10-16T12:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
+          "titleIt": "Fair Observer Monthly : September 2026"
         },
         {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.thepeterboroughexaminer.com/business/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-nato-s-response/article_ba5b6d0a-895c-5d08-bdd3-aff2c3c6e8e7.html",
-          "source": "thepeterboroughexaminer.com",
-          "pubDate": "2026-10-16T06:30:00Z",
+          "title": "Vance , Rogers keep up attacks on El - Sayed during Monroe rally",
+          "link": "https://www.wkar.org/election-2026/2026-10-16/vance-rogers-keep-up-attacks-on-el-sayed-during-monroe-rally",
+          "source": "wkar.org",
+          "pubDate": "2026-10-16T11:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
+          "titleIt": "Vance , Rogers keep up attacks on El - Sayed during Monroe rally"
         },
         {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.clickondetroit.com/news/world/2026/10/16/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/",
-          "source": "clickondetroit.com",
-          "pubDate": "2026-10-16T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
-        },
-        {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.clickorlando.com/news/world/2026/10/16/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/",
-          "source": "clickorlando.com",
-          "pubDate": "2026-10-16T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
-        },
-        {
-          "title": "Ship Sinks in Hormuz as Iran Targets Transfers , Pushes Corridor",
-          "link": "https://www.hngn.com/articles/273497/20261015/iran-hits-hormuz-oil-transfers-pushes-own-oman-corridor.htm",
-          "source": "hngn.com",
-          "pubDate": "2026-10-16T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ship Sinks in Hormuz as Iran Targets Transfers , Pushes Corridor"
-        },
-        {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.stcatharinesstandard.ca/business/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-nato-s-response/article_85ebb4a2-1806-527d-9951-d15c80924942.html",
-          "source": "stcatharinesstandard.ca",
-          "pubDate": "2026-10-16T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
-        },
-        {
-          "title": "South Africa : Can You Get TB Care in the Private Sector ? It Is Complicated",
-          "link": "https://allafrica.com/stories/202610160071.html",
+          "title": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia",
+          "link": "https://allafrica.com/stories/202610160214.html",
           "source": "allafrica.com",
-          "pubDate": "2026-10-16T06:00:00Z",
+          "pubDate": "2026-10-16T11:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "South Africa : Can You Get TB Care in the Private Sector ? It Is Complicated"
+          "titleIt": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia"
+        },
+        {
+          "title": "GOP Senator : Cancel Holiday Break if We Lose",
+          "link": "https://www.newser.com/story/398240/gop-senator-cancel-holiday-break-if-we-lose.html",
+          "source": "newser.com",
+          "pubDate": "2026-10-16T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "GOP Senator : Cancel Holiday Break if We Lose"
         },
         {
           "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://isp.netscape.com:443/news/world/story/0001/20261016/866f21a940311b13abd9425457edf388",
-          "source": "isp.netscape.com",
-          "pubDate": "2026-10-16T05:45:00Z",
+          "link": "http://www.idahopress.com/news/world/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/article_17e4c3da-7807-5819-af9a-dc8ec462083d.html",
+          "source": "idahopress.com",
+          "pubDate": "2026-10-16T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
+        },
+        {
+          "title": "Jonglei Canal could double or triple Egypt and Sudan annual water share : Former Minister",
+          "link": "https://www.egyptindependent.com/jonglei-canal-could-double-or-triple-egypt-and-sudans-annual-water-share-former-minister/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-10-16T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Jonglei Canal could double or triple Egypt and Sudan annual water share : Former Minister"
+        },
+        {
+          "title": "Mohammed bin Salman faces most consequential test yet as Saudi Arabia comes under Houthi fire",
+          "link": "https://economictimes.indiatimes.com/news/international/world-news/crisis-in-saudi-arabia-mohammed-bin-salman-confronts-escalating-houthi-attacks-amidst-regional-chaos-yemen-mbs-donald-trump-riyadh-saudi-aramco/articleshow/134985115.cms",
+          "source": "economictimes.indiatimes.com",
+          "pubDate": "2026-10-16T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mohammed bin Salman faces most consequential test yet as Saudi Arabia comes under Houthi fire"
+        },
+        {
+          "title": "Vance , Rogers keep up attacks on El - Sayed during Monroe rally",
+          "link": "https://www.wnmufm.org/local-regional-news/2026-10-16/vance-rogers-keep-up-attacks-on-el-sayed-during-monroe-rally",
+          "source": "wnmufm.org",
+          "pubDate": "2026-10-16T10:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Vance , Rogers keep up attacks on El - Sayed during Monroe rally"
+        },
+        {
+          "title": "Mideast Stocks : Gulf stocks fall after Houthis threaten more attacks",
+          "link": "https://www.zawya.com/en/capital-markets/mideast-stocks-gulf-stocks-fall-after-houthis-threaten-more-attacks-1691157",
+          "source": "zawya.com",
+          "pubDate": "2026-10-16T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Mideast Stocks : Gulf stocks fall after Houthis threaten more attacks"
+        },
+        {
+          "title": "OSCE Brings Asian , Mediterranean Diplomats Together",
+          "link": "https://www.miragenews.com/osce-brings-asian-mediterranean-diplomats-1761806/",
+          "source": "miragenews.com",
+          "pubDate": "2026-10-16T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "OSCE Brings Asian , Mediterranean Diplomats Together"
+        },
+        {
+          "title": "World Monuments Watch 2027 Nominations Point to Government Austerity , Climate Impact and Skills Shortages as Main Threats to Heritage",
+          "link": "https://www.archdaily.com/1186995/world-monuments-watch-2027-nominations-point-to-government-austerity-climate-impact-and-skills-shortages-as-main-threats-to-heritage",
+          "source": "archdaily.com",
+          "pubDate": "2026-10-16T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "World Monuments Watch 2027 Nominations Point to Government Austerity , Climate Impact and Skills Shortages as Main Threats to Heritage"
+        },
+        {
+          "title": "Chinese open - source AI helps African innovators cut costs , develop local solutions -- China Economic Net",
+          "link": "http://en.ce.cn/main/latest/202610/t20261016_3260691.shtml",
+          "source": "en.ce.cn",
+          "pubDate": "2026-10-16T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Chinese open - source AI helps African innovators cut costs , develop local solutions -- China Economic Net"
+        },
+        {
+          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
+          "link": "https://www.ksat.com/news/world/2026/10/16/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/",
+          "source": "ksat.com",
+          "pubDate": "2026-10-16T08:45:00Z",
           "lang": "en",
           "description": "",
           "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
         },
         {
           "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.news4jax.com/news/world/2026/10/16/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/",
-          "source": "news4jax.com",
-          "pubDate": "2026-10-16T05:45:00Z",
+          "link": "https://krmg.com/2026/10/15/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/",
+          "source": "krmg.com",
+          "pubDate": "2026-10-16T08:45:00Z",
           "lang": "en",
           "description": "",
           "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
-        },
-        {
-          "title": "Egypt : Minawi Urges Restraint As Fallout From Deadly Sudan - Egypt Border Strikes Widens",
-          "link": "https://allafrica.com/stories/202610160013.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-16T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt : Minawi Urges Restraint As Fallout From Deadly Sudan - Egypt Border Strikes Widens"
-        },
-        {
-          "title": "Defense industry urged to strengthen military , economy : Jauhari",
-          "link": "https://en.antaranews.com/news/435857/defense-industry-urged-to-strengthen-military-economy-jauhari",
-          "source": "en.antaranews.com",
-          "pubDate": "2026-10-16T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Defense industry urged to strengthen military , economy : Jauhari"
         },
         {
           "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "http://www.cecildaily.com/ap/world/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/article_57b98a72-e72e-5b5f-b61b-f6df75c98032.html",
-          "source": "cecildaily.com",
-          "pubDate": "2026-10-16T05:00:00Z",
+          "link": "https://www.wral.com/news/ap/866f2-drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/",
+          "source": "wral.com",
+          "pubDate": "2026-10-16T08:00:00Z",
           "lang": "en",
           "description": "",
           "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
         },
         {
-          "title": "Thursday Final Word",
-          "link": "https://hotair.com/ed-morrissey/2026/10/15/thursdays-final-word-n3819971",
-          "source": "hotair.com",
-          "pubDate": "2026-10-16T04:30:00Z",
+          "title": "What history tells us about the closure of vital waterways",
+          "link": "https://www.rte.ie/brainstorm/2026/1015/1595435-suez-canal-1956-strait-of-hormuz-2026-closures-superpowers-economics-geopolitical-influence/",
+          "source": "rte.ie",
+          "pubDate": "2026-10-16T07:45:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Thursday Final Word"
+          "titleIt": "What history tells us about the closure of vital waterways"
         },
         {
-          "title": "Wall Street closes higher Thursday but tech stocks lag",
-          "link": "http://www.europesun.com/news/279377295/wall-street-closes-higher-thursday-but-tech-stocks-lag",
-          "source": "europesun.com",
-          "pubDate": "2026-10-16T01:15:00Z",
+          "title": "Pickalbatros Hotels Announce US$250M Morocco Deal",
+          "link": "https://www.riotimesonline.com/pickalbatros-hotels-us-250-million-morocco-financing-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-16T07:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Wall Street closes higher Thursday but tech stocks lag"
+          "titleIt": "Pickalbatros Hotels Announce US$250M Morocco Deal"
         },
         {
-          "title": "U . S . stocks broadly higher Thursday despite bad news on inflation",
-          "link": "http://www.myanmarnews.net/news/279377295/u-s-stocks-broadly-higher-thursday-despite-bad-news-on-inflation",
-          "source": "myanmarnews.net",
-          "pubDate": "2026-10-16T01:15:00Z",
+          "title": "Egypt Wins EU Listing to Sell Farmed Fish",
+          "link": "https://www.riotimesonline.com/egypt-eu-listing-farmed-fish-27-states-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-16T07:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "U . S . stocks broadly higher Thursday despite bad news on inflation"
+          "titleIt": "Egypt Wins EU Listing to Sell Farmed Fish"
         },
         {
-          "title": "Xinhua Headlines : Chinese open - source AI helps African innovators cut costs , develop local solutions - Xinhua",
-          "link": "https://english.news.cn/20261015/4964aebddd7e4f08b961806736754b6b/c.html",
-          "source": "english.news.cn",
-          "pubDate": "2026-10-16T01:15:00Z",
+          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
+          "link": "https://www.thehindu.com/news/international/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/article71591367.ece",
+          "source": "thehindu.com",
+          "pubDate": "2026-10-16T07:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Xinhua Headlines : Chinese open - source AI helps African innovators cut costs , develop local solutions - Xinhua"
-        },
-        {
-          "title": "Wall Street closes higher Thursday but tech stocks lag",
-          "link": "http://www.mexicostar.com/news/279377295/wall-street-closes-higher-thursday-but-tech-stocks-lag",
-          "source": "mexicostar.com",
-          "pubDate": "2026-10-16T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street closes higher Thursday but tech stocks lag"
-        },
-        {
-          "title": "Israel Cuts Off Commercial Goods From Entering Gaza as It Continues Attacks",
-          "link": "https://news.antiwar.com/2026/10/15/israel-cuts-off-commercial-goods-from-entering-gaza-as-it-continues-attacks/",
-          "source": "news.antiwar.com",
-          "pubDate": "2026-10-16T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Cuts Off Commercial Goods From Entering Gaza as It Continues Attacks"
-        },
-        {
-          "title": "Wall Street closes higher Thursday but tech stocks lag",
-          "link": "http://www.iranherald.com/news/279377295/wall-street-closes-higher-thursday-but-tech-stocks-lag",
-          "source": "iranherald.com",
-          "pubDate": "2026-10-16T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Wall Street closes higher Thursday but tech stocks lag"
+          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia",
+          "link": "https://allafrica.com/stories/202610160214.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-16T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia"
+        },
         {
           "title": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability",
           "link": "https://hornobserver.com/articles/3782/Opinion-The-Horn-of-Africa-Deserves-Peace-Not-Crisis-and-Instability",
@@ -862,15 +835,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Ethiopia Foretold War Arrives"
-        },
-        {
-          "title": "Egyptian Source Denies Cairo Involvement in Ethiopia Unrest",
-          "link": "https://english.aawsat.com/arab-world/5323055-egyptian-source-denies-cairo-involvement-ethiopia-unrest",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-09-27T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egyptian Source Denies Cairo Involvement in Ethiopia Unrest"
         }
       ]
     }
