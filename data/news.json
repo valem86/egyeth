@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-10-16T13:18:51.612Z",
+  "generatedAt": "2026-10-16T18:07:25.249Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: Somali Army Prepares Operations Against Al-Shabaab in Lower Shabelle",
-          "link": "https://allafrica.com/stories/202610150472.html",
-          "description": "[Shabelle] Mogadishu -- A Somali army commander has urged troops stationed in the Lower Shabelle region to prepare for major operations aimed at driving Al-Shabaab militants from areas they control, according to a military statement.",
-          "pubDate": "Thu, 15 Oct 2026 15:19:15 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somali Army Prepares Operations Against Al-Shabaab in Lower Shabelle"
-        },
         {
           "title": "Somalia announces parliamentary and presidential elections for 2027",
           "link": "http://www.africanews.com/2026/10/15/somalia-announces-parliamentary-and-presidential-elections-for-2027/",
@@ -138,13 +129,31 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet",
+          "link": "https://www.thenewhumanitarian.org/news/2026/10/16/ethiopia-eritrea-war-fears-gaza-base-blocked-kabila-new-coalition-cheat-sheet",
+          "description": "A weekly read to keep you in the loop on humanitarian issues.",
+          "pubDate": "Fri, 16 Oct 26 14:59:14 +0000",
+          "source": "The New Humanitarian",
+          "lang": "en",
+          "titleIt": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet"
+        },
+        {
+          "title": "Kenya on high alert as Ebola outbreak in DR Congo fuels border fears",
+          "link": "http://www.africanews.com/2026/10/16/kenya-on-high-alert-as-ebola-outbreak-in-dr-congo-fuels-border-fears/",
+          "description": "Kenya is on high alert as it races to contain Ebola! Linked to a deadly outbreak in the DRC, the virus has reportedly claimed one life in Kenya, with two cases recorded. At the Ugandan border, screenings are intensifying, with travelers undergoing temperature checks and handwashing measures.",
+          "pubDate": "Fri, 16 Oct 2026 13:51:54 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Kenya on high alert as Ebola outbreak in DR Congo fuels border fears"
+        },
+        {
           "title": "Ethiopia: Ethiopia Establishes Six-Month Caretaker Administration in Tigray",
           "link": "https://allafrica.com/stories/202610160282.html",
           "description": "[Reporter] New admin tasked with restoring security, rebuilding institutions and preparing for elections",
           "pubDate": "Fri, 16 Oct 2026 11:30:30 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Establishes Six-Month Caretaker Administration in Tigray"
+          "titleIt": "Ethiopia Establishes Six - Month Caretaker Administration in Tigray"
         },
         {
           "title": "US State Secretary calls for de-escalation by Ethiopia and Eritrea",
@@ -165,15 +174,6 @@
           "titleIt": "Indonesia's skies turn apocalyptic orange as smoke blankets Singapore"
         },
         {
-          "title": "Kenya: WHO Urges Vigilance After Kenya Confirms Second Ebola Case",
-          "link": "https://allafrica.com/stories/202610160014.html",
-          "description": "[UN News] The World Health Organization (WHO) continues to support Kenya's efforts to contain Ebola after a second person tested positive for the Bundibugyo virus, the UN agency's representative in the country said on Thursday.",
-          "pubDate": "Fri, 16 Oct 2026 04:58:07 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: WHO Urges Vigilance After Kenya Confirms Second Ebola Case"
-        },
-        {
           "title": "Kenya hikes fuel prices amid higher import costs linked to Middle East conflict",
           "link": "http://www.africanews.com/2026/10/15/kenya-hikes-fuel-prices-amid-higher-import-costs-linked-to-middle-east-conflict/",
           "description": "Rising fuel prices are having a negative impact on household budgets and sectors including transport, agriculture, and construction.",
@@ -190,24 +190,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Somalia announces parliamentary and presidential elections for 2027"
-        },
-        {
-          "title": "Vaccines, antibiotics: Africa's push for pharma independence [Business Africa]",
-          "link": "http://www.africanews.com/2026/10/15/vaccines-antibiotics-africas-push-for-pharma-independence-business-africa/",
-          "description": "Africa imports 70-80% of the medicines it consumes, and up to 95% of the active pharmaceutical ingredients needed to make them. That dependency leaves the continent exposed to every global supply chain shock, from Covid-19 to the war in Ukraine to instability in the Gulf",
-          "pubDate": "Thu, 15 Oct 2026 12:45:12 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Vaccines, antibiotics: Africa's push for pharma independence [Business Africa]"
-        },
-        {
-          "title": "Hundreds celebrate in Somaliland's capital after Trump comments",
-          "link": "http://www.africanews.com/2026/10/15/hundreds-celebrate-in-somalilands-capital-after-trump-comments/",
-          "description": "United States President Donald Trump on Monday called Somaliland \"a totally different country\" from Somalia, prompting celebrations in Hargeisa.",
-          "pubDate": "Thu, 15 Oct 2026 08:14:30 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Hundreds celebrate in Somaliland's capital after Trump comments"
         },
         {
           "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
@@ -287,6 +269,159 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Ue: Costa, serve accordo budget entro fine anno, non riguarda le elezioni",
+          "link": "https://www.agenzianova.com/a/0/7897634/2026-10-16/ue-costa-serve-accordo-budget-entro-fine-anno-non-riguarda-le-elezioni",
+          "description": "16 ott 19:48 - (Agenzia Nova) - L'Unione europea \"ha bisogno di concludere i negoziati\" per il prossimo Quadro finanziario pluriennale (Qfp)... (Brb)",
+          "pubDate": "2026-10-16T19:48:50+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Ue: Costa, serve accordo budget entro fine anno, non riguarda le elezioni"
+        },
+        {
+          "title": "Ethiopia Sets 6 - Month Tigray Caretaker Rule",
+          "link": "https://www.riotimesonline.com/ethiopia-sets-six-month-tigray-caretaker-rule-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-16T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Sets 6 - Month Tigray Caretaker Rule"
+        },
+        {
+          "title": "UK Visa Penalties on Eritrea Start Oct 15",
+          "link": "https://www.riotimesonline.com/uk-visa-penalties-on-eritrea-take-effect-oct-15-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-16T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UK Visa Penalties on Eritrea Start Oct 15"
+        },
+        {
+          "title": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor",
+          "link": "https://www.middleeastmonitor.com/20261016-why-ethiopia-and-eritreas-march-to-war-demands-global-attention/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-10-16T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor"
+        },
+        {
+          "title": "Foreign rivalries risk turning Somalia political crisis into a protracted war",
+          "link": "https://horseedmedia.net/foreign-rivalries-risk-turning-somalias-political-crisis-into-a-protracted-war/426543/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-10-16T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Foreign rivalries risk turning Somalia political crisis into a protracted war"
+        },
+        {
+          "title": "Arab News | Ethiopia Abiy names new Tigray government , wants polls in six months",
+          "link": "https://www.arabnews.com/world/ethiopias-abiy-names-new-tigray-government-wants-polls-in-six-months-3006717",
+          "source": "arabnews.com",
+          "pubDate": "2026-10-16T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | Ethiopia Abiy names new Tigray government , wants polls in six months"
+        },
+        {
+          "title": "Ethiopia Abiy names new Tigray government , wants polls in six months",
+          "link": "https://www.dailymaverick.co.za/article/2026-10-16-ethiopias-abiy-names-new-tigray-government-wants-polls-in-six-months/",
+          "source": "dailymaverick.co.za",
+          "pubDate": "2026-10-16T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Abiy names new Tigray government , wants polls in six months"
+        },
+        {
+          "title": "Ethiopian gains in Tigray risk wider war with Eritrea, analyst warns",
+          "link": "http://www.africanews.com/2026/10/16/ethiopian-gains-in-tigray-risk-wider-war-with-eritrea-analyst-warns/",
+          "description": "Ethiopia’s military advances in northern Tigray do not spell an end to the conflict but have the potential to increase the risk of war with neighboring Eritrea, an analyst with knowledge of the region has warned",
+          "pubDate": "Fri, 16 Oct 2026 15:47:43 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopian gains in Tigray risk wider war with Eritrea, analyst warns"
+        },
+        {
+          "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+          "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+          "description": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
+          "pubDate": "Fri, 16 Oct 2026 15:45:10 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Watch: Will Ukraine get the support needed as tensions with US rise?"
+        },
+        {
+          "title": "Ethiopia announces instalment of interim government in Tigray",
+          "link": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray",
+          "source": "aljazeera.com",
+          "pubDate": "2026-10-16T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia announces instalment of interim government in Tigray"
+        },
+        {
+          "title": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet",
+          "link": "https://www.thenewhumanitarian.org/news/2026/10/16/ethiopia-eritrea-war-fears-gaza-base-blocked-kabila-new-coalition-cheat-sheet",
+          "description": "A weekly read to keep you in the loop on humanitarian issues.",
+          "pubDate": "Fri, 16 Oct 26 14:59:14 +0000",
+          "source": "The New Humanitarian",
+          "lang": "en",
+          "titleIt": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet"
+        },
+        {
+          "title": "Djibouti : a key player in migration governance - New African Magazine",
+          "link": "https://newafricanmagazine.com/politics/djibouti-a-key-player-in-migration-governance/",
+          "source": "newafricanmagazine.com",
+          "pubDate": "2026-10-16T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Djibouti : a key player in migration governance - New African Magazine"
+        },
+        {
+          "title": "Ethiopia , EU Reaffirm Commitment to Cooperation On Economic Progress , Regional Stability",
+          "link": "https://allafrica.com/stories/202610160215.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-16T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia , EU Reaffirm Commitment to Cooperation On Economic Progress , Regional Stability"
+        },
+        {
+          "title": "Moscow accuses Rome of failing to oppose 'Russophobic' policies",
+          "link": "https://www.ansa.it/english/news/politics/2026/10/16/moscow-accuses-rome-of-failing-to-oppose-russophobic-policies_2a647b32-1eae-4db7-8ac1-de44bbdf1a09.html",
+          "description": "(ANSA) - ROME, 16 OTT - Russian Foreign Ministry Spokeswoman Maria Zakharova on Friday accused Italy of failing to take a stand against the 'Russophobic' policies that its Western allies want. Rome has staunchly supported Ukraine since Russia invaded its neighbour in 2022 and this week Premier Giorgia Meloni criticised the US-Russian diesel deal, saying it was risky and legitimised Moscow. \"Rome officially lacks the political will to act in the interests of its citizens and does not dare to oppose the demands of its masters in Brussels and other capitals to take Russophobic actions that run co",
+          "pubDate": "Fri, 16 Oct 2026 15:16:26 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Moscow accuses Rome of failing to oppose 'Russophobic' policies"
+        },
+        {
+          "title": "Moscow accuses Rome of failing to oppose 'Russophobic' policies",
+          "link": "https://www.ansa.it/english/news/2026/10/16/moscow-accuses-rome-of-failing-to-oppose-russophobic-policies_5930cda9-a98e-4800-be1e-2d932d12099b.html",
+          "description": "(ANSA) - ROME, 16 OTT - Russian Foreign Ministry Spokeswoman Maria Zakharova on Friday accused Italy of failing to take a stand against the 'Russophobic' policies that its Western allies want. Rome has staunchly supported Ukraine since Russia invaded its neighbour in 2022 and this week Premier Giorgia Meloni criticised the US-Russian diesel deal, saying it was risky and legitimised Moscow. \"Rome officially lacks the political will to act in the interests of its citizens and does not dare to oppose the demands of its masters in Brussels and other capitals to take Russophobic actions that run co",
+          "pubDate": "Fri, 16 Oct 2026 15:13:24 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Moscow accuses Rome of failing to oppose 'Russophobic' policies"
+        },
+        {
+          "title": "Ethiopia Establishes Six - Month Caretaker Administration in Tigray",
+          "link": "https://allafrica.com/stories/202610160282.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-16T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Establishes Six - Month Caretaker Administration in Tigray"
+        },
+        {
+          "title": "Ethiopia Abiy names new Tigray government , wants polls in six months",
+          "link": "https://www.cnbcafrica.com/2026/ethiopias-abiy-names-new-tigray-government-wants-polls-in-six-months",
+          "source": "cnbcafrica.com",
+          "pubDate": "2026-10-16T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Abiy names new Tigray government , wants polls in six months"
+        },
+        {
           "title": "The Region of Tuscany renews its agreement with the Italian Consulate in San Francisco and Innovit",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/16/the-region-of-tuscany-renews-its-agreement-with-the-italian-consulate_d1fec1e2-e6eb-44c6-a2e1-6908413e9d3c.html",
           "description": "(ANSA) - ROMA, 16 OTT - The Region of Tuscany has renewed its collaboration agreement with the Consulate General of Italy in San Francisco and Innovit, which connects Silicon Valley’s resources with the opportunities offered by Italian companies. The agreement—signed four years after the previous one—was signed by Consul General Massimo Carnelos, Regional Councilor for Productive Activities Leonardo Marras, and Vice President of the Regional Council Antonio Mazzeo. For the fourth consecutive year, Innovit and the consulate hosted “Casa Toscana”: a week of in-depth discussions and networking op",
@@ -296,13 +431,13 @@
           "titleIt": "The Region of Tuscany renews its agreement with the Italian Consulate in San Francisco and Innovit"
         },
         {
-          "title": "Ethiopia: Ethiopia Establishes Six-Month Caretaker Administration in Tigray",
-          "link": "https://allafrica.com/stories/202610160282.html",
-          "description": "[Reporter] New admin tasked with restoring security, rebuilding institutions and preparing for elections",
-          "pubDate": "Fri, 16 Oct 2026 11:30:30 GMT",
-          "source": "AllAfrica",
+          "title": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia",
+          "link": "https://allafrica.com/stories/202610160214.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-16T11:30:00Z",
           "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia Establishes Six-Month Caretaker Administration in Tigray"
+          "description": "",
+          "titleIt": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia"
         },
         {
           "title": "US State Secretary calls for de-escalation by Ethiopia and Eritrea",
@@ -312,165 +447,129 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "US State Secretary calls for de-escalation by Ethiopia and Eritrea"
-        },
-        {
-          "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-          "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-          "description": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
-          "pubDate": "Fri, 16 Oct 2026 10:37:47 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'"
-        },
-        {
-          "title": "Eritrea: UK Threatens Visa Ban on Eritreans Over Deportation Dispute",
-          "link": "https://allafrica.com/stories/202610160094.html",
-          "description": "[allAfrica] UK Home Secretary Shabana Mahmood has threatened to ban all Eritrean nationals from entering the UK unless the East African country agrees to accept more of its citizens facing deportation, including foreign national offenders.",
-          "pubDate": "Fri, 16 Oct 2026 06:29:10 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Eritrea: UK Threatens Visa Ban on Eritreans Over Deportation Dispute"
-        },
-        {
-          "title": "Kenya hikes fuel prices amid higher import costs linked to Middle East conflict",
-          "link": "http://www.africanews.com/2026/10/15/kenya-hikes-fuel-prices-amid-higher-import-costs-linked-to-middle-east-conflict/",
-          "description": "Rising fuel prices are having a negative impact on household budgets and sectors including transport, agriculture, and construction.",
-          "pubDate": "Thu, 15 Oct 2026 13:51:19 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Kenya hikes fuel prices amid higher import costs linked to Middle East conflict"
-        },
-        {
-          "title": "In London, Ambassador Cassese meets with members of the Business Club Italia",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/15/in-london-ambassador-cassese-meets-with-members-of-the-business-club-italia_efe99146-566a-498f-9498-82ed5172226e.html",
-          "description": "(ANSA) - ROMA, 15 OTT - The Italian Ambassador to London, Fabio Cassese, met with members of the Business Club Italia at Armourers’ Hall. Introduced by the Club’s president, Giovanni Sanfelice di Monteforte, the ambassador outlined the embassy’s priorities: the strategic partnership between Italy and the United Kingdom, Italy’s constructive role in relations between the EU and the United Kingdom, support for Italian businesses and exports, attracting investment to our country, and promoting Italian innovation and culture. The ambassador then answered questions from the participants. The Italia",
-          "pubDate": "Thu, 15 Oct 2026 13:16:22 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "In London, Ambassador Cassese meets with members of the Business Club Italia"
-        },
-        {
-          "title": "Italy brings together 'Friends of Cohesion' for talks on new EU budget",
-          "link": "https://www.ansa.it/english/news/politics/2026/10/15/italy-brings-together-friends-of-cohesion-for-talks-on-new-eu-budget_9a896d57-d619-4f0a-a991-bd244ccb3ea9.html",
-          "description": "(ANSA) - ROME, 15 OTT - Italy on Thursday hosted a working breakfast of the 17 countries of the 'Friends of Cohesion' group for talks on the upcoming 2028-2034 EU multi-annual budget before European summit in Brussels. A meeting of the so-called \"frugal\" group of countries featuring Germany, the Netherlands, Denmark, Austria, Sweden, Finland, and Belgium took place at the same time. Rome is working to create e 'Friends of Cohesion' platform in view of the decisive stages of the negotiations on the multi-annual budget, including opposition to new budget cuts and rebates, support for the CAP and",
-          "pubDate": "Thu, 15 Oct 2026 12:08:17 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italy brings together 'Friends of Cohesion' for talks on new EU budget"
-        },
-        {
-          "title": "Italy brings together 'Friends of Cohesion' for talks on new EU budget",
-          "link": "https://www.ansa.it/english/news/2026/10/15/italy-brings-together-friends-of-cohesion-for-talks-on-new-eu-budget_230a5b0f-2675-4e61-9596-9d1010d9df77.html",
-          "description": "(ANSA) - ROME, 15 OTT - Italy on Thursday hosted a working breakfast of the 17 countries of the 'Friends of Cohesion' group for talks on the upcoming 2028-2034 EU multi-annual budget before European summit in Brussels. A meeting of the so-called \"frugal\" group of countries featuring Germany, the Netherlands, Denmark, Austria, Sweden, Finland, and Belgium took place at the same time. Rome is working to create e 'Friends of Cohesion' platform in view of the decisive stages of the negotiations on the multi-annual budget, including opposition to new budget cuts and rebates, support for the CAP and",
-          "pubDate": "Thu, 15 Oct 2026 12:07:33 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Italy brings together 'Friends of Cohesion' for talks on new EU budget"
-        },
-        {
-          "title": "Ambassador Tommasi and ITA Dakar Meet with Senegalese Investors",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/15/ambassador-tommasi-and-ita-dakar-meet-with-senegalese-investors_1a9b4ec7-e022-499f-9999-6d0d3683bef5.html",
-          "description": "(ANSA) - ROMA, 15 OTT - The Italian Ambassador to Senegal, Michele Tommasi, accompanied by the Director of the Italian Trade Agency (ITA) in Dakar, Alessandro Gerbino, met with the President of the Senegalese Investors’ Club (CIS), Amadou Ly, and a delegation of its members at the club’s headquarters. The meeting provided an opportunity to gain a deeper understanding of the activities and strategic projects of the CIS—a key player in the development of Senegal’s private sector—and to explore new avenues for economic cooperation between the two countries. Particular attention was given to the p",
-          "pubDate": "Thu, 15 Oct 2026 11:55:55 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Ambassador Tommasi and ITA Dakar Meet with Senegalese Investors"
-        },
-        {
-          "title": "Confindustria Vicenza on a mission to India to create growth opportunities",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/15/confindustria-vicenza-on-a-mission-to-india-to-create-growth-opportunities_29164f1e-8bcb-4e31-8448-57080dc2cc07.html",
-          "description": "(ANSA) - ROMA, 15 OTT - A delegation from Confindustria Vicenza has officially arrived in India, welcomed by the Italian Ambassador to New Delhi, Antonio Bartoli, for a strategic mission to explore new horizons for business relations between Italy and India. The mission is visiting three of the country’s most dynamic economic hubs: New Delhi, Bangalore, and Mumbai. Representing one of Italy’s strongest manufacturing and industrial regions, the goal is clear: to build bridges, promote cross-border innovation, and create opportunities for mutual growth with Indian companies. In recent days, the ",
-          "pubDate": "Thu, 15 Oct 2026 10:43:19 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Confindustria Vicenza on a mission to India to create growth opportunities"
-        },
-        {
-          "title": "EU must choose envoy for peace in Ukraine says Tajani",
-          "link": "https://www.ansa.it/english/news/politics/2026/10/15/eu-must-choose-envoy-for-peace-in-ukraine-says-tajani_4ec52fe9-62e0-4de0-8b7b-b6dd0998791d.html",
-          "description": "(ANSA) - ROME, 15 OTT - The European Union must choose an envoy to represent it in talks seeking to bring an end to the Ukraine war, Deputy Premier and Foreign Minister Antonio Tajani said Thursday, adding that European Council President Antonio Costa could fit the bill. \"The important thing is that Europe has a spokesperson authorized to negotiate in the name of, and on behalf of, the entire Union (on Ukraine),\" Tajani told reporters on the sidelines of the EPP pre-summit meeting before the European Council in Brussels. \"Europe needs a spokesperson for everyone for it to carry more weight. Th",
-          "pubDate": "Thu, 15 Oct 2026 10:41:01 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "EU must choose envoy for peace in Ukraine says Tajani"
-        },
-        {
-          "title": "EU must choose envoy for peace in Ukraine says Tajani",
-          "link": "https://www.ansa.it/english/news/2026/10/15/eu-must-choose-envoy-for-peace-in-ukraine-says-tajani_4cd7d57a-be7a-4e7c-82e0-c3939fde0d4f.html",
-          "description": "(ANSA) - ROME, 15 OTT - The European Union must choose an envoy to represent it in talks seeking to bring an end to the Ukraine war, Deputy Premier and Foreign Minister Antonio Tajani said Thursday, adding that European Council President Antonio Costa could fit the bill. \"The important thing is that Europe has a spokesperson authorized to negotiate in the name of, and on behalf of, the entire Union (on Ukraine),\" Tajani told reporters on the sidelines of the EPP pre-summit meeting before the European Council in Brussels. \"Europe needs a spokesperson for everyone for it to carry more weight. Th",
-          "pubDate": "Thu, 15 Oct 2026 10:38:51 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "EU must choose envoy for peace in Ukraine says Tajani"
-        },
-        {
-          "title": "Eritrean forces suffer 'heavy losses' in Tigray, Ethiopian militia says",
-          "link": "http://www.africanews.com/2026/10/15/eritrean-forces-suffer-heavy-losses-in-tigray-ethiopian-militia-says/",
-          "description": "Eritrean troops in Tigray have suffered \"heavy losses\" and are retreating towards their border, according to a spokesperson for an Ethiopian pro-government militia.",
-          "pubDate": "Thu, 15 Oct 2026 08:25:56 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Eritrean forces suffer 'heavy losses' in Tigray, Ethiopian militia says"
-        },
-        {
-          "title": "Why Rwanda's deal for F1 race remains controversial",
-          "link": "https://www.bbc.co.uk/sport/formula1/articles/c61kdv3k9gm2o?at_medium=RSS&at_campaign=rss",
-          "description": "Formula 1 will return to Africa in the early 2030s, but Rwanda's deal to stage a race has prompted accusations of sportswashing against the country.",
-          "pubDate": "Wed, 14 Oct 2026 14:47:31 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Why Rwanda's deal for F1 race remains controversial"
-        },
-        {
-          "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
-          "link": "https://hornobserver.com/articles/3780/Somalia-national-intelligence-agency-abducts-journalist-reporting-on-security-tensions-in-Mogadishu",
-          "description": "At midday on Sunday, plainclothes NISA officers abducted journalist Khadar Abdirahim Ibrahim of Himilo Media in Mogadishu, according to his colleagues. Khadar was on his lunch break when NISA officers approached him at a restaurant near Himilo Media's offices in the Wadajir district of Mogadishu. A colleague who spoke to SJS said that was the last time they saw him. Earlier on Sunday morning, before Khadar's reported abduction, another Himilo Media journalist, Abdifatah Mohamed Hared, a cameraman, was stopped and slapped by NISA officers who had established a checkpoint on the road leading to ",
-          "pubDate": "Mon, 12 Oct 2026 16:34:06 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu"
-        },
-        {
-          "title": "Eritrean incursions raise fears of a wider regional war in Ethiopia",
-          "link": "https://www.thenewhumanitarian.org/analysis/2026/10/12/eritrean-incursions-raise-fears-wider-regional-war-ethiopia",
-          "description": "Three scenarios – all grim – on how the renewed conflict in Tigray could develop.",
-          "pubDate": "Mon, 12 Oct 26 09:44:39 +0000",
-          "source": "The New Humanitarian",
-          "lang": "en",
-          "titleIt": "Eritrean incursions raise fears of a wider regional war in Ethiopia"
-        },
-        {
-          "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
-          "link": "https://hornobserver.com/articles/3776/Somalia-Xawaadle-Elders-and-Al-Shabaab-Reportedly-Reach-Truce-in-Hiiraan",
-          "description": "A 16-point joint statement circulated by Al-Shabaab-affiliated media&nbsp; said the sides had resolved their disputes and agreed to maintain peace in areas controlled or influenced by the clan. The reported agreement includes a commitment by Hawadle elders not to allow the recruitment or operation of Macawiisley fighters in their areas or provide them with shelter. Macawiisley forces from Hiiraan have played a key role in supporting Somali government troops against Al-Shabaab. The meeting in Maxaas was attended by dozens of traditional elders, while Al-Shabaab was represented by senior figures",
-          "pubDate": "Tue, 06 Oct 2026 21:41:19 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan"
-        },
-        {
-          "title": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation",
-          "link": "https://hornobserver.com/articles/3775/Somalia-NISA-Says-Key-Al-Shabaab-Security-Chief-Killed-in-Jilib-Operation",
-          "description": "According to NISA, the operation was carried out by its forces with support from international partners that targeted Nunow who served as the head of Al-Shabaab's intelligence and security wing, known as the \"Amniyat,\" from 2016 to 2024. Nunow also used the aliases Geescadde, Fanax, Gardhuub and Ali Dheere. Somalia's NISA accused Nunow of playing a key role in planning and carrying out attacks targeting Somali civilians. Among the attacks NISA linked to him were the October 14, 2017, bombing at the Zoobe intersection in Mogadishu, the Ex-Control Afgooye attack, the second Zoobe attack, and oth",
-          "pubDate": "Tue, 06 Oct 2026 21:03:29 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation"
-        },
-        {
-          "title": "Press Release: President Isaias of Eritrea holds talks with Somali President",
-          "link": "https://hornobserver.com/articles/3774/Press-Release-President-Isaias-of-Eritrea-holds-talks-with-Somali-President",
-          "description": "The two Heads of State underlined the imperative of consolidating a conducive political climate that rejects external agendas of interference to safeguard and guarantee the territorial integrity, stability, and peace of Somalia and the unity of its people.&nbsp; President Isaias further remarked that federal governance architectures in Somalia and other countries in our region have often failed to meet the peoples' hopes and aspirations for unity and cohesion. Political frameworks that polarize socio-economic, religious, and ethnic differences to foment perennial crises and encourage foreign i",
-          "pubDate": "Tue, 06 Oct 2026 18:48:48 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Press Release: President Isaias of Eritrea holds talks with Somali President"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "Traditional Medicine Group Highlights Global Cooperation , Priorities",
+          "link": "https://www.miragenews.com/traditional-medicine-group-highlights-global-1761992/",
+          "source": "miragenews.com",
+          "pubDate": "2026-10-16T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Traditional Medicine Group Highlights Global Cooperation , Priorities"
+        },
+        {
+          "title": "Vance Invokes Indian - American Wife Usha in Attack on Democratic Senate Candidate in Michigan",
+          "link": "https://indianewengland.com/vance-invokes-indian-american-wife-usha-in-attack-on-democratic-senate-candidate-in-michigan/",
+          "source": "indianewengland.com",
+          "pubDate": "2026-10-16T16:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Vance Invokes Indian - American Wife Usha in Attack on Democratic Senate Candidate in Michigan"
+        },
+        {
+          "title": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor",
+          "link": "https://www.middleeastmonitor.com/20261016-why-ethiopia-and-eritreas-march-to-war-demands-global-attention/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-10-16T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor"
+        },
+        {
+          "title": "Foreign rivalries risk turning Somalia political crisis into a protracted war",
+          "link": "https://horseedmedia.net/foreign-rivalries-risk-turning-somalias-political-crisis-into-a-protracted-war/426543/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-10-16T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Foreign rivalries risk turning Somalia political crisis into a protracted war"
+        },
+        {
+          "title": "Deakin forges landmark partnerships with CII and LinkedIn to advance India future - ready workforce",
+          "link": "http://www.europesun.com/news/279379317/deakin-forges-landmark-partnerships-with-cii-and-linkedin-to-advance-india-future-ready-workforce",
+          "source": "europesun.com",
+          "pubDate": "2026-10-16T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Deakin forges landmark partnerships with CII and LinkedIn to advance India future - ready workforce"
+        },
+        {
+          "title": "Drone Strikes in the Black Sea Raise Fears of Russian Escalation to Test NATO Response",
+          "link": "https://www.military.com/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response",
+          "source": "military.com",
+          "pubDate": "2026-10-16T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Drone Strikes in the Black Sea Raise Fears of Russian Escalation to Test NATO Response"
+        },
+        {
+          "title": "NGX Group , Partners Advance Cross - Border Investment Collaboration Through Dangote Refinery Offer in Egypt , Ethiopia – THISDAYLIVE",
+          "link": "https://www.thisdaylive.com/2026/10/16/ngx-group-partners-advance-cross-border-investment-collaboration-through-dangote-refinery-offer-in-egypt-ethiopia/",
+          "source": "thisdaylive.com",
+          "pubDate": "2026-10-16T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "NGX Group , Partners Advance Cross - Border Investment Collaboration Through Dangote Refinery Offer in Egypt , Ethiopia – THISDAYLIVE"
+        },
+        {
+          "title": "Pyramids Half Marathon 2026 : Dates , Prices , Visitor Guide",
+          "link": "https://www.riotimesonline.com/pyramids-half-marathon-giza-december-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-16T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pyramids Half Marathon 2026 : Dates , Prices , Visitor Guide"
+        },
+        {
+          "title": "Egypt Security and Crime Explained 2026",
+          "link": "https://www.riotimesonline.com/egypt-security-crime-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-16T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Security and Crime Explained 2026"
+        },
+        {
+          "title": "Deakin forges landmark partnerships with CII and LinkedIn to advance India future - ready workforce",
+          "link": "http://www.greekherald.com/news/279379317/deakin-forges-landmark-partnerships-with-cii-and-linkedin-to-advance-india-future-ready-workforce",
+          "source": "greekherald.com",
+          "pubDate": "2026-10-16T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Deakin forges landmark partnerships with CII and LinkedIn to advance India future - ready workforce"
+        },
+        {
+          "title": "Deakin forges landmark partnerships with CII and LinkedIn to advance India future - ready workforce",
+          "link": "http://www.calcuttanews.net/news/279379317/deakin-forges-landmark-partnerships-with-cii-and-linkedin-to-advance-india-future-ready-workforce",
+          "source": "calcuttanews.net",
+          "pubDate": "2026-10-16T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Deakin forges landmark partnerships with CII and LinkedIn to advance India future - ready workforce"
+        },
+        {
+          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
+          "link": "https://www.timesfreepress.com/news/2026/oct/16/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/",
+          "source": "timesfreepress.com",
+          "pubDate": "2026-10-16T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
+        },
+        {
+          "title": "Green Hydrogen Cost in 2026 : Price per Kg , Electrolyzer CAPEX , India ₹279 Tender and Major Projects",
+          "link": "https://greentechlead.com/renewable-energy/green-hydrogen-cost-in-2026-price-per-kg-electrolyzer-capex-indias-%E2%82%B9279-tender-and-major-projects-55993",
+          "source": "greentechlead.com",
+          "pubDate": "2026-10-16T13:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Green Hydrogen Cost in 2026 : Price per Kg , Electrolyzer CAPEX , India ₹279 Tender and Major Projects"
+        },
         {
           "title": "Where Politics Happens - NAKED PUNCH",
           "link": "https://nakedpunch.com/where-politics-happens/",
@@ -533,129 +632,21 @@
           "lang": "en",
           "description": "",
           "titleIt": "Jonglei Canal could double or triple Egypt and Sudan annual water share : Former Minister"
-        },
-        {
-          "title": "Mohammed bin Salman faces most consequential test yet as Saudi Arabia comes under Houthi fire",
-          "link": "https://economictimes.indiatimes.com/news/international/world-news/crisis-in-saudi-arabia-mohammed-bin-salman-confronts-escalating-houthi-attacks-amidst-regional-chaos-yemen-mbs-donald-trump-riyadh-saudi-aramco/articleshow/134985115.cms",
-          "source": "economictimes.indiatimes.com",
-          "pubDate": "2026-10-16T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mohammed bin Salman faces most consequential test yet as Saudi Arabia comes under Houthi fire"
-        },
-        {
-          "title": "Vance , Rogers keep up attacks on El - Sayed during Monroe rally",
-          "link": "https://www.wnmufm.org/local-regional-news/2026-10-16/vance-rogers-keep-up-attacks-on-el-sayed-during-monroe-rally",
-          "source": "wnmufm.org",
-          "pubDate": "2026-10-16T10:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Vance , Rogers keep up attacks on El - Sayed during Monroe rally"
-        },
-        {
-          "title": "Mideast Stocks : Gulf stocks fall after Houthis threaten more attacks",
-          "link": "https://www.zawya.com/en/capital-markets/mideast-stocks-gulf-stocks-fall-after-houthis-threaten-more-attacks-1691157",
-          "source": "zawya.com",
-          "pubDate": "2026-10-16T10:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Mideast Stocks : Gulf stocks fall after Houthis threaten more attacks"
-        },
-        {
-          "title": "OSCE Brings Asian , Mediterranean Diplomats Together",
-          "link": "https://www.miragenews.com/osce-brings-asian-mediterranean-diplomats-1761806/",
-          "source": "miragenews.com",
-          "pubDate": "2026-10-16T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "OSCE Brings Asian , Mediterranean Diplomats Together"
-        },
-        {
-          "title": "World Monuments Watch 2027 Nominations Point to Government Austerity , Climate Impact and Skills Shortages as Main Threats to Heritage",
-          "link": "https://www.archdaily.com/1186995/world-monuments-watch-2027-nominations-point-to-government-austerity-climate-impact-and-skills-shortages-as-main-threats-to-heritage",
-          "source": "archdaily.com",
-          "pubDate": "2026-10-16T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "World Monuments Watch 2027 Nominations Point to Government Austerity , Climate Impact and Skills Shortages as Main Threats to Heritage"
-        },
-        {
-          "title": "Chinese open - source AI helps African innovators cut costs , develop local solutions -- China Economic Net",
-          "link": "http://en.ce.cn/main/latest/202610/t20261016_3260691.shtml",
-          "source": "en.ce.cn",
-          "pubDate": "2026-10-16T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Chinese open - source AI helps African innovators cut costs , develop local solutions -- China Economic Net"
-        },
-        {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.ksat.com/news/world/2026/10/16/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/",
-          "source": "ksat.com",
-          "pubDate": "2026-10-16T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
-        },
-        {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://krmg.com/2026/10/15/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/",
-          "source": "krmg.com",
-          "pubDate": "2026-10-16T08:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
-        },
-        {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.wral.com/news/ap/866f2-drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/",
-          "source": "wral.com",
-          "pubDate": "2026-10-16T08:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
-        },
-        {
-          "title": "What history tells us about the closure of vital waterways",
-          "link": "https://www.rte.ie/brainstorm/2026/1015/1595435-suez-canal-1956-strait-of-hormuz-2026-closures-superpowers-economics-geopolitical-influence/",
-          "source": "rte.ie",
-          "pubDate": "2026-10-16T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "What history tells us about the closure of vital waterways"
-        },
-        {
-          "title": "Pickalbatros Hotels Announce US$250M Morocco Deal",
-          "link": "https://www.riotimesonline.com/pickalbatros-hotels-us-250-million-morocco-financing-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-16T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pickalbatros Hotels Announce US$250M Morocco Deal"
-        },
-        {
-          "title": "Egypt Wins EU Listing to Sell Farmed Fish",
-          "link": "https://www.riotimesonline.com/egypt-eu-listing-farmed-fish-27-states-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-16T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Wins EU Listing to Sell Farmed Fish"
-        },
-        {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.thehindu.com/news/international/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/article71591367.ece",
-          "source": "thehindu.com",
-          "pubDate": "2026-10-16T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor",
+          "link": "https://www.middleeastmonitor.com/20261016-why-ethiopia-and-eritreas-march-to-war-demands-global-attention/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-10-16T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor"
+        },
         {
           "title": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia",
           "link": "https://allafrica.com/stories/202610160214.html",
@@ -826,15 +817,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Should Africa Get a United Nations Security Council ( UNSC ) Seat ? Why This Is Not a Good Idea"
-        },
-        {
-          "title": "Ethiopia Foretold War Arrives",
-          "link": "https://allafrica.com/stories/202609270104.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-09-27T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Foretold War Arrives"
         }
       ]
     }
