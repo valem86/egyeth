@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-10-17T07:00:33.962Z",
+  "generatedAt": "2026-10-17T12:13:34.130Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Difesa: Egitto, forze speciali simulano liberazione ostaggi con elicotteri italiani Agusta (2)",
+          "link": "https://www.agenzianova.com/a/0/7898922/2026-10-17/difesa-egitto-forze-speciali-simulano-liberazione-ostaggi-con-elicotteri-italiani-agusta-2",
+          "description": "17 ott 13:56 - (Agenzia Nova) - L'operazione e' iniziata con l'intervento di due caccia F-16 incaricati di mettere in sicurezza lo spazio aereo,... (Cae)",
+          "pubDate": "2026-10-17T13:56:07+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Difesa: Egitto, forze speciali simulano liberazione ostaggi con elicotteri italiani Agusta (2)"
+        },
+        {
+          "title": "Difesa: Egitto, forze speciali simulano liberazione ostaggi con elicotteri italiani Agusta",
+          "link": "https://www.agenzianova.com/a/0/7898921/2026-10-17/difesa-egitto-forze-speciali-simulano-liberazione-ostaggi-con-elicotteri-italiani-agusta",
+          "description": "17 ott 13:56 - (Agenzia Nova) - Le forze speciali egiziane hanno condotto oggi un'esercitazione antiterrorismo con l'impiego di elicotteri... (Cae)",
+          "pubDate": "2026-10-17T13:56:07+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Difesa: Egitto, forze speciali simulano liberazione ostaggi con elicotteri italiani Agusta"
+        },
         {
           "title": "Somalia announces parliamentary and presidential elections for 2027",
           "link": "http://www.africanews.com/2026/10/15/somalia-announces-parliamentary-and-presidential-elections-for-2027/",
@@ -341,6 +359,15 @@
           "titleIt": "US State Secretary calls for de-escalation by Ethiopia and Eritrea"
         },
         {
+          "title": "Eritrea: UK Threatens Visa Ban on Eritreans Over Deportation Dispute",
+          "link": "https://allafrica.com/stories/202610160094.html",
+          "description": "[allAfrica] UK Home Secretary Shabana Mahmood has threatened to ban all Eritrean nationals from entering the UK unless the East African country agrees to accept more of its citizens facing deportation, including foreign national offenders.",
+          "pubDate": "Fri, 16 Oct 2026 06:29:10 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Eritrea: UK Threatens Visa Ban on Eritreans Over Deportation Dispute"
+        },
+        {
           "title": "Kenya hikes fuel prices amid higher import costs linked to Middle East conflict",
           "link": "http://www.africanews.com/2026/10/15/kenya-hikes-fuel-prices-amid-higher-import-costs-linked-to-middle-east-conflict/",
           "description": "Rising fuel prices are having a negative impact on household budgets and sectors including transport, agriculture, and construction.",
@@ -366,6 +393,15 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu"
+        },
+        {
+          "title": "Lesotho: ALSF And The Kingdom Of Lesotho Sign Strategic Partnership Agreement To Strengthen Legal And Technical Support",
+          "link": "https://allafrica.com/stories/202610120245.html",
+          "description": "[InfoWire] The African Legal Support Facility (''ALSF'') and the Kingdom of Lesotho signed a Strategic Partnership Agreement (''SPA'') on 21 September 2026, providing a structured framework for ALSF's future legal and technical assistance to the Government of Lesotho.",
+          "pubDate": "Mon, 12 Oct 2026 10:30:24 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Lesotho: ALSF And The Kingdom Of Lesotho Sign Strategic Partnership Agreement To Strengthen Legal And Technical Support"
         },
         {
           "title": "Eritrean incursions raise fears of a wider regional war in Ethiopia",
@@ -434,192 +470,29 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Opinion : Where did New Mexico film productions go ?",
-          "link": "https://www.abqjournal.com/opinion/opinion-where-have-all-the-movie-stars-gone/3143212",
-          "source": "abqjournal.com",
-          "pubDate": "2026-10-17T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Opinion : Where did New Mexico film productions go ?"
-        },
-        {
-          "title": "African Startup Funding Rebounds in Q3",
-          "link": "https://www.africa.com/top-10-news/african-startup-funding-rebounds-in-q3",
-          "source": "africa.com",
-          "pubDate": "2026-10-17T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African Startup Funding Rebounds in Q3"
-        },
-        {
-          "title": "Where UAE Travellers Go Next , and Why",
-          "link": "https://www.dubaichronicle.com/2026/10/17/where-uae-travellers-go-next-and-why/",
-          "source": "dubaichronicle.com",
-          "pubDate": "2026-10-17T05:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Where UAE Travellers Go Next , and Why"
-        },
-        {
-          "title": "Returning to Gaza after 2 Years",
-          "link": "https://www.juancole.com/2026/10/returning-after-years.html",
-          "source": "juancole.com",
-          "pubDate": "2026-10-17T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Returning to Gaza after 2 Years"
-        },
-        {
-          "title": "Veeza AI Wants to Make Global Mobility Easier for the Global South",
-          "link": "https://cairoscene.com/Business/Veeza-AI-Wants-to-Make-Global-Mobility-Easier-for-the-Global-South",
-          "source": "cairoscene.com",
-          "pubDate": "2026-10-17T04:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Veeza AI Wants to Make Global Mobility Easier for the Global South"
-        },
-        {
-          "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.ksl.com:443/article/51637090/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response",
-          "source": "ksl.com",
-          "pubDate": "2026-10-17T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
-        },
-        {
-          "title": "Bahrain News : Role of financial institutions in development highlighted",
-          "link": "https://www.gdnonline.com:443/Details/1409960",
-          "source": "gdnonline.com",
-          "pubDate": "2026-10-17T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Bahrain News : Role of financial institutions in development highlighted"
-        },
-        {
-          "title": "Arab News | Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response",
-          "link": "https://www.arabnews.com/world/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response-3006791",
-          "source": "arabnews.com",
-          "pubDate": "2026-10-17T00:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | Drone strikes in the Black Sea raise fears of Russian escalation to test NATO response"
-        },
-        {
-          "title": "How Agility and Innovation Drive the Global Success of Chinese Manufacturing",
-          "link": "https://www.alwihdainfo.com/how-agility-and-innovation-drive-the-global-success-of-chinese-manufacturing/",
-          "source": "alwihdainfo.com",
-          "pubDate": "2026-10-16T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How Agility and Innovation Drive the Global Success of Chinese Manufacturing"
-        },
-        {
-          "title": "Heissatopia : Mega Hymn Book ( and talking in church )",
-          "link": "https://www.heissatopia.com/2026/10/mega-hymn-book-and-talking-in-church.html",
-          "source": "heissatopia.com",
-          "pubDate": "2026-10-16T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Heissatopia : Mega Hymn Book ( and talking in church )"
-        },
-        {
-          "title": "AOC transfers $1m to Michigan candidate El - Sayed in progressive push",
-          "link": "https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push",
-          "source": "aljazeera.com",
-          "pubDate": "2026-10-16T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "AOC transfers $1m to Michigan candidate El - Sayed in progressive push"
-        },
-        {
-          "title": "Deakin forges landmark partnerships with CII and LinkedIn to advance India future - ready workforce",
-          "link": "http://www.australianherald.com/news/279379317/deakin-forges-landmark-partnerships-with-cii-and-linkedin-to-advance-india-future-ready-workforce",
-          "source": "australianherald.com",
-          "pubDate": "2026-10-16T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Deakin forges landmark partnerships with CII and LinkedIn to advance India future - ready workforce"
-        },
-        {
-          "title": "Abdul El - Sayed Sister Wrote a Book Fantasizing About the  Final Intifada  Inspired by October 7",
-          "link": "https://townhall.com/news/amy-curtis/2026/10/16/abdul-el-sayeds-sister-final-intifada-n2684800",
-          "source": "townhall.com",
-          "pubDate": "2026-10-16T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Abdul El - Sayed Sister Wrote a Book Fantasizing About the  Final Intifada  Inspired by October 7"
-        },
-        {
-          "title": "Deakin forges landmark partnerships with CII and LinkedIn to advance India future - ready workforce",
-          "link": "https://www.business-standard.com/content/press-releases-ani/deakin-forges-landmark-partnerships-with-cii-and-linkedin-to-advance-india-s-future-ready-workforce-126101700003_1.html",
-          "source": "business-standard.com",
-          "pubDate": "2026-10-16T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Deakin forges landmark partnerships with CII and LinkedIn to advance India future - ready workforce"
-        },
-        {
-          "title": "Ritmo Latino : Shakira Sets All - Time Touring Record",
-          "link": "https://news.pollstar.com/2026/10/16/ritmo-latino-shakira-sets-all-time-touring-record/",
-          "source": "news.pollstar.com",
-          "pubDate": "2026-10-16T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ritmo Latino : Shakira Sets All - Time Touring Record"
-        },
-        {
-          "title": "Summers Leans Toward B . C . Classic for Napoleon Solo",
-          "link": "https://www.bloodhorse.com/horse-racing/articles/295314/summers-leans-toward-b-c-classic-for-napoleon-solo",
-          "source": "bloodhorse.com",
-          "pubDate": "2026-10-16T21:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Summers Leans Toward B . C . Classic for Napoleon Solo"
-        },
-        {
-          "title": "Abdul El - Sayed Sister Wrote a Book Fantasizing About the  Final Intifada  Inspired by October 7",
-          "link": "https://wcbm.com/national-headline/abdul-el-sayeds-sister-wrote-a-book-fantasizing-about-the-final-intifada-inspired-by-october-7/",
-          "source": "wcbm.com",
-          "pubDate": "2026-10-16T21:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Abdul El - Sayed Sister Wrote a Book Fantasizing About the  Final Intifada  Inspired by October 7"
-        },
-        {
-          "title": "Indeed , God does not alter the affairs of a people until they alter their own affairs .",
-          "link": "https://dailythepatriot.com/indeed-god-does-not-alter-the-affairs-of-a-people-until-they-alter-their-own-affairs/",
-          "source": "dailythepatriot.com",
-          "pubDate": "2026-10-16T21:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Indeed , God does not alter the affairs of a people until they alter their own affairs ."
-        },
-        {
-          "title": "Arab News | CNN brings Global Perspectives to Doha to explore the  invisible world  shaping the Gulf",
-          "link": "https://www.arabnews.com/media/cnn-brings-global-perspectives-to-doha-to-explore-the-invisible-world-shaping-the-gulf-3006747",
-          "source": "arabnews.com",
-          "pubDate": "2026-10-16T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | CNN brings Global Perspectives to Doha to explore the  invisible world  shaping the Gulf"
-        },
-        {
-          "title": "How Paystack changed since Stripe bought it six years ago",
-          "link": "https://techcabal.com/2026/10/16/paystack-six-years-after-stripe/",
-          "source": "techcabal.com",
-          "pubDate": "2026-10-16T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "How Paystack changed since Stripe bought it six years ago"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor",
+          "link": "https://www.middleeastmonitor.com/20261016-why-ethiopia-and-eritreas-march-to-war-demands-global-attention/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-10-16T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor"
+        },
+        {
+          "title": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia",
+          "link": "https://allafrica.com/stories/202610160214.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-16T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia"
+        },
         {
           "title": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability",
           "link": "https://hornobserver.com/articles/3782/Opinion-The-Horn-of-Africa-Deserves-Peace-Not-Crisis-and-Instability",
@@ -630,6 +503,15 @@
           "titleIt": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability"
         },
         {
+          "title": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift",
+          "link": "https://www.thereporterethiopia.com/53223/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-06T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift"
+        },
+        {
           "title": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver",
           "link": "https://hornobserver.com/articles/3771/Sudan-WFP-Strongly-Condemns-Attack-On-Trucks-In-South-Kordofan-Killing-One-Driver",
           "description": "One driver was killed in the air strike. We extend our deepest condolences to his family, friends and colleagues. The contracted trucks were en route from Dilling to Kadugli and clearly marked as humanitarian vehicles. Additional details regarding the circumstances of the incident, including the extent of the damage to the food cargo, are still being collected. WFP calls for a prompt and impartial investigation into this incident and for those responsible for any violations to be held accountable. This latest attack comes only one day after a WFP truck struck an explosive device in Dilling, So",
@@ -637,6 +519,141 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver"
+        },
+        {
+          "title": "African Union urges restraint as Ethiopia , Eritrea and Egypt edge toward confrontation",
+          "link": "https://kenya-today.com/report-african-union-urges-restraint-as-ethiopia-eritrea-and-egypt-edge-toward-confrontation-5769/",
+          "source": "kenya-today.com",
+          "pubDate": "2026-10-02T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African Union urges restraint as Ethiopia , Eritrea and Egypt edge toward confrontation"
+        },
+        {
+          "title": "Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly  Obstructed By Egypt",
+          "link": "https://allafrica.com/stories/202610020077.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-02T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly  Obstructed By Egypt"
+        },
+        {
+          "title": "Ethiopia expels Egyptian diplomat as regional tensions escalate",
+          "link": "https://www.radiotamazuj.org/en/news/article/ethiopia-expels-egyptian-diplomat-as-regional-tensions-escalate",
+          "source": "radiotamazuj.org",
+          "pubDate": "2026-10-01T23:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia expels Egyptian diplomat as regional tensions escalate"
+        },
+        {
+          "title": "Ethiopia : Beyond GERD - Ethiopia Next Move On the Nile",
+          "link": "https://allafrica.com/stories/202610010633.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-01T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Beyond GERD - Ethiopia Next Move On the Nile"
+        },
+        {
+          "title": "Ethiopia claims over 22 development projects blocked by external opposition , citing collected evidence",
+          "link": "https://capitalethiopia.com/2026/10/01/ethiopia-claims-over-22-development-projects-blocked-by-external-opposition-citing-collected-evidence/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-10-01T22:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia claims over 22 development projects blocked by external opposition , citing collected evidence"
+        },
+        {
+          "title": "Egypt seeks greater share of Nile water amid rising tension with Ethiopia",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/30/egypt-seeks-greater-share-of-nile-water-amid-rising-tension-with-ethiopia/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-09-30T14:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt seeks greater share of Nile water amid rising tension with Ethiopia"
+        },
+        {
+          "title": "Beyond the Red Sea : Ethiopian - Eritrean Conflict Risks Converging With Yemen Crisis",
+          "link": "https://themedialine.org/top-stories/beyond-the-red-sea-ethiopian-eritrean-conflict-risks-converging-with-yemen-crisis/",
+          "source": "themedialine.org",
+          "pubDate": "2026-09-30T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Beyond the Red Sea : Ethiopian - Eritrean Conflict Risks Converging With Yemen Crisis"
+        },
+        {
+          "title": "African leaders to gather in Egypt for business summit",
+          "link": "https://www.al-monitor.com/originals/2026/09/african-leaders-gather-egypt-business-summit",
+          "source": "al-monitor.com",
+          "pubDate": "2026-09-29T14:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African leaders to gather in Egypt for business summit"
+        },
+        {
+          "title": "Ethiopia reaffirms support for boosting integration in Horn of Africa",
+          "link": "https://www.plenglish.com/news/2026/09/29/ethiopia-reaffirms-support-for-boosting-integration-in-horn-of-africa/",
+          "source": "plenglish.com",
+          "pubDate": "2026-09-29T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia reaffirms support for boosting integration in Horn of Africa"
+        },
+        {
+          "title": "Egypt Denies Backing Rebel Forces After Ethiopian General Allegation",
+          "link": "https://egyptianstreets.com/2026/09/29/egypt-denies-backing-rebel-forces-after-ethiopian-generals-allegation/",
+          "source": "egyptianstreets.com",
+          "pubDate": "2026-09-29T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Denies Backing Rebel Forces After Ethiopian General Allegation"
+        },
+        {
+          "title": "African leaders to meet in Egypt for business summit",
+          "link": "https://punchng.com/african-leaders-to-meet-in-egypt-for-business-summit/",
+          "source": "punchng.com",
+          "pubDate": "2026-09-29T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "African leaders to meet in Egypt for business summit"
+        },
+        {
+          "title": "Cairo denies Ethiopian army chief accusations of supporting opposition armed groups – Middle East Monitor",
+          "link": "https://www.middleeastmonitor.com/20260929-cairo-denies-ethiopian-army-chiefs-accusations-of-supporting-opposition-armed-groups/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-09-29T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Cairo denies Ethiopian army chief accusations of supporting opposition armed groups – Middle East Monitor"
+        },
+        {
+          "title": "Eritrea proxy war against Ethiopia - Israel & Jewish News",
+          "link": "https://www.jns.org/opinion/habtom-ghebrezghiabher/eritreas-proxy-war-against-ethiopia",
+          "source": "jns.org",
+          "pubDate": "2026-09-29T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Eritrea proxy war against Ethiopia - Israel & Jewish News"
+        },
+        {
+          "title": "Sudan rejects Ethiopian accusation of backing armed groups",
+          "link": "https://www.radiotamazuj.org/en/news/article/sudan-rejects-ethiopian-accusation-of-backing-armed-groups",
+          "source": "radiotamazuj.org",
+          "pubDate": "2026-09-28T04:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan rejects Ethiopian accusation of backing armed groups"
+        },
+        {
+          "title": "Should Africa Get a United Nations Security Council ( UNSC ) Seat ? Why This Is Not a Good Idea",
+          "link": "https://wardheernews.com/should-africa-get-a-united-nations-security-council-unsc-seat-why-this-is-not-a-good-idea/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-09-28T01:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Should Africa Get a United Nations Security Council ( UNSC ) Seat ? Why This Is Not a Good Idea"
         }
       ]
     }
