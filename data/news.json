@@ -1,28 +1,19 @@
 {
-  "generatedAt": "2026-10-19T04:48:17.303Z",
-  "feedsChecked": 10,
+  "generatedAt": "2026-10-19T13:25:13.614Z",
+  "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
-          "title": "Sudan: Performing Refugeehood - How Will Sudanese Navigate Egypt's Incoming Asylum System?",
-          "link": "https://allafrica.com/stories/202610190016.html",
-          "description": "[Dabanga] Egypt has slowly whittled down its commitments to the 1951 Refugee Convention. And now we wait for the final nail in the coffin: the implementation of Asylum Law No. 164, which gives the government the authority to decide who will be protected from violence and deportation.",
-          "pubDate": "Mon, 19 Oct 2026 03:39:42 GMT",
-          "source": "AllAfrica",
+          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
+          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
+          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
+          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "titleIt": "Sudan: Performing Refugeehood - How Will Sudanese Navigate Egypt's Incoming Asylum System?"
-        },
-        {
-          "title": "Arabia Saudita: \"Wsj\", gli attacchi degli Houthi mettono in luce i limiti delle forze armate (2)",
-          "link": "https://www.agenzianova.com/a/0/7901821/2026-10-19/arabia-saudita-wsj-gli-attacchi-degli-houthi-mettono-in-luce-i-limiti-delle-forze-armate-2",
-          "description": "19 ott 05:38 - (Agenzia Nova) - Riad sta cercando sostegno militare da Turchia, Pakistan e diversi Paesi europei. Il governo dell'Egitto ha... (Was)",
-          "pubDate": "2026-10-19T05:38:40+02:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Arabia Saudita: \"Wsj\", gli attacchi degli Houthi mettono in luce i limiti delle forze armate (2)"
+          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
         },
         {
           "title": "Somalia Opposition leaders reject 2027 election timetable",
@@ -138,31 +129,58 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Africa: Africa's Pooled Procurement Mechanism Seeks to Lower Medical Product Costs",
-          "link": "https://allafrica.com/stories/202610190014.html",
-          "description": "[Africa CDC] Addis Ababa, Ethiopia, 15 October 2026 - The African Pooled Procurement Mechanism (APPM) has moved from its pilot phase to a fully-fledged continental programme, with eight African Union Member States having signed the Memorandum of Understanding (MoU) to participate in the initiative.",
-          "pubDate": "Mon, 19 Oct 2026 03:39:41 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: Africa's Pooled Procurement Mechanism Seeks to Lower Medical Product Costs"
+          "title": "Mali: ribelli tuareg cercano appoggi da Haftar ed Emirati, timori in Algeria (3)",
+          "link": "https://www.agenzianova.com/a/0/7904724/2026-10-19/mali-ribelli-tuareg-cercano-appoggi-da-haftar-ed-emirati-timori-in-algeria-3",
+          "description": "19 ott 15:08 - (Agenzia Nova) - I rapporti tra il movimento tuareg e Saddam Haftar si sarebbero rafforzati dopo la liberazione, lo scorso agosto,... (Ala)",
+          "pubDate": "2026-10-19T15:08:29+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Mali: ribelli tuareg cercano appoggi da Haftar ed Emirati, timori in Algeria (3)"
         },
         {
-          "title": "Kenya: Three Years On From Kenya's Shakahola Cult Murders, Families Still Seek Closure",
-          "link": "https://allafrica.com/stories/202610190013.html",
-          "description": "[RFI] A court in Mombasa, Kenya, will on Monday deliver a long-awaited verdict in the Shakahola sect murder trial. Paul Nthenge Mackenzie, a self-proclaimed pastor, is accused of forcing church members, including children, to starve themselves to death in order to meet Jesus. Three years after the tragedy, families of the victims are hoping for closure so they can finally mourn their loved ones.",
-          "pubDate": "Mon, 19 Oct 2026 03:39:40 GMT",
-          "source": "AllAfrica",
+          "title": "Kenya on high alert as Ebola outbreak in DR Congo fuels border fears",
+          "link": "http://www.africanews.com/2026/10/16/kenya-on-high-alert-as-ebola-outbreak-in-dr-congo-fuels-border-fears/",
+          "description": "Kenya is on high alert as it races to contain Ebola! Linked to a deadly outbreak in the DRC, the virus has reportedly claimed one life in Kenya, with two cases recorded. At the Ugandan border, screenings are intensifying, with travelers undergoing temperature checks and handwashing measures.",
+          "pubDate": "Mon, 19 Oct 2026 11:14:28 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "titleIt": "Kenya: Three Years On From Kenya's Shakahola Cult Murders, Families Still Seek Closure"
+          "titleIt": "Kenya on high alert as Ebola outbreak in DR Congo fuels border fears"
         },
         {
-          "title": "Africa: Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
-          "link": "https://allafrica.com/stories/202610190009.html",
-          "description": "[Africa CDC] Addis Ababa, Ethiopia, 17 October 2026",
-          "pubDate": "Mon, 19 Oct 2026 03:39:37 GMT",
-          "source": "AllAfrica",
+          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
+          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
+          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
+          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "titleIt": "Africa: Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases"
+          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
+        },
+        {
+          "title": "The Region Real Picture , Without AI Beautification",
+          "link": "https://english.aawsat.com/opinion/5330701-region%E2%80%99s-real-picture-without-ai-beautification",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-10-18T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Region Real Picture , Without AI Beautification"
+        },
+        {
+          "title": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor",
+          "link": "https://www.middleeastmonitor.com/20261016-why-ethiopia-and-eritreas-march-to-war-demands-global-attention/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-10-16T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor"
+        },
+        {
+          "title": "Foreign rivalries risk turning Somalia political crisis into a protracted war",
+          "link": "https://horseedmedia.net/foreign-rivalries-risk-turning-somalias-political-crisis-into-a-protracted-war/426543/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-10-16T16:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Foreign rivalries risk turning Somalia political crisis into a protracted war"
         },
         {
           "title": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet",
@@ -174,13 +192,13 @@
           "titleIt": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet"
         },
         {
-          "title": "Kenya on high alert as Ebola outbreak in DR Congo fuels border fears",
-          "link": "http://www.africanews.com/2026/10/16/kenya-on-high-alert-as-ebola-outbreak-in-dr-congo-fuels-border-fears/",
-          "description": "Kenya is on high alert as it races to contain Ebola! Linked to a deadly outbreak in the DRC, the virus has reportedly claimed one life in Kenya, with two cases recorded. At the Ugandan border, screenings are intensifying, with travelers undergoing temperature checks and handwashing measures.",
-          "pubDate": "Fri, 16 Oct 2026 13:51:54 +0000",
-          "source": "Africanews",
+          "title": "Djibouti : a key player in migration governance - New African Magazine",
+          "link": "https://newafricanmagazine.com/politics/djibouti-a-key-player-in-migration-governance/",
+          "source": "newafricanmagazine.com",
+          "pubDate": "2026-10-16T14:45:00Z",
           "lang": "en",
-          "titleIt": "Kenya on high alert as Ebola outbreak in DR Congo fuels border fears"
+          "description": "",
+          "titleIt": "Djibouti : a key player in migration governance - New African Magazine"
         },
         {
           "title": "US State Secretary calls for de-escalation by Ethiopia and Eritrea",
@@ -190,6 +208,69 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "US State Secretary calls for de-escalation by Ethiopia and Eritrea"
+        },
+        {
+          "title": "Ethiopia : Can Ethiopia Ever Be At Peace ? Four Reasons Conflict Keeps Flaring Up",
+          "link": "https://allafrica.com/stories/202610160007.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-16T08:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Can Ethiopia Ever Be At Peace ? Four Reasons Conflict Keeps Flaring Up"
+        },
+        {
+          "title": "Somalia : Somaliland President Rejects Interference Threatening Ethiopia Security",
+          "link": "https://allafrica.com/stories/202610160020.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-16T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland President Rejects Interference Threatening Ethiopia Security"
+        },
+        {
+          "title": "Somalia : Somaliland President Returns , Thanks Trump for Remarks",
+          "link": "https://allafrica.com/stories/202610160021.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-16T08:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland President Returns , Thanks Trump for Remarks"
+        },
+        {
+          "title": "Somalia says it will hold elections in 2027",
+          "link": "https://www.aljazeera.com/news/2026/10/15/somalia-says-it-will-hold-elections-in-2027",
+          "source": "aljazeera.com",
+          "pubDate": "2026-10-15T21:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia says it will hold elections in 2027"
+        },
+        {
+          "title": "Somalia says it will hold elections in 2027 - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/somalia-says-it-will-hold-elections-in-2027/",
+          "source": "dominicanrepublicpost.com",
+          "pubDate": "2026-10-15T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia says it will hold elections in 2027 - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
+        },
+        {
+          "title": "Somaliland Supporters Rally in Hargeisa After Trump Comments",
+          "link": "https://horseedmedia.net/somaliland-supporters-rally-in-hargeisa-after-trump-comments/426516/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-10-15T21:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland Supporters Rally in Hargeisa After Trump Comments"
+        },
+        {
+          "title": "Hundreds celebrate in Somaliland capital after Trump comments",
+          "link": "https://www.africanews.com/2026/10/15/hundreds-celebrate-in-somalilands-capital-after-trump-comments/",
+          "source": "africanews.com",
+          "pubDate": "2026-10-15T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Hundreds celebrate in Somaliland capital after Trump comments"
         },
         {
           "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
@@ -226,33 +307,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan"
-        },
-        {
-          "title": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation",
-          "link": "https://hornobserver.com/articles/3775/Somalia-NISA-Says-Key-Al-Shabaab-Security-Chief-Killed-in-Jilib-Operation",
-          "description": "According to NISA, the operation was carried out by its forces with support from international partners that targeted Nunow who served as the head of Al-Shabaab's intelligence and security wing, known as the \"Amniyat,\" from 2016 to 2024. Nunow also used the aliases Geescadde, Fanax, Gardhuub and Ali Dheere. Somalia's NISA accused Nunow of playing a key role in planning and carrying out attacks targeting Somali civilians. Among the attacks NISA linked to him were the October 14, 2017, bombing at the Zoobe intersection in Mogadishu, the Ex-Control Afgooye attack, the second Zoobe attack, and oth",
-          "pubDate": "Tue, 06 Oct 2026 21:03:29 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation"
-        },
-        {
-          "title": "Ebola Crosses Border Into Kenya as First Imported Bundibugyo Case Confirmed",
-          "link": "https://hornobserver.com/articles/3773/Ebola-Crosses-Border-Into-Kenya-as-First-Imported-Bundibugyo-Case-Confirmed",
-          "description": "The man became ill about a month ago while in Congo, where he was treated at several hospitals before traveling by road to Kampala, Uganda. He then boarded a Jambojet flight to Nairobi, arriving at Jomo Kenyatta International Airport on Oct. 3. He was taken directly to Nairobi Hospital and isolated, according to the ministry. The patient had symptoms including fever, chills, severe fatigue, muscle pain, painful swallowing, a sore throat and bleeding beneath the skin. Tests at Kenya's National Virology Reference Laboratory and the Kenya Medical Research Institute confirmed Bundibugyo Ebola viru",
-          "pubDate": "Tue, 06 Oct 2026 17:19:18 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Ebola Crosses Border Into Kenya as First Imported Bundibugyo Case Confirmed"
-        },
-        {
-          "title": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland",
-          "link": "https://hornobserver.com/articles/3770/Journalists-face-arrests-and-alleged-assaults-while-covering-evictions-in-Somalia-and-Somaliland",
-          "description": "The Somali Journalists Syndicate (SJS) says it has documented 13 arbitrary arrests of journalists in Mogadishu since Jan. 1, 2026, while 10 journalists have been arrested in Somaliland during the same period. Many of the cases involved reporters covering protests, forced evictions or criticism of government officials. In the latest incident, two journalists working for Somaliland-based Eryal TV said they were physically assaulted by Somali police and National Intelligence and Security Agency officers on Sept. 29 while reporting on forced evictions in Mogadishu's Yaqshiid district. Journalist M",
-          "pubDate": "Fri, 02 Oct 2026 23:26:00 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland"
         }
       ]
     },
@@ -260,148 +314,184 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Africa: Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
-          "link": "https://allafrica.com/stories/202610190009.html",
-          "description": "[Africa CDC] Addis Ababa, Ethiopia, 17 October 2026",
-          "pubDate": "Mon, 19 Oct 2026 03:39:37 GMT",
-          "source": "AllAfrica",
+          "title": "Sun Peak Closes Non - Brokered Private Placement",
+          "link": "http://www.torontotelegraph.com/news/279384682/sun-peak-closes-non-brokered-private-placement",
+          "source": "torontotelegraph.com",
+          "pubDate": "2026-10-19T12:45:00Z",
           "lang": "en",
-          "titleIt": "Africa: Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases"
+          "description": "",
+          "titleIt": "Sun Peak Closes Non - Brokered Private Placement"
         },
         {
-          "title": "Ethiopian gains in Tigray risk wider war with Eritrea, analyst warns",
-          "link": "http://www.africanews.com/2026/10/16/ethiopian-gains-in-tigray-risk-wider-war-with-eritrea-analyst-warns/",
-          "description": "Ethiopia’s military advances in northern Tigray do not spell an end to the conflict but have the potential to increase the risk of war with neighboring Eritrea, an analyst with knowledge of the region has warned",
-          "pubDate": "Fri, 16 Oct 2026 15:47:43 +0000",
-          "source": "Africanews",
+          "title": "Does Africa need a seat at the UN Security Council , or a change in how power is exercised ?,  By Babafemi A . Badejo",
+          "link": "https://www.premiumtimesng.com/opinion/917991-does-africa-need-a-seat-at-the-un-security-council-or-a-change-in-how-power-is-exercised-by-babafemi-a-badejo.html",
+          "source": "premiumtimesng.com",
+          "pubDate": "2026-10-19T12:30:00Z",
           "lang": "en",
-          "titleIt": "Ethiopian gains in Tigray risk wider war with Eritrea, analyst warns"
+          "description": "",
+          "titleIt": "Does Africa need a seat at the UN Security Council , or a change in how power is exercised ?,  By Babafemi A . Badejo"
         },
         {
-          "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
-          "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
-          "description": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
-          "pubDate": "Fri, 16 Oct 2026 15:45:10 GMT",
-          "source": "BBC World",
+          "title": "LatAm and Africa Prediction Markets , Week of 19 Oct",
+          "link": "https://www.riotimesonline.com/latam-africa-prediction-markets-week-of-19-oct-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-19T11:15:00Z",
           "lang": "en",
-          "titleIt": "Watch: Will Ukraine get the support needed as tensions with US rise?"
+          "description": "",
+          "titleIt": "LatAm and Africa Prediction Markets , Week of 19 Oct"
         },
         {
-          "title": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet",
-          "link": "https://www.thenewhumanitarian.org/news/2026/10/16/ethiopia-eritrea-war-fears-gaza-base-blocked-kabila-new-coalition-cheat-sheet",
-          "description": "A weekly read to keep you in the loop on humanitarian issues.",
-          "pubDate": "Fri, 16 Oct 26 14:59:14 +0000",
-          "source": "The New Humanitarian",
+          "title": "DR Congo Continent Role : Weight , Blocs , Alliances",
+          "link": "https://www.riotimesonline.com/dr-congo-role-in-africa-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-19T11:15:00Z",
           "lang": "en",
-          "titleIt": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet"
+          "description": "",
+          "titleIt": "DR Congo Continent Role : Weight , Blocs , Alliances"
         },
         {
-          "title": "Moscow accuses Rome of failing to oppose 'Russophobic' policies",
-          "link": "https://www.ansa.it/english/news/politics/2026/10/16/moscow-accuses-rome-of-failing-to-oppose-russophobic-policies_2a647b32-1eae-4db7-8ac1-de44bbdf1a09.html",
-          "description": "(ANSA) - ROME, 16 OTT - Russian Foreign Ministry Spokeswoman Maria Zakharova on Friday accused Italy of failing to take a stand against the 'Russophobic' policies that its Western allies want. Rome has staunchly supported Ukraine since Russia invaded its neighbour in 2022 and this week Premier Giorgia Meloni criticised the US-Russian diesel deal, saying it was risky and legitimised Moscow. \"Rome officially lacks the political will to act in the interests of its citizens and does not dare to oppose the demands of its masters in Brussels and other capitals to take Russophobic actions that run co",
-          "pubDate": "Fri, 16 Oct 2026 15:16:26 +0200",
-          "source": "ANSA English",
+          "title": "Algeria Continent Role : Weight and Alliances in Africa",
+          "link": "https://www.riotimesonline.com/algeria-role-in-africa-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-19T11:15:00Z",
           "lang": "en",
-          "titleIt": "Moscow accuses Rome of failing to oppose 'Russophobic' policies"
+          "description": "",
+          "titleIt": "Algeria Continent Role : Weight and Alliances in Africa"
         },
         {
-          "title": "Moscow accuses Rome of failing to oppose 'Russophobic' policies",
-          "link": "https://www.ansa.it/english/news/2026/10/16/moscow-accuses-rome-of-failing-to-oppose-russophobic-policies_5930cda9-a98e-4800-be1e-2d932d12099b.html",
-          "description": "(ANSA) - ROME, 16 OTT - Russian Foreign Ministry Spokeswoman Maria Zakharova on Friday accused Italy of failing to take a stand against the 'Russophobic' policies that its Western allies want. Rome has staunchly supported Ukraine since Russia invaded its neighbour in 2022 and this week Premier Giorgia Meloni criticised the US-Russian diesel deal, saying it was risky and legitimised Moscow. \"Rome officially lacks the political will to act in the interests of its citizens and does not dare to oppose the demands of its masters in Brussels and other capitals to take Russophobic actions that run co",
-          "pubDate": "Fri, 16 Oct 2026 15:13:24 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Moscow accuses Rome of failing to oppose 'Russophobic' policies"
-        },
-        {
-          "title": "The Region of Tuscany renews its agreement with the Italian Consulate in San Francisco and Innovit",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/16/the-region-of-tuscany-renews-its-agreement-with-the-italian-consulate_d1fec1e2-e6eb-44c6-a2e1-6908413e9d3c.html",
-          "description": "(ANSA) - ROMA, 16 OTT - The Region of Tuscany has renewed its collaboration agreement with the Consulate General of Italy in San Francisco and Innovit, which connects Silicon Valley’s resources with the opportunities offered by Italian companies. The agreement—signed four years after the previous one—was signed by Consul General Massimo Carnelos, Regional Councilor for Productive Activities Leonardo Marras, and Vice President of the Regional Council Antonio Mazzeo. For the fourth consecutive year, Innovit and the consulate hosted “Casa Toscana”: a week of in-depth discussions and networking op",
-          "pubDate": "Fri, 16 Oct 2026 13:47:05 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "The Region of Tuscany renews its agreement with the Italian Consulate in San Francisco and Innovit"
-        },
-        {
-          "title": "US State Secretary calls for de-escalation by Ethiopia and Eritrea",
-          "link": "http://www.africanews.com/2026/10/16/us-state-secretary-calls-for-de-escalation-by-ethiopia-and-eritrea/",
-          "description": "US Secretary of State Marco Rubio spoke by phone with Ethiopian Prime Minister Abiy Ahmed on Wednesday, urging dialogue under a peace deal agreed between Ethiopia and Eritrea in 2018.",
-          "pubDate": "Fri, 16 Oct 2026 11:13:15 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "US State Secretary calls for de-escalation by Ethiopia and Eritrea"
-        },
-        {
-          "title": "Why Rwanda's deal for F1 race remains controversial",
-          "link": "https://www.bbc.co.uk/sport/formula1/articles/c61kdv3k9gm2o?at_medium=RSS&at_campaign=rss",
-          "description": "Formula 1 will return to Africa in the early 2030s, but Rwanda's deal to stage a race has prompted accusations of sportswashing against the country.",
-          "pubDate": "Wed, 14 Oct 2026 14:47:31 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Why Rwanda's deal for F1 race remains controversial"
-        },
-        {
-          "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
-          "link": "https://hornobserver.com/articles/3780/Somalia-national-intelligence-agency-abducts-journalist-reporting-on-security-tensions-in-Mogadishu",
-          "description": "At midday on Sunday, plainclothes NISA officers abducted journalist Khadar Abdirahim Ibrahim of Himilo Media in Mogadishu, according to his colleagues. Khadar was on his lunch break when NISA officers approached him at a restaurant near Himilo Media's offices in the Wadajir district of Mogadishu. A colleague who spoke to SJS said that was the last time they saw him. Earlier on Sunday morning, before Khadar's reported abduction, another Himilo Media journalist, Abdifatah Mohamed Hared, a cameraman, was stopped and slapped by NISA officers who had established a checkpoint on the road leading to ",
-          "pubDate": "Mon, 12 Oct 2026 16:34:06 +0300",
+          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
+          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
+          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
+          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
           "source": "Horn Observer",
           "lang": "en",
-          "titleIt": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu"
+          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
         },
         {
-          "title": "Eritrean incursions raise fears of a wider regional war in Ethiopia",
-          "link": "https://www.thenewhumanitarian.org/analysis/2026/10/12/eritrean-incursions-raise-fears-wider-regional-war-ethiopia",
-          "description": "Three scenarios – all grim – on how the renewed conflict in Tigray could develop.",
-          "pubDate": "Mon, 12 Oct 26 09:44:39 +0000",
-          "source": "The New Humanitarian",
+          "title": "New US$78 million initiative to restore land , improve livelihoods across Great Green Wall countries | Press Releases | Asia",
+          "link": "https://www.eco-business.com/press-releases/new-us78-million-initiative-to-restore-land-improve-livelihoods-across-great-green-wall-countries/",
+          "source": "eco-business.com",
+          "pubDate": "2026-10-19T10:00:00Z",
           "lang": "en",
-          "titleIt": "Eritrean incursions raise fears of a wider regional war in Ethiopia"
+          "description": "",
+          "titleIt": "New US$78 million initiative to restore land , improve livelihoods across Great Green Wall countries | Press Releases | Asia"
         },
         {
-          "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
-          "link": "https://hornobserver.com/articles/3776/Somalia-Xawaadle-Elders-and-Al-Shabaab-Reportedly-Reach-Truce-in-Hiiraan",
-          "description": "A 16-point joint statement circulated by Al-Shabaab-affiliated media&nbsp; said the sides had resolved their disputes and agreed to maintain peace in areas controlled or influenced by the clan. The reported agreement includes a commitment by Hawadle elders not to allow the recruitment or operation of Macawiisley fighters in their areas or provide them with shelter. Macawiisley forces from Hiiraan have played a key role in supporting Somali government troops against Al-Shabaab. The meeting in Maxaas was attended by dozens of traditional elders, while Al-Shabaab was represented by senior figures",
-          "pubDate": "Tue, 06 Oct 2026 21:41:19 +0300",
-          "source": "Horn Observer",
+          "title": "Ethiopia Navy Expanding  Robust Capabilitie to Neutralize Threats , Safeguard  National Interest : Vice Admiral",
+          "link": "https://allafrica.com/stories/202610190063.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-19T08:00:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan"
+          "description": "",
+          "titleIt": "Ethiopia Navy Expanding  Robust Capabilitie to Neutralize Threats , Safeguard  National Interest : Vice Admiral"
         },
         {
-          "title": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation",
-          "link": "https://hornobserver.com/articles/3775/Somalia-NISA-Says-Key-Al-Shabaab-Security-Chief-Killed-in-Jilib-Operation",
-          "description": "According to NISA, the operation was carried out by its forces with support from international partners that targeted Nunow who served as the head of Al-Shabaab's intelligence and security wing, known as the \"Amniyat,\" from 2016 to 2024. Nunow also used the aliases Geescadde, Fanax, Gardhuub and Ali Dheere. Somalia's NISA accused Nunow of playing a key role in planning and carrying out attacks targeting Somali civilians. Among the attacks NISA linked to him were the October 14, 2017, bombing at the Zoobe intersection in Mogadishu, the Ex-Control Afgooye attack, the second Zoobe attack, and oth",
-          "pubDate": "Tue, 06 Oct 2026 21:03:29 +0300",
-          "source": "Horn Observer",
+          "title": "TPLF Rejects Tigray Caretaker Administration as Illegitimate",
+          "link": "https://www.riotimesonline.com/tigray-tplf-rejects-caretaker-administration-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-19T07:30:00Z",
           "lang": "en",
-          "titleIt": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation"
+          "description": "",
+          "titleIt": "TPLF Rejects Tigray Caretaker Administration as Illegitimate"
         },
         {
-          "title": "Press Release: President Isaias of Eritrea holds talks with Somali President",
-          "link": "https://hornobserver.com/articles/3774/Press-Release-President-Isaias-of-Eritrea-holds-talks-with-Somali-President",
-          "description": "The two Heads of State underlined the imperative of consolidating a conducive political climate that rejects external agendas of interference to safeguard and guarantee the territorial integrity, stability, and peace of Somalia and the unity of its people.&nbsp; President Isaias further remarked that federal governance architectures in Somalia and other countries in our region have often failed to meet the peoples' hopes and aspirations for unity and cohesion. Political frameworks that polarize socio-economic, religious, and ethnic differences to foment perennial crises and encourage foreign i",
-          "pubDate": "Tue, 06 Oct 2026 18:48:48 +0300",
-          "source": "Horn Observer",
+          "title": "Djibouti Bab el - Mandeb Squeeze as Egypt Weighs Saudi Role",
+          "link": "https://www.riotimesonline.com/djibouti-two-wars-bab-el-mandeb-ethiopia-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-19T07:30:00Z",
           "lang": "en",
-          "titleIt": "Press Release: President Isaias of Eritrea holds talks with Somali President"
+          "description": "",
+          "titleIt": "Djibouti Bab el - Mandeb Squeeze as Egypt Weighs Saudi Role"
         },
         {
-          "title": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland",
-          "link": "https://hornobserver.com/articles/3770/Journalists-face-arrests-and-alleged-assaults-while-covering-evictions-in-Somalia-and-Somaliland",
-          "description": "The Somali Journalists Syndicate (SJS) says it has documented 13 arbitrary arrests of journalists in Mogadishu since Jan. 1, 2026, while 10 journalists have been arrested in Somaliland during the same period. Many of the cases involved reporters covering protests, forced evictions or criticism of government officials. In the latest incident, two journalists working for Somaliland-based Eryal TV said they were physically assaulted by Somali police and National Intelligence and Security Agency officers on Sept. 29 while reporting on forced evictions in Mogadishu's Yaqshiid district. Journalist M",
-          "pubDate": "Fri, 02 Oct 2026 23:26:00 +0300",
-          "source": "Horn Observer",
+          "title": "Ivory Coast GDP Slips to 11th in Africa in IMF Data",
+          "link": "https://www.riotimesonline.com/cote-divoire-africa-gdp-ranking-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-19T07:30:00Z",
           "lang": "en",
-          "titleIt": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland"
+          "description": "",
+          "titleIt": "Ivory Coast GDP Slips to 11th in Africa in IMF Data"
         },
         {
-          "title": "Diplomatic Break: Ethiopia and Eritrea Slide Into a New Crisis",
-          "link": "https://hornobserver.com/articles/3769/Diplomatic-Break-Ethiopia-and-Eritrea-Slide-Into-a-New-Crisis",
-          "description": "Ethiopia's Foreign Ministry said Thursday that the embassy closure was a response to what it described as Eritrea's \"direct and indirect acts of hostility and belligerence\" toward Ethiopia. The ministry also accused the expelled diplomats of engaging in activities that threatened Ethiopia's national security and violated the Vienna Convention on Diplomatic Relations. Among those ordered to leave Ethiopia within 48 hours were Eritrea's charg&eacute; d'affaires and officials accredited to the African Union, according to the Ethiopian government. Eritrea rejected the accusations, arguing that Eth",
-          "pubDate": "Fri, 02 Oct 2026 17:35:54 +0300",
-          "source": "Horn Observer",
+          "title": "Nigeria : NDLEA Intercepts Saudi - Bound Cannabis , Seizes N6 . 98bn Tramadol At Lagos Port",
+          "link": "https://allafrica.com/stories/202610190083.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-19T07:00:00Z",
           "lang": "en",
-          "titleIt": "Diplomatic Break: Ethiopia and Eritrea Slide Into a New Crisis"
+          "description": "",
+          "titleIt": "Nigeria : NDLEA Intercepts Saudi - Bound Cannabis , Seizes N6 . 98bn Tramadol At Lagos Port"
+        },
+        {
+          "title": "Ethiopia : Why Ethiopia Return to Red Sea Is Indispensable Asset for Regional Peace and Stability ?",
+          "link": "https://allafrica.com/stories/202610190056.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-19T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Why Ethiopia Return to Red Sea Is Indispensable Asset for Regional Peace and Stability ?"
+        },
+        {
+          "title": "Drum - Tidbit",
+          "link": "https://www.postcourier.com.pg/drum191026/",
+          "source": "postcourier.com.pg",
+          "pubDate": "2026-10-18T19:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Drum - Tidbit"
+        },
+        {
+          "title": "The Cost of Not Learning : Eritrea , Ethiopia , and the Burden of History",
+          "link": "https://awate.com/the-cost-of-not-learning-eritrea-ethiopia-and-the-burden-of-history/",
+          "source": "awate.com",
+          "pubDate": "2026-10-18T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Cost of Not Learning : Eritrea , Ethiopia , and the Burden of History"
+        },
+        {
+          "title": "In Tigray , Ethiopians welcome the departure of Eritrean troops",
+          "link": "https://www.justiceinfo.net/en/167476-in-tigray-ethiopians-welcome-the-departure-of-eritrean-troops.html",
+          "source": "justiceinfo.net",
+          "pubDate": "2026-10-18T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "In Tigray , Ethiopians welcome the departure of Eritrean troops"
+        },
+        {
+          "title": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem",
+          "link": "https://www.opinionnigeria.com/who-holds-the-valve-water-war-and-the-price-of-peace-by-kator-ifyalem/",
+          "source": "opinionnigeria.com",
+          "pubDate": "2026-10-18T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem"
+        },
+        {
+          "title": "As the World Choke Points Close , a Landlocked Pipeline Quietly Nears Completion",
+          "link": "https://thenewamerican.com/world-news/as-the-worlds-choke-points-close-a-landlocked-pipeline-quietly-nears-completion/",
+          "source": "thenewamerican.com",
+          "pubDate": "2026-10-17T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "As the World Choke Points Close , a Landlocked Pipeline Quietly Nears Completion"
+        },
+        {
+          "title": "Ethiopia is accused of supporting al - Shabab militants in taking over towns in Somalia South West State .",
+          "link": "https://horseedmedia.net/ethiopia-accused-of-role-in-somalias-southwest-conflict/426573/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-10-17T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia is accused of supporting al - Shabab militants in taking over towns in Somalia South West State ."
+        },
+        {
+          "title": "AfDB ‑ backed $60 million e ‑ waste programme launches in nine African nations",
+          "link": "https://kenya-today.com/report-afdbbacked-60-million-ewaste-programme-launches-in-nine-african-nations-12688/",
+          "source": "kenya-today.com",
+          "pubDate": "2026-10-17T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "AfDB ‑ backed $60 million e ‑ waste programme launches in nine African nations"
         }
       ]
     },
@@ -413,51 +503,6 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem",
-          "link": "https://www.opinionnigeria.com/who-holds-the-valve-water-war-and-the-price-of-peace-by-kator-ifyalem/",
-          "source": "opinionnigeria.com",
-          "pubDate": "2026-10-18T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem"
-        },
-        {
-          "title": "The Region Real Picture , Without AI Beautification",
-          "link": "https://english.aawsat.com/opinion/5330701-region%E2%80%99s-real-picture-without-ai-beautification",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-10-18T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Region Real Picture , Without AI Beautification"
-        },
-        {
-          "title": "El Sisi insists he will leave office in 2030 as he outlines succession plan",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/17/el-sisi-insists-he-will-leave-office-in-2030-as-he-outlines-succession-plan/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-10-17T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "El Sisi insists he will leave office in 2030 as he outlines succession plan"
-        },
-        {
-          "title": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor",
-          "link": "https://www.middleeastmonitor.com/20261016-why-ethiopia-and-eritreas-march-to-war-demands-global-attention/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-10-16T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor"
-        },
-        {
-          "title": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia",
-          "link": "https://allafrica.com/stories/202610160214.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-16T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia"
-        },
-        {
           "title": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability",
           "link": "https://hornobserver.com/articles/3782/Opinion-The-Horn-of-Africa-Deserves-Peace-Not-Crisis-and-Instability",
           "description": "Yet, behind these crises are millions of people who share deep historical, cultural, economic, and social ties. The region's greatest need today is not another confrontation or competing alliance, but sustainable peace, mutual respect, and regional cooperation. A Region Under Immense Pressure. The situation across the Horn of Africa and its neighboring countries illustrates how deeply interconnected regional security has become. Sudan is devastated by a crippling war, with millions displaced and its state institutions and social fabric severely damaged. Somalia continues its difficult fight ag",
@@ -467,15 +512,6 @@
           "titleIt": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability"
         },
         {
-          "title": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift",
-          "link": "https://www.thereporterethiopia.com/53223/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-06T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift"
-        },
-        {
           "title": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver",
           "link": "https://hornobserver.com/articles/3771/Sudan-WFP-Strongly-Condemns-Attack-On-Trucks-In-South-Kordofan-Killing-One-Driver",
           "description": "One driver was killed in the air strike. We extend our deepest condolences to his family, friends and colleagues. The contracted trucks were en route from Dilling to Kadugli and clearly marked as humanitarian vehicles. Additional details regarding the circumstances of the incident, including the extent of the damage to the food cargo, are still being collected. WFP calls for a prompt and impartial investigation into this incident and for those responsible for any violations to be held accountable. This latest attack comes only one day after a WFP truck struck an explosive device in Dilling, So",
@@ -483,114 +519,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver"
-        },
-        {
-          "title": "African Union urges restraint as Ethiopia , Eritrea and Egypt edge toward confrontation",
-          "link": "https://kenya-today.com/report-african-union-urges-restraint-as-ethiopia-eritrea-and-egypt-edge-toward-confrontation-5769/",
-          "source": "kenya-today.com",
-          "pubDate": "2026-10-02T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African Union urges restraint as Ethiopia , Eritrea and Egypt edge toward confrontation"
-        },
-        {
-          "title": "Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly  Obstructed By Egypt",
-          "link": "https://allafrica.com/stories/202610020077.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-02T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Establishes Abay Compensation Committee to Assess Projects Allegedly  Obstructed By Egypt"
-        },
-        {
-          "title": "Ethiopia expels Egyptian diplomat as regional tensions escalate",
-          "link": "https://www.radiotamazuj.org/en/news/article/ethiopia-expels-egyptian-diplomat-as-regional-tensions-escalate",
-          "source": "radiotamazuj.org",
-          "pubDate": "2026-10-01T23:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia expels Egyptian diplomat as regional tensions escalate"
-        },
-        {
-          "title": "Ethiopia : Beyond GERD - Ethiopia Next Move On the Nile",
-          "link": "https://allafrica.com/stories/202610010633.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-01T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Beyond GERD - Ethiopia Next Move On the Nile"
-        },
-        {
-          "title": "Ethiopia claims over 22 development projects blocked by external opposition , citing collected evidence",
-          "link": "https://capitalethiopia.com/2026/10/01/ethiopia-claims-over-22-development-projects-blocked-by-external-opposition-citing-collected-evidence/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-10-01T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia claims over 22 development projects blocked by external opposition , citing collected evidence"
-        },
-        {
-          "title": "Egypt seeks greater share of Nile water amid rising tension with Ethiopia",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/30/egypt-seeks-greater-share-of-nile-water-amid-rising-tension-with-ethiopia/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-09-30T14:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt seeks greater share of Nile water amid rising tension with Ethiopia"
-        },
-        {
-          "title": "Beyond the Red Sea : Ethiopian - Eritrean Conflict Risks Converging With Yemen Crisis",
-          "link": "https://themedialine.org/top-stories/beyond-the-red-sea-ethiopian-eritrean-conflict-risks-converging-with-yemen-crisis/",
-          "source": "themedialine.org",
-          "pubDate": "2026-09-30T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Beyond the Red Sea : Ethiopian - Eritrean Conflict Risks Converging With Yemen Crisis"
-        },
-        {
-          "title": "African leaders to gather in Egypt for business summit",
-          "link": "https://www.al-monitor.com/originals/2026/09/african-leaders-gather-egypt-business-summit",
-          "source": "al-monitor.com",
-          "pubDate": "2026-09-29T14:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African leaders to gather in Egypt for business summit"
-        },
-        {
-          "title": "Ethiopia reaffirms support for boosting integration in Horn of Africa",
-          "link": "https://www.plenglish.com/news/2026/09/29/ethiopia-reaffirms-support-for-boosting-integration-in-horn-of-africa/",
-          "source": "plenglish.com",
-          "pubDate": "2026-09-29T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia reaffirms support for boosting integration in Horn of Africa"
-        },
-        {
-          "title": "Egypt Denies Backing Rebel Forces After Ethiopian General Allegation",
-          "link": "https://egyptianstreets.com/2026/09/29/egypt-denies-backing-rebel-forces-after-ethiopian-generals-allegation/",
-          "source": "egyptianstreets.com",
-          "pubDate": "2026-09-29T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Denies Backing Rebel Forces After Ethiopian General Allegation"
-        },
-        {
-          "title": "African leaders to meet in Egypt for business summit",
-          "link": "https://punchng.com/african-leaders-to-meet-in-egypt-for-business-summit/",
-          "source": "punchng.com",
-          "pubDate": "2026-09-29T10:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "African leaders to meet in Egypt for business summit"
-        },
-        {
-          "title": "Cairo denies Ethiopian army chief accusations of supporting opposition armed groups – Middle East Monitor",
-          "link": "https://www.middleeastmonitor.com/20260929-cairo-denies-ethiopian-army-chiefs-accusations-of-supporting-opposition-armed-groups/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-09-29T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cairo denies Ethiopian army chief accusations of supporting opposition armed groups – Middle East Monitor"
         }
       ]
     }
