@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-10-21T18:42:22.471Z",
+  "generatedAt": "2026-10-21T23:25:09.610Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Libia: ambasciatore turco al Cairo, ratifica accordo su confini marittimi non danneggera' l'Egitto",
+          "link": "https://www.agenzianova.com/a/0/7916945/2026-10-21/libia-ambasciatore-turco-al-cairo-ratifica-accordo-su-confini-marittimi-non-danneggera-l-egitto",
+          "description": "21 ott 22:02 - (Agenzia Nova) - L'ambasciatore turco al Cairo, Salih Mutlu Sen, ha dichiarato ad \"Al-Ghad TV\" che la Turchia non ritiene che... (Cae)",
+          "pubDate": "2026-10-21T22:02:55+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Libia: ambasciatore turco al Cairo, ratifica accordo su confini marittimi non danneggera' l'Egitto"
+        },
         {
           "title": "Egypt: End Judicial Harassment of Mada Masr Editor-in-Chief Lina Atallah",
           "link": "https://allafrica.com/stories/202610210147.html",
@@ -228,15 +237,6 @@
           "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
         },
         {
-          "title": "Africa: Africa's Pooled Procurement Mechanism Seeks to Lower Medical Product Costs",
-          "link": "https://allafrica.com/stories/202610190014.html",
-          "description": "[Africa CDC] Addis Ababa, Ethiopia, 15 October 2026 - The African Pooled Procurement Mechanism (APPM) has moved from its pilot phase to a fully-fledged continental programme, with eight African Union Member States having signed the Memorandum of Understanding (MoU) to participate in the initiative.",
-          "pubDate": "Mon, 19 Oct 2026 03:39:41 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: Africa's Pooled Procurement Mechanism Seeks to Lower Medical Product Costs"
-        },
-        {
           "title": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet",
           "link": "https://www.thenewhumanitarian.org/news/2026/10/16/ethiopia-eritrea-war-fears-gaza-base-blocked-kabila-new-coalition-cheat-sheet",
           "description": "A weekly read to keep you in the loop on humanitarian issues.",
@@ -314,13 +314,40 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "This is not the country with which Israel signed a peace treaty",
-          "link": "https://www.jns.org/opinion/ruth-wasserman-lande/this-is-not-the-country-with-which-israel-signed-a-peace-treaty",
-          "source": "jns.org",
-          "pubDate": "2026-10-21T16:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "This is not the country with which Israel signed a peace treaty"
+          "title": "Libia: ambasciatore turco al Cairo, ratifica accordo su confini marittimi non danneggera' l'Egitto",
+          "link": "https://www.agenzianova.com/a/0/7916945/2026-10-21/libia-ambasciatore-turco-al-cairo-ratifica-accordo-su-confini-marittimi-non-danneggera-l-egitto",
+          "description": "21 ott 22:02 - (Agenzia Nova) - L'ambasciatore turco al Cairo, Salih Mutlu Sen, ha dichiarato ad \"Al-Ghad TV\" che la Turchia non ritiene che... (Cae)",
+          "pubDate": "2026-10-21T22:02:55+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Libia: ambasciatore turco al Cairo, ratifica accordo su confini marittimi non danneggera' l'Egitto"
+        },
+        {
+          "title": "Libia: presidente del Parlamento al console italiano, \"accordo marittimo con Turchia e' decisione sovrana\" (3)",
+          "link": "https://www.agenzianova.com/a/0/7916819/2026-10-21/libia-presidente-del-parlamento-al-console-italiano-accordo-marittimo-con-turchia-e-decisione-sovrana-3",
+          "description": "21 ott 21:00 - (Agenzia Nova) - Le dichiarazioni di Abdulnabi arrivano a un giorno dalla decisione della Camera dei rappresentanti di approvare... (Lit)",
+          "pubDate": "2026-10-21T21:00:28+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Libia: presidente del Parlamento al console italiano, \"accordo marittimo con Turchia e' decisione sovrana\" (3)"
+        },
+        {
+          "title": "Libia: presidente del Parlamento al console italiano, \"accordo marittimo con Turchia e' decisione sovrana\" (2)",
+          "link": "https://www.agenzianova.com/a/0/7916818/2026-10-21/libia-presidente-del-parlamento-al-console-italiano-accordo-marittimo-con-turchia-e-decisione-sovrana-2",
+          "description": "21 ott 21:00 - (Agenzia Nova) - L'incontro si e' svolto presso la sede della Camera dei rappresentanti a Bengasi. In apertura, Colombo si e'... (Lit)",
+          "pubDate": "2026-10-21T21:00:28+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Libia: presidente del Parlamento al console italiano, \"accordo marittimo con Turchia e' decisione sovrana\" (2)"
+        },
+        {
+          "title": "Libia: presidente del Parlamento al console italiano, \"accordo marittimo con Turchia e' decisione sovrana\"",
+          "link": "https://www.agenzianova.com/a/0/7916817/2026-10-21/libia-presidente-del-parlamento-al-console-italiano-accordo-marittimo-con-turchia-e-decisione-sovrana",
+          "description": "21 ott 21:00 - (Agenzia Nova) - La ratifica dell'accordo marittimo tra Libia e Turchia e' una \"decisione sovrana\" che tutela gli interessi... (Lit)",
+          "pubDate": "2026-10-21T21:00:28+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Libia: presidente del Parlamento al console italiano, \"accordo marittimo con Turchia e' decisione sovrana\""
         },
         {
           "title": "Ivory Coast: 12 charged over gendarme’s killing amid lingering election tensions",
@@ -332,357 +359,131 @@
           "titleIt": "Ivory Coast: 12 charged over gendarme’s killing amid lingering election tensions"
         },
         {
-          "title": "Ex Will for Peace investigation report expected by month - end",
-          "link": "https://defenceweb.co.za/sa-defence-sa-defence/ex-will-for-peace-investigation-report-expected-by-month-end/",
-          "source": "defenceweb.co.za",
-          "pubDate": "2026-10-21T13:30:00Z",
+          "title": "Ethiopia PM warns Eritrea of 'severe consequences' if supports enemies",
+          "link": "http://www.africanews.com/2026/10/20/ethiopia-pm-warns-eritrea-of-severe-consequences-if-supports-enemies/",
+          "description": "Ethiopia's Prime Minister Abiy Ahmed warned Eritrea on Monday that it faces \"severe consequences\" if it continues to support rebels in his country",
+          "pubDate": "Tue, 20 Oct 2026 14:14:22 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ex Will for Peace investigation report expected by month - end"
+          "titleIt": "Ethiopia PM warns Eritrea of 'severe consequences' if supports enemies"
         },
         {
-          "title": "Ethiopia : Eritrea Tells Us There Is No  Crisi Between Ethiopia and Eritrea",
-          "link": "https://allafrica.com/stories/202610210467.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-21T13:00:00Z",
+          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
+          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
+          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
+          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Eritrea Tells Us There Is No  Crisi Between Ethiopia and Eritrea"
+          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
         },
         {
-          "title": "Ethiopia Warns Eritrea of Severe Consequences",
-          "link": "https://www.riotimesonline.com/ethiopia-abiy-warns-eritrea-ports-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-21T08:30:00Z",
+          "title": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet",
+          "link": "https://www.thenewhumanitarian.org/news/2026/10/16/ethiopia-eritrea-war-fears-gaza-base-blocked-kabila-new-coalition-cheat-sheet",
+          "description": "A weekly read to keep you in the loop on humanitarian issues.",
+          "pubDate": "Fri, 16 Oct 26 14:59:14 +0000",
+          "source": "The New Humanitarian",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Warns Eritrea of Severe Consequences"
+          "titleIt": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet"
         },
         {
-          "title": "Eritrea Diaspora Rally in 3 Countries and US Rules",
-          "link": "https://www.riotimesonline.com/eritrea-diaspora-rally-us-sanctions-lifted-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-21T08:30:00Z",
+          "title": "Why Rwanda's deal for F1 race remains controversial",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/c61kdv3k9gm2o?at_medium=RSS&at_campaign=rss",
+          "description": "Formula 1 will return to Africa in the early 2030s, but Rwanda's deal to stage a race has prompted accusations of sportswashing against the country.",
+          "pubDate": "Wed, 14 Oct 2026 14:47:31 GMT",
+          "source": "BBC Africa",
           "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea Diaspora Rally in 3 Countries and US Rules"
+          "titleIt": "Why Rwanda's deal for F1 race remains controversial"
         },
         {
-          "title": "Tigray rebels claim to have killed over 1 , 500 Ethiopian soldiers as PM Abiy Ahmed warns Eritrea",
-          "link": "https://www.garoweonline.com/en/world/africa/tigray-rebels-claim-to-have-killed-over-1-500-ethiopian-soldiers-as-pm-abiy-ahmed-warns-eritrea",
-          "source": "garoweonline.com",
-          "pubDate": "2026-10-21T08:00:00Z",
+          "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
+          "link": "https://hornobserver.com/articles/3780/Somalia-national-intelligence-agency-abducts-journalist-reporting-on-security-tensions-in-Mogadishu",
+          "description": "At midday on Sunday, plainclothes NISA officers abducted journalist Khadar Abdirahim Ibrahim of Himilo Media in Mogadishu, according to his colleagues. Khadar was on his lunch break when NISA officers approached him at a restaurant near Himilo Media's offices in the Wadajir district of Mogadishu. A colleague who spoke to SJS said that was the last time they saw him. Earlier on Sunday morning, before Khadar's reported abduction, another Himilo Media journalist, Abdifatah Mohamed Hared, a cameraman, was stopped and slapped by NISA officers who had established a checkpoint on the road leading to ",
+          "pubDate": "Mon, 12 Oct 2026 16:34:06 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Tigray rebels claim to have killed over 1 , 500 Ethiopian soldiers as PM Abiy Ahmed warns Eritrea"
+          "titleIt": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu"
         },
         {
-          "title": "Ethiopia Sovereign Access to Seaport Crucial for Regional Shared Prosperity - Scholars",
-          "link": "https://allafrica.com/stories/202610210048.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-21T06:15:00Z",
+          "title": "Eritrean incursions raise fears of a wider regional war in Ethiopia",
+          "link": "https://www.thenewhumanitarian.org/analysis/2026/10/12/eritrean-incursions-raise-fears-wider-regional-war-ethiopia",
+          "description": "Three scenarios – all grim – on how the renewed conflict in Tigray could develop.",
+          "pubDate": "Mon, 12 Oct 26 09:44:39 +0000",
+          "source": "The New Humanitarian",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Sovereign Access to Seaport Crucial for Regional Shared Prosperity - Scholars"
+          "titleIt": "Eritrean incursions raise fears of a wider regional war in Ethiopia"
         },
         {
-          "title": "PM Abiy urges easier Kenya - Ethiopia trade and stronger economic ties",
-          "link": "https://www.the-star.co.ke/news/2026-10-21-pm-abiy-urges-easier-kenya-ethiopia-trade-and-stronger-economic-ties",
-          "source": "the-star.co.ke",
-          "pubDate": "2026-10-21T04:45:00Z",
+          "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
+          "link": "https://hornobserver.com/articles/3776/Somalia-Xawaadle-Elders-and-Al-Shabaab-Reportedly-Reach-Truce-in-Hiiraan",
+          "description": "A 16-point joint statement circulated by Al-Shabaab-affiliated media&nbsp; said the sides had resolved their disputes and agreed to maintain peace in areas controlled or influenced by the clan. The reported agreement includes a commitment by Hawadle elders not to allow the recruitment or operation of Macawiisley fighters in their areas or provide them with shelter. Macawiisley forces from Hiiraan have played a key role in supporting Somali government troops against Al-Shabaab. The meeting in Maxaas was attended by dozens of traditional elders, while Al-Shabaab was represented by senior figures",
+          "pubDate": "Tue, 06 Oct 2026 21:41:19 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "PM Abiy urges easier Kenya - Ethiopia trade and stronger economic ties"
+          "titleIt": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan"
         },
         {
-          "title": "Is Ebola under control in Kenya after nine cases confirmed ?",
-          "link": "https://www.the-star.co.ke/news/africa/2026-10-21-is-ebola-under-control-in-kenya-after-nine-cases-confirmed",
-          "source": "the-star.co.ke",
-          "pubDate": "2026-10-21T04:45:00Z",
+          "title": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation",
+          "link": "https://hornobserver.com/articles/3775/Somalia-NISA-Says-Key-Al-Shabaab-Security-Chief-Killed-in-Jilib-Operation",
+          "description": "According to NISA, the operation was carried out by its forces with support from international partners that targeted Nunow who served as the head of Al-Shabaab's intelligence and security wing, known as the \"Amniyat,\" from 2016 to 2024. Nunow also used the aliases Geescadde, Fanax, Gardhuub and Ali Dheere. Somalia's NISA accused Nunow of playing a key role in planning and carrying out attacks targeting Somali civilians. Among the attacks NISA linked to him were the October 14, 2017, bombing at the Zoobe intersection in Mogadishu, the Ex-Control Afgooye attack, the second Zoobe attack, and oth",
+          "pubDate": "Tue, 06 Oct 2026 21:03:29 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Is Ebola under control in Kenya after nine cases confirmed ?"
+          "titleIt": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation"
         },
         {
-          "title": "Eritrea denies Ethiopian militia claims of rebels in country",
-          "link": "http://thepeninsulaqatar.com/article/21/10/2026/eritrea-denies-ethiopian-militia-claims-of-rebels-in-country",
-          "source": "thepeninsulaqatar.com",
-          "pubDate": "2026-10-21T00:00:00Z",
+          "title": "Press Release: President Isaias of Eritrea holds talks with Somali President",
+          "link": "https://hornobserver.com/articles/3774/Press-Release-President-Isaias-of-Eritrea-holds-talks-with-Somali-President",
+          "description": "The two Heads of State underlined the imperative of consolidating a conducive political climate that rejects external agendas of interference to safeguard and guarantee the territorial integrity, stability, and peace of Somalia and the unity of its people.&nbsp; President Isaias further remarked that federal governance architectures in Somalia and other countries in our region have often failed to meet the peoples' hopes and aspirations for unity and cohesion. Political frameworks that polarize socio-economic, religious, and ethnic differences to foment perennial crises and encourage foreign i",
+          "pubDate": "Tue, 06 Oct 2026 18:48:48 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea denies Ethiopian militia claims of rebels in country"
+          "titleIt": "Press Release: President Isaias of Eritrea holds talks with Somali President"
         },
         {
-          "title": "Deputy Police Chief Ujeneza opened EAPCCO training on gender - responsive policing",
-          "link": "http://www.rnanews.com/deputy-police-chief-ujeneza-opened-eapcco-training-on-gender-responsive-policing/",
-          "source": "rnanews.com",
-          "pubDate": "2026-10-21T00:00:00Z",
+          "title": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland",
+          "link": "https://hornobserver.com/articles/3770/Journalists-face-arrests-and-alleged-assaults-while-covering-evictions-in-Somalia-and-Somaliland",
+          "description": "The Somali Journalists Syndicate (SJS) says it has documented 13 arbitrary arrests of journalists in Mogadishu since Jan. 1, 2026, while 10 journalists have been arrested in Somaliland during the same period. Many of the cases involved reporters covering protests, forced evictions or criticism of government officials. In the latest incident, two journalists working for Somaliland-based Eryal TV said they were physically assaulted by Somali police and National Intelligence and Security Agency officers on Sept. 29 while reporting on forced evictions in Mogadishu's Yaqshiid district. Journalist M",
+          "pubDate": "Fri, 02 Oct 2026 23:26:00 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Deputy Police Chief Ujeneza opened EAPCCO training on gender - responsive policing"
+          "titleIt": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland"
         },
         {
-          "title": "EASF Logistics Map Exercise kicks off in Rwanda",
-          "link": "http://www.rnanews.com/easf-logistics-map-exercise-kicks-off-in-rwanda/",
-          "source": "rnanews.com",
-          "pubDate": "2026-10-20T21:30:00Z",
+          "title": "Diplomatic Break: Ethiopia and Eritrea Slide Into a New Crisis",
+          "link": "https://hornobserver.com/articles/3769/Diplomatic-Break-Ethiopia-and-Eritrea-Slide-Into-a-New-Crisis",
+          "description": "Ethiopia's Foreign Ministry said Thursday that the embassy closure was a response to what it described as Eritrea's \"direct and indirect acts of hostility and belligerence\" toward Ethiopia. The ministry also accused the expelled diplomats of engaging in activities that threatened Ethiopia's national security and violated the Vienna Convention on Diplomatic Relations. Among those ordered to leave Ethiopia within 48 hours were Eritrea's charg&eacute; d'affaires and officials accredited to the African Union, according to the Ethiopian government. Eritrea rejected the accusations, arguing that Eth",
+          "pubDate": "Fri, 02 Oct 2026 17:35:54 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "EASF Logistics Map Exercise kicks off in Rwanda"
+          "titleIt": "Diplomatic Break: Ethiopia and Eritrea Slide Into a New Crisis"
         },
         {
-          "title": "Ethiopia : Prisoner of History , Not Geography",
-          "link": "https://allafrica.com/stories/202610200686.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-20T21:00:00Z",
+          "title": "Containing the New War in Northern Ethiopia",
+          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
+          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
+          "pubDate": "Thursday, October 15, 2026 - 11:12",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Prisoner of History , Not Geography"
-        },
-        {
-          "title": "Abiy Ahmed Says Jigjiga Has Outpaced Asmara as Ethiopia Regional Cities Transform",
-          "link": "https://wardheernews.com/abiy-ahmed-says-jigjiga-has-outpaced-asmara-as-ethiopias-regional-cities-transform/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-10-20T20:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Abiy Ahmed Says Jigjiga Has Outpaced Asmara as Ethiopia Regional Cities Transform"
-        },
-        {
-          "title": "A State Cannot Be Held By A Port Alone : Lessons From Puntland First Crisis – OpEd",
-          "link": "https://www.eurasiareview.com/20102026-a-state-cannot-be-held-by-a-port-alone-lessons-from-puntlands-first-crisis-oped/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-10-20T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A State Cannot Be Held By A Port Alone : Lessons From Puntland First Crisis – OpEd"
-        },
-        {
-          "title": "Sudan Conflict Risks Spilling Over Into Regional Crisis",
-          "link": "https://english.globalarabnetwork.com/2026/10/20/sudans-conflict-risks-spilling-over-into-regional-crisis/",
-          "source": "english.globalarabnetwork.com",
-          "pubDate": "2026-10-20T18:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan Conflict Risks Spilling Over Into Regional Crisis"
-        },
-        {
-          "title": "A Moment of Truth for Ethiopia , Eritrea and the Wider Horn of Africa",
-          "link": "https://www.fairobserver.com/region/middle_east_north_africa/a-moment-of-truth-for-ethiopia-eritrea-and-the-wider-horn-of-africa/",
-          "source": "fairobserver.com",
-          "pubDate": "2026-10-20T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A Moment of Truth for Ethiopia , Eritrea and the Wider Horn of Africa"
-        },
-        {
-          "title": "IGAD Successfully Concludes the Consultative Meeting of Member State Election Management Bodies on the Establishment of the Regional Network of Election Management Bodies .",
-          "link": "https://igad.int/igad-successfully-concludes-the-consultative-meeting-of-member-states-election-management-bodies-on-the-establishment-of-the-regional-network-of-election-management-bodies-2/",
-          "source": "igad.int",
-          "pubDate": "2026-10-20T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "IGAD Successfully Concludes the Consultative Meeting of Member State Election Management Bodies on the Establishment of the Regional Network of Election Management Bodies ."
-        },
-        {
-          "title": "Ethiopia PM warns Eritrea of  severe consequence if supports enemies",
-          "link": "https://www.africanews.com/2026/10/20/ethiopia-pm-warns-eritrea-of-severe-consequences-if-supports-enemies/",
-          "source": "africanews.com",
-          "pubDate": "2026-10-20T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia PM warns Eritrea of  severe consequence if supports enemies"
+          "titleIt": "Containing the New War in Northern Ethiopia"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Egypt condemns Turkey - Libya maritime deal",
-          "link": "https://cyprus-mail.com/2026/10/21/egypt-condemns-turkey-libya-maritime-deal",
-          "source": "cyprus-mail.com",
-          "pubDate": "2026-10-21T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt condemns Turkey - Libya maritime deal"
-        },
-        {
-          "title": "Pakistan , Qatar , Türkiye and Indonesia sign Badr defence pac",
-          "link": "https://www.pakistantoday.com.pk/2026/10/21/pakistan-qatar-turkiye-and-indonesia-sign-badr-defence-pact",
-          "source": "pakistantoday.com.pk",
-          "pubDate": "2026-10-21T18:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Pakistan , Qatar , Türkiye and Indonesia sign Badr defence pac"
-        },
-        {
-          "title": "Global food prices face fresh surge as supply shocks pile up",
-          "link": "http://www.birminghamstar.com/news/279385718/global-food-prices-face-fresh-surge-as-supply-shocks-pile-up",
-          "source": "birminghamstar.com",
-          "pubDate": "2026-10-21T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Global food prices face fresh surge as supply shocks pile up"
-        },
-        {
-          "title": "Food inflation set to accelerate globally and persist into 2027",
-          "link": "http://www.shanghainews.net/news/279385718/food-inflation-set-to-accelerate-globally-and-persist-into-2027",
-          "source": "shanghainews.net",
-          "pubDate": "2026-10-21T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Food inflation set to accelerate globally and persist into 2027"
-        },
-        {
-          "title": "Global food prices face fresh surge as supply shocks pile up",
-          "link": "http://www.albuquerqueexpress.com/news/279385718/global-food-prices-face-fresh-surge-as-supply-shocks-pile-up",
-          "source": "albuquerqueexpress.com",
-          "pubDate": "2026-10-21T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Global food prices face fresh surge as supply shocks pile up"
-        },
-        {
-          "title": "Global food prices face fresh surge as supply shocks pile up",
-          "link": "http://www.pakistantelegraph.com/news/279385718/global-food-prices-face-fresh-surge-as-supply-shocks-pile-up",
-          "source": "pakistantelegraph.com",
-          "pubDate": "2026-10-21T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Global food prices face fresh surge as supply shocks pile up"
-        },
-        {
-          "title": "Egypt rejects Libyan approval of maritime deal with Turkey",
-          "link": "https://www.timeslive.co.za/news/africa/2026-10-21-egypt-rejects-libyan-approval-of-maritime-deal-with-turkey/",
-          "source": "timeslive.co.za",
-          "pubDate": "2026-10-21T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt rejects Libyan approval of maritime deal with Turkey"
-        },
-        {
-          "title": "Global food prices face fresh surge as supply shocks pile up",
-          "link": "http://www.nepalnational.com/news/279385718/global-food-prices-face-fresh-surge-as-supply-shocks-pile-up",
-          "source": "nepalnational.com",
-          "pubDate": "2026-10-21T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Global food prices face fresh surge as supply shocks pile up"
-        },
-        {
-          "title": "China - initiated Luban Workshops empower global youth with practical skills",
-          "link": "http://www.shanghainews.net/news/279390221/china-initiated-luban-workshops-empower-global-youth-with-practical-skills",
-          "source": "shanghainews.net",
-          "pubDate": "2026-10-21T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China - initiated Luban Workshops empower global youth with practical skills"
-        },
-        {
-          "title": "Three Moroccan Referees to Officiate Egypt vs Algeria Futsal AFCON Third - Place Match",
-          "link": "https://www.moroccoworldnews.com/2026/10/343204/three-moroccan-referees-to-officiate-egypt-vs-algeria-futsal-afcon-third-place-match/",
-          "source": "moroccoworldnews.com",
-          "pubDate": "2026-10-21T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Three Moroccan Referees to Officiate Egypt vs Algeria Futsal AFCON Third - Place Match"
-        },
-        {
-          "title": "Eye Magazine | Feature | Digital type decade",
-          "link": "https://www.eyemagazine.com/feature/article/digital-type-decade-full-text",
-          "source": "eyemagazine.com",
-          "pubDate": "2026-10-21T17:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Eye Magazine | Feature | Digital type decade"
-        },
-        {
-          "title": "Global food prices face fresh surge as supply shocks pile up",
-          "link": "http://www.jamaicantimes.com/news/279385718/global-food-prices-face-fresh-surge-as-supply-shocks-pile-up",
-          "source": "jamaicantimes.com",
-          "pubDate": "2026-10-21T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Global food prices face fresh surge as supply shocks pile up"
-        },
-        {
-          "title": "Arab News | Egyptian military support for Saudi Arabia will not include attacks on Yemen , President El - Sisi says",
-          "link": "https://www.arabnews.com/saudi-arabia/egyptian-military-support-for-saudi-arabia-will-not-include-attacks-on-yemen-president-el-sisi-says-3007577",
-          "source": "arabnews.com",
-          "pubDate": "2026-10-21T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | Egyptian military support for Saudi Arabia will not include attacks on Yemen , President El - Sisi says"
-        },
-        {
-          "title": "Africa news today : Nigeria Ebola case , Burkina Faso death penalty and South Africa trade",
-          "link": "https://www.okayafrica.com/today-in-africa-october-21-2026-africa-cdc-calls-emergency-ebola-meeting-burkina-faso-restores-the-death-penalty/1440917",
-          "source": "okayafrica.com",
-          "pubDate": "2026-10-21T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa news today : Nigeria Ebola case , Burkina Faso death penalty and South Africa trade"
-        },
-        {
-          "title": "What It Like To … Tour Europe with an Egyptian Independent Artist",
-          "link": "https://www.okayafrica.com/what-its-like-to-tour-europe-with-an-egyptian-independent-artist/1440931",
-          "source": "okayafrica.com",
-          "pubDate": "2026-10-21T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "What It Like To … Tour Europe with an Egyptian Independent Artist"
-        },
-        {
-          "title": "China - initiated Luban Workshops empower global youth with practical skills",
-          "link": "http://www.thailandnews.net/news/279390221/china-initiated-luban-workshops-empower-global-youth-with-practical-skills",
-          "source": "thailandnews.net",
-          "pubDate": "2026-10-21T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China - initiated Luban Workshops empower global youth with practical skills"
-        },
-        {
-          "title": "Egypt Sisi says Saudi defence role would not include attack on Yemen",
-          "link": "https://tribune.com.pk/story/2636160/egypts-sisi-says-saudi-defence-role-would-not-include-attack-on-yemen",
-          "source": "tribune.com.pk",
-          "pubDate": "2026-10-21T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Sisi says Saudi defence role would not include attack on Yemen"
-        },
-        {
-          "title": "Global food prices face fresh surge as supply shocks pile up",
-          "link": "http://www.bangladeshsun.com/news/279385718/global-food-prices-face-fresh-surge-as-supply-shocks-pile-up",
-          "source": "bangladeshsun.com",
-          "pubDate": "2026-10-21T17:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Global food prices face fresh surge as supply shocks pile up"
-        },
-        {
-          "title": "Global food prices face fresh surge as supply shocks pile up",
-          "link": "http://www.taiwansun.com/news/279385718/global-food-prices-face-fresh-surge-as-supply-shocks-pile-up",
-          "source": "taiwansun.com",
-          "pubDate": "2026-10-21T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Global food prices face fresh surge as supply shocks pile up"
-        },
-        {
-          "title": "D - 8 , COMSATS sign deal to boost science , technology cooperation",
-          "link": "https://www.dailysabah.com/business/d-8-comsats-sign-deal-to-boost-science-technology-cooperation/news",
-          "source": "dailysabah.com",
-          "pubDate": "2026-10-21T17:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "D - 8 , COMSATS sign deal to boost science , technology cooperation"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Libia: ambasciatore turco al Cairo, ratifica accordo su confini marittimi non danneggera' l'Egitto",
+          "link": "https://www.agenzianova.com/a/0/7916945/2026-10-21/libia-ambasciatore-turco-al-cairo-ratifica-accordo-su-confini-marittimi-non-danneggera-l-egitto",
+          "description": "21 ott 22:02 - (Agenzia Nova) - L'ambasciatore turco al Cairo, Salih Mutlu Sen, ha dichiarato ad \"Al-Ghad TV\" che la Turchia non ritiene che... (Cae)",
+          "pubDate": "2026-10-21T22:02:55+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Libia: ambasciatore turco al Cairo, ratifica accordo su confini marittimi non danneggera' l'Egitto"
+        },
         {
           "title": "United Nations condemns drone strikes on civilians and infrastructure in Sudan",
           "link": "http://www.africanews.com/2026/10/21/united-nations-condemns-drone-strikes-on-civilians-and-infrastructure-in-sudan/",
