@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-10-22T11:59:18.034Z",
+  "generatedAt": "2026-10-22T17:15:50.995Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Galmudug Elects New Leadership As Somali President Offers Congratulations",
+          "link": "https://allafrica.com/stories/202610220467.html",
+          "description": "[Shabelle] Dhusamareb -- Somalia's President Hassan Sheikh Mohamud on Thursday congratulated the newly elected leadership of the central state of Galmudug, urging them to prioritise security, reconciliation and development.",
+          "pubDate": "Thu, 22 Oct 2026 15:24:37 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Galmudug Elects New Leadership As Somali President Offers Congratulations"
+        },
         {
           "title": "Egypt will 'defend Saudi territory' and won't attack Yemen, Sisi says",
           "link": "http://www.africanews.com/2026/10/22/egypt-will-defend-saudi-territory-and-wont-attack-yemen-sisi-says/",
@@ -14,15 +23,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt will 'defend Saudi territory' and won't attack Yemen, Sisi says"
-        },
-        {
-          "title": "Egypt parliament delays debate on possible Saudi military support",
-          "link": "http://www.africanews.com/2026/10/20/egypt-parliament-delays-debate-on-possible-saudi-military-support/",
-          "description": "Egypt's parliament on Monday delayed a debate on President Abdel Fattah al-Sisi's request to authorise military support for Saudi Arabia until next week, state media reported, after an emergency session ended without a decision a day earlier.",
-          "pubDate": "Tue, 20 Oct 2026 13:16:14 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Egypt parliament delays debate on possible Saudi military support"
         },
         {
           "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
@@ -138,13 +138,22 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Why Israeli recognition has been a double - edged sword for Somaliland",
-          "link": "https://www.csmonitor.com/World/Africa/2026/1022/somaliland-recognition-israel-trump",
-          "source": "csmonitor.com",
-          "pubDate": "2026-10-22T09:30:00Z",
+          "title": "Ethiopia: Ethiopia's Coffee Sector Faces $453 Million Export Risk Under EU Deforestation Rules",
+          "link": "https://allafrica.com/stories/202610220474.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia could lose up to $453 million in coffee export revenue under the European Union's deforestation regulation, with compliance gaps threatening to exclude smallholder farmers from a market that accounts for around 30% of the country's coffee exports, according to an October 2026 briefing paper by ODI Global.",
+          "pubDate": "Thu, 22 Oct 2026 15:25:59 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "description": "",
-          "titleIt": "Why Israeli recognition has been a double - edged sword for Somaliland"
+          "titleIt": "Ethiopia: Ethiopia's Coffee Sector Faces $453 Million Export Risk Under EU Deforestation Rules"
+        },
+        {
+          "title": "Ethiopia: Drone Strikes Kill Schoolchildren in Amhara, Civilians in Tigray Regions As Conflicts Show No Sign of Abating",
+          "link": "https://allafrica.com/stories/202610220473.html",
+          "description": "[Addis Standard] Addis Abeba -- Drone strikes in Ethiopia's Amhara and Tigray regions killed schoolchildren and other civilians on Tuesday, 20 October, according to eyewitnesses and local residents who spoke to Addis Standard, adding to mounting civilian casualties amid renewed fighting between federal forces and armed opponents in both regions.",
+          "pubDate": "Thu, 22 Oct 2026 15:25:12 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Drone Strikes Kill Schoolchildren in Amhara, Civilians in Tigray Regions As Conflicts Show No Sign of Abating"
         },
         {
           "title": "Egypt will 'defend Saudi territory' and won't attack Yemen, Sisi says",
@@ -154,33 +163,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt will 'defend Saudi territory' and won't attack Yemen, Sisi says"
-        },
-        {
-          "title": "Somalia : Somaliland Leads Abraham Accords Predictions On Polymarket",
-          "link": "https://allafrica.com/stories/202610220051.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-22T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland Leads Abraham Accords Predictions On Polymarket"
-        },
-        {
-          "title": "From the Scramble for Africa to Somalia Fragmentation : Will History Repeat Itself ?",
-          "link": "https://wardheernews.com/from-the-scramble-for-africa-to-somalias-fragmentation-will-history-repeat-itself/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-10-22T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "From the Scramble for Africa to Somalia Fragmentation : Will History Repeat Itself ?"
-        },
-        {
-          "title": "Somalia Says Somaliland Visa Row Is Over , 21 Oct 2026",
-          "link": "https://www.riotimesonline.com/somalia-somaliland-visa-row-ends-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-21T20:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia Says Somaliland Visa Row Is Over , 21 Oct 2026"
         },
         {
           "title": "Ships and hydrofoils at risk in Gulf of Naples",
@@ -219,24 +201,6 @@
           "titleIt": "Kenya: The Italian Pavilion at the “Big 5 Construct” trade show in Nairobi has been inaugurated"
         },
         {
-          "title": "Ethiopia : Prisoner of History , Not Geography",
-          "link": "https://allafrica.com/stories/202610200686.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-20T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : Prisoner of History , Not Geography"
-        },
-        {
-          "title": "Ethiopia PM warns Eritrea of 'severe consequences' if supports enemies",
-          "link": "http://www.africanews.com/2026/10/20/ethiopia-pm-warns-eritrea-of-severe-consequences-if-supports-enemies/",
-          "description": "Ethiopia's Prime Minister Abiy Ahmed warned Eritrea on Monday that it faces \"severe consequences\" if it continues to support rebels in his country",
-          "pubDate": "Tue, 20 Oct 2026 14:14:22 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopia PM warns Eritrea of 'severe consequences' if supports enemies"
-        },
-        {
           "title": "Kenya cult leader's children still being starved weeks before trial, son says",
           "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
           "description": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
@@ -246,82 +210,118 @@
           "titleIt": "Kenya cult leader's children still being starved weeks before trial, son says"
         },
         {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
-          "source": "newsday.com",
-          "pubDate": "2026-10-20T06:15:00Z",
+          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
+          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
+          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
+          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
         },
         {
-          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
-          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-20T02:15:00Z",
+          "title": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet",
+          "link": "https://www.thenewhumanitarian.org/news/2026/10/16/ethiopia-eritrea-war-fears-gaza-base-blocked-kabila-new-coalition-cheat-sheet",
+          "description": "A weekly read to keep you in the loop on humanitarian issues.",
+          "pubDate": "Fri, 16 Oct 26 14:59:14 +0000",
+          "source": "The New Humanitarian",
           "lang": "en",
-          "description": "",
-          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
+          "titleIt": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet"
         },
         {
-          "title": "Ethiopia national security imperative : Alliance with Israel and Somaliland",
-          "link": "http://www.jpost.com/opinion/article-912123",
-          "source": "jpost.com",
-          "pubDate": "2026-10-19T19:15:00Z",
+          "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
+          "link": "https://hornobserver.com/articles/3780/Somalia-national-intelligence-agency-abducts-journalist-reporting-on-security-tensions-in-Mogadishu",
+          "description": "At midday on Sunday, plainclothes NISA officers abducted journalist Khadar Abdirahim Ibrahim of Himilo Media in Mogadishu, according to his colleagues. Khadar was on his lunch break when NISA officers approached him at a restaurant near Himilo Media's offices in the Wadajir district of Mogadishu. A colleague who spoke to SJS said that was the last time they saw him. Earlier on Sunday morning, before Khadar's reported abduction, another Himilo Media journalist, Abdifatah Mohamed Hared, a cameraman, was stopped and slapped by NISA officers who had established a checkpoint on the road leading to ",
+          "pubDate": "Mon, 12 Oct 2026 16:34:06 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia national security imperative : Alliance with Israel and Somaliland"
+          "titleIt": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu"
         },
         {
-          "title": "Netanyahu map shows RSF  friendly  to Israel and UAE , backing for separatist movements",
-          "link": "https://www.middleeasteye.net/news/netanyahu-map-shows-rsf-friendly-israel-and-uae-backing-separatist-movements",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-10-19T19:15:00Z",
+          "title": "Death toll rises to 139 after migrant boat capsizes off Djibouti",
+          "link": "https://hornobserver.com/articles/3779/Death-toll-rises-to-139-after-migrant-boat-capsizes-off-Djibouti",
+          "description": "The boat went down during the night of Oct. 8-9 near Guehere, north of the port town of Obock. The death toll rose from 109 after 30 more bodies were recovered, the International Organization for Migration said. About 82 people survived, while search and recovery operations continued. The shipwreck is among the deadliest recorded on the Eastern Route, a migration corridor used by people traveling from the Horn of Africa toward Yemen and other destinations in the Arabian Peninsula. The African Union Commission expressed sorrow over the disaster in a statement issued Sunday. Its chairperson, Mah",
+          "pubDate": "Mon, 12 Oct 2026 13:44:28 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Netanyahu map shows RSF  friendly  to Israel and UAE , backing for separatist movements"
+          "titleIt": "Death toll rises to 139 after migrant boat capsizes off Djibouti"
         },
         {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
-          "source": "sitkasentinel.com",
-          "pubDate": "2026-10-19T16:15:00Z",
+          "title": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
+          "link": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+          "description": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
+          "pubDate": "Sun, 11 Oct 2026 23:13:20 GMT",
+          "source": "BBC Africa",
           "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+          "titleIt": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds"
         },
         {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
-          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
-          "source": "wral.com",
-          "pubDate": "2026-10-19T15:45:00Z",
+          "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
+          "link": "https://hornobserver.com/articles/3776/Somalia-Xawaadle-Elders-and-Al-Shabaab-Reportedly-Reach-Truce-in-Hiiraan",
+          "description": "A 16-point joint statement circulated by Al-Shabaab-affiliated media&nbsp; said the sides had resolved their disputes and agreed to maintain peace in areas controlled or influenced by the clan. The reported agreement includes a commitment by Hawadle elders not to allow the recruitment or operation of Macawiisley fighters in their areas or provide them with shelter. Macawiisley forces from Hiiraan have played a key role in supporting Somali government troops against Al-Shabaab. The meeting in Maxaas was attended by dozens of traditional elders, while Al-Shabaab was represented by senior figures",
+          "pubDate": "Tue, 06 Oct 2026 21:41:19 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
+          "titleIt": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan"
         },
         {
-          "title": "Somalia : Somaliland Featured On Regional Alliances Map Displayed By Netanyahu",
-          "link": "https://allafrica.com/stories/202610190492.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-19T15:30:00Z",
+          "title": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation",
+          "link": "https://hornobserver.com/articles/3775/Somalia-NISA-Says-Key-Al-Shabaab-Security-Chief-Killed-in-Jilib-Operation",
+          "description": "According to NISA, the operation was carried out by its forces with support from international partners that targeted Nunow who served as the head of Al-Shabaab's intelligence and security wing, known as the \"Amniyat,\" from 2016 to 2024. Nunow also used the aliases Geescadde, Fanax, Gardhuub and Ali Dheere. Somalia's NISA accused Nunow of playing a key role in planning and carrying out attacks targeting Somali civilians. Among the attacks NISA linked to him were the October 14, 2017, bombing at the Zoobe intersection in Mogadishu, the Ex-Control Afgooye attack, the second Zoobe attack, and oth",
+          "pubDate": "Tue, 06 Oct 2026 21:03:29 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland Featured On Regional Alliances Map Displayed By Netanyahu"
+          "titleIt": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation"
         },
         {
-          "title": "Ethiopia national security imperative : Alliance with Israel and Somaliland",
-          "link": "https://www.jpost.com/opinion/article-912123",
-          "source": "jpost.com",
-          "pubDate": "2026-10-19T15:30:00Z",
+          "title": "Ebola Crosses Border Into Kenya as First Imported Bundibugyo Case Confirmed",
+          "link": "https://hornobserver.com/articles/3773/Ebola-Crosses-Border-Into-Kenya-as-First-Imported-Bundibugyo-Case-Confirmed",
+          "description": "The man became ill about a month ago while in Congo, where he was treated at several hospitals before traveling by road to Kampala, Uganda. He then boarded a Jambojet flight to Nairobi, arriving at Jomo Kenyatta International Airport on Oct. 3. He was taken directly to Nairobi Hospital and isolated, according to the ministry. The patient had symptoms including fever, chills, severe fatigue, muscle pain, painful swallowing, a sore throat and bleeding beneath the skin. Tests at Kenya's National Virology Reference Laboratory and the Kenya Medical Research Institute confirmed Bundibugyo Ebola viru",
+          "pubDate": "Tue, 06 Oct 2026 17:19:18 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia national security imperative : Alliance with Israel and Somaliland"
+          "titleIt": "Ebola Crosses Border Into Kenya as First Imported Bundibugyo Case Confirmed"
+        },
+        {
+          "title": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland",
+          "link": "https://hornobserver.com/articles/3770/Journalists-face-arrests-and-alleged-assaults-while-covering-evictions-in-Somalia-and-Somaliland",
+          "description": "The Somali Journalists Syndicate (SJS) says it has documented 13 arbitrary arrests of journalists in Mogadishu since Jan. 1, 2026, while 10 journalists have been arrested in Somaliland during the same period. Many of the cases involved reporters covering protests, forced evictions or criticism of government officials. In the latest incident, two journalists working for Somaliland-based Eryal TV said they were physically assaulted by Somali police and National Intelligence and Security Agency officers on Sept. 29 while reporting on forced evictions in Mogadishu's Yaqshiid district. Journalist M",
+          "pubDate": "Fri, 02 Oct 2026 23:26:00 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ucraina-Usa: Zelensky, tensioni non sono una questione personale tra me e Trump",
+          "link": "https://www.agenzianova.com/a/0/7921395/2026-10-22/ucraina-usa-zelensky-tensioni-non-sono-una-questione-personale-tra-me-e-trump",
+          "description": "22 ott 19:03 - (Agenzia Nova) - Il presidente dell'Ucraina, Volodymyr Zelensky, ha affermato che le tensioni nei rapporti con gli Stati Uniti... (Kiu)",
+          "pubDate": "2026-10-22T19:03:29+02:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Ucraina-Usa: Zelensky, tensioni non sono una questione personale tra me e Trump"
+        },
+        {
+          "title": "Ethiopia: Ethiopia's Coffee Sector Faces $453 Million Export Risk Under EU Deforestation Rules",
+          "link": "https://allafrica.com/stories/202610220474.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia could lose up to $453 million in coffee export revenue under the European Union's deforestation regulation, with compliance gaps threatening to exclude smallholder farmers from a market that accounts for around 30% of the country's coffee exports, according to an October 2026 briefing paper by ODI Global.",
+          "pubDate": "Thu, 22 Oct 2026 15:25:59 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia's Coffee Sector Faces $453 Million Export Risk Under EU Deforestation Rules"
+        },
+        {
+          "title": "Ethiopia: Drone Strikes Kill Schoolchildren in Amhara, Civilians in Tigray Regions As Conflicts Show No Sign of Abating",
+          "link": "https://allafrica.com/stories/202610220473.html",
+          "description": "[Addis Standard] Addis Abeba -- Drone strikes in Ethiopia's Amhara and Tigray regions killed schoolchildren and other civilians on Tuesday, 20 October, according to eyewitnesses and local residents who spoke to Addis Standard, adding to mounting civilian casualties amid renewed fighting between federal forces and armed opponents in both regions.",
+          "pubDate": "Thu, 22 Oct 2026 15:25:12 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Drone Strikes Kill Schoolchildren in Amhara, Civilians in Tigray Regions As Conflicts Show No Sign of Abating"
+        },
         {
           "title": "Ivory Coast: 12 charged over gendarme’s killing amid lingering election tensions",
           "link": "http://www.africanews.com/2026/10/21/ivory-coast-12-charged-over-gendarmes-killing-amid-lingering-election-tensions/",
@@ -330,15 +330,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ivory Coast: 12 charged over gendarme’s killing amid lingering election tensions"
-        },
-        {
-          "title": "Ethiopia PM warns Eritrea of 'severe consequences' if supports enemies",
-          "link": "http://www.africanews.com/2026/10/20/ethiopia-pm-warns-eritrea-of-severe-consequences-if-supports-enemies/",
-          "description": "Ethiopia's Prime Minister Abiy Ahmed warned Eritrea on Monday that it faces \"severe consequences\" if it continues to support rebels in his country",
-          "pubDate": "Tue, 20 Oct 2026 14:14:22 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopia PM warns Eritrea of 'severe consequences' if supports enemies"
         },
         {
           "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
@@ -448,15 +439,6 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Sudan: 'Many Still Missing' As Abyei Market Drone Strike Toll Rises",
-          "link": "https://allafrica.com/stories/202610220001.html",
-          "description": "[Dabanga] Abyei -- The death toll from a drone strike on Amiet market in the disputed Abyei area between Sudan and South Sudan has risen from 73 to 153, local officials say, and is expected to grow, as many people are still listed as 'missing'. The attack on Monday also forced about 8,000 people to flee, prompting condemnation from the United Nations and the UK.",
-          "pubDate": "Thu, 22 Oct 2026 04:45:29 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: 'Many Still Missing' As Abyei Market Drone Strike Toll Rises"
-        },
         {
           "title": "United Nations condemns drone strikes on civilians and infrastructure in Sudan",
           "link": "http://www.africanews.com/2026/10/21/united-nations-condemns-drone-strikes-on-civilians-and-infrastructure-in-sudan/",
