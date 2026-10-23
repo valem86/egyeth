@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T07:37:17.620Z",
+  "generatedAt": "2026-10-23T13:30:12.312Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -129,13 +129,13 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
-          "description": "Officials say they both travelled through Entebbe International Airport on 3 October.",
-          "pubDate": "Fri, 23 Oct 2026 04:54:25 GMT",
-          "source": "BBC Africa",
+          "title": "Gunfire rocks Ethiopia-Kenya border as hundreds flee",
+          "link": "http://www.africanews.com/2026/10/23/gunfire-rocks-ethiopia-kenya-border-as-hundreds-flee/",
+          "description": "Hundreds of Ethiopians crossed into Kenya on Thursday as gunfire and chaotic scenes were reported in the border town of Moyale, police said.",
+          "pubDate": "Fri, 23 Oct 2026 09:21:45 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "titleIt": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say"
+          "titleIt": "Gunfire rocks Ethiopia-Kenya border as hundreds flee"
         },
         {
           "title": "Ethiopia: Drone Strikes Kill Schoolchildren in Amhara, Civilians in Tigray Regions As Conflicts Show No Sign of Abating",
@@ -210,24 +210,6 @@
           "titleIt": "Ships and hydrofoils at risk in Gulf of Naples"
         },
         {
-          "title": "Nigeria’s Dangote group buys stake in Kenya’s oil pipeline network",
-          "link": "http://www.africanews.com/2026/10/21/nigerias-dangote-group-buys-stake-in-kenyas-oil-pipeline-network/",
-          "description": "The announcement by industrialist Aliko Dangote, comes weeks after he laid the foundation stone for an oil refinery in Kenya's Lamu port.",
-          "pubDate": "Wed, 21 Oct 2026 13:48:51 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Nigeria’s Dangote group buys stake in Kenya’s oil pipeline network"
-        },
-        {
-          "title": "Kenya: The Italian Pavilion at the “Big 5 Construct” trade show in Nairobi has been inaugurated",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/21/kenya-the-italian-pavilion-at-the-big-5-construct-trade-show-in-nairobi_721034af-fe67-4b2e-bde3-53c268efde3e.html",
-          "description": "(ANSA) - NAIROBI, 21 OTT - The Italian Ambassador to Kenya, Vincenzo Del Monaco, together with the director of the ICE Agency’s Nairobi Office, Alessandra Rainaldi, inaugurated the Italian Pavilion at the “Big 5 Construct Kenya” international trade fair—the most important expo dedicated to the construction sector—in which ICE —the Nairobi office, which also covers Tanzania and Eritrea—is participating with 21 companies from the technology, equipment, cladding, and interior finishing materials sectors. The Italian Pavilion was organized by ITA in collaboration with Finco Federazione, Anima Conf",
-          "pubDate": "Wed, 21 Oct 2026 15:06:58 +0200",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Kenya: The Italian Pavilion at the “Big 5 Construct” trade show in Nairobi has been inaugurated"
-        },
-        {
           "title": "Ethiopia : Prisoner of History , Not Geography",
           "link": "https://allafrica.com/stories/202610200686.html",
           "source": "allafrica.com",
@@ -235,15 +217,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Ethiopia : Prisoner of History , Not Geography"
-        },
-        {
-          "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-          "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
-          "description": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
-          "pubDate": "Tue, 20 Oct 2026 13:23:32 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "Kenya cult leader's children still being starved weeks before trial, son says"
         },
         {
           "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
@@ -307,12 +280,120 @@
           "lang": "en",
           "description": "",
           "titleIt": "Somalia : Somaliland Featured On Regional Alliances Map Displayed By Netanyahu"
+        },
+        {
+          "title": "Ethiopia national security imperative : Alliance with Israel and Somaliland",
+          "link": "https://www.jpost.com/opinion/article-912123",
+          "source": "jpost.com",
+          "pubDate": "2026-10-19T15:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia national security imperative : Alliance with Israel and Somaliland"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
+          "source": "thepeterboroughexaminer.com",
+          "pubDate": "2026-10-19T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
+          "source": "niagarafallsreview.ca",
+          "pubDate": "2026-10-19T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Tigray rebel leader vows to continue war against Ethiopian forces despite territorial losses",
+          "link": "https://aa.com.tr/en/africa/tigray-rebel-leader-vows-to-continue-war-against-ethiopian-forces-despite-territorial-losses/4098511",
+          "source": "aa.com.tr",
+          "pubDate": "2026-10-23T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tigray rebel leader vows to continue war against Ethiopian forces despite territorial losses"
+        },
+        {
+          "title": "Diplomacy remains Türkiye priority from Ukraine to Africa : Erdoğan",
+          "link": "https://www.dailysabah.com/politics/diplomacy-remains-turkiyes-priority-from-ukraine-to-africa-erdogan/news",
+          "source": "dailysabah.com",
+          "pubDate": "2026-10-23T13:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Diplomacy remains Türkiye priority from Ukraine to Africa : Erdoğan"
+        },
+        {
+          "title": "South Africa : Kaizer Chiefs , Raja and CS Sfaxien Face Tricky Return Ties As TotalEnergies CAF Confederation Cup Group Stage Places Go On the Line",
+          "link": "https://allafrica.com/stories/202610230241.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-23T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "South Africa : Kaizer Chiefs , Raja and CS Sfaxien Face Tricky Return Ties As TotalEnergies CAF Confederation Cup Group Stage Places Go On the Line"
+        },
+        {
+          "title": "China and Djibouti stress need to protect Red Sea shipping lanes | Hellenic Shipping News Worldwide",
+          "link": "https://www.hellenicshippingnews.com/china-and-djibouti-stress-need-to-protect-red-sea-shipping-lanes/",
+          "source": "hellenicshippingnews.com",
+          "pubDate": "2026-10-23T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China and Djibouti stress need to protect Red Sea shipping lanes | Hellenic Shipping News Worldwide"
+        },
+        {
+          "title": "Meloni reportedly on shortlist to be EU's negotiator with Russia",
+          "link": "https://www.ansa.it/english/news/2026/10/23/meloni-reportedly-on-shortlist-to-be-eus-negotiator-with-russia_05822df8-5f98-4728-8120-ef6185ea51bc.html",
+          "description": "(ANSA) - ROME, 23 OTT - Italian Premier Giorgia Meloni is on a shortlist of five figures being considered for the role of the EU's negotiator with Vladimir Putin's Russia in talks to end the war in Ukraine, The Daily Telegraph reported on Friday, citing diplomatic sources. The other figures on the shortlist are Finland's President Alexander Stubb, Czech President Petr Pavel, Danish Prime Minister Mette Frederiksen and Norwegian Prime Minister Jonas Gahr Store, the British newspaper said. (ANSA). Read article...",
+          "pubDate": "Fri, 23 Oct 2026 12:42:10 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Meloni reportedly on shortlist to be EU's negotiator with Russia"
+        },
+        {
+          "title": "Tigray is still at war , rebel leader warns , claiming tactical victories",
+          "link": "https://www.africanews.com/2026/10/23/tigray-is-still-at-war-rebel-leader-warns-claiming-tactical-victories/",
+          "source": "africanews.com",
+          "pubDate": "2026-10-23T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Tigray is still at war , rebel leader warns , claiming tactical victories"
+        },
+        {
+          "title": "Diaspora Special Status : A bridge , not a privilege",
+          "link": "https://dailynews.co.tz/diaspora-special-status-a-bridge-not-a-privilege/",
+          "source": "dailynews.co.tz",
+          "pubDate": "2026-10-23T10:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Diaspora Special Status : A bridge , not a privilege"
+        },
+        {
+          "title": "The Emilia-Romagna Region will participate in Expo 2027 Belgrade; the agreement has been signed",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/23/the-emilia-romagna-region-will-participate-in-expo-2027-belgrade-the_8266fdb4-bdcc-4582-ab65-9a09c785b10a.html",
+          "description": "(ANSA) - BELGRADO, 23 OTT - The Commissioner of the Italian Pavilion at Expo 2027 Belgrade, Ambassador to Serbia Luca Gori, and the Director General for Economic Development, Culture, and Tourism of the Emilia-Romagna Region, Roberto Ricci Mingani, signed the agreement outlining the Region’s participation in the specialized international exposition, scheduled to take place in the Serbian capital from May 15 to August 15, 2027. Expo 2027 Belgrade, titled “Playing for Humanity: Sports and Music for All,” will feature the participation of approximately 140 countries. The signed agreement implemen",
+          "pubDate": "Fri, 23 Oct 2026 11:32:41 +0200",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "The Emilia-Romagna Region will participate in Expo 2027 Belgrade; the agreement has been signed"
+        },
+        {
+          "title": "Gunfire rocks Ethiopia-Kenya border as hundreds flee",
+          "link": "http://www.africanews.com/2026/10/23/gunfire-rocks-ethiopia-kenya-border-as-hundreds-flee/",
+          "description": "Hundreds of Ethiopians crossed into Kenya on Thursday as gunfire and chaotic scenes were reported in the border town of Moyale, police said.",
+          "pubDate": "Fri, 23 Oct 2026 09:21:45 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Gunfire rocks Ethiopia-Kenya border as hundreds flee"
+        },
         {
           "title": "Coffee : The little bean that woke the world",
           "link": "https://www.thestar.com.my/business/insight/2026/10/23/coffee-the-little-bean-that-woke-the-world",
@@ -411,87 +492,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Rwanda : Nine Things to Know As Refugee Appeals Tribunal Begins Hearings"
-        },
-        {
-          "title": "East Africa : Getachew Reda , UN Envoy Discuss Horn of Africa Regional Issues",
-          "link": "https://allafrica.com/stories/202610220056.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-22T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa : Getachew Reda , UN Envoy Discuss Horn of Africa Regional Issues"
-        },
-        {
-          "title": "From the Scramble for Africa to Somalia Fragmentation : Will History Repeat Itself ?",
-          "link": "https://wardheernews.com/from-the-scramble-for-africa-to-somalias-fragmentation-will-history-repeat-itself/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-10-22T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "From the Scramble for Africa to Somalia Fragmentation : Will History Repeat Itself ?"
-        },
-        {
-          "title": "What Congo New Rebel Alliance Means for the Country Conflict",
-          "link": "https://foreignpolicy.com/2026/10/21/what-a-new-rebel-alliance-means-for-congo/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-10-22T04:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "What Congo New Rebel Alliance Means for the Country Conflict"
-        },
-        {
-          "title": "Tigray resumes daily life amid fears of wider war",
-          "link": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war",
-          "source": "aljazeera.com",
-          "pubDate": "2026-10-22T04:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tigray resumes daily life amid fears of wider war"
-        },
-        {
-          "title": "Arab News | China , Djibouti say all countries should enjoy freedom of navigation in Red Sea",
-          "link": "https://www.arabnews.com/middle-east/china-djibouti-say-all-countries-should-enjoy-freedom-of-navigation-in-red-sea-3007645",
-          "source": "arabnews.com",
-          "pubDate": "2026-10-22T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | China , Djibouti say all countries should enjoy freedom of navigation in Red Sea"
-        },
-        {
-          "title": "Dangote acquires 25 % stake in Kenya oil pipeline",
-          "link": "https://punchng.com/dangote-acquires-25-stake-in-kenya-oil-pipeline/",
-          "source": "punchng.com",
-          "pubDate": "2026-10-22T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dangote acquires 25 % stake in Kenya oil pipeline"
-        },
-        {
-          "title": "China , Djibouti say all countries should enjoy freedom of navigation in Red Sea",
-          "link": "https://whbl.com/2026/10/21/china-djibouti-say-all-countries-should-enjoy-freedom-of-navigation-in-red-sea/",
-          "source": "whbl.com",
-          "pubDate": "2026-10-22T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China , Djibouti say all countries should enjoy freedom of navigation in Red Sea"
-        },
-        {
-          "title": "Drum - Tidbit",
-          "link": "https://www.postcourier.com.pg/drum221026/",
-          "source": "postcourier.com.pg",
-          "pubDate": "2026-10-21T22:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drum - Tidbit"
-        },
-        {
-          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
-          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
-          "source": "warontherocks.com",
-          "pubDate": "2026-10-21T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
         }
       ]
     },
@@ -503,13 +503,157 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "United Nations condemns drone strikes on civilians and infrastructure in Sudan",
-          "link": "http://www.africanews.com/2026/10/21/united-nations-condemns-drone-strikes-on-civilians-and-infrastructure-in-sudan/",
-          "description": "The comments come as South Sudan says more than 150 people were killed in a strike in the disputed Abyei border region.",
-          "pubDate": "Wed, 21 Oct 2026 08:11:10 +0000",
-          "source": "Africanews",
+          "title": "Uganda: Former Busiro South MP Charles Matovu to Be Buried On Sunday",
+          "link": "https://allafrica.com/stories/202610230385.html",
+          "description": "[Nile Post] Former Busiro South Member of Parliament Charles Matovu will be buried on Sunday, October 25, 2026, at his ancestral home in Kungu-Lutale along Nakawuka Road, according to a send-off programme released by the National Unity Platform (NUP).",
+          "pubDate": "Fri, 23 Oct 2026 12:12:19 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "United Nations condemns drone strikes on civilians and infrastructure in Sudan"
+          "titleIt": "Uganda: Former Busiro South MP Charles Matovu to Be Buried On Sunday"
+        },
+        {
+          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
+          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
+          "source": "warontherocks.com",
+          "pubDate": "2026-10-21T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
+        },
+        {
+          "title": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal",
+          "link": "https://chimpreports.com/ethiopias-abiy-pushes-nuclear-power-development-after-russia-deal/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-10-21T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal"
+        },
+        {
+          "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
+          "link": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-10-20T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
+          "source": "newsday.com",
+          "pubDate": "2026-10-20T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
+          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-20T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
+          "source": "sitkasentinel.com",
+          "pubDate": "2026-10-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
+          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
+          "source": "wral.com",
+          "pubDate": "2026-10-19T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
+          "source": "thepeterboroughexaminer.com",
+          "pubDate": "2026-10-19T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
+          "source": "niagarafallsreview.ca",
+          "pubDate": "2026-10-19T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
+          "source": "arabnews.com",
+          "pubDate": "2026-10-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press",
+          "link": "https://www.winnipegfreepress.com/business/2026/10/19/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict",
+          "source": "winnipegfreepress.com",
+          "pubDate": "2026-10-19T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press"
+        },
+        {
+          "title": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem",
+          "link": "https://www.opinionnigeria.com/who-holds-the-valve-water-war-and-the-price-of-peace-by-kator-ifyalem/",
+          "source": "opinionnigeria.com",
+          "pubDate": "2026-10-18T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem"
+        },
+        {
+          "title": "The Region Real Picture , Without AI Beautification",
+          "link": "https://english.aawsat.com/opinion/5330701-region%E2%80%99s-real-picture-without-ai-beautification",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-10-18T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Region Real Picture , Without AI Beautification"
+        },
+        {
+          "title": "El Sisi insists he will leave office in 2030 as he outlines succession plan",
+          "link": "https://www.thenationalnews.com/news/mena/2026/10/17/el-sisi-insists-he-will-leave-office-in-2030-as-he-outlines-succession-plan/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-10-17T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "El Sisi insists he will leave office in 2030 as he outlines succession plan"
+        },
+        {
+          "title": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor",
+          "link": "https://www.middleeastmonitor.com/20261016-why-ethiopia-and-eritreas-march-to-war-demands-global-attention/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-10-16T16:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor"
+        },
+        {
+          "title": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia",
+          "link": "https://allafrica.com/stories/202610160214.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-16T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia"
         },
         {
           "title": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability",
@@ -519,6 +663,15 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability"
+        },
+        {
+          "title": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift",
+          "link": "https://www.thereporterethiopia.com/53223/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-06T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Reaffirms Rights Over Nile , Red Sea As Regional Alliances Shift"
         },
         {
           "title": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver",
