@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:43:27.038Z",
+  "generatedAt": "2026-10-24T11:07:56.209Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -242,6 +242,33 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "IMF Voting Power Heavily Skewed Against Developing Regions : Report",
+          "link": "https://www.thereporterethiopia.com/53645/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "IMF Voting Power Heavily Skewed Against Developing Regions : Report"
+        },
+        {
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
+        {
+          "title": "Ethiopia Intelligence Chief Warns of Red Sea Militarisation , Foreign Rivalries",
+          "link": "https://chimpreports.com/ethiopia-intelligence-chief-warns-of-red-sea-militarisation-foreign-rivalries/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-10-24T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Intelligence Chief Warns of Red Sea Militarisation , Foreign Rivalries"
+        },
+        {
           "title": "Naira devaluation made Nigeria poor , Obasanjo says - New African Magazine",
           "link": "https://newafricanmagazine.com/economy/naira-devaluation-made-nigeria-poor-obasanjo-says/",
           "source": "newafricanmagazine.com",
@@ -393,39 +420,102 @@
           "lang": "en",
           "description": "",
           "titleIt": "Ethiopia and Eritrea at Another Crossroads : Choosing Development Over Conflict"
-        },
-        {
-          "title": "Sun Peak Recommences Drill Program at the Safra VMS Project , Saudi Arabia",
-          "link": "https://investingnews.com/sun-peak-recommences-drill-program-at-the-safra-vms-project-saudi-arabia/",
-          "source": "investingnews.com",
-          "pubDate": "2026-10-22T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sun Peak Recommences Drill Program at the Safra VMS Project , Saudi Arabia"
-        },
-        {
-          "title": "Ireland charts new path in Tanzania ties",
-          "link": "https://dailynews.co.tz/ireland-charts-new-path-in-tanzania-ties/",
-          "source": "dailynews.co.tz",
-          "pubDate": "2026-10-22T09:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ireland charts new path in Tanzania ties"
-        },
-        {
-          "title": "Dangote unveils Pan - African petroleum distribution network , advocates industrial protection",
-          "link": "https://www.vanguardngr.com/2026/10/dangote-unveils-pan-african-petroleum-distribution-network-advocates-industrial-protection/",
-          "source": "vanguardngr.com",
-          "pubDate": "2026-10-22T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dangote unveils Pan - African petroleum distribution network , advocates industrial protection"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "On Egypt visit , UN chief Guterres says  we need to stop the widening of war",
+          "link": "https://news.webindia123.com/news/Articles/World/20261024/4514605.html",
+          "source": "news.webindia123.com",
+          "pubDate": "2026-10-24T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "On Egypt visit , UN chief Guterres says  we need to stop the widening of war"
+        },
+        {
+          "title": "8 - nation Istanbul talks urge diplomacy to quell Mideast conflicts",
+          "link": "https://www.dailysabah.com/politics/diplomacy/8-nation-istanbul-talks-urge-diplomacy-to-quell-mideast-conflicts",
+          "source": "dailysabah.com",
+          "pubDate": "2026-10-24T10:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "8 - nation Istanbul talks urge diplomacy to quell Mideast conflicts"
+        },
+        {
+          "title": "Nigeria : First Holdco Appoints New Non - Executive Director",
+          "link": "https://allafrica.com/stories/202610230267.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-24T09:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nigeria : First Holdco Appoints New Non - Executive Director"
+        },
+        {
+          "title": "Arab News | Intense diplomacy ongoing as Egypt seeks to avert regional escalation : foreign ministry spokesman",
+          "link": "https://www.arabnews.com/middle-east/intense-diplomacy-ongoing-as-egypt-seeks-to-avert-regional-escalation-foreign-ministry-spokesman-3008008",
+          "source": "arabnews.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | Intense diplomacy ongoing as Egypt seeks to avert regional escalation : foreign ministry spokesman"
+        },
+        {
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
+        {
+          "title": "More support needed for prisoners - or we reach crises point",
+          "link": "https://www.heraldscotland.com/opinion/26664596.support-needed-prisoners---reach-crises-point/",
+          "source": "heraldscotland.com",
+          "pubDate": "2026-10-24T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "More support needed for prisoners - or we reach crises point"
+        },
+        {
+          "title": "Russia Grain Export Shift : 10 , 000 Ruble Floor and New Corridors",
+          "link": "https://english.pravda.ru/news/business/170664-russia-grain-export-shift-price-floor-corridors/",
+          "source": "english.pravda.ru",
+          "pubDate": "2026-10-24T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Russia Grain Export Shift : 10 , 000 Ruble Floor and New Corridors"
+        },
+        {
+          "title": "Most valuable loyalty program benefits , per TPG survey",
+          "link": "https://thepointsguy.com/loyalty-programs/most-valuable-loyalty-program-benefits",
+          "source": "thepointsguy.com",
+          "pubDate": "2026-10-24T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Most valuable loyalty program benefits , per TPG survey"
+        },
+        {
+          "title": "Pastime Paradise",
+          "link": "https://canadafreepress.com/article/pastime-paradise",
+          "source": "canadafreepress.com",
+          "pubDate": "2026-10-24T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Pastime Paradise"
+        },
+        {
+          "title": "European and Middle Eastern foreign ministers urge restraint at Istanbul talks",
+          "link": "https://www.thenationalnews.com/news/mena/2026/10/23/european-and-middle-eastern-foreign-ministers-urge-restraint-at-istanbul-talks/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-10-24T05:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "European and Middle Eastern foreign ministers urge restraint at Istanbul talks"
+        },
         {
           "title": "El - Sayed clashes with Bret Baier over Roger Muslim Brotherhood allegations",
           "link": "https://www.foxnews.com/media/michigan-senate-rivals-clash-muslim-brotherhood-allegations-rogers-doubles-down-el-sayed",
@@ -515,102 +605,21 @@
           "lang": "en",
           "description": "",
           "titleIt": "Israel says it thwarted  terror attack , and other Middle East news"
-        },
-        {
-          "title": "Israel says it thwarted  terror attack , and other Middle East developments",
-          "link": "https://www.clickorlando.com/news/world/2026/10/23/israel-says-it-thwarted-terror-attack-and-other-middle-east-developments/",
-          "source": "clickorlando.com",
-          "pubDate": "2026-10-23T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel says it thwarted  terror attack , and other Middle East developments"
-        },
-        {
-          "title": "Representatives from More Than 10 Countries to Attend Russian Creative Week Eurasia in Ufa",
-          "link": "https://aninews.in/news/business/representatives-from-more-than-10-countries-to-attend-russian-creative-week-8212-eurasia-in-ufa20261023164634/",
-          "source": "aninews.in",
-          "pubDate": "2026-10-23T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Representatives from More Than 10 Countries to Attend Russian Creative Week Eurasia in Ufa"
-        },
-        {
-          "title": "South Africa : Kaizer Chiefs , Raja and CS Sfaxien Face Tricky Return Ties As TotalEnergies CAF Confederation Cup Group Stage Places Go On the Line",
-          "link": "https://allafrica.com/stories/202610230241.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-23T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "South Africa : Kaizer Chiefs , Raja and CS Sfaxien Face Tricky Return Ties As TotalEnergies CAF Confederation Cup Group Stage Places Go On the Line"
-        },
-        {
-          "title": "Israel says it thwarted  terror attack , and other Middle East developments",
-          "link": "http://www.idahopress.com/ap_news/us/israel-says-it-thwarted-terror-attack-and-other-middle-east-developments/article_0ec97e75-4d71-5c10-9472-9f0c6a201e6b.html",
-          "source": "idahopress.com",
-          "pubDate": "2026-10-23T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel says it thwarted  terror attack , and other Middle East developments"
-        },
-        {
-          "title": "Israel says it thwarted  terror attack , and other Middle East developments",
-          "link": "https://www.wsbradio.com/news/world/israel-says-it/6AEVSXDG2E4RJBDMRARFJOJA7Q/",
-          "source": "wsbradio.com",
-          "pubDate": "2026-10-23T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel says it thwarted  terror attack , and other Middle East developments"
-        },
-        {
-          "title": "Muslims have always had to prove our Americanness . Enter Abdul El - Sayed",
-          "link": "https://www.latimes.com/politics/story/2026-10-23/muslims-americanness-abdul-el-sayed",
-          "source": "latimes.com",
-          "pubDate": "2026-10-23T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Muslims have always had to prove our Americanness . Enter Abdul El - Sayed"
-        },
-        {
-          "title": "The backstory : How a battle in Egypt desert turned the tide of World War II",
-          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/the-backstory-how-a-battle-in-egypts-desert-turned-the-tide-of-world-war-ii/articleshow/135142321.cms",
-          "source": "timesofindia.indiatimes.com",
-          "pubDate": "2026-10-23T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The backstory : How a battle in Egypt desert turned the tide of World War II"
-        },
-        {
-          "title": "Republican  Muslim Brotherhood  attacks on El - Sayed in Michigan seek to exploit Democratic fault lines",
-          "link": "https://ksevradio.com/republican-muslim-brotherhood-attacks-on-el-sayed-in-michigan-seek-to-exploit-democratic-fault-lines/",
-          "source": "ksevradio.com",
-          "pubDate": "2026-10-23T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Republican  Muslim Brotherhood  attacks on El - Sayed in Michigan seek to exploit Democratic fault lines"
-        },
-        {
-          "title": "Israel says it thwarted  terror attack , and other Middle East developments",
-          "link": "https://www.ksat.com/news/world/2026/10/23/israel-says-it-thwarted-terror-attack-and-other-middle-east-developments/",
-          "source": "ksat.com",
-          "pubDate": "2026-10-23T11:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel says it thwarted  terror attack , and other Middle East developments"
-        },
-        {
-          "title": "Dirty game by Maximos Mansion with national issues to save itself from Samaras",
-          "link": "https://www.bankingnews.gr/amyna-diplomatia/articles/906741/dirty-game-by-maximos-mansion-with-national-issues-to-save-itself-from-samaras",
-          "source": "bankingnews.gr",
-          "pubDate": "2026-10-23T10:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dirty game by Maximos Mansion with national issues to save itself from Samaras"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
         {
           "title": "Ethiopia: Ethiopia's Abiy Inaugurates Major Megech Irrigation Dam",
           "link": "https://allafrica.com/stories/202610230515.html",
@@ -637,6 +646,15 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Israel's detention of Italian women in West Bank unacceptable says Tajani"
+        },
+        {
+          "title": "Uganda: Former Busiro South MP Charles Matovu to Be Buried On Sunday",
+          "link": "https://allafrica.com/stories/202610230385.html",
+          "description": "[Nile Post] Former Busiro South Member of Parliament Charles Matovu will be buried on Sunday, October 25, 2026, at his ancestral home in Kungu-Lutale along Nakawuka Road, according to a send-off programme released by the National Unity Platform (NUP).",
+          "pubDate": "Fri, 23 Oct 2026 12:12:19 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Uganda: Former Busiro South MP Charles Matovu to Be Buried On Sunday"
         },
         {
           "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
@@ -772,24 +790,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor"
-        },
-        {
-          "title": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia",
-          "link": "https://allafrica.com/stories/202610160214.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-10-16T11:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia : From Sinai to the Nile - Egypt Cannot Demand Peace From Israel While Threatening War Against Ethiopia"
-        },
-        {
-          "title": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability",
-          "link": "https://hornobserver.com/articles/3782/Opinion-The-Horn-of-Africa-Deserves-Peace-Not-Crisis-and-Instability",
-          "description": "Yet, behind these crises are millions of people who share deep historical, cultural, economic, and social ties. The region's greatest need today is not another confrontation or competing alliance, but sustainable peace, mutual respect, and regional cooperation. A Region Under Immense Pressure. The situation across the Horn of Africa and its neighboring countries illustrates how deeply interconnected regional security has become. Sudan is devastated by a crippling war, with millions displaced and its state institutions and social fabric severely damaged. Somalia continues its difficult fight ag",
-          "pubDate": "Tue, 13 Oct 2026 15:21:04 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability"
         }
       ]
     }
