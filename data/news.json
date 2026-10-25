@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-10-24T22:33:16.590Z",
+  "generatedAt": "2026-10-25T04:49:03.735Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Business News: memorandum d'intesa tra Mdc e Saipem per ampliare cooperazione",
+          "link": "https://www.agenzianova.com/a/0/7924863/2026-10-25/business-news-memorandum-d-intesa-tra-mdc-e-saipem-per-ampliare-cooperazione",
+          "description": "25 ott 03:00 - (Agenzia Nova) - Il gruppo egiziano Modern Drilling Company (Mdc), fornitore di servizi di perforazione, e la societa' energetica... (Cae)",
+          "pubDate": "2026-10-25T03:00:00+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business News: memorandum d'intesa tra Mdc e Saipem per ampliare cooperazione"
+        },
+        {
+          "title": "Business News: accordo quadro tra Egitto e Chevron per collegare giacimento cipriota Afrodite",
+          "link": "https://www.agenzianova.com/a/0/7924827/2026-10-25/business-news-accordo-quadro-tra-egitto-e-chevron-per-collegare-giacimento-cipriota-afrodite",
+          "description": "25 ott 02:00 - (Agenzia Nova) - Il ministero del Petrolio e delle Risorse minerarie dell'Egitto e la compagnia energetica statunitense Chevron... (Cae)",
+          "pubDate": "2026-10-25T02:00:00+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business News: accordo quadro tra Egitto e Chevron per collegare giacimento cipriota Afrodite"
+        },
         {
           "title": "Israel's detention of Italian women in West Bank unacceptable says Tajani",
           "link": "https://www.ansa.it/english/news/2026/10/23/israels-detention-of-italian-women-in-west-bank-unacceptable-says-tajani_dc182961-8820-4e8d-aa83-db962e86c0d6.html",
@@ -138,6 +156,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Business News: Iraq, fusione da 601 milioni di dollari tra Gulf Keystone e ShaMaran nel Kurdistan",
+          "link": "https://www.agenzianova.com/a/0/7924923/2026-10-25/business-news-iraq-fusione-da-601-milioni-di-dollari-tra-gulf-keystone-e-shamaran-nel-kurdistan",
+          "description": "25 ott 04:00 - (Agenzia Nova) - Le compagnie petrolifere Gulf Keystone Petroleum e ShaMaran Petroleum hanno raggiunto un accordo di fusione... (Irb)",
+          "pubDate": "2026-10-25T04:00:00+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business News: Iraq, fusione da 601 milioni di dollari tra Gulf Keystone e ShaMaran nel Kurdistan"
+        },
+        {
           "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
           "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
           "description": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
@@ -250,6 +277,15 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Business News: Iraq, fusione da 601 milioni di dollari tra Gulf Keystone e ShaMaran nel Kurdistan",
+          "link": "https://www.agenzianova.com/a/0/7924923/2026-10-25/business-news-iraq-fusione-da-601-milioni-di-dollari-tra-gulf-keystone-e-shamaran-nel-kurdistan",
+          "description": "25 ott 04:00 - (Agenzia Nova) - Le compagnie petrolifere Gulf Keystone Petroleum e ShaMaran Petroleum hanno raggiunto un accordo di fusione... (Irb)",
+          "pubDate": "2026-10-25T04:00:00+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business News: Iraq, fusione da 601 milioni di dollari tra Gulf Keystone e ShaMaran nel Kurdistan"
+        },
         {
           "title": "Business news: Hd Hyundai costruira' un cantiere navale negli Usa con Kiewit, previsti 3 mila posti di lavoro",
           "link": "https://www.agenzianova.com/a/0/7925742/2026-10-25/business-news-hd-hyundai-costruira-un-cantiere-navale-negli-usa-con-kiewit-previsti-3-mila-posti-di-lavoro",
@@ -389,11 +425,39 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Business News: Egitto, sterlina crolla al livello piu' basso degli ultimi cinque mesi",
+          "link": "https://www.agenzianova.com/a/0/7924866/2026-10-25/business-news-egitto-sterlina-crolla-al-livello-piu-basso-degli-ultimi-cinque-mesi",
+          "description": "25 ott 03:00 - (Agenzia Nova) - La sterlina egiziana ha toccato il suo livello piu' basso dallo scorso aprile: secondo quanto riferito dall'emittente... (Cae)",
+          "pubDate": "2026-10-25T03:00:00+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business News: Egitto, sterlina crolla al livello piu' basso degli ultimi cinque mesi"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Business News: Egitto, sterlina crolla al livello piu' basso degli ultimi cinque mesi",
+          "link": "https://www.agenzianova.com/a/0/7924866/2026-10-25/business-news-egitto-sterlina-crolla-al-livello-piu-basso-degli-ultimi-cinque-mesi",
+          "description": "25 ott 03:00 - (Agenzia Nova) - La sterlina egiziana ha toccato il suo livello piu' basso dallo scorso aprile: secondo quanto riferito dall'emittente... (Cae)",
+          "pubDate": "2026-10-25T03:00:00+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business News: Egitto, sterlina crolla al livello piu' basso degli ultimi cinque mesi"
+        },
+        {
+          "title": "Business News: accordo quadro tra Egitto e Chevron per collegare giacimento cipriota Afrodite",
+          "link": "https://www.agenzianova.com/a/0/7924827/2026-10-25/business-news-accordo-quadro-tra-egitto-e-chevron-per-collegare-giacimento-cipriota-afrodite",
+          "description": "25 ott 02:00 - (Agenzia Nova) - Il ministero del Petrolio e delle Risorse minerarie dell'Egitto e la compagnia energetica statunitense Chevron... (Cae)",
+          "pubDate": "2026-10-25T02:00:00+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Business News: accordo quadro tra Egitto e Chevron per collegare giacimento cipriota Afrodite"
+        },
         {
           "title": "Ethiopia: Ethiopia's Abiy Inaugurates Major Megech Irrigation Dam",
           "link": "https://allafrica.com/stories/202610230515.html",
@@ -420,15 +484,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Israel's detention of Italian women in West Bank unacceptable says Tajani"
-        },
-        {
-          "title": "Uganda: Former Busiro South MP Charles Matovu to Be Buried On Sunday",
-          "link": "https://allafrica.com/stories/202610230385.html",
-          "description": "[Nile Post] Former Busiro South Member of Parliament Charles Matovu will be buried on Sunday, October 25, 2026, at his ancestral home in Kungu-Lutale along Nakawuka Road, according to a send-off programme released by the National Unity Platform (NUP).",
-          "pubDate": "Fri, 23 Oct 2026 12:12:19 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Uganda: Former Busiro South MP Charles Matovu to Be Buried On Sunday"
         },
         {
           "title": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability",
