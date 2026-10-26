@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-10-26T07:52:37.343Z",
+  "generatedAt": "2026-10-26T15:15:45.050Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
+          "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
+          "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
+          "pubDate": "Mon, 26 Oct 2026 12:01:56 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
+        },
+        {
+          "title": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis",
+          "link": "https://hornobserver.com/articles/3789/SJS-says-Somali-journalists-detained-allegedly-beaten-and-forced-into-hiding-amid-political-crisis",
+          "description": "The journalists — Salah Osman and Mohamed Jeylani of Raxanreeb Online; Ibrahim Abdullahi Isak and Ibrahim Mukhtar of Kalsan TV; Aweys Mohamed Hassan of Bidhaan TV; and Abdullahi Kasim Mohamed of RTN TV — were taken away in a police vehicle and transported to Hodan District Police Station, SJS said. The incident adds to a pattern of reported intimidation against journalists covering protests, political disputes and security operations. SJS says the measures have included confiscating equipment, deleting footage, pressuring journalists to remove critical posts and mistreating media workers in cu",
+          "pubDate": "Mon, 26 Oct 2026 11:14:13 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
+        },
         {
           "title": "Israel's detention of Italian women in West Bank unacceptable says Tajani",
           "link": "https://www.ansa.it/english/news/2026/10/23/israels-detention-of-italian-women-in-west-bank-unacceptable-says-tajani_dc182961-8820-4e8d-aa83-db962e86c0d6.html",
@@ -115,15 +133,6 @@
           "titleIt": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland"
         },
         {
-          "title": "Somali families face renewed violence amid worsening hunger crisis",
-          "link": "https://hornobserver.com/articles/3768/Somali-families-face-renewed-violence-amid-worsening-hunger-crisis",
-          "description": "A health facility has also been damaged, according to the UN Children's Fund, UNICEF, and other humanitarian agencies. In the past few weeks, clashes have broken out in Baidoa, the state's largest city, between Government forces and fighters loyal to the former regional president, who was ousted in March. The army has been seeking to maintain control of the city, which it seized earlier this year. Hostilities flared on Monday, according to news reports, after thousands of local fighters entered Baidoa that morning. \"Children are once again bearing the heaviest burden of violence,\" said the UN ",
-          "pubDate": "Wed, 30 Sep 2026 22:54:31 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somali families face renewed violence amid worsening hunger crisis"
-        },
-        {
           "title": "Somalia Awaits a New Security Order as Mission Drawdown Looms",
           "link": "https://www.crisisgroup.org/cmt/africa/somalia/somalia-awaits-new-security-order-mission-drawdown-looms",
           "description": "The multilateral missions that have helped the Somali government fight Al-Shabaab for nearly two decades may be coming to an end. Mogadishu and its partners should get started now developing a plan for what they will do next.",
@@ -138,13 +147,40 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Uganda Orders 21-Day Quarantine for Citizens Returning From DRC Amid Ebola Concerns",
-          "link": "https://allafrica.com/stories/202610260135.html",
-          "description": "[Capital FM] Kampala, Uganda -- Uganda has ordered citizens returning from the Democratic Republic of the Congo (DRC) to undergo a mandatory 21-day quarantine as authorities strengthen measures to prevent the spread of Ebola amid concerns over infections reported in Kenya and Nigeria.",
-          "pubDate": "Mon, 26 Oct 2026 07:23:57 GMT",
+          "title": "Ethiopia: Ethiopian Passport Ranks Among World's Lowest, Limiting Travel to 17 Visa-Free Destinations",
+          "link": "https://allafrica.com/stories/202610260542.html",
+          "description": "[Capital FM] Nairobi -- Ethiopian passport holders can travel to only 17 countries without a visa, according to figures attributed to the 2026 Global Passport Power Index, highlighting barriers facing Ethiopian citizens seeking international business, education and cultural opportunities.",
+          "pubDate": "Mon, 26 Oct 2026 13:33:43 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Uganda Orders 21-Day Quarantine for Citizens Returning From DRC Amid Ebola Concerns"
+          "titleIt": "Ethiopia: Ethiopian Passport Ranks Among World's Lowest, Limiting Travel to 17 Visa-Free Destinations"
+        },
+        {
+          "title": "Kenya: Police, Protesters Clash During Cost-of-Living, Fuel Demonstrations",
+          "link": "https://allafrica.com/stories/202610260221.html",
+          "description": "[allAfrica] Cape Town -- Nairobi police arrested several protesters on Monday as officers and demonstrators clashed in running battles across the CBD over rising fuel prices and the cost of living, The Eastleigh Voice reports.",
+          "pubDate": "Mon, 26 Oct 2026 10:13:25 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Police, Protesters Clash During Cost-of-Living, Fuel Demonstrations"
+        },
+        {
+          "title": "Kenya: Linda Mwananchi Slams Abduction of Tanzanian Activist Twaha Mwaipaya",
+          "link": "https://allafrica.com/stories/202610260197.html",
+          "description": "[Capital FM] Nairobi -- The Linda Mwananchi movement has condemned the reported abduction of Tanzanian opposition activist Twaha Mwaipaya in Kamulu, Machakos County, demanding the immediate disclosure of his whereabouts and guarantees for his safety.",
+          "pubDate": "Mon, 26 Oct 2026 09:37:21 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Linda Mwananchi Slams Abduction of Tanzanian Activist Twaha Mwaipaya"
+        },
+        {
+          "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
+          "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
+          "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
+          "pubDate": "Mon, 26 Oct 2026 12:01:56 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
         },
         {
           "title": "Kenya: Government, Doctors Begin CBA Talks As Union Targets December Deal",
@@ -181,15 +217,6 @@
           "source": "BBC World",
           "lang": "en",
           "titleIt": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat"
-        },
-        {
-          "title": "Gunfire rocks Ethiopia-Kenya border as hundreds flee",
-          "link": "http://www.africanews.com/2026/10/23/gunfire-rocks-ethiopia-kenya-border-as-hundreds-flee/",
-          "description": "Hundreds of Ethiopians crossed into Kenya on Thursday as gunfire and chaotic scenes were reported in the border town of Moyale, police said.",
-          "pubDate": "Fri, 23 Oct 2026 09:21:45 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Gunfire rocks Ethiopia-Kenya border as hundreds flee"
         },
         {
           "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
@@ -278,31 +305,40 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Spagna-Portogallo: Moeve e Galp interrompono negoziati per creare grande gruppo energetico iberico",
-          "link": "https://www.agenzianova.com/a/0/7930642/2026-10-26/spagna-portogallo-moeve-e-galp-interrompono-negoziati-per-creare-grande-gruppo-energetico-iberico",
-          "description": "26 ott 08:34 - (Agenzia Nova) - La societa' spagnola Moeve e la portoghese Galp hanno deciso di interrompere le trattative per la creazione... (Spm)",
-          "pubDate": "2026-10-26T08:34:05+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Spagna-Portogallo: Moeve e Galp interrompono negoziati per creare grande gruppo energetico iberico"
-        },
-        {
-          "title": "South Africa: Gayton Mckenzie's Blu Label Visits Raise Fresh Questions Over Ticketpro Sale",
-          "link": "https://allafrica.com/stories/202610260143.html",
-          "description": "[Daily Maverick] Sports Minister Gayton McKenzie made repeated visits to JSE-listed technology group Blu Label before it sold its Ticketpro subsidiary to a consortium linked to his political party, fuelling suspicions about his influence on the controversial deal.",
-          "pubDate": "Mon, 26 Oct 2026 07:28:12 GMT",
+          "title": "Ethiopia: Moyale Clashes Leave Trail of Death, Destruction Across Seven Districts - Tens of Thousands Flee to Kenya",
+          "link": "https://allafrica.com/stories/202610260664.html",
+          "description": "[Addis Standard] Addis Abeba -- Fighting triggered by a dispute over the display of the Somali regional state flag in border city Moyale, a city administered by both Oromia and Somali regions, has spread across seven districts over the weekend, leaving a trail of deaths, injuries and property destruction. Tens of thousands have also fled across the border into Kenya seeking safety.",
+          "pubDate": "Mon, 26 Oct 2026 15:08:44 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "South Africa: Gayton Mckenzie's Blu Label Visits Raise Fresh Questions Over Ticketpro Sale"
+          "titleIt": "Ethiopia: Moyale Clashes Leave Trail of Death, Destruction Across Seven Districts - Tens of Thousands Flee to Kenya"
         },
         {
-          "title": "Zimbabwe: Zimbabwe Chases Trade and Investment Deals At Russia-Africa Summit",
-          "link": "https://allafrica.com/stories/202610260105.html",
-          "description": "[New Zimbabwe] PRESIDENT Emmerson Mnangagwa touched down in Russia at the weekend for the 3rd Russia-Africa Summit and Economic Forum, with Zimbabwe pushing to lock in deals that will diversify the economy, expand trade, and create opportunities for young people.",
-          "pubDate": "Mon, 26 Oct 2026 06:53:02 GMT",
+          "title": "Ethiopia: Ethiopian Passport Ranks Among World's Lowest, Limiting Travel to 17 Visa-Free Destinations",
+          "link": "https://allafrica.com/stories/202610260542.html",
+          "description": "[Capital FM] Nairobi -- Ethiopian passport holders can travel to only 17 countries without a visa, according to figures attributed to the 2026 Global Passport Power Index, highlighting barriers facing Ethiopian citizens seeking international business, education and cultural opportunities.",
+          "pubDate": "Mon, 26 Oct 2026 13:33:43 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Zimbabwe: Zimbabwe Chases Trade and Investment Deals At Russia-Africa Summit"
+          "titleIt": "Ethiopia: Ethiopian Passport Ranks Among World's Lowest, Limiting Travel to 17 Visa-Free Destinations"
+        },
+        {
+          "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
+          "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
+          "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
+          "pubDate": "Mon, 26 Oct 2026 12:01:56 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
+        },
+        {
+          "title": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis",
+          "link": "https://hornobserver.com/articles/3789/SJS-says-Somali-journalists-detained-allegedly-beaten-and-forced-into-hiding-amid-political-crisis",
+          "description": "The journalists — Salah Osman and Mohamed Jeylani of Raxanreeb Online; Ibrahim Abdullahi Isak and Ibrahim Mukhtar of Kalsan TV; Aweys Mohamed Hassan of Bidhaan TV; and Abdullahi Kasim Mohamed of RTN TV — were taken away in a police vehicle and transported to Hodan District Police Station, SJS said. The incident adds to a pattern of reported intimidation against journalists covering protests, political disputes and security operations. SJS says the measures have included confiscating equipment, deleting footage, pressuring journalists to remove critical posts and mistreating media workers in cu",
+          "pubDate": "Mon, 26 Oct 2026 11:14:13 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
         },
         {
           "title": "Meloni reportedly on shortlist to be EU's negotiator with Russia",
@@ -321,15 +357,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "The Emilia-Romagna Region will participate in Expo 2027 Belgrade; the agreement has been signed"
-        },
-        {
-          "title": "Gunfire rocks Ethiopia-Kenya border as hundreds flee",
-          "link": "http://www.africanews.com/2026/10/23/gunfire-rocks-ethiopia-kenya-border-as-hundreds-flee/",
-          "description": "Hundreds of Ethiopians crossed into Kenya on Thursday as gunfire and chaotic scenes were reported in the border town of Moyale, police said.",
-          "pubDate": "Fri, 23 Oct 2026 09:21:45 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Gunfire rocks Ethiopia-Kenya border as hundreds flee"
         },
         {
           "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
@@ -404,15 +431,6 @@
           "titleIt": "Journalists face arrests and alleged assaults while covering evictions in Somalia and Somaliland"
         },
         {
-          "title": "Diplomatic Break: Ethiopia and Eritrea Slide Into a New Crisis",
-          "link": "https://hornobserver.com/articles/3769/Diplomatic-Break-Ethiopia-and-Eritrea-Slide-Into-a-New-Crisis",
-          "description": "Ethiopia's Foreign Ministry said Thursday that the embassy closure was a response to what it described as Eritrea's \"direct and indirect acts of hostility and belligerence\" toward Ethiopia. The ministry also accused the expelled diplomats of engaging in activities that threatened Ethiopia's national security and violated the Vienna Convention on Diplomatic Relations. Among those ordered to leave Ethiopia within 48 hours were Eritrea's charg&eacute; d'affaires and officials accredited to the African Union, according to the Ethiopian government. Eritrea rejected the accusations, arguing that Eth",
-          "pubDate": "Fri, 02 Oct 2026 17:35:54 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Diplomatic Break: Ethiopia and Eritrea Slide Into a New Crisis"
-        },
-        {
           "title": "Containing the New War in Northern Ethiopia",
           "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
           "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
@@ -431,31 +449,22 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning",
-          "link": "https://allafrica.com/stories/202610260012.html",
-          "description": "[Dabanga] Amsterdam / London / Khartoum -- A joint statement by the UK and 31 partners urges the warring parties to lift restrictions on aid, protect humanitarian workers, and allow air access into Darfur as food insecurity worsens. The Emergency Lawyers group has welcomed the joint ministerial statement, while the displaced people's coordination body calls for 90-day humanitarian truce in Sudan,",
-          "pubDate": "Mon, 26 Oct 2026 04:42:39 GMT",
+          "title": "Ethiopia: Moyale Clashes Leave Trail of Death, Destruction Across Seven Districts - Tens of Thousands Flee to Kenya",
+          "link": "https://allafrica.com/stories/202610260664.html",
+          "description": "[Addis Standard] Addis Abeba -- Fighting triggered by a dispute over the display of the Somali regional state flag in border city Moyale, a city administered by both Oromia and Somali regions, has spread across seven districts over the weekend, leaving a trail of deaths, injuries and property destruction. Tens of thousands have also fled across the border into Kenya seeking safety.",
+          "pubDate": "Mon, 26 Oct 2026 15:08:44 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Sudan: Famine Risk Is Rising in Sudan As 19.5 Million Face Acute Hunger - UK-Led Warning"
+          "titleIt": "Ethiopia: Moyale Clashes Leave Trail of Death, Destruction Across Seven Districts - Tens of Thousands Flee to Kenya"
         },
         {
-          "title": "Sudan: 'Sudan Drone Strikes Killed 306 in Three Weeks' - UN Human Rights Chief",
-          "link": "https://allafrica.com/stories/202610260009.html",
-          "description": "[Dabanga] Amsterdam / Geneva / Sudan -- The UN Human Rights Office documented hundreds of deaths and injuries in October, with attacks attributed to both sides hitting displacement sites, markets, hospitals, and vital infrastructure. The UN Security Council has separately condemned deadly drone strikes in Abyei.",
-          "pubDate": "Mon, 26 Oct 2026 04:42:38 GMT",
-          "source": "AllAfrica",
+          "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
+          "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
+          "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
+          "pubDate": "Mon, 26 Oct 2026 12:01:56 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "titleIt": "Sudan: 'Sudan Drone Strikes Killed 306 in Three Weeks' - UN Human Rights Chief"
-        },
-        {
-          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
-          "link": "https://www.thereporterethiopia.com/53621/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-24T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+          "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
         },
         {
           "title": "Israel's detention of Italian women in West Bank unacceptable says Tajani",
@@ -476,139 +485,22 @@
           "titleIt": "Israel's detention of Italian women in West Bank unacceptable says Tajani"
         },
         {
-          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
-          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
-          "source": "warontherocks.com",
-          "pubDate": "2026-10-21T20:30:00Z",
+          "title": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability",
+          "link": "https://hornobserver.com/articles/3782/Opinion-The-Horn-of-Africa-Deserves-Peace-Not-Crisis-and-Instability",
+          "description": "Yet, behind these crises are millions of people who share deep historical, cultural, economic, and social ties. The region's greatest need today is not another confrontation or competing alliance, but sustainable peace, mutual respect, and regional cooperation. A Region Under Immense Pressure. The situation across the Horn of Africa and its neighboring countries illustrates how deeply interconnected regional security has become. Sudan is devastated by a crippling war, with millions displaced and its state institutions and social fabric severely damaged. Somalia continues its difficult fight ag",
+          "pubDate": "Tue, 13 Oct 2026 15:21:04 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
+          "titleIt": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability"
         },
         {
-          "title": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal",
-          "link": "https://chimpreports.com/ethiopias-abiy-pushes-nuclear-power-development-after-russia-deal/",
-          "source": "chimpreports.com",
-          "pubDate": "2026-10-21T12:00:00Z",
+          "title": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver",
+          "link": "https://hornobserver.com/articles/3771/Sudan-WFP-Strongly-Condemns-Attack-On-Trucks-In-South-Kordofan-Killing-One-Driver",
+          "description": "One driver was killed in the air strike. We extend our deepest condolences to his family, friends and colleagues. The contracted trucks were en route from Dilling to Kadugli and clearly marked as humanitarian vehicles. Additional details regarding the circumstances of the incident, including the extent of the damage to the food cargo, are still being collected. WFP calls for a prompt and impartial investigation into this incident and for those responsible for any violations to be held accountable. This latest attack comes only one day after a WFP truck struck an explosive device in Dilling, So",
+          "pubDate": "Mon, 05 Oct 2026 19:10:20 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal"
-        },
-        {
-          "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
-          "link": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-10-20T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
-          "source": "newsday.com",
-          "pubDate": "2026-10-20T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
-          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-20T02:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
-          "source": "sitkasentinel.com",
-          "pubDate": "2026-10-19T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
-          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
-          "source": "wral.com",
-          "pubDate": "2026-10-19T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
-          "source": "thepeterboroughexaminer.com",
-          "pubDate": "2026-10-19T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
-          "source": "niagarafallsreview.ca",
-          "pubDate": "2026-10-19T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
-          "source": "arabnews.com",
-          "pubDate": "2026-10-19T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press",
-          "link": "https://www.winnipegfreepress.com/business/2026/10/19/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict",
-          "source": "winnipegfreepress.com",
-          "pubDate": "2026-10-19T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press"
-        },
-        {
-          "title": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem",
-          "link": "https://www.opinionnigeria.com/who-holds-the-valve-water-war-and-the-price-of-peace-by-kator-ifyalem/",
-          "source": "opinionnigeria.com",
-          "pubDate": "2026-10-18T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem"
-        },
-        {
-          "title": "The Region Real Picture , Without AI Beautification",
-          "link": "https://english.aawsat.com/opinion/5330701-region%E2%80%99s-real-picture-without-ai-beautification",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-10-18T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Region Real Picture , Without AI Beautification"
-        },
-        {
-          "title": "El Sisi insists he will leave office in 2030 as he outlines succession plan",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/17/el-sisi-insists-he-will-leave-office-in-2030-as-he-outlines-succession-plan/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-10-17T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "El Sisi insists he will leave office in 2030 as he outlines succession plan"
-        },
-        {
-          "title": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor",
-          "link": "https://www.middleeastmonitor.com/20261016-why-ethiopia-and-eritreas-march-to-war-demands-global-attention/",
-          "source": "middleeastmonitor.com",
-          "pubDate": "2026-10-16T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Why Ethiopia and Eritrea march to war demands global attention – Middle East Monitor"
+          "titleIt": "Sudan: WFP Strongly Condemns Attack On Trucks In South Kordofan, Killing One Driver"
         }
       ]
     }
