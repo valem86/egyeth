@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T05:54:35.973Z",
+  "generatedAt": "2026-10-29T13:10:08.157Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -41,15 +41,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt detains journalist Lina Attalah after court ruling"
-        },
-        {
-          "title": "Ambassador to Senegal Presents Credentials, ‘New Momentum for Relations’",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/27/ambassador-to-senegal-presents-credentials-new-momentum-for-relations_d9de3497-0226-4ee0-a11b-c204afd8cbde.html",
-          "description": "(ANSA) - IL CAIRO, 27 OTT - The Italian Ambassador to Senegal, Michele Tommasi, presented his credentials to President Bassirou Diomaye Faye in recent days. On that occasion, the ambassador expressed his “determination to work toward a partnership among equals, based on mutual respect, listening, and dialogue, in the belief that each party’s success must also contribute to the other’s.” “It is in this spirit,” he added in a message posted on social media, “that Italy intends to give new impetus to its relations with Senegal, so that together, in trust and friendship, we may build the condition",
-          "pubDate": "Tue, 27 Oct 2026 14:42:02 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Ambassador to Senegal Presents Credentials, ‘New Momentum for Relations’"
         },
         {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
@@ -156,13 +147,31 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Ruto Joins African Leaders At Kremlin Gala Reception",
-          "link": "https://allafrica.com/stories/202610290153.html",
-          "description": "[Capital FM] Nairobi -- President William Ruto is calling for stronger economic and developmental ties between Africa and Russia, urging both sides to build on their historical relations to unlock new opportunities.",
-          "pubDate": "Thu, 29 Oct 2026 05:29:10 GMT",
+          "title": "Kenya: Ruto Urges Russia to Invest in African Industries, Technology Transfer",
+          "link": "https://allafrica.com/stories/202610290436.html",
+          "description": "[Capital FM] Nairobi -- President William Ruto has urged Russia to invest in African industries, technology transfer and skills development, saying the continent must move away from exporting raw materials and importing finished products.",
+          "pubDate": "Thu, 29 Oct 2026 12:05:48 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Ruto Joins African Leaders At Kremlin Gala Reception"
+          "titleIt": "Kenya: Ruto Urges Russia to Invest in African Industries, Technology Transfer"
+        },
+        {
+          "title": "Kenya: Gachagua Dismisses 'Unelectable Mobiliser'tag",
+          "link": "https://allafrica.com/stories/202610290351.html",
+          "description": "[Capital FM] Nairobi -- Democracy for the Citizens Party presidential candidate Rigathi Gachagua has defended the importance of voter mobilisation, saying the ability to rally supporters is essential for anyone seeking to become Kenya's next president.",
+          "pubDate": "Thu, 29 Oct 2026 10:57:30 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Gachagua Dismisses 'Unelectable Mobiliser'tag"
+        },
+        {
+          "title": "Sudan: Sudan Once Again Accuses Ethiopia of Involvement in Drone Strikes Targeting Power Stations, Civilian Sites",
+          "link": "https://allafrica.com/stories/202610290159.html",
+          "description": "[Addis Standard] Addis Abeba -- Sudan has once again accused neighbouring Ethiopia of involvement in drone attacks targeting civilian infrastructure, fuel depots and power stations, alleging that drones used in recent strikes were launched from Ethiopian territory, including Bahir Dar Airport.",
+          "pubDate": "Thu, 29 Oct 2026 06:35:06 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudan Once Again Accuses Ethiopia of Involvement in Drone Strikes Targeting Power Stations, Civilian Sites"
         },
         {
           "title": "Ethiopia: More Than 50 Detained After Burying Victims of Deadly Attacks On Orthodox Faithful in Ethiopia's Oromia",
@@ -183,6 +192,15 @@
           "titleIt": "U.S. Troops Withdraw from Belidogle Military Airfield as Security Situation Evolves in Southwest Somalia"
         },
         {
+          "title": "Africa: Africa CDC Commends Kenya's Decisive Leadership and Strengthens Joint Efforts to Contain Ebola",
+          "link": "https://allafrica.com/stories/202610280037.html",
+          "description": "[Africa CDC] H.E. Dr Jean Kaseya, Director-General of the Africa Centres for Disease Control and Prevention (Africa CDC), met with Hon. Aden Duale, Cabinet Secretary for Health of the Republic of Kenya, to commend Kenya's decisive leadership and swift response to the Ebola outbreak, and reaffirm Africa CDC's commitment to supporting the country's containment efforts and safeguarding continental health security.",
+          "pubDate": "Wed, 28 Oct 2026 04:38:53 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Africa CDC Commends Kenya's Decisive Leadership and Strengthens Joint Efforts to Contain Ebola"
+        },
+        {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
           "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
           "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
@@ -192,76 +210,121 @@
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
         },
         {
-          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
-          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
-          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
-          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
-          "source": "Horn Observer",
+          "title": "Somaliland journalist detained after interviewing Somalia presidential hopeful",
+          "link": "https://horseedmedia.net/somaliland-journalist-detained-after-interviewing-somalia-presidential-hopeful/426800/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-10-24T18:00:00Z",
           "lang": "en",
-          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
+          "description": "",
+          "titleIt": "Somaliland journalist detained after interviewing Somalia presidential hopeful"
         },
         {
-          "title": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet",
-          "link": "https://www.thenewhumanitarian.org/news/2026/10/16/ethiopia-eritrea-war-fears-gaza-base-blocked-kabila-new-coalition-cheat-sheet",
-          "description": "A weekly read to keep you in the loop on humanitarian issues.",
-          "pubDate": "Fri, 16 Oct 26 14:59:14 +0000",
-          "source": "The New Humanitarian",
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
           "lang": "en",
-          "titleIt": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet"
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
         },
         {
-          "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
-          "link": "https://hornobserver.com/articles/3780/Somalia-national-intelligence-agency-abducts-journalist-reporting-on-security-tensions-in-Mogadishu",
-          "description": "At midday on Sunday, plainclothes NISA officers abducted journalist Khadar Abdirahim Ibrahim of Himilo Media in Mogadishu, according to his colleagues. Khadar was on his lunch break when NISA officers approached him at a restaurant near Himilo Media's offices in the Wadajir district of Mogadishu. A colleague who spoke to SJS said that was the last time they saw him. Earlier on Sunday morning, before Khadar's reported abduction, another Himilo Media journalist, Abdifatah Mohamed Hared, a cameraman, was stopped and slapped by NISA officers who had established a checkpoint on the road leading to ",
-          "pubDate": "Mon, 12 Oct 2026 16:34:06 +0300",
-          "source": "Horn Observer",
+          "title": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition",
+          "link": "https://www.garoweonline.com/en/world/africa/china-and-djibouti-send-clear-message-to-israel-over-somaliland-recognition",
+          "source": "garoweonline.com",
+          "pubDate": "2026-10-24T06:45:00Z",
           "lang": "en",
-          "titleIt": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu"
+          "description": "",
+          "titleIt": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition"
         },
         {
-          "title": "Death toll rises to 139 after migrant boat capsizes off Djibouti",
-          "link": "https://hornobserver.com/articles/3779/Death-toll-rises-to-139-after-migrant-boat-capsizes-off-Djibouti",
-          "description": "The boat went down during the night of Oct. 8-9 near Guehere, north of the port town of Obock. The death toll rose from 109 after 30 more bodies were recovered, the International Organization for Migration said. About 82 people survived, while search and recovery operations continued. The shipwreck is among the deadliest recorded on the Eastern Route, a migration corridor used by people traveling from the Horn of Africa toward Yemen and other destinations in the Arabian Peninsula. The African Union Commission expressed sorrow over the disaster in a statement issued Sunday. Its chairperson, Mah",
-          "pubDate": "Mon, 12 Oct 2026 13:44:28 +0300",
-          "source": "Horn Observer",
+          "title": "Why Israeli recognition has been a double - edged sword for Somaliland",
+          "link": "https://www.csmonitor.com/World/Africa/2026/1022/somaliland-recognition-israel-trump",
+          "source": "csmonitor.com",
+          "pubDate": "2026-10-22T09:30:00Z",
           "lang": "en",
-          "titleIt": "Death toll rises to 139 after migrant boat capsizes off Djibouti"
+          "description": "",
+          "titleIt": "Why Israeli recognition has been a double - edged sword for Somaliland"
         },
         {
-          "title": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
-          "link": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
-          "description": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
-          "pubDate": "Sun, 11 Oct 2026 23:13:20 GMT",
-          "source": "BBC Africa",
+          "title": "Somalia : Somaliland Leads Abraham Accords Predictions On Polymarket",
+          "link": "https://allafrica.com/stories/202610220051.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-22T06:30:00Z",
           "lang": "en",
-          "titleIt": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds"
+          "description": "",
+          "titleIt": "Somalia : Somaliland Leads Abraham Accords Predictions On Polymarket"
         },
         {
-          "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
-          "link": "https://hornobserver.com/articles/3776/Somalia-Xawaadle-Elders-and-Al-Shabaab-Reportedly-Reach-Truce-in-Hiiraan",
-          "description": "A 16-point joint statement circulated by Al-Shabaab-affiliated media&nbsp; said the sides had resolved their disputes and agreed to maintain peace in areas controlled or influenced by the clan. The reported agreement includes a commitment by Hawadle elders not to allow the recruitment or operation of Macawiisley fighters in their areas or provide them with shelter. Macawiisley forces from Hiiraan have played a key role in supporting Somali government troops against Al-Shabaab. The meeting in Maxaas was attended by dozens of traditional elders, while Al-Shabaab was represented by senior figures",
-          "pubDate": "Tue, 06 Oct 2026 21:41:19 +0300",
-          "source": "Horn Observer",
+          "title": "From the Scramble for Africa to Somalia Fragmentation : Will History Repeat Itself ?",
+          "link": "https://wardheernews.com/from-the-scramble-for-africa-to-somalias-fragmentation-will-history-repeat-itself/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-10-22T06:15:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan"
+          "description": "",
+          "titleIt": "From the Scramble for Africa to Somalia Fragmentation : Will History Repeat Itself ?"
         },
         {
-          "title": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation",
-          "link": "https://hornobserver.com/articles/3775/Somalia-NISA-Says-Key-Al-Shabaab-Security-Chief-Killed-in-Jilib-Operation",
-          "description": "According to NISA, the operation was carried out by its forces with support from international partners that targeted Nunow who served as the head of Al-Shabaab's intelligence and security wing, known as the \"Amniyat,\" from 2016 to 2024. Nunow also used the aliases Geescadde, Fanax, Gardhuub and Ali Dheere. Somalia's NISA accused Nunow of playing a key role in planning and carrying out attacks targeting Somali civilians. Among the attacks NISA linked to him were the October 14, 2017, bombing at the Zoobe intersection in Mogadishu, the Ex-Control Afgooye attack, the second Zoobe attack, and oth",
-          "pubDate": "Tue, 06 Oct 2026 21:03:29 +0300",
-          "source": "Horn Observer",
+          "title": "Somalia Says Somaliland Visa Row Is Over , 21 Oct 2026",
+          "link": "https://www.riotimesonline.com/somalia-somaliland-visa-row-ends-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-21T20:45:00Z",
           "lang": "en",
-          "titleIt": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation"
+          "description": "",
+          "titleIt": "Somalia Says Somaliland Visa Row Is Over , 21 Oct 2026"
         },
         {
-          "title": "Ebola Crosses Border Into Kenya as First Imported Bundibugyo Case Confirmed",
-          "link": "https://hornobserver.com/articles/3773/Ebola-Crosses-Border-Into-Kenya-as-First-Imported-Bundibugyo-Case-Confirmed",
-          "description": "The man became ill about a month ago while in Congo, where he was treated at several hospitals before traveling by road to Kampala, Uganda. He then boarded a Jambojet flight to Nairobi, arriving at Jomo Kenyatta International Airport on Oct. 3. He was taken directly to Nairobi Hospital and isolated, according to the ministry. The patient had symptoms including fever, chills, severe fatigue, muscle pain, painful swallowing, a sore throat and bleeding beneath the skin. Tests at Kenya's National Virology Reference Laboratory and the Kenya Medical Research Institute confirmed Bundibugyo Ebola viru",
-          "pubDate": "Tue, 06 Oct 2026 17:19:18 +0300",
-          "source": "Horn Observer",
+          "title": "Ethiopia : Prisoner of History , Not Geography",
+          "link": "https://allafrica.com/stories/202610200686.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-20T21:00:00Z",
           "lang": "en",
-          "titleIt": "Ebola Crosses Border Into Kenya as First Imported Bundibugyo Case Confirmed"
+          "description": "",
+          "titleIt": "Ethiopia : Prisoner of History , Not Geography"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
+          "source": "newsday.com",
+          "pubDate": "2026-10-20T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
+          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-20T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
+        },
+        {
+          "title": "Ethiopia national security imperative : Alliance with Israel and Somaliland",
+          "link": "http://www.jpost.com/opinion/article-912123",
+          "source": "jpost.com",
+          "pubDate": "2026-10-19T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia national security imperative : Alliance with Israel and Somaliland"
+        },
+        {
+          "title": "Netanyahu map shows RSF  friendly  to Israel and UAE , backing for separatist movements",
+          "link": "https://www.middleeasteye.net/news/netanyahu-map-shows-rsf-friendly-israel-and-uae-backing-separatist-movements",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-10-19T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Netanyahu map shows RSF  friendly  to Israel and UAE , backing for separatist movements"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
+          "source": "sitkasentinel.com",
+          "pubDate": "2026-10-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
         }
       ]
     },
@@ -269,13 +332,49 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Malawi: Minister Mukhito Apologises for Passport Delays, Promises Urgent Action",
-          "link": "https://allafrica.com/stories/202610290122.html",
-          "description": "[Nyasa Times] The Malawi government said Wednesday it is moving urgently to end persistent passport delays, which have left citizens unable to pursue jobs, education, medical care and business dealings, after disturbances at a Lilongwe immigration office left an officer injured and property damaged.",
-          "pubDate": "Thu, 29 Oct 2026 05:07:51 GMT",
+          "title": "MPS shareholders reject merger with Mediobanca",
+          "link": "https://www.ansa.it/english/news/business/2026/10/29/mps-shareholders-reject-merger-with-mediobanca_9b778edd-38e6-462f-912d-9b45fd896810.html",
+          "description": "(ANSA) - ROME, 29 OTT - The shareholders of Monte dei Paschi di Siena (MPS) on Thursday rejected a proposal for the bank to merge with Mediobanca. The proposal needed the support of two-thirds of the bank's capital to be approved, but 63.65% voted against, with only 32.91% in favour and 3.42% abstaining. The merger was part of CEO Luigi Lovaglio's plan to fend off a 33-billion-euro takeover ‌bid by Intesa Sanpaolo for MPS. Intesa Sanpaolo had asked MPS's shareholders to reject the merger, in view of its takeover. MPS took over Mediobanca, Italy's premier merchant bank, earlier this year. Lovag",
+          "pubDate": "Thu, 29 Oct 2026 13:37:27 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "MPS shareholders reject merger with Mediobanca"
+        },
+        {
+          "title": "MPS shareholders reject merger with Mediobanca",
+          "link": "https://www.ansa.it/english/news/2026/10/29/mps-shareholders-reject-merger-with-mediobanca_02558797-86fd-48a8-80df-755ea4ba0b1d.html",
+          "description": "(ANSA) - ROME, 29 OTT - The shareholders of Monte dei Paschi di Siena (MPS) on Thursday rejected a proposal for the bank to merge with Mediobanca. The proposal needed the support of two-thirds of the bank's capital to be approved, but 63.65% voted against, with only 32.91% in favour and 3.42% abstaining. The merger was part of CEO Luigi Lovaglio's plan to fend off a 33-billion-euro takeover ‌bid by Intesa Sanpaolo for MPS. Intesa Sanpaolo had asked MPS's shareholders to reject the merger, in view of its takeover. MPS took over Mediobanca, Italy's premier merchant bank, earlier this year. Lovag",
+          "pubDate": "Thu, 29 Oct 2026 13:30:17 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "MPS shareholders reject merger with Mediobanca"
+        },
+        {
+          "title": "Ethiopia: Former PM Hailemariam Says Ethiopia's Pursuit of Sea Access Rational",
+          "link": "https://allafrica.com/stories/202610290437.html",
+          "description": "[ENA] Addis Ababa -- Ethiopia's pursuit of sustainable sea access is a rational and undeniable national aspiration that should be addressed through dialogue and negotiations, former Prime Minister Hailemariam Desalegn said.",
+          "pubDate": "Thu, 29 Oct 2026 12:05:51 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Malawi: Minister Mukhito Apologises for Passport Delays, Promises Urgent Action"
+          "titleIt": "Ethiopia: Former PM Hailemariam Says Ethiopia's Pursuit of Sea Access Rational"
+        },
+        {
+          "title": "Consul Frandi’s Lecture on the Bond Between Italy and the American Northeast",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/29/consul-frandis-lecture-on-the-bond-between-italy-and-the-american_7eceebc2-43df-4cb6-bef4-94a20575d877.html",
+          "description": "(ANSA) - ROMA, 29 OTT - At the historic Merion Cricket Club in Haverford, the Consul General of Italy in Philadelphia, Nico Frandi, delivered a speech dedicated to the deep bond that unites Italy and the United States. In particular, the consul referred to the American Northeast and the territory of the consular district: a solid bridge built over more than three centuries of exploration, a fruitful exchange of ideas, goods, and strategic and sector-specific alliances, but, above all, through the active contribution of the great Italian migration. The occasion also served as an opportunity to ",
+          "pubDate": "Thu, 29 Oct 2026 11:14:35 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Consul Frandi’s Lecture on the Bond Between Italy and the American Northeast"
+        },
+        {
+          "title": "Sudan: Sudan Once Again Accuses Ethiopia of Involvement in Drone Strikes Targeting Power Stations, Civilian Sites",
+          "link": "https://allafrica.com/stories/202610290159.html",
+          "description": "[Addis Standard] Addis Abeba -- Sudan has once again accused neighbouring Ethiopia of involvement in drone attacks targeting civilian infrastructure, fuel depots and power stations, alleging that drones used in recent strikes were launched from Ethiopian territory, including Bahir Dar Airport.",
+          "pubDate": "Thu, 29 Oct 2026 06:35:06 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudan Once Again Accuses Ethiopia of Involvement in Drone Strikes Targeting Power Stations, Civilian Sites"
         },
         {
           "title": "Wars, unhappiness, and loneliness frighten nearly 1 in 2 young people, survey finds",
@@ -314,15 +413,6 @@
           "titleIt": "Senseless wars diverting resources from medical research says Mattarella"
         },
         {
-          "title": "Nigeria: Govt, Labour Congress Agree on Allowances, Arrears",
-          "link": "https://allafrica.com/stories/202610280182.html",
-          "description": "[Vanguard] The Federal Government and the Nigeria Labour Congress, NLC, have reached an agreement on a series of measures to ease the economic difficulties facing workers, including a ₦70,000 transport intervention and the payment of 19 months' arrears owed health workers.",
-          "pubDate": "Wed, 28 Oct 2026 07:38:33 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Nigeria: Govt, Labour Congress Agree on Allowances, Arrears"
-        },
-        {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
           "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
           "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
@@ -341,76 +431,85 @@
           "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
         },
         {
-          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
-          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
-          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
-          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
-          "source": "Horn Observer",
+          "title": "Eritrea Gambia Diplomatic Relations Set Up in New York",
+          "link": "https://www.riotimesonline.com/eritrea-gambia-diplomatic-relations-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-25T09:45:00Z",
           "lang": "en",
-          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
+          "description": "",
+          "titleIt": "Eritrea Gambia Diplomatic Relations Set Up in New York"
         },
         {
-          "title": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet",
-          "link": "https://www.thenewhumanitarian.org/news/2026/10/16/ethiopia-eritrea-war-fears-gaza-base-blocked-kabila-new-coalition-cheat-sheet",
-          "description": "A weekly read to keep you in the loop on humanitarian issues.",
-          "pubDate": "Fri, 16 Oct 26 14:59:14 +0000",
-          "source": "The New Humanitarian",
+          "title": "Starlink and new era of digital connectivity and inclusion",
+          "link": "https://capitalethiopia.com/2026/10/25/starlink-and-new-era-of-digital-connectivity-and-inclusion/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-10-25T05:30:00Z",
           "lang": "en",
-          "titleIt": "Ethiopia-Eritrea war fears, Gaza military base blocked, and Kabila’s new coalition: The Cheat Sheet"
+          "description": "",
+          "titleIt": "Starlink and new era of digital connectivity and inclusion"
         },
         {
-          "title": "Why Rwanda's deal for F1 race remains controversial",
-          "link": "https://www.bbc.co.uk/sport/formula1/articles/c61kdv3k9gm2o?at_medium=RSS&at_campaign=rss",
-          "description": "Formula 1 will return to Africa in the early 2030s, but Rwanda's deal to stage a race has prompted accusations of sportswashing against the country.",
-          "pubDate": "Wed, 14 Oct 2026 14:47:31 GMT",
-          "source": "BBC Africa",
+          "title": "Several dead in clashes between rival Ethiopia armies",
+          "link": "https://www.omanobserver.om/article/1198471/world/africa/several-dead-in-clashes-between-rival-ethiopia-armies",
+          "source": "omanobserver.om",
+          "pubDate": "2026-10-24T16:00:00Z",
           "lang": "en",
-          "titleIt": "Why Rwanda's deal for F1 race remains controversial"
+          "description": "",
+          "titleIt": "Several dead in clashes between rival Ethiopia armies"
         },
         {
-          "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
-          "link": "https://hornobserver.com/articles/3780/Somalia-national-intelligence-agency-abducts-journalist-reporting-on-security-tensions-in-Mogadishu",
-          "description": "At midday on Sunday, plainclothes NISA officers abducted journalist Khadar Abdirahim Ibrahim of Himilo Media in Mogadishu, according to his colleagues. Khadar was on his lunch break when NISA officers approached him at a restaurant near Himilo Media's offices in the Wadajir district of Mogadishu. A colleague who spoke to SJS said that was the last time they saw him. Earlier on Sunday morning, before Khadar's reported abduction, another Himilo Media journalist, Abdifatah Mohamed Hared, a cameraman, was stopped and slapped by NISA officers who had established a checkpoint on the road leading to ",
-          "pubDate": "Mon, 12 Oct 2026 16:34:06 +0300",
-          "source": "Horn Observer",
+          "title": "Ethiopia Calls for Shared Red Sea Security",
+          "link": "https://www.riotimesonline.com/ethiopia-calls-for-shared-red-sea-security-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-24T15:00:00Z",
           "lang": "en",
-          "titleIt": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu"
+          "description": "",
+          "titleIt": "Ethiopia Calls for Shared Red Sea Security"
         },
         {
-          "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
-          "link": "https://hornobserver.com/articles/3776/Somalia-Xawaadle-Elders-and-Al-Shabaab-Reportedly-Reach-Truce-in-Hiiraan",
-          "description": "A 16-point joint statement circulated by Al-Shabaab-affiliated media&nbsp; said the sides had resolved their disputes and agreed to maintain peace in areas controlled or influenced by the clan. The reported agreement includes a commitment by Hawadle elders not to allow the recruitment or operation of Macawiisley fighters in their areas or provide them with shelter. Macawiisley forces from Hiiraan have played a key role in supporting Somali government troops against Al-Shabaab. The meeting in Maxaas was attended by dozens of traditional elders, while Al-Shabaab was represented by senior figures",
-          "pubDate": "Tue, 06 Oct 2026 21:41:19 +0300",
-          "source": "Horn Observer",
+          "title": "Arab News | Several dead in clashes between rival Ethiopia regional armies",
+          "link": "https://www.arabnews.com/world/several-dead-in-clashes-between-rival-ethiopia-regional-armies-3008023",
+          "source": "arabnews.com",
+          "pubDate": "2026-10-24T11:45:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan"
+          "description": "",
+          "titleIt": "Arab News | Several dead in clashes between rival Ethiopia regional armies"
         },
         {
-          "title": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation",
-          "link": "https://hornobserver.com/articles/3775/Somalia-NISA-Says-Key-Al-Shabaab-Security-Chief-Killed-in-Jilib-Operation",
-          "description": "According to NISA, the operation was carried out by its forces with support from international partners that targeted Nunow who served as the head of Al-Shabaab's intelligence and security wing, known as the \"Amniyat,\" from 2016 to 2024. Nunow also used the aliases Geescadde, Fanax, Gardhuub and Ali Dheere. Somalia's NISA accused Nunow of playing a key role in planning and carrying out attacks targeting Somali civilians. Among the attacks NISA linked to him were the October 14, 2017, bombing at the Zoobe intersection in Mogadishu, the Ex-Control Afgooye attack, the second Zoobe attack, and oth",
-          "pubDate": "Tue, 06 Oct 2026 21:03:29 +0300",
-          "source": "Horn Observer",
+          "title": "IMF Voting Power Heavily Skewed Against Developing Regions : Report",
+          "link": "https://www.thereporterethiopia.com/53645/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
           "lang": "en",
-          "titleIt": "Somalia: NISA Says Key Al-Shabaab Security Chief Killed in Jilib Operation"
+          "description": "",
+          "titleIt": "IMF Voting Power Heavily Skewed Against Developing Regions : Report"
         },
         {
-          "title": "Press Release: President Isaias of Eritrea holds talks with Somali President",
-          "link": "https://hornobserver.com/articles/3774/Press-Release-President-Isaias-of-Eritrea-holds-talks-with-Somali-President",
-          "description": "The two Heads of State underlined the imperative of consolidating a conducive political climate that rejects external agendas of interference to safeguard and guarantee the territorial integrity, stability, and peace of Somalia and the unity of its people.&nbsp; President Isaias further remarked that federal governance architectures in Somalia and other countries in our region have often failed to meet the peoples' hopes and aspirations for unity and cohesion. Political frameworks that polarize socio-economic, religious, and ethnic differences to foment perennial crises and encourage foreign i",
-          "pubDate": "Tue, 06 Oct 2026 18:48:48 +0300",
-          "source": "Horn Observer",
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
           "lang": "en",
-          "titleIt": "Press Release: President Isaias of Eritrea holds talks with Somali President"
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
         },
         {
-          "title": "Containing the New War in Northern Ethiopia",
-          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
-          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
-          "pubDate": "Thursday, October 15, 2026 - 11:12",
-          "source": "Crisis Group",
+          "title": "Ethiopia Intelligence Chief Warns of Red Sea Militarisation , Foreign Rivalries",
+          "link": "https://chimpreports.com/ethiopia-intelligence-chief-warns-of-red-sea-militarisation-foreign-rivalries/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-10-24T06:00:00Z",
           "lang": "en",
-          "titleIt": "Containing the New War in Northern Ethiopia"
+          "description": "",
+          "titleIt": "Ethiopia Intelligence Chief Warns of Red Sea Militarisation , Foreign Rivalries"
+        },
+        {
+          "title": "Naira devaluation made Nigeria poor , Obasanjo says - New African Magazine",
+          "link": "https://newafricanmagazine.com/economy/naira-devaluation-made-nigeria-poor-obasanjo-says/",
+          "source": "newafricanmagazine.com",
+          "pubDate": "2026-10-24T02:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Naira devaluation made Nigeria poor , Obasanjo says - New African Magazine"
         }
       ]
     },
@@ -421,6 +520,15 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Ethiopia: Former PM Hailemariam Says Ethiopia's Pursuit of Sea Access Rational",
+          "link": "https://allafrica.com/stories/202610290437.html",
+          "description": "[ENA] Addis Ababa -- Ethiopia's pursuit of sustainable sea access is a rational and undeniable national aspiration that should be addressed through dialogue and negotiations, former Prime Minister Hailemariam Desalegn said.",
+          "pubDate": "Thu, 29 Oct 2026 12:05:51 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Former PM Hailemariam Says Ethiopia's Pursuit of Sea Access Rational"
+        },
         {
           "title": "Humanitarian situation worsening in Sudan's camps for displaced people",
           "link": "http://www.africanews.com/2026/10/28/humanitarian-situation-worsening-in-sudans-camps-for-displaced-people/",
