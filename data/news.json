@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-10-30T13:02:17.038Z",
+  "generatedAt": "2026-10-30T19:27:31.472Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+          "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+          "description": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+          "pubDate": "Fri, 30 Oct 2026 15:17:11 GMT",
+          "source": "BBC World",
+          "lang": "en",
+          "titleIt": "Democratic senator blames Egypt press crackdown on US military aid decision"
+        },
         {
           "title": "Uganda Begins Somalia Troop Withdrawal as Ethiopia Weighs Pullback",
           "link": "https://hornobserver.com/articles/3796/Uganda-Begins-Somalia-Troop-Withdrawal-as-Ethiopia-Weighs-Pullback",
@@ -147,13 +156,22 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Sudan: Sudan Accuses Ethiopia of Launching 162 Drone Attacks From Its Territory",
-          "link": "https://allafrica.com/stories/202610300075.html",
-          "description": "[Dabanga] Khartoum -- Sudan says 162 drone attacks launched from Ethiopian territory have killed more than 400 civilians and 102 military personnel, amid accusations that Ethiopia is supporting the Rapid Support Forces (RSF). The claims have not been independently verified.",
-          "pubDate": "Fri, 30 Oct 2026 04:42:57 GMT",
+          "title": "Ethiopia: U.S. Customs Releases Ethiopia-Made Solar Cell Shipments After Supply Chain Review",
+          "link": "https://allafrica.com/stories/202610300527.html",
+          "description": "[Addis Standard] Addis Abeba -- US Customs and Border Protection (CBP) has released shipments of solar cells manufactured at a Japanese company's facility in Ethiopia following a review of its supply chain documentation, SolarQuarter reported.",
+          "pubDate": "Fri, 30 Oct 2026 16:03:19 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Sudan: Sudan Accuses Ethiopia of Launching 162 Drone Attacks From Its Territory"
+          "titleIt": "Ethiopia: U.S. Customs Releases Ethiopia-Made Solar Cell Shipments After Supply Chain Review"
+        },
+        {
+          "title": "Ethiopia: 'Ethiopia's Return to a Sea Port Is Inevitable': Navy Commander Calls for Regional Maritime Cooperation",
+          "link": "https://allafrica.com/stories/202610300526.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopian Navy Commander Vice Admiral Kindu Gezu has called for closer regional cooperation and dialogue on maritime security, saying Ethiopia's return to a seaport is inevitable and requires stronger engagement with neighboring countries.",
+          "pubDate": "Fri, 30 Oct 2026 16:02:34 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: 'Ethiopia's Return to a Sea Port Is Inevitable': Navy Commander Calls for Regional Maritime Cooperation"
         },
         {
           "title": "Somalia: Press Freedom Under Pressure as Puntland Journalists Face Police Action Over Security Reporting",
@@ -163,15 +181,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia: Press Freedom Under Pressure as Puntland Journalists Face Police Action Over Security Reporting"
-        },
-        {
-          "title": "East Africa: CMA CGM Launches a New Dedicated Rail Service in Kenya, Strengthening Its Presence in East Africa",
-          "link": "https://allafrica.com/stories/202610290248.html",
-          "description": "[InfoWire] CMA CGM launches its first dedicated full block train service between the Port of Mombasa and the Nairobi-Embakasi Inland Container Depot, strengthening connections between Kenya's main maritime gateway and its inland markets. With 54 wagons and a capacity of 108 containers (Twenty-foot Equivalent Units), the service will initially operate one train per week, with potential to increase frequency and introduce a return service. Developed in partnership with the Kenya Ports Authority and Kenya",
-          "pubDate": "Thu, 29 Oct 2026 09:51:56 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "East Africa: CMA CGM Launches a New Dedicated Rail Service in Kenya, Strengthening Its Presence in East Africa"
         },
         {
           "title": "U.S. Troops Withdraw from Belidogle Military Airfield as Security Situation Evolves in Southwest Somalia",
@@ -201,49 +210,130 @@
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
         },
         {
-          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
-          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
-          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
-          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
-          "source": "Horn Observer",
+          "title": "Somaliland journalist detained after interviewing Somalia presidential hopeful",
+          "link": "https://horseedmedia.net/somaliland-journalist-detained-after-interviewing-somalia-presidential-hopeful/426800/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-10-24T18:00:00Z",
           "lang": "en",
-          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
+          "description": "",
+          "titleIt": "Somaliland journalist detained after interviewing Somalia presidential hopeful"
         },
         {
-          "title": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu",
-          "link": "https://hornobserver.com/articles/3780/Somalia-national-intelligence-agency-abducts-journalist-reporting-on-security-tensions-in-Mogadishu",
-          "description": "At midday on Sunday, plainclothes NISA officers abducted journalist Khadar Abdirahim Ibrahim of Himilo Media in Mogadishu, according to his colleagues. Khadar was on his lunch break when NISA officers approached him at a restaurant near Himilo Media's offices in the Wadajir district of Mogadishu. A colleague who spoke to SJS said that was the last time they saw him. Earlier on Sunday morning, before Khadar's reported abduction, another Himilo Media journalist, Abdifatah Mohamed Hared, a cameraman, was stopped and slapped by NISA officers who had established a checkpoint on the road leading to ",
-          "pubDate": "Mon, 12 Oct 2026 16:34:06 +0300",
-          "source": "Horn Observer",
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
           "lang": "en",
-          "titleIt": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu"
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
         },
         {
-          "title": "Death toll rises to 139 after migrant boat capsizes off Djibouti",
-          "link": "https://hornobserver.com/articles/3779/Death-toll-rises-to-139-after-migrant-boat-capsizes-off-Djibouti",
-          "description": "The boat went down during the night of Oct. 8-9 near Guehere, north of the port town of Obock. The death toll rose from 109 after 30 more bodies were recovered, the International Organization for Migration said. About 82 people survived, while search and recovery operations continued. The shipwreck is among the deadliest recorded on the Eastern Route, a migration corridor used by people traveling from the Horn of Africa toward Yemen and other destinations in the Arabian Peninsula. The African Union Commission expressed sorrow over the disaster in a statement issued Sunday. Its chairperson, Mah",
-          "pubDate": "Mon, 12 Oct 2026 13:44:28 +0300",
-          "source": "Horn Observer",
+          "title": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition",
+          "link": "https://www.garoweonline.com/en/world/africa/china-and-djibouti-send-clear-message-to-israel-over-somaliland-recognition",
+          "source": "garoweonline.com",
+          "pubDate": "2026-10-24T06:45:00Z",
           "lang": "en",
-          "titleIt": "Death toll rises to 139 after migrant boat capsizes off Djibouti"
+          "description": "",
+          "titleIt": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition"
         },
         {
-          "title": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
-          "link": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
-          "description": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
-          "pubDate": "Sun, 11 Oct 2026 23:13:20 GMT",
-          "source": "BBC Africa",
+          "title": "Why Israeli recognition has been a double - edged sword for Somaliland",
+          "link": "https://www.csmonitor.com/World/Africa/2026/1022/somaliland-recognition-israel-trump",
+          "source": "csmonitor.com",
+          "pubDate": "2026-10-22T09:30:00Z",
           "lang": "en",
-          "titleIt": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds"
+          "description": "",
+          "titleIt": "Why Israeli recognition has been a double - edged sword for Somaliland"
         },
         {
-          "title": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan",
-          "link": "https://hornobserver.com/articles/3776/Somalia-Xawaadle-Elders-and-Al-Shabaab-Reportedly-Reach-Truce-in-Hiiraan",
-          "description": "A 16-point joint statement circulated by Al-Shabaab-affiliated media&nbsp; said the sides had resolved their disputes and agreed to maintain peace in areas controlled or influenced by the clan. The reported agreement includes a commitment by Hawadle elders not to allow the recruitment or operation of Macawiisley fighters in their areas or provide them with shelter. Macawiisley forces from Hiiraan have played a key role in supporting Somali government troops against Al-Shabaab. The meeting in Maxaas was attended by dozens of traditional elders, while Al-Shabaab was represented by senior figures",
-          "pubDate": "Tue, 06 Oct 2026 21:41:19 +0300",
-          "source": "Horn Observer",
+          "title": "Somalia : Somaliland Leads Abraham Accords Predictions On Polymarket",
+          "link": "https://allafrica.com/stories/202610220051.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-22T06:30:00Z",
           "lang": "en",
-          "titleIt": "Somalia: Xawaadle Elders and Al-Shabaab Reportedly Reach Truce in Hiiraan"
+          "description": "",
+          "titleIt": "Somalia : Somaliland Leads Abraham Accords Predictions On Polymarket"
+        },
+        {
+          "title": "From the Scramble for Africa to Somalia Fragmentation : Will History Repeat Itself ?",
+          "link": "https://wardheernews.com/from-the-scramble-for-africa-to-somalias-fragmentation-will-history-repeat-itself/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-10-22T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From the Scramble for Africa to Somalia Fragmentation : Will History Repeat Itself ?"
+        },
+        {
+          "title": "Somalia Says Somaliland Visa Row Is Over , 21 Oct 2026",
+          "link": "https://www.riotimesonline.com/somalia-somaliland-visa-row-ends-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-21T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia Says Somaliland Visa Row Is Over , 21 Oct 2026"
+        },
+        {
+          "title": "Ethiopia : Prisoner of History , Not Geography",
+          "link": "https://allafrica.com/stories/202610200686.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-20T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Prisoner of History , Not Geography"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
+          "source": "newsday.com",
+          "pubDate": "2026-10-20T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
+          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-20T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
+        },
+        {
+          "title": "Ethiopia national security imperative : Alliance with Israel and Somaliland",
+          "link": "http://www.jpost.com/opinion/article-912123",
+          "source": "jpost.com",
+          "pubDate": "2026-10-19T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia national security imperative : Alliance with Israel and Somaliland"
+        },
+        {
+          "title": "Netanyahu map shows RSF  friendly  to Israel and UAE , backing for separatist movements",
+          "link": "https://www.middleeasteye.net/news/netanyahu-map-shows-rsf-friendly-israel-and-uae-backing-separatist-movements",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-10-19T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Netanyahu map shows RSF  friendly  to Israel and UAE , backing for separatist movements"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
+          "source": "sitkasentinel.com",
+          "pubDate": "2026-10-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
+          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
+          "source": "wral.com",
+          "pubDate": "2026-10-19T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
         }
       ]
     },
@@ -251,13 +341,49 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Mediterraneo: Meloni, Italia piattaforma strategica, puntiamo su Asia, Africa e Golfo",
-          "link": "https://www.agenzianova.com/a/0/7955224/2026-10-30/mediterraneo-meloni-italia-piattaforma-strategica-puntiamo-su-asia-africa-e-golfo",
-          "description": "30 ott 13:59 - (Agenzia Nova) - L'Italia e' \"una piattaforma naturale nel Mediterraneo\" e una cerniera di comunicazione tra Atlantico e Indo-Pacifico,... (Rin)",
-          "pubDate": "2026-10-30T13:59:57+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Mediterraneo: Meloni, Italia piattaforma strategica, puntiamo su Asia, Africa e Golfo"
+          "title": "Tanzania still haunted by deadly election violence one year on",
+          "link": "http://www.africanews.com/2026/10/30/tanzania-still-haunted-by-deadly-election-violence-one-year-on/",
+          "description": "One year after Tanzania’s disputed election, the scars of deadly violence remain. Critics still live in fear of abductions and arrests, while opposition supporters continue to face intimidation.",
+          "pubDate": "Fri, 30 Oct 2026 17:07:53 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Tanzania still haunted by deadly election violence one year on"
+        },
+        {
+          "title": "Ethiopia: U.S. Customs Releases Ethiopia-Made Solar Cell Shipments After Supply Chain Review",
+          "link": "https://allafrica.com/stories/202610300527.html",
+          "description": "[Addis Standard] Addis Abeba -- US Customs and Border Protection (CBP) has released shipments of solar cells manufactured at a Japanese company's facility in Ethiopia following a review of its supply chain documentation, SolarQuarter reported.",
+          "pubDate": "Fri, 30 Oct 2026 16:03:19 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: U.S. Customs Releases Ethiopia-Made Solar Cell Shipments After Supply Chain Review"
+        },
+        {
+          "title": "Ethiopia: 'Ethiopia's Return to a Sea Port Is Inevitable': Navy Commander Calls for Regional Maritime Cooperation",
+          "link": "https://allafrica.com/stories/202610300526.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopian Navy Commander Vice Admiral Kindu Gezu has called for closer regional cooperation and dialogue on maritime security, saying Ethiopia's return to a seaport is inevitable and requires stronger engagement with neighboring countries.",
+          "pubDate": "Fri, 30 Oct 2026 16:02:34 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: 'Ethiopia's Return to a Sea Port Is Inevitable': Navy Commander Calls for Regional Maritime Cooperation"
+        },
+        {
+          "title": "Gunfire heard across Ethiopia border as growing numbers flee into Kenya",
+          "link": "http://www.africanews.com/2026/10/30/gunfire-heard-across-ethiopia-border-as-growing-numbers-flee-into-kenya/",
+          "description": "Gunfire echoes across the Ethiopia-Kenya border in Moyale, as violence drives thousands to flee into Kenya. The clashes stem from a territorial dispute between Ethiopia’s Oromia and Somali regions.",
+          "pubDate": "Fri, 30 Oct 2026 16:00:54 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Gunfire heard across Ethiopia border as growing numbers flee into Kenya"
+        },
+        {
+          "title": "Liberia: Congo Town Overpasses Spark Political Storm",
+          "link": "https://allafrica.com/stories/202610300522.html",
+          "description": "[New Dawn] The ongoing construction of two overpass bridges along Tubman Boulevard in Congo Town has sparked a political dispute between supporters of former President George Manneh Weah's Congress for Democratic Change (CDC) and President Joseph Nyuma Boakai's ruling Unity Party (UP), with both sides claiming credit for the Chinese-funded infrastructure project.",
+          "pubDate": "Fri, 30 Oct 2026 15:59:53 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Liberia: Congo Town Overpasses Spark Political Storm"
         },
         {
           "title": "Africa: From Commonwealth Connections to Economic Opportunity - Expanding Africa-Caribbean Trade Linkages",
@@ -267,15 +393,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Africa: From Commonwealth Connections to Economic Opportunity - Expanding Africa-Caribbean Trade Linkages"
-        },
-        {
-          "title": "Sudan: Sudan Accuses Ethiopia of Launching 162 Drone Attacks From Its Territory",
-          "link": "https://allafrica.com/stories/202610300075.html",
-          "description": "[Dabanga] Khartoum -- Sudan says 162 drone attacks launched from Ethiopian territory have killed more than 400 civilians and 102 military personnel, amid accusations that Ethiopia is supporting the Rapid Support Forces (RSF). The claims have not been independently verified.",
-          "pubDate": "Fri, 30 Oct 2026 04:42:57 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Sudan Accuses Ethiopia of Launching 162 Drone Attacks From Its Territory"
         },
         {
           "title": "Uganda Begins Somalia Troop Withdrawal as Ethiopia Weighs Pullback",
@@ -312,15 +429,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "MPS shareholders reject merger with Mediobanca"
-        },
-        {
-          "title": "Consul Frandi’s Lecture on the Bond Between Italy and the American Northeast",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/10/29/consul-frandis-lecture-on-the-bond-between-italy-and-the-american_7eceebc2-43df-4cb6-bef4-94a20575d877.html",
-          "description": "(ANSA) - ROMA, 29 OTT - At the historic Merion Cricket Club in Haverford, the Consul General of Italy in Philadelphia, Nico Frandi, delivered a speech dedicated to the deep bond that unites Italy and the United States. In particular, the consul referred to the American Northeast and the territory of the consular district: a solid bridge built over more than three centuries of exploration, a fruitful exchange of ideas, goods, and strategic and sector-specific alliances, but, above all, through the active contribution of the great Italian migration. The occasion also served as an opportunity to ",
-          "pubDate": "Thu, 29 Oct 2026 11:14:35 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Consul Frandi’s Lecture on the Bond Between Italy and the American Northeast"
         },
         {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
@@ -389,19 +497,218 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+          "link": "https://www.namibian.com.na/algeria-to-send-troops-to-niger-in-first-foreign-deployment-since-1973/",
+          "source": "namibian.com.na",
+          "pubDate": "2026-10-27T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Algeria to send troops to Niger in first foreign deployment since 1973"
+        },
+        {
+          "title": "Trump escalates anti - Muslim attacks against El - Sayed in Michigan",
+          "link": "https://www.sentinelandenterprise.com/2026/10/26/trump-anti-muslim-attacks-el-sayed-michigan-rally/",
+          "source": "sentinelandenterprise.com",
+          "pubDate": "2026-10-27T05:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump escalates anti - Muslim attacks against El - Sayed in Michigan"
+        },
+        {
+          "title": "Trump dials up Islamophobia against Abdul El - Sayed at Michigan Senate rally",
+          "link": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed",
+          "source": "aljazeera.com",
+          "pubDate": "2026-10-26T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump dials up Islamophobia against Abdul El - Sayed at Michigan Senate rally"
+        },
+        {
+          "title": "El Salvador : how the country became a safe place for travellers | South Coast Register",
+          "link": "https://www.southcoastregister.com.au/story/9370069/el-salvador-how-the-country-became-a-safe-place-for-travellers/",
+          "source": "southcoastregister.com.au",
+          "pubDate": "2026-10-26T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "El Salvador : how the country became a safe place for travellers | South Coast Register"
+        },
+        {
+          "title": "Trump midterm swing brings him to Michigan as Republicans aim to undermine El - Sayed in Senate race",
+          "link": "https://www.ksat.com/news/politics/2026/10/25/trumps-midterm-swing-brings-him-to-michigan-as-republicans-aim-to-undermine-el-sayed-in-senate-race/",
+          "source": "ksat.com",
+          "pubDate": "2026-10-25T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump midterm swing brings him to Michigan as Republicans aim to undermine El - Sayed in Senate race"
+        },
+        {
+          "title": "Netanyahu pitch : Can Israel use crypto to evade economic sanctions ? - Grenada Chronicle – Daily Grenada And Caribbean News",
+          "link": "https://grenadachronicle.com/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions/",
+          "source": "grenadachronicle.com",
+          "pubDate": "2026-10-25T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Netanyahu pitch : Can Israel use crypto to evade economic sanctions ? - Grenada Chronicle – Daily Grenada And Caribbean News"
+        },
+        {
+          "title": "Trump midterm swing brings him to Michigan as Republicans aim to undermine El - Sayed in Senate race",
+          "link": "https://www.wdio.com/ap-top-news/ap-top-news-political/trumps-midterm-swing-brings-him-to-michigan-as-republicans-aim-to-undermine-el-sayed-in-senate-race/",
+          "source": "wdio.com",
+          "pubDate": "2026-10-25T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump midterm swing brings him to Michigan as Republicans aim to undermine El - Sayed in Senate race"
+        },
+        {
+          "title": "Saudi Arabia , Israel normalization still possible , expert tells  Post",
+          "link": "https://www.jpost.com/middle-east/article-912818",
+          "source": "jpost.com",
+          "pubDate": "2026-10-25T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Saudi Arabia , Israel normalization still possible , expert tells  Post"
+        },
+        {
+          "title": "Trump midterm swing brings him to Michigan as Republicans aim to undermine El - Sayed in Senate race",
+          "link": "https://mymotherlode.com/news/national/11251281/trumps-midterm-swing-brings-him-to-michigan-as-republicans-aim-to-undermine-el-sayed-in-senate-race.html",
+          "source": "mymotherlode.com",
+          "pubDate": "2026-10-25T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Trump midterm swing brings him to Michigan as Republicans aim to undermine El - Sayed in Senate race"
+        },
+        {
+          "title": "Could Hormuz become America Suez ? – Middle East Monitor",
+          "link": "https://www.middleeastmonitor.com/20261025-could-hormuz-become-americas-suez/",
+          "source": "middleeastmonitor.com",
+          "pubDate": "2026-10-25T12:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Could Hormuz become America Suez ? – Middle East Monitor"
+        },
+        {
+          "title": "President Sisi attends closing ceremony of Egypt Forum 2026",
+          "link": "https://www.egyptindependent.com/president-sisi-attends-closing-ceremony-of-egypt-forum-2026/",
+          "source": "egyptindependent.com",
+          "pubDate": "2026-10-25T11:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "President Sisi attends closing ceremony of Egypt Forum 2026"
+        },
+        {
+          "title": "Kakar Says Renewed U . S .- Iran Fighting Could Raise Pakistan Inflation",
+          "link": "https://econotimes.com/Kakar-Says-Renewed-U-S-Iran-Fighting-Could-Raise-Pakistan-s-Inflation-1762927",
+          "source": "econotimes.com",
+          "pubDate": "2026-10-25T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Kakar Says Renewed U . S .- Iran Fighting Could Raise Pakistan Inflation"
+        },
+        {
+          "title": "Libya Dbeibah says ready to address Egypt maritime concerns",
+          "link": "https://sundayworld.co.za/news/libyas-dbeibah-says-ready-to-address-egypts-maritime-concerns/",
+          "source": "sundayworld.co.za",
+          "pubDate": "2026-10-25T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Libya Dbeibah says ready to address Egypt maritime concerns"
+        },
+        {
+          "title": "Egyptian Cinema Eyes Its Future at El Gouna Film Festival",
+          "link": "https://variety.com/2026/film/global/egyptian-cinema-el-gouna-film-industry-future-1236930557/",
+          "source": "variety.com",
+          "pubDate": "2026-10-25T11:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egyptian Cinema Eyes Its Future at El Gouna Film Festival"
+        },
+        {
+          "title": "Iran prepares to plunge the planet into the 19th century with a 37T dollar weapon",
+          "link": "https://www.bankingnews.gr/diethni/articles/907041/iran-prepares-to-plunge-the-planet-into-the-19th-century-with-a-37t-dollar-weapon",
+          "source": "bankingnews.gr",
+          "pubDate": "2026-10-25T10:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran prepares to plunge the planet into the 19th century with a 37T dollar weapon"
+        },
+        {
+          "title": "Egyptian Firm Cheiron to Run Peru Lot 192 Oil Field",
+          "link": "https://www.riotimesonline.com/peru-lot-192-cheiron-egyptian-operator-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-25T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egyptian Firm Cheiron to Run Peru Lot 192 Oil Field"
+        },
+        {
+          "title": "Eritrea Gambia Diplomatic Relations Set Up in New York",
+          "link": "https://www.riotimesonline.com/eritrea-gambia-diplomatic-relations-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-25T09:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Eritrea Gambia Diplomatic Relations Set Up in New York"
+        },
+        {
+          "title": "Europe £3 . 7bn answer to the Suez Canal will connect three economies | World | News",
+          "link": "https://www.express.co.uk/news/world/2258441/europes-new-37bn-answer-suez",
+          "source": "express.co.uk",
+          "pubDate": "2026-10-25T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Europe £3 . 7bn answer to the Suez Canal will connect three economies | World | News"
+        },
+        {
+          "title": "The Central Role of Energy in the Geopolitics of Late Capitalism",
+          "link": "https://countercurrents.org/2026/10/the-central-role-of-energy-in-the-geopolitics-of-late-capitalism/",
+          "source": "countercurrents.org",
+          "pubDate": "2026-10-25T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Central Role of Energy in the Geopolitics of Late Capitalism"
+        },
+        {
+          "title": "Give diplomacy a chance",
+          "link": "https://tribune.com.pk/story/2636718/give-diplomacy-a-chance",
+          "source": "tribune.com.pk",
+          "pubDate": "2026-10-25T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Give diplomacy a chance"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "South Sudan: Evidentia AI Completes South Sudan Pilot with the Department of Betting, Gaming and Lotteries, Advancing Transparent and Accountable Gaming Oversight Across Africa",
-          "link": "https://allafrica.com/stories/202610270581.html",
-          "description": "[InfoWire] Evidentia AI, a gaming revenue intelligence and compliance monitoring company, has completed a pilot in South Sudan and presented its findings to the Department of Betting, Gaming and Lotteries at the Ministry of Finance and Planning. The pilot was designed to help the Department build an independent, evidence-based picture of the country's betting market. The pilot was a four week market review done without any system integration and with every observation verified against the live source. It involved no",
-          "pubDate": "Tue, 27 Oct 2026 13:54:36 GMT",
+          "title": "Ethiopia: U.S. Customs Releases Ethiopia-Made Solar Cell Shipments After Supply Chain Review",
+          "link": "https://allafrica.com/stories/202610300527.html",
+          "description": "[Addis Standard] Addis Abeba -- US Customs and Border Protection (CBP) has released shipments of solar cells manufactured at a Japanese company's facility in Ethiopia following a review of its supply chain documentation, SolarQuarter reported.",
+          "pubDate": "Fri, 30 Oct 2026 16:03:19 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "South Sudan: Evidentia AI Completes South Sudan Pilot with the Department of Betting, Gaming and Lotteries, Advancing Transparent and Accountable Gaming Oversight Across Africa"
+          "titleIt": "Ethiopia: U.S. Customs Releases Ethiopia-Made Solar Cell Shipments After Supply Chain Review"
+        },
+        {
+          "title": "Gunfire heard across Ethiopia border as growing numbers flee into Kenya",
+          "link": "http://www.africanews.com/2026/10/30/gunfire-heard-across-ethiopia-border-as-growing-numbers-flee-into-kenya/",
+          "description": "Gunfire echoes across the Ethiopia-Kenya border in Moyale, as violence drives thousands to flee into Kenya. The clashes stem from a territorial dispute between Ethiopia’s Oromia and Somali regions.",
+          "pubDate": "Fri, 30 Oct 2026 16:00:54 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Gunfire heard across Ethiopia border as growing numbers flee into Kenya"
+        },
+        {
+          "title": "Egypt: African Water Facility Launches 2026-2030 Strategy At Cairo Water Week",
+          "link": "https://allafrica.com/stories/202610300003.html",
+          "description": "[African Development Bank (AfDB)] The African Development Bank Group launched its 2026-2030 African Water Facility Strategy at Cairo Water Week. The launch renews the call for African countries to contribute more resources to water and sanitation projects across the continent. It also calls for private investors to play a greater role in financing these projects.",
+          "pubDate": "Fri, 30 Oct 2026 00:05:39 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Egypt: African Water Facility Launches 2026-2030 Strategy At Cairo Water Week"
         },
         {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
