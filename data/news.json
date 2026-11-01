@@ -1,11 +1,47 @@
 {
-  "generatedAt": "2026-11-01T13:32:16.004Z",
+  "generatedAt": "2026-11-01T18:59:45.250Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Centro sicurezza marittima Oceano Indiano, peschereccio iraniano sequestrato da pirati",
+          "link": "https://www.agenzianova.com/a/0/7958529/2026-11-01/somalia-centro-sicurezza-marittima-oceano-indiano-peschereccio-iraniano-sequestrato-da-pirati",
+          "description": "01 nov 18:20 - (Agenzia Nova) - Il Centro per la sicurezza marittima dell'Oceano Indiano (Mscio) ha fatto sapere di avere ricevuto informazioni... (Suk)",
+          "pubDate": "2026-11-01T18:20:05+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Somalia: Centro sicurezza marittima Oceano Indiano, peschereccio iraniano sequestrato da pirati"
+        },
+        {
+          "title": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale (2)",
+          "link": "https://www.agenzianova.com/a/0/7958422/2026-11-01/egitto-siglato-un-accordo-di-finanziamento-da-un-miliardo-di-dollari-con-la-banca-mondiale-2",
+          "description": "01 nov 17:28 - (Agenzia Nova) - Il finanziamento rientra nel programma denominato \"Generating Resilience, Opportunities, and Welfare for a... (Cae)",
+          "pubDate": "2026-11-01T17:28:59+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale (2)"
+        },
+        {
+          "title": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale",
+          "link": "https://www.agenzianova.com/a/0/7958421/2026-11-01/egitto-siglato-un-accordo-di-finanziamento-da-un-miliardo-di-dollari-con-la-banca-mondiale",
+          "description": "01 nov 17:28 - (Agenzia Nova) - L'Egitto ha firmato un accordo di finanziamento da un miliardo di dollari con la Banca mondiale, nell'ambito... (Cae)",
+          "pubDate": "2026-11-01T17:28:59+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale"
+        },
+        {
+          "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
+          "link": "https://hornobserver.com/articles/3799/More-than-175-000-affected-by-floods-as-Somalia-faces-further-heavy-rains",
+          "description": "Gaalkacyo, Abudwaq and Baidoa were among the hardest-hit areas. Area-Based Coordination teams reported that floods destroyed 1,515 shelters and damaged another 4,498 during the month. Floodwaters also damaged or inundated 2,110 latrines, 137 water points, 72 schools and 55 health facilities, disrupting access to essential services. Water levels in the Shabelle River rose significantly during the final week of October, approaching moderate flood-risk thresholds in Belet Weyne district in Hiraan region. Levels also increased in Bulo Burto, while the Juba River remained relatively low. The Food a",
+          "pubDate": "Sun, 01 Nov 2026 18:22:12 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "More than 175,000 affected by floods as Somalia faces further heavy rains"
+        },
         {
           "title": "U.S. adds Somalia to port security watch list amid Trump's escalating criticism of Somali community",
           "link": "https://hornobserver.com/articles/3798/US-adds-Somalia-to-port-security-watch-list-amid-Trumps-escalating-criticism-of-Somali-community",
@@ -147,6 +183,24 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Golfo: Consiglio cooperazione condanna attacco contro nave Gnl del Qatar",
+          "link": "https://www.agenzianova.com/a/0/7958497/2026-11-01/golfo-consiglio-cooperazione-condanna-attacco-contro-nave-gnl-del-qatar",
+          "description": "01 nov 17:55 - (Agenzia Nova) - Il Consiglio di cooperazione del Golfo (Gcc) ha condannato \"fermamente\" l'attacco contro una nave per il trasporto... (Res)",
+          "pubDate": "2026-11-01T17:55:42+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Golfo: Consiglio cooperazione condanna attacco contro nave Gnl del Qatar"
+        },
+        {
+          "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
+          "link": "https://hornobserver.com/articles/3799/More-than-175-000-affected-by-floods-as-Somalia-faces-further-heavy-rains",
+          "description": "Gaalkacyo, Abudwaq and Baidoa were among the hardest-hit areas. Area-Based Coordination teams reported that floods destroyed 1,515 shelters and damaged another 4,498 during the month. Floodwaters also damaged or inundated 2,110 latrines, 137 water points, 72 schools and 55 health facilities, disrupting access to essential services. Water levels in the Shabelle River rose significantly during the final week of October, approaching moderate flood-risk thresholds in Belet Weyne district in Hiraan region. Levels also increased in Bulo Burto, while the Juba River remained relatively low. The Food a",
+          "pubDate": "Sun, 01 Nov 2026 18:22:12 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "More than 175,000 affected by floods as Somalia faces further heavy rains"
+        },
+        {
           "title": "U.S. adds Somalia to port security watch list amid Trump's escalating criticism of Somali community",
           "link": "https://hornobserver.com/articles/3798/US-adds-Somalia-to-port-security-watch-list-amid-Trumps-escalating-criticism-of-Somali-community",
           "description": "The U.S. Coast Guard announced the designation in a Federal Register notice published October.27, 2026 and&nbsp; took effect upon announcement. The measure allows U.S. authorities to impose additional entry requirements on vessels arriving from Somali ports. The announcement comes against the backdrop of Trump's increasingly hostile rhetoric toward Somalis and his repeated attacks on Democratic Rep. Ilhan Omar, a Somali-born U.S. citizen representing Minnesota.&nbsp; Trump has also repeatedly targeted Somali immigrants in Minnesota, at times making sweeping negative statements about the commun",
@@ -228,15 +282,6 @@
           "titleIt": "Somalia national intelligence agency abducts journalist reporting on security tensions in Mogadishu"
         },
         {
-          "title": "Death toll rises to 139 after migrant boat capsizes off Djibouti",
-          "link": "https://hornobserver.com/articles/3779/Death-toll-rises-to-139-after-migrant-boat-capsizes-off-Djibouti",
-          "description": "The boat went down during the night of Oct. 8-9 near Guehere, north of the port town of Obock. The death toll rose from 109 after 30 more bodies were recovered, the International Organization for Migration said. About 82 people survived, while search and recovery operations continued. The shipwreck is among the deadliest recorded on the Eastern Route, a migration corridor used by people traveling from the Horn of Africa toward Yemen and other destinations in the Arabian Peninsula. The African Union Commission expressed sorrow over the disaster in a statement issued Sunday. Its chairperson, Mah",
-          "pubDate": "Mon, 12 Oct 2026 13:44:28 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Death toll rises to 139 after migrant boat capsizes off Djibouti"
-        },
-        {
           "title": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
           "link": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
           "description": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
@@ -250,6 +295,33 @@
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Somalia: Centro sicurezza marittima Oceano Indiano, peschereccio iraniano sequestrato da pirati",
+          "link": "https://www.agenzianova.com/a/0/7958529/2026-11-01/somalia-centro-sicurezza-marittima-oceano-indiano-peschereccio-iraniano-sequestrato-da-pirati",
+          "description": "01 nov 18:20 - (Agenzia Nova) - Il Centro per la sicurezza marittima dell'Oceano Indiano (Mscio) ha fatto sapere di avere ricevuto informazioni... (Suk)",
+          "pubDate": "2026-11-01T18:20:05+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Somalia: Centro sicurezza marittima Oceano Indiano, peschereccio iraniano sequestrato da pirati"
+        },
+        {
+          "title": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale (2)",
+          "link": "https://www.agenzianova.com/a/0/7958422/2026-11-01/egitto-siglato-un-accordo-di-finanziamento-da-un-miliardo-di-dollari-con-la-banca-mondiale-2",
+          "description": "01 nov 17:28 - (Agenzia Nova) - Il finanziamento rientra nel programma denominato \"Generating Resilience, Opportunities, and Welfare for a... (Cae)",
+          "pubDate": "2026-11-01T17:28:59+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale (2)"
+        },
+        {
+          "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
+          "link": "https://hornobserver.com/articles/3799/More-than-175-000-affected-by-floods-as-Somalia-faces-further-heavy-rains",
+          "description": "Gaalkacyo, Abudwaq and Baidoa were among the hardest-hit areas. Area-Based Coordination teams reported that floods destroyed 1,515 shelters and damaged another 4,498 during the month. Floodwaters also damaged or inundated 2,110 latrines, 137 water points, 72 schools and 55 health facilities, disrupting access to essential services. Water levels in the Shabelle River rose significantly during the final week of October, approaching moderate flood-risk thresholds in Belet Weyne district in Hiraan region. Levels also increased in Bulo Burto, while the Juba River remained relatively low. The Food a",
+          "pubDate": "Sun, 01 Nov 2026 18:22:12 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "More than 175,000 affected by floods as Somalia faces further heavy rains"
+        },
         {
           "title": "U.S. adds Somalia to port security watch list amid Trump's escalating criticism of Somali community",
           "link": "https://hornobserver.com/articles/3798/US-adds-Somalia-to-port-security-watch-list-amid-Trumps-escalating-criticism-of-Somali-community",
@@ -407,11 +479,57 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale (2)",
+          "link": "https://www.agenzianova.com/a/0/7958422/2026-11-01/egitto-siglato-un-accordo-di-finanziamento-da-un-miliardo-di-dollari-con-la-banca-mondiale-2",
+          "description": "01 nov 17:28 - (Agenzia Nova) - Il finanziamento rientra nel programma denominato \"Generating Resilience, Opportunities, and Welfare for a... (Cae)",
+          "pubDate": "2026-11-01T17:28:59+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale (2)"
+        },
+        {
+          "title": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale",
+          "link": "https://www.agenzianova.com/a/0/7958421/2026-11-01/egitto-siglato-un-accordo-di-finanziamento-da-un-miliardo-di-dollari-con-la-banca-mondiale",
+          "description": "01 nov 17:28 - (Agenzia Nova) - L'Egitto ha firmato un accordo di finanziamento da un miliardo di dollari con la Banca mondiale, nell'ambito... (Cae)",
+          "pubDate": "2026-11-01T17:28:59+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Medio Oriente: ministro Esteri egiziano, intensifichiamo sforzi diplomatici per prevenire escalation",
+          "link": "https://www.agenzianova.com/a/0/7958530/2026-11-01/medio-oriente-ministro-esteri-egiziano-intensifichiamo-sforzi-diplomatici-per-prevenire-escalation",
+          "description": "01 nov 18:23 - (Agenzia Nova) - L'Egitto sta intensificando i suoi sforzi diplomatici per allentare le tensioni regionali e prevenire qualsiasi... (Cae)",
+          "pubDate": "2026-11-01T18:23:09+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Medio Oriente: ministro Esteri egiziano, intensifichiamo sforzi diplomatici per prevenire escalation"
+        },
+        {
+          "title": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale (2)",
+          "link": "https://www.agenzianova.com/a/0/7958422/2026-11-01/egitto-siglato-un-accordo-di-finanziamento-da-un-miliardo-di-dollari-con-la-banca-mondiale-2",
+          "description": "01 nov 17:28 - (Agenzia Nova) - Il finanziamento rientra nel programma denominato \"Generating Resilience, Opportunities, and Welfare for a... (Cae)",
+          "pubDate": "2026-11-01T17:28:59+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale (2)"
+        },
+        {
+          "title": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale",
+          "link": "https://www.agenzianova.com/a/0/7958421/2026-11-01/egitto-siglato-un-accordo-di-finanziamento-da-un-miliardo-di-dollari-con-la-banca-mondiale",
+          "description": "01 nov 17:28 - (Agenzia Nova) - L'Egitto ha firmato un accordo di finanziamento da un miliardo di dollari con la Banca mondiale, nell'ambito... (Cae)",
+          "pubDate": "2026-11-01T17:28:59+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: siglato un accordo di finanziamento da un miliardo di dollari con la Banca Mondiale"
+        },
         {
           "title": "Ethiopia: U.S. Customs Releases Ethiopia-Made Solar Cell Shipments After Supply Chain Review",
           "link": "https://allafrica.com/stories/202610300527.html",
@@ -431,13 +549,13 @@
           "titleIt": "Gunfire heard across Ethiopia border as growing numbers flee into Kenya"
         },
         {
-          "title": "South Sudan: Evidentia AI Completes South Sudan Pilot with the Department of Betting, Gaming and Lotteries, Advancing Transparent and Accountable Gaming Oversight Across Africa",
-          "link": "https://allafrica.com/stories/202610270581.html",
-          "description": "[InfoWire] Evidentia AI, a gaming revenue intelligence and compliance monitoring company, has completed a pilot in South Sudan and presented its findings to the Department of Betting, Gaming and Lotteries at the Ministry of Finance and Planning. The pilot was designed to help the Department build an independent, evidence-based picture of the country's betting market. The pilot was a four week market review done without any system integration and with every observation verified against the live source. It involved no",
-          "pubDate": "Tue, 27 Oct 2026 13:54:36 GMT",
+          "title": "Egypt: African Water Facility Launches 2026-2030 Strategy At Cairo Water Week",
+          "link": "https://allafrica.com/stories/202610300003.html",
+          "description": "[African Development Bank (AfDB)] The African Development Bank Group launched its 2026-2030 African Water Facility Strategy at Cairo Water Week. The launch renews the call for African countries to contribute more resources to water and sanitation projects across the continent. It also calls for private investors to play a greater role in financing these projects.",
+          "pubDate": "Fri, 30 Oct 2026 00:05:39 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "South Sudan: Evidentia AI Completes South Sudan Pilot with the Department of Betting, Gaming and Lotteries, Advancing Transparent and Accountable Gaming Oversight Across Africa"
+          "titleIt": "Egypt: African Water Facility Launches 2026-2030 Strategy At Cairo Water Week"
         },
         {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
