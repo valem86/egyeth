@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-11-03T16:19:36.003Z",
+  "generatedAt": "2026-11-03T23:27:35.693Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egitto: ministro degli Esteri parla con omologhi di Iran, Oman e Arabia Saudita (2)",
+          "link": "https://www.agenzianova.com/a/0/7968108/2026-11-03/egitto-ministro-degli-esteri-parla-con-omologhi-di-iran-oman-e-arabia-saudita-2",
+          "description": "03 nov 22:16 - (Agenzia Nova) - Il ministro ha inoltre sottolineato che l'Egitto attribuisce grande importanza e priorita' alla sicurezza degli... (Cae)",
+          "pubDate": "2026-11-03T22:16:13+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: ministro degli Esteri parla con omologhi di Iran, Oman e Arabia Saudita (2)"
+        },
+        {
+          "title": "Somalia: Somaliland Police Marks 33rd Anniversary As President Pledges Support",
+          "link": "https://allafrica.com/stories/202611030702.html",
+          "description": "[Horn Diplomat] Hargeisa -- Somaliland's police force marked its 33rd anniversary on Tuesday, with President Abdirahman Mohamed Abdullahi Irro pledging investment in training and equipment and urging officers to uphold the law and treat citizens fairly.",
+          "pubDate": "Tue, 03 Nov 2026 17:34:28 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somaliland Police Marks 33rd Anniversary As President Pledges Support"
+        },
         {
           "title": "Ethiopia: Long After Ethiopia Completes GERD, Egypt, Sudan Invoke Nile Water Rights Under Colonial-Era Agreement",
           "link": "https://allafrica.com/stories/202611030630.html",
@@ -41,15 +59,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Indian Navy Rescues 20 Crew Members From Hijacked Fishing Vessel Off Somalia"
-        },
-        {
-          "title": "Uganda: Uganda Begins Withdrawing Troops from Somalia After Two Decades",
-          "link": "https://allafrica.com/stories/202611030127.html",
-          "description": "[DW] Ugandan troops first deployed to Somalia in 2007 as part of an international military coalition to battle Islamic insurgents. But the mission has faced mounting pressure since a US decision to withdraw funding.",
-          "pubDate": "Tue, 03 Nov 2026 06:19:09 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Uganda: Uganda Begins Withdrawing Troops from Somalia After Two Decades"
         },
         {
           "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
@@ -176,21 +185,21 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia braces for El Niño floods as millions face risk of hunger"
-        },
-        {
-          "title": "Somalia Awaits a New Security Order as Mission Drawdown Looms",
-          "link": "https://www.crisisgroup.org/cmt/africa/somalia/somalia-awaits-new-security-order-mission-drawdown-looms",
-          "description": "The multilateral missions that have helped the Somali government fight Al-Shabaab for nearly two decades may be coming to an end. Mogadishu and its partners should get started now developing a plan for what they will do next.",
-          "pubDate": "Friday, September 18, 2026 - 21:00",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "Somalia Awaits a New Security Order as Mission Drawdown Looms"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Somalia: Somaliland Police Marks 33rd Anniversary As President Pledges Support",
+          "link": "https://allafrica.com/stories/202611030702.html",
+          "description": "[Horn Diplomat] Hargeisa -- Somaliland's police force marked its 33rd anniversary on Tuesday, with President Abdirahman Mohamed Abdullahi Irro pledging investment in training and equipment and urging officers to uphold the law and treat citizens fairly.",
+          "pubDate": "Tue, 03 Nov 2026 17:34:28 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somaliland Police Marks 33rd Anniversary As President Pledges Support"
+        },
         {
           "title": "Ethiopia: Long After Ethiopia Completes GERD, Egypt, Sudan Invoke Nile Water Rights Under Colonial-Era Agreement",
           "link": "https://allafrica.com/stories/202611030630.html",
@@ -226,15 +235,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Indian Navy Rescues 20 Crew Members From Hijacked Fishing Vessel Off Somalia"
-        },
-        {
-          "title": "Uganda: Uganda Begins Withdrawing Troops from Somalia After Two Decades",
-          "link": "https://allafrica.com/stories/202611030127.html",
-          "description": "[DW] Ugandan troops first deployed to Somalia in 2007 as part of an international military coalition to battle Islamic insurgents. But the mission has faced mounting pressure since a US decision to withdraw funding.",
-          "pubDate": "Tue, 03 Nov 2026 06:19:09 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Uganda: Uganda Begins Withdrawing Troops from Somalia After Two Decades"
         },
         {
           "title": "Israel’s first ambassador presents credentials in Somaliland",
@@ -341,6 +341,15 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Somalia: Somaliland Police Marks 33rd Anniversary As President Pledges Support",
+          "link": "https://allafrica.com/stories/202611030702.html",
+          "description": "[Horn Diplomat] Hargeisa -- Somaliland's police force marked its 33rd anniversary on Tuesday, with President Abdirahman Mohamed Abdullahi Irro pledging investment in training and equipment and urging officers to uphold the law and treat citizens fairly.",
+          "pubDate": "Tue, 03 Nov 2026 17:34:28 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somaliland Police Marks 33rd Anniversary As President Pledges Support"
+        },
+        {
           "title": "Ethiopia: Long After Ethiopia Completes GERD, Egypt, Sudan Invoke Nile Water Rights Under Colonial-Era Agreement",
           "link": "https://allafrica.com/stories/202611030630.html",
           "description": "[Addis Standard] Addis Abeba -- Egypt and Sudan have renewed their opposition to Ethiopia's independent management of the Grand Ethiopian Renaissance Dam (GERD), invoking historical Nile water-sharing agreements and demanding a binding legal framework, more than a year after Ethiopia officially inaugurated the project.",
@@ -368,15 +377,6 @@
           "titleIt": "Somalia: Indian Navy Rescues 20 Crew Members From Hijacked Fishing Vessel Off Somalia"
         },
         {
-          "title": "Ethiopia: Will Renewed Conflict Derail Ethiopia's Economic Growth?",
-          "link": "https://allafrica.com/stories/202611030126.html",
-          "description": "[DW] Ethiopia's economy is growing strongly. But renewed fighting in the north of the BRICS member state could deter investment, strain public finances and push up the cost of living.",
-          "pubDate": "Tue, 03 Nov 2026 06:17:00 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Will Renewed Conflict Derail Ethiopia's Economic Growth?"
-        },
-        {
           "title": "Displaced Ethiopians await registration in Kenya after fleeing clashes",
           "link": "http://www.africanews.com/2026/11/03/displaced-ethiopians-await-registration-in-kenya-after-fleeing-clashes/",
           "description": "Thousands of displaced Ethiopians were expected to be registered in the Kenyan border city of Moyale on Monday, after they fled tensions between the leaders of Ethiopia's Oromia and Somali regions.",
@@ -384,15 +384,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Displaced Ethiopians await registration in Kenya after fleeing clashes"
-        },
-        {
-          "title": "Ethiopia: Violence in the North Is Pushing Health System to the Brink, WHO Chief Warns",
-          "link": "https://allafrica.com/stories/202611030066.html",
-          "description": "[UN News] The head of the World Health Organization (WHO) called on Monday for greater protection for civilians caught in conflict in northern Ethiopia following deadly drone strikes this past weekend.",
-          "pubDate": "Tue, 03 Nov 2026 04:56:36 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Violence in the North Is Pushing Health System to the Brink, WHO Chief Warns"
         },
         {
           "title": "TPLF loses popular support after fresh fighting in Ethiopia's Tigray",
@@ -420,15 +411,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "U.S. adds Somalia to port security watch list amid Trump's escalating criticism of Somali community"
-        },
-        {
-          "title": "Tanzania still haunted by deadly election violence one year on",
-          "link": "http://www.africanews.com/2026/10/30/tanzania-still-haunted-by-deadly-election-violence-one-year-on/",
-          "description": "One year after Tanzania’s disputed election, the scars of deadly violence remain. Critics still live in fear of abductions and arrests, while opposition supporters continue to face intimidation.",
-          "pubDate": "Fri, 30 Oct 2026 17:07:53 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Tanzania still haunted by deadly election violence one year on"
         },
         {
           "title": "Uganda Begins Somalia Troop Withdrawal as Ethiopia Weighs Pullback",
@@ -467,31 +449,76 @@
           "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
         },
         {
-          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
-          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
-          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
-          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
-          "source": "Horn Observer",
+          "title": "Eritrea Gambia Diplomatic Relations Set Up in New York",
+          "link": "https://www.riotimesonline.com/eritrea-gambia-diplomatic-relations-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-25T09:45:00Z",
           "lang": "en",
-          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
+          "description": "",
+          "titleIt": "Eritrea Gambia Diplomatic Relations Set Up in New York"
         },
         {
-          "title": "Why Rwanda's deal for F1 race remains controversial",
-          "link": "https://www.bbc.co.uk/sport/formula1/articles/c61kdv3k9gm2o?at_medium=RSS&at_campaign=rss",
-          "description": "Formula 1 will return to Africa in the early 2030s, but Rwanda's deal to stage a race has prompted accusations of sportswashing against the country.",
-          "pubDate": "Wed, 14 Oct 2026 14:47:31 GMT",
-          "source": "BBC Africa",
+          "title": "Starlink and new era of digital connectivity and inclusion",
+          "link": "https://capitalethiopia.com/2026/10/25/starlink-and-new-era-of-digital-connectivity-and-inclusion/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-10-25T05:30:00Z",
           "lang": "en",
-          "titleIt": "Why Rwanda's deal for F1 race remains controversial"
+          "description": "",
+          "titleIt": "Starlink and new era of digital connectivity and inclusion"
         },
         {
-          "title": "Containing the New War in Northern Ethiopia",
-          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
-          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
-          "pubDate": "Thursday, October 15, 2026 - 11:12",
-          "source": "Crisis Group",
+          "title": "Several dead in clashes between rival Ethiopia armies",
+          "link": "https://www.omanobserver.om/article/1198471/world/africa/several-dead-in-clashes-between-rival-ethiopia-armies",
+          "source": "omanobserver.om",
+          "pubDate": "2026-10-24T16:00:00Z",
           "lang": "en",
-          "titleIt": "Containing the New War in Northern Ethiopia"
+          "description": "",
+          "titleIt": "Several dead in clashes between rival Ethiopia armies"
+        },
+        {
+          "title": "Ethiopia Calls for Shared Red Sea Security",
+          "link": "https://www.riotimesonline.com/ethiopia-calls-for-shared-red-sea-security-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-24T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Calls for Shared Red Sea Security"
+        },
+        {
+          "title": "Arab News | Several dead in clashes between rival Ethiopia regional armies",
+          "link": "https://www.arabnews.com/world/several-dead-in-clashes-between-rival-ethiopia-regional-armies-3008023",
+          "source": "arabnews.com",
+          "pubDate": "2026-10-24T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | Several dead in clashes between rival Ethiopia regional armies"
+        },
+        {
+          "title": "IMF Voting Power Heavily Skewed Against Developing Regions : Report",
+          "link": "https://www.thereporterethiopia.com/53645/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "IMF Voting Power Heavily Skewed Against Developing Regions : Report"
+        },
+        {
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
+        {
+          "title": "Ethiopia Intelligence Chief Warns of Red Sea Militarisation , Foreign Rivalries",
+          "link": "https://chimpreports.com/ethiopia-intelligence-chief-warns-of-red-sea-militarisation-foreign-rivalries/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-10-24T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Intelligence Chief Warns of Red Sea Militarisation , Foreign Rivalries"
         }
       ]
     },
@@ -684,6 +711,15 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
+          "title": "Egitto: ministro degli Esteri parla con omologhi di Iran, Oman e Arabia Saudita (3)",
+          "link": "https://www.agenzianova.com/a/0/7968109/2026-11-03/egitto-ministro-degli-esteri-parla-con-omologhi-di-iran-oman-e-arabia-saudita-3",
+          "description": "03 nov 22:16 - (Agenzia Nova) - I ministri hanno discusso degli sforzi, a livello regionale e internazionale, volti a ridurre le tensioni ed... (Cae)",
+          "pubDate": "2026-11-03T22:16:13+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: ministro degli Esteri parla con omologhi di Iran, Oman e Arabia Saudita (3)"
+        },
+        {
           "title": "Ethiopia: Long After Ethiopia Completes GERD, Egypt, Sudan Invoke Nile Water Rights Under Colonial-Era Agreement",
           "link": "https://allafrica.com/stories/202611030630.html",
           "description": "[Addis Standard] Addis Abeba -- Egypt and Sudan have renewed their opposition to Ethiopia's independent management of the Grand Ethiopian Renaissance Dam (GERD), invoking historical Nile water-sharing agreements and demanding a binding legal framework, more than a year after Ethiopia officially inaugurated the project.",
@@ -853,15 +889,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "The Region Real Picture , Without AI Beautification"
-        },
-        {
-          "title": "El Sisi insists he will leave office in 2030 as he outlines succession plan",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/17/el-sisi-insists-he-will-leave-office-in-2030-as-he-outlines-succession-plan/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-10-17T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "El Sisi insists he will leave office in 2030 as he outlines succession plan"
         }
       ]
     }
