@@ -1,11 +1,38 @@
 {
-  "generatedAt": "2026-11-04T16:23:18.566Z",
+  "generatedAt": "2026-11-04T23:44:37.323Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egitto-Usa: firmato accordo di cooperazione economica da 625 milioni di dollari",
+          "link": "https://www.agenzianova.com/a/0/7977042/2026-11-04/egitto-usa-firmato-accordo-di-cooperazione-economica-da-625-milioni-di-dollari",
+          "description": "04 nov 21:23 - (Agenzia Nova) - L'Egitto e gli Stati Uniti hanno firmato un accordo quadro strategico quinquennale da 625 milioni di dollari... (Cae)",
+          "pubDate": "2026-11-04T21:23:19+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Usa: firmato accordo di cooperazione economica da 625 milioni di dollari"
+        },
+        {
+          "title": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde",
+          "link": "https://allafrica.com/stories/202611040663.html",
+          "description": "[Horn Diplomat] Hargeisa -- Somaliland's representative-designate to Ethiopia, Sharmarke Gelle, paid a courtesy visit to Ethiopian Ambassador Teshome Shunde at the Ethiopian mission in Somaliland as he prepared to begin his assignment in Addis Ababa, Gelle said on Wednesday.",
+          "pubDate": "Wed, 04 Nov 2026 17:17:45 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde"
+        },
+        {
+          "title": "Egyptian president calls Iran, US to resolve conflict",
+          "link": "http://www.africanews.com/2026/11/04/egyptian-president-calls-iran-us-to-resolve-conflict/",
+          "description": "Egyptian president Abdel-Fattah el-Sissi on Tuesday called on Iran and the United States to engage in dialogue and reach an agreement to resolve their ongoing conflict, warning against further military escalation in the region.",
+          "pubDate": "Wed, 04 Nov 2026 16:36:57 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egyptian president calls Iran, US to resolve conflict"
+        },
         {
           "title": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move",
           "link": "https://allafrica.com/stories/202611040327.html",
@@ -158,21 +185,30 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability"
-        },
-        {
-          "title": "Somalia Awaits a New Security Order as Mission Drawdown Looms",
-          "link": "https://www.crisisgroup.org/cmt/africa/somalia/somalia-awaits-new-security-order-mission-drawdown-looms",
-          "description": "The multilateral missions that have helped the Somali government fight Al-Shabaab for nearly two decades may be coming to an end. Mogadishu and its partners should get started now developing a plan for what they will do next.",
-          "pubDate": "Friday, September 18, 2026 - 21:00",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "Somalia Awaits a New Security Order as Mission Drawdown Looms"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde",
+          "link": "https://allafrica.com/stories/202611040663.html",
+          "description": "[Horn Diplomat] Hargeisa -- Somaliland's representative-designate to Ethiopia, Sharmarke Gelle, paid a courtesy visit to Ethiopian Ambassador Teshome Shunde at the Ethiopian mission in Somaliland as he prepared to begin his assignment in Addis Ababa, Gelle said on Wednesday.",
+          "pubDate": "Wed, 04 Nov 2026 17:17:45 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde"
+        },
+        {
+          "title": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen",
+          "link": "https://allafrica.com/stories/202611040529.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia has ordered six Sudanese diplomatic staff members to leave the country within 48 hours, a senior Ethiopian official told Reuters on Wednesday, further escalating tensions between the two neighbors amid competing allegations of support for armed groups and growing fears of a wider regional conflict.",
+          "pubDate": "Wed, 04 Nov 2026 15:07:20 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen"
+        },
         {
           "title": "Africa: Dakar 2026 Youth Olympic Games - Kenya on Top, Madagascar on Podium, Senegal Looks to Future",
           "link": "https://allafrica.com/stories/202611040426.html",
@@ -199,15 +235,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?"
-        },
-        {
-          "title": "Kenya: Kenya Begins Registering Ethiopian Refugees Fleeing Moyale Clashes - Arrivals Surpass 50,000",
-          "link": "https://allafrica.com/stories/202611040081.html",
-          "description": "[Addis Standard] Addis Abeba -- Kenyan authorities, in collaboration with the United Nations High Commissioner for Refugees (UNHCR) and the Kenya Red Cross Society (KRCS), have begun registering Ethiopian refugees fleeing renewed clashes in the border town of Moyale, as more than 50,000 people have reportedly crossed into Kenya since fighting intensified in late October.",
-          "pubDate": "Wed, 04 Nov 2026 04:57:59 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Kenya Begins Registering Ethiopian Refugees Fleeing Moyale Clashes - Arrivals Surpass 50,000"
         },
         {
           "title": "Ethiopia suspends leading independent newspaper The Reporter",
@@ -287,6 +314,33 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde",
+          "link": "https://allafrica.com/stories/202611040663.html",
+          "description": "[Horn Diplomat] Hargeisa -- Somaliland's representative-designate to Ethiopia, Sharmarke Gelle, paid a courtesy visit to Ethiopian Ambassador Teshome Shunde at the Ethiopian mission in Somaliland as he prepared to begin his assignment in Addis Ababa, Gelle said on Wednesday.",
+          "pubDate": "Wed, 04 Nov 2026 17:17:45 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde"
+        },
+        {
+          "title": "Nigeria: Atiku Arrives Sokoto Amid Campaign Dispute As Adc Urges Nigerians to Reject APC",
+          "link": "https://allafrica.com/stories/202611040662.html",
+          "description": "[Premium Times] Atiku Abubakar arrived in Sokoto for the ADC's presidential campaign launch, with his entourage delayed by traffic as supporters gathered along the airport route.",
+          "pubDate": "Wed, 04 Nov 2026 17:16:52 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Nigeria: Atiku Arrives Sokoto Amid Campaign Dispute As Adc Urges Nigerians to Reject APC"
+        },
+        {
+          "title": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen",
+          "link": "https://allafrica.com/stories/202611040529.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia has ordered six Sudanese diplomatic staff members to leave the country within 48 hours, a senior Ethiopian official told Reuters on Wednesday, further escalating tensions between the two neighbors amid competing allegations of support for armed groups and growing fears of a wider regional conflict.",
+          "pubDate": "Wed, 04 Nov 2026 15:07:20 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen"
+        },
+        {
           "title": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move",
           "link": "https://allafrica.com/stories/202611040327.html",
           "description": "[Shabelle] Mogadishu -- Somalia's Ministry of Foreign Affairs and International Cooperation has strongly condemned Israel's reported appointment of an ambassador to Hargeisa and the laying of a foundation stone for a building it described as an embassy in the Somali territory.",
@@ -303,15 +357,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?"
-        },
-        {
-          "title": "Kenya: Kenya Begins Registering Ethiopian Refugees Fleeing Moyale Clashes - Arrivals Surpass 50,000",
-          "link": "https://allafrica.com/stories/202611040081.html",
-          "description": "[Addis Standard] Addis Abeba -- Kenyan authorities, in collaboration with the United Nations High Commissioner for Refugees (UNHCR) and the Kenya Red Cross Society (KRCS), have begun registering Ethiopian refugees fleeing renewed clashes in the border town of Moyale, as more than 50,000 people have reportedly crossed into Kenya since fighting intensified in late October.",
-          "pubDate": "Wed, 04 Nov 2026 04:57:59 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Kenya Begins Registering Ethiopian Refugees Fleeing Moyale Clashes - Arrivals Surpass 50,000"
         },
         {
           "title": "Young voices carry Mazu legacy - Chinadaily . com . cn",
@@ -447,24 +492,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "IMF Voting Power Heavily Skewed Against Developing Regions : Report"
-        },
-        {
-          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
-          "link": "https://www.thereporterethiopia.com/53621/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-24T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
-        },
-        {
-          "title": "Ethiopia Intelligence Chief Warns of Red Sea Militarisation , Foreign Rivalries",
-          "link": "https://chimpreports.com/ethiopia-intelligence-chief-warns-of-red-sea-militarisation-foreign-rivalries/",
-          "source": "chimpreports.com",
-          "pubDate": "2026-10-24T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Intelligence Chief Warns of Red Sea Militarisation , Foreign Rivalries"
         }
       ]
     },
@@ -472,13 +499,13 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Egypt raises over $650 million in IPO of state-owned bank",
-          "link": "http://www.africanews.com/2026/11/02/egypt-raises-over-650-million-in-ipo-of-state-owned-bank/",
-          "description": "Egypt on Monday raised more than 650 million dollars in its initial public offering of the state-owned Banque du Caire. The offering comes as the country advances reforms under an International Monetary Fund programme to boost private sector participation in Egyptian economy.",
-          "pubDate": "Mon, 02 Nov 2026 15:36:13 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Egypt raises over $650 million in IPO of state-owned bank"
+          "title": "Egitto-Usa: firmato accordo di cooperazione economica da 625 milioni di dollari",
+          "link": "https://www.agenzianova.com/a/0/7977042/2026-11-04/egitto-usa-firmato-accordo-di-cooperazione-economica-da-625-milioni-di-dollari",
+          "description": "04 nov 21:23 - (Agenzia Nova) - L'Egitto e gli Stati Uniti hanno firmato un accordo quadro strategico quinquennale da 625 milioni di dollari... (Cae)",
+          "pubDate": "2026-11-04T21:23:19+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Usa: firmato accordo di cooperazione economica da 625 milioni di dollari"
         }
       ]
     },
@@ -486,22 +513,40 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "I fatti del giorno - Africa sub-sahariana (2)",
-          "link": "https://www.agenzianova.com/a/0/7975130/2026-11-04/i-fatti-del-giorno-africa-sub-sahariana-2",
-          "description": "04 nov 17:00 - (Agenzia Nova) - Sudan: Rete dei medici sudanesi chiede rilascio di decine di operatori sanitari e accademici a El Geneina -... (Res)",
-          "pubDate": "2026-11-04T17:00:00+01:00",
+          "title": "Egitto-Usa: firmato accordo di cooperazione economica da 625 milioni di dollari",
+          "link": "https://www.agenzianova.com/a/0/7977042/2026-11-04/egitto-usa-firmato-accordo-di-cooperazione-economica-da-625-milioni-di-dollari",
+          "description": "04 nov 21:23 - (Agenzia Nova) - L'Egitto e gli Stati Uniti hanno firmato un accordo quadro strategico quinquennale da 625 milioni di dollari... (Cae)",
+          "pubDate": "2026-11-04T21:23:19+01:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "I fatti del giorno - Africa sub-sahariana (2)"
+          "titleIt": "Egitto-Usa: firmato accordo di cooperazione economica da 625 milioni di dollari"
         },
         {
-          "title": "Sudan: 'This Is Not About Politics. This Is About People' - UN Warns of Impact of Deadly Drone Strikes in Sudan",
-          "link": "https://allafrica.com/stories/202611040185.html",
-          "description": "[UN News] Intensifying drone attacks on civilian infrastructure across Sudan are disrupting electricity, water and fuel supplies, putting lives at risk and hampering the delivery of humanitarian aid, the UN's top official in the country has warned.",
-          "pubDate": "Wed, 04 Nov 2026 09:14:33 GMT",
+          "title": "Egyptian president calls Iran, US to resolve conflict",
+          "link": "http://www.africanews.com/2026/11/04/egyptian-president-calls-iran-us-to-resolve-conflict/",
+          "description": "Egyptian president Abdel-Fattah el-Sissi on Tuesday called on Iran and the United States to engage in dialogue and reach an agreement to resolve their ongoing conflict, warning against further military escalation in the region.",
+          "pubDate": "Wed, 04 Nov 2026 16:36:57 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egyptian president calls Iran, US to resolve conflict"
+        },
+        {
+          "title": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen",
+          "link": "https://allafrica.com/stories/202611040529.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia has ordered six Sudanese diplomatic staff members to leave the country within 48 hours, a senior Ethiopian official told Reuters on Wednesday, further escalating tensions between the two neighbors amid competing allegations of support for armed groups and growing fears of a wider regional conflict.",
+          "pubDate": "Wed, 04 Nov 2026 15:07:20 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Sudan: 'This Is Not About Politics. This Is About People' - UN Warns of Impact of Deadly Drone Strikes in Sudan"
+          "titleIt": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen"
+        },
+        {
+          "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+          "link": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
+          "source": "aljazeera.com",
+          "pubDate": "2026-11-03T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia"
         },
         {
           "title": "Displaced Ethiopians await registration in Kenya after fleeing clashes",
@@ -522,13 +567,130 @@
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
         },
         {
-          "title": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability",
-          "link": "https://hornobserver.com/articles/3782/Opinion-The-Horn-of-Africa-Deserves-Peace-Not-Crisis-and-Instability",
-          "description": "Yet, behind these crises are millions of people who share deep historical, cultural, economic, and social ties. The region's greatest need today is not another confrontation or competing alliance, but sustainable peace, mutual respect, and regional cooperation. A Region Under Immense Pressure. The situation across the Horn of Africa and its neighboring countries illustrates how deeply interconnected regional security has become. Sudan is devastated by a crippling war, with millions displaced and its state institutions and social fabric severely damaged. Somalia continues its difficult fight ag",
-          "pubDate": "Tue, 13 Oct 2026 15:21:04 +0300",
-          "source": "Horn Observer",
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
           "lang": "en",
-          "titleIt": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability"
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
+        {
+          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
+          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
+          "source": "warontherocks.com",
+          "pubDate": "2026-10-21T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
+        },
+        {
+          "title": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal",
+          "link": "https://chimpreports.com/ethiopias-abiy-pushes-nuclear-power-development-after-russia-deal/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-10-21T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal"
+        },
+        {
+          "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
+          "link": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-10-20T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
+          "source": "newsday.com",
+          "pubDate": "2026-10-20T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
+          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-20T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
+          "source": "sitkasentinel.com",
+          "pubDate": "2026-10-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
+          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
+          "source": "wral.com",
+          "pubDate": "2026-10-19T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
+          "source": "thepeterboroughexaminer.com",
+          "pubDate": "2026-10-19T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
+          "source": "niagarafallsreview.ca",
+          "pubDate": "2026-10-19T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
+          "source": "arabnews.com",
+          "pubDate": "2026-10-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press",
+          "link": "https://www.winnipegfreepress.com/business/2026/10/19/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict",
+          "source": "winnipegfreepress.com",
+          "pubDate": "2026-10-19T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press"
+        },
+        {
+          "title": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem",
+          "link": "https://www.opinionnigeria.com/who-holds-the-valve-water-war-and-the-price-of-peace-by-kator-ifyalem/",
+          "source": "opinionnigeria.com",
+          "pubDate": "2026-10-18T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem"
+        },
+        {
+          "title": "The Region Real Picture , Without AI Beautification",
+          "link": "https://english.aawsat.com/opinion/5330701-region%E2%80%99s-real-picture-without-ai-beautification",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-10-18T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Region Real Picture , Without AI Beautification"
         }
       ]
     }
