@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-11-04T06:32:20.322Z",
+  "generatedAt": "2026-11-04T16:23:18.566Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move",
+          "link": "https://allafrica.com/stories/202611040327.html",
+          "description": "[Shabelle] Mogadishu -- Somalia's Ministry of Foreign Affairs and International Cooperation has strongly condemned Israel's reported appointment of an ambassador to Hargeisa and the laying of a foundation stone for a building it described as an embassy in the Somali territory.",
+          "pubDate": "Wed, 04 Nov 2026 11:03:47 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move"
+        },
+        {
+          "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
+          "link": "https://hornobserver.com/articles/3801/Editorial-Somalias-Security-Dilemma-Can-a-Nation-Dependent-on-Foreign-Forces-Defend-Itself",
+          "description": "For years, international partners have helped Somalia fight Al-Shabaab, train troops and strengthen its security institutions. Yet this support has also exposed a serious weakness: the country's security remains deeply dependent on external funding, equipment, training and political commitments. The withdrawal of Ugandan forces from several forward operating bases in Lower Shabelle has brought this challenge into sharper focus. Somali forces are expected to assume greater responsibility, but concerns remain about whether they have the personnel, equipment, experience and financial resources to",
+          "pubDate": "Wed, 04 Nov 2026 10:41:44 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?"
+        },
         {
           "title": "Biggest ever Fayum portrait show at Ara Pacis until May",
           "link": "https://www.ansa.it/english/news/2026/11/03/biggest-ever-fayum-portrait-show-at-ara-pacis-until-may_dfabf225-a67a-4101-96a4-b8d44fe49cb4.html",
@@ -142,15 +160,6 @@
           "titleIt": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability"
         },
         {
-          "title": "Somalia braces for El Niño floods as millions face risk of hunger",
-          "link": "https://hornobserver.com/articles/3781/Somalia-braces-for-El-Nino-floods-as-millions-face-risk-of-hunger",
-          "description": "In Bayahaaw village, on the outskirts of Jowhar in central Somalia, farmers face a difficult choice: plant crops and risk losing them to floodwaters or leave their fields bare and face potential hunger in the coming year. Nuh Adan, a farmer and community leader in Bayahaaw, said flooding caused by breached riverbanks could devastate local agriculture for months. \"If the river breaks and the floods hit us, the effects will last until the next rainy season in March,\" Adan said. Flooding in 2023 affected nearly 2 million people across Somalia and displaced more than 500,000, according to the Inte",
-          "pubDate": "Tue, 13 Oct 2026 14:43:56 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia braces for El Niño floods as millions face risk of hunger"
-        },
-        {
           "title": "Somalia Awaits a New Security Order as Mission Drawdown Looms",
           "link": "https://www.crisisgroup.org/cmt/africa/somalia/somalia-awaits-new-security-order-mission-drawdown-looms",
           "description": "The multilateral missions that have helped the Somali government fight Al-Shabaab for nearly two decades may be coming to an end. Mogadishu and its partners should get started now developing a plan for what they will do next.",
@@ -165,13 +174,31 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: One in Four Kenyan Women Has Experienced Online Abuse, KNBS Survey Reveals",
-          "link": "https://allafrica.com/stories/202611040135.html",
-          "description": "[Capital FM] Nairobi -- One in four Kenyan women has experienced online abuse, with a new national survey exposing the scale of technology-facilitated gender-based violence across the country.",
-          "pubDate": "Wed, 04 Nov 2026 05:25:51 GMT",
+          "title": "Africa: Dakar 2026 Youth Olympic Games - Kenya on Top, Madagascar on Podium, Senegal Looks to Future",
+          "link": "https://allafrica.com/stories/202611040426.html",
+          "description": "[allAfrica] Dakar -- African women's rugby made its mark at the Dakar 2026 Youth Olympic Games. At the Iba Mar Diop complex, Kenya secured gold after a spectacular final against Australia, while Madagascar took bronze. For Senegal, the host country, this first international experience opens new avenues for the development of the sport among young girls.",
+          "pubDate": "Wed, 04 Nov 2026 12:56:15 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: One in Four Kenyan Women Has Experienced Online Abuse, KNBS Survey Reveals"
+          "titleIt": "Africa: Dakar 2026 Youth Olympic Games - Kenya on Top, Madagascar on Podium, Senegal Looks to Future"
+        },
+        {
+          "title": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move",
+          "link": "https://allafrica.com/stories/202611040327.html",
+          "description": "[Shabelle] Mogadishu -- Somalia's Ministry of Foreign Affairs and International Cooperation has strongly condemned Israel's reported appointment of an ambassador to Hargeisa and the laying of a foundation stone for a building it described as an embassy in the Somali territory.",
+          "pubDate": "Wed, 04 Nov 2026 11:03:47 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move"
+        },
+        {
+          "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
+          "link": "https://hornobserver.com/articles/3801/Editorial-Somalias-Security-Dilemma-Can-a-Nation-Dependent-on-Foreign-Forces-Defend-Itself",
+          "description": "For years, international partners have helped Somalia fight Al-Shabaab, train troops and strengthen its security institutions. Yet this support has also exposed a serious weakness: the country's security remains deeply dependent on external funding, equipment, training and political commitments. The withdrawal of Ugandan forces from several forward operating bases in Lower Shabelle has brought this challenge into sharper focus. Somali forces are expected to assume greater responsibility, but concerns remain about whether they have the personnel, equipment, experience and financial resources to",
+          "pubDate": "Wed, 04 Nov 2026 10:41:44 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?"
         },
         {
           "title": "Kenya: Kenya Begins Registering Ethiopian Refugees Fleeing Moyale Clashes - Arrivals Surpass 50,000",
@@ -183,15 +210,6 @@
           "titleIt": "Kenya: Kenya Begins Registering Ethiopian Refugees Fleeing Moyale Clashes - Arrivals Surpass 50,000"
         },
         {
-          "title": "Africa: Africa CDC Stands With Kenya, Calls for Lifting of Unjustified Ebola Travel Restrictions",
-          "link": "https://allafrica.com/stories/202611030173.html",
-          "description": "[Africa CDC] The Africa Centres for Disease Control and Prevention (Africa CDC) expresses its strong solidarity with the Government and people of the Republic of Kenya and supports their call for the urgent review and lifting of the Ebola-related travel restrictions imposed by the Kingdom of Saudi Arabia.",
-          "pubDate": "Tue, 03 Nov 2026 09:01:14 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: Africa CDC Stands With Kenya, Calls for Lifting of Unjustified Ebola Travel Restrictions"
-        },
-        {
           "title": "Ethiopia suspends leading independent newspaper The Reporter",
           "link": "http://www.africanews.com/2026/11/03/ethiopia-suspends-leading-independent-newspaper-the-reporter/",
           "description": "Ethiopian authorities on Monday indefinitely suspended the licence of independent print and online newspaper The Reporter, accusing the outlet of carrying \"unbalanced and biased\" reports.",
@@ -199,24 +217,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Ethiopia suspends leading independent newspaper The Reporter"
-        },
-        {
-          "title": "Israel’s first ambassador presents credentials in Somaliland",
-          "link": "http://www.africanews.com/2026/11/02/israels-first-ambassador-presents-credentials-in-somaliland/",
-          "description": "Israel’s first ambassador to Somaliland has presented his credentials to President Abdirahman Mohamed Abdullahi, known as Cirro, in Hargeisa. The ceremony also marked the laying of the cornerstone for an Israeli embassy.",
-          "pubDate": "Mon, 02 Nov 2026 14:57:27 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Israel’s first ambassador presents credentials in Somaliland"
-        },
-        {
-          "title": "TPLF loses popular support after fresh fighting in Ethiopia's Tigray",
-          "link": "http://www.africanews.com/2026/11/02/tplf-loses-popular-support-after-fresh-fighting-in-ethiopias-tigray/",
-          "description": "The Tigray People's Liberation Front was once Ethiopia's ruling party, but the movement is now facing a backlash from former supporters in the region.",
-          "pubDate": "Mon, 02 Nov 2026 09:42:04 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "TPLF loses popular support after fresh fighting in Ethiopia's Tigray"
         },
         {
           "title": "Saudi Arabia Tightens Ebola Travel Restrictions on Kenya as Nairobi Defends Outbreak Response",
@@ -255,15 +255,6 @@
           "titleIt": "Somalia: Press Freedom Under Pressure as Puntland Journalists Face Police Action Over Security Reporting"
         },
         {
-          "title": "East Africa: CMA CGM Launches a New Dedicated Rail Service in Kenya, Strengthening Its Presence in East Africa",
-          "link": "https://allafrica.com/stories/202610290248.html",
-          "description": "[InfoWire] CMA CGM launches its first dedicated full block train service between the Port of Mombasa and the Nairobi-Embakasi Inland Container Depot, strengthening connections between Kenya's main maritime gateway and its inland markets. With 54 wagons and a capacity of 108 containers (Twenty-foot Equivalent Units), the service will initially operate one train per week, with potential to increase frequency and introduce a return service. Developed in partnership with the Kenya Ports Authority and Kenya",
-          "pubDate": "Thu, 29 Oct 2026 09:51:56 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "East Africa: CMA CGM Launches a New Dedicated Rail Service in Kenya, Strengthening Its Presence in East Africa"
-        },
-        {
           "title": "U.S. Troops Withdraw from Belidogle Military Airfield as Security Situation Evolves in Southwest Somalia",
           "link": "https://hornobserver.com/articles/3793/US-Troops-Withdraw-from-Belidogle-Military-Airfield-as-Security-Situation-Evolves-in-Southwest-Somalia",
           "description": "The United States had maintained presence at the airfield since 2012,the sources said. The airfield is now under the control of Uganda People's Defense Forces ( UPDF) and Somali National Army (SNA) forces, one of the the sources added. &nbsp; African Union peacekeeping forces seized the airfield from Al Shabab militants about 14 years ago. &nbsp; U.S. forces used the base to train Somalia's elite Danab commando forces at the airfield and as an intelligence hub, according to sources within the Somali military. &nbsp; Approximately, 60 active-duty U.S service members were operating in Somalia, a",
@@ -296,6 +287,24 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move",
+          "link": "https://allafrica.com/stories/202611040327.html",
+          "description": "[Shabelle] Mogadishu -- Somalia's Ministry of Foreign Affairs and International Cooperation has strongly condemned Israel's reported appointment of an ambassador to Hargeisa and the laying of a foundation stone for a building it described as an embassy in the Somali territory.",
+          "pubDate": "Wed, 04 Nov 2026 11:03:47 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move"
+        },
+        {
+          "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
+          "link": "https://hornobserver.com/articles/3801/Editorial-Somalias-Security-Dilemma-Can-a-Nation-Dependent-on-Foreign-Forces-Defend-Itself",
+          "description": "For years, international partners have helped Somalia fight Al-Shabaab, train troops and strengthen its security institutions. Yet this support has also exposed a serious weakness: the country's security remains deeply dependent on external funding, equipment, training and political commitments. The withdrawal of Ugandan forces from several forward operating bases in Lower Shabelle has brought this challenge into sharper focus. Somali forces are expected to assume greater responsibility, but concerns remain about whether they have the personnel, equipment, experience and financial resources to",
+          "pubDate": "Wed, 04 Nov 2026 10:41:44 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?"
+        },
+        {
           "title": "Kenya: Kenya Begins Registering Ethiopian Refugees Fleeing Moyale Clashes - Arrivals Surpass 50,000",
           "link": "https://allafrica.com/stories/202611040081.html",
           "description": "[Addis Standard] Addis Abeba -- Kenyan authorities, in collaboration with the United Nations High Commissioner for Refugees (UNHCR) and the Kenya Red Cross Society (KRCS), have begun registering Ethiopian refugees fleeing renewed clashes in the border town of Moyale, as more than 50,000 people have reportedly crossed into Kenya since fighting intensified in late October.",
@@ -305,13 +314,13 @@
           "titleIt": "Kenya: Kenya Begins Registering Ethiopian Refugees Fleeing Moyale Clashes - Arrivals Surpass 50,000"
         },
         {
-          "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-          "link": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
-          "description": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
-          "pubDate": "Wed, 04 Nov 2026 03:46:10 GMT",
-          "source": "BBC World",
+          "title": "Young voices carry Mazu legacy - Chinadaily . com . cn",
+          "link": "http://europe.chinadaily.com.cn/a/202611/04/WS6aea6971e4b06d4aa0566df5.html",
+          "source": "europe.chinadaily.com.cn",
+          "pubDate": "2026-11-04T01:30:00Z",
           "lang": "en",
-          "titleIt": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea"
+          "description": "",
+          "titleIt": "Young voices carry Mazu legacy - Chinadaily . com . cn"
         },
         {
           "title": "Ethiopia suspends leading independent newspaper The Reporter",
@@ -330,15 +339,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Displaced Ethiopians await registration in Kenya after fleeing clashes"
-        },
-        {
-          "title": "TPLF loses popular support after fresh fighting in Ethiopia's Tigray",
-          "link": "http://www.africanews.com/2026/11/02/tplf-loses-popular-support-after-fresh-fighting-in-ethiopias-tigray/",
-          "description": "The Tigray People's Liberation Front was once Ethiopia's ruling party, but the movement is now facing a backlash from former supporters in the region.",
-          "pubDate": "Mon, 02 Nov 2026 09:42:04 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "TPLF loses popular support after fresh fighting in Ethiopia's Tigray"
         },
         {
           "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
@@ -395,31 +395,76 @@
           "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
         },
         {
-          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
-          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
-          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
-          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
-          "source": "Horn Observer",
+          "title": "Eritrea Gambia Diplomatic Relations Set Up in New York",
+          "link": "https://www.riotimesonline.com/eritrea-gambia-diplomatic-relations-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-25T09:45:00Z",
           "lang": "en",
-          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
+          "description": "",
+          "titleIt": "Eritrea Gambia Diplomatic Relations Set Up in New York"
         },
         {
-          "title": "Why Rwanda's deal for F1 race remains controversial",
-          "link": "https://www.bbc.co.uk/sport/formula1/articles/c61kdv3k9gm2o?at_medium=RSS&at_campaign=rss",
-          "description": "Formula 1 will return to Africa in the early 2030s, but Rwanda's deal to stage a race has prompted accusations of sportswashing against the country.",
-          "pubDate": "Wed, 14 Oct 2026 14:47:31 GMT",
-          "source": "BBC Africa",
+          "title": "Starlink and new era of digital connectivity and inclusion",
+          "link": "https://capitalethiopia.com/2026/10/25/starlink-and-new-era-of-digital-connectivity-and-inclusion/",
+          "source": "capitalethiopia.com",
+          "pubDate": "2026-10-25T05:30:00Z",
           "lang": "en",
-          "titleIt": "Why Rwanda's deal for F1 race remains controversial"
+          "description": "",
+          "titleIt": "Starlink and new era of digital connectivity and inclusion"
         },
         {
-          "title": "Containing the New War in Northern Ethiopia",
-          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
-          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
-          "pubDate": "Thursday, October 15, 2026 - 11:12",
-          "source": "Crisis Group",
+          "title": "Several dead in clashes between rival Ethiopia armies",
+          "link": "https://www.omanobserver.om/article/1198471/world/africa/several-dead-in-clashes-between-rival-ethiopia-armies",
+          "source": "omanobserver.om",
+          "pubDate": "2026-10-24T16:00:00Z",
           "lang": "en",
-          "titleIt": "Containing the New War in Northern Ethiopia"
+          "description": "",
+          "titleIt": "Several dead in clashes between rival Ethiopia armies"
+        },
+        {
+          "title": "Ethiopia Calls for Shared Red Sea Security",
+          "link": "https://www.riotimesonline.com/ethiopia-calls-for-shared-red-sea-security-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-24T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Calls for Shared Red Sea Security"
+        },
+        {
+          "title": "Arab News | Several dead in clashes between rival Ethiopia regional armies",
+          "link": "https://www.arabnews.com/world/several-dead-in-clashes-between-rival-ethiopia-regional-armies-3008023",
+          "source": "arabnews.com",
+          "pubDate": "2026-10-24T11:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | Several dead in clashes between rival Ethiopia regional armies"
+        },
+        {
+          "title": "IMF Voting Power Heavily Skewed Against Developing Regions : Report",
+          "link": "https://www.thereporterethiopia.com/53645/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "IMF Voting Power Heavily Skewed Against Developing Regions : Report"
+        },
+        {
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
+        {
+          "title": "Ethiopia Intelligence Chief Warns of Red Sea Militarisation , Foreign Rivalries",
+          "link": "https://chimpreports.com/ethiopia-intelligence-chief-warns-of-red-sea-militarisation-foreign-rivalries/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-10-24T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Intelligence Chief Warns of Red Sea Militarisation , Foreign Rivalries"
         }
       ]
     },
@@ -440,6 +485,24 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "I fatti del giorno - Africa sub-sahariana (2)",
+          "link": "https://www.agenzianova.com/a/0/7975130/2026-11-04/i-fatti-del-giorno-africa-sub-sahariana-2",
+          "description": "04 nov 17:00 - (Agenzia Nova) - Sudan: Rete dei medici sudanesi chiede rilascio di decine di operatori sanitari e accademici a El Geneina -... (Res)",
+          "pubDate": "2026-11-04T17:00:00+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "I fatti del giorno - Africa sub-sahariana (2)"
+        },
+        {
+          "title": "Sudan: 'This Is Not About Politics. This Is About People' - UN Warns of Impact of Deadly Drone Strikes in Sudan",
+          "link": "https://allafrica.com/stories/202611040185.html",
+          "description": "[UN News] Intensifying drone attacks on civilian infrastructure across Sudan are disrupting electricity, water and fuel supplies, putting lives at risk and hampering the delivery of humanitarian aid, the UN's top official in the country has warned.",
+          "pubDate": "Wed, 04 Nov 2026 09:14:33 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: 'This Is Not About Politics. This Is About People' - UN Warns of Impact of Deadly Drone Strikes in Sudan"
+        },
         {
           "title": "Displaced Ethiopians await registration in Kenya after fleeing clashes",
           "link": "http://www.africanews.com/2026/11/03/displaced-ethiopians-await-registration-in-kenya-after-fleeing-clashes/",
