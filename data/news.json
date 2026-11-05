@@ -1,11 +1,56 @@
 {
-  "generatedAt": "2026-11-05T06:55:23.107Z",
-  "feedsChecked": 9,
+  "generatedAt": "2026-11-05T16:31:38.241Z",
+  "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egitto-Usa: firmato nuovo accordo di cooperazione per favorire crescita settore privato (2)",
+          "link": "https://www.agenzianova.com/a/0/7980786/2026-11-05/egitto-usa-firmato-nuovo-accordo-di-cooperazione-per-favorire-crescita-settore-privato-2",
+          "description": "05 nov 17:26 - (Agenzia Nova) - In questa occasione, Samar Al Ahdal ha precisato che il contributo statunitense potrebbe arrivare a 625 milioni... (Was)",
+          "pubDate": "2026-11-05T17:26:20+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Usa: firmato nuovo accordo di cooperazione per favorire crescita settore privato (2)"
+        },
+        {
+          "title": "Egitto-Usa: firmato nuovo accordo di cooperazione per favorire crescita settore privato",
+          "link": "https://www.agenzianova.com/a/0/7980785/2026-11-05/egitto-usa-firmato-nuovo-accordo-di-cooperazione-per-favorire-crescita-settore-privato",
+          "description": "05 nov 17:26 - (Agenzia Nova) - L'Egitto e gli Stati Uniti hanno firmato un accordo quadro di cooperazione volto a rafforzare le loro relazioni... (Was)",
+          "pubDate": "2026-11-05T17:26:20+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Usa: firmato nuovo accordo di cooperazione per favorire crescita settore privato"
+        },
+        {
+          "title": "Somalia: Collaboration Between the Ports of Mogadishu and Trieste Is Strengthened",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/05/somalia-collaboration-between-the-ports-of-mogadishu-and-trieste-is-strengthened_1aa5641e-a65a-4692-a7a7-caf2da08d124.html",
+          "description": "(ANSA) - NAIROBI, 05 NOV - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with Somali port authorities to receive an update on projects aimed at strengthening collaboration between the port systems of Mogadishu and Trieste, as part of the Forlis project on training and cooperation for port logistics and intermodal transport, supported by the autonomous region of Friuli-Venezia Giulia and promoted by the national association Oltre le Frontiere del Friuli-Venezia Giulia (Anolf FVG). The meeting was attended by the director of the Port of Mogadishu—who was also accompanied by the ",
+          "pubDate": "Thu, 5 Nov 2026 17:14:48 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Somalia: Collaboration Between the Ports of Mogadishu and Trieste Is Strengthened"
+        },
+        {
+          "title": "Egypt-US sign $625 framework agreement aimed at advancing mutual prosperity",
+          "link": "http://www.africanews.com/2026/11/05/egypt-us-sign-625-framework-agreement-aimed-at-advancing-mutual-prosperity/",
+          "description": "Egypt and the United States signed a framework agreement on Wednesday aimed at advancing mutual prosperity. The US contributions could reach up to $625 million over five years.",
+          "pubDate": "Thu, 05 Nov 2026 13:59:27 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egypt-US sign $625 framework agreement aimed at advancing mutual prosperity"
+        },
+        {
+          "title": "Somalia: Somali Army Chief Urges Troops to Intensify Operations Against Al-Shabaab Near Barawe",
+          "link": "https://allafrica.com/stories/202611050365.html",
+          "description": "[Shabelle] Mogadishu -- Somalia's army chief, Major General Ibrahim Mohamed Mahmoud, has urged government forces to intensify efforts to weaken Al-Shabaab militants and secure areas being recovered from the group.",
+          "pubDate": "Thu, 05 Nov 2026 12:09:07 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somali Army Chief Urges Troops to Intensify Operations Against Al-Shabaab Near Barawe"
+        },
         {
           "title": "Egyptian president calls Iran, US to resolve conflict",
           "link": "http://www.africanews.com/2026/11/04/egyptian-president-calls-iran-us-to-resolve-conflict/",
@@ -23,24 +68,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?"
-        },
-        {
-          "title": "Biggest ever Fayum portrait show at Ara Pacis until May",
-          "link": "https://www.ansa.it/english/news/2026/11/03/biggest-ever-fayum-portrait-show-at-ara-pacis-until-may_dfabf225-a67a-4101-96a4-b8d44fe49cb4.html",
-          "description": "(ANSA) - ROME, 03 NOV - The biggest ever show in Italy of ancient Roman-Egyptian Fayum mummy portraits is set to wow visitors at Rome's Ara Pacis museum from November 5 to May 2 next year. If it is true that the eyes are the mirror of the soul—if the gaze is what best reveals our true nature—then there is a window into the lives of our ancestors that appears with striking clarity in the painted faces, often serving as funerary masks, that have come down to us from Roman-era Egypt. These are gazes that captivated Henri Matisse, led Pablo Picasso to remark that \"we have invented nothing since th",
-          "pubDate": "Tue, 3 Nov 2026 16:18:00 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Biggest ever Fayum portrait show at Ara Pacis until May"
-        },
-        {
-          "title": "Biggest ever Fayum portrait show at Ara Pacis until May",
-          "link": "https://www.ansa.it/english/news/lifestyle/arts/2026/11/03/biggest-ever-fayum-portrait-show-at-ara-pacis-until-may_3623d77d-4bca-442e-a6f9-faef691524a4.html",
-          "description": "(ANSA) - ROME, 03 NOV - The biggest ever show in Italy of ancient Roman-Egyptian Fayum mummy portraits is set to wow visitors at Rome's Ara Pacis museum from November 5 to May 2 next year. If it is true that the eyes are the mirror of the soul—if the gaze is what best reveals our true nature—then there is a window into the lives of our ancestors that appears with striking clarity in the painted faces, often serving as funerary masks, that have come down to us from Roman-era Egypt. These are gazes that captivated Henri Matisse, led Pablo Picasso to remark that \"we have invented nothing since th",
-          "pubDate": "Tue, 3 Nov 2026 16:13:17 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Biggest ever Fayum portrait show at Ara Pacis until May"
         },
         {
           "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
@@ -158,21 +185,48 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Opinion: The Horn of Africa Deserves Peace Not Crisis and Instability"
-        },
-        {
-          "title": "Somalia Awaits a New Security Order as Mission Drawdown Looms",
-          "link": "https://www.crisisgroup.org/cmt/africa/somalia/somalia-awaits-new-security-order-mission-drawdown-looms",
-          "description": "The multilateral missions that have helped the Somali government fight Al-Shabaab for nearly two decades may be coming to an end. Mogadishu and its partners should get started now developing a plan for what they will do next.",
-          "pubDate": "Friday, September 18, 2026 - 21:00",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "Somalia Awaits a New Security Order as Mission Drawdown Looms"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Somalia: Collaboration Between the Ports of Mogadishu and Trieste Is Strengthened",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/05/somalia-collaboration-between-the-ports-of-mogadishu-and-trieste-is-strengthened_1aa5641e-a65a-4692-a7a7-caf2da08d124.html",
+          "description": "(ANSA) - NAIROBI, 05 NOV - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with Somali port authorities to receive an update on projects aimed at strengthening collaboration between the port systems of Mogadishu and Trieste, as part of the Forlis project on training and cooperation for port logistics and intermodal transport, supported by the autonomous region of Friuli-Venezia Giulia and promoted by the national association Oltre le Frontiere del Friuli-Venezia Giulia (Anolf FVG). The meeting was attended by the director of the Port of Mogadishu—who was also accompanied by the ",
+          "pubDate": "Thu, 5 Nov 2026 17:14:48 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Somalia: Collaboration Between the Ports of Mogadishu and Trieste Is Strengthened"
+        },
+        {
+          "title": "Somalia: Somali Army Chief Urges Troops to Intensify Operations Against Al-Shabaab Near Barawe",
+          "link": "https://allafrica.com/stories/202611050365.html",
+          "description": "[Shabelle] Mogadishu -- Somalia's army chief, Major General Ibrahim Mohamed Mahmoud, has urged government forces to intensify efforts to weaken Al-Shabaab militants and secure areas being recovered from the group.",
+          "pubDate": "Thu, 05 Nov 2026 12:09:07 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somali Army Chief Urges Troops to Intensify Operations Against Al-Shabaab Near Barawe"
+        },
+        {
+          "title": "Tanzania/Uganda: Billions Pour Into Stadia - How EAC Nations are Investing for AFCON",
+          "link": "https://allafrica.com/stories/202611050328.html",
+          "description": "[Daily News] DAR ES SALAAM -- TANZANIA, Kenya and Uganda are investing heavily in modern sports infrastructure ahead of the 2027 Africa Cup of Nations (AFCON), combining new stadium construction with the modernisation of existing facilities to meet international football standards.",
+          "pubDate": "Thu, 05 Nov 2026 11:53:40 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Tanzania/Uganda: Billions Pour Into Stadia - How EAC Nations are Investing for AFCON"
+        },
+        {
+          "title": "Kenya: Four Acquitted in Murder of U.S.-Based Couple Killed During Kenya Vacation in Nyamira",
+          "link": "https://allafrica.com/stories/202611050311.html",
+          "description": "[Capital FM] Kisii -- Four suspects charged with the murder of a Kenyan-American couple who were brutally killed at their home in Gesima, Nyamira County, have been acquitted after the court found insufficient evidence linking them to the killings.",
+          "pubDate": "Thu, 05 Nov 2026 11:44:38 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Four Acquitted in Murder of U.S.-Based Couple Killed During Kenya Vacation in Nyamira"
+        },
         {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
           "link": "https://hornobserver.com/articles/3801/Editorial-Somalias-Security-Dilemma-Can-a-Nation-Dependent-on-Foreign-Forces-Defend-Itself",
@@ -181,15 +235,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?"
-        },
-        {
-          "title": "Ethiopia suspends leading independent newspaper The Reporter",
-          "link": "http://www.africanews.com/2026/11/03/ethiopia-suspends-leading-independent-newspaper-the-reporter/",
-          "description": "Ethiopian authorities on Monday indefinitely suspended the licence of independent print and online newspaper The Reporter, accusing the outlet of carrying \"unbalanced and biased\" reports.",
-          "pubDate": "Tue, 03 Nov 2026 08:42:30 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopia suspends leading independent newspaper The Reporter"
         },
         {
           "title": "Saudi Arabia Tightens Ebola Travel Restrictions on Kenya as Nairobi Defends Outbreak Response",
@@ -260,13 +305,49 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Usa: \"Wsj\", guerra all'Iran, inflazione ed errori politici sono costati a Trump le elezioni di medio termine (4)",
-          "link": "https://www.agenzianova.com/a/0/7977258/2026-11-05/usa-wsj-guerra-all-iran-inflazione-ed-errori-politici-sono-costati-a-trump-le-elezioni-di-medio-termine-4",
-          "description": "05 nov 07:15 - (Agenzia Nova) - La guerra ha intanto provocato crescenti tensioni anche tra i Repubblicani, preoccupati per la mancanza di... (Was)",
-          "pubDate": "2026-11-05T07:15:55+01:00",
+          "title": "Tunisia: ministro Commercio, \"negoziati per zona libero scambio alla frontiera con Algeria\" (3)",
+          "link": "https://www.agenzianova.com/a/0/7980753/2026-11-05/tunisia-ministro-commercio-negoziati-per-zona-libero-scambio-alla-frontiera-con-algeria-3",
+          "description": "05 nov 17:16 - (Agenzia Nova) - Il rafforzamento dei rapporti economici e' stato al centro anche della 23ma sessione della Grande commissione... (Tut)",
+          "pubDate": "2026-11-05T17:16:42+01:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Usa: \"Wsj\", guerra all'Iran, inflazione ed errori politici sono costati a Trump le elezioni di medio termine (4)"
+          "titleIt": "Tunisia: ministro Commercio, \"negoziati per zona libero scambio alla frontiera con Algeria\" (3)"
+        },
+        {
+          "title": "Somalia: Collaboration Between the Ports of Mogadishu and Trieste Is Strengthened",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/05/somalia-collaboration-between-the-ports-of-mogadishu-and-trieste-is-strengthened_1aa5641e-a65a-4692-a7a7-caf2da08d124.html",
+          "description": "(ANSA) - NAIROBI, 05 NOV - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with Somali port authorities to receive an update on projects aimed at strengthening collaboration between the port systems of Mogadishu and Trieste, as part of the Forlis project on training and cooperation for port logistics and intermodal transport, supported by the autonomous region of Friuli-Venezia Giulia and promoted by the national association Oltre le Frontiere del Friuli-Venezia Giulia (Anolf FVG). The meeting was attended by the director of the Port of Mogadishu—who was also accompanied by the ",
+          "pubDate": "Thu, 5 Nov 2026 17:14:48 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Somalia: Collaboration Between the Ports of Mogadishu and Trieste Is Strengthened"
+        },
+        {
+          "title": "EU must decide its Russia negotiator by December, Meloni says in letter to Costa",
+          "link": "https://www.ansa.it/english/news/2026/11/05/eu-must-decide-its-russia-negotiator-by-december-meloni-says-in-letter-to-costa_4b1e3d2b-64f1-4df8-8580-5ba852e16a9b.html",
+          "description": "(ANSA) - ROME, 05 NOV - Premier Giorgia Meloni has written to European Council President Antonio Costa saying the bloc should decide on the figure who will represent it in talks to end the Ukraine war by December. \"In light of the recent developments, I am compelled to revisit an issue I have raised repeatedly in the European Council. I am referring to the need for Europe to speak with one voice on the Ukrainian issue—a need that can no longer be postponed,\" the letter read. The premier said a series of interventions in various formats and with different compositions was making the Europeans \"",
+          "pubDate": "Thu, 5 Nov 2026 13:47:09 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "EU must decide its Russia negotiator by December, Meloni says in letter to Costa"
+        },
+        {
+          "title": "EU must decide its Russia negotiator by December, Meloni says in letter to Costa",
+          "link": "https://www.ansa.it/english/news/world/2026/11/05/eu-must-decide-its-russia-negotiator-by-december-meloni-says-in-letter-to-costa_9a59a1b6-fa5f-4c37-8ad6-ad0f4db42704.html",
+          "description": "(ANSA) - ROME, 05 NOV - Premier Giorgia Meloni has written to European Council President Antonio Costa saying the bloc should decide on the figure who will represent it in talks to end the Ukraine war by December. \"In light of the recent developments, I am compelled to revisit an issue I have raised repeatedly in the European Council. I am referring to the need for Europe to speak with one voice on the Ukrainian issue—a need that can no longer be postponed,\" the letter read. The premier said a series of interventions in various formats and with different compositions was making the Europeans \"",
+          "pubDate": "Thu, 5 Nov 2026 13:39:42 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "EU must decide its Russia negotiator by December, Meloni says in letter to Costa"
+        },
+        {
+          "title": "In Misrata, 60 Italian companies are participating in the Forum alongside Libyan businesses",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/05/in-misrata-60-italian-companies-are-participating-in-the-forum-alongside-libyan-businesses_e70f6990-d8d4-4a12-b60e-aef8450392ab.html",
+          "description": "(ANSA) - ROMA, 05 NOV - The Libyan-Italian Business and Investment Forum took place in Misrata, bringing together approximately 60 Italian companies and 250 Libyan businesses for economic and institutional meetings. The initiative, organized by the Italian-Libyan Chamber of Commerce in collaboration with the Italian Embassy in Tripoli and Unioncamere, with the support of the Misrata Free Zone, marks the first sector-wide mission to the Libyan industrial city, following those to Tripoli and Benghazi. The mission followed on the heels of the investment agreement between the Free Zone, MSC, and M",
+          "pubDate": "Thu, 5 Nov 2026 11:05:37 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "In Misrata, 60 Italian companies are participating in the Forum alongside Libyan businesses"
         },
         {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
@@ -276,24 +357,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?"
-        },
-        {
-          "title": "Ethiopia suspends leading independent newspaper The Reporter",
-          "link": "http://www.africanews.com/2026/11/03/ethiopia-suspends-leading-independent-newspaper-the-reporter/",
-          "description": "Ethiopian authorities on Monday indefinitely suspended the licence of independent print and online newspaper The Reporter, accusing the outlet of carrying \"unbalanced and biased\" reports.",
-          "pubDate": "Tue, 03 Nov 2026 08:42:30 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Ethiopia suspends leading independent newspaper The Reporter"
-        },
-        {
-          "title": "Displaced Ethiopians await registration in Kenya after fleeing clashes",
-          "link": "http://www.africanews.com/2026/11/03/displaced-ethiopians-await-registration-in-kenya-after-fleeing-clashes/",
-          "description": "Thousands of displaced Ethiopians were expected to be registered in the Kenyan border city of Moyale on Monday, after they fled tensions between the leaders of Ethiopia's Oromia and Somali regions.",
-          "pubDate": "Tue, 03 Nov 2026 05:57:22 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Displaced Ethiopians await registration in Kenya after fleeing clashes"
         },
         {
           "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
@@ -377,6 +440,33 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
+          "title": "Egitto-Usa: firmato nuovo accordo di cooperazione per favorire crescita settore privato (2)",
+          "link": "https://www.agenzianova.com/a/0/7980786/2026-11-05/egitto-usa-firmato-nuovo-accordo-di-cooperazione-per-favorire-crescita-settore-privato-2",
+          "description": "05 nov 17:26 - (Agenzia Nova) - In questa occasione, Samar Al Ahdal ha precisato che il contributo statunitense potrebbe arrivare a 625 milioni... (Was)",
+          "pubDate": "2026-11-05T17:26:20+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Usa: firmato nuovo accordo di cooperazione per favorire crescita settore privato (2)"
+        },
+        {
+          "title": "Egitto-Usa: firmato nuovo accordo di cooperazione per favorire crescita settore privato",
+          "link": "https://www.agenzianova.com/a/0/7980785/2026-11-05/egitto-usa-firmato-nuovo-accordo-di-cooperazione-per-favorire-crescita-settore-privato",
+          "description": "05 nov 17:26 - (Agenzia Nova) - L'Egitto e gli Stati Uniti hanno firmato un accordo quadro di cooperazione volto a rafforzare le loro relazioni... (Was)",
+          "pubDate": "2026-11-05T17:26:20+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto-Usa: firmato nuovo accordo di cooperazione per favorire crescita settore privato"
+        },
+        {
+          "title": "Egypt-US sign $625 framework agreement aimed at advancing mutual prosperity",
+          "link": "http://www.africanews.com/2026/11/05/egypt-us-sign-625-framework-agreement-aimed-at-advancing-mutual-prosperity/",
+          "description": "Egypt and the United States signed a framework agreement on Wednesday aimed at advancing mutual prosperity. The US contributions could reach up to $625 million over five years.",
+          "pubDate": "Thu, 05 Nov 2026 13:59:27 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egypt-US sign $625 framework agreement aimed at advancing mutual prosperity"
+        },
+        {
           "title": "Egyptian president calls Iran, US to resolve conflict",
           "link": "http://www.africanews.com/2026/11/04/egyptian-president-calls-iran-us-to-resolve-conflict/",
           "description": "Egyptian president Abdel-Fattah el-Sissi on Tuesday called on Iran and the United States to engage in dialogue and reach an agreement to resolve their ongoing conflict, warning against further military escalation in the region.",
@@ -384,15 +474,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egyptian president calls Iran, US to resolve conflict"
-        },
-        {
-          "title": "Displaced Ethiopians await registration in Kenya after fleeing clashes",
-          "link": "http://www.africanews.com/2026/11/03/displaced-ethiopians-await-registration-in-kenya-after-fleeing-clashes/",
-          "description": "Thousands of displaced Ethiopians were expected to be registered in the Kenyan border city of Moyale on Monday, after they fled tensions between the leaders of Ethiopia's Oromia and Somali regions.",
-          "pubDate": "Tue, 03 Nov 2026 05:57:22 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Displaced Ethiopians await registration in Kenya after fleeing clashes"
         },
         {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
