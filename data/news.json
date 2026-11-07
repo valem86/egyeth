@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T08:52:21.714Z",
+  "generatedAt": "2026-11-07T16:30:11.601Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -174,22 +174,13 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Africa: AU Commission Chief Urges Parties to Focus On Serving Citizens and Strengthening Nat'l Interests",
-          "link": "https://allafrica.com/stories/202611060295.html",
-          "description": "[ENA] Addis Ababa -- Political parties must go beyond seeking power and focus on serving citizens, strengthening democratic governance and building consensus on Africa's development priorities, African Union Commission Chairperson Mahmoud Ali Youssouf said today.",
-          "pubDate": "Fri, 06 Nov 2026 12:26:52 GMT",
+          "title": "Africa: Call for Volunteers - Session Rapporteurs - CPHIA 2026",
+          "link": "https://allafrica.com/stories/202611060027.html",
+          "description": "[Africa CDC] The Africa Centres for Disease Control and Prevention (Africa CDC), through the CPHIA 2026 Secretariat, invites qualified and interested volunteers based in Ethiopia to express their interest in serving as Session Rapporteurs for the 5th International Conference on Public Health in Africa (CPHIA 2026), which will be held from 23-27 November 2026 in Addis Ababa, Ethiopia, under the theme: \"Africa's Health Security and Sovereignty: Transformation from Health Dependency and Vulnerability to Ownership and",
+          "pubDate": "Fri, 06 Nov 2026 03:44:52 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Africa: AU Commission Chief Urges Parties to Focus On Serving Citizens and Strengthening Nat'l Interests"
-        },
-        {
-          "title": "Kenya: U.S. Sanctions Cambodia-Based Scam Network Linked to Trafficking of Kenyans Into Forced Labour",
-          "link": "https://allafrica.com/stories/202611060201.html",
-          "description": "[Capital FM] Nairobi -- The United States has imposed fresh sanctions on a Cambodia-based transnational criminal organisation accused of running international online scam operations, as hundreds of Kenyans rescued from scam centres in Southeast Asia emerge as victims of the expanding criminal networks.",
-          "pubDate": "Fri, 06 Nov 2026 10:01:38 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: U.S. Sanctions Cambodia-Based Scam Network Linked to Trafficking of Kenyans Into Forced Labour"
+          "titleIt": "Africa: Call for Volunteers - Session Rapporteurs - CPHIA 2026"
         },
         {
           "title": "Somalia: Collaboration Between the Ports of Mogadishu and Trieste Is Strengthened",
@@ -264,13 +255,103 @@
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
         },
         {
-          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
-          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
-          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
-          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
-          "source": "Horn Observer",
+          "title": "Somaliland journalist detained after interviewing Somalia presidential hopeful",
+          "link": "https://horseedmedia.net/somaliland-journalist-detained-after-interviewing-somalia-presidential-hopeful/426800/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-10-24T18:00:00Z",
           "lang": "en",
-          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
+          "description": "",
+          "titleIt": "Somaliland journalist detained after interviewing Somalia presidential hopeful"
+        },
+        {
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
+        {
+          "title": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition",
+          "link": "https://www.garoweonline.com/en/world/africa/china-and-djibouti-send-clear-message-to-israel-over-somaliland-recognition",
+          "source": "garoweonline.com",
+          "pubDate": "2026-10-24T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition"
+        },
+        {
+          "title": "Why Israeli recognition has been a double - edged sword for Somaliland",
+          "link": "https://www.csmonitor.com/World/Africa/2026/1022/somaliland-recognition-israel-trump",
+          "source": "csmonitor.com",
+          "pubDate": "2026-10-22T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why Israeli recognition has been a double - edged sword for Somaliland"
+        },
+        {
+          "title": "Somalia : Somaliland Leads Abraham Accords Predictions On Polymarket",
+          "link": "https://allafrica.com/stories/202610220051.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-22T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland Leads Abraham Accords Predictions On Polymarket"
+        },
+        {
+          "title": "From the Scramble for Africa to Somalia Fragmentation : Will History Repeat Itself ?",
+          "link": "https://wardheernews.com/from-the-scramble-for-africa-to-somalias-fragmentation-will-history-repeat-itself/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-10-22T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From the Scramble for Africa to Somalia Fragmentation : Will History Repeat Itself ?"
+        },
+        {
+          "title": "Somalia Says Somaliland Visa Row Is Over , 21 Oct 2026",
+          "link": "https://www.riotimesonline.com/somalia-somaliland-visa-row-ends-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-21T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia Says Somaliland Visa Row Is Over , 21 Oct 2026"
+        },
+        {
+          "title": "Ethiopia : Prisoner of History , Not Geography",
+          "link": "https://allafrica.com/stories/202610200686.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-20T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Prisoner of History , Not Geography"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
+          "source": "newsday.com",
+          "pubDate": "2026-10-20T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
+          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-20T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
+        },
+        {
+          "title": "Ethiopia national security imperative : Alliance with Israel and Somaliland",
+          "link": "http://www.jpost.com/opinion/article-912123",
+          "source": "jpost.com",
+          "pubDate": "2026-10-19T19:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia national security imperative : Alliance with Israel and Somaliland"
         }
       ]
     },
@@ -278,13 +359,13 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Ethiopia: Ethiopia, France Vow to Deepen Military and Strategic Cooperation",
-          "link": "https://allafrica.com/stories/202611060296.html",
-          "description": "[ENA] Addis Ababa -- Ethiopia and France have pledged to deepen their longstanding military and strategic cooperation, with renewed emphasis on military capacity building, knowledge transfer and regional peace and stability.",
-          "pubDate": "Fri, 06 Nov 2026 12:26:52 GMT",
+          "title": "Africa: Call for Volunteers - Session Rapporteurs - CPHIA 2026",
+          "link": "https://allafrica.com/stories/202611060027.html",
+          "description": "[Africa CDC] The Africa Centres for Disease Control and Prevention (Africa CDC), through the CPHIA 2026 Secretariat, invites qualified and interested volunteers based in Ethiopia to express their interest in serving as Session Rapporteurs for the 5th International Conference on Public Health in Africa (CPHIA 2026), which will be held from 23-27 November 2026 in Addis Ababa, Ethiopia, under the theme: \"Africa's Health Security and Sovereignty: Transformation from Health Dependency and Vulnerability to Ownership and",
+          "pubDate": "Fri, 06 Nov 2026 03:44:52 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia, France Vow to Deepen Military and Strategic Cooperation"
+          "titleIt": "Africa: Call for Volunteers - Session Rapporteurs - CPHIA 2026"
         },
         {
           "title": "Somalia: Collaboration Between the Ports of Mogadishu and Trieste Is Strengthened",
@@ -312,15 +393,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "EU must decide its Russia negotiator by December, Meloni says in letter to Costa"
-        },
-        {
-          "title": "Africa: Yango Group Makes The Case For African-Led Digital Infrastructure At Moonshot 2026",
-          "link": "https://allafrica.com/stories/202611040304.html",
-          "description": "[InfoWire] Speaking at Moonshot by TechCabal in Lagos, Adeniyi Adebayo, Chief Executive of RideTech and Chief Business Officer at Yango Group, highlighted the importance of locally developed infrastructure, strategic partnerships and new approaches to financing for scaling Africa's digital economy, drawing on Yango's experience across 15 African markets.",
-          "pubDate": "Wed, 04 Nov 2026 10:45:50 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: Yango Group Makes The Case For African-Led Digital Infrastructure At Moonshot 2026"
         },
         {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
@@ -407,188 +479,7 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Iran Weathering The Storm , But Saudi Arabia Is Sinking",
-          "link": "http://www.zerohedge.com/geopolitical/iran-weathering-storm-saudi-arabia-sinking",
-          "source": "zerohedge.com",
-          "pubDate": "2026-11-07T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran Weathering The Storm , But Saudi Arabia Is Sinking"
-        },
-        {
-          "title": "US military carries out new targeted strikes on Iran",
-          "link": "https://www.wapt.com/article/us-military-new-targeted-strikes-iran-mediators-proposal/74363570",
-          "source": "wapt.com",
-          "pubDate": "2026-11-07T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US military carries out new targeted strikes on Iran"
-        },
-        {
-          "title": "Turkey Detains 33 , 341 Afghan Migrants in First 10 Months of 2026",
-          "link": "https://www.khaama.com/turkey-detains-33341-afghan-migrants-2026/",
-          "source": "khaama.com",
-          "pubDate": "2026-11-07T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkey Detains 33 , 341 Afghan Migrants in First 10 Months of 2026"
-        },
-        {
-          "title": "US military carries out new targeted strikes on Iran",
-          "link": "https://www.wisn.com/article/us-military-new-targeted-strikes-iran-mediators-proposal/74363570",
-          "source": "wisn.com",
-          "pubDate": "2026-11-07T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US military carries out new targeted strikes on Iran"
-        },
-        {
-          "title": "US military carries out new targeted strikes on Iran",
-          "link": "https://www.wgal.com/article/us-military-new-targeted-strikes-iran-mediators-proposal/74363570",
-          "source": "wgal.com",
-          "pubDate": "2026-11-07T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US military carries out new targeted strikes on Iran"
-        },
-        {
-          "title": "US military carries out new targeted strikes on Iran",
-          "link": "https://www.wdsu.com/article/us-military-new-targeted-strikes-iran-mediators-proposal/74363570",
-          "source": "wdsu.com",
-          "pubDate": "2026-11-07T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US military carries out new targeted strikes on Iran"
-        },
-        {
-          "title": "US military carries out new targeted strikes on Iran",
-          "link": "https://www.4029tv.com/article/us-military-new-targeted-strikes-iran-mediators-proposal/74363570",
-          "source": "4029tv.com",
-          "pubDate": "2026-11-07T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US military carries out new targeted strikes on Iran"
-        },
-        {
-          "title": "US military carries out new targeted strikes on Iran",
-          "link": "https://www.wyff4.com/article/us-military-new-targeted-strikes-iran-mediators-proposal/74363570",
-          "source": "wyff4.com",
-          "pubDate": "2026-11-07T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US military carries out new targeted strikes on Iran"
-        },
-        {
-          "title": "Iran reviews Qatar proposal to revive nuclear talks with US",
-          "link": "https://www.siasat.com/iran-reviews-qatar-proposal-to-revive-nuclear-talks-with-us-3571101/",
-          "source": "siasat.com",
-          "pubDate": "2026-11-07T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran reviews Qatar proposal to revive nuclear talks with US"
-        },
-        {
-          "title": "US carries out targeted strikes as Iran leaders weigh proposals",
-          "link": "https://www.wsbradio.com/news/politics/iran-is-reviewing/DCKLGLLBZAYXHPUEJTEFOOS6FY/",
-          "source": "wsbradio.com",
-          "pubDate": "2026-11-07T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US carries out targeted strikes as Iran leaders weigh proposals"
-        },
-        {
-          "title": "US carries out new targeted strikes on Iran , targeting air defense system",
-          "link": "https://www.hindustantimes.com/world-news/us-news/us-military-carries-out-new-targeted-strikes-on-iran-targeting-air-defense-system-101794018415195.html",
-          "source": "hindustantimes.com",
-          "pubDate": "2026-11-07T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US carries out new targeted strikes on Iran , targeting air defense system"
-        },
-        {
-          "title": "US military carries out new targeted strikes on Iran",
-          "link": "https://www.wvtm13.com/article/us-military-new-targeted-strikes-iran-mediators-proposal/74363570",
-          "source": "wvtm13.com",
-          "pubDate": "2026-11-07T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US military carries out new targeted strikes on Iran"
-        },
-        {
-          "title": "US military carries out new targeted strikes on Iran",
-          "link": "https://www.gulfcoastnewsnow.com/article/us-military-new-targeted-strikes-iran-mediators-proposal/74363570",
-          "source": "gulfcoastnewsnow.com",
-          "pubDate": "2026-11-07T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US military carries out new targeted strikes on Iran"
-        },
-        {
-          "title": "Afreximbank Targets $1bn Pan African Film Fund to Transform Continent Creative Industry – THISDAYLIVE",
-          "link": "https://www.thisdaylive.com/2026/11/07/afreximbank-targets-1bn-pan-african-film-fund-to-transform-continents-creative-industry/",
-          "source": "thisdaylive.com",
-          "pubDate": "2026-11-07T05:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Afreximbank Targets $1bn Pan African Film Fund to Transform Continent Creative Industry – THISDAYLIVE"
-        },
-        {
-          "title": "Israel Arab - led parties in spotlight after inconclusive election",
-          "link": "https://www.kawc.org/npr-news/2026-11-06/israels-arab-led-parties-in-spotlight-after-inconclusive-election",
-          "source": "kawc.org",
-          "pubDate": "2026-11-07T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Arab - led parties in spotlight after inconclusive election"
-        },
-        {
-          "title": "Israel Arab - led parties in spotlight after inconclusive election",
-          "link": "https://www.aspenpublicradio.org/2026-11-06/israels-arab-led-parties-in-spotlight-after-inconclusive-election",
-          "source": "aspenpublicradio.org",
-          "pubDate": "2026-11-07T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Arab - led parties in spotlight after inconclusive election"
-        },
-        {
-          "title": "Israel Arab - led parties in spotlight after inconclusive election",
-          "link": "https://www.wxxinews.org/npr-news/2026-11-06/israels-arab-led-parties-in-spotlight-after-inconclusive-election",
-          "source": "wxxinews.org",
-          "pubDate": "2026-11-07T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Arab - led parties in spotlight after inconclusive election"
-        },
-        {
-          "title": "Iran is reviewing proposals focusing on Tehran nuclear program , officials say",
-          "link": "https://www.therecord.com/news/world/united-states/iran-is-reviewing-proposals-focusing-on-tehran-s-nuclear-program-officials-say/article_ae77888f-4197-5e98-8d1a-e652057e2f9c.html",
-          "source": "therecord.com",
-          "pubDate": "2026-11-07T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran is reviewing proposals focusing on Tehran nuclear program , officials say"
-        },
-        {
-          "title": "Israel Arab - led parties in spotlight after inconclusive election",
-          "link": "https://www.ypradio.org/npr-news/2026-11-06/israels-arab-led-parties-in-spotlight-after-inconclusive-election",
-          "source": "ypradio.org",
-          "pubDate": "2026-11-07T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Arab - led parties in spotlight after inconclusive election"
-        },
-        {
-          "title": "Israel Arab - led parties in spotlight after inconclusive election",
-          "link": "https://www.wvasfm.org/2026-11-06/israels-arab-led-parties-in-spotlight-after-inconclusive-election",
-          "source": "wvasfm.org",
-          "pubDate": "2026-11-07T02:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Arab - led parties in spotlight after inconclusive election"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
