@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-11-08T01:29:38.376Z",
+  "generatedAt": "2026-11-08T09:05:07.017Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Libia: Egitto riapre la sua ambasciata a Tripoli dopo 12 anni (5)",
+          "link": "https://www.agenzianova.com/a/0/7988289/2026-11-08/libia-egitto-riapre-la-sua-ambasciata-a-tripoli-dopo-12-anni-5",
+          "description": "08 nov 09:03 - (Agenzia Nova) - Durante il colloquio, e' stata affrontata anche la questione del memorandum d'intesa marittimo siglato tra... (Cae)",
+          "pubDate": "2026-11-08T09:03:05+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Libia: Egitto riapre la sua ambasciata a Tripoli dopo 12 anni (5)"
+        },
         {
           "title": "Egypt army says hundreds of illegal gold miners arrested",
           "link": "http://www.africanews.com/2026/11/05/egypt-army-says-hundreds-of-illegal-gold-miners-arrested/",
@@ -269,13 +278,13 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Nigeria: Nigerian Military Denies Ceasefire Deal With Boko Haram",
-          "link": "https://allafrica.com/stories/202611060084.html",
-          "description": "[Premium Times] The denial came nearly two months after The New Humanitarian reported that the Nigerian government entered into a secret ceasefire agreement with the Boko Haram faction led by Bakura Doro.",
-          "pubDate": "Fri, 06 Nov 2026 04:16:00 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Nigeria: Nigerian Military Denies Ceasefire Deal With Boko Haram"
+          "title": "Libia: Egitto riapre la sua ambasciata a Tripoli dopo 12 anni (5)",
+          "link": "https://www.agenzianova.com/a/0/7988289/2026-11-08/libia-egitto-riapre-la-sua-ambasciata-a-tripoli-dopo-12-anni-5",
+          "description": "08 nov 09:03 - (Agenzia Nova) - Durante il colloquio, e' stata affrontata anche la questione del memorandum d'intesa marittimo siglato tra... (Cae)",
+          "pubDate": "2026-11-08T09:03:05+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Libia: Egitto riapre la sua ambasciata a Tripoli dopo 12 anni (5)"
         },
         {
           "title": "Africa: Call for Volunteers - Session Rapporteurs - CPHIA 2026",
@@ -412,24 +421,6 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Business news: Unilever cede partecipazione nella joint venture in Myanmar",
-          "link": "https://www.agenzianova.com/a/0/7985942/2026-11-08/business-news-unilever-cede-partecipazione-nella-joint-venture-in-myanmar",
-          "description": "08 nov 00:00 - (Agenzia Nova) - Unilever ha raggiunto un accordo per vendere la propria partecipazione in Unilever EAC Myanmar Company Limited... (Fim)",
-          "pubDate": "2026-11-08T00:00:39+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Business news: Unilever cede partecipazione nella joint venture in Myanmar"
-        },
-        {
-          "title": "Sudan: Abyei - Deadly Drone Strikes Mark 'New and Concerning' Threat, UN Peacekeeping Chief Warns",
-          "link": "https://allafrica.com/stories/202611060037.html",
-          "description": "[UN News] Drone strikes that killed at least 30 people in Abyei last month have added \"a new and concerning dimension\" to security in the disputed area, the UN's peacekeeping chief told the Security Council on Thursday.",
-          "pubDate": "Fri, 06 Nov 2026 03:44:58 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: Abyei - Deadly Drone Strikes Mark 'New and Concerning' Threat, UN Peacekeeping Chief Warns"
-        },
         {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
           "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
