@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-11-09T09:53:16.449Z",
+  "generatedAt": "2026-11-09T20:49:03.773Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somali Opposition Accuses President of Using Force to Seize Supreme Court",
+          "link": "https://allafrica.com/stories/202611090223.html",
+          "description": "[Shabelle] Mogadishu, Somalia -- Somalia's opposition coalition, the Somali Future Council, has accused President Hassan Sheikh Mohamud of using security forces to take control of the country's Supreme Court, escalating a political confrontation over the independence of the judiciary and the president's mandate.",
+          "pubDate": "Mon, 09 Nov 2026 10:31:08 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somali Opposition Accuses President of Using Force to Seize Supreme Court"
+        },
         {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
           "link": "https://hornobserver.com/articles/3803/From-Abu-Dhabi-to-Beledweyne-Sanbaloolshe-Names-Irro-Deni-and-Madobe-in-Opposition-Alliance-Claims",
@@ -16,15 +25,6 @@
           "titleIt": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims"
         },
         {
-          "title": "Somalia: Somaliland's Red Sea Security Role Highlighted At Washington Conference",
-          "link": "https://allafrica.com/stories/202611090129.html",
-          "description": "[Horn Diplomat] Washington, Nov 9 -- Somaliland's coastal security efforts and Berbera's port and airport could make it an important partner in protecting Red Sea shipping routes, Somaliland's U.S. representative Bashir Goth and Atlantic Council expert J. Peter Pham told a conference in Washington.",
-          "pubDate": "Mon, 09 Nov 2026 09:10:16 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somaliland's Red Sea Security Role Highlighted At Washington Conference"
-        },
-        {
           "title": "Somali Police Open Fire on Protesters in Mogadishu, Killing Two",
           "link": "https://hornobserver.com/articles/3802/Somali-Police-Open-Fire-on-Protesters-in-Mogadishu-Killing-Two",
           "description": "The protesters, residents of the Warlaaliska area in Mogadishu's Dayniile district, had gathered to oppose forced evictions and the alleged illegal demolition of their homes and property when security forces opened fire on the crowd, killing at least 2 and injuring several others. The incident comes amid growing concerns over forced evictions in Mogadishu, where thousands of vulnerable families, have faced the loss of their homes without adequate notice or alternative accommodation. These repeated incidents have intensified concerns about the protection of vulnerable communities, the use of st",
@@ -32,15 +32,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somali Police Open Fire on Protesters in Mogadishu, Killing Two"
-        },
-        {
-          "title": "Somalia: Collaboration Between the Ports of Mogadishu and Trieste Is Strengthened",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/05/somalia-collaboration-between-the-ports-of-mogadishu-and-trieste-is-strengthened_1aa5641e-a65a-4692-a7a7-caf2da08d124.html",
-          "description": "(ANSA) - NAIROBI, 05 NOV - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with Somali port authorities to receive an update on projects aimed at strengthening collaboration between the port systems of Mogadishu and Trieste, as part of the Forlis project on training and cooperation for port logistics and intermodal transport, supported by the autonomous region of Friuli-Venezia Giulia and promoted by the national association Oltre le Frontiere del Friuli-Venezia Giulia (Anolf FVG). The meeting was attended by the director of the Port of Mogadishu—who was also accompanied by the ",
-          "pubDate": "Thu, 5 Nov 2026 17:14:48 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Somalia: Collaboration Between the Ports of Mogadishu and Trieste Is Strengthened"
         },
         {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
@@ -174,40 +165,40 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Somalia: Somaliland's Red Sea Security Role Highlighted At Washington Conference",
-          "link": "https://allafrica.com/stories/202611090129.html",
-          "description": "[Horn Diplomat] Washington, Nov 9 -- Somaliland's coastal security efforts and Berbera's port and airport could make it an important partner in protecting Red Sea shipping routes, Somaliland's U.S. representative Bashir Goth and Atlantic Council expert J. Peter Pham told a conference in Washington.",
-          "pubDate": "Mon, 09 Nov 2026 09:10:16 GMT",
-          "source": "AllAfrica",
+          "title": "Ethiopia: Reusable sanitary pads help girls break the silence around menstruation",
+          "link": "http://www.africanews.com/2026/11/09/ethiopia-reusable-sanitary-pads-help-girls-break-the-silence-around-menstruation/",
+          "description": "In a country that imports all its sanitary pads, their high cost puts them beyond the reach of many women and girls. For those unable to afford them, periods can mean missed school days, lost income and, in some cases, resorting to unsafe alternatives.",
+          "pubDate": "Mon, 09 Nov 2026 17:42:28 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "titleIt": "Somalia: Somaliland's Red Sea Security Role Highlighted At Washington Conference"
+          "titleIt": "Ethiopia: Reusable sanitary pads help girls break the silence around menstruation"
         },
         {
-          "title": "Kenya: China Opens 15 Government Scholarships for Kenyan Students, Sets November 18 Deadline",
-          "link": "https://allafrica.com/stories/202611090123.html",
-          "description": "[Capital FM] Nairobi -- China has opened 15 government-funded scholarship opportunities for Kenyan students seeking to pursue undergraduate, master's and PhD studies at universities in China for the 2027/2028 academic year.",
-          "pubDate": "Mon, 09 Nov 2026 09:02:22 GMT",
+          "title": "Ethiopia: Ethiopia Advances COP32 Preparations As COP31 Opens Amid Climate Finance Disputes",
+          "link": "https://allafrica.com/stories/202611090553.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia is using its participation in the 31st United Nations Climate Change Conference (COP31), which opened on Monday in Antalya, Türkiye, to advance preparations for hosting COP32 in Addis Abeba in November 2027, as developing countries push for stronger climate finance commitments amid widening disagreements over how to address the climate crisis.",
+          "pubDate": "Mon, 09 Nov 2026 15:25:37 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: China Opens 15 Government Scholarships for Kenyan Students, Sets November 18 Deadline"
+          "titleIt": "Ethiopia: Ethiopia Advances COP32 Preparations As COP31 Opens Amid Climate Finance Disputes"
         },
         {
-          "title": "Kenya: NTSA to Lead Road Crash Victims' Remembrance Procession in Kisumu",
-          "link": "https://allafrica.com/stories/202611090120.html",
-          "description": "[Capital FM] Nairobi -- The National Transport and Safety Authority (NTSA) will lead a solemn procession and inter-denominational prayer service in Kisumu on Sunday, November 15, to honour people killed and injured in road crashes and renew calls for safer roads.",
-          "pubDate": "Mon, 09 Nov 2026 07:59:02 GMT",
+          "title": "Kenya: Food Crisis Hits Ethiopians Fleeing Violence Into Kenya's Moyale",
+          "link": "https://allafrica.com/stories/202611090419.html",
+          "description": "[Capital FM] Nairobi -- Thousands of Ethiopian families who fled violent clashes in their country and sought refuge in Kenya's Moyale area are facing acute food shortages, with more than seven in ten households reporting insufficient food, a new humanitarian assessment has found.",
+          "pubDate": "Mon, 09 Nov 2026 12:45:52 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: NTSA to Lead Road Crash Victims' Remembrance Procession in Kisumu"
+          "titleIt": "Kenya: Food Crisis Hits Ethiopians Fleeing Violence Into Kenya's Moyale"
         },
         {
-          "title": "Somalia: Collaboration Between the Ports of Mogadishu and Trieste Is Strengthened",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/05/somalia-collaboration-between-the-ports-of-mogadishu-and-trieste-is-strengthened_1aa5641e-a65a-4692-a7a7-caf2da08d124.html",
-          "description": "(ANSA) - NAIROBI, 05 NOV - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with Somali port authorities to receive an update on projects aimed at strengthening collaboration between the port systems of Mogadishu and Trieste, as part of the Forlis project on training and cooperation for port logistics and intermodal transport, supported by the autonomous region of Friuli-Venezia Giulia and promoted by the national association Oltre le Frontiere del Friuli-Venezia Giulia (Anolf FVG). The meeting was attended by the director of the Port of Mogadishu—who was also accompanied by the ",
-          "pubDate": "Thu, 5 Nov 2026 17:14:48 +0100",
-          "source": "ANSA English",
+          "title": "Somalia: Somali Opposition Accuses President of Using Force to Seize Supreme Court",
+          "link": "https://allafrica.com/stories/202611090223.html",
+          "description": "[Shabelle] Mogadishu, Somalia -- Somalia's opposition coalition, the Somali Future Council, has accused President Hassan Sheikh Mohamud of using security forces to take control of the country's Supreme Court, escalating a political confrontation over the independence of the judiciary and the president's mandate.",
+          "pubDate": "Mon, 09 Nov 2026 10:31:08 GMT",
+          "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: Collaboration Between the Ports of Mogadishu and Trieste Is Strengthened"
+          "titleIt": "Somalia: Somali Opposition Accuses President of Using Force to Seize Supreme Court"
         },
         {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
@@ -359,6 +350,51 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Ethiopia: Reusable sanitary pads help girls break the silence around menstruation",
+          "link": "http://www.africanews.com/2026/11/09/ethiopia-reusable-sanitary-pads-help-girls-break-the-silence-around-menstruation/",
+          "description": "In a country that imports all its sanitary pads, their high cost puts them beyond the reach of many women and girls. For those unable to afford them, periods can mean missed school days, lost income and, in some cases, resorting to unsafe alternatives.",
+          "pubDate": "Mon, 09 Nov 2026 17:42:28 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Ethiopia: Reusable sanitary pads help girls break the silence around menstruation"
+        },
+        {
+          "title": "Ethiopia: Ethiopia Advances COP32 Preparations As COP31 Opens Amid Climate Finance Disputes",
+          "link": "https://allafrica.com/stories/202611090553.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia is using its participation in the 31st United Nations Climate Change Conference (COP31), which opened on Monday in Antalya, Türkiye, to advance preparations for hosting COP32 in Addis Abeba in November 2027, as developing countries push for stronger climate finance commitments amid widening disagreements over how to address the climate crisis.",
+          "pubDate": "Mon, 09 Nov 2026 15:25:37 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Advances COP32 Preparations As COP31 Opens Amid Climate Finance Disputes"
+        },
+        {
+          "title": "Trump says \"tough\" US deportation policy may explain midterm losses",
+          "link": "http://www.africanews.com/2026/11/09/trump-says-tough-us-deportation-policy-may-explain-midterm-losses/",
+          "description": "President Donald Trump in his first major interview since his party lost control of the House and Senate in the midterm elections said he thinks his administration was too aggressive on deportations and that he thinks he can work with Democrats in the new Congress on some kind of immigration deal.",
+          "pubDate": "Mon, 09 Nov 2026 13:50:20 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Trump says \"tough\" US deportation policy may explain midterm losses"
+        },
+        {
+          "title": "Kenya: Food Crisis Hits Ethiopians Fleeing Violence Into Kenya's Moyale",
+          "link": "https://allafrica.com/stories/202611090419.html",
+          "description": "[Capital FM] Nairobi -- Thousands of Ethiopian families who fled violent clashes in their country and sought refuge in Kenya's Moyale area are facing acute food shortages, with more than seven in ten households reporting insufficient food, a new humanitarian assessment has found.",
+          "pubDate": "Mon, 09 Nov 2026 12:45:52 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Food Crisis Hits Ethiopians Fleeing Violence Into Kenya's Moyale"
+        },
+        {
+          "title": "Regional conflicts raise fears of renewed piracy in the Gulf of Aden",
+          "link": "http://www.africanews.com/2026/11/09/regional-conflicts-raise-fears-of-renewed-piracy-in-the-gulf-of-aden/",
+          "description": "More than 200 sailors, including a special operations team trained to retake vessels seized by pirates, are deployed aboard the frigate as part of the EU's Operation Atalanta anti-piracy mission",
+          "pubDate": "Mon, 09 Nov 2026 12:04:01 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Regional conflicts raise fears of renewed piracy in the Gulf of Aden"
+        },
+        {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
           "link": "https://hornobserver.com/articles/3803/From-Abu-Dhabi-to-Beledweyne-Sanbaloolshe-Names-Irro-Deni-and-Madobe-in-Opposition-Alliance-Claims",
           "description": "On November 6, two prominent political figures arrived in Beledweyne accompanied by armed escorts, intensifying a confrontation over Hirshabelle's leadership. Abdifatah Hassan Afrah, the regional vice president, entered the city amid a dispute involving traditional elders, political figures and armed groups challenging the administration. Abdullahi Mohamed Ali Rage, widely known as Sanbaloolshe, a former director of Somalia's National Intelligence and Security Agency (NISA) and a federal lawmaker, arrived through Feerfeer near the Ethiopian border, accompanied by armed personnel and military v",
@@ -366,51 +402,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims"
-        },
-        {
-          "title": "Somalia: Somaliland's Red Sea Security Role Highlighted At Washington Conference",
-          "link": "https://allafrica.com/stories/202611090129.html",
-          "description": "[Horn Diplomat] Washington, Nov 9 -- Somaliland's coastal security efforts and Berbera's port and airport could make it an important partner in protecting Red Sea shipping routes, Somaliland's U.S. representative Bashir Goth and Atlantic Council expert J. Peter Pham told a conference in Washington.",
-          "pubDate": "Mon, 09 Nov 2026 09:10:16 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somaliland's Red Sea Security Role Highlighted At Washington Conference"
-        },
-        {
-          "title": "Federal Register :: Removing 30 - Day Refugee Termination Notice",
-          "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20956/removing-30-day-refugee-termination-notice",
-          "source": "federalregister.gov",
-          "pubDate": "2026-11-09T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Federal Register :: Removing 30 - Day Refugee Termination Notice"
-        },
-        {
-          "title": "Ethiopia Power Explained , Who Dominates Elites and Regions",
-          "link": "https://www.riotimesonline.com/ethiopia-power-structure-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-07T22:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Power Explained , Who Dominates Elites and Regions"
-        },
-        {
-          "title": "Africa : AI , Terrorism Top AU - EU Security Talks in Addis Ababa",
-          "link": "https://allafrica.com/stories/202611060192.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-06T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : AI , Terrorism Top AU - EU Security Talks in Addis Ababa"
-        },
-        {
-          "title": "Somalia: Collaboration Between the Ports of Mogadishu and Trieste Is Strengthened",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/05/somalia-collaboration-between-the-ports-of-mogadishu-and-trieste-is-strengthened_1aa5641e-a65a-4692-a7a7-caf2da08d124.html",
-          "description": "(ANSA) - NAIROBI, 05 NOV - The Italian Ambassador to Somalia, Pier Mario Daccò Coppi, met with Somali port authorities to receive an update on projects aimed at strengthening collaboration between the port systems of Mogadishu and Trieste, as part of the Forlis project on training and cooperation for port logistics and intermodal transport, supported by the autonomous region of Friuli-Venezia Giulia and promoted by the national association Oltre le Frontiere del Friuli-Venezia Giulia (Anolf FVG). The meeting was attended by the director of the Port of Mogadishu—who was also accompanied by the ",
-          "pubDate": "Thu, 5 Nov 2026 17:14:48 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Somalia: Collaboration Between the Ports of Mogadishu and Trieste Is Strengthened"
         },
         {
           "title": "Africa: Yango Group Makes The Case For African-Led Digital Infrastructure At Moonshot 2026",
@@ -429,15 +420,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?"
-        },
-        {
-          "title": "Young voices carry Mazu legacy - Chinadaily . com . cn",
-          "link": "http://europe.chinadaily.com.cn/a/202611/04/WS6aea6971e4b06d4aa0566df5.html",
-          "source": "europe.chinadaily.com.cn",
-          "pubDate": "2026-11-04T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Young voices carry Mazu legacy - Chinadaily . com . cn"
         },
         {
           "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
@@ -494,49 +476,22 @@
           "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
         },
         {
-          "title": "Eritrea Gambia Diplomatic Relations Set Up in New York",
-          "link": "https://www.riotimesonline.com/eritrea-gambia-diplomatic-relations-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-25T09:45:00Z",
+          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
+          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
+          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
+          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Eritrea Gambia Diplomatic Relations Set Up in New York"
+          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
         },
         {
-          "title": "Starlink and new era of digital connectivity and inclusion",
-          "link": "https://capitalethiopia.com/2026/10/25/starlink-and-new-era-of-digital-connectivity-and-inclusion/",
-          "source": "capitalethiopia.com",
-          "pubDate": "2026-10-25T05:30:00Z",
+          "title": "Containing the New War in Northern Ethiopia",
+          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
+          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
+          "pubDate": "Thursday, October 15, 2026 - 11:12",
+          "source": "Crisis Group",
           "lang": "en",
-          "description": "",
-          "titleIt": "Starlink and new era of digital connectivity and inclusion"
-        },
-        {
-          "title": "Several dead in clashes between rival Ethiopia armies",
-          "link": "https://www.omanobserver.om/article/1198471/world/africa/several-dead-in-clashes-between-rival-ethiopia-armies",
-          "source": "omanobserver.om",
-          "pubDate": "2026-10-24T16:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Several dead in clashes between rival Ethiopia armies"
-        },
-        {
-          "title": "Ethiopia Calls for Shared Red Sea Security",
-          "link": "https://www.riotimesonline.com/ethiopia-calls-for-shared-red-sea-security-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-24T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Calls for Shared Red Sea Security"
-        },
-        {
-          "title": "Arab News | Several dead in clashes between rival Ethiopia regional armies",
-          "link": "https://www.arabnews.com/world/several-dead-in-clashes-between-rival-ethiopia-regional-armies-3008023",
-          "source": "arabnews.com",
-          "pubDate": "2026-10-24T11:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | Several dead in clashes between rival Ethiopia regional armies"
+          "titleIt": "Containing the New War in Northern Ethiopia"
         }
       ]
     },
@@ -548,6 +503,24 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
+          "title": "Ethiopia: Ethiopia Advances COP32 Preparations As COP31 Opens Amid Climate Finance Disputes",
+          "link": "https://allafrica.com/stories/202611090553.html",
+          "description": "[Addis Standard] Addis Abeba -- Ethiopia is using its participation in the 31st United Nations Climate Change Conference (COP31), which opened on Monday in Antalya, Türkiye, to advance preparations for hosting COP32 in Addis Abeba in November 2027, as developing countries push for stronger climate finance commitments amid widening disagreements over how to address the climate crisis.",
+          "pubDate": "Mon, 09 Nov 2026 15:25:37 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Advances COP32 Preparations As COP31 Opens Amid Climate Finance Disputes"
+        },
+        {
+          "title": "Egypt: Seven dead, 125 injured in collision between two trains",
+          "link": "http://www.africanews.com/2026/11/09/egypt-seven-dead-125-injured-in-collision-between-two-trains/",
+          "description": "Rail workers began repairing damaged tracks in Al-Ayyat, Egypt, on Monday 9 November, a day after two passenger trains collided south of Cairo, killing seven people and injuring at least 125 others.",
+          "pubDate": "Mon, 09 Nov 2026 11:33:44 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Egypt: Seven dead, 125 injured in collision between two trains"
+        },
+        {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
           "link": "https://hornobserver.com/articles/3803/From-Abu-Dhabi-to-Beledweyne-Sanbaloolshe-Names-Irro-Deni-and-Madobe-in-Opposition-Alliance-Claims",
           "description": "On November 6, two prominent political figures arrived in Beledweyne accompanied by armed escorts, intensifying a confrontation over Hirshabelle's leadership. Abdifatah Hassan Afrah, the regional vice president, entered the city amid a dispute involving traditional elders, political figures and armed groups challenging the administration. Abdullahi Mohamed Ali Rage, widely known as Sanbaloolshe, a former director of Somalia's National Intelligence and Security Agency (NISA) and a federal lawmaker, arrived through Feerfeer near the Ethiopian border, accompanied by armed personnel and military v",
@@ -557,6 +530,15 @@
           "titleIt": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims"
         },
         {
+          "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+          "link": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
+          "source": "aljazeera.com",
+          "pubDate": "2026-11-03T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia"
+        },
+        {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
           "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
           "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
@@ -564,6 +546,141 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
+        },
+        {
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
+        {
+          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
+          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
+          "source": "warontherocks.com",
+          "pubDate": "2026-10-21T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
+        },
+        {
+          "title": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal",
+          "link": "https://chimpreports.com/ethiopias-abiy-pushes-nuclear-power-development-after-russia-deal/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-10-21T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal"
+        },
+        {
+          "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
+          "link": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-10-20T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
+          "source": "newsday.com",
+          "pubDate": "2026-10-20T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
+          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-20T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
+          "source": "sitkasentinel.com",
+          "pubDate": "2026-10-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
+          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
+          "source": "wral.com",
+          "pubDate": "2026-10-19T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
+          "source": "thepeterboroughexaminer.com",
+          "pubDate": "2026-10-19T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
+          "source": "niagarafallsreview.ca",
+          "pubDate": "2026-10-19T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
+          "source": "arabnews.com",
+          "pubDate": "2026-10-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press",
+          "link": "https://www.winnipegfreepress.com/business/2026/10/19/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict",
+          "source": "winnipegfreepress.com",
+          "pubDate": "2026-10-19T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press"
+        },
+        {
+          "title": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem",
+          "link": "https://www.opinionnigeria.com/who-holds-the-valve-water-war-and-the-price-of-peace-by-kator-ifyalem/",
+          "source": "opinionnigeria.com",
+          "pubDate": "2026-10-18T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem"
+        },
+        {
+          "title": "The Region Real Picture , Without AI Beautification",
+          "link": "https://english.aawsat.com/opinion/5330701-region%E2%80%99s-real-picture-without-ai-beautification",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-10-18T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Region Real Picture , Without AI Beautification"
+        },
+        {
+          "title": "El Sisi insists he will leave office in 2030 as he outlines succession plan",
+          "link": "https://www.thenationalnews.com/news/mena/2026/10/17/el-sisi-insists-he-will-leave-office-in-2030-as-he-outlines-succession-plan/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-10-17T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "El Sisi insists he will leave office in 2030 as he outlines succession plan"
         }
       ]
     }
