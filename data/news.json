@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-11-13T01:09:44.668Z",
+  "generatedAt": "2026-11-13T09:37:52.307Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: Somalia Launches $12.8 Billion Climate Investment Plan in Antalya",
-          "link": "https://allafrica.com/stories/202611120617.html",
-          "description": "[Shabelle] Antalya -- Somali President Hassan Sheikh Mohamud on Wednesday launched a national climate investment plan requiring an estimated $12.8 billion over the next decade to help the country address the growing impact of climate change.",
-          "pubDate": "Thu, 12 Nov 2026 15:39:37 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia Launches $12.8 Billion Climate Investment Plan in Antalya"
-        },
         {
           "title": "Somalia: Former Somali President Denies Joining Talks Between Somali Government and Opposition",
           "link": "https://allafrica.com/stories/202611120334.html",
@@ -41,15 +32,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "From Jersey to Somalia... via Liverpool & Man City"
-        },
-        {
-          "title": "Lewis Hamilton visits Egypt’s Rafah border to highlight humanitarian efforts for war-torn Gaza",
-          "link": "http://www.africanews.com/2026/11/10/lewis-hamilton-visits-egypts-rafah-border-to-highlight-humanitarian-efforts-for-war-torn-g/",
-          "description": "Formula One superstar Lewis Hamilton has visited Egypt's Rafah border crossing, drawing attention to humanitarian efforts supporting war-torn Gaza.",
-          "pubDate": "Tue, 10 Nov 2026 19:55:47 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Lewis Hamilton visits Egypt’s Rafah border to highlight humanitarian efforts for war-torn Gaza"
         },
         {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
@@ -185,21 +167,30 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
+        },
+        {
+          "title": "Somalia Opposition leaders reject 2027 election timetable",
+          "link": "https://hornobserver.com/articles/3786/Somalia-Opposition-leaders-reject-2027-election-timetable",
+          "description": "Former president Shariif Sheikh Ahmed criticized the incumbent president Hassan Sheikh Mohamud of seeking to retain power unlawfully. \" If Someone could have stayed in power by force, Siad Barre would have done it,\" Sharif said at a news conference, referring to Somalia's former military leader, who seized power in a coup and ruled the country for 21 years.&nbsp; The mandates of the president and parliament expired several months ago, according to the opposition. Meanwhile, the federal government maintained that its mandate runs until May 2027, following a controversial constitutional amendmen",
+          "pubDate": "Sun, 18 Oct 2026 14:26:43 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia Opposition leaders reject 2027 election timetable"
+        },
+        {
+          "title": "Somalia Awaits a New Security Order as Mission Drawdown Looms",
+          "link": "https://www.crisisgroup.org/cmt/africa/somalia/somalia-awaits-new-security-order-mission-drawdown-looms",
+          "description": "The multilateral missions that have helped the Somali government fight Al-Shabaab for nearly two decades may be coming to an end. Mogadishu and its partners should get started now developing a plan for what they will do next.",
+          "pubDate": "Friday, September 18, 2026 - 21:00",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "Somalia Awaits a New Security Order as Mission Drawdown Looms"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Somalia: Somalia Launches $12.8 Billion Climate Investment Plan in Antalya",
-          "link": "https://allafrica.com/stories/202611120617.html",
-          "description": "[Shabelle] Antalya -- Somali President Hassan Sheikh Mohamud on Wednesday launched a national climate investment plan requiring an estimated $12.8 billion over the next decade to help the country address the growing impact of climate change.",
-          "pubDate": "Thu, 12 Nov 2026 15:39:37 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia Launches $12.8 Billion Climate Investment Plan in Antalya"
-        },
         {
           "title": "Somalia: Former Somali President Denies Joining Talks Between Somali Government and Opposition",
           "link": "https://allafrica.com/stories/202611120334.html",
@@ -217,15 +208,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Somalia's Justice Minister Warns Political Divisions Threaten Statehood, Calls for National Consensus"
-        },
-        {
-          "title": "Kenya: Ruto Opens Door to EU Election Observers Ahead of 2027 Polls",
-          "link": "https://allafrica.com/stories/202611120097.html",
-          "description": "[Capital FM] Nairobi -- President William Ruto has signalled Kenya's willingness to host European Union election observers during the August 2027 General Election, as pressure mounts for credible and transparent elections.",
-          "pubDate": "Thu, 12 Nov 2026 05:53:27 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Ruto Opens Door to EU Election Observers Ahead of 2027 Polls"
         },
         {
           "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
@@ -370,12 +352,48 @@
           "lang": "en",
           "description": "",
           "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
+        {
+          "title": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition",
+          "link": "https://www.garoweonline.com/en/world/africa/china-and-djibouti-send-clear-message-to-israel-over-somaliland-recognition",
+          "source": "garoweonline.com",
+          "pubDate": "2026-10-24T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition"
+        },
+        {
+          "title": "Why Israeli recognition has been a double - edged sword for Somaliland",
+          "link": "https://www.csmonitor.com/World/Africa/2026/1022/somaliland-recognition-israel-trump",
+          "source": "csmonitor.com",
+          "pubDate": "2026-10-22T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why Israeli recognition has been a double - edged sword for Somaliland"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Ucraina: premier estone Michal, Costa e Kallas possono rappresentare l'Europa ai negoziati (2)",
+          "link": "https://www.agenzianova.com/a/0/8013571/2026-11-13/ucraina-premier-estone-michal-costa-e-kallas-possono-rappresentare-l-europa-ai-negoziati-2",
+          "description": "13 nov 10:16 - (Agenzia Nova) - Michal ha inoltre ridimensionato le divergenze tra gli Stati membri, osservando che le discussioni sono inevitabili... (Rel)",
+          "pubDate": "2026-11-13T10:16:47+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Ucraina: premier estone Michal, Costa e Kallas possono rappresentare l'Europa ai negoziati (2)"
+        },
+        {
+          "title": "Ucraina: premier estone Michal, Costa e Kallas possono rappresentare l'Europa ai negoziati",
+          "link": "https://www.agenzianova.com/a/0/8013570/2026-11-13/ucraina-premier-estone-michal-costa-e-kallas-possono-rappresentare-l-europa-ai-negoziati",
+          "description": "13 nov 10:16 - (Agenzia Nova) - L'Unione europea dispone gia' di rappresentanti istituzionali legittimati a partecipare agli eventuali negoziati... (Rel)",
+          "pubDate": "2026-11-13T10:16:47+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Ucraina: premier estone Michal, Costa e Kallas possono rappresentare l'Europa ai negoziati"
+        },
         {
           "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
           "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
@@ -386,24 +404,6 @@
           "titleIt": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?"
         },
         {
-          "title": "Ucraina: Zelensky vede Meloni, importante coinvolgimento Europa in negoziati e garanzie sicurezza - video",
-          "link": "https://www.agenzianova.com/a/0/8011845/2026-11-12/ucraina-zelensky-vede-meloni-importante-coinvolgimento-europa-in-negoziati-e-garanzie-sicurezza-video",
-          "description": "12 nov 21:33 - (Agenzia Nova) - Il filmato pubblicato sui suoi profili social dal presidente ucraino Volodymyr Zelensky sull'incontro con la... (Kiu)",
-          "pubDate": "2026-11-12T21:33:48+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Ucraina: Zelensky vede Meloni, importante coinvolgimento Europa in negoziati e garanzie sicurezza - video"
-        },
-        {
-          "title": "Ucraina: Zelensky vede Meloni, importante coinvolgimento Europa in negoziati e garanzie sicurezza",
-          "link": "https://www.agenzianova.com/a/0/8011843/2026-11-12/ucraina-zelensky-vede-meloni-importante-coinvolgimento-europa-in-negoziati-e-garanzie-sicurezza",
-          "description": "12 nov 21:30 - (Agenzia Nova) - Il presidente ucraino Volodymyr Zelensky ha incontrato a Dublino la presidente del Consiglio Giorgia Meloni,... (Kiu)",
-          "pubDate": "2026-11-12T21:30:54+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Ucraina: Zelensky vede Meloni, importante coinvolgimento Europa in negoziati e garanzie sicurezza"
-        },
-        {
           "title": "Southern Africa: Same Toolkit, Different Outcomes - China and the Media in Southern Africa",
           "link": "https://allafrica.com/stories/202611120612.html",
           "description": "[RSF] China's growing media presence in Southern Africa is reshaping the region's information market through media content-sharing agreements, investments in communications infrastructure and journalist training programmes. Reporters Without Borders (RSF) warns that these partnerships with Chinese state-controlled media can undermine editorial independence and give Beijing greater leverage over the flow of information.",
@@ -411,6 +411,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Southern Africa: Same Toolkit, Different Outcomes - China and the Media in Southern Africa"
+        },
+        {
+          "title": "Africa: African Development Bank Group and Agence Française De Développement Renew Partnership to Accelerate Joint Investments Across Africa",
+          "link": "https://allafrica.com/stories/202611120383.html",
+          "description": "[African Development Bank (AfDB)] The African Development Bank Group and Agence Française de Développement (AFD) have signed a memorandum of understanding for 2026-2031, building on a partnership that has supported 17 jointly financed projects across 14 African countries since 2021. Signed on 10 November, on the sidelines of the Paris Peace Forum, the agreement aims to strengthen cooperation from the earliest stages of project development and maintain close alignment through implementation.",
+          "pubDate": "Thu, 12 Nov 2026 11:36:56 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: African Development Bank Group and Agence Française De Développement Renew Partnership to Accelerate Joint Investments Across Africa"
         },
         {
           "title": "Somalia: Former Somali President Denies Joining Talks Between Somali Government and Opposition",
@@ -546,147 +555,16 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
-        },
-        {
-          "title": "Containing the New War in Northern Ethiopia",
-          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
-          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
-          "pubDate": "Thursday, October 15, 2026 - 11:12",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "Containing the New War in Northern Ethiopia"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
+      "items": []
+    },
+    "gerd-opacity": {
+      "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields",
-          "link": "http://www.bangladeshsun.com/news/279429293/u-s-stocks-lose-steam-on-nvidia-ceo-exit-rising-bond-yields",
-          "source": "bangladeshsun.com",
-          "pubDate": "2026-11-13T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields"
-        },
-        {
-          "title": "Nasdaq extends losses on Nvidia CEO resignation , Mideast hostilities",
-          "link": "http://www.australiannews.net/news/279429293/nasdaq-extends-losses-on-nvidia-ceo-s-resignation-mideast-hostilities",
-          "source": "australiannews.net",
-          "pubDate": "2026-11-13T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq extends losses on Nvidia CEO resignation , Mideast hostilities"
-        },
-        {
-          "title": "Nasdaq extends losses on Nvidia CEO resignation , Mideast hostilities",
-          "link": "http://www.myanmarnews.net/news/279429293/nasdaq-extends-losses-on-nvidia-ceo-s-resignation-mideast-hostilities",
-          "source": "myanmarnews.net",
-          "pubDate": "2026-11-13T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Nasdaq extends losses on Nvidia CEO resignation , Mideast hostilities"
-        },
-        {
-          "title": "What a Honey Trap ? The spy tactic that helped topple Jensen Huang",
-          "link": "https://www.krwg.org/national-news/2026-11-12/whats-a-honey-trap-the-spy-tactic-that-helped-topple-jensen-huang",
-          "source": "krwg.org",
-          "pubDate": "2026-11-13T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "What a Honey Trap ? The spy tactic that helped topple Jensen Huang"
-        },
-        {
-          "title": "Libya Signals Tourism Revival with Nationwide Cultural Caravan After Years of Conflict",
-          "link": "https://eturbonews.com/libya-tourism-revival-cultural-artistic-tourism-caravan-heritage-domestic-travel/",
-          "source": "eturbonews.com",
-          "pubDate": "2026-11-13T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Libya Signals Tourism Revival with Nationwide Cultural Caravan After Years of Conflict"
-        },
-        {
-          "title": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields",
-          "link": "http://www.haitisun.com/news/279429293/u-s-stocks-lose-steam-on-nvidia-ceo-exit-rising-bond-yields",
-          "source": "haitisun.com",
-          "pubDate": "2026-11-13T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields"
-        },
-        {
-          "title": "What a Honey Trap ? The spy tactic that helped topple Jensen Huang",
-          "link": "https://www.ksmu.org/2026-11-12/whats-a-honey-trap-the-spy-tactic-that-helped-topple-jensen-huang",
-          "source": "ksmu.org",
-          "pubDate": "2026-11-13T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "What a Honey Trap ? The spy tactic that helped topple Jensen Huang"
-        },
-        {
-          "title": "Beyond exhibitions : How CIIE opens new export frontiers for Africa - Blueprint Newspapers Limited",
-          "link": "https://blueprint.ng/beyond-exhibitions-how-ciie-opens-new-export-frontiers-for-africa/",
-          "source": "blueprint.ng",
-          "pubDate": "2026-11-12T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Beyond exhibitions : How CIIE opens new export frontiers for Africa - Blueprint Newspapers Limited"
-        },
-        {
-          "title": "Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops",
-          "link": "https://tradearabia.com:443/News/489625/Fertiglobe-9M-adjusted-net-soars-56_Percent-to-$341m-Q3-net-drops/IND",
-          "source": "tradearabia.com",
-          "pubDate": "2026-11-12T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops"
-        },
-        {
-          "title": "Africa $1 . 4 Trillion Housing Finance Gap Puts Investment Rules in Focus",
-          "link": "https://econotimes.com/Africa-s-1-4-Trillion-Housing-Finance-Gap-Puts-Investment-Rules-in-Focus-1775687",
-          "source": "econotimes.com",
-          "pubDate": "2026-11-12T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa $1 . 4 Trillion Housing Finance Gap Puts Investment Rules in Focus"
-        },
-        {
-          "title": "Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops",
-          "link": "https://tradearabia.com:443/News/489625/Fertiglobe-9M-adjusted-net-soars-56_Percent-to-%24341m-Q3-net-drops",
-          "source": "tradearabia.com",
-          "pubDate": "2026-11-12T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops"
-        },
-        {
-          "title": "UAE Business : Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops",
-          "link": "https://www.gdnonline.com:443/Details/1412622",
-          "source": "gdnonline.com",
-          "pubDate": "2026-11-12T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "UAE Business : Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops"
-        },
-        {
-          "title": "Africa : COP31 - Why Africa Must Rethink Nuclear Energy",
-          "link": "https://allafrica.com/stories/202611120016.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-12T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : COP31 - Why Africa Must Rethink Nuclear Energy"
-        },
-        {
-          "title": "Sudan Gold Export Earnings Soar , but the Money Is Not Reaching the Poor",
-          "link": "https://allafrica.com/stories/202611120008.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-12T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan Gold Export Earnings Soar , but the Money Is Not Reaching the Poor"
-        },
         {
           "title": "Egypt Regions and Provinces Explained",
           "link": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
@@ -706,46 +584,14 @@
           "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
         },
         {
-          "title": "Scott Bessent the latest Trump official to move onto a US military base",
-          "link": "https://www.abc.net.au/news/2026-11-12/treasury-scott-bessent-military-base-iran-threats/107377812",
-          "source": "abc.net.au",
-          "pubDate": "2026-11-12T04:00:00Z",
+          "title": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia",
+          "link": "https://allafrica.com/stories/202611100043.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-11-10T06:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Scott Bessent the latest Trump official to move onto a US military base"
+          "titleIt": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia"
         },
-        {
-          "title": "Scott Bessent the latest Trump official to move onto a US military base - 12 - Nov - 2026",
-          "link": "https://home.nzcity.co.nz/news/article.aspx?id=457884&fm=psp,tst",
-          "source": "home.nzcity.co.nz",
-          "pubDate": "2026-11-12T03:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Scott Bessent the latest Trump official to move onto a US military base - 12 - Nov - 2026"
-        },
-        {
-          "title": "Scott Bessent the latest Trump official to move onto a US military base - 12 - Nov - 2026",
-          "link": "https://home.nzcity.co.nz/news/article.aspx?id=457884&fm=psp,tsf",
-          "source": "home.nzcity.co.nz",
-          "pubDate": "2026-11-12T03:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Scott Bessent the latest Trump official to move onto a US military base - 12 - Nov - 2026"
-        },
-        {
-          "title": "The Next AI Divide Will Be Written Into Contracts - OpEd",
-          "link": "https://www.eurasiareview.com/12112026-the-next-ai-divide-will-be-written-into-contracts-oped/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-11-12T03:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Next AI Divide Will Be Written Into Contracts - OpEd"
-        }
-      ]
-    },
-    "gerd-opacity": {
-      "title": "Opacità sui rilasci GERD",
-      "items": [
         {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
           "link": "https://hornobserver.com/articles/3803/From-Abu-Dhabi-to-Beledweyne-Sanbaloolshe-Names-Irro-Deni-and-Madobe-in-Opposition-Alliance-Claims",
@@ -756,6 +602,15 @@
           "titleIt": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims"
         },
         {
+          "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+          "link": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
+          "source": "aljazeera.com",
+          "pubDate": "2026-11-03T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia"
+        },
+        {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
           "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
           "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
@@ -763,6 +618,132 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
+        },
+        {
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
+        {
+          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
+          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
+          "source": "warontherocks.com",
+          "pubDate": "2026-10-21T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
+        },
+        {
+          "title": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal",
+          "link": "https://chimpreports.com/ethiopias-abiy-pushes-nuclear-power-development-after-russia-deal/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-10-21T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal"
+        },
+        {
+          "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
+          "link": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-10-20T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
+          "source": "newsday.com",
+          "pubDate": "2026-10-20T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
+          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-20T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
+          "source": "sitkasentinel.com",
+          "pubDate": "2026-10-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
+          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
+          "source": "wral.com",
+          "pubDate": "2026-10-19T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
+          "source": "thepeterboroughexaminer.com",
+          "pubDate": "2026-10-19T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
+          "source": "niagarafallsreview.ca",
+          "pubDate": "2026-10-19T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
+          "source": "arabnews.com",
+          "pubDate": "2026-10-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press",
+          "link": "https://www.winnipegfreepress.com/business/2026/10/19/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict",
+          "source": "winnipegfreepress.com",
+          "pubDate": "2026-10-19T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press"
+        },
+        {
+          "title": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem",
+          "link": "https://www.opinionnigeria.com/who-holds-the-valve-water-war-and-the-price-of-peace-by-kator-ifyalem/",
+          "source": "opinionnigeria.com",
+          "pubDate": "2026-10-18T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem"
+        },
+        {
+          "title": "The Region Real Picture , Without AI Beautification",
+          "link": "https://english.aawsat.com/opinion/5330701-region%E2%80%99s-real-picture-without-ai-beautification",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-10-18T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Region Real Picture , Without AI Beautification"
         }
       ]
     }
