@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-11-12T18:23:03.591Z",
+  "generatedAt": "2026-11-13T01:09:44.668Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somalia Launches $12.8 Billion Climate Investment Plan in Antalya",
+          "link": "https://allafrica.com/stories/202611120617.html",
+          "description": "[Shabelle] Antalya -- Somali President Hassan Sheikh Mohamud on Wednesday launched a national climate investment plan requiring an estimated $12.8 billion over the next decade to help the country address the growing impact of climate change.",
+          "pubDate": "Thu, 12 Nov 2026 15:39:37 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia Launches $12.8 Billion Climate Investment Plan in Antalya"
+        },
         {
           "title": "Somalia: Former Somali President Denies Joining Talks Between Somali Government and Opposition",
           "link": "https://allafrica.com/stories/202611120334.html",
@@ -176,21 +185,21 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
-        },
-        {
-          "title": "Somalia Opposition leaders reject 2027 election timetable",
-          "link": "https://hornobserver.com/articles/3786/Somalia-Opposition-leaders-reject-2027-election-timetable",
-          "description": "Former president Shariif Sheikh Ahmed criticized the incumbent president Hassan Sheikh Mohamud of seeking to retain power unlawfully. \" If Someone could have stayed in power by force, Siad Barre would have done it,\" Sharif said at a news conference, referring to Somalia's former military leader, who seized power in a coup and ruled the country for 21 years.&nbsp; The mandates of the president and parliament expired several months ago, according to the opposition. Meanwhile, the federal government maintained that its mandate runs until May 2027, following a controversial constitutional amendmen",
-          "pubDate": "Sun, 18 Oct 2026 14:26:43 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia Opposition leaders reject 2027 election timetable"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Somalia: Somalia Launches $12.8 Billion Climate Investment Plan in Antalya",
+          "link": "https://allafrica.com/stories/202611120617.html",
+          "description": "[Shabelle] Antalya -- Somali President Hassan Sheikh Mohamud on Wednesday launched a national climate investment plan requiring an estimated $12.8 billion over the next decade to help the country address the growing impact of climate change.",
+          "pubDate": "Thu, 12 Nov 2026 15:39:37 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia Launches $12.8 Billion Climate Investment Plan in Antalya"
+        },
         {
           "title": "Somalia: Former Somali President Denies Joining Talks Between Somali Government and Opposition",
           "link": "https://allafrica.com/stories/202611120334.html",
@@ -361,15 +370,6 @@
           "lang": "en",
           "description": "",
           "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
-        },
-        {
-          "title": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition",
-          "link": "https://www.garoweonline.com/en/world/africa/china-and-djibouti-send-clear-message-to-israel-over-somaliland-recognition",
-          "source": "garoweonline.com",
-          "pubDate": "2026-10-24T06:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition"
         }
       ]
     },
@@ -377,40 +377,31 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Ucraina: Zelensky incontra Rutte, importante ottenere missili per difesa aerea",
-          "link": "https://www.agenzianova.com/a/0/8011464/2026-11-12/ucraina-zelensky-incontra-rutte-importante-ottenere-missili-per-difesa-aerea",
-          "description": "12 nov 19:12 - (Agenzia Nova) - Ora che i negoziati trilaterali con Russia e Stati Uniti si sono intensificati, e' importante che l'Ucraina... (Kiu)",
-          "pubDate": "2026-11-12T19:12:01+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Ucraina: Zelensky incontra Rutte, importante ottenere missili per difesa aerea"
+          "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+          "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+          "description": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+          "pubDate": "Fri, 13 Nov 2026 00:20:24 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?"
         },
         {
-          "title": "Lavoro: Calderone, tra imprese e sindacati accordo importante",
-          "link": "https://www.agenzianova.com/a/0/8011462/2026-11-12/lavoro-calderone-tra-imprese-e-sindacati-accordo-importante",
-          "description": "12 nov 19:05 - (Agenzia Nova) - L'accordo tra imprese e sindacati e' storico perche' \"da molti anni non si registrava un'intesa tra le parti... (Rin)",
-          "pubDate": "2026-11-12T19:05:52+01:00",
+          "title": "Ucraina: Zelensky vede Meloni, importante coinvolgimento Europa in negoziati e garanzie sicurezza - video",
+          "link": "https://www.agenzianova.com/a/0/8011845/2026-11-12/ucraina-zelensky-vede-meloni-importante-coinvolgimento-europa-in-negoziati-e-garanzie-sicurezza-video",
+          "description": "12 nov 21:33 - (Agenzia Nova) - Il filmato pubblicato sui suoi profili social dal presidente ucraino Volodymyr Zelensky sull'incontro con la... (Kiu)",
+          "pubDate": "2026-11-12T21:33:48+01:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Lavoro: Calderone, tra imprese e sindacati accordo importante"
+          "titleIt": "Ucraina: Zelensky vede Meloni, importante coinvolgimento Europa in negoziati e garanzie sicurezza - video"
         },
         {
-          "title": "Ucraina: Zelensky incontra Costa e von der Leyen, bene che Europa sia rappresentata a negoziati con Russia",
-          "link": "https://www.agenzianova.com/a/0/8011399/2026-11-12/ucraina-zelensky-incontra-costa-e-von-der-leyen-bene-che-europa-sia-rappresentata-a-negoziati-con-russia",
-          "description": "12 nov 19:00 - (Agenzia Nova) - Per l'Ucraina, e' importante che l'Europa sia pienamente rappresentata nel formato negoziale con la Russia.... (Kiu)",
-          "pubDate": "2026-11-12T19:00:54+01:00",
+          "title": "Ucraina: Zelensky vede Meloni, importante coinvolgimento Europa in negoziati e garanzie sicurezza",
+          "link": "https://www.agenzianova.com/a/0/8011843/2026-11-12/ucraina-zelensky-vede-meloni-importante-coinvolgimento-europa-in-negoziati-e-garanzie-sicurezza",
+          "description": "12 nov 21:30 - (Agenzia Nova) - Il presidente ucraino Volodymyr Zelensky ha incontrato a Dublino la presidente del Consiglio Giorgia Meloni,... (Kiu)",
+          "pubDate": "2026-11-12T21:30:54+01:00",
           "source": "Agenzia Nova",
           "lang": "it",
-          "titleIt": "Ucraina: Zelensky incontra Costa e von der Leyen, bene che Europa sia rappresentata a negoziati con Russia"
-        },
-        {
-          "title": "Napoli: al Tribunale minorenni inaugurato sportello ascolto per vittime reato",
-          "link": "https://www.agenzianova.com/a/0/8011459/2026-11-12/napoli-al-tribunale-minorenni-inaugurato-sportello-ascolto-per-vittime-reato",
-          "description": "12 nov 18:49 - (Agenzia Nova) - Si e' tenuta quest'oggi, presso il Tribunale per i Minorenni di Napoli, la sottoscrizione del protocollo d'intesa... (Ren)",
-          "pubDate": "2026-11-12T18:49:05+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Napoli: al Tribunale minorenni inaugurato sportello ascolto per vittime reato"
+          "titleIt": "Ucraina: Zelensky vede Meloni, importante coinvolgimento Europa in negoziati e garanzie sicurezza"
         },
         {
           "title": "Southern Africa: Same Toolkit, Different Outcomes - China and the Media in Southern Africa",
@@ -555,12 +546,202 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
+        },
+        {
+          "title": "Containing the New War in Northern Ethiopia",
+          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
+          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
+          "pubDate": "Thursday, October 15, 2026 - 11:12",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "Containing the New War in Northern Ethiopia"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields",
+          "link": "http://www.bangladeshsun.com/news/279429293/u-s-stocks-lose-steam-on-nvidia-ceo-exit-rising-bond-yields",
+          "source": "bangladeshsun.com",
+          "pubDate": "2026-11-13T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields"
+        },
+        {
+          "title": "Nasdaq extends losses on Nvidia CEO resignation , Mideast hostilities",
+          "link": "http://www.australiannews.net/news/279429293/nasdaq-extends-losses-on-nvidia-ceo-s-resignation-mideast-hostilities",
+          "source": "australiannews.net",
+          "pubDate": "2026-11-13T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nasdaq extends losses on Nvidia CEO resignation , Mideast hostilities"
+        },
+        {
+          "title": "Nasdaq extends losses on Nvidia CEO resignation , Mideast hostilities",
+          "link": "http://www.myanmarnews.net/news/279429293/nasdaq-extends-losses-on-nvidia-ceo-s-resignation-mideast-hostilities",
+          "source": "myanmarnews.net",
+          "pubDate": "2026-11-13T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nasdaq extends losses on Nvidia CEO resignation , Mideast hostilities"
+        },
+        {
+          "title": "What a Honey Trap ? The spy tactic that helped topple Jensen Huang",
+          "link": "https://www.krwg.org/national-news/2026-11-12/whats-a-honey-trap-the-spy-tactic-that-helped-topple-jensen-huang",
+          "source": "krwg.org",
+          "pubDate": "2026-11-13T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "What a Honey Trap ? The spy tactic that helped topple Jensen Huang"
+        },
+        {
+          "title": "Libya Signals Tourism Revival with Nationwide Cultural Caravan After Years of Conflict",
+          "link": "https://eturbonews.com/libya-tourism-revival-cultural-artistic-tourism-caravan-heritage-domestic-travel/",
+          "source": "eturbonews.com",
+          "pubDate": "2026-11-13T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Libya Signals Tourism Revival with Nationwide Cultural Caravan After Years of Conflict"
+        },
+        {
+          "title": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields",
+          "link": "http://www.haitisun.com/news/279429293/u-s-stocks-lose-steam-on-nvidia-ceo-exit-rising-bond-yields",
+          "source": "haitisun.com",
+          "pubDate": "2026-11-13T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields"
+        },
+        {
+          "title": "What a Honey Trap ? The spy tactic that helped topple Jensen Huang",
+          "link": "https://www.ksmu.org/2026-11-12/whats-a-honey-trap-the-spy-tactic-that-helped-topple-jensen-huang",
+          "source": "ksmu.org",
+          "pubDate": "2026-11-13T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "What a Honey Trap ? The spy tactic that helped topple Jensen Huang"
+        },
+        {
+          "title": "Beyond exhibitions : How CIIE opens new export frontiers for Africa - Blueprint Newspapers Limited",
+          "link": "https://blueprint.ng/beyond-exhibitions-how-ciie-opens-new-export-frontiers-for-africa/",
+          "source": "blueprint.ng",
+          "pubDate": "2026-11-12T07:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Beyond exhibitions : How CIIE opens new export frontiers for Africa - Blueprint Newspapers Limited"
+        },
+        {
+          "title": "Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops",
+          "link": "https://tradearabia.com:443/News/489625/Fertiglobe-9M-adjusted-net-soars-56_Percent-to-$341m-Q3-net-drops/IND",
+          "source": "tradearabia.com",
+          "pubDate": "2026-11-12T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops"
+        },
+        {
+          "title": "Africa $1 . 4 Trillion Housing Finance Gap Puts Investment Rules in Focus",
+          "link": "https://econotimes.com/Africa-s-1-4-Trillion-Housing-Finance-Gap-Puts-Investment-Rules-in-Focus-1775687",
+          "source": "econotimes.com",
+          "pubDate": "2026-11-12T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa $1 . 4 Trillion Housing Finance Gap Puts Investment Rules in Focus"
+        },
+        {
+          "title": "Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops",
+          "link": "https://tradearabia.com:443/News/489625/Fertiglobe-9M-adjusted-net-soars-56_Percent-to-%24341m-Q3-net-drops",
+          "source": "tradearabia.com",
+          "pubDate": "2026-11-12T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops"
+        },
+        {
+          "title": "UAE Business : Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops",
+          "link": "https://www.gdnonline.com:443/Details/1412622",
+          "source": "gdnonline.com",
+          "pubDate": "2026-11-12T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE Business : Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops"
+        },
+        {
+          "title": "Africa : COP31 - Why Africa Must Rethink Nuclear Energy",
+          "link": "https://allafrica.com/stories/202611120016.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-11-12T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa : COP31 - Why Africa Must Rethink Nuclear Energy"
+        },
+        {
+          "title": "Sudan Gold Export Earnings Soar , but the Money Is Not Reaching the Poor",
+          "link": "https://allafrica.com/stories/202611120008.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-11-12T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan Gold Export Earnings Soar , but the Money Is Not Reaching the Poor"
+        },
+        {
+          "title": "Egypt Regions and Provinces Explained",
+          "link": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-11-12T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Regions and Provinces Explained"
+        },
+        {
+          "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
+          "link": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-11-12T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
+        },
+        {
+          "title": "Scott Bessent the latest Trump official to move onto a US military base",
+          "link": "https://www.abc.net.au/news/2026-11-12/treasury-scott-bessent-military-base-iran-threats/107377812",
+          "source": "abc.net.au",
+          "pubDate": "2026-11-12T04:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Scott Bessent the latest Trump official to move onto a US military base"
+        },
+        {
+          "title": "Scott Bessent the latest Trump official to move onto a US military base - 12 - Nov - 2026",
+          "link": "https://home.nzcity.co.nz/news/article.aspx?id=457884&fm=psp,tst",
+          "source": "home.nzcity.co.nz",
+          "pubDate": "2026-11-12T03:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Scott Bessent the latest Trump official to move onto a US military base - 12 - Nov - 2026"
+        },
+        {
+          "title": "Scott Bessent the latest Trump official to move onto a US military base - 12 - Nov - 2026",
+          "link": "https://home.nzcity.co.nz/news/article.aspx?id=457884&fm=psp,tsf",
+          "source": "home.nzcity.co.nz",
+          "pubDate": "2026-11-12T03:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Scott Bessent the latest Trump official to move onto a US military base - 12 - Nov - 2026"
+        },
+        {
+          "title": "The Next AI Divide Will Be Written Into Contracts - OpEd",
+          "link": "https://www.eurasiareview.com/12112026-the-next-ai-divide-will-be-written-into-contracts-oped/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-11-12T03:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Next AI Divide Will Be Written Into Contracts - OpEd"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
