@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T09:32:18.158Z",
+  "generatedAt": "2026-11-15T17:15:38.167Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -151,15 +151,6 @@
           "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
         },
         {
-          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
-          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
-          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
-          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
-        },
-        {
           "title": "Somalia Awaits a New Security Order as Mission Drawdown Looms",
           "link": "https://www.crisisgroup.org/cmt/africa/somalia/somalia-awaits-new-security-order-mission-drawdown-looms",
           "description": "The multilateral missions that have helped the Somali government fight Al-Shabaab for nearly two decades may be coming to an end. Mogadishu and its partners should get started now developing a plan for what they will do next.",
@@ -181,15 +172,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Nigeria cautions against travel via Ethiopia's main airport due to altitude"
-        },
-        {
-          "title": "Ethiopia: Ethiopia, Switzerland Sign Agreement to Strengthen Strategic Cooperation On Migration",
-          "link": "https://allafrica.com/stories/202611130513.html",
-          "description": "[ENA] Addis Ababa -- Ethiopia and Switzerland have signed a Statement of Intent on Strategic Cooperation and Dialogue on Migration, aimed at deepening bilateral engagement and expanding cooperation in migration management.",
-          "pubDate": "Fri, 13 Nov 2026 17:05:07 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia, Switzerland Sign Agreement to Strengthen Strategic Cooperation On Migration"
         },
         {
           "title": "Somalian Government must respect judicial independence and rule of law: UN experts",
@@ -280,48 +262,12 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
-        },
-        {
-          "title": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces",
-          "link": "https://hornobserver.com/articles/3787/Somalia-AI-altered-photo-falsely-claims-Al-Shabaab-leader-appeared-among-fighters-seen-in-Diinsoor-during-capture-by-pro-Laftagareens-forces",
-          "description": "Some news sites and social media accounts went further, claiming that the conflict across Southwest State \"was part of a foreign-funded campaign\" allegedly \"facilitated by Ethiopia and Kenya\". These posts and the AI-altered photo garnered thousands of views across various platforms, including Facebook, X (formerly Twitter), and YouTube. The images were also shared by accounts supportive of Aden Mohamed Nur (Aden Madobe) and the Somali Federal Government. The Somali Journalists Syndicate (SJS) was alerted to the images by local journalists and ordinary citizens, prompting SJS to investigate the",
-          "pubDate": "Mon, 19 Oct 2026 14:13:50 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia: AI-altered photo falsely claims Al-Shabaab leader appeared among fighters seen in Diinsoor during capture by pro-Laftagareen's forces"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
-        {
-          "title": "Filippine-Australia: firmato nuovo accordo di difesa, priorita' alla sicurezza marittima (3)",
-          "link": "https://www.agenzianova.com/a/0/8018046/2026-11-15/filippine-australia-firmato-nuovo-accordo-di-difesa-priorita-alla-sicurezza-marittima-3",
-          "description": "15 nov 10:05 - (Agenzia Nova) - \"L'Australia si impegna a collaborare strettamente con l'Associazione delle nazioni del Sud-est asiatico (Asean)... (Res)",
-          "pubDate": "2026-11-15T10:05:43+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Filippine-Australia: firmato nuovo accordo di difesa, priorita' alla sicurezza marittima (3)"
-        },
-        {
-          "title": "Filippine-Australia: firmato nuovo accordo di difesa, priorita' alla sicurezza marittima (2)",
-          "link": "https://www.agenzianova.com/a/0/8018045/2026-11-15/filippine-australia-firmato-nuovo-accordo-di-difesa-priorita-alla-sicurezza-marittima-2",
-          "description": "15 nov 10:05 - (Agenzia Nova) - Parallelamente all'accordo bilaterale con le Filippine, l'Australia \"sta rafforzando la cooperazione in materia... (Res)",
-          "pubDate": "2026-11-15T10:05:43+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Filippine-Australia: firmato nuovo accordo di difesa, priorita' alla sicurezza marittima (2)"
-        },
-        {
-          "title": "Filippine-Australia: firmato nuovo accordo di difesa, priorita' alla sicurezza marittima",
-          "link": "https://www.agenzianova.com/a/0/8018044/2026-11-15/filippine-australia-firmato-nuovo-accordo-di-difesa-priorita-alla-sicurezza-marittima",
-          "description": "15 nov 10:05 - (Agenzia Nova) - Le Filippine e l'Australia hanno firmato oggi a Manila un nuovo accordo in materia di difesa. Il documento... (Res)",
-          "pubDate": "2026-11-15T10:05:43+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Filippine-Australia: firmato nuovo accordo di difesa, priorita' alla sicurezza marittima"
-        },
         {
           "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
           "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
@@ -357,15 +303,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "PM sources say important outcome from Dublin summit regarding negotiating team"
-        },
-        {
-          "title": "Ethiopia: Ethiopia, Switzerland Sign Agreement to Strengthen Strategic Cooperation On Migration",
-          "link": "https://allafrica.com/stories/202611130513.html",
-          "description": "[ENA] Addis Ababa -- Ethiopia and Switzerland have signed a Statement of Intent on Strategic Cooperation and Dialogue on Migration, aimed at deepening bilateral engagement and expanding cooperation in migration management.",
-          "pubDate": "Fri, 13 Nov 2026 17:05:07 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia, Switzerland Sign Agreement to Strengthen Strategic Cooperation On Migration"
         },
         {
           "title": "UN security council extends Central African Republic peacekeeping mission until 2027",
@@ -474,6 +411,15 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
+        },
+        {
+          "title": "Containing the New War in Northern Ethiopia",
+          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
+          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
+          "pubDate": "Thursday, October 15, 2026 - 11:12",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "Containing the New War in Northern Ethiopia"
         }
       ]
     },
@@ -484,15 +430,6 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Ethiopia: Ethiopia, Switzerland Sign Agreement to Strengthen Strategic Cooperation On Migration",
-          "link": "https://allafrica.com/stories/202611130513.html",
-          "description": "[ENA] Addis Ababa -- Ethiopia and Switzerland have signed a Statement of Intent on Strategic Cooperation and Dialogue on Migration, aimed at deepening bilateral engagement and expanding cooperation in migration management.",
-          "pubDate": "Fri, 13 Nov 2026 17:05:07 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia, Switzerland Sign Agreement to Strengthen Strategic Cooperation On Migration"
-        },
         {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
           "link": "https://hornobserver.com/articles/3803/From-Abu-Dhabi-to-Beledweyne-Sanbaloolshe-Names-Irro-Deni-and-Madobe-in-Opposition-Alliance-Claims",
