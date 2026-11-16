@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-11-16T06:38:14.060Z",
+  "generatedAt": "2026-11-16T18:38:35.255Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Airstrikes Target Al-Shabaab Weapons and Explosives Depots in Somalia's Lower Shabelle",
+          "link": "https://allafrica.com/stories/202611160815.html",
+          "description": "[Shabelle] Lower Shabelle -- International partners carried out airstrikes targeting locations allegedly used by Al-Shabaab to store weapons and explosives in Leego village in Somalia's Lower Shabelle region, following planned military operations by Somali special forces.",
+          "pubDate": "Mon, 16 Nov 2026 17:52:00 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Airstrikes Target Al-Shabaab Weapons and Explosives Depots in Somalia's Lower Shabelle"
+        },
         {
           "title": "Mediterranean Cuisine Day Celebrated for the First Time in Niger",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/14/mediterranean-cuisine-day-celebrated-for-the-first-time-in-niger_e8ba57ac-3765-4d04-8f76-78c161239727.html",
@@ -41,15 +50,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somali Police Open Fire on Protesters in Mogadishu, Killing Two"
-        },
-        {
-          "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
-          "pubDate": "Sun, 08 Nov 2026 07:30:01 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "'I can't believe he is one of us' - inside Salah's life in Trabzon"
         },
         {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
@@ -165,13 +165,40 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: Ruto Hits Back At Opposition Over SGR Corruption Claims",
-          "link": "https://allafrica.com/stories/202611160101.html",
-          "description": "[Capital FM] Nairobi -- President William Ruto has challenged opposition leaders over their interpretation of a World Bank report that raises concerns about corruption and procurement weaknesses in the construction of the Standard Gauge Railway (SGR), arguing that the project was undertaken under a previous administration.",
-          "pubDate": "Mon, 16 Nov 2026 05:34:27 GMT",
+          "title": "Ethiopia: Ethiopia's Second Tigray War - Same Battlefield, Different Political Reality",
+          "link": "https://allafrica.com/stories/202611160588.html",
+          "description": "[Addis Standard] Addis Abeba -- In November 2020, federal forces entered Mekelle, and Addis Abeba declared the war in Tigray finished. Seven months later, Tigrayan fighters walked back into the city, and within a year they were pushing towards the capital. In October 2026, federal troops and their Tigrayan allies took Mekelle again. The government now speaks of restoring order and installing a new regional administration. The Tigray People's Liberation Front (TPLF) says it will keep fighting from the mountains.",
+          "pubDate": "Mon, 16 Nov 2026 15:11:36 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Ruto Hits Back At Opposition Over SGR Corruption Claims"
+          "titleIt": "Ethiopia: Ethiopia's Second Tigray War - Same Battlefield, Different Political Reality"
+        },
+        {
+          "title": "AU Chief Urges African Leaders to Create More Opportunities for Young People",
+          "link": "https://hornobserver.com/articles/3808/AU-Chief-Urges-African-Leaders-to-Create-More-Opportunities-for-Young-People",
+          "description": "Speaking at the opening of the ninth Pan-African Youth Forum in Addis Ababa, Youssouf said that despite progress in education and technology, many young Africans still struggle to find employment, access financing and acquire the skills needed for today's job market. Marking 20 years since the adoption of the African Youth Charter, he urged governments to turn their commitments into action. Youssouf said Africa must invest in local industries rather than continue exporting raw materials, a practice he described as exporting jobs and wealth. He said the AU's 1 Million Next Level Initiative aims",
+          "pubDate": "Mon, 16 Nov 2026 15:09:49 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "AU Chief Urges African Leaders to Create More Opportunities for Young People"
+        },
+        {
+          "title": "“Italian Cuisine Week Around the World” has come to a close in Mogadishu",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/16/italian-cuisine-week-around-the-world-has-come-to-a-close-in-mogadishu_45a9679e-e801-4631-b07a-27dbfbaf8d83.html",
+          "description": "(ANSA) - NAIROBI, 16 NOV - The eleventh edition of Italian Cuisine Week in the World has concluded in Mogadishu. Building on the success of the two previous editions, the Italian Embassy organized two eveningsto celebrate UNESCO’s recognition of Italian cuisine as an Intangible Cultural Heritage of Humanity and, at the same time, to highlight the deep cultural bond that unites Italy and Somalia—a bond also reflected in the cuisine and the presence of numerous Italian restaurants in Mogadishu. The event’s program of activities included masterclasses, led by a chef who had traveled from Italy sp",
+          "pubDate": "Mon, 16 Nov 2026 12:57:31 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "“Italian Cuisine Week Around the World” has come to a close in Mogadishu"
+        },
+        {
+          "title": "Sudan and Ethiopia trade accusations over armed groups",
+          "link": "http://www.africanews.com/2026/11/16/sudan-and-ethiopia-trade-accusations-over-armed-groups/",
+          "description": "Tensions between Sudan and Ethiopia have escalated, with each accusing the other of supporting armed groups that wage war within its borders, undermining efforts to resolve the conflicts that have gripped the two neighboring African countries.",
+          "pubDate": "Mon, 16 Nov 2026 07:41:58 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Sudan and Ethiopia trade accusations over armed groups"
         },
         {
           "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
@@ -278,13 +305,49 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Zimbabwe: South African Police's Own Report Clears Job Sikhala and His Uncle in Explosives Case",
-          "link": "https://allafrica.com/stories/202611160118.html",
-          "description": "[New Zimbabwe] A SOUTH African Police Service (SAPS) fingerprint analysis has dealt a major blow to the State's explosives case against Zimbabwean opposition leader Job Sikhala and his uncle Alexander Thema.",
-          "pubDate": "Mon, 16 Nov 2026 05:48:46 GMT",
+          "title": "Africa: Japan Signs $583 Million Loan Agreement to Support African Development Fund",
+          "link": "https://allafrica.com/stories/202611160626.html",
+          "description": "[African Development Bank (AfDB)] <The African Development Bank Group and the Japan International Cooperation Agency (JICA) have signed a JPY 86.6 billion (approximately $583.4 million) concessional loan agreement to support the African Development Fund's seventeenth replenishment (ADF-17).",
+          "pubDate": "Mon, 16 Nov 2026 15:33:54 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Zimbabwe: South African Police's Own Report Clears Job Sikhala and His Uncle in Explosives Case"
+          "titleIt": "Africa: Japan Signs $583 Million Loan Agreement to Support African Development Fund"
+        },
+        {
+          "title": "AU Chief Urges African Leaders to Create More Opportunities for Young People",
+          "link": "https://hornobserver.com/articles/3808/AU-Chief-Urges-African-Leaders-to-Create-More-Opportunities-for-Young-People",
+          "description": "Speaking at the opening of the ninth Pan-African Youth Forum in Addis Ababa, Youssouf said that despite progress in education and technology, many young Africans still struggle to find employment, access financing and acquire the skills needed for today's job market. Marking 20 years since the adoption of the African Youth Charter, he urged governments to turn their commitments into action. Youssouf said Africa must invest in local industries rather than continue exporting raw materials, a practice he described as exporting jobs and wealth. He said the AU's 1 Million Next Level Initiative aims",
+          "pubDate": "Mon, 16 Nov 2026 15:09:49 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "AU Chief Urges African Leaders to Create More Opportunities for Young People"
+        },
+        {
+          "title": "New wave of bomb threats to Italian schools, no evacuations",
+          "link": "https://www.ansa.it/english/news/general_news/2026/11/16/new-wave-of-bomb-threats-to-italian-schools-no-evacuations_9d92253d-33b8-441f-99b9-aa6578b44e49.html",
+          "description": "(ANSA) - ROME, 16 NOV - Schools in several Italian cities received emails with bomb threats on Monday, the latest in a wave of such messages, but as the time of writing there were no reports of any schools having been evacuated. The interior ministry on Friday sent out a circular letter with guidance on how to deal with threatening messages after thousands of Italian schools received hoax bomb threats last week. The circular letter said that threats sent via bulk email messages, like those that triggered hundreds of buildings to be evacuated on Wednesday and dozens on Thursday, should not be c",
+          "pubDate": "Mon, 16 Nov 2026 12:26:45 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "New wave of bomb threats to Italian schools, no evacuations"
+        },
+        {
+          "title": "New wave of bomb threats to Italian schools, no evacuations",
+          "link": "https://www.ansa.it/english/news/2026/11/16/new-wave-of-bomb-threats-to-italian-schools-no-evacuations_0b40a9b8-e37f-4a60-b884-6fd3ac86394b.html",
+          "description": "(ANSA) - ROME, 16 NOV - Schools in several Italian cities received emails with bomb threats on Monday, the latest in a wave of such messages, but as the time of writing there were no reports of any schools having been evacuated. The interior ministry on Friday sent out a circular letter with guidance on how to deal with threatening messages after thousands of Italian schools received hoax bomb threats last week. The circular letter said that threats sent via bulk email messages, like those that triggered hundreds of buildings to be evacuated on Wednesday and dozens on Thursday, should not be c",
+          "pubDate": "Mon, 16 Nov 2026 12:08:21 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "New wave of bomb threats to Italian schools, no evacuations"
+        },
+        {
+          "title": "Sudan and Ethiopia trade accusations over armed groups",
+          "link": "http://www.africanews.com/2026/11/16/sudan-and-ethiopia-trade-accusations-over-armed-groups/",
+          "description": "Tensions between Sudan and Ethiopia have escalated, with each accusing the other of supporting armed groups that wage war within its borders, undermining efforts to resolve the conflicts that have gripped the two neighboring African countries.",
+          "pubDate": "Mon, 16 Nov 2026 07:41:58 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Sudan and Ethiopia trade accusations over armed groups"
         },
         {
           "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
@@ -341,22 +404,293 @@
           "titleIt": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?"
         },
         {
-          "title": "LCCI Hails Dangote As Benchmark , Urges Government To Fix Power , Logistics",
-          "link": "https://leadership.ng/lcci-hails-dangote-as-benchmark-urges-government-to-fix-power-logistics/",
-          "source": "leadership.ng",
+          "title": "From Jersey to Somalia... via Liverpool & Man City",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
+          "pubDate": "Wed, 11 Nov 2026 07:13:52 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "From Jersey to Somalia... via Liverpool & Man City"
+        },
+        {
+          "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
+          "link": "https://hornobserver.com/articles/3803/From-Abu-Dhabi-to-Beledweyne-Sanbaloolshe-Names-Irro-Deni-and-Madobe-in-Opposition-Alliance-Claims",
+          "description": "On November 6, two prominent political figures arrived in Beledweyne accompanied by armed escorts, intensifying a confrontation over Hirshabelle's leadership. Abdifatah Hassan Afrah, the regional vice president, entered the city amid a dispute involving traditional elders, political figures and armed groups challenging the administration. Abdullahi Mohamed Ali Rage, widely known as Sanbaloolshe, a former director of Somalia's National Intelligence and Security Agency (NISA) and a federal lawmaker, arrived through Feerfeer near the Ethiopian border, accompanied by armed personnel and military v",
+          "pubDate": "Mon, 09 Nov 2026 12:15:18 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims"
+        },
+        {
+          "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
+          "link": "https://hornobserver.com/articles/3801/Editorial-Somalias-Security-Dilemma-Can-a-Nation-Dependent-on-Foreign-Forces-Defend-Itself",
+          "description": "For years, international partners have helped Somalia fight Al-Shabaab, train troops and strengthen its security institutions. Yet this support has also exposed a serious weakness: the country's security remains deeply dependent on external funding, equipment, training and political commitments. The withdrawal of Ugandan forces from several forward operating bases in Lower Shabelle has brought this challenge into sharper focus. Somali forces are expected to assume greater responsibility, but concerns remain about whether they have the personnel, equipment, experience and financial resources to",
+          "pubDate": "Wed, 04 Nov 2026 10:41:44 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?"
+        },
+        {
+          "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
+          "link": "https://hornobserver.com/articles/3799/More-than-175-000-affected-by-floods-as-Somalia-faces-further-heavy-rains",
+          "description": "Gaalkacyo, Abudwaq and Baidoa were among the hardest-hit areas. Area-Based Coordination teams reported that floods destroyed 1,515 shelters and damaged another 4,498 during the month. Floodwaters also damaged or inundated 2,110 latrines, 137 water points, 72 schools and 55 health facilities, disrupting access to essential services. Water levels in the Shabelle River rose significantly during the final week of October, approaching moderate flood-risk thresholds in Belet Weyne district in Hiraan region. Levels also increased in Bulo Burto, while the Juba River remained relatively low. The Food a",
+          "pubDate": "Sun, 01 Nov 2026 18:22:12 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "More than 175,000 affected by floods as Somalia faces further heavy rains"
+        },
+        {
+          "title": "U.S. adds Somalia to port security watch list amid Trump's escalating criticism of Somali community",
+          "link": "https://hornobserver.com/articles/3798/US-adds-Somalia-to-port-security-watch-list-amid-Trumps-escalating-criticism-of-Somali-community",
+          "description": "The U.S. Coast Guard announced the designation in a Federal Register notice published October.27, 2026 and&nbsp; took effect upon announcement. The measure allows U.S. authorities to impose additional entry requirements on vessels arriving from Somali ports. The announcement comes against the backdrop of Trump's increasingly hostile rhetoric toward Somalis and his repeated attacks on Democratic Rep. Ilhan Omar, a Somali-born U.S. citizen representing Minnesota.&nbsp; Trump has also repeatedly targeted Somali immigrants in Minnesota, at times making sweeping negative statements about the commun",
+          "pubDate": "Sat, 31 Oct 2026 21:17:23 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "U.S. adds Somalia to port security watch list amid Trump's escalating criticism of Somali community"
+        },
+        {
+          "title": "Uganda Begins Somalia Troop Withdrawal as Ethiopia Weighs Pullback",
+          "link": "https://hornobserver.com/articles/3796/Uganda-Begins-Somalia-Troop-Withdrawal-as-Ethiopia-Weighs-Pullback",
+          "description": "&nbsp; As we promised, we have started withdrawing UPDF from Somalia. After 20 years of a lot of blood and sacrifice we are handing over security to our Somali brothers.— Muhoozi Kainerugaba (@mkainerugaba) October 29, 2026 // &nbsp; On Wednesday, Gen. Muhoozi Kainerugaba, Uganda's chief of defence forces, said Uganda had begun withdrawing its troops from Somalia. \"After 20 years of a lot of blood and sacrifice, we are handing over security to our Somali brothers,\" Kainerugaba said. The move comes amid renewed fighting in southern Somalia and uncertainty over the future of international securi",
+          "pubDate": "Thu, 29 Oct 2026 21:44:21 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Uganda Begins Somalia Troop Withdrawal as Ethiopia Weighs Pullback"
+        },
+        {
+          "title": "Somalia: Press Freedom Under Pressure as Puntland Journalists Face Police Action Over Security Reporting",
+          "link": "https://hornobserver.com/articles/3795/Somalia-Press-Freedom-Under-Pressure-as-Puntland-Journalists-Face-Police-Action-Over-Security-Reporting",
+          "description": "The Somali Journalists Syndicate (SJS) - a journalist union based in Mogadishu - said two journalists faced police action in October after reporting on security developments in Puntland, including clashes between police and clan gunmen. Maher Mohamud Ahmed was summoned by police in the city of Qardho on October 16, a day after covering clashes between Puntland's newly deployed Birmad police force and clan gunmen. The violence reportedly stemmed from a government operation to disarm clan militias and left at least two people dead, according to local media. Maher, who publishes reports on Facebo",
+          "pubDate": "Thu, 29 Oct 2026 19:03:21 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: Press Freedom Under Pressure as Puntland Journalists Face Police Action Over Security Reporting"
+        },
+        {
+          "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
+          "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
+          "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
+          "pubDate": "Mon, 26 Oct 2026 12:01:56 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
+        },
+        {
+          "title": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis",
+          "link": "https://hornobserver.com/articles/3789/SJS-says-Somali-journalists-detained-allegedly-beaten-and-forced-into-hiding-amid-political-crisis",
+          "description": "The journalists — Salah Osman and Mohamed Jeylani of Raxanreeb Online; Ibrahim Abdullahi Isak and Ibrahim Mukhtar of Kalsan TV; Aweys Mohamed Hassan of Bidhaan TV; and Abdullahi Kasim Mohamed of RTN TV — were taken away in a police vehicle and transported to Hodan District Police Station, SJS said. The incident adds to a pattern of reported intimidation against journalists covering protests, political disputes and security operations. SJS says the measures have included confiscating equipment, deleting footage, pressuring journalists to remove critical posts and mistreating media workers in cu",
+          "pubDate": "Mon, 26 Oct 2026 11:14:13 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
+        }
+      ]
+    },
+    "egypt-economy": {
+      "title": "Fragilità economica egiziana",
+      "items": [
+        {
+          "title": "“Italians in Egypt: History, Identity, and Memory,” Conversations in Cairo",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/16/italians-in-egypt-history-identity-and-memory-conversations-in-cairo_99a71712-7e74-4d06-8be5-26336178e6fb.html",
+          "description": "(ANSA) - IL CAIRO, 16 NOV - For many Italians, especially during certain periods of history, Egypt has been a second homeland—a place to seek fortune, inspiration, or even just a job. Others were born there by chance, absorbing its atmosphere and landscapes, as well as worldviews from both sides of the Mediterranean. This was the case for Giuseppe Ungaretti and Filippo Tommaso Marinetti, who were born in Alexandria. But many others left their mark here: architects, archaeologists, merchants, philanthropists, as well as ordinary bricklayers, bakers, and laborers who worked on the Suez Canal. We",
+          "pubDate": "Mon, 16 Nov 2026 14:27:20 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "“Italians in Egypt: History, Identity, and Memory,” Conversations in Cairo"
+        },
+        {
+          "title": "Syria continues diplomatic outreach as two killed in countryside explosion",
+          "link": "https://www.jpost.com/middle-east/article-914909",
+          "source": "jpost.com",
+          "pubDate": "2026-11-15T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Syria continues diplomatic outreach as two killed in countryside explosion"
+        },
+        {
+          "title": "Money , spies and Al Jazeera : How Qatar intelligence services wield power",
+          "link": "https://www.ynetnews.com/article/syqkfq80gx",
+          "source": "ynetnews.com",
+          "pubDate": "2026-11-15T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Money , spies and Al Jazeera : How Qatar intelligence services wield power"
+        },
+        {
+          "title": "Telecom Egypt Net Profit Rises 44 % to EGP 24 . 4 Billion",
+          "link": "https://cairoscene.com/News/Telecom-Egypt-s-Net-Profit-Rises-44-to-EGP-24-4-Billion",
+          "source": "cairoscene.com",
+          "pubDate": "2026-11-15T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Telecom Egypt Net Profit Rises 44 % to EGP 24 . 4 Billion"
+        },
+        {
+          "title": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields",
+          "link": "http://www.haitisun.com/news/279429293/u-s-stocks-lose-steam-on-nvidia-ceo-exit-rising-bond-yields",
+          "source": "haitisun.com",
+          "pubDate": "2026-11-13T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields"
+        },
+        {
+          "title": "What a Honey Trap ? The spy tactic that helped topple Jensen Huang",
+          "link": "https://www.ksmu.org/2026-11-12/whats-a-honey-trap-the-spy-tactic-that-helped-topple-jensen-huang",
+          "source": "ksmu.org",
+          "pubDate": "2026-11-13T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "What a Honey Trap ? The spy tactic that helped topple Jensen Huang"
+        },
+        {
+          "title": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields",
+          "link": "http://www.bangladeshsun.com/news/279429293/u-s-stocks-lose-steam-on-nvidia-ceo-exit-rising-bond-yields",
+          "source": "bangladeshsun.com",
+          "pubDate": "2026-11-13T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields"
+        },
+        {
+          "title": "Nasdaq extends losses on Nvidia CEO resignation , Mideast hostilities",
+          "link": "http://www.australiannews.net/news/279429293/nasdaq-extends-losses-on-nvidia-ceo-s-resignation-mideast-hostilities",
+          "source": "australiannews.net",
+          "pubDate": "2026-11-13T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nasdaq extends losses on Nvidia CEO resignation , Mideast hostilities"
+        },
+        {
+          "title": "Nasdaq extends losses on Nvidia CEO resignation , Mideast hostilities",
+          "link": "http://www.myanmarnews.net/news/279429293/nasdaq-extends-losses-on-nvidia-ceo-s-resignation-mideast-hostilities",
+          "source": "myanmarnews.net",
+          "pubDate": "2026-11-13T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Nasdaq extends losses on Nvidia CEO resignation , Mideast hostilities"
+        },
+        {
+          "title": "What a Honey Trap ? The spy tactic that helped topple Jensen Huang",
+          "link": "https://www.krwg.org/national-news/2026-11-12/whats-a-honey-trap-the-spy-tactic-that-helped-topple-jensen-huang",
+          "source": "krwg.org",
+          "pubDate": "2026-11-13T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "What a Honey Trap ? The spy tactic that helped topple Jensen Huang"
+        },
+        {
+          "title": "Libya Signals Tourism Revival with Nationwide Cultural Caravan After Years of Conflict",
+          "link": "https://eturbonews.com/libya-tourism-revival-cultural-artistic-tourism-caravan-heritage-domestic-travel/",
+          "source": "eturbonews.com",
+          "pubDate": "2026-11-13T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Libya Signals Tourism Revival with Nationwide Cultural Caravan After Years of Conflict"
+        },
+        {
+          "title": "Beyond exhibitions : How CIIE opens new export frontiers for Africa - Blueprint Newspapers Limited",
+          "link": "https://blueprint.ng/beyond-exhibitions-how-ciie-opens-new-export-frontiers-for-africa/",
+          "source": "blueprint.ng",
           "pubDate": "2026-11-12T07:00:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "LCCI Hails Dangote As Benchmark , Urges Government To Fix Power , Logistics"
+          "titleIt": "Beyond exhibitions : How CIIE opens new export frontiers for Africa - Blueprint Newspapers Limited"
         },
         {
-          "title": "NASCON Unveils New Seasonings As Dangote Deepens Commitment To Local Production",
-          "link": "https://leadership.ng/nascon-unveils-new-seasonings-as-dangote-deepens-commitment-to-local-production/",
-          "source": "leadership.ng",
+          "title": "Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops",
+          "link": "https://tradearabia.com:443/News/489625/Fertiglobe-9M-adjusted-net-soars-56_Percent-to-$341m-Q3-net-drops/IND",
+          "source": "tradearabia.com",
+          "pubDate": "2026-11-12T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops"
+        },
+        {
+          "title": "Africa $1 . 4 Trillion Housing Finance Gap Puts Investment Rules in Focus",
+          "link": "https://econotimes.com/Africa-s-1-4-Trillion-Housing-Finance-Gap-Puts-Investment-Rules-in-Focus-1775687",
+          "source": "econotimes.com",
+          "pubDate": "2026-11-12T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Africa $1 . 4 Trillion Housing Finance Gap Puts Investment Rules in Focus"
+        },
+        {
+          "title": "Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops",
+          "link": "https://tradearabia.com:443/News/489625/Fertiglobe-9M-adjusted-net-soars-56_Percent-to-%24341m-Q3-net-drops",
+          "source": "tradearabia.com",
+          "pubDate": "2026-11-12T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops"
+        },
+        {
+          "title": "UAE Business : Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops",
+          "link": "https://www.gdnonline.com:443/Details/1412622",
+          "source": "gdnonline.com",
+          "pubDate": "2026-11-12T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE Business : Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops"
+        },
+        {
+          "title": "Africa : COP31 - Why Africa Must Rethink Nuclear Energy",
+          "link": "https://allafrica.com/stories/202611120016.html",
+          "source": "allafrica.com",
           "pubDate": "2026-11-12T05:30:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "NASCON Unveils New Seasonings As Dangote Deepens Commitment To Local Production"
+          "titleIt": "Africa : COP31 - Why Africa Must Rethink Nuclear Energy"
+        },
+        {
+          "title": "Sudan Gold Export Earnings Soar , but the Money Is Not Reaching the Poor",
+          "link": "https://allafrica.com/stories/202611120008.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-11-12T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan Gold Export Earnings Soar , but the Money Is Not Reaching the Poor"
+        },
+        {
+          "title": "Egypt Regions and Provinces Explained",
+          "link": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-11-12T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Regions and Provinces Explained"
+        },
+        {
+          "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
+          "link": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-11-12T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
+        }
+      ]
+    },
+    "gerd-opacity": {
+      "title": "Opacità sui rilasci GERD",
+      "items": [
+        {
+          "title": "Sudan and Ethiopia trade accusations over armed groups",
+          "link": "http://www.africanews.com/2026/11/16/sudan-and-ethiopia-trade-accusations-over-armed-groups/",
+          "description": "Tensions between Sudan and Ethiopia have escalated, with each accusing the other of supporting armed groups that wage war within its borders, undermining efforts to resolve the conflicts that have gripped the two neighboring African countries.",
+          "pubDate": "Mon, 16 Nov 2026 07:41:58 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Sudan and Ethiopia trade accusations over armed groups"
+        },
+        {
+          "title": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary",
+          "link": "https://allafrica.com/stories/202611130515.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-11-13T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary"
         },
         {
           "title": "Egypt Regions and Provinces Explained",
@@ -377,42 +711,6 @@
           "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
         },
         {
-          "title": "Tanzanian Opposition Leader Lissu Sentenced to Prison",
-          "link": "https://foreignpolicy.com/2026/11/11/tanzania-samia-hassan-lissu-chadema-sentence/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-11-12T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tanzanian Opposition Leader Lissu Sentenced to Prison"
-        },
-        {
-          "title": "From Jersey to Somalia... via Liverpool & Man City",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
-          "pubDate": "Wed, 11 Nov 2026 07:13:52 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "From Jersey to Somalia... via Liverpool & Man City"
-        },
-        {
-          "title": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight",
-          "link": "https://www.wsws.org/en/articles/2026/11/10/uael-n10.html",
-          "source": "wsws.org",
-          "pubDate": "2026-11-11T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight"
-        },
-        {
-          "title": "Ethiopia Naval Chief Issues Stark Red Sea Warning : Military Force Remains an Option if Diplomacy Fails",
-          "link": "https://wardheernews.com/ethiopias-naval-chief-issues-stark-red-sea-warning-military-force-remains-an-option-if-diplomacy-fails/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-11-11T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Naval Chief Issues Stark Red Sea Warning : Military Force Remains an Option if Diplomacy Fails"
-        },
-        {
           "title": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia",
           "link": "https://allafrica.com/stories/202611100043.html",
           "source": "allafrica.com",
@@ -422,24 +720,6 @@
           "titleIt": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia"
         },
         {
-          "title": "Over 3 million Kenyans face acute food insecurity , report shows",
-          "link": "https://www.the-star.co.ke/news/2026-11-10-report-over-3m-kenyans-face-acute-food-insecurity",
-          "source": "the-star.co.ke",
-          "pubDate": "2026-11-10T04:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Over 3 million Kenyans face acute food insecurity , report shows"
-        },
-        {
-          "title": "East Africa : Cross - Border Chaos - How Are War Economies Threatening the Countries of the Horn of Africa ?",
-          "link": "https://allafrica.com/stories/202611090814.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-10T01:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "East Africa : Cross - Border Chaos - How Are War Economies Threatening the Countries of the Horn of Africa ?"
-        },
-        {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
           "link": "https://hornobserver.com/articles/3803/From-Abu-Dhabi-to-Beledweyne-Sanbaloolshe-Names-Irro-Deni-and-Madobe-in-Opposition-Alliance-Claims",
           "description": "On November 6, two prominent political figures arrived in Beledweyne accompanied by armed escorts, intensifying a confrontation over Hirshabelle's leadership. Abdifatah Hassan Afrah, the regional vice president, entered the city amid a dispute involving traditional elders, political figures and armed groups challenging the administration. Abdullahi Mohamed Ali Rage, widely known as Sanbaloolshe, a former director of Somalia's National Intelligence and Security Agency (NISA) and a federal lawmaker, arrived through Feerfeer near the Ethiopian border, accompanied by armed personnel and military v",
@@ -449,31 +729,13 @@
           "titleIt": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims"
         },
         {
-          "title": "Federal Register :: Removing 30 - Day Refugee Termination Notice",
-          "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20956/removing-30-day-refugee-termination-notice",
-          "source": "federalregister.gov",
-          "pubDate": "2026-11-09T06:00:00Z",
+          "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+          "link": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
+          "source": "aljazeera.com",
+          "pubDate": "2026-11-03T11:15:00Z",
           "lang": "en",
           "description": "",
-          "titleIt": "Federal Register :: Removing 30 - Day Refugee Termination Notice"
-        }
-      ]
-    },
-    "egypt-economy": {
-      "title": "Fragilità economica egiziana",
-      "items": []
-    },
-    "gerd-opacity": {
-      "title": "Opacità sui rilasci GERD",
-      "items": [
-        {
-          "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
-          "link": "https://hornobserver.com/articles/3803/From-Abu-Dhabi-to-Beledweyne-Sanbaloolshe-Names-Irro-Deni-and-Madobe-in-Opposition-Alliance-Claims",
-          "description": "On November 6, two prominent political figures arrived in Beledweyne accompanied by armed escorts, intensifying a confrontation over Hirshabelle's leadership. Abdifatah Hassan Afrah, the regional vice president, entered the city amid a dispute involving traditional elders, political figures and armed groups challenging the administration. Abdullahi Mohamed Ali Rage, widely known as Sanbaloolshe, a former director of Somalia's National Intelligence and Security Agency (NISA) and a federal lawmaker, arrived through Feerfeer near the Ethiopian border, accompanied by armed personnel and military v",
-          "pubDate": "Mon, 09 Nov 2026 12:15:18 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims"
+          "titleIt": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia"
         },
         {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
@@ -483,6 +745,114 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
+        },
+        {
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
+        {
+          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
+          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
+          "source": "warontherocks.com",
+          "pubDate": "2026-10-21T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
+        },
+        {
+          "title": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal",
+          "link": "https://chimpreports.com/ethiopias-abiy-pushes-nuclear-power-development-after-russia-deal/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-10-21T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal"
+        },
+        {
+          "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
+          "link": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-10-20T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
+          "source": "newsday.com",
+          "pubDate": "2026-10-20T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
+          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-20T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
+          "source": "sitkasentinel.com",
+          "pubDate": "2026-10-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
+          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
+          "source": "wral.com",
+          "pubDate": "2026-10-19T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
+          "source": "thepeterboroughexaminer.com",
+          "pubDate": "2026-10-19T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
+          "source": "niagarafallsreview.ca",
+          "pubDate": "2026-10-19T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
+          "source": "arabnews.com",
+          "pubDate": "2026-10-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press",
+          "link": "https://www.winnipegfreepress.com/business/2026/10/19/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict",
+          "source": "winnipegfreepress.com",
+          "pubDate": "2026-10-19T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press"
         }
       ]
     }
