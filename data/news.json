@@ -1,11 +1,38 @@
 {
-  "generatedAt": "2026-11-17T13:32:49.271Z",
+  "generatedAt": "2026-11-17T22:28:20.592Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egitto: Al Sisi riceve presidente Bers per discutere cooperazione economica",
+          "link": "https://www.agenzianova.com/a/0/8028132/2026-11-17/egitto-al-sisi-riceve-presidente-bers-per-discutere-cooperazione-economica",
+          "description": "17 nov 21:02 - (Agenzia Nova) - Il presidente dell'Egitto, Abdel Fattah al Sisi, ha ricevuto la presidente della Banca europea per la ricostruzione... (Cae)",
+          "pubDate": "2026-11-17T21:02:31+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: Al Sisi riceve presidente Bers per discutere cooperazione economica"
+        },
+        {
+          "title": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks",
+          "link": "https://allafrica.com/stories/202611170678.html",
+          "description": "[Horn Diplomat] Berbera -- Six crew members rescued after a cargo boat sank near the Bab al-Mandeb Strait have arrived safely at Somaliland's Berbera Port, where medical personnel and emergency teams are providing care, the Somaliland Ports Authority said on Tuesday.",
+          "pubDate": "Tue, 17 Nov 2026 17:54:17 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks"
+        },
+        {
+          "title": "Somalia: Somaliland Vice President Meets UK Africa Director to Discuss Cooperation",
+          "link": "https://allafrica.com/stories/202611170677.html",
+          "description": "[Horn Diplomat] Hargeisa -- Somaliland's Vice President Mohamed Ali Aw Abdi met Britain's Director for Africa, Charlotte Pierre, to discuss strengthening cooperation on regional security, development and humanitarian assistance, according to a Somaliland government statement.",
+          "pubDate": "Tue, 17 Nov 2026 17:53:41 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somaliland Vice President Meets UK Africa Director to Discuss Cooperation"
+        },
         {
           "title": "Somalia: Somali Army Carries Out an Operation Against Al-Shabaab in Bakool Region",
           "link": "https://allafrica.com/stories/202611170369.html",
@@ -14,15 +41,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Somalia: Somali Army Carries Out an Operation Against Al-Shabaab in Bakool Region"
-        },
-        {
-          "title": "Somalia: Airstrikes Target Al-Shabaab Weapons and Explosives Depots in Somalia's Lower Shabelle",
-          "link": "https://allafrica.com/stories/202611160815.html",
-          "description": "[Shabelle] Lower Shabelle -- International partners carried out airstrikes targeting locations allegedly used by Al-Shabaab to store weapons and explosives in Leego village in Somalia's Lower Shabelle region, following planned military operations by Somali special forces.",
-          "pubDate": "Mon, 16 Nov 2026 17:52:00 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Airstrikes Target Al-Shabaab Weapons and Explosives Depots in Somalia's Lower Shabelle"
         },
         {
           "title": "Mediterranean Cuisine Day Celebrated for the First Time in Niger",
@@ -174,6 +192,33 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks",
+          "link": "https://allafrica.com/stories/202611170678.html",
+          "description": "[Horn Diplomat] Berbera -- Six crew members rescued after a cargo boat sank near the Bab al-Mandeb Strait have arrived safely at Somaliland's Berbera Port, where medical personnel and emergency teams are providing care, the Somaliland Ports Authority said on Tuesday.",
+          "pubDate": "Tue, 17 Nov 2026 17:54:17 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks"
+        },
+        {
+          "title": "Somalia: Somaliland Vice President Meets UK Africa Director to Discuss Cooperation",
+          "link": "https://allafrica.com/stories/202611170677.html",
+          "description": "[Horn Diplomat] Hargeisa -- Somaliland's Vice President Mohamed Ali Aw Abdi met Britain's Director for Africa, Charlotte Pierre, to discuss strengthening cooperation on regional security, development and humanitarian assistance, according to a Somaliland government statement.",
+          "pubDate": "Tue, 17 Nov 2026 17:53:41 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somaliland Vice President Meets UK Africa Director to Discuss Cooperation"
+        },
+        {
+          "title": "Ethiopia: Ethiopia Wins Int'l Award for Institutionalizing Climate-Responsive Auditing",
+          "link": "https://allafrica.com/stories/202611170427.html",
+          "description": "[ENA] Addis Ababa -- The Office of the Federal Auditor General has won international recognition for its efforts to institutionalize climate-responsive auditing at the 2026 ClimateScanner Impact Awards held in Rio de Janeiro, Brazil.",
+          "pubDate": "Tue, 17 Nov 2026 12:20:22 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia Wins Int'l Award for Institutionalizing Climate-Responsive Auditing"
+        },
+        {
           "title": "Kenya: Gachagua Faults Ruto's 'Usawa Ni Sawa' Over 'Tribal' State Appointments",
           "link": "https://allafrica.com/stories/202611170160.html",
           "description": "[Capital FM] Nairobi -- DCP leader Rigathi Gachagua has taken a swipe at President William Ruto's \"Usawa ni Sawa\" campaign, questioning the government's commitment to equal opportunities following a series of appointments involving people from the Kalenjin community.",
@@ -305,22 +350,13 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Sanita': ok unanime della Lombardia alla legge per diffondere le manovre salvavita BLSD (4)",
-          "link": "https://www.agenzianova.com/a/0/8026269/2026-11-17/sanita-ok-unanime-della-lombardia-alla-legge-per-diffondere-le-manovre-salvavita-blsd-4",
-          "description": "17 nov 14:28 - (Agenzia Nova) - La legge si fonda sull'importanza strategica della prevenzione e dell'educazione nelle scuole, con l'obiettivo... (Com)",
-          "pubDate": "2026-11-17T14:28:40+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Sanita': ok unanime della Lombardia alla legge per diffondere le manovre salvavita BLSD (4)"
-        },
-        {
-          "title": "Speciale energia: Costa d'Avorio-Botswana, accordo per rafforzare la cooperazione su miniere ed energia",
-          "link": "https://www.agenzianova.com/a/0/8024984/2026-11-17/speciale-energia-costa-d-avorio-botswana-accordo-per-rafforzare-la-cooperazione-su-miniere-ed-energia",
-          "description": "17 nov 14:15 - (Agenzia Nova) - La Costa d'Avorio e il Botswana intendono rafforzare la cooperazione bilaterale, in particolare nei settori... (Cay)",
-          "pubDate": "2026-11-17T14:15:00+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale energia: Costa d'Avorio-Botswana, accordo per rafforzare la cooperazione su miniere ed energia"
+          "title": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks",
+          "link": "https://allafrica.com/stories/202611170678.html",
+          "description": "[Horn Diplomat] Berbera -- Six crew members rescued after a cargo boat sank near the Bab al-Mandeb Strait have arrived safely at Somaliland's Berbera Port, where medical personnel and emergency teams are providing care, the Somaliland Ports Authority said on Tuesday.",
+          "pubDate": "Tue, 17 Nov 2026 17:54:17 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks"
         },
         {
           "title": "Tajani presents 2026 edition of Week of Italian Cuisine in the World",
@@ -404,33 +440,6 @@
           "titleIt": "Sudan and Ethiopia trade accusations over armed groups"
         },
         {
-          "title": "France escalates Algeria trade dispute to EU-level",
-          "link": "http://www.africanews.com/2026/11/13/france-escalates-algeria-trade-dispute-to-eu-level/",
-          "description": "France on Friday asked the European Commission to look into Algeria’s alleged non-compliance with a EU trade deal. Paris is accusing Algers of an almost total blockade on French imports and of suspending urea shipments to France.",
-          "pubDate": "Fri, 13 Nov 2026 21:37:13 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "France escalates Algeria trade dispute to EU-level"
-        },
-        {
-          "title": "PM sources say important outcome from Dublin summit regarding negotiating team",
-          "link": "https://www.ansa.it/english/news/world/2026/11/13/pm-sources-say-important-outcome-from-dublin-summit-regarding-negotiating-team_d740a2fe-81ff-45af-b32a-592b90ecb293.html",
-          "description": "(ANSA) - ROME, 13 NOV - Sources at Premier Giorgia Meloni's office at Palazzo Chigi in Rome daid Griday there had been an important outcome from the EU's Dublin summit regarding the negotiating team for Ukraine. \"An important political outcome has emerged: the European format for peace negotiations has been defined, as requested by Prime Minister Giorgia Meloni in her letter to Antonio Costa. This is the 'E5' format, comprising France, Germany, Italy, Poland, and the United Kingdom, alongside representatives from the European Commission and the European Council,\" said the sources at Palazzo Ch",
-          "pubDate": "Fri, 13 Nov 2026 18:45:40 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "PM sources say important outcome from Dublin summit regarding negotiating team"
-        },
-        {
-          "title": "PM sources say important outcome from Dublin summit regarding negotiating team",
-          "link": "https://www.ansa.it/english/news/2026/11/13/pm-sources-say-important-outcome-from-dublin-summit-regarding-negotiating-team_0f49ff30-88aa-4a77-b865-fcfd8e1cfd70.html",
-          "description": "(ANSA) - ROME, 13 NOV - Sources at Premier Giorgia Meloni's office at Palazzo Chigi in Rome daid Griday there had been an important outcome from the EU's Dublin summit regarding the negotiating team for Ukraine. \"An important political outcome has emerged: the European format for peace negotiations has been defined, as requested by Prime Minister Giorgia Meloni in her letter to Antonio Costa. This is the 'E5' format, comprising France, Germany, Italy, Poland, and the United Kingdom, alongside representatives from the European Commission and the European Council,\" said the sources at Palazzo Ch",
-          "pubDate": "Fri, 13 Nov 2026 18:45:40 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "PM sources say important outcome from Dublin summit regarding negotiating team"
-        },
-        {
           "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
           "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
           "description": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
@@ -483,12 +492,57 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "U.S. adds Somalia to port security watch list amid Trump's escalating criticism of Somali community"
+        },
+        {
+          "title": "Uganda Begins Somalia Troop Withdrawal as Ethiopia Weighs Pullback",
+          "link": "https://hornobserver.com/articles/3796/Uganda-Begins-Somalia-Troop-Withdrawal-as-Ethiopia-Weighs-Pullback",
+          "description": "&nbsp; As we promised, we have started withdrawing UPDF from Somalia. After 20 years of a lot of blood and sacrifice we are handing over security to our Somali brothers.— Muhoozi Kainerugaba (@mkainerugaba) October 29, 2026 // &nbsp; On Wednesday, Gen. Muhoozi Kainerugaba, Uganda's chief of defence forces, said Uganda had begun withdrawing its troops from Somalia. \"After 20 years of a lot of blood and sacrifice, we are handing over security to our Somali brothers,\" Kainerugaba said. The move comes amid renewed fighting in southern Somalia and uncertainty over the future of international securi",
+          "pubDate": "Thu, 29 Oct 2026 21:44:21 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Uganda Begins Somalia Troop Withdrawal as Ethiopia Weighs Pullback"
+        },
+        {
+          "title": "Somalia: Press Freedom Under Pressure as Puntland Journalists Face Police Action Over Security Reporting",
+          "link": "https://hornobserver.com/articles/3795/Somalia-Press-Freedom-Under-Pressure-as-Puntland-Journalists-Face-Police-Action-Over-Security-Reporting",
+          "description": "The Somali Journalists Syndicate (SJS) - a journalist union based in Mogadishu - said two journalists faced police action in October after reporting on security developments in Puntland, including clashes between police and clan gunmen. Maher Mohamud Ahmed was summoned by police in the city of Qardho on October 16, a day after covering clashes between Puntland's newly deployed Birmad police force and clan gunmen. The violence reportedly stemmed from a government operation to disarm clan militias and left at least two people dead, according to local media. Maher, who publishes reports on Facebo",
+          "pubDate": "Thu, 29 Oct 2026 19:03:21 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: Press Freedom Under Pressure as Puntland Journalists Face Police Action Over Security Reporting"
+        },
+        {
+          "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
+          "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
+          "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
+          "pubDate": "Mon, 26 Oct 2026 12:01:56 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
+        },
+        {
+          "title": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis",
+          "link": "https://hornobserver.com/articles/3789/SJS-says-Somali-journalists-detained-allegedly-beaten-and-forced-into-hiding-amid-political-crisis",
+          "description": "The journalists — Salah Osman and Mohamed Jeylani of Raxanreeb Online; Ibrahim Abdullahi Isak and Ibrahim Mukhtar of Kalsan TV; Aweys Mohamed Hassan of Bidhaan TV; and Abdullahi Kasim Mohamed of RTN TV — were taken away in a police vehicle and transported to Hodan District Police Station, SJS said. The incident adds to a pattern of reported intimidation against journalists covering protests, political disputes and security operations. SJS says the measures have included confiscating equipment, deleting footage, pressuring journalists to remove critical posts and mistreating media workers in cu",
+          "pubDate": "Mon, 26 Oct 2026 11:14:13 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
       "items": [
+        {
+          "title": "Egitto: Al Sisi riceve presidente Bers per discutere cooperazione economica",
+          "link": "https://www.agenzianova.com/a/0/8028132/2026-11-17/egitto-al-sisi-riceve-presidente-bers-per-discutere-cooperazione-economica",
+          "description": "17 nov 21:02 - (Agenzia Nova) - Il presidente dell'Egitto, Abdel Fattah al Sisi, ha ricevuto la presidente della Banca europea per la ricostruzione... (Cae)",
+          "pubDate": "2026-11-17T21:02:31+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: Al Sisi riceve presidente Bers per discutere cooperazione economica"
+        },
         {
           "title": "“Italians in Egypt: History, Identity, and Memory,” Conversations in Cairo",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/16/italians-in-egypt-history-identity-and-memory-conversations-in-cairo_99a71712-7e74-4d06-8be5-26336178e6fb.html",
