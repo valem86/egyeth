@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-11-18T07:36:48.418Z",
+  "generatedAt": "2026-11-18T17:19:39.745Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Egypt: CPJ Urges Congress to Raise Press Freedom Violations With Egypt Foreign Minister",
+          "link": "https://allafrica.com/stories/202611180496.html",
+          "description": "[CPJ] On Tuesday, the Committee to Protect Journalists sent a letter to members of the U.S. Congress, urging lawmakers to raise Egypt's unprecedented decline in press freedom during Egyptian Foreign Minister Badr Abdelatty's visit to Washington, D.C. this week. The letter called on Congress to use all available diplomatic tools, including U.S. Foreign Military Financing (FMF), to press Egypt to end its criminalization of independent journalism.",
+          "pubDate": "Wed, 18 Nov 2026 15:42:26 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Egypt: CPJ Urges Congress to Raise Press Freedom Violations With Egypt Foreign Minister"
+        },
+        {
+          "title": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful",
+          "link": "https://hornobserver.com/articles/3809/Hassan-Sheikh-Knew-About-the-UAE-for-Years-Now-It-Is-Useful",
+          "description": "On Tuesday, 17 November, the president of Somalia went on television and, as I heard it in Somali, said that a brother does not burn your house. Hassan Sheikh Mohamud told Somalis at home and abroad that the United Arab Emirates had signed port deals at Berbera, Bosaso and Kismayo without Mogadishu, built armed units that do not take orders from the state, and helped bring about Israel's recognition of Somaliland. He ended by saying that the Somalia of yesterday is not the Somalia of today. Anadolu Agency reported the accusations. Here is what does not fit. He has known about the UAE for years",
+          "pubDate": "Wed, 18 Nov 2026 12:40:58 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful"
+        },
         {
           "title": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks",
           "link": "https://allafrica.com/stories/202611170678.html",
@@ -14,24 +32,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks"
-        },
-        {
-          "title": "Somalia: Somali Army Carries Out an Operation Against Al-Shabaab in Bakool Region",
-          "link": "https://allafrica.com/stories/202611170369.html",
-          "description": "[Shabelle] Hudur, Somalia -- Somali government forces have killed an Al-Shabaab commander during a planned military operation near Moora Hagar Guudale, about 20 kilometres south of Hudur in the southwestern Bakool region, the Defence Ministry said.",
-          "pubDate": "Tue, 17 Nov 2026 11:25:46 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somali Army Carries Out an Operation Against Al-Shabaab in Bakool Region"
-        },
-        {
-          "title": "Mediterranean Cuisine Day Celebrated for the First Time in Niger",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/14/mediterranean-cuisine-day-celebrated-for-the-first-time-in-niger_e8ba57ac-3765-4d04-8f76-78c161239727.html",
-          "description": "(ANSA) - IL CAIRO, 14 NOV - The International Day of Mediterranean Cuisine took place today at the Parc de l’Amitié in Niamey, marking the first-ever celebration in Niger of the UN Day of the Mediterranean Diet on November 16, established last year at the proposal of Italy and 11 other countries. The initiative was organized at the urging of the Italian Ambassador to Niamey, Roberto Orlando, with the support of United Nations agencies (FAO, WFP, IOM, UNICEF) and the involvement of the European Union and the embassies of other Mediterranean countries in Niamey: in addition to Italy, Spain, Turk",
-          "pubDate": "Sat, 14 Nov 2026 17:07:25 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Mediterranean Cuisine Day Celebrated for the First Time in Niger"
         },
         {
           "title": "From Jersey to Somalia... via Liverpool & Man City",
@@ -151,15 +151,6 @@
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
         },
         {
-          "title": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis",
-          "link": "https://hornobserver.com/articles/3789/SJS-says-Somali-journalists-detained-allegedly-beaten-and-forced-into-hiding-amid-political-crisis",
-          "description": "The journalists — Salah Osman and Mohamed Jeylani of Raxanreeb Online; Ibrahim Abdullahi Isak and Ibrahim Mukhtar of Kalsan TV; Aweys Mohamed Hassan of Bidhaan TV; and Abdullahi Kasim Mohamed of RTN TV — were taken away in a police vehicle and transported to Hodan District Police Station, SJS said. The incident adds to a pattern of reported intimidation against journalists covering protests, political disputes and security operations. SJS says the measures have included confiscating equipment, deleting footage, pressuring journalists to remove critical posts and mistreating media workers in cu",
-          "pubDate": "Mon, 26 Oct 2026 11:14:13 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "SJS says Somali journalists detained, allegedly beaten and forced into hiding amid political crisis"
-        },
-        {
           "title": "Somalia Awaits a New Security Order as Mission Drawdown Looms",
           "link": "https://www.crisisgroup.org/cmt/africa/somalia/somalia-awaits-new-security-order-mission-drawdown-looms",
           "description": "The multilateral missions that have helped the Somali government fight Al-Shabaab for nearly two decades may be coming to an end. Mogadishu and its partners should get started now developing a plan for what they will do next.",
@@ -174,13 +165,40 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Kenya: 'Hunger Should Not Be a Concern' - WFP Steps in for Families in Kenya Who Fled Ethiopia Violence",
-          "link": "https://allafrica.com/stories/202611180010.html",
-          "description": "[UN News] The World Food Programme (WFP) is assisting thousands of families who fled recent violence in Ethiopia for the Moyale area in neighbouring Kenya, the UN agency reported on Tuesday.",
-          "pubDate": "Wed, 18 Nov 2026 04:45:53 GMT",
+          "title": "Kenya: Ruto Promises Public Order Reforms, Accountability for Police Abuses",
+          "link": "https://allafrica.com/stories/202611180495.html",
+          "description": "[Capital FM] Nairobi -- President William Ruto has pledged reforms in public order management, promising improved police training, operational oversight and accountability amid mounting scrutiny over deaths and injuries during protests and confrontations with security agencies.",
+          "pubDate": "Wed, 18 Nov 2026 15:41:51 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: 'Hunger Should Not Be a Concern' - WFP Steps in for Families in Kenya Who Fled Ethiopia Violence"
+          "titleIt": "Kenya: Ruto Promises Public Order Reforms, Accountability for Police Abuses"
+        },
+        {
+          "title": "Ethiopia: Power Without Transparency - Who Holds Ethiopia's Media Regulator Accountable When It Silences the Press?",
+          "link": "https://allafrica.com/stories/202611180491.html",
+          "description": "[Addis Standard] On 2 November 2026, the Ethiopian Media Authority (EMA) announced the indefinite suspension of the registration certificate of Media and Communication Center PLC, the publisher of the Amharic-language Reporter and the English-language The Reporter, and their digital platforms. One of Ethiopia's longest-established independent media organizations was brought to a halt. That raises a question bigger than one publisher: who holds the media regulator accountable when it uses its power to silence an entire",
+          "pubDate": "Wed, 18 Nov 2026 15:41:25 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Power Without Transparency - Who Holds Ethiopia's Media Regulator Accountable When It Silences the Press?"
+        },
+        {
+          "title": "Ethiopia: El Niño, Iran War Shocks Could Push Nearly One Million More Ethiopians Into Poverty, New Report Warns",
+          "link": "https://allafrica.com/stories/202611180198.html",
+          "description": "[Addis Standard] Addis Abeba -- Nearly 905,000 additional people in Ethiopia could be pushed into poverty and 2.8 million into undernourishment in 2027 as the effects of a potentially exceptionally strong El Niño converge with higher global fuel prices linked to the Iran war, according to a new analysis by the International Food Policy Research Institute (IFPRI).",
+          "pubDate": "Wed, 18 Nov 2026 10:24:57 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: El Niño, Iran War Shocks Could Push Nearly One Million More Ethiopians Into Poverty, New Report Warns"
+        },
+        {
+          "title": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful",
+          "link": "https://hornobserver.com/articles/3809/Hassan-Sheikh-Knew-About-the-UAE-for-Years-Now-It-Is-Useful",
+          "description": "On Tuesday, 17 November, the president of Somalia went on television and, as I heard it in Somali, said that a brother does not burn your house. Hassan Sheikh Mohamud told Somalis at home and abroad that the United Arab Emirates had signed port deals at Berbera, Bosaso and Kismayo without Mogadishu, built armed units that do not take orders from the state, and helped bring about Israel's recognition of Somaliland. He ended by saying that the Somalia of yesterday is not the Somalia of today. Anadolu Agency reported the accusations. Here is what does not fit. He has known about the UAE for years",
+          "pubDate": "Wed, 18 Nov 2026 12:40:58 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful"
         },
         {
           "title": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks",
@@ -199,15 +217,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "AU Chief Urges African Leaders to Create More Opportunities for Young People"
-        },
-        {
-          "title": "“Italian Cuisine Week Around the World” has come to a close in Mogadishu",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/16/italian-cuisine-week-around-the-world-has-come-to-a-close-in-mogadishu_45a9679e-e801-4631-b07a-27dbfbaf8d83.html",
-          "description": "(ANSA) - NAIROBI, 16 NOV - The eleventh edition of Italian Cuisine Week in the World has concluded in Mogadishu. Building on the success of the two previous editions, the Italian Embassy organized two eveningsto celebrate UNESCO’s recognition of Italian cuisine as an Intangible Cultural Heritage of Humanity and, at the same time, to highlight the deep cultural bond that unites Italy and Somalia—a bond also reflected in the cuisine and the presence of numerous Italian restaurants in Mogadishu. The event’s program of activities included masterclasses, led by a chef who had traveled from Italy sp",
-          "pubDate": "Mon, 16 Nov 2026 12:57:31 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "“Italian Cuisine Week Around the World” has come to a close in Mogadishu"
         },
         {
           "title": "Sudan and Ethiopia trade accusations over armed groups",
@@ -314,13 +323,58 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Kenya: 'Hunger Should Not Be a Concern' - WFP Steps in for Families in Kenya Who Fled Ethiopia Violence",
-          "link": "https://allafrica.com/stories/202611180010.html",
-          "description": "[UN News] The World Food Programme (WFP) is assisting thousands of families who fled recent violence in Ethiopia for the Moyale area in neighbouring Kenya, the UN agency reported on Tuesday.",
-          "pubDate": "Wed, 18 Nov 2026 04:45:53 GMT",
+          "title": "Lazio: aerospazio, difesa e sicurezza, nasce Comitato del Distretto industriale e tecnologico (3)",
+          "link": "https://www.agenzianova.com/a/0/8032503/2026-11-18/lazio-aerospazio-difesa-e-sicurezza-nasce-comitato-del-distretto-industriale-e-tecnologico-3",
+          "description": "18 nov 17:59 - (Agenzia Nova) - Un altro asse strategico sara' rappresentato dalle opportunita' di finanziamento europee, a partire dai bandi... (Rer)",
+          "pubDate": "2026-11-18T17:59:13+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Lazio: aerospazio, difesa e sicurezza, nasce Comitato del Distretto industriale e tecnologico (3)"
+        },
+        {
+          "title": "Ethiopia: Power Without Transparency - Who Holds Ethiopia's Media Regulator Accountable When It Silences the Press?",
+          "link": "https://allafrica.com/stories/202611180491.html",
+          "description": "[Addis Standard] On 2 November 2026, the Ethiopian Media Authority (EMA) announced the indefinite suspension of the registration certificate of Media and Communication Center PLC, the publisher of the Amharic-language Reporter and the English-language The Reporter, and their digital platforms. One of Ethiopia's longest-established independent media organizations was brought to a halt. That raises a question bigger than one publisher: who holds the media regulator accountable when it uses its power to silence an entire",
+          "pubDate": "Wed, 18 Nov 2026 15:41:25 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: 'Hunger Should Not Be a Concern' - WFP Steps in for Families in Kenya Who Fled Ethiopia Violence"
+          "titleIt": "Ethiopia: Power Without Transparency - Who Holds Ethiopia's Media Regulator Accountable When It Silences the Press?"
+        },
+        {
+          "title": "Ethiopia: In-Depth Analysis - Emptied of Civilians, No End in Sight - How the Escalating Moyale Conflict Is Deepening a Humanitarian Crisis",
+          "link": "https://allafrica.com/stories/202611180487.html",
+          "description": "[Addis Standard] Addis Abeba -- Once a bustling border town sustained by cross-border commerce, pastoralist livelihoods and closely interconnected communities, Moyale is increasingly being emptied of its civilian population as escalating clashes between Oromia and Somali regional forces drive residents from their homes, disrupt economic activity and push tens of thousands across the border into Kenya.",
+          "pubDate": "Wed, 18 Nov 2026 15:39:16 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: In-Depth Analysis - Emptied of Civilians, No End in Sight - How the Escalating Moyale Conflict Is Deepening a Humanitarian Crisis"
+        },
+        {
+          "title": "Ethiopia: El Niño, Iran War Shocks Could Push Nearly One Million More Ethiopians Into Poverty, New Report Warns",
+          "link": "https://allafrica.com/stories/202611180198.html",
+          "description": "[Addis Standard] Addis Abeba -- Nearly 905,000 additional people in Ethiopia could be pushed into poverty and 2.8 million into undernourishment in 2027 as the effects of a potentially exceptionally strong El Niño converge with higher global fuel prices linked to the Iran war, according to a new analysis by the International Food Policy Research Institute (IFPRI).",
+          "pubDate": "Wed, 18 Nov 2026 10:24:57 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: El Niño, Iran War Shocks Could Push Nearly One Million More Ethiopians Into Poverty, New Report Warns"
+        },
+        {
+          "title": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful",
+          "link": "https://hornobserver.com/articles/3809/Hassan-Sheikh-Knew-About-the-UAE-for-Years-Now-It-Is-Useful",
+          "description": "On Tuesday, 17 November, the president of Somalia went on television and, as I heard it in Somali, said that a brother does not burn your house. Hassan Sheikh Mohamud told Somalis at home and abroad that the United Arab Emirates had signed port deals at Berbera, Bosaso and Kismayo without Mogadishu, built armed units that do not take orders from the state, and helped bring about Israel's recognition of Somaliland. He ended by saying that the Somalia of yesterday is not the Somalia of today. Anadolu Agency reported the accusations. Here is what does not fit. He has known about the UAE for years",
+          "pubDate": "Wed, 18 Nov 2026 12:40:58 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful"
+        },
+        {
+          "title": "Ethiopia: Ethiopia-Eritrea Border Clashes Raise Fears of Regional War",
+          "link": "https://allafrica.com/stories/202611180081.html",
+          "description": "[DW] As Ethiopian troops push Tigrayan forces toward the Eritrean border, fears of a new regional war are growing. With tensions rising between Ethiopia, Eritrea and Sudan, the Horn of Africa faces uncertain times ahead.",
+          "pubDate": "Wed, 18 Nov 2026 06:54:50 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia-Eritrea Border Clashes Raise Fears of Regional War"
         },
         {
           "title": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks",
@@ -377,24 +431,6 @@
           "titleIt": "AU Chief Urges African Leaders to Create More Opportunities for Young People"
         },
         {
-          "title": "New wave of bomb threats to Italian schools, no evacuations",
-          "link": "https://www.ansa.it/english/news/general_news/2026/11/16/new-wave-of-bomb-threats-to-italian-schools-no-evacuations_9d92253d-33b8-441f-99b9-aa6578b44e49.html",
-          "description": "(ANSA) - ROME, 16 NOV - Schools in several Italian cities received emails with bomb threats on Monday, the latest in a wave of such messages, but as the time of writing there were no reports of any schools having been evacuated. The interior ministry on Friday sent out a circular letter with guidance on how to deal with threatening messages after thousands of Italian schools received hoax bomb threats last week. The circular letter said that threats sent via bulk email messages, like those that triggered hundreds of buildings to be evacuated on Wednesday and dozens on Thursday, should not be c",
-          "pubDate": "Mon, 16 Nov 2026 12:26:45 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "New wave of bomb threats to Italian schools, no evacuations"
-        },
-        {
-          "title": "New wave of bomb threats to Italian schools, no evacuations",
-          "link": "https://www.ansa.it/english/news/2026/11/16/new-wave-of-bomb-threats-to-italian-schools-no-evacuations_0b40a9b8-e37f-4a60-b884-6fd3ac86394b.html",
-          "description": "(ANSA) - ROME, 16 NOV - Schools in several Italian cities received emails with bomb threats on Monday, the latest in a wave of such messages, but as the time of writing there were no reports of any schools having been evacuated. The interior ministry on Friday sent out a circular letter with guidance on how to deal with threatening messages after thousands of Italian schools received hoax bomb threats last week. The circular letter said that threats sent via bulk email messages, like those that triggered hundreds of buildings to be evacuated on Wednesday and dozens on Thursday, should not be c",
-          "pubDate": "Mon, 16 Nov 2026 12:08:21 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "New wave of bomb threats to Italian schools, no evacuations"
-        },
-        {
           "title": "Sudan and Ethiopia trade accusations over armed groups",
           "link": "http://www.africanews.com/2026/11/16/sudan-and-ethiopia-trade-accusations-over-armed-groups/",
           "description": "Tensions between Sudan and Ethiopia have escalated, with each accusing the other of supporting armed groups that wage war within its borders, undermining efforts to resolve the conflicts that have gripped the two neighboring African countries.",
@@ -413,51 +449,6 @@
           "titleIt": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?"
         },
         {
-          "title": "LCCI Hails Dangote As Benchmark , Urges Government To Fix Power , Logistics",
-          "link": "https://leadership.ng/lcci-hails-dangote-as-benchmark-urges-government-to-fix-power-logistics/",
-          "source": "leadership.ng",
-          "pubDate": "2026-11-12T07:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "LCCI Hails Dangote As Benchmark , Urges Government To Fix Power , Logistics"
-        },
-        {
-          "title": "NASCON Unveils New Seasonings As Dangote Deepens Commitment To Local Production",
-          "link": "https://leadership.ng/nascon-unveils-new-seasonings-as-dangote-deepens-commitment-to-local-production/",
-          "source": "leadership.ng",
-          "pubDate": "2026-11-12T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "NASCON Unveils New Seasonings As Dangote Deepens Commitment To Local Production"
-        },
-        {
-          "title": "Egypt Regions and Provinces Explained",
-          "link": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-12T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Regions and Provinces Explained"
-        },
-        {
-          "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
-          "link": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-12T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
-        },
-        {
-          "title": "Tanzanian Opposition Leader Lissu Sentenced to Prison",
-          "link": "https://foreignpolicy.com/2026/11/11/tanzania-samia-hassan-lissu-chadema-sentence/",
-          "source": "foreignpolicy.com",
-          "pubDate": "2026-11-12T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Tanzanian Opposition Leader Lissu Sentenced to Prison"
-        },
-        {
           "title": "From Jersey to Somalia... via Liverpool & Man City",
           "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
@@ -465,106 +456,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "From Jersey to Somalia... via Liverpool & Man City"
-        },
-        {
-          "title": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight",
-          "link": "https://www.wsws.org/en/articles/2026/11/10/uael-n10.html",
-          "source": "wsws.org",
-          "pubDate": "2026-11-11T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight"
-        },
-        {
-          "title": "Ethiopia Naval Chief Issues Stark Red Sea Warning : Military Force Remains an Option if Diplomacy Fails",
-          "link": "https://wardheernews.com/ethiopias-naval-chief-issues-stark-red-sea-warning-military-force-remains-an-option-if-diplomacy-fails/",
-          "source": "wardheernews.com",
-          "pubDate": "2026-11-11T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Naval Chief Issues Stark Red Sea Warning : Military Force Remains an Option if Diplomacy Fails"
-        },
-        {
-          "title": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia",
-          "link": "https://allafrica.com/stories/202611100043.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-10T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia"
-        }
-      ]
-    },
-    "egypt-economy": {
-      "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "“Italians in Egypt: History, Identity, and Memory,” Conversations in Cairo",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/16/italians-in-egypt-history-identity-and-memory-conversations-in-cairo_99a71712-7e74-4d06-8be5-26336178e6fb.html",
-          "description": "(ANSA) - IL CAIRO, 16 NOV - For many Italians, especially during certain periods of history, Egypt has been a second homeland—a place to seek fortune, inspiration, or even just a job. Others were born there by chance, absorbing its atmosphere and landscapes, as well as worldviews from both sides of the Mediterranean. This was the case for Giuseppe Ungaretti and Filippo Tommaso Marinetti, who were born in Alexandria. But many others left their mark here: architects, archaeologists, merchants, philanthropists, as well as ordinary bricklayers, bakers, and laborers who worked on the Suez Canal. We",
-          "pubDate": "Mon, 16 Nov 2026 14:27:20 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "“Italians in Egypt: History, Identity, and Memory,” Conversations in Cairo"
-        }
-      ]
-    },
-    "gerd-opacity": {
-      "title": "Opacità sui rilasci GERD",
-      "items": [
-        {
-          "title": "Sudan: 2,230 Civilian Deaths in Sudan in 10 Months, Most From Drone Strikes - UN",
-          "link": "https://allafrica.com/stories/202611180005.html",
-          "description": "[Dabanga] Amsterdam / Geneva -- At least 2,230 civilians were killed in Sudan between January and October 2026, including more than 1,630 in drone strikes, according to the UN Human Rights Office. Its latest findings point to the growing role of drones in the war, with attacks increasingly reaching beyond the front lines to strike markets, hospitals, schools, and infrastructure essential to civilian survival.",
-          "pubDate": "Wed, 18 Nov 2026 04:44:20 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Sudan: 2,230 Civilian Deaths in Sudan in 10 Months, Most From Drone Strikes - UN"
-        },
-        {
-          "title": "Sudan and Ethiopia trade accusations over armed groups",
-          "link": "http://www.africanews.com/2026/11/16/sudan-and-ethiopia-trade-accusations-over-armed-groups/",
-          "description": "Tensions between Sudan and Ethiopia have escalated, with each accusing the other of supporting armed groups that wage war within its borders, undermining efforts to resolve the conflicts that have gripped the two neighboring African countries.",
-          "pubDate": "Mon, 16 Nov 2026 07:41:58 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Sudan and Ethiopia trade accusations over armed groups"
-        },
-        {
-          "title": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary",
-          "link": "https://allafrica.com/stories/202611130515.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-13T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary"
-        },
-        {
-          "title": "Egypt Regions and Provinces Explained",
-          "link": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-12T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Regions and Provinces Explained"
-        },
-        {
-          "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
-          "link": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-12T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
-        },
-        {
-          "title": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia",
-          "link": "https://allafrica.com/stories/202611100043.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-10T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia"
         },
         {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
@@ -576,13 +467,85 @@
           "titleIt": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims"
         },
         {
-          "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
-          "link": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
-          "source": "aljazeera.com",
-          "pubDate": "2026-11-03T11:15:00Z",
+          "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
+          "link": "https://hornobserver.com/articles/3801/Editorial-Somalias-Security-Dilemma-Can-a-Nation-Dependent-on-Foreign-Forces-Defend-Itself",
+          "description": "For years, international partners have helped Somalia fight Al-Shabaab, train troops and strengthen its security institutions. Yet this support has also exposed a serious weakness: the country's security remains deeply dependent on external funding, equipment, training and political commitments. The withdrawal of Ugandan forces from several forward operating bases in Lower Shabelle has brought this challenge into sharper focus. Somali forces are expected to assume greater responsibility, but concerns remain about whether they have the personnel, equipment, experience and financial resources to",
+          "pubDate": "Wed, 04 Nov 2026 10:41:44 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia"
+          "titleIt": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?"
+        },
+        {
+          "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
+          "link": "https://hornobserver.com/articles/3799/More-than-175-000-affected-by-floods-as-Somalia-faces-further-heavy-rains",
+          "description": "Gaalkacyo, Abudwaq and Baidoa were among the hardest-hit areas. Area-Based Coordination teams reported that floods destroyed 1,515 shelters and damaged another 4,498 during the month. Floodwaters also damaged or inundated 2,110 latrines, 137 water points, 72 schools and 55 health facilities, disrupting access to essential services. Water levels in the Shabelle River rose significantly during the final week of October, approaching moderate flood-risk thresholds in Belet Weyne district in Hiraan region. Levels also increased in Bulo Burto, while the Juba River remained relatively low. The Food a",
+          "pubDate": "Sun, 01 Nov 2026 18:22:12 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "More than 175,000 affected by floods as Somalia faces further heavy rains"
+        },
+        {
+          "title": "U.S. adds Somalia to port security watch list amid Trump's escalating criticism of Somali community",
+          "link": "https://hornobserver.com/articles/3798/US-adds-Somalia-to-port-security-watch-list-amid-Trumps-escalating-criticism-of-Somali-community",
+          "description": "The U.S. Coast Guard announced the designation in a Federal Register notice published October.27, 2026 and&nbsp; took effect upon announcement. The measure allows U.S. authorities to impose additional entry requirements on vessels arriving from Somali ports. The announcement comes against the backdrop of Trump's increasingly hostile rhetoric toward Somalis and his repeated attacks on Democratic Rep. Ilhan Omar, a Somali-born U.S. citizen representing Minnesota.&nbsp; Trump has also repeatedly targeted Somali immigrants in Minnesota, at times making sweeping negative statements about the commun",
+          "pubDate": "Sat, 31 Oct 2026 21:17:23 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "U.S. adds Somalia to port security watch list amid Trump's escalating criticism of Somali community"
+        },
+        {
+          "title": "Uganda Begins Somalia Troop Withdrawal as Ethiopia Weighs Pullback",
+          "link": "https://hornobserver.com/articles/3796/Uganda-Begins-Somalia-Troop-Withdrawal-as-Ethiopia-Weighs-Pullback",
+          "description": "&nbsp; As we promised, we have started withdrawing UPDF from Somalia. After 20 years of a lot of blood and sacrifice we are handing over security to our Somali brothers.— Muhoozi Kainerugaba (@mkainerugaba) October 29, 2026 // &nbsp; On Wednesday, Gen. Muhoozi Kainerugaba, Uganda's chief of defence forces, said Uganda had begun withdrawing its troops from Somalia. \"After 20 years of a lot of blood and sacrifice, we are handing over security to our Somali brothers,\" Kainerugaba said. The move comes amid renewed fighting in southern Somalia and uncertainty over the future of international securi",
+          "pubDate": "Thu, 29 Oct 2026 21:44:21 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Uganda Begins Somalia Troop Withdrawal as Ethiopia Weighs Pullback"
+        }
+      ]
+    },
+    "egypt-economy": {
+      "title": "Fragilità economica egiziana",
+      "items": []
+    },
+    "gerd-opacity": {
+      "title": "Opacità sui rilasci GERD",
+      "items": [
+        {
+          "title": "Ethiopia: Power Without Transparency - Who Holds Ethiopia's Media Regulator Accountable When It Silences the Press?",
+          "link": "https://allafrica.com/stories/202611180491.html",
+          "description": "[Addis Standard] On 2 November 2026, the Ethiopian Media Authority (EMA) announced the indefinite suspension of the registration certificate of Media and Communication Center PLC, the publisher of the Amharic-language Reporter and the English-language The Reporter, and their digital platforms. One of Ethiopia's longest-established independent media organizations was brought to a halt. That raises a question bigger than one publisher: who holds the media regulator accountable when it uses its power to silence an entire",
+          "pubDate": "Wed, 18 Nov 2026 15:41:25 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Power Without Transparency - Who Holds Ethiopia's Media Regulator Accountable When It Silences the Press?"
+        },
+        {
+          "title": "Ethiopia: Ethiopia-Eritrea Border Clashes Raise Fears of Regional War",
+          "link": "https://allafrica.com/stories/202611180081.html",
+          "description": "[DW] As Ethiopian troops push Tigrayan forces toward the Eritrean border, fears of a new regional war are growing. With tensions rising between Ethiopia, Eritrea and Sudan, the Horn of Africa faces uncertain times ahead.",
+          "pubDate": "Wed, 18 Nov 2026 06:54:50 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Ethiopia-Eritrea Border Clashes Raise Fears of Regional War"
+        },
+        {
+          "title": "Sudan and Ethiopia trade accusations over armed groups",
+          "link": "http://www.africanews.com/2026/11/16/sudan-and-ethiopia-trade-accusations-over-armed-groups/",
+          "description": "Tensions between Sudan and Ethiopia have escalated, with each accusing the other of supporting armed groups that wage war within its borders, undermining efforts to resolve the conflicts that have gripped the two neighboring African countries.",
+          "pubDate": "Mon, 16 Nov 2026 07:41:58 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Sudan and Ethiopia trade accusations over armed groups"
+        },
+        {
+          "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
+          "link": "https://hornobserver.com/articles/3803/From-Abu-Dhabi-to-Beledweyne-Sanbaloolshe-Names-Irro-Deni-and-Madobe-in-Opposition-Alliance-Claims",
+          "description": "On November 6, two prominent political figures arrived in Beledweyne accompanied by armed escorts, intensifying a confrontation over Hirshabelle's leadership. Abdifatah Hassan Afrah, the regional vice president, entered the city amid a dispute involving traditional elders, political figures and armed groups challenging the administration. Abdullahi Mohamed Ali Rage, widely known as Sanbaloolshe, a former director of Somalia's National Intelligence and Security Agency (NISA) and a federal lawmaker, arrived through Feerfeer near the Ethiopian border, accompanied by armed personnel and military v",
+          "pubDate": "Mon, 09 Nov 2026 12:15:18 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims"
         },
         {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
@@ -592,105 +555,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
-        },
-        {
-          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
-          "link": "https://www.thereporterethiopia.com/53621/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-24T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
-        },
-        {
-          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
-          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
-          "source": "warontherocks.com",
-          "pubDate": "2026-10-21T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
-        },
-        {
-          "title": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal",
-          "link": "https://chimpreports.com/ethiopias-abiy-pushes-nuclear-power-development-after-russia-deal/",
-          "source": "chimpreports.com",
-          "pubDate": "2026-10-21T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal"
-        },
-        {
-          "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
-          "link": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-10-20T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
-          "source": "newsday.com",
-          "pubDate": "2026-10-20T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
-          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-20T02:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
-          "source": "sitkasentinel.com",
-          "pubDate": "2026-10-19T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
-          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
-          "source": "wral.com",
-          "pubDate": "2026-10-19T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
-          "source": "thepeterboroughexaminer.com",
-          "pubDate": "2026-10-19T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
-          "source": "niagarafallsreview.ca",
-          "pubDate": "2026-10-19T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
-          "source": "arabnews.com",
-          "pubDate": "2026-10-19T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
         }
       ]
     }
