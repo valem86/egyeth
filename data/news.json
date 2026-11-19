@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:27:00.522Z",
+  "generatedAt": "2026-11-19T20:43:30.402Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -7,31 +7,22 @@
       "title": "Accordi Egitto-Somalia",
       "items": [
         {
+          "title": "De Pedys, ‘The Mediterranean: A Crossroads of Digital Data; Defending It Means Cybersecurity’",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/19/de-pedys-the-mediterranean-a-crossroads-of-digital-data-defending-it-means-cybersecurity_fd087921-4147-473a-89dc-4b61e0c44f5f.html",
+          "description": "(ANSA) - NAPOLI, 19 NOV - “The Mediterranean dimension is important because more than 95% of data now travels through undersea cables, and the Mediterranean is the crossroads for this data. If you look at the geography, you’ll see that almost all communications between Asia and Europe currently pass through the cables laid in the Red Sea—whether they exit in Egypt or return to the Mediterranean—making it an absolutely crucial point: for this reason, the defense, management, and monitoring of this infrastructure constitute cyber defense in every sense of the word.” Alessandro De Pedys, Director",
+          "pubDate": "Thu, 19 Nov 2026 15:13:37 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "De Pedys, ‘The Mediterranean: A Crossroads of Digital Data; Defending It Means Cybersecurity’"
+        },
+        {
           "title": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum",
           "link": "http://www.africanews.com/2026/11/19/egypt-secures-23-billion-imf-deal-as-economic-recovery-gains-momentum/",
           "description": "The agreement comes as Egypt shows signs of economic recovery, with GDP growth reaching 5.1 percent in the 2025–2026 fiscal year, supported by stronger activity in tourism, manufacturing and the Suez Canal.",
-          "pubDate": "Thu, 19 Nov 2026 09:34:00 +0000",
+          "pubDate": "Thu, 19 Nov 2026 13:35:49 +0000",
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum"
-        },
-        {
-          "title": "Somalia: Somalia Alone Votes Against UN Draft On Violence Against Women",
-          "link": "https://allafrica.com/stories/202611180651.html",
-          "description": "[Horn Diplomat] Somalia cast the only vote against a United Nations draft resolution aimed at strengthening efforts to prevent and eliminate violence against women and girls, while 175 countries supported the measure and six abstained.",
-          "pubDate": "Wed, 18 Nov 2026 17:56:53 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia Alone Votes Against UN Draft On Violence Against Women"
-        },
-        {
-          "title": "Egypt: CPJ Urges Congress to Raise Press Freedom Violations With Egypt Foreign Minister",
-          "link": "https://allafrica.com/stories/202611180496.html",
-          "description": "[CPJ] On Tuesday, the Committee to Protect Journalists sent a letter to members of the U.S. Congress, urging lawmakers to raise Egypt's unprecedented decline in press freedom during Egyptian Foreign Minister Badr Abdelatty's visit to Washington, D.C. this week. The letter called on Congress to use all available diplomatic tools, including U.S. Foreign Military Financing (FMF), to press Egypt to end its criminalization of independent journalism.",
-          "pubDate": "Wed, 18 Nov 2026 15:42:26 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Egypt: CPJ Urges Congress to Raise Press Freedom Violations With Egypt Foreign Minister"
         },
         {
           "title": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful",
@@ -174,22 +165,31 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Somalia: Somalia Alone Votes Against UN Draft On Violence Against Women",
-          "link": "https://allafrica.com/stories/202611180651.html",
-          "description": "[Horn Diplomat] Somalia cast the only vote against a United Nations draft resolution aimed at strengthening efforts to prevent and eliminate violence against women and girls, while 175 countries supported the measure and six abstained.",
-          "pubDate": "Wed, 18 Nov 2026 17:56:53 GMT",
+          "title": "Ethiopia: Overnight Drone, Artillery Strikes Reported Around Badme Amid Ethiopian, Eritrean Military Buildup",
+          "link": "https://allafrica.com/stories/202611190377.html",
+          "description": "[Addis Standard] Addis Abeba -- Intense overnight drone strikes and heavy artillery bombardments were reported in areas surrounding the border town of Badme, as Ethiopian and Eritrean forces continued building up military positions along their shared border, raising fears of a sustained direct confrontation between the two countries.",
+          "pubDate": "Thu, 19 Nov 2026 16:05:59 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: Somalia Alone Votes Against UN Draft On Violence Against Women"
+          "titleIt": "Ethiopia: Overnight Drone, Artillery Strikes Reported Around Badme Amid Ethiopian, Eritrean Military Buildup"
         },
         {
-          "title": "Kenya: Ruto Promises Public Order Reforms, Accountability for Police Abuses",
-          "link": "https://allafrica.com/stories/202611180495.html",
-          "description": "[Capital FM] Nairobi -- President William Ruto has pledged reforms in public order management, promising improved police training, operational oversight and accountability amid mounting scrutiny over deaths and injuries during protests and confrontations with security agencies.",
-          "pubDate": "Wed, 18 Nov 2026 15:41:51 GMT",
+          "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+          "link": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
+          "description": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn).",
+          "pubDate": "Thu, 19 Nov 2026 12:56:30 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "US consortium wins huge Kenya mining deal, beating Chinese rivals"
+        },
+        {
+          "title": "Kenya: Deadly Building Collapses Expose Regulatory Failures",
+          "link": "https://allafrica.com/stories/202611190211.html",
+          "description": "[Capital FM] Nairobi -- Kenya's growing trail of deadly building collapses is exposing deep failures in construction regulation, with fresh revelations of forged approval documents in Eastleigh and unanswered safety concerns surrounding Bridge Port Apartments in South C raising questions about the safety of property buyers and occupants.",
+          "pubDate": "Thu, 19 Nov 2026 10:44:43 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Kenya: Ruto Promises Public Order Reforms, Accountability for Police Abuses"
+          "titleIt": "Kenya: Deadly Building Collapses Expose Regulatory Failures"
         },
         {
           "title": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful",
@@ -219,24 +219,6 @@
           "titleIt": "Somalian Government must respect judicial independence and rule of law: UN experts"
         },
         {
-          "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
-          "link": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-12T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
-        },
-        {
-          "title": "America 250 : Trump Issues  Victory Day for WWI  Message – PJ Media",
-          "link": "https://pjmedia.com/catherinesalgado/2026/11/11/america-250-trump-issues-victory-day-for-wwi-message-n4959266",
-          "source": "pjmedia.com",
-          "pubDate": "2026-11-12T03:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "America 250 : Trump Issues  Victory Day for WWI  Message – PJ Media"
-        },
-        {
           "title": "From Jersey to Somalia... via Liverpool & Man City",
           "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
           "description": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
@@ -244,33 +226,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "From Jersey to Somalia... via Liverpool & Man City"
-        },
-        {
-          "title": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight",
-          "link": "https://www.wsws.org/en/articles/2026/11/10/uael-n10.html",
-          "source": "wsws.org",
-          "pubDate": "2026-11-11T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight"
-        },
-        {
-          "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-          "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
-          "description": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
-          "pubDate": "Wed, 11 Nov 2026 00:18:07 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "'It can kill us': Kenyans fear impact of El Niño with floods predicted"
-        },
-        {
-          "title": "Somalia : Somaliland President Honours Officer Who Handed Over Suspect in Brother Killing",
-          "link": "https://allafrica.com/stories/202611100061.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-10T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland President Honours Officer Who Handed Over Suspect in Brother Killing"
         },
         {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
@@ -334,24 +289,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
-        },
-        {
-          "title": "Somaliland journalist detained after interviewing Somalia presidential hopeful",
-          "link": "https://horseedmedia.net/somaliland-journalist-detained-after-interviewing-somalia-presidential-hopeful/426800/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-10-24T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland journalist detained after interviewing Somalia presidential hopeful"
-        },
-        {
-          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
-          "link": "https://www.thereporterethiopia.com/53621/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-24T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
         }
       ]
     },
@@ -359,31 +296,49 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Meloni leaves Coalition of Willing summit on time, evening meeting on budget",
+          "link": "https://www.ansa.it/english/news/politics/2026/11/19/meloni-leaves-coalition-of-willing-summit-on-time-evening-meeting-on-budget_113b6f45-0fcc-4436-b573-5cfa24a77f4a.html",
+          "description": "(ANSA) - ROME, 19 NOV - Prime Minister Giorgia Meloni left the 'Coalition of the Willing' summit—currently underway in Berlin—after it ended on time and will participate this evening in a video conference with her governing coalition regarding the national budget bill for next year, political sources said. It had erroneously been reported that the premier would be leacing an hour early. There has been some tension within the ruling coalition about some measures in the package. (ANSA). Read article...",
+          "pubDate": "Thu, 19 Nov 2026 18:03:29 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Meloni leaves Coalition of Willing summit on time, evening meeting on budget"
+        },
+        {
+          "title": "Meloni leaves Coalition of Willing summit on time, evening meeting on budget",
+          "link": "https://www.ansa.it/english/news/2026/11/19/meloni-leaves-coalition-of-willing-summit-on-time-evening-meeting-on-budget_3c24a132-498d-409f-8180-bcdc98b60eb1.html",
+          "description": "(ANSA) - ROME, 19 NOV - Prime Minister Giorgia Meloni left the 'Coalition of the Willing' summit—currently underway in Berlin—after it ended on time and will participate this evening in a video conference with her governing coalition regarding the national budget bill for next year, political sources said. It had erroneously been reported that the premier would be leacing an hour early. There has been some tension within the ruling coalition about some measures in the package. (ANSA). Read article...",
+          "pubDate": "Thu, 19 Nov 2026 18:03:03 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Meloni leaves Coalition of Willing summit on time, evening meeting on budget"
+        },
+        {
+          "title": "Ethiopia: Overnight Drone, Artillery Strikes Reported Around Badme Amid Ethiopian, Eritrean Military Buildup",
+          "link": "https://allafrica.com/stories/202611190377.html",
+          "description": "[Addis Standard] Addis Abeba -- Intense overnight drone strikes and heavy artillery bombardments were reported in areas surrounding the border town of Badme, as Ethiopian and Eritrean forces continued building up military positions along their shared border, raising fears of a sustained direct confrontation between the two countries.",
+          "pubDate": "Thu, 19 Nov 2026 16:05:59 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Overnight Drone, Artillery Strikes Reported Around Badme Amid Ethiopian, Eritrean Military Buildup"
+        },
+        {
           "title": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum",
           "link": "http://www.africanews.com/2026/11/19/egypt-secures-23-billion-imf-deal-as-economic-recovery-gains-momentum/",
           "description": "The agreement comes as Egypt shows signs of economic recovery, with GDP growth reaching 5.1 percent in the 2025–2026 fiscal year, supported by stronger activity in tourism, manufacturing and the Suez Canal.",
-          "pubDate": "Thu, 19 Nov 2026 09:34:00 +0000",
+          "pubDate": "Thu, 19 Nov 2026 13:35:49 +0000",
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum"
         },
         {
-          "title": "Somalia: Somalia Alone Votes Against UN Draft On Violence Against Women",
-          "link": "https://allafrica.com/stories/202611180651.html",
-          "description": "[Horn Diplomat] Somalia cast the only vote against a United Nations draft resolution aimed at strengthening efforts to prevent and eliminate violence against women and girls, while 175 countries supported the measure and six abstained.",
-          "pubDate": "Wed, 18 Nov 2026 17:56:53 GMT",
+          "title": "Ethiopia: Red Cross Warns of Worsening Humanitarian Crisis in Oromia",
+          "link": "https://allafrica.com/stories/202611190303.html",
+          "description": "[Addis Standard] Addis Abeba -- The International Committee of the Red Cross (ICRC) has warned that the humanitarian situation in Ethiopia's Oromia region is deteriorating amid persistent armed conflict, deadly civilian attacks and growing displacement, saying it is struggling to reach all communities affected by the escalating insecurity.",
+          "pubDate": "Thu, 19 Nov 2026 13:20:07 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Somalia: Somalia Alone Votes Against UN Draft On Violence Against Women"
-        },
-        {
-          "title": "Ethiopia: In-Depth Analysis - Emptied of Civilians, No End in Sight - How the Escalating Moyale Conflict Is Deepening a Humanitarian Crisis",
-          "link": "https://allafrica.com/stories/202611180487.html",
-          "description": "[Addis Standard] Addis Abeba -- Once a bustling border town sustained by cross-border commerce, pastoralist livelihoods and closely interconnected communities, Moyale is increasingly being emptied of its civilian population as escalating clashes between Oromia and Somali regional forces drive residents from their homes, disrupt economic activity and push tens of thousands across the border into Kenya.",
-          "pubDate": "Wed, 18 Nov 2026 15:39:16 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: In-Depth Analysis - Emptied of Civilians, No End in Sight - How the Escalating Moyale Conflict Is Deepening a Humanitarian Crisis"
+          "titleIt": "Ethiopia: Red Cross Warns of Worsening Humanitarian Crisis in Oromia"
         },
         {
           "title": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful",
@@ -393,33 +348,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful"
-        },
-        {
-          "title": "Tajani presents 2026 edition of Week of Italian Cuisine in the World",
-          "link": "https://www.ansa.it/english/news/lifestyle/food_wine/2026/11/17/tajani-presents-2026-edition-of-week-of-italian-cuisine-in-the-world_6a1540e8-c5ae-4866-88ca-494cd048e782.html",
-          "description": "(ANSA) - ROME, 17 NOV - Foreign Minister Antonio Tajani on Tuesday presented the 2026 edition of the Week of Italian Cuisine in the World which features 770 events at all Italian embassies and consulates around the globe. \"Supporting Italian cuisine around the world is part of a strategic vision aimed at promoting our country; the more a key sector like agri-food grows, the more our economy grows,\" said Tajani, who is also deputy premier, at the presentation at the Ministry of Foreign Affairs in Rome. \"Cuisine is a vital tool for supporting our agri-food exports,\" which have risen from 60 to 7",
-          "pubDate": "Tue, 17 Nov 2026 14:01:25 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Tajani presents 2026 edition of Week of Italian Cuisine in the World"
-        },
-        {
-          "title": "Tajani presents 2026 edition of Week of Italian Cuisine in the World",
-          "link": "https://www.ansa.it/english/news/2026/11/17/tajani-presents-2026-edition-of-week-of-italian-cuisine-in-the-world_1a5adab4-f4e6-436b-912e-120d4e9a7998.html",
-          "description": "(ANSA) - ROME, 17 NOV - Foreign Minister Antonio Tajani on Tuesday presented the 2026 edition of the Week of Italian Cuisine in the World which features 770 events at all Italian embassies and consulates around the globe. \"Supporting Italian cuisine around the world is part of a strategic vision aimed at promoting our country; the more a key sector like agri-food grows, the more our economy grows,\" said Tajani, who is also deputy premier, at the presentation at the Ministry of Foreign Affairs in Rome. \"Cuisine is a vital tool for supporting our agri-food exports,\" which have risen from 60 to 7",
-          "pubDate": "Tue, 17 Nov 2026 13:59:38 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Tajani presents 2026 edition of Week of Italian Cuisine in the World"
-        },
-        {
-          "title": "Botswana and Ivory Coast sign mining, energy and trade deals",
-          "link": "http://www.africanews.com/2026/11/17/botswana-and-ivory-coast-sign-mining-energy-and-trade-deals/",
-          "description": "Botswana’s President Duma Boko arrived in Abidjan on Monday at the start of a three-day state visit. He was welcomed to the presidential palace by Ivorian leader Alassane Outtara. The two men signed a number of agreements spanning mining, energy, agriculture and trade.",
-          "pubDate": "Tue, 17 Nov 2026 09:25:46 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Botswana and Ivory Coast sign mining, energy and trade deals"
         },
         {
           "title": "AU Chief Urges African Leaders to Create More Opportunities for Young People",
@@ -529,181 +457,10 @@
           "title": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum",
           "link": "http://www.africanews.com/2026/11/19/egypt-secures-23-billion-imf-deal-as-economic-recovery-gains-momentum/",
           "description": "The agreement comes as Egypt shows signs of economic recovery, with GDP growth reaching 5.1 percent in the 2025–2026 fiscal year, supported by stronger activity in tourism, manufacturing and the Suez Canal.",
-          "pubDate": "Thu, 19 Nov 2026 09:34:00 +0000",
+          "pubDate": "Thu, 19 Nov 2026 13:35:49 +0000",
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum"
-        },
-        {
-          "title": "Thus , several successive wins in one single twist try youll be able to Boxing News - Boxing , UFC and MMA News , Fight Results , Schedule , Rankings , Videos and More",
-          "link": "https://www.15rounds.com/2026/11/18/thus-several-successive-wins-in-one-single-twist-try-youll-be-able-to/",
-          "source": "15rounds.com",
-          "pubDate": "2026-11-18T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Thus , several successive wins in one single twist try youll be able to Boxing News - Boxing , UFC and MMA News , Fight Results , Schedule , Rankings , Videos and More"
-        },
-        {
-          "title": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier",
-          "link": "https://www.lebanondemocrat.com/maconcounty/news/national/44-cool-finds-for-holiday-hosting-that-make-entertaining-easier/article_e7177c21-76dc-595c-b3ae-1cd2324b55b0.html",
-          "source": "lebanondemocrat.com",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier"
-        },
-        {
-          "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
-          "link": "https://www.kwit.org/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
-          "source": "kwit.org",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet"
-        },
-        {
-          "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
-          "link": "https://news.prairiepublic.org/news-from-npr/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
-          "source": "news.prairiepublic.org",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet"
-        },
-        {
-          "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
-          "link": "https://www.thisiswiltshire.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
-          "source": "thisiswiltshire.co.uk",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation"
-        },
-        {
-          "title": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier",
-          "link": "https://www.hometownregister.com/news/national/44-cool-finds-for-holiday-hosting-that-make-entertaining-easier/article_df9af3b4-f2f0-5a91-a608-9c068ee28795.html",
-          "source": "hometownregister.com",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier"
-        },
-        {
-          "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
-          "link": "https://www.kazu.org/npr-news/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
-          "source": "kazu.org",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet"
-        },
-        {
-          "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
-          "link": "https://www.guardian-series.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
-          "source": "guardian-series.co.uk",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation"
-        },
-        {
-          "title": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier",
-          "link": "https://www.wyomingnewsnow.tv/news/national/44-cool-finds-for-holiday-hosting-that-make-entertaining-easier/article_8c592b45-0c09-5ad2-9996-ed3728b2143b.html",
-          "source": "wyomingnewsnow.tv",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier"
-        },
-        {
-          "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
-          "link": "https://www.wiltsglosstandard.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
-          "source": "wiltsglosstandard.co.uk",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation"
-        },
-        {
-          "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
-          "link": "https://www.harrowtimes.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
-          "source": "harrowtimes.co.uk",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation"
-        },
-        {
-          "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
-          "link": "https://www.hexham-courant.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
-          "source": "hexham-courant.co.uk",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation"
-        },
-        {
-          "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
-          "link": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
-          "source": "richmondandtwickenhamtimes.co.uk",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation"
-        },
-        {
-          "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
-          "link": "https://www.publicradiotulsa.org/npr-national-news/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
-          "source": "publicradiotulsa.org",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet"
-        },
-        {
-          "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
-          "link": "https://www.kccu.org/world/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
-          "source": "kccu.org",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet"
-        },
-        {
-          "title": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier",
-          "link": "https://www.bransontrilakesnews.com/news/national/article_73bce543-2352-52ea-87c5-d52a565ae1a0.html",
-          "source": "bransontrilakesnews.com",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier"
-        },
-        {
-          "title": "Syria continues diplomatic outreach as two killed in countryside explosion",
-          "link": "https://www.jpost.com/middle-east/article-914909",
-          "source": "jpost.com",
-          "pubDate": "2026-11-15T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Syria continues diplomatic outreach as two killed in countryside explosion"
-        },
-        {
-          "title": "Money , spies and Al Jazeera : How Qatar intelligence services wield power",
-          "link": "https://www.ynetnews.com/article/syqkfq80gx",
-          "source": "ynetnews.com",
-          "pubDate": "2026-11-15T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Money , spies and Al Jazeera : How Qatar intelligence services wield power"
-        },
-        {
-          "title": "Telecom Egypt Net Profit Rises 44 % to EGP 24 . 4 Billion",
-          "link": "https://cairoscene.com/News/Telecom-Egypt-s-Net-Profit-Rises-44-to-EGP-24-4-Billion",
-          "source": "cairoscene.com",
-          "pubDate": "2026-11-15T07:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Telecom Egypt Net Profit Rises 44 % to EGP 24 . 4 Billion"
         }
       ]
     },
@@ -711,13 +468,58 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
+          "title": "De Pedys, ‘The Mediterranean: A Crossroads of Digital Data; Defending It Means Cybersecurity’",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/19/de-pedys-the-mediterranean-a-crossroads-of-digital-data-defending-it-means-cybersecurity_fd087921-4147-473a-89dc-4b61e0c44f5f.html",
+          "description": "(ANSA) - NAPOLI, 19 NOV - “The Mediterranean dimension is important because more than 95% of data now travels through undersea cables, and the Mediterranean is the crossroads for this data. If you look at the geography, you’ll see that almost all communications between Asia and Europe currently pass through the cables laid in the Red Sea—whether they exit in Egypt or return to the Mediterranean—making it an absolutely crucial point: for this reason, the defense, management, and monitoring of this infrastructure constitute cyber defense in every sense of the word.” Alessandro De Pedys, Director",
+          "pubDate": "Thu, 19 Nov 2026 15:13:37 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "De Pedys, ‘The Mediterranean: A Crossroads of Digital Data; Defending It Means Cybersecurity’"
+        },
+        {
           "title": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum",
           "link": "http://www.africanews.com/2026/11/19/egypt-secures-23-billion-imf-deal-as-economic-recovery-gains-momentum/",
           "description": "The agreement comes as Egypt shows signs of economic recovery, with GDP growth reaching 5.1 percent in the 2025–2026 fiscal year, supported by stronger activity in tourism, manufacturing and the Suez Canal.",
-          "pubDate": "Thu, 19 Nov 2026 09:34:00 +0000",
+          "pubDate": "Thu, 19 Nov 2026 13:35:49 +0000",
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum"
+        },
+        {
+          "title": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary",
+          "link": "https://allafrica.com/stories/202611130515.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-11-13T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary"
+        },
+        {
+          "title": "Egypt Regions and Provinces Explained",
+          "link": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-11-12T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Egypt Regions and Provinces Explained"
+        },
+        {
+          "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
+          "link": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-11-12T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
+        },
+        {
+          "title": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia",
+          "link": "https://allafrica.com/stories/202611100043.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-11-10T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia"
         },
         {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
@@ -729,6 +531,15 @@
           "titleIt": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims"
         },
         {
+          "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+          "link": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
+          "source": "aljazeera.com",
+          "pubDate": "2026-11-03T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia"
+        },
+        {
           "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
           "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
           "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
@@ -736,6 +547,105 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
+        },
+        {
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
+        {
+          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
+          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
+          "source": "warontherocks.com",
+          "pubDate": "2026-10-21T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
+        },
+        {
+          "title": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal",
+          "link": "https://chimpreports.com/ethiopias-abiy-pushes-nuclear-power-development-after-russia-deal/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-10-21T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal"
+        },
+        {
+          "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
+          "link": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-10-20T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
+          "source": "newsday.com",
+          "pubDate": "2026-10-20T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
+          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-20T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
+          "source": "sitkasentinel.com",
+          "pubDate": "2026-10-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
+          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
+          "source": "wral.com",
+          "pubDate": "2026-10-19T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
+          "source": "thepeterboroughexaminer.com",
+          "pubDate": "2026-10-19T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
+          "source": "niagarafallsreview.ca",
+          "pubDate": "2026-10-19T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
+          "source": "arabnews.com",
+          "pubDate": "2026-10-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
         }
       ]
     }
