@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-11-18T17:19:39.745Z",
+  "generatedAt": "2026-11-19T00:26:56.784Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: Somalia Alone Votes Against UN Draft On Violence Against Women",
+          "link": "https://allafrica.com/stories/202611180651.html",
+          "description": "[Horn Diplomat] Somalia cast the only vote against a United Nations draft resolution aimed at strengthening efforts to prevent and eliminate violence against women and girls, while 175 countries supported the measure and six abstained.",
+          "pubDate": "Wed, 18 Nov 2026 17:56:53 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia Alone Votes Against UN Draft On Violence Against Women"
+        },
         {
           "title": "Egypt: CPJ Urges Congress to Raise Press Freedom Violations With Egypt Foreign Minister",
           "link": "https://allafrica.com/stories/202611180496.html",
@@ -23,15 +32,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful"
-        },
-        {
-          "title": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks",
-          "link": "https://allafrica.com/stories/202611170678.html",
-          "description": "[Horn Diplomat] Berbera -- Six crew members rescued after a cargo boat sank near the Bab al-Mandeb Strait have arrived safely at Somaliland's Berbera Port, where medical personnel and emergency teams are providing care, the Somaliland Ports Authority said on Tuesday.",
-          "pubDate": "Tue, 17 Nov 2026 17:54:17 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks"
         },
         {
           "title": "From Jersey to Somalia... via Liverpool & Man City",
@@ -165,6 +165,33 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Kenya: Road Upgrade Eases Farmers' Access to Markets Along Waunifor-Flax Road",
+          "link": "https://allafrica.com/stories/202611180678.html",
+          "description": "[Capital FM] Nairobi -- Waunifor-Flax Road winding through productive agricultural land. The road is strengthening connectivity for farming communities, easing the transportation of tea, milk and other agricultural produce to markets while linking residents to wider economic opportunities.",
+          "pubDate": "Wed, 18 Nov 2026 18:15:55 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Road Upgrade Eases Farmers' Access to Markets Along Waunifor-Flax Road"
+        },
+        {
+          "title": "Kenya: Ruto Tells Parliament Nairobi-Mombasa Highway Dualling Plan At Advanced Stage",
+          "link": "https://allafrica.com/stories/202611180660.html",
+          "description": "[Capital FM] Nairobi -- President William Ruto says plans to dual the Nairobi-Mombasa Highway have reached an advanced stage, with the government targeting the expansion of the approximately 460-kilometre corridor as part of a wider programme to improve transport infrastructure and lower the cost of doing business.",
+          "pubDate": "Wed, 18 Nov 2026 18:02:19 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Ruto Tells Parliament Nairobi-Mombasa Highway Dualling Plan At Advanced Stage"
+        },
+        {
+          "title": "Somalia: Somalia Alone Votes Against UN Draft On Violence Against Women",
+          "link": "https://allafrica.com/stories/202611180651.html",
+          "description": "[Horn Diplomat] Somalia cast the only vote against a United Nations draft resolution aimed at strengthening efforts to prevent and eliminate violence against women and girls, while 175 countries supported the measure and six abstained.",
+          "pubDate": "Wed, 18 Nov 2026 17:56:53 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia Alone Votes Against UN Draft On Violence Against Women"
+        },
+        {
           "title": "Kenya: Ruto Promises Public Order Reforms, Accountability for Police Abuses",
           "link": "https://allafrica.com/stories/202611180495.html",
           "description": "[Capital FM] Nairobi -- President William Ruto has pledged reforms in public order management, promising improved police training, operational oversight and accountability amid mounting scrutiny over deaths and injuries during protests and confrontations with security agencies.",
@@ -172,15 +199,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Kenya: Ruto Promises Public Order Reforms, Accountability for Police Abuses"
-        },
-        {
-          "title": "Ethiopia: Power Without Transparency - Who Holds Ethiopia's Media Regulator Accountable When It Silences the Press?",
-          "link": "https://allafrica.com/stories/202611180491.html",
-          "description": "[Addis Standard] On 2 November 2026, the Ethiopian Media Authority (EMA) announced the indefinite suspension of the registration certificate of Media and Communication Center PLC, the publisher of the Amharic-language Reporter and the English-language The Reporter, and their digital platforms. One of Ethiopia's longest-established independent media organizations was brought to a halt. That raises a question bigger than one publisher: who holds the media regulator accountable when it uses its power to silence an entire",
-          "pubDate": "Wed, 18 Nov 2026 15:41:25 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Power Without Transparency - Who Holds Ethiopia's Media Regulator Accountable When It Silences the Press?"
         },
         {
           "title": "Ethiopia: El Niño, Iran War Shocks Could Push Nearly One Million More Ethiopians Into Poverty, New Report Warns",
@@ -199,15 +217,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful"
-        },
-        {
-          "title": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks",
-          "link": "https://allafrica.com/stories/202611170678.html",
-          "description": "[Horn Diplomat] Berbera -- Six crew members rescued after a cargo boat sank near the Bab al-Mandeb Strait have arrived safely at Somaliland's Berbera Port, where medical personnel and emergency teams are providing care, the Somaliland Ports Authority said on Tuesday.",
-          "pubDate": "Tue, 17 Nov 2026 17:54:17 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks"
         },
         {
           "title": "AU Chief Urges African Leaders to Create More Opportunities for Young People",
@@ -323,22 +332,13 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Lazio: aerospazio, difesa e sicurezza, nasce Comitato del Distretto industriale e tecnologico (3)",
-          "link": "https://www.agenzianova.com/a/0/8032503/2026-11-18/lazio-aerospazio-difesa-e-sicurezza-nasce-comitato-del-distretto-industriale-e-tecnologico-3",
-          "description": "18 nov 17:59 - (Agenzia Nova) - Un altro asse strategico sara' rappresentato dalle opportunita' di finanziamento europee, a partire dai bandi... (Rer)",
-          "pubDate": "2026-11-18T17:59:13+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Lazio: aerospazio, difesa e sicurezza, nasce Comitato del Distretto industriale e tecnologico (3)"
-        },
-        {
-          "title": "Ethiopia: Power Without Transparency - Who Holds Ethiopia's Media Regulator Accountable When It Silences the Press?",
-          "link": "https://allafrica.com/stories/202611180491.html",
-          "description": "[Addis Standard] On 2 November 2026, the Ethiopian Media Authority (EMA) announced the indefinite suspension of the registration certificate of Media and Communication Center PLC, the publisher of the Amharic-language Reporter and the English-language The Reporter, and their digital platforms. One of Ethiopia's longest-established independent media organizations was brought to a halt. That raises a question bigger than one publisher: who holds the media regulator accountable when it uses its power to silence an entire",
-          "pubDate": "Wed, 18 Nov 2026 15:41:25 GMT",
+          "title": "Somalia: Somalia Alone Votes Against UN Draft On Violence Against Women",
+          "link": "https://allafrica.com/stories/202611180651.html",
+          "description": "[Horn Diplomat] Somalia cast the only vote against a United Nations draft resolution aimed at strengthening efforts to prevent and eliminate violence against women and girls, while 175 countries supported the measure and six abstained.",
+          "pubDate": "Wed, 18 Nov 2026 17:56:53 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Ethiopia: Power Without Transparency - Who Holds Ethiopia's Media Regulator Accountable When It Silences the Press?"
+          "titleIt": "Somalia: Somalia Alone Votes Against UN Draft On Violence Against Women"
         },
         {
           "title": "Ethiopia: In-Depth Analysis - Emptied of Civilians, No End in Sight - How the Escalating Moyale Conflict Is Deepening a Humanitarian Crisis",
@@ -366,24 +366,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful"
-        },
-        {
-          "title": "Ethiopia: Ethiopia-Eritrea Border Clashes Raise Fears of Regional War",
-          "link": "https://allafrica.com/stories/202611180081.html",
-          "description": "[DW] As Ethiopian troops push Tigrayan forces toward the Eritrean border, fears of a new regional war are growing. With tensions rising between Ethiopia, Eritrea and Sudan, the Horn of Africa faces uncertain times ahead.",
-          "pubDate": "Wed, 18 Nov 2026 06:54:50 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia-Eritrea Border Clashes Raise Fears of Regional War"
-        },
-        {
-          "title": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks",
-          "link": "https://allafrica.com/stories/202611170678.html",
-          "description": "[Horn Diplomat] Berbera -- Six crew members rescued after a cargo boat sank near the Bab al-Mandeb Strait have arrived safely at Somaliland's Berbera Port, where medical personnel and emergency teams are providing care, the Somaliland Ports Authority said on Tuesday.",
-          "pubDate": "Tue, 17 Nov 2026 17:54:17 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Djibouti: Six Survivors Reach Berbera Port After Boat Sailing From Djibouti Sinks"
         },
         {
           "title": "Tajani presents 2026 edition of Week of Italian Cuisine in the World",
@@ -501,34 +483,224 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Uganda Begins Somalia Troop Withdrawal as Ethiopia Weighs Pullback"
+        },
+        {
+          "title": "Somalia: Press Freedom Under Pressure as Puntland Journalists Face Police Action Over Security Reporting",
+          "link": "https://hornobserver.com/articles/3795/Somalia-Press-Freedom-Under-Pressure-as-Puntland-Journalists-Face-Police-Action-Over-Security-Reporting",
+          "description": "The Somali Journalists Syndicate (SJS) - a journalist union based in Mogadishu - said two journalists faced police action in October after reporting on security developments in Puntland, including clashes between police and clan gunmen. Maher Mohamud Ahmed was summoned by police in the city of Qardho on October 16, a day after covering clashes between Puntland's newly deployed Birmad police force and clan gunmen. The violence reportedly stemmed from a government operation to disarm clan militias and left at least two people dead, according to local media. Maher, who publishes reports on Facebo",
+          "pubDate": "Thu, 29 Oct 2026 19:03:21 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: Press Freedom Under Pressure as Puntland Journalists Face Police Action Over Security Reporting"
+        },
+        {
+          "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
+          "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
+          "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
+          "pubDate": "Mon, 26 Oct 2026 12:01:56 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
+        },
+        {
+          "title": "Containing the New War in Northern Ethiopia",
+          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
+          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
+          "pubDate": "Thursday, October 15, 2026 - 11:12",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "Containing the New War in Northern Ethiopia"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Thus , several successive wins in one single twist try youll be able to Boxing News - Boxing , UFC and MMA News , Fight Results , Schedule , Rankings , Videos and More",
+          "link": "https://www.15rounds.com/2026/11/18/thus-several-successive-wins-in-one-single-twist-try-youll-be-able-to/",
+          "source": "15rounds.com",
+          "pubDate": "2026-11-18T17:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Thus , several successive wins in one single twist try youll be able to Boxing News - Boxing , UFC and MMA News , Fight Results , Schedule , Rankings , Videos and More"
+        },
+        {
+          "title": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier",
+          "link": "https://www.lebanondemocrat.com/maconcounty/news/national/44-cool-finds-for-holiday-hosting-that-make-entertaining-easier/article_e7177c21-76dc-595c-b3ae-1cd2324b55b0.html",
+          "source": "lebanondemocrat.com",
+          "pubDate": "2026-11-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier"
+        },
+        {
+          "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
+          "link": "https://www.kwit.org/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
+          "source": "kwit.org",
+          "pubDate": "2026-11-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet"
+        },
+        {
+          "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
+          "link": "https://news.prairiepublic.org/news-from-npr/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
+          "source": "news.prairiepublic.org",
+          "pubDate": "2026-11-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet"
+        },
+        {
+          "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
+          "link": "https://www.thisiswiltshire.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
+          "source": "thisiswiltshire.co.uk",
+          "pubDate": "2026-11-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation"
+        },
+        {
+          "title": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier",
+          "link": "https://www.hometownregister.com/news/national/44-cool-finds-for-holiday-hosting-that-make-entertaining-easier/article_df9af3b4-f2f0-5a91-a608-9c068ee28795.html",
+          "source": "hometownregister.com",
+          "pubDate": "2026-11-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier"
+        },
+        {
+          "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
+          "link": "https://www.kazu.org/npr-news/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
+          "source": "kazu.org",
+          "pubDate": "2026-11-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet"
+        },
+        {
+          "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
+          "link": "https://www.guardian-series.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
+          "source": "guardian-series.co.uk",
+          "pubDate": "2026-11-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation"
+        },
+        {
+          "title": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier",
+          "link": "https://www.wyomingnewsnow.tv/news/national/44-cool-finds-for-holiday-hosting-that-make-entertaining-easier/article_8c592b45-0c09-5ad2-9996-ed3728b2143b.html",
+          "source": "wyomingnewsnow.tv",
+          "pubDate": "2026-11-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier"
+        },
+        {
+          "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
+          "link": "https://www.wiltsglosstandard.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
+          "source": "wiltsglosstandard.co.uk",
+          "pubDate": "2026-11-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation"
+        },
+        {
+          "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
+          "link": "https://www.harrowtimes.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
+          "source": "harrowtimes.co.uk",
+          "pubDate": "2026-11-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation"
+        },
+        {
+          "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
+          "link": "https://www.hexham-courant.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
+          "source": "hexham-courant.co.uk",
+          "pubDate": "2026-11-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation"
+        },
+        {
+          "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
+          "link": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
+          "source": "richmondandtwickenhamtimes.co.uk",
+          "pubDate": "2026-11-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation"
+        },
+        {
+          "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
+          "link": "https://www.publicradiotulsa.org/npr-national-news/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
+          "source": "publicradiotulsa.org",
+          "pubDate": "2026-11-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet"
+        },
+        {
+          "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
+          "link": "https://www.kccu.org/world/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
+          "source": "kccu.org",
+          "pubDate": "2026-11-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet"
+        },
+        {
+          "title": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier",
+          "link": "https://www.bransontrilakesnews.com/news/national/article_73bce543-2352-52ea-87c5-d52a565ae1a0.html",
+          "source": "bransontrilakesnews.com",
+          "pubDate": "2026-11-18T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier"
+        },
+        {
+          "title": "Syria continues diplomatic outreach as two killed in countryside explosion",
+          "link": "https://www.jpost.com/middle-east/article-914909",
+          "source": "jpost.com",
+          "pubDate": "2026-11-15T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Syria continues diplomatic outreach as two killed in countryside explosion"
+        },
+        {
+          "title": "Money , spies and Al Jazeera : How Qatar intelligence services wield power",
+          "link": "https://www.ynetnews.com/article/syqkfq80gx",
+          "source": "ynetnews.com",
+          "pubDate": "2026-11-15T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Money , spies and Al Jazeera : How Qatar intelligence services wield power"
+        },
+        {
+          "title": "Telecom Egypt Net Profit Rises 44 % to EGP 24 . 4 Billion",
+          "link": "https://cairoscene.com/News/Telecom-Egypt-s-Net-Profit-Rises-44-to-EGP-24-4-Billion",
+          "source": "cairoscene.com",
+          "pubDate": "2026-11-15T07:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Telecom Egypt Net Profit Rises 44 % to EGP 24 . 4 Billion"
+        },
+        {
+          "title": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields",
+          "link": "http://www.haitisun.com/news/279429293/u-s-stocks-lose-steam-on-nvidia-ceo-exit-rising-bond-yields",
+          "source": "haitisun.com",
+          "pubDate": "2026-11-13T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Ethiopia: Power Without Transparency - Who Holds Ethiopia's Media Regulator Accountable When It Silences the Press?",
-          "link": "https://allafrica.com/stories/202611180491.html",
-          "description": "[Addis Standard] On 2 November 2026, the Ethiopian Media Authority (EMA) announced the indefinite suspension of the registration certificate of Media and Communication Center PLC, the publisher of the Amharic-language Reporter and the English-language The Reporter, and their digital platforms. One of Ethiopia's longest-established independent media organizations was brought to a halt. That raises a question bigger than one publisher: who holds the media regulator accountable when it uses its power to silence an entire",
-          "pubDate": "Wed, 18 Nov 2026 15:41:25 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Power Without Transparency - Who Holds Ethiopia's Media Regulator Accountable When It Silences the Press?"
-        },
-        {
-          "title": "Ethiopia: Ethiopia-Eritrea Border Clashes Raise Fears of Regional War",
-          "link": "https://allafrica.com/stories/202611180081.html",
-          "description": "[DW] As Ethiopian troops push Tigrayan forces toward the Eritrean border, fears of a new regional war are growing. With tensions rising between Ethiopia, Eritrea and Sudan, the Horn of Africa faces uncertain times ahead.",
-          "pubDate": "Wed, 18 Nov 2026 06:54:50 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Ethiopia-Eritrea Border Clashes Raise Fears of Regional War"
-        },
         {
           "title": "Sudan and Ethiopia trade accusations over armed groups",
           "link": "http://www.africanews.com/2026/11/16/sudan-and-ethiopia-trade-accusations-over-armed-groups/",
