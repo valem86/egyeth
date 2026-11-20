@@ -1,11 +1,38 @@
 {
-  "generatedAt": "2026-11-20T03:24:24.994Z",
+  "generatedAt": "2026-11-20T13:00:24.345Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Speciale energia: Egitto-Libia, Al Sisi riceve premier Dabaiba, firmati accordi su energia, pesca e cooperazione economica",
+          "link": "https://www.agenzianova.com/a/0/8039311/2026-11-20/speciale-energia-egitto-libia-al-sisi-riceve-premier-dabaiba-firmati-accordi-su-energia-pesca-e-cooperazione-economica",
+          "description": "20 nov 14:00 - (Agenzia Nova) - Il presidente egiziano Abdel Fattah al Sisi ha ricevuto ieri al Cairo il primo ministro del Governo di unita'... (Cae)",
+          "pubDate": "2026-11-20T14:00:00+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale energia: Egitto-Libia, Al Sisi riceve premier Dabaiba, firmati accordi su energia, pesca e cooperazione economica"
+        },
+        {
+          "title": "Somali protesters come out in support of expulsion of UAE ambassador",
+          "link": "http://www.africanews.com/2026/11/20/somali-protesters-come-out-in-support-of-expulsion-of-uae-ambassador/",
+          "description": "The president accused the UAE of supporting armed forces outside federal control and failing to respect Somalia’s sovereignty.",
+          "pubDate": "Fri, 20 Nov 2026 10:09:30 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Somali protesters come out in support of expulsion of UAE ambassador"
+        },
+        {
+          "title": "Somalia: Somaliland Rejects Somalia's Claim of Authority Over Its Foreign Relations",
+          "link": "https://allafrica.com/stories/202611200135.html",
+          "description": "[Horn Diplomat] Hargeisa -- Somaliland rejected Somalia's claims of jurisdiction over its affairs on Thursday, accusing Mogadishu of trying to speak on its behalf and saying its diplomatic engagements, economic partnerships and strategic arrangements require no approval from Somalia.",
+          "pubDate": "Fri, 20 Nov 2026 05:18:07 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somaliland Rejects Somalia's Claim of Authority Over Its Foreign Relations"
+        },
         {
           "title": "De Pedys, ‘The Mediterranean: A Crossroads of Digital Data; Defending It Means Cybersecurity’",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/19/de-pedys-the-mediterranean-a-crossroads-of-digital-data-defending-it-means-cybersecurity_fd087921-4147-473a-89dc-4b61e0c44f5f.html",
@@ -32,15 +59,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful"
-        },
-        {
-          "title": "From Jersey to Somalia... via Liverpool & Man City",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
-          "pubDate": "Wed, 11 Nov 2026 07:13:52 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "From Jersey to Somalia... via Liverpool & Man City"
         },
         {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
@@ -165,13 +183,22 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Ethiopia: Overnight Drone, Artillery Strikes Reported Around Badme Amid Ethiopian, Eritrean Military Buildup",
-          "link": "https://allafrica.com/stories/202611190377.html",
-          "description": "[Addis Standard] Addis Abeba -- Intense overnight drone strikes and heavy artillery bombardments were reported in areas surrounding the border town of Badme, as Ethiopian and Eritrean forces continued building up military positions along their shared border, raising fears of a sustained direct confrontation between the two countries.",
-          "pubDate": "Thu, 19 Nov 2026 16:05:59 GMT",
+          "title": "Somali protesters come out in support of expulsion of UAE ambassador",
+          "link": "http://www.africanews.com/2026/11/20/somali-protesters-come-out-in-support-of-expulsion-of-uae-ambassador/",
+          "description": "The president accused the UAE of supporting armed forces outside federal control and failing to respect Somalia’s sovereignty.",
+          "pubDate": "Fri, 20 Nov 2026 10:09:30 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Somali protesters come out in support of expulsion of UAE ambassador"
+        },
+        {
+          "title": "Somalia: Somaliland Rejects Somalia's Claim of Authority Over Its Foreign Relations",
+          "link": "https://allafrica.com/stories/202611200135.html",
+          "description": "[Horn Diplomat] Hargeisa -- Somaliland rejected Somalia's claims of jurisdiction over its affairs on Thursday, accusing Mogadishu of trying to speak on its behalf and saying its diplomatic engagements, economic partnerships and strategic arrangements require no approval from Somalia.",
+          "pubDate": "Fri, 20 Nov 2026 05:18:07 GMT",
           "source": "AllAfrica",
           "lang": "en",
-          "titleIt": "Ethiopia: Overnight Drone, Artillery Strikes Reported Around Badme Amid Ethiopian, Eritrean Military Buildup"
+          "titleIt": "Somalia: Somaliland Rejects Somalia's Claim of Authority Over Its Foreign Relations"
         },
         {
           "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
@@ -181,15 +208,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "US consortium wins huge Kenya mining deal, beating Chinese rivals"
-        },
-        {
-          "title": "Kenya: Deadly Building Collapses Expose Regulatory Failures",
-          "link": "https://allafrica.com/stories/202611190211.html",
-          "description": "[Capital FM] Nairobi -- Kenya's growing trail of deadly building collapses is exposing deep failures in construction regulation, with fresh revelations of forged approval documents in Eastleigh and unanswered safety concerns surrounding Bridge Port Apartments in South C raising questions about the safety of property buyers and occupants.",
-          "pubDate": "Thu, 19 Nov 2026 10:44:43 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Deadly Building Collapses Expose Regulatory Failures"
         },
         {
           "title": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful",
@@ -217,51 +235,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalian Government must respect judicial independence and rule of law: UN experts"
-        },
-        {
-          "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
-          "link": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-12T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
-        },
-        {
-          "title": "America 250 : Trump Issues  Victory Day for WWI  Message – PJ Media",
-          "link": "https://pjmedia.com/catherinesalgado/2026/11/11/america-250-trump-issues-victory-day-for-wwi-message-n4959266",
-          "source": "pjmedia.com",
-          "pubDate": "2026-11-12T03:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "America 250 : Trump Issues  Victory Day for WWI  Message – PJ Media"
-        },
-        {
-          "title": "From Jersey to Somalia... via Liverpool & Man City",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
-          "pubDate": "Wed, 11 Nov 2026 07:13:52 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "From Jersey to Somalia... via Liverpool & Man City"
-        },
-        {
-          "title": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight",
-          "link": "https://www.wsws.org/en/articles/2026/11/10/uael-n10.html",
-          "source": "wsws.org",
-          "pubDate": "2026-11-11T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight"
-        },
-        {
-          "title": "Somalia : Somaliland President Honours Officer Who Handed Over Suspect in Brother Killing",
-          "link": "https://allafrica.com/stories/202611100061.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-10T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somalia : Somaliland President Honours Officer Who Handed Over Suspect in Brother Killing"
         },
         {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
@@ -325,30 +298,66 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
-        },
-        {
-          "title": "Somaliland journalist detained after interviewing Somalia presidential hopeful",
-          "link": "https://horseedmedia.net/somaliland-journalist-detained-after-interviewing-somalia-presidential-hopeful/426800/",
-          "source": "horseedmedia.net",
-          "pubDate": "2026-10-24T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Somaliland journalist detained after interviewing Somalia presidential hopeful"
-        },
-        {
-          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
-          "link": "https://www.thereporterethiopia.com/53621/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-24T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "Speciale energia: Tunisia, carburanti, verso revoca sciopero del 23-25 novembre e accordo su premio autisti",
+          "link": "https://www.agenzianova.com/a/0/8039314/2026-11-20/speciale-energia-tunisia-carburanti-verso-revoca-sciopero-del-23-25-novembre-e-accordo-su-premio-autisti",
+          "description": "20 nov 14:00 - (Agenzia Nova) - Si allontana l'ipotesi di uno sciopero di tre giorni nel settore del trasporto degli idrocarburi in Tunisia,... (Tut)",
+          "pubDate": "2026-11-20T14:00:00+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale energia: Tunisia, carburanti, verso revoca sciopero del 23-25 novembre e accordo su premio autisti"
+        },
+        {
+          "title": "Liberia: Boakai Under Pressure Over U.S. Deportee Deal",
+          "link": "https://allafrica.com/stories/202611200432.html",
+          "description": "[New Dawn] - Civil society groups demand answers on reported US$5 million",
+          "pubDate": "Fri, 20 Nov 2026 12:24:38 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Liberia: Boakai Under Pressure Over U.S. Deportee Deal"
+        },
+        {
+          "title": "Eritrea: U.S. Lawmaker Proposes Trade Incentives to Push Ethiopia, Eritrea Off Conflict Cliff, Toward Peace",
+          "link": "https://allafrica.com/stories/202611200361.html",
+          "description": "[Addis Standard] Addis Abeba -- US Republican Representative Jim Baird has proposed two pieces of legislation seeking to link expanded trade and economic cooperation with Ethiopia and Eritrea to progress toward lasting peace, as tensions between the neighboring countries continue to raise fears of a renewed interstate conflict.",
+          "pubDate": "Fri, 20 Nov 2026 10:35:00 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Eritrea: U.S. Lawmaker Proposes Trade Incentives to Push Ethiopia, Eritrea Off Conflict Cliff, Toward Peace"
+        },
+        {
+          "title": "Somali protesters come out in support of expulsion of UAE ambassador",
+          "link": "http://www.africanews.com/2026/11/20/somali-protesters-come-out-in-support-of-expulsion-of-uae-ambassador/",
+          "description": "The president accused the UAE of supporting armed forces outside federal control and failing to respect Somalia’s sovereignty.",
+          "pubDate": "Fri, 20 Nov 2026 10:09:30 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Somali protesters come out in support of expulsion of UAE ambassador"
+        },
+        {
+          "title": "Somalia: Somalia Orders UAE Ambassador to Leave Within 72 Hours, Recalls Envoy From Abu Dhabi",
+          "link": "https://allafrica.com/stories/202611200128.html",
+          "description": "[Addis Standard] Addis Abeba -- Somalia's Council of Ministers has ordered the United Arab Emirates (UAE) ambassador to leave the country within 72 hours and recalled Somalia's ambassador to the UAE for consultations, marking a further deterioration in already strained bilateral relations.",
+          "pubDate": "Fri, 20 Nov 2026 05:14:16 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: Somalia Orders UAE Ambassador to Leave Within 72 Hours, Recalls Envoy From Abu Dhabi"
+        },
+        {
+          "title": "Africa: Africa Accounts for Half of World's Children Living in Conflict Zones, NGO Warns",
+          "link": "https://allafrica.com/stories/202611200104.html",
+          "description": "[RFI] Around 260 million children in Africa were living close to armed conflict in 2025 - amounting to two in five, a larger proportion than ever previously recorded, the charity Save the Children said in a report on Thursday. Worldwide, nearly one in four children lived near fighting.",
+          "pubDate": "Fri, 20 Nov 2026 04:56:09 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: Africa Accounts for Half of World's Children Living in Conflict Zones, NGO Warns"
+        },
         {
           "title": "Meloni leaves Coalition of Willing summit on time, evening meeting on budget",
           "link": "https://www.ansa.it/english/news/politics/2026/11/19/meloni-leaves-coalition-of-willing-summit-on-time-evening-meeting-on-budget_113b6f45-0fcc-4436-b573-5cfa24a77f4a.html",
@@ -366,15 +375,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Meloni leaves Coalition of Willing summit on time, evening meeting on budget"
-        },
-        {
-          "title": "Ethiopia: Overnight Drone, Artillery Strikes Reported Around Badme Amid Ethiopian, Eritrean Military Buildup",
-          "link": "https://allafrica.com/stories/202611190377.html",
-          "description": "[Addis Standard] Addis Abeba -- Intense overnight drone strikes and heavy artillery bombardments were reported in areas surrounding the border town of Badme, as Ethiopian and Eritrean forces continued building up military positions along their shared border, raising fears of a sustained direct confrontation between the two countries.",
-          "pubDate": "Thu, 19 Nov 2026 16:05:59 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Overnight Drone, Artillery Strikes Reported Around Badme Amid Ethiopian, Eritrean Military Buildup"
         },
         {
           "title": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum",
@@ -420,15 +420,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?"
-        },
-        {
-          "title": "From Jersey to Somalia... via Liverpool & Man City",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
-          "pubDate": "Wed, 11 Nov 2026 07:13:52 GMT",
-          "source": "BBC Africa",
-          "lang": "en",
-          "titleIt": "From Jersey to Somalia... via Liverpool & Man City"
         },
         {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
@@ -492,15 +483,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
-        },
-        {
-          "title": "Containing the New War in Northern Ethiopia",
-          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
-          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
-          "pubDate": "Thursday, October 15, 2026 - 11:12",
-          "source": "Crisis Group",
-          "lang": "en",
-          "titleIt": "Containing the New War in Northern Ethiopia"
         }
       ]
     },
@@ -508,139 +490,13 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "OPINION - Yemen and Bab al - Mandeb : Second maritime front in the US – Iranian confrontation",
-          "link": "https://aa.com.tr/en/world/opinion-yemen-and-bab-al-mandeb-second-maritime-front-in-the-us-iranian-confrontation/4131626",
-          "source": "aa.com.tr",
-          "pubDate": "2026-11-20T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "OPINION - Yemen and Bab al - Mandeb : Second maritime front in the US – Iranian confrontation"
-        },
-        {
-          "title": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points",
-          "link": "http://www.oklahomastar.com/news/279443956/u-s-stocks-dive-despite-anthropic-debut-nasdaq-sheds-551-points",
-          "source": "oklahomastar.com",
-          "pubDate": "2026-11-20T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points"
-        },
-        {
-          "title": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points",
-          "link": "http://www.newjerseytelegraph.com/news/279443956/u-s-stocks-dive-despite-anthropic-debut-nasdaq-sheds-551-points",
-          "source": "newjerseytelegraph.com",
-          "pubDate": "2026-11-20T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points"
-        },
-        {
-          "title": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points",
-          "link": "http://www.iranherald.com/news/279443956/u-s-stocks-dive-despite-anthropic-debut-nasdaq-sheds-551-points",
-          "source": "iranherald.com",
-          "pubDate": "2026-11-20T01:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points"
-        },
-        {
-          "title": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points",
-          "link": "http://www.trinidadtimes.com/news/279443956/u-s-stocks-dive-despite-anthropic-debut-nasdaq-sheds-551-points",
-          "source": "trinidadtimes.com",
-          "pubDate": "2026-11-20T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points"
-        },
-        {
-          "title": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points",
-          "link": "http://www.texasguardian.com/news/279443956/u-s-stocks-dive-despite-anthropic-debut-nasdaq-sheds-551-points",
-          "source": "texasguardian.com",
-          "pubDate": "2026-11-20T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points"
-        },
-        {
-          "title": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points",
-          "link": "http://www.malaysiasun.com/news/279443956/u-s-stocks-dive-despite-anthropic-debut-nasdaq-sheds-551-points",
-          "source": "malaysiasun.com",
-          "pubDate": "2026-11-20T00:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points"
-        },
-        {
-          "title": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points",
-          "link": "http://www.albuquerqueexpress.com/news/279443956/u-s-stocks-dive-despite-anthropic-debut-nasdaq-sheds-551-points",
-          "source": "albuquerqueexpress.com",
-          "pubDate": "2026-11-20T00:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points"
-        },
-        {
-          "title": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points",
-          "link": "http://www.mexicostar.com/news/279443956/u-s-stocks-dive-despite-anthropic-debut-nasdaq-sheds-551-points",
-          "source": "mexicostar.com",
-          "pubDate": "2026-11-20T00:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points"
-        },
-        {
-          "title": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points",
-          "link": "http://www.iraqsun.com/news/279443956/u-s-stocks-dive-despite-anthropic-debut-nasdaq-sheds-551-points",
-          "source": "iraqsun.com",
-          "pubDate": "2026-11-19T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points"
-        },
-        {
-          "title": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points",
-          "link": "http://www.africaleader.com/news/279443956/u-s-stocks-dive-despite-anthropic-debut-nasdaq-sheds-551-points",
-          "source": "africaleader.com",
-          "pubDate": "2026-11-19T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points"
-        },
-        {
-          "title": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points",
-          "link": "http://www.europesun.com/news/279443956/u-s-stocks-dive-despite-anthropic-debut-nasdaq-sheds-551-points",
-          "source": "europesun.com",
-          "pubDate": "2026-11-19T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points"
-        },
-        {
-          "title": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points",
-          "link": "http://www.sanantoniopost.com/news/279443956/u-s-stocks-dive-despite-anthropic-debut-nasdaq-sheds-551-points",
-          "source": "sanantoniopost.com",
-          "pubDate": "2026-11-19T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "U . S . stocks dive despite Anthropic debut , Nasdaq sheds 551 points"
-        },
-        {
-          "title": "Op - Ed : Unlocking Africa potential , one market at a time",
-          "link": "https://www.mining.com/op-ed-unlocking-africas-potential-one-market-at-a-time/",
-          "source": "mining.com",
-          "pubDate": "2026-11-19T23:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Op - Ed : Unlocking Africa potential , one market at a time"
-        },
-        {
-          "title": "Doha Industry Days 2026 opens showcasing achievements of MCQ Film Committee",
-          "link": "http://thepeninsulaqatar.com/article/19/11/2026/doha-industry-days-2026-opens-showcasing-achievements-of-mcqs-film-committee",
-          "source": "thepeninsulaqatar.com",
-          "pubDate": "2026-11-19T19:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Doha Industry Days 2026 opens showcasing achievements of MCQ Film Committee"
+          "title": "Speciale energia: Egitto-Libia, Al Sisi riceve premier Dabaiba, firmati accordi su energia, pesca e cooperazione economica",
+          "link": "https://www.agenzianova.com/a/0/8039311/2026-11-20/speciale-energia-egitto-libia-al-sisi-riceve-premier-dabaiba-firmati-accordi-su-energia-pesca-e-cooperazione-economica",
+          "description": "20 nov 14:00 - (Agenzia Nova) - Il presidente egiziano Abdel Fattah al Sisi ha ricevuto ieri al Cairo il primo ministro del Governo di unita'... (Cae)",
+          "pubDate": "2026-11-20T14:00:00+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale energia: Egitto-Libia, Al Sisi riceve premier Dabaiba, firmati accordi su energia, pesca e cooperazione economica"
         },
         {
           "title": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum",
@@ -650,48 +506,30 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum"
-        },
-        {
-          "title": "Thus , several successive wins in one single twist try youll be able to Boxing News - Boxing , UFC and MMA News , Fight Results , Schedule , Rankings , Videos and More",
-          "link": "https://www.15rounds.com/2026/11/18/thus-several-successive-wins-in-one-single-twist-try-youll-be-able-to/",
-          "source": "15rounds.com",
-          "pubDate": "2026-11-18T17:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Thus , several successive wins in one single twist try youll be able to Boxing News - Boxing , UFC and MMA News , Fight Results , Schedule , Rankings , Videos and More"
-        },
-        {
-          "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
-          "link": "https://www.kazu.org/npr-news/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
-          "source": "kazu.org",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet"
-        },
-        {
-          "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
-          "link": "https://www.guardian-series.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
-          "source": "guardian-series.co.uk",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation"
-        },
-        {
-          "title": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier",
-          "link": "https://www.wyomingnewsnow.tv/news/national/44-cool-finds-for-holiday-hosting-that-make-entertaining-easier/article_8c592b45-0c09-5ad2-9996-ed3728b2143b.html",
-          "source": "wyomingnewsnow.tv",
-          "pubDate": "2026-11-18T01:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
+        {
+          "title": "Eritrea: U.S. Lawmaker Proposes Trade Incentives to Push Ethiopia, Eritrea Off Conflict Cliff, Toward Peace",
+          "link": "https://allafrica.com/stories/202611200361.html",
+          "description": "[Addis Standard] Addis Abeba -- US Republican Representative Jim Baird has proposed two pieces of legislation seeking to link expanded trade and economic cooperation with Ethiopia and Eritrea to progress toward lasting peace, as tensions between the neighboring countries continue to raise fears of a renewed interstate conflict.",
+          "pubDate": "Fri, 20 Nov 2026 10:35:00 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Eritrea: U.S. Lawmaker Proposes Trade Incentives to Push Ethiopia, Eritrea Off Conflict Cliff, Toward Peace"
+        },
+        {
+          "title": "Sudan: Sudan Drone Strikes 'Acts of Genocide' - Women's Rights Group",
+          "link": "https://allafrica.com/stories/202611200101.html",
+          "description": "[Dabanga] Amsterdam -- Sudanese women's rights group The No to Oppression against Women Initiative has condemned the continuation of the war in Sudan and the escalating use of drones against civilian-populated areas, including hospitals, schools, and electricity and water facilities, describing the attacks as \"acts of genocide\" against the Sudanese people.",
+          "pubDate": "Fri, 20 Nov 2026 04:55:19 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Sudan Drone Strikes 'Acts of Genocide' - Women's Rights Group"
+        },
         {
           "title": "De Pedys, ‘The Mediterranean: A Crossroads of Digital Data; Defending It Means Cybersecurity’",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/19/de-pedys-the-mediterranean-a-crossroads-of-digital-data-defending-it-means-cybersecurity_fd087921-4147-473a-89dc-4b61e0c44f5f.html",
