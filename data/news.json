@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T03:16:36.024Z",
+  "generatedAt": "2026-11-21T12:44:13.166Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
@@ -41,15 +41,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Somali protesters come out in support of expulsion of UAE ambassador"
-        },
-        {
-          "title": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum",
-          "link": "http://www.africanews.com/2026/11/19/egypt-secures-23-billion-imf-deal-as-economic-recovery-gains-momentum/",
-          "description": "The agreement comes as Egypt shows signs of economic recovery, with GDP growth reaching 5.1 percent in the 2025–2026 fiscal year, supported by stronger activity in tourism, manufacturing and the Suez Canal.",
-          "pubDate": "Thu, 19 Nov 2026 13:35:49 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum"
         },
         {
           "title": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful",
@@ -323,31 +314,22 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-          "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-          "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-          "pubDate": "Fri, 20 Nov 2026 17:49:48 GMT",
-          "source": "BBC World",
+          "title": "Morocco commits €366 million to build a national defence industry by 2035",
+          "link": "http://www.africanews.com/2026/11/21/morocco-commits-366-million-to-build-a-national-defence-industry-by-2035/",
+          "description": "The roadmap will be backed by a new strategic agency responsible for implementing national defence industry policy and supporting investors",
+          "pubDate": "Sat, 21 Nov 2026 10:24:58 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "titleIt": "UK to explore even closer ties with EU after agreeing deal, says Burnham"
+          "titleIt": "Morocco commits €366 million to build a national defence industry by 2035"
         },
         {
-          "title": "Liberia: Boakai Under Pressure Over U.S. Deportee Deal",
-          "link": "https://allafrica.com/stories/202611200432.html",
-          "description": "[New Dawn] - Civil society groups demand answers on reported US$5 million",
-          "pubDate": "Fri, 20 Nov 2026 12:24:38 GMT",
-          "source": "AllAfrica",
+          "title": "Around 700,000 displaced by volatile conflict in southern Ethiopia",
+          "link": "http://www.africanews.com/2026/11/21/around-700000-displaced-by-volatile-conflict-in-southern-ethiopia/",
+          "description": "NGO Islamic Relief says fighting between ethnic groups competing for land and wealth has seen widespread destruction of homes and disruption of services.",
+          "pubDate": "Sat, 21 Nov 2026 07:13:49 +0000",
+          "source": "Africanews",
           "lang": "en",
-          "titleIt": "Liberia: Boakai Under Pressure Over U.S. Deportee Deal"
-        },
-        {
-          "title": "Eritrea: U.S. Lawmaker Proposes Trade Incentives to Push Ethiopia, Eritrea Off Conflict Cliff, Toward Peace",
-          "link": "https://allafrica.com/stories/202611200361.html",
-          "description": "[Addis Standard] Addis Abeba -- US Republican Representative Jim Baird has proposed two pieces of legislation seeking to link expanded trade and economic cooperation with Ethiopia and Eritrea to progress toward lasting peace, as tensions between the neighboring countries continue to raise fears of a renewed interstate conflict.",
-          "pubDate": "Fri, 20 Nov 2026 10:35:00 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Eritrea: U.S. Lawmaker Proposes Trade Incentives to Push Ethiopia, Eritrea Off Conflict Cliff, Toward Peace"
+          "titleIt": "Around 700,000 displaced by volatile conflict in southern Ethiopia"
         },
         {
           "title": "Somali protesters come out in support of expulsion of UAE ambassador",
@@ -375,15 +357,6 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Meloni leaves Coalition of Willing summit on time, evening meeting on budget"
-        },
-        {
-          "title": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum",
-          "link": "http://www.africanews.com/2026/11/19/egypt-secures-23-billion-imf-deal-as-economic-recovery-gains-momentum/",
-          "description": "The agreement comes as Egypt shows signs of economic recovery, with GDP growth reaching 5.1 percent in the 2025–2026 fiscal year, supported by stronger activity in tourism, manufacturing and the Suez Canal.",
-          "pubDate": "Thu, 19 Nov 2026 13:35:49 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum"
         },
         {
           "title": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful",
@@ -479,39 +452,11 @@
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": [
-        {
-          "title": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum",
-          "link": "http://www.africanews.com/2026/11/19/egypt-secures-23-billion-imf-deal-as-economic-recovery-gains-momentum/",
-          "description": "The agreement comes as Egypt shows signs of economic recovery, with GDP growth reaching 5.1 percent in the 2025–2026 fiscal year, supported by stronger activity in tourism, manufacturing and the Suez Canal.",
-          "pubDate": "Thu, 19 Nov 2026 13:35:49 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum"
-        }
-      ]
+      "items": []
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Eritrea: U.S. Lawmaker Proposes Trade Incentives to Push Ethiopia, Eritrea Off Conflict Cliff, Toward Peace",
-          "link": "https://allafrica.com/stories/202611200361.html",
-          "description": "[Addis Standard] Addis Abeba -- US Republican Representative Jim Baird has proposed two pieces of legislation seeking to link expanded trade and economic cooperation with Ethiopia and Eritrea to progress toward lasting peace, as tensions between the neighboring countries continue to raise fears of a renewed interstate conflict.",
-          "pubDate": "Fri, 20 Nov 2026 10:35:00 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Eritrea: U.S. Lawmaker Proposes Trade Incentives to Push Ethiopia, Eritrea Off Conflict Cliff, Toward Peace"
-        },
-        {
-          "title": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum",
-          "link": "http://www.africanews.com/2026/11/19/egypt-secures-23-billion-imf-deal-as-economic-recovery-gains-momentum/",
-          "description": "The agreement comes as Egypt shows signs of economic recovery, with GDP growth reaching 5.1 percent in the 2025–2026 fiscal year, supported by stronger activity in tourism, manufacturing and the Suez Canal.",
-          "pubDate": "Thu, 19 Nov 2026 13:35:49 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Egypt secures $2.3 Billion IMF deal as economic recovery gains momentum"
-        },
         {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
           "link": "https://hornobserver.com/articles/3803/From-Abu-Dhabi-to-Beledweyne-Sanbaloolshe-Names-Irro-Deni-and-Madobe-in-Opposition-Alliance-Claims",
