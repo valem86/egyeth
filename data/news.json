@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-11-22T17:53:13.758Z",
+  "generatedAt": "2026-11-22T23:39:50.062Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Somalia: UAE Condemns What It Calls Somalia's Escalating Hostile Conduct",
+          "link": "https://allafrica.com/stories/202611200634.html",
+          "description": "[Shabelle] Abu Dhabi -- The United Arab Emirates has strongly condemned what it described as increasingly hostile conduct by the Somali government, saying recent actions threaten diplomatic relations and cooperation between the two countries.",
+          "pubDate": "Fri, 20 Nov 2026 17:21:35 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Somalia: UAE Condemns What It Calls Somalia's Escalating Hostile Conduct"
+        },
         {
           "title": "We won't die as Christian Democrats, but as Muslims with dark skins says Vannacci",
           "link": "https://www.ansa.it/english/news/2026/11/20/we-wont-die-as-christian-democrats-but-as-muslims-with-dark-skins-says_0e1cbfa8-52ea-4e60-9935-ab8cfbb8d8b3.html",
@@ -201,6 +210,24 @@
           "titleIt": "Di Maio: ‘Global Energy Crisis Is Iran’s War Strategy’"
         },
         {
+          "title": "Kenya: Government Responds to Claims of Bulk Ticket Purchases for Bayern V Ajax Clash At Talanta",
+          "link": "https://allafrica.com/stories/202611200487.html",
+          "description": "[Capital FM] The 2027 Africa Cup of Nations (Afcon) Local Organising Committee CEO Anthony Lung'aho has denied claims that certain individuals have bought tickets in bulk for next year's exhibition match between Bayern Munich and Ajax Amsterdam at Talanta Sports City Stadium.",
+          "pubDate": "Fri, 20 Nov 2026 14:15:08 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Government Responds to Claims of Bulk Ticket Purchases for Bayern V Ajax Clash At Talanta"
+        },
+        {
+          "title": "Kenya: Kindiki Pledges to Protect Judicial Independence As Budget Rises to Sh30.4bn",
+          "link": "https://allafrica.com/stories/202611200465.html",
+          "description": "[Capital FM] Nairobi -- Deputy President Kithure Kindiki has reaffirmed the government's commitment to protecting the independence of the Judiciary, saying a strong and effective justice system is critical to constitutional democracy, economic growth and social progress.",
+          "pubDate": "Fri, 20 Nov 2026 13:43:52 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Kenya: Kindiki Pledges to Protect Judicial Independence As Budget Rises to Sh30.4bn"
+        },
+        {
           "title": "Somali protesters come out in support of expulsion of UAE ambassador",
           "link": "http://www.africanews.com/2026/11/20/somali-protesters-come-out-in-support-of-expulsion-of-uae-ambassador/",
           "description": "The president accused the UAE of supporting armed forces outside federal control and failing to respect Somalia’s sovereignty.",
@@ -325,24 +352,6 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalia: Press Freedom Under Pressure as Puntland Journalists Face Police Action Over Security Reporting"
-        },
-        {
-          "title": "U.S. Troops Withdraw from Belidogle Military Airfield as Security Situation Evolves in Southwest Somalia",
-          "link": "https://hornobserver.com/articles/3793/US-Troops-Withdraw-from-Belidogle-Military-Airfield-as-Security-Situation-Evolves-in-Southwest-Somalia",
-          "description": "The United States had maintained presence at the airfield since 2012,the sources said. The airfield is now under the control of Uganda People's Defense Forces ( UPDF) and Somali National Army (SNA) forces, one of the the sources added. &nbsp; African Union peacekeeping forces seized the airfield from Al Shabab militants about 14 years ago. &nbsp; U.S. forces used the base to train Somalia's elite Danab commando forces at the airfield and as an intelligence hub, according to sources within the Somali military. &nbsp; Approximately, 60 active-duty U.S service members were operating in Somalia, a",
-          "pubDate": "Wed, 28 Oct 2026 09:25:08 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "U.S. Troops Withdraw from Belidogle Military Airfield as Security Situation Evolves in Southwest Somalia"
-        },
-        {
-          "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
-          "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
-          "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
-          "pubDate": "Mon, 26 Oct 2026 12:01:56 +0300",
-          "source": "Horn Observer",
-          "lang": "en",
-          "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
         }
       ]
     },
@@ -384,15 +393,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Liberia: Boakai Under Pressure Over U.S. Deportee Deal"
-        },
-        {
-          "title": "Eritrea: U.S. Lawmaker Proposes Trade Incentives to Push Ethiopia, Eritrea Off Conflict Cliff, Toward Peace",
-          "link": "https://allafrica.com/stories/202611200361.html",
-          "description": "[Addis Standard] Addis Abeba -- US Republican Representative Jim Baird has proposed two pieces of legislation seeking to link expanded trade and economic cooperation with Ethiopia and Eritrea to progress toward lasting peace, as tensions between the neighboring countries continue to raise fears of a renewed interstate conflict.",
-          "pubDate": "Fri, 20 Nov 2026 10:35:00 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Eritrea: U.S. Lawmaker Proposes Trade Incentives to Push Ethiopia, Eritrea Off Conflict Cliff, Toward Peace"
         },
         {
           "title": "Somali protesters come out in support of expulsion of UAE ambassador",
@@ -520,15 +520,6 @@
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
       "items": [
-        {
-          "title": "Eritrea: U.S. Lawmaker Proposes Trade Incentives to Push Ethiopia, Eritrea Off Conflict Cliff, Toward Peace",
-          "link": "https://allafrica.com/stories/202611200361.html",
-          "description": "[Addis Standard] Addis Abeba -- US Republican Representative Jim Baird has proposed two pieces of legislation seeking to link expanded trade and economic cooperation with Ethiopia and Eritrea to progress toward lasting peace, as tensions between the neighboring countries continue to raise fears of a renewed interstate conflict.",
-          "pubDate": "Fri, 20 Nov 2026 10:35:00 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Eritrea: U.S. Lawmaker Proposes Trade Incentives to Push Ethiopia, Eritrea Off Conflict Cliff, Toward Peace"
-        },
         {
           "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
           "link": "https://hornobserver.com/articles/3803/From-Abu-Dhabi-to-Beledweyne-Sanbaloolshe-Names-Irro-Deni-and-Madobe-in-Opposition-Alliance-Claims",
