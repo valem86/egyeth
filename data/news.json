@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-11-22T09:56:39.999Z",
+  "generatedAt": "2026-11-22T17:53:13.758Z",
   "feedsChecked": 10,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: UAE Condemns What It Calls Somalia's Escalating Hostile Conduct",
-          "link": "https://allafrica.com/stories/202611200634.html",
-          "description": "[Shabelle] Abu Dhabi -- The United Arab Emirates has strongly condemned what it described as increasingly hostile conduct by the Somali government, saying recent actions threaten diplomatic relations and cooperation between the two countries.",
-          "pubDate": "Fri, 20 Nov 2026 17:21:35 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: UAE Condemns What It Calls Somalia's Escalating Hostile Conduct"
-        },
         {
           "title": "We won't die as Christian Democrats, but as Muslims with dark skins says Vannacci",
           "link": "https://www.ansa.it/english/news/2026/11/20/we-wont-die-as-christian-democrats-but-as-muslims-with-dark-skins-says_0e1cbfa8-52ea-4e60-9935-ab8cfbb8d8b3.html",
@@ -174,6 +165,15 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Turkey aids Somalia in breaking ground on new naval facilities",
+          "link": "http://www.jpost.com/international/article-915680",
+          "source": "jpost.com",
+          "pubDate": "2026-11-22T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkey aids Somalia in breaking ground on new naval facilities"
+        },
+        {
           "title": "Africa: Presidents And Government Leaders Discuss Strengthening Strategic Partnerships And Expanding Cooperation With The UAE",
           "link": "https://allafrica.com/stories/202611210136.html",
           "description": "[WGS] The Leaders' Meeting, held as part of the World Governments Summit Dialogue for Latin America and the Caribbean, explored ways to strengthen the strategic partnership between the UAE and countries across the region and expand economic and investment cooperation. Discussions focused on translating shared opportunities into projects and partnerships that advance development priorities and mutual interests.",
@@ -181,6 +181,15 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Africa: Presidents And Government Leaders Discuss Strengthening Strategic Partnerships And Expanding Cooperation With The UAE"
+        },
+        {
+          "title": "UAE builds up military bases in Somalia as US expands interest in region",
+          "link": "http://www.jpost.com/middle-east/article-915630",
+          "source": "jpost.com",
+          "pubDate": "2026-11-21T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE builds up military bases in Somalia as US expands interest in region"
         },
         {
           "title": "Di Maio: ‘Global Energy Crisis Is Iran’s War Strategy’",
@@ -192,15 +201,6 @@
           "titleIt": "Di Maio: ‘Global Energy Crisis Is Iran’s War Strategy’"
         },
         {
-          "title": "Kenya: Government Responds to Claims of Bulk Ticket Purchases for Bayern V Ajax Clash At Talanta",
-          "link": "https://allafrica.com/stories/202611200487.html",
-          "description": "[Capital FM] The 2027 Africa Cup of Nations (Afcon) Local Organising Committee CEO Anthony Lung'aho has denied claims that certain individuals have bought tickets in bulk for next year's exhibition match between Bayern Munich and Ajax Amsterdam at Talanta Sports City Stadium.",
-          "pubDate": "Fri, 20 Nov 2026 14:15:08 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Government Responds to Claims of Bulk Ticket Purchases for Bayern V Ajax Clash At Talanta"
-        },
-        {
           "title": "Somali protesters come out in support of expulsion of UAE ambassador",
           "link": "http://www.africanews.com/2026/11/20/somali-protesters-come-out-in-support-of-expulsion-of-uae-ambassador/",
           "description": "The president accused the UAE of supporting armed forces outside federal control and failing to respect Somalia’s sovereignty.",
@@ -208,6 +208,15 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Somali protesters come out in support of expulsion of UAE ambassador"
+        },
+        {
+          "title": "Somalia expels UAE ambassador , alleging interference",
+          "link": "https://www.jacarandafm.com/news/news/somalia-expels-uae-ambassador-alleging-interference/",
+          "source": "jacarandafm.com",
+          "pubDate": "2026-11-20T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia expels UAE ambassador , alleging interference"
         },
         {
           "title": "Hassan Sheikh Knew About the UAE for Years. Now It Is Useful",
@@ -235,6 +244,42 @@
           "source": "Horn Observer",
           "lang": "en",
           "titleIt": "Somalian Government must respect judicial independence and rule of law: UN experts"
+        },
+        {
+          "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
+          "link": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-11-12T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
+        },
+        {
+          "title": "America 250 : Trump Issues  Victory Day for WWI  Message – PJ Media",
+          "link": "https://pjmedia.com/catherinesalgado/2026/11/11/america-250-trump-issues-victory-day-for-wwi-message-n4959266",
+          "source": "pjmedia.com",
+          "pubDate": "2026-11-12T03:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "America 250 : Trump Issues  Victory Day for WWI  Message – PJ Media"
+        },
+        {
+          "title": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight",
+          "link": "https://www.wsws.org/en/articles/2026/11/10/uael-n10.html",
+          "source": "wsws.org",
+          "pubDate": "2026-11-11T01:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight"
+        },
+        {
+          "title": "Somalia : Somaliland President Honours Officer Who Handed Over Suspect in Brother Killing",
+          "link": "https://allafrica.com/stories/202611100061.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-11-10T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland President Honours Officer Who Handed Over Suspect in Brother Killing"
         },
         {
           "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
@@ -305,42 +350,6 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Op - Ed| DEMOCRACY DIES IN DARKNESS : What Antalya overtime deadlock reveals about the world broken climate finance order",
-          "link": "https://www.radiotamazuj.org/en/news/article/op-ed-democracy-dies-in-darkness-what-antalyas-overtime-deadlock-reveals-about-the-worlds-broken-climate-finance-order",
-          "source": "radiotamazuj.org",
-          "pubDate": "2026-11-22T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Op - Ed| DEMOCRACY DIES IN DARKNESS : What Antalya overtime deadlock reveals about the world broken climate finance order"
-        },
-        {
-          "title": "Dangote Group unveils multi ‑ billion ‑ dollar projects across East Africa",
-          "link": "https://kenya-today.com/report-dangote-group-unveils-multibilliondollar-projects-across-east-africa-30996/",
-          "source": "kenya-today.com",
-          "pubDate": "2026-11-21T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Dangote Group unveils multi ‑ billion ‑ dollar projects across East Africa"
-        },
-        {
-          "title": "Cape Town Conversation 2026 to bring leaders from 50 countries together to shape Global South future",
-          "link": "http://www.africaleader.com/news/279447283/cape-town-conversation-2026-to-bring-leaders-from-50-countries-together-to-shape-global-south-future",
-          "source": "africaleader.com",
-          "pubDate": "2026-11-21T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cape Town Conversation 2026 to bring leaders from 50 countries together to shape Global South future"
-        },
-        {
-          "title": "Cape Town Conversation 2026 to bring leaders from 50 countries together to shape Global South future",
-          "link": "http://www.nigeriasun.com/news/279447283/cape-town-conversation-2026-to-bring-leaders-from-50-countries-together-to-shape-global-south-future",
-          "source": "nigeriasun.com",
-          "pubDate": "2026-11-21T16:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Cape Town Conversation 2026 to bring leaders from 50 countries together to shape Global South future"
-        },
-        {
           "title": "Africa: Presidents And Government Leaders Discuss Strengthening Strategic Partnerships And Expanding Cooperation With The UAE",
           "link": "https://allafrica.com/stories/202611210136.html",
           "description": "[WGS] The Leaders' Meeting, held as part of the World Governments Summit Dialogue for Latin America and the Caribbean, explored ways to strengthen the strategic partnership between the UAE and countries across the region and expand economic and investment cooperation. Discussions focused on translating shared opportunities into projects and partnerships that advance development priorities and mutual interests.",
@@ -348,15 +357,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Africa: Presidents And Government Leaders Discuss Strengthening Strategic Partnerships And Expanding Cooperation With The UAE"
-        },
-        {
-          "title": "Africa : 13 july 2010 [ Little challenge as Tanzania leader seeks new term ]",
-          "link": "https://burundi-agnews.org/africa-13-july-2010-little-challenge-as-tanzania-leader-seeks-new-term/",
-          "source": "burundi-agnews.org",
-          "pubDate": "2026-11-21T13:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Africa : 13 july 2010 [ Little challenge as Tanzania leader seeks new term ]"
         },
         {
           "title": "Morocco commits €366 million to build a national defence industry by 2035",
@@ -375,15 +375,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Around 700,000 displaced by volatile conflict in southern Ethiopia"
-        },
-        {
-          "title": "Israel Expands Exit Grants to African Nationals in Bid to Boost Departures - American Renaissance",
-          "link": "https://www.amren.com/news/2026/11/israel-expands-exit-grants-to-african-nationals-in-bid-to-boost-departures/",
-          "source": "amren.com",
-          "pubDate": "2026-11-21T00:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Israel Expands Exit Grants to African Nationals in Bid to Boost Departures - American Renaissance"
         },
         {
           "title": "Liberia: Boakai Under Pressure Over U.S. Deportee Deal",
@@ -411,15 +402,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "Somali protesters come out in support of expulsion of UAE ambassador"
-        },
-        {
-          "title": "APEC - ing Order",
-          "link": "http://www.zerohedge.com/geopolitical/apec-ing-order",
-          "source": "zerohedge.com",
-          "pubDate": "2026-11-19T19:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "APEC - ing Order"
         },
         {
           "title": "Meloni leaves Coalition of Willing summit on time, evening meeting on budget",
@@ -458,31 +440,76 @@
           "titleIt": "AU Chief Urges African Leaders to Create More Opportunities for Young People"
         },
         {
-          "title": "LCCI Hails Dangote As Benchmark , Urges Government To Fix Power , Logistics",
-          "link": "https://leadership.ng/lcci-hails-dangote-as-benchmark-urges-government-to-fix-power-logistics/",
-          "source": "leadership.ng",
-          "pubDate": "2026-11-12T07:00:00Z",
+          "title": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims",
+          "link": "https://hornobserver.com/articles/3803/From-Abu-Dhabi-to-Beledweyne-Sanbaloolshe-Names-Irro-Deni-and-Madobe-in-Opposition-Alliance-Claims",
+          "description": "On November 6, two prominent political figures arrived in Beledweyne accompanied by armed escorts, intensifying a confrontation over Hirshabelle's leadership. Abdifatah Hassan Afrah, the regional vice president, entered the city amid a dispute involving traditional elders, political figures and armed groups challenging the administration. Abdullahi Mohamed Ali Rage, widely known as Sanbaloolshe, a former director of Somalia's National Intelligence and Security Agency (NISA) and a federal lawmaker, arrived through Feerfeer near the Ethiopian border, accompanied by armed personnel and military v",
+          "pubDate": "Mon, 09 Nov 2026 12:15:18 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "LCCI Hails Dangote As Benchmark , Urges Government To Fix Power , Logistics"
+          "titleIt": "From Abu Dhabi to Beledweyne: Sanbaloolshe Names Irro, Deni and Madobe in Opposition Alliance Claims"
         },
         {
-          "title": "NASCON Unveils New Seasonings As Dangote Deepens Commitment To Local Production",
-          "link": "https://leadership.ng/nascon-unveils-new-seasonings-as-dangote-deepens-commitment-to-local-production/",
-          "source": "leadership.ng",
-          "pubDate": "2026-11-12T05:30:00Z",
+          "title": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?",
+          "link": "https://hornobserver.com/articles/3801/Editorial-Somalias-Security-Dilemma-Can-a-Nation-Dependent-on-Foreign-Forces-Defend-Itself",
+          "description": "For years, international partners have helped Somalia fight Al-Shabaab, train troops and strengthen its security institutions. Yet this support has also exposed a serious weakness: the country's security remains deeply dependent on external funding, equipment, training and political commitments. The withdrawal of Ugandan forces from several forward operating bases in Lower Shabelle has brought this challenge into sharper focus. Somali forces are expected to assume greater responsibility, but concerns remain about whether they have the personnel, equipment, experience and financial resources to",
+          "pubDate": "Wed, 04 Nov 2026 10:41:44 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "NASCON Unveils New Seasonings As Dangote Deepens Commitment To Local Production"
+          "titleIt": "Editorial: Somalia's Security Dilemma: Can a Nation Dependent on Foreign Forces Defend Itself?"
         },
         {
-          "title": "Egypt Regions and Provinces Explained",
-          "link": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-12T05:30:00Z",
+          "title": "More than 175,000 affected by floods as Somalia faces further heavy rains",
+          "link": "https://hornobserver.com/articles/3799/More-than-175-000-affected-by-floods-as-Somalia-faces-further-heavy-rains",
+          "description": "Gaalkacyo, Abudwaq and Baidoa were among the hardest-hit areas. Area-Based Coordination teams reported that floods destroyed 1,515 shelters and damaged another 4,498 during the month. Floodwaters also damaged or inundated 2,110 latrines, 137 water points, 72 schools and 55 health facilities, disrupting access to essential services. Water levels in the Shabelle River rose significantly during the final week of October, approaching moderate flood-risk thresholds in Belet Weyne district in Hiraan region. Levels also increased in Bulo Burto, while the Juba River remained relatively low. The Food a",
+          "pubDate": "Sun, 01 Nov 2026 18:22:12 +0300",
+          "source": "Horn Observer",
           "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Regions and Provinces Explained"
+          "titleIt": "More than 175,000 affected by floods as Somalia faces further heavy rains"
+        },
+        {
+          "title": "U.S. adds Somalia to port security watch list amid Trump's escalating criticism of Somali community",
+          "link": "https://hornobserver.com/articles/3798/US-adds-Somalia-to-port-security-watch-list-amid-Trumps-escalating-criticism-of-Somali-community",
+          "description": "The U.S. Coast Guard announced the designation in a Federal Register notice published October.27, 2026 and&nbsp; took effect upon announcement. The measure allows U.S. authorities to impose additional entry requirements on vessels arriving from Somali ports. The announcement comes against the backdrop of Trump's increasingly hostile rhetoric toward Somalis and his repeated attacks on Democratic Rep. Ilhan Omar, a Somali-born U.S. citizen representing Minnesota.&nbsp; Trump has also repeatedly targeted Somali immigrants in Minnesota, at times making sweeping negative statements about the commun",
+          "pubDate": "Sat, 31 Oct 2026 21:17:23 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "U.S. adds Somalia to port security watch list amid Trump's escalating criticism of Somali community"
+        },
+        {
+          "title": "Uganda Begins Somalia Troop Withdrawal as Ethiopia Weighs Pullback",
+          "link": "https://hornobserver.com/articles/3796/Uganda-Begins-Somalia-Troop-Withdrawal-as-Ethiopia-Weighs-Pullback",
+          "description": "&nbsp; As we promised, we have started withdrawing UPDF from Somalia. After 20 years of a lot of blood and sacrifice we are handing over security to our Somali brothers.— Muhoozi Kainerugaba (@mkainerugaba) October 29, 2026 // &nbsp; On Wednesday, Gen. Muhoozi Kainerugaba, Uganda's chief of defence forces, said Uganda had begun withdrawing its troops from Somalia. \"After 20 years of a lot of blood and sacrifice, we are handing over security to our Somali brothers,\" Kainerugaba said. The move comes amid renewed fighting in southern Somalia and uncertainty over the future of international securi",
+          "pubDate": "Thu, 29 Oct 2026 21:44:21 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Uganda Begins Somalia Troop Withdrawal as Ethiopia Weighs Pullback"
+        },
+        {
+          "title": "Somalia: Press Freedom Under Pressure as Puntland Journalists Face Police Action Over Security Reporting",
+          "link": "https://hornobserver.com/articles/3795/Somalia-Press-Freedom-Under-Pressure-as-Puntland-Journalists-Face-Police-Action-Over-Security-Reporting",
+          "description": "The Somali Journalists Syndicate (SJS) - a journalist union based in Mogadishu - said two journalists faced police action in October after reporting on security developments in Puntland, including clashes between police and clan gunmen. Maher Mohamud Ahmed was summoned by police in the city of Qardho on October 16, a day after covering clashes between Puntland's newly deployed Birmad police force and clan gunmen. The violence reportedly stemmed from a government operation to disarm clan militias and left at least two people dead, according to local media. Maher, who publishes reports on Facebo",
+          "pubDate": "Thu, 29 Oct 2026 19:03:21 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia: Press Freedom Under Pressure as Puntland Journalists Face Police Action Over Security Reporting"
+        },
+        {
+          "title": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia",
+          "link": "https://hornobserver.com/articles/3790/Somalias-Eritrean-trained-naval-chief-appointment-risks-further-straining-ties-with-Ethiopia",
+          "description": "Mohamed Abdulqadir \"Shariif\" has been appointed commander of the Somali Navy and Coastal Defence Forces, replacing Brig. Gen. Abdiwahab Omar. His military training in Eritrea comes at a sensitive time for the region, with relations between Ethiopia and Eritrea deteriorating and renewed fighting in northern Ethiopia raising fears of a wider confrontation.&nbsp; The appointment could cause concern in Addis Ababa, particularly as Somalia has strengthened its engagement with Eritrea and Egypt amid longstanding disputes with Ethiopia over sovereignty, regional security and access to the Red Sea. Th",
+          "pubDate": "Mon, 26 Oct 2026 12:01:56 +0300",
+          "source": "Horn Observer",
+          "lang": "en",
+          "titleIt": "Somalia's Eritrean-trained naval chief appointment risks further straining ties with Ethiopia"
+        },
+        {
+          "title": "Containing the New War in Northern Ethiopia",
+          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
+          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
+          "pubDate": "Thursday, October 15, 2026 - 11:12",
+          "source": "Crisis Group",
+          "lang": "en",
+          "titleIt": "Containing the New War in Northern Ethiopia"
         }
       ]
     },
