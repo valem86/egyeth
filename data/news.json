@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-11-26T00:27:12.889Z",
+  "generatedAt": "2026-11-26T10:58:38.085Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Sudan: Egypt, Sudan Agree to Prioritize Postwar Reconstruction, Reject Red Sea Militarization",
+          "link": "https://allafrica.com/stories/202611260088.html",
+          "description": "[Addis Standard] Addis Abeba -- Egyptian President Abdel Fattah al-Sisi and Sudanese Prime Minister Kamal Idris on November 24 agreed to prioritize Sudan's postwar reconstruction, strengthen bilateral economic cooperation, and reject \"attempts to militarize the Red Sea\" or undermine the \"sovereignty of its coastal states.\"",
+          "pubDate": "Thu, 26 Nov 2026 05:14:12 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Egypt, Sudan Agree to Prioritize Postwar Reconstruction, Reject Red Sea Militarization"
+        },
+        {
+          "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+          "link": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
+          "description": "Somalia relies heavily on foreign funding and military support for its very survival.",
+          "pubDate": "Thu, 26 Nov 2026 02:06:10 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "As foreign troops withdraw from Somalia, could al-Shabab take over?"
+        },
         {
           "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
           "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
@@ -14,15 +32,6 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway"
-        },
-        {
-          "title": "Egitto: Tajani esprime solidarieta' per le vittime dell'incendio sulla tangenziale del Cairo",
-          "link": "https://www.agenzianova.com/a/0/8061853/2026-11-25/egitto-tajani-esprime-solidarieta-per-le-vittime-dell-incendio-sulla-tangenziale-del-cairo",
-          "description": "25 nov 21:37 - (Agenzia Nova) - Il ministro degli Affari esteri e della Cooperazione internazionale, Antonio Tajani, ha espresso il proprio... (Res)",
-          "pubDate": "2026-11-25T21:37:15+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Egitto: Tajani esprime solidarieta' per le vittime dell'incendio sulla tangenziale del Cairo"
         },
         {
           "title": "Uganda: Uganda, Somalia Agree to Intensify Military Offensive Against Al-Shabaab",
@@ -48,22 +57,22 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Trasporti: Emirates punta a collegamento Dubai-Milano-Lima, atteso il via libera italiano",
-          "link": "https://www.agenzianova.com/a/0/8061858/2026-11-25/trasporti-emirates-punta-a-collegamento-dubai-milano-lima-atteso-il-via-libera-italiano",
-          "description": "25 nov 21:51 - (Agenzia Nova) - La compagnia aerea emiratina Emirates e' interessata ad attivare un collegamento tra Dubai e Lima, con scalo... (Res)",
-          "pubDate": "2026-11-25T21:51:21+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Trasporti: Emirates punta a collegamento Dubai-Milano-Lima, atteso il via libera italiano"
+          "title": "Kenya: Ambassador Del Monaco Unveils Work of Art at the Residence in Nairobi",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/26/kenya-ambassador-del-monaco-unveils-work-of-art-at-the-residence-in-nairobi_0d18af06-173d-4a7d-9335-bd69f947bc88.html",
+          "description": "(ANSA) - NAIROBI, 26 NOV - The Italian Ambassador to Kenya, Vincenzo Del Monaco, unveiled a figurative and conceptual artwork at his residence in Nairobi, transforming the residence’s swimming pool into a permanent art installation. The artist behind the work—which reimagines the topographic map of Mount Kenya, a symbol of the country, in color—is Michela Picchi, an Italian multidisciplinary artist known for her works that blend pop art, surrealism, and vibrant colors. “In a place where the earth is as red as a beating heart, framed and enveloped by the lush greenery of the tropical forest, th",
+          "pubDate": "Thu, 26 Nov 2026 08:02:04 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "Kenya: Ambassador Del Monaco Unveils Work of Art at the Residence in Nairobi"
         },
         {
-          "title": "Ethiopia: Sudan's Army-Aligned Government Rejects Abiy's Dialogue Call - RSF-Backed Administration Welcomes It",
-          "link": "https://allafrica.com/stories/202611250535.html",
-          "description": "[Addis Standard] Addis Abeba -- Sudan's army-aligned government has rejected Ethiopian Prime Minister Abiy Ahmed's invitation for an inclusive Sudanese dialogue hosted in Ethiopia, while a rival administration aligned with the Rapid Support Forces (RSF) has welcomed the initiative, highlighting divisions over Ethiopia's proposed role in efforts to end Sudan's war.",
-          "pubDate": "Wed, 25 Nov 2026 15:20:43 GMT",
-          "source": "AllAfrica",
+          "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+          "link": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
+          "description": "Somalia relies heavily on foreign funding and military support for its very survival.",
+          "pubDate": "Thu, 26 Nov 2026 02:06:10 GMT",
+          "source": "BBC Africa",
           "lang": "en",
-          "titleIt": "Ethiopia: Sudan's Army-Aligned Government Rejects Abiy's Dialogue Call - RSF-Backed Administration Welcomes It"
+          "titleIt": "As foreign troops withdraw from Somalia, could al-Shabab take over?"
         },
         {
           "title": "Kenya: IEBC Denies Clearing Gachagua for 2027 Presidential Race",
@@ -82,12 +91,183 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Uganda: Uganda, Somalia Agree to Intensify Military Offensive Against Al-Shabaab"
+        },
+        {
+          "title": "The Erosion Of Institutional Memory And The Crisis Of Governance In Somalia And Puntland - Analysis",
+          "link": "https://www.eurasiareview.com/24112026-the-erosion-of-institutional-memory-and-the-crisis-of-governance-in-somalia-and-puntland-analysis/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-11-24T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Erosion Of Institutional Memory And The Crisis Of Governance In Somalia And Puntland - Analysis"
+        },
+        {
+          "title": "Turkey aids Somalia in breaking ground on new naval facilities",
+          "link": "http://www.jpost.com/international/article-915680",
+          "source": "jpost.com",
+          "pubDate": "2026-11-22T12:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Turkey aids Somalia in breaking ground on new naval facilities"
+        },
+        {
+          "title": "UAE builds up military bases in Somalia as US expands interest in region",
+          "link": "http://www.jpost.com/middle-east/article-915630",
+          "source": "jpost.com",
+          "pubDate": "2026-11-21T13:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "UAE builds up military bases in Somalia as US expands interest in region"
+        },
+        {
+          "title": "Somalia expels UAE ambassador , alleging interference",
+          "link": "https://www.jacarandafm.com/news/news/somalia-expels-uae-ambassador-alleging-interference/",
+          "source": "jacarandafm.com",
+          "pubDate": "2026-11-20T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia expels UAE ambassador , alleging interference"
+        },
+        {
+          "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
+          "link": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-11-12T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
+        },
+        {
+          "title": "America 250 : Trump Issues  Victory Day for WWI  Message – PJ Media",
+          "link": "https://pjmedia.com/catherinesalgado/2026/11/11/america-250-trump-issues-victory-day-for-wwi-message-n4959266",
+          "source": "pjmedia.com",
+          "pubDate": "2026-11-12T03:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "America 250 : Trump Issues  Victory Day for WWI  Message – PJ Media"
+        },
+        {
+          "title": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight",
+          "link": "https://www.wsws.org/en/articles/2026/11/10/uael-n10.html",
+          "source": "wsws.org",
+          "pubDate": "2026-11-11T01:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Hakim Adi  Pan - Africanism and Communism : A pro - Stalinist attempt to erase the Trotskyist alternative Part Eight"
+        },
+        {
+          "title": "Somalia : Somaliland President Honours Officer Who Handed Over Suspect in Brother Killing",
+          "link": "https://allafrica.com/stories/202611100061.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-11-10T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland President Honours Officer Who Handed Over Suspect in Brother Killing"
+        },
+        {
+          "title": "Somaliland journalist detained after interviewing Somalia presidential hopeful",
+          "link": "https://horseedmedia.net/somaliland-journalist-detained-after-interviewing-somalia-presidential-hopeful/426800/",
+          "source": "horseedmedia.net",
+          "pubDate": "2026-10-24T18:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somaliland journalist detained after interviewing Somalia presidential hopeful"
+        },
+        {
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
+        {
+          "title": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition",
+          "link": "https://www.garoweonline.com/en/world/africa/china-and-djibouti-send-clear-message-to-israel-over-somaliland-recognition",
+          "source": "garoweonline.com",
+          "pubDate": "2026-10-24T06:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "China and Djibouti Send Clear Message to Israel Over Somaliland Recognition"
+        },
+        {
+          "title": "Why Israeli recognition has been a double - edged sword for Somaliland",
+          "link": "https://www.csmonitor.com/World/Africa/2026/1022/somaliland-recognition-israel-trump",
+          "source": "csmonitor.com",
+          "pubDate": "2026-10-22T09:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Why Israeli recognition has been a double - edged sword for Somaliland"
+        },
+        {
+          "title": "Somalia : Somaliland Leads Abraham Accords Predictions On Polymarket",
+          "link": "https://allafrica.com/stories/202610220051.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-22T06:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia : Somaliland Leads Abraham Accords Predictions On Polymarket"
+        },
+        {
+          "title": "From the Scramble for Africa to Somalia Fragmentation : Will History Repeat Itself ?",
+          "link": "https://wardheernews.com/from-the-scramble-for-africa-to-somalias-fragmentation-will-history-repeat-itself/",
+          "source": "wardheernews.com",
+          "pubDate": "2026-10-22T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "From the Scramble for Africa to Somalia Fragmentation : Will History Repeat Itself ?"
+        },
+        {
+          "title": "Somalia Says Somaliland Visa Row Is Over , 21 Oct 2026",
+          "link": "https://www.riotimesonline.com/somalia-somaliland-visa-row-ends-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-21T20:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Somalia Says Somaliland Visa Row Is Over , 21 Oct 2026"
+        },
+        {
+          "title": "Ethiopia : Prisoner of History , Not Geography",
+          "link": "https://allafrica.com/stories/202610200686.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-10-20T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia : Prisoner of History , Not Geography"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "UK sent Sri Lankan refugee to Eswatini in secret deal, the BBC says",
+          "link": "http://www.africanews.com/2026/11/26/uk-sent-sri-lankan-refugee-to-eswatini-in-secret-deal-the-bbc-says/",
+          "description": "The United Kingdom reportedly sent a Sri Lankan refugee who had been convicted of sexual assault to Eswatini, where he committed suicide, as part of a secret deal, according to an investigation by the BBC.",
+          "pubDate": "Thu, 26 Nov 2026 10:10:16 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "UK sent Sri Lankan refugee to Eswatini in secret deal, the BBC says"
+        },
+        {
+          "title": "Sudan: Egypt, Sudan Agree to Prioritize Postwar Reconstruction, Reject Red Sea Militarization",
+          "link": "https://allafrica.com/stories/202611260088.html",
+          "description": "[Addis Standard] Addis Abeba -- Egyptian President Abdel Fattah al-Sisi and Sudanese Prime Minister Kamal Idris on November 24 agreed to prioritize Sudan's postwar reconstruction, strengthen bilateral economic cooperation, and reject \"attempts to militarize the Red Sea\" or undermine the \"sovereignty of its coastal states.\"",
+          "pubDate": "Thu, 26 Nov 2026 05:14:12 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Egypt, Sudan Agree to Prioritize Postwar Reconstruction, Reject Red Sea Militarization"
+        },
+        {
+          "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+          "link": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
+          "description": "Somalia relies heavily on foreign funding and military support for its very survival.",
+          "pubDate": "Thu, 26 Nov 2026 02:06:10 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "As foreign troops withdraw from Somalia, could al-Shabab take over?"
+        },
         {
           "title": "South Africa's Ramaphosa says talks ongoing with US over AGOA exclusion",
           "link": "http://www.africanews.com/2026/11/25/south-africas-ramaphosa-says-talks-ongoing-with-us-over-agoa-exclusion/",
@@ -107,15 +287,6 @@
           "titleIt": "UNIDO: Italy’s Commitment to Industrial Development"
         },
         {
-          "title": "Ethiopia: Sudan's Army-Aligned Government Rejects Abiy's Dialogue Call - RSF-Backed Administration Welcomes It",
-          "link": "https://allafrica.com/stories/202611250535.html",
-          "description": "[Addis Standard] Addis Abeba -- Sudan's army-aligned government has rejected Ethiopian Prime Minister Abiy Ahmed's invitation for an inclusive Sudanese dialogue hosted in Ethiopia, while a rival administration aligned with the Rapid Support Forces (RSF) has welcomed the initiative, highlighting divisions over Ethiopia's proposed role in efforts to end Sudan's war.",
-          "pubDate": "Wed, 25 Nov 2026 15:20:43 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Ethiopia: Sudan's Army-Aligned Government Rejects Abiy's Dialogue Call - RSF-Backed Administration Welcomes It"
-        },
-        {
           "title": "Ethiopia: Ethiopia, Pakistan Agree to Deepen Defence and Aviation Cooperation",
           "link": "https://allafrica.com/stories/202611250391.html",
           "description": "[ENA] Addis Ababa -- Ethiopia and Pakistan have agreed to strengthen bilateral cooperation in defence and aviation, opening further avenues for strategic partnership between the two countries.",
@@ -123,60 +294,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Ethiopia: Ethiopia, Pakistan Agree to Deepen Defence and Aviation Cooperation"
-        },
-        {
-          "title": "East Africa: Somalia's Parliament Speaker Accuses Kenya, Ethiopia, Uganda of Colluding With Al-Shabaab",
-          "link": "https://allafrica.com/stories/202611250227.html",
-          "description": "[Addis Standard] Addis Abeba -- Somalia's parliamentary speaker Abdulkadir Mohamed Nur, also known as Jaamac, has accused Kenya, Ethiopia and Uganda of colluding with Al-Shabaab, alleging that Israel had brought together the three countries, the militant group and forces loyal to former South West State leader Abdiaziz Hassan Mohamed Laftagareen in a coordinated front against the federal government.",
-          "pubDate": "Wed, 25 Nov 2026 10:18:15 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "East Africa: Somalia's Parliament Speaker Accuses Kenya, Ethiopia, Uganda of Colluding With Al-Shabaab"
-        },
-        {
-          "title": "Africa: Rwanda's Return Hub Plan Risks Making Africa Europe's 'Drop-Off Zone'",
-          "link": "https://allafrica.com/stories/202611250226.html",
-          "description": "[ISS] Offshore deportation deals will produce opacity, shield authoritarian governments and drive more political signalling than reduce migration pressures.",
-          "pubDate": "Wed, 25 Nov 2026 10:17:37 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: Rwanda's Return Hub Plan Risks Making Africa Europe's 'Drop-Off Zone'"
-        },
-        {
-          "title": "The Gen - Z struggles in Africa and the European working class",
-          "link": "https://www.wsws.org/en/articles/2026/11/24/nlll-n24.html",
-          "source": "wsws.org",
-          "pubDate": "2026-11-25T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Gen - Z struggles in Africa and the European working class"
-        },
-        {
-          "title": "Drone Strikes Hit Khartoum Homes and UN Facility as Civilian Toll Rises in Sudan",
-          "link": "https://www.latintimes.com/sudan-drone-strikes-khartoum-un-facility-601738",
-          "source": "latintimes.com",
-          "pubDate": "2026-11-25T00:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone Strikes Hit Khartoum Homes and UN Facility as Civilian Toll Rises in Sudan"
-        },
-        {
-          "title": "ILO , IGAD Champion Ethical Migration , Worker Rights",
-          "link": "https://www.miragenews.com/ilo-igad-champion-ethical-migration-workers-1783156/",
-          "source": "miragenews.com",
-          "pubDate": "2026-11-24T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "ILO , IGAD Champion Ethical Migration , Worker Rights"
-        },
-        {
-          "title": "ILO , IGAD Promote Ethical Reporting on Migrant Worker Rights",
-          "link": "https://www.miragenews.com/ilo-igad-promote-ethical-reporting-on-migrant-1783177/",
-          "source": "miragenews.com",
-          "pubDate": "2026-11-24T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "ILO , IGAD Promote Ethical Reporting on Migrant Worker Rights"
         },
         {
           "title": "'Major strides' on a wealth tax at the progressive coalition's policy talks",
@@ -197,76 +314,13 @@
           "titleIt": "'Major strides' on a wealth tax at the progressive coalition's policy talks"
         },
         {
-          "title": "Calabria Signs Agreement to Participate in Expo 2027 in Belgrade",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/24/calabria-signs-agreement-to-participate-in-expo-2027-in-belgrade_fd2ded52-cbe4-41e0-9378-ac54d740e10c.html",
-          "description": "(ANSA) - BELGRADO, 24 NOV - The Commissioner of the Italian Pavilion at Expo 2027 Belgrade, Ambassador to Serbia Luca Gori, and the President of the Calabria Region, Roberto Occhiuto, signed the agreement outlining the terms of the Region’s participation in the International Specialized Exposition, scheduled to take place in the Serbian capital from May 15 to August 15, 2027. Expo 2027 Belgrade, titled “Playing for Humanity: Sports and Music for All,” will feature the participation of approximately 140 countries. The signed agreement implements the Framework Agreement initialed on June 24, 202",
-          "pubDate": "Tue, 24 Nov 2026 13:17:51 +0100",
-          "source": "ANSA English",
+          "title": "Containing the New War in Northern Ethiopia",
+          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
+          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
+          "pubDate": "Thursday, October 15, 2026 - 11:12",
+          "source": "Crisis Group",
           "lang": "en",
-          "titleIt": "Calabria Signs Agreement to Participate in Expo 2027 in Belgrade"
-        },
-        {
-          "title": "Lombardy Signs Agreement to Participate in Expo 2027 in Belgrade",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/24/lombardy-signs-agreement-to-participate-in-expo-2027-in-belgrade_3b69cb61-09fe-4634-b426-c1fd45981dc9.html",
-          "description": "(ANSA) - BELGRADO, 24 NOV - The Commissioner of the Italian Pavilion at Expo 2027 Belgrade, Ambassador to Serbia Luca Gori, and the President of the Lombardy Region, Attilio Fontana, signed the agreement outlining the terms of the Region’s participation in the International Specialized Exposition, scheduled to take place in the Serbian capital from May 15 to August 15, 2027. Expo 2027 Belgrade, titled “Playing for Humanity: Sports and Music for All,” will feature the participation of approximately 140 countries. The signed agreement implements the Framework Agreement initialed on June 24, 2026",
-          "pubDate": "Tue, 24 Nov 2026 10:45:17 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Lombardy Signs Agreement to Participate in Expo 2027 in Belgrade"
-        },
-        {
-          "title": "The Erosion Of Institutional Memory And The Crisis Of Governance In Somalia And Puntland - Analysis",
-          "link": "https://www.eurasiareview.com/24112026-the-erosion-of-institutional-memory-and-the-crisis-of-governance-in-somalia-and-puntland-analysis/",
-          "source": "eurasiareview.com",
-          "pubDate": "2026-11-24T07:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Erosion Of Institutional Memory And The Crisis Of Governance In Somalia And Puntland - Analysis"
-        },
-        {
-          "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
-          "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-          "description": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
-          "pubDate": "Tue, 24 Nov 2026 01:21:41 GMT",
-          "source": "BBC World",
-          "lang": "en",
-          "titleIt": "Cheers and applause as Jensen Huang returns to Nvidia office"
-        },
-        {
-          "title": "Tensions in Libya and COP31 climate challenges [Africanews Today]",
-          "link": "http://www.africanews.com/2026/11/23/tensions-in-libya-and-cop31-climate-challenges-africanews-today/",
-          "description": "Tensions are rising in Libya following an attack on two vessels off the coast of Benghazi, including a Russian ship. Naval forces in the east of the country have been placed on maximum alert. Kyiv claims to have carried out an operation targeting Russian military assets, while the United Nations is",
-          "pubDate": "Mon, 23 Nov 2026 19:48:24 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Tensions in Libya and COP31 climate challenges [Africanews Today]"
-        },
-        {
-          "title": "Statement by Foreign Minister Osman Saleh at the Sixth Edition of the Aswan Forum for Sustainable Peace and Development",
-          "link": "https://shabait.com/2026/11/22/statement-by-at-the-sixth-edition-of-the-aswan-forum-for-sustainable-peace-and-development/",
-          "source": "shabait.com",
-          "pubDate": "2026-11-22T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Statement by Foreign Minister Osman Saleh at the Sixth Edition of the Aswan Forum for Sustainable Peace and Development"
-        },
-        {
-          "title": "Turkey aids Somalia in breaking ground on new naval facilities",
-          "link": "http://www.jpost.com/international/article-915680",
-          "source": "jpost.com",
-          "pubDate": "2026-11-22T12:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Turkey aids Somalia in breaking ground on new naval facilities"
-        },
-        {
-          "title": "Op - Ed| DEMOCRACY DIES IN DARKNESS : What Antalya overtime deadlock reveals about the world broken climate finance order",
-          "link": "https://www.radiotamazuj.org/en/news/article/op-ed-democracy-dies-in-darkness-what-antalyas-overtime-deadlock-reveals-about-the-worlds-broken-climate-finance-order",
-          "source": "radiotamazuj.org",
-          "pubDate": "2026-11-22T07:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Op - Ed| DEMOCRACY DIES IN DARKNESS : What Antalya overtime deadlock reveals about the world broken climate finance order"
+          "titleIt": "Containing the New War in Northern Ethiopia"
         }
       ]
     },
@@ -274,200 +328,190 @@
       "title": "Fragilità economica egiziana",
       "items": [
         {
-          "title": "Italian cooperation supports the empowerment of women in Egypt",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/24/italian-cooperation-supports-the-empowerment-of-women-in-egypt_24003cf2-3882-4133-b773-405e8860f721.html",
-          "description": "(ANSA) - IL CAIRO, 24 NOV - Italian Cooperation supports the economic and social empowerment of women in rural areas of Egypt through various projects, with the goals of strengthening their economic autonomy, expanding access to services for the prevention of and response to gender-based violence, and promoting more active participation in the life of local communities. The Egyptian branch of the Italian Agency for Development Cooperation highlighted this on the eve of the International Day for the Elimination of Violence against Women, which is observed annually on November 25 and marks the s",
-          "pubDate": "Tue, 24 Nov 2026 22:32:34 +0100",
-          "source": "ANSA English",
+          "title": "Overnight News Digest : November 25 , 2026",
+          "link": "https://www.dailykos.com/stories/2026/11/25/800134153/community/overnight-news-digest-november-25-2026/",
+          "source": "dailykos.com",
+          "pubDate": "2026-11-26T05:45:00Z",
           "lang": "en",
-          "titleIt": "Italian cooperation supports the empowerment of women in Egypt"
+          "description": "",
+          "titleIt": "Overnight News Digest : November 25 , 2026"
+        },
+        {
+          "title": "Sudan: Egypt, Sudan Agree to Prioritize Postwar Reconstruction, Reject Red Sea Militarization",
+          "link": "https://allafrica.com/stories/202611260088.html",
+          "description": "[Addis Standard] Addis Abeba -- Egyptian President Abdel Fattah al-Sisi and Sudanese Prime Minister Kamal Idris on November 24 agreed to prioritize Sudan's postwar reconstruction, strengthen bilateral economic cooperation, and reject \"attempts to militarize the Red Sea\" or undermine the \"sovereignty of its coastal states.\"",
+          "pubDate": "Thu, 26 Nov 2026 05:14:12 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Sudan: Egypt, Sudan Agree to Prioritize Postwar Reconstruction, Reject Red Sea Militarization"
+        },
+        {
+          "title": "Despite Africa Digital Progress , 64 % Usage Gap Poses Challenge for Policymakers – THISDAYLIVE",
+          "link": "https://www.thisdaylive.com/2026/11/26/despite-africas-digital-progress-64-usage-gap-poses-challenge-for-policymakers/",
+          "source": "thisdaylive.com",
+          "pubDate": "2026-11-26T03:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Despite Africa Digital Progress , 64 % Usage Gap Poses Challenge for Policymakers – THISDAYLIVE"
+        },
+        {
+          "title": "Georg Lukacs : Lessons for struggle today",
+          "link": "https://links.org.au/georg-lukacs-lessons-struggle-today",
+          "source": "links.org.au",
+          "pubDate": "2026-11-26T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Georg Lukacs : Lessons for struggle today"
+        },
+        {
+          "title": "Jordan Oil Terminals Company partners with Egypt ENPPI to design industrial gas networks",
+          "link": "https://kenya-today.com/report-jordan-oil-terminals-company-partners-with-egypts-enppi-to-design-industrial-gas-networks-33224/",
+          "source": "kenya-today.com",
+          "pubDate": "2026-11-26T02:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Jordan Oil Terminals Company partners with Egypt ENPPI to design industrial gas networks"
+        },
+        {
+          "title": "India could secure lower US tariffs than several Asian competitors if trade deal materialises",
+          "link": "http://www.europesun.com/news/279454251/india-could-secure-lower-us-tariffs-than-several-asian-competitors-if-trade-deal-materialises",
+          "source": "europesun.com",
+          "pubDate": "2026-11-26T01:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India could secure lower US tariffs than several Asian competitors if trade deal materialises"
+        },
+        {
+          "title": "Monterey County Holiday Events : Ice Skating , Music & More | Arts & Culture",
+          "link": "https://www.montereycountynow.com/entertainment/art/hot-picks-11-26-26/article_c16d48e4-56ff-4126-8d02-bc9b97c67aff.html",
+          "source": "montereycountynow.com",
+          "pubDate": "2026-11-26T00:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Monterey County Holiday Events : Ice Skating , Music & More | Arts & Culture"
+        },
+        {
+          "title": "U . S . stocks explode higher as Nvidia chief returns",
+          "link": "http://www.australiannews.net/news/279451118/u-s-stocks-explode-higher-as-nvidia-s-chief-returns",
+          "source": "australiannews.net",
+          "pubDate": "2026-11-25T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks explode higher as Nvidia chief returns"
+        },
+        {
+          "title": "India condemns Houthi attack on Riyadh tower that injured 11 , including 2 Indians : MEA",
+          "link": "https://aninews.in/news/world/middle-east/india-condemns-houthi-attack-on-riyadh-tower-that-injured-11-including-2-indians-mea20261125100534/",
+          "source": "aninews.in",
+          "pubDate": "2026-11-25T05:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "India condemns Houthi attack on Riyadh tower that injured 11 , including 2 Indians : MEA"
+        },
+        {
+          "title": "Houthi Strike Hits Riyadh PIF Tower Again , Injuring 11",
+          "link": "https://www.hngn.com/articles/273952/20261124/houthi-strike-hits-riyadhs-pif-tower-again-injuring-11.htm",
+          "source": "hngn.com",
+          "pubDate": "2026-11-25T03:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Houthi Strike Hits Riyadh PIF Tower Again , Injuring 11"
+        },
+        {
+          "title": "How the construction , desecration and destruction of Jerusalem ancient temples shaped Judaism – and Hanukkah",
+          "link": "https://theconversation.com/how-the-construction-desecration-and-destruction-of-jerusalems-ancient-temples-shaped-judaism-and-hanukkah-297050",
+          "source": "theconversation.com",
+          "pubDate": "2026-11-25T03:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "How the construction , desecration and destruction of Jerusalem ancient temples shaped Judaism – and Hanukkah"
+        },
+        {
+          "title": "Where Will Military Rule Return Next ?",
+          "link": "https://slguardian.org/where-will-military-rule-return-next/",
+          "source": "slguardian.org",
+          "pubDate": "2026-11-25T03:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Where Will Military Rule Return Next ?"
+        },
+        {
+          "title": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356",
+          "link": "http://www.newzealandstar.com/news/279452544/u-s-stocks-end-mixed-tuesday-dow-gains-426-points-nasdaq-drops-356",
+          "source": "newzealandstar.com",
+          "pubDate": "2026-11-25T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356"
+        },
+        {
+          "title": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356",
+          "link": "http://www.austinglobe.com/news/279452544/u-s-stocks-end-mixed-tuesday-dow-gains-426-points-nasdaq-drops-356",
+          "source": "austinglobe.com",
+          "pubDate": "2026-11-25T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356"
+        },
+        {
+          "title": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356",
+          "link": "http://www.zimbabwestar.com/news/279452544/u-s-stocks-end-mixed-tuesday-dow-gains-426-points-nasdaq-drops-356",
+          "source": "zimbabwestar.com",
+          "pubDate": "2026-11-25T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356"
+        },
+        {
+          "title": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356",
+          "link": "http://www.philippinetimes.com/news/279452544/u-s-stocks-end-mixed-tuesday-dow-gains-426-points-nasdaq-drops-356",
+          "source": "philippinetimes.com",
+          "pubDate": "2026-11-25T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356"
+        },
+        {
+          "title": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356",
+          "link": "http://www.newyorktelegraph.com/news/279452544/u-s-stocks-end-mixed-tuesday-dow-gains-426-points-nasdaq-drops-356",
+          "source": "newyorktelegraph.com",
+          "pubDate": "2026-11-25T01:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356"
+        },
+        {
+          "title": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356",
+          "link": "http://www.africaleader.com/news/279452544/u-s-stocks-end-mixed-tuesday-dow-gains-426-points-nasdaq-drops-356",
+          "source": "africaleader.com",
+          "pubDate": "2026-11-25T01:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356"
+        },
+        {
+          "title": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356",
+          "link": "http://www.milwaukeesun.com/news/279452544/u-s-stocks-end-mixed-tuesday-dow-gains-426-points-nasdaq-drops-356",
+          "source": "milwaukeesun.com",
+          "pubDate": "2026-11-25T01:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356"
+        },
+        {
+          "title": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356",
+          "link": "http://www.tucsonpost.com/news/279452544/u-s-stocks-end-mixed-tuesday-dow-gains-426-points-nasdaq-drops-356",
+          "source": "tucsonpost.com",
+          "pubDate": "2026-11-25T01:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356"
         }
       ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": [
-        {
-          "title": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary",
-          "link": "https://allafrica.com/stories/202611130515.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-13T18:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary"
-        },
-        {
-          "title": "Egypt Regions and Provinces Explained",
-          "link": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-12T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Egypt Regions and Provinces Explained"
-        },
-        {
-          "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
-          "link": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-11-12T05:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
-        },
-        {
-          "title": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia",
-          "link": "https://allafrica.com/stories/202611100043.html",
-          "source": "allafrica.com",
-          "pubDate": "2026-11-10T06:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia"
-        },
-        {
-          "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
-          "link": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
-          "source": "aljazeera.com",
-          "pubDate": "2026-11-03T11:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia"
-        },
-        {
-          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
-          "link": "https://www.thereporterethiopia.com/53621/",
-          "source": "thereporterethiopia.com",
-          "pubDate": "2026-10-24T08:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
-        },
-        {
-          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
-          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
-          "source": "warontherocks.com",
-          "pubDate": "2026-10-21T20:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
-        },
-        {
-          "title": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal",
-          "link": "https://chimpreports.com/ethiopias-abiy-pushes-nuclear-power-development-after-russia-deal/",
-          "source": "chimpreports.com",
-          "pubDate": "2026-10-21T12:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal"
-        },
-        {
-          "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
-          "link": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-10-20T09:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
-          "source": "newsday.com",
-          "pubDate": "2026-10-20T06:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
-          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
-          "source": "riotimesonline.com",
-          "pubDate": "2026-10-20T02:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
-          "source": "sitkasentinel.com",
-          "pubDate": "2026-10-19T16:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
-          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
-          "source": "wral.com",
-          "pubDate": "2026-10-19T15:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
-          "source": "thepeterboroughexaminer.com",
-          "pubDate": "2026-10-19T15:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
-          "source": "niagarafallsreview.ca",
-          "pubDate": "2026-10-19T15:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
-          "link": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
-          "source": "arabnews.com",
-          "pubDate": "2026-10-19T14:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
-        },
-        {
-          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press",
-          "link": "https://www.winnipegfreepress.com/business/2026/10/19/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict",
-          "source": "winnipegfreepress.com",
-          "pubDate": "2026-10-19T13:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press"
-        },
-        {
-          "title": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem",
-          "link": "https://www.opinionnigeria.com/who-holds-the-valve-water-war-and-the-price-of-peace-by-kator-ifyalem/",
-          "source": "opinionnigeria.com",
-          "pubDate": "2026-10-18T14:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem"
-        },
-        {
-          "title": "The Region Real Picture , Without AI Beautification",
-          "link": "https://english.aawsat.com/opinion/5330701-region%E2%80%99s-real-picture-without-ai-beautification",
-          "source": "english.aawsat.com",
-          "pubDate": "2026-10-18T08:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Region Real Picture , Without AI Beautification"
-        },
-        {
-          "title": "El Sisi insists he will leave office in 2030 as he outlines succession plan",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/17/el-sisi-insists-he-will-leave-office-in-2030-as-he-outlines-succession-plan/",
-          "source": "thenationalnews.com",
-          "pubDate": "2026-10-17T21:00:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "El Sisi insists he will leave office in 2030 as he outlines succession plan"
-        }
-      ]
+      "items": []
     }
   }
 }
