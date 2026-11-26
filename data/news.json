@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-11-25T14:30:10.407Z",
+  "generatedAt": "2026-11-26T00:27:12.889Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+          "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+          "description": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+          "pubDate": "Wed, 25 Nov 2026 22:18:06 GMT",
+          "source": "BBC Africa",
+          "lang": "en",
+          "titleIt": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway"
+        },
+        {
+          "title": "Egitto: Tajani esprime solidarieta' per le vittime dell'incendio sulla tangenziale del Cairo",
+          "link": "https://www.agenzianova.com/a/0/8061853/2026-11-25/egitto-tajani-esprime-solidarieta-per-le-vittime-dell-incendio-sulla-tangenziale-del-cairo",
+          "description": "25 nov 21:37 - (Agenzia Nova) - Il ministro degli Affari esteri e della Cooperazione internazionale, Antonio Tajani, ha espresso il proprio... (Res)",
+          "pubDate": "2026-11-25T21:37:15+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: Tajani esprime solidarieta' per le vittime dell'incendio sulla tangenziale del Cairo"
+        },
         {
           "title": "Uganda: Uganda, Somalia Agree to Intensify Military Offensive Against Al-Shabaab",
           "link": "https://allafrica.com/stories/202611250346.html",
@@ -23,21 +41,30 @@
           "source": "ANSA English",
           "lang": "en",
           "titleIt": "Italian cooperation supports the empowerment of women in Egypt"
-        },
-        {
-          "title": "Somalia: An Italian-Funded Master’s Program Launches",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/23/somalia-an-italian-funded-masters-program-launches_11776034-919f-4d5c-a619-8a7937953569.html",
-          "description": "(ANSA) - NAIROBI, 24 NOV - An Executive Master’s program dedicated to the health and justice sectors was inaugurated today at the Somali National University in Mogadishu, as part of the “Public Administration Italy–Somalia Project – Training of Somali Government Officials,” funded by Italian Cooperation and implemented by the University of Palermo. The launch ceremony was attended by the Italian Ambassador to Somalia, Pier Mario Daccò Coppi; the representative of the Italian Agency for Development Cooperation (AICS) in Somalia, Alessandro Dadomo, and high-level officials from the Somali Federa",
-          "pubDate": "Mon, 23 Nov 2026 22:12:15 +0100",
-          "source": "ANSA English",
-          "lang": "en",
-          "titleIt": "Somalia: An Italian-Funded Master’s Program Launches"
         }
       ]
     },
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
+        {
+          "title": "Trasporti: Emirates punta a collegamento Dubai-Milano-Lima, atteso il via libera italiano",
+          "link": "https://www.agenzianova.com/a/0/8061858/2026-11-25/trasporti-emirates-punta-a-collegamento-dubai-milano-lima-atteso-il-via-libera-italiano",
+          "description": "25 nov 21:51 - (Agenzia Nova) - La compagnia aerea emiratina Emirates e' interessata ad attivare un collegamento tra Dubai e Lima, con scalo... (Res)",
+          "pubDate": "2026-11-25T21:51:21+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Trasporti: Emirates punta a collegamento Dubai-Milano-Lima, atteso il via libera italiano"
+        },
+        {
+          "title": "Ethiopia: Sudan's Army-Aligned Government Rejects Abiy's Dialogue Call - RSF-Backed Administration Welcomes It",
+          "link": "https://allafrica.com/stories/202611250535.html",
+          "description": "[Addis Standard] Addis Abeba -- Sudan's army-aligned government has rejected Ethiopian Prime Minister Abiy Ahmed's invitation for an inclusive Sudanese dialogue hosted in Ethiopia, while a rival administration aligned with the Rapid Support Forces (RSF) has welcomed the initiative, highlighting divisions over Ethiopia's proposed role in efforts to end Sudan's war.",
+          "pubDate": "Wed, 25 Nov 2026 15:20:43 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Sudan's Army-Aligned Government Rejects Abiy's Dialogue Call - RSF-Backed Administration Welcomes It"
+        },
         {
           "title": "Kenya: IEBC Denies Clearing Gachagua for 2027 Presidential Race",
           "link": "https://allafrica.com/stories/202611250395.html",
@@ -55,21 +82,39 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Uganda: Uganda, Somalia Agree to Intensify Military Offensive Against Al-Shabaab"
-        },
-        {
-          "title": "Investigation underway into cause of Zanzibar hotel blaze",
-          "link": "http://www.africanews.com/2026/11/23/investigation-underway-into-cause-of-zanzibar-hotel-blaze/",
-          "description": "Investigations continued Monday into the cause of a huge fire that engulfed six hotels along a popular beach in Tanzania ’s semiautonomous archipelago of Zanzibar. Several hotel workers were injured in the blaze over the weekend. Authorities said about 180 tourists were safely evacuated.",
-          "pubDate": "Mon, 23 Nov 2026 16:38:03 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Investigation underway into cause of Zanzibar hotel blaze"
         }
       ]
     },
     "ethiopia-sea-access": {
       "title": "Accesso etiope al mare",
       "items": [
+        {
+          "title": "South Africa's Ramaphosa says talks ongoing with US over AGOA exclusion",
+          "link": "http://www.africanews.com/2026/11/25/south-africas-ramaphosa-says-talks-ongoing-with-us-over-agoa-exclusion/",
+          "description": "South African President Cyril Ramaphosa said Tuesday that his government continues to negotiate with Washington over the future of a major US duty-free deal, a few weeks after the US announced South Africa's exclusion from the African Growth and Opportunity Act.",
+          "pubDate": "Wed, 25 Nov 2026 16:45:30 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "South Africa's Ramaphosa says talks ongoing with US over AGOA exclusion"
+        },
+        {
+          "title": "UNIDO: Italy’s Commitment to Industrial Development",
+          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/25/unido-italys-commitment-to-industrial-development_a2e1fecf-f353-42e3-8976-baa19ad6da56.html",
+          "description": "(ANSA) - VIENNA, 25 NOV - The 54th session of UNIDO’s Industrial Development Board (Industrial Development Board – IDB) of UNIDO was held in Vienna, coinciding with the celebrations for the 60th anniversary of the United Nations Industrial Development Organization, in which Italy plays a leading role as a strategic partner. During the proceedings, Italy’s Permanent Representative to the International Organizations in Vienna, Ambassador Debora Lepre, reaffirmed Italy’s support for UNIDO’s mandate and its contribution to the transformation of production systems, the dissemination of technologica",
+          "pubDate": "Wed, 25 Nov 2026 16:25:14 +0100",
+          "source": "ANSA English",
+          "lang": "en",
+          "titleIt": "UNIDO: Italy’s Commitment to Industrial Development"
+        },
+        {
+          "title": "Ethiopia: Sudan's Army-Aligned Government Rejects Abiy's Dialogue Call - RSF-Backed Administration Welcomes It",
+          "link": "https://allafrica.com/stories/202611250535.html",
+          "description": "[Addis Standard] Addis Abeba -- Sudan's army-aligned government has rejected Ethiopian Prime Minister Abiy Ahmed's invitation for an inclusive Sudanese dialogue hosted in Ethiopia, while a rival administration aligned with the Rapid Support Forces (RSF) has welcomed the initiative, highlighting divisions over Ethiopia's proposed role in efforts to end Sudan's war.",
+          "pubDate": "Wed, 25 Nov 2026 15:20:43 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Ethiopia: Sudan's Army-Aligned Government Rejects Abiy's Dialogue Call - RSF-Backed Administration Welcomes It"
+        },
         {
           "title": "Ethiopia: Ethiopia, Pakistan Agree to Deepen Defence and Aviation Cooperation",
           "link": "https://allafrica.com/stories/202611250391.html",
@@ -98,13 +143,40 @@
           "titleIt": "Africa: Rwanda's Return Hub Plan Risks Making Africa Europe's 'Drop-Off Zone'"
         },
         {
-          "title": "Sudan: Violations Against Women, Girls Escalates",
-          "link": "https://allafrica.com/stories/202611250063.html",
-          "description": "[Dabanga] Blue Nile State -- The Strategic Initiative for Women in the Horn of Africa (SIHA Network) has reported the abduction of 28 women and girls fleeing fighting in Damazin and 15 cases of conflict-related sexual violence against girls under the age of 18 in Blue Nile state. In a statement published yesterday, the organisation has warned of escalating violations against women and girls as fighting intensifies, with thousands of families fleeing their homes and facing growing humanitarian risks.",
-          "pubDate": "Wed, 25 Nov 2026 04:55:46 GMT",
-          "source": "AllAfrica",
+          "title": "The Gen - Z struggles in Africa and the European working class",
+          "link": "https://www.wsws.org/en/articles/2026/11/24/nlll-n24.html",
+          "source": "wsws.org",
+          "pubDate": "2026-11-25T02:30:00Z",
           "lang": "en",
-          "titleIt": "Sudan: Violations Against Women, Girls Escalates"
+          "description": "",
+          "titleIt": "The Gen - Z struggles in Africa and the European working class"
+        },
+        {
+          "title": "Drone Strikes Hit Khartoum Homes and UN Facility as Civilian Toll Rises in Sudan",
+          "link": "https://www.latintimes.com/sudan-drone-strikes-khartoum-un-facility-601738",
+          "source": "latintimes.com",
+          "pubDate": "2026-11-25T00:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Drone Strikes Hit Khartoum Homes and UN Facility as Civilian Toll Rises in Sudan"
+        },
+        {
+          "title": "ILO , IGAD Champion Ethical Migration , Worker Rights",
+          "link": "https://www.miragenews.com/ilo-igad-champion-ethical-migration-workers-1783156/",
+          "source": "miragenews.com",
+          "pubDate": "2026-11-24T23:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "ILO , IGAD Champion Ethical Migration , Worker Rights"
+        },
+        {
+          "title": "ILO , IGAD Promote Ethical Reporting on Migrant Worker Rights",
+          "link": "https://www.miragenews.com/ilo-igad-promote-ethical-reporting-on-migrant-1783177/",
+          "source": "miragenews.com",
+          "pubDate": "2026-11-24T23:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "ILO , IGAD Promote Ethical Reporting on Migrant Worker Rights"
         },
         {
           "title": "'Major strides' on a wealth tax at the progressive coalition's policy talks",
@@ -143,6 +215,15 @@
           "titleIt": "Lombardy Signs Agreement to Participate in Expo 2027 in Belgrade"
         },
         {
+          "title": "The Erosion Of Institutional Memory And The Crisis Of Governance In Somalia And Puntland - Analysis",
+          "link": "https://www.eurasiareview.com/24112026-the-erosion-of-institutional-memory-and-the-crisis-of-governance-in-somalia-and-puntland-analysis/",
+          "source": "eurasiareview.com",
+          "pubDate": "2026-11-24T07:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Erosion Of Institutional Memory And The Crisis Of Governance In Somalia And Puntland - Analysis"
+        },
+        {
           "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
           "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
           "description": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
@@ -161,22 +242,31 @@
           "titleIt": "Tensions in Libya and COP31 climate challenges [Africanews Today]"
         },
         {
-          "title": "China warns against turning Horn of Africa into geopolitical battleground",
-          "link": "http://www.africanews.com/2026/11/23/china-warns-against-turning-horn-of-africa-into-geopolitical-battleground/",
-          "description": "With tensions in the Middle East threatening peace in the Horn of Africa, China is warning against turning the region into a geopolitical battleground. Chinese envoys have visited Ethiopia, Djibouti, Egypt and Eritrea this month.",
-          "pubDate": "Mon, 23 Nov 2026 12:04:55 +0000",
-          "source": "Africanews",
+          "title": "Statement by Foreign Minister Osman Saleh at the Sixth Edition of the Aswan Forum for Sustainable Peace and Development",
+          "link": "https://shabait.com/2026/11/22/statement-by-at-the-sixth-edition-of-the-aswan-forum-for-sustainable-peace-and-development/",
+          "source": "shabait.com",
+          "pubDate": "2026-11-22T12:30:00Z",
           "lang": "en",
-          "titleIt": "China warns against turning Horn of Africa into geopolitical battleground"
+          "description": "",
+          "titleIt": "Statement by Foreign Minister Osman Saleh at the Sixth Edition of the Aswan Forum for Sustainable Peace and Development"
         },
         {
-          "title": "Containing the New War in Northern Ethiopia",
-          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
-          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
-          "pubDate": "Thursday, October 15, 2026 - 11:12",
-          "source": "Crisis Group",
+          "title": "Turkey aids Somalia in breaking ground on new naval facilities",
+          "link": "http://www.jpost.com/international/article-915680",
+          "source": "jpost.com",
+          "pubDate": "2026-11-22T12:30:00Z",
           "lang": "en",
-          "titleIt": "Containing the New War in Northern Ethiopia"
+          "description": "",
+          "titleIt": "Turkey aids Somalia in breaking ground on new naval facilities"
+        },
+        {
+          "title": "Op - Ed| DEMOCRACY DIES IN DARKNESS : What Antalya overtime deadlock reveals about the world broken climate finance order",
+          "link": "https://www.radiotamazuj.org/en/news/article/op-ed-democracy-dies-in-darkness-what-antalyas-overtime-deadlock-reveals-about-the-worlds-broken-climate-finance-order",
+          "source": "radiotamazuj.org",
+          "pubDate": "2026-11-22T07:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Op - Ed| DEMOCRACY DIES IN DARKNESS : What Antalya overtime deadlock reveals about the world broken climate finance order"
         }
       ]
     },
@@ -198,22 +288,184 @@
       "title": "Opacità sui rilasci GERD",
       "items": [
         {
-          "title": "Sudan: Violations Against Women, Girls Escalates",
-          "link": "https://allafrica.com/stories/202611250063.html",
-          "description": "[Dabanga] Blue Nile State -- The Strategic Initiative for Women in the Horn of Africa (SIHA Network) has reported the abduction of 28 women and girls fleeing fighting in Damazin and 15 cases of conflict-related sexual violence against girls under the age of 18 in Blue Nile state. In a statement published yesterday, the organisation has warned of escalating violations against women and girls as fighting intensifies, with thousands of families fleeing their homes and facing growing humanitarian risks.",
-          "pubDate": "Wed, 25 Nov 2026 04:55:46 GMT",
-          "source": "AllAfrica",
+          "title": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary",
+          "link": "https://allafrica.com/stories/202611130515.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-11-13T18:00:00Z",
           "lang": "en",
-          "titleIt": "Sudan: Violations Against Women, Girls Escalates"
+          "description": "",
+          "titleIt": "Ethiopia Green Legacy Showcases Commitment to Global Climate Action - Pmo Press Secretary"
         },
         {
-          "title": "China warns against turning Horn of Africa into geopolitical battleground",
-          "link": "http://www.africanews.com/2026/11/23/china-warns-against-turning-horn-of-africa-into-geopolitical-battleground/",
-          "description": "With tensions in the Middle East threatening peace in the Horn of Africa, China is warning against turning the region into a geopolitical battleground. Chinese envoys have visited Ethiopia, Djibouti, Egypt and Eritrea this month.",
-          "pubDate": "Mon, 23 Nov 2026 12:04:55 +0000",
-          "source": "Africanews",
+          "title": "Egypt Regions and Provinces Explained",
+          "link": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-11-12T05:30:00Z",
           "lang": "en",
-          "titleIt": "China warns against turning Horn of Africa into geopolitical battleground"
+          "description": "",
+          "titleIt": "Egypt Regions and Provinces Explained"
+        },
+        {
+          "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
+          "link": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-11-12T05:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia in Africa , Its Role , Weight and Alliances"
+        },
+        {
+          "title": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia",
+          "link": "https://allafrica.com/stories/202611100043.html",
+          "source": "allafrica.com",
+          "pubDate": "2026-11-10T06:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia"
+        },
+        {
+          "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+          "link": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
+          "source": "aljazeera.com",
+          "pubDate": "2026-11-03T11:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia"
+        },
+        {
+          "title": "Conflict Should Never Be The First Option : | The Reporter Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53621/",
+          "source": "thereporterethiopia.com",
+          "pubDate": "2026-10-24T08:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Conflict Should Never Be The First Option : | The Reporter Ethiopia"
+        },
+        {
+          "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
+          "link": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
+          "source": "warontherocks.com",
+          "pubDate": "2026-10-21T20:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Fighting in Ethiopia and the Risk of Regional Spillover"
+        },
+        {
+          "title": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal",
+          "link": "https://chimpreports.com/ethiopias-abiy-pushes-nuclear-power-development-after-russia-deal/",
+          "source": "chimpreports.com",
+          "pubDate": "2026-10-21T12:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Ethiopia Abiy Pushes Nuclear Power Development After Russia Deal"
+        },
+        {
+          "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
+          "link": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
+          "source": "middleeasteye.net",
+          "pubDate": "2026-10-20T09:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.newsday.com/news/nation/ethiopia-tigray-eritrea-abiy-ahmed-nile-t67567",
+          "source": "newsday.com",
+          "pubDate": "2026-10-20T06:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
+          "link": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/",
+          "source": "riotimesonline.com",
+          "pubDate": "2026-10-20T02:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "US Ambassador Urges Ethiopia Talks 19 Oct"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "http://www.sitkasentinel.com/stories/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict,179778",
+          "source": "sitkasentinel.com",
+          "pubDate": "2026-10-19T16:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com",
+          "link": "https://www.wral.com/news/ap/18294-a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/",
+          "source": "wral.com",
+          "pubDate": "2026-10-19T15:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict :: WRAL . com"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.thepeterboroughexaminer.com/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_800473c7-bbd4-535b-a9c8-31b345bc3e75.html",
+          "source": "thepeterboroughexaminer.com",
+          "pubDate": "2026-10-19T15:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.niagarafallsreview.ca/business/a-look-at-how-ethiopia-s-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict/article_e45aa027-36b8-5163-9ef8-56822c7c6e16.html",
+          "source": "niagarafallsreview.ca",
+          "pubDate": "2026-10-19T15:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict",
+          "link": "https://www.arabnews.com/world/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict-3007181",
+          "source": "arabnews.com",
+          "pubDate": "2026-10-19T14:15:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Arab News | A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict"
+        },
+        {
+          "title": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press",
+          "link": "https://www.winnipegfreepress.com/business/2026/10/19/a-look-at-how-ethiopias-wars-sea-ambitions-and-nile-dam-fuel-fears-of-wider-conflict",
+          "source": "winnipegfreepress.com",
+          "pubDate": "2026-10-19T13:45:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "A look at how Ethiopia wars , sea ambitions and Nile dam fuel fears of wider conflict – Winnipeg Free Press"
+        },
+        {
+          "title": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem",
+          "link": "https://www.opinionnigeria.com/who-holds-the-valve-water-war-and-the-price-of-peace-by-kator-ifyalem/",
+          "source": "opinionnigeria.com",
+          "pubDate": "2026-10-18T14:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem"
+        },
+        {
+          "title": "The Region Real Picture , Without AI Beautification",
+          "link": "https://english.aawsat.com/opinion/5330701-region%E2%80%99s-real-picture-without-ai-beautification",
+          "source": "english.aawsat.com",
+          "pubDate": "2026-10-18T08:30:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "The Region Real Picture , Without AI Beautification"
+        },
+        {
+          "title": "El Sisi insists he will leave office in 2030 as he outlines succession plan",
+          "link": "https://www.thenationalnews.com/news/mena/2026/10/17/el-sisi-insists-he-will-leave-office-in-2030-as-he-outlines-succession-plan/",
+          "source": "thenationalnews.com",
+          "pubDate": "2026-10-17T21:00:00Z",
+          "lang": "en",
+          "description": "",
+          "titleIt": "El Sisi insists he will leave office in 2030 as he outlines succession plan"
         }
       ]
     }
