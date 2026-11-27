@@ -1,20 +1,11 @@
 {
-  "generatedAt": "2026-11-27T04:19:30.324Z",
+  "generatedAt": "2026-11-27T14:02:10.771Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
-        {
-          "title": "Somalia: Somalia PM Says Country Moving Towards Peace-Based Economy",
-          "link": "https://allafrica.com/stories/202611260295.html",
-          "description": "[Shabelle] Mogadishu -- Somali Prime Minister Hamza Abdi Barre on Wednesday opened the ninth National Economic Policy Forum, saying the country must move beyond economic practices shaped by decades of civil conflict and build an economy driven by peace, stability and private investment.",
-          "pubDate": "Thu, 26 Nov 2026 11:00:10 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia PM Says Country Moving Towards Peace-Based Economy"
-        },
         {
           "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
           "link": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
@@ -30,6 +21,33 @@
       "title": "Dossier Somaliland",
       "items": [
         {
+          "title": "Speciale porti: Hormuz, ritrovato corpo del marinaio giordano disperso dopo attacco a petroliera",
+          "link": "https://www.agenzianova.com/a/0/8067281/2026-11-27/speciale-porti-hormuz-ritrovato-corpo-del-marinaio-giordano-disperso-dopo-attacco-a-petroliera",
+          "description": "27 nov 15:00 - (Agenzia Nova) - La Guardia costiera degli Emirati Arabi Uniti ha recuperato il corpo del marinaio giordano disperso dal 17... (Res)",
+          "pubDate": "2026-11-27T15:00:00+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Speciale porti: Hormuz, ritrovato corpo del marinaio giordano disperso dopo attacco a petroliera"
+        },
+        {
+          "title": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP",
+          "link": "https://allafrica.com/stories/202611270343.html",
+          "description": "[WFP] Rome -- Sudan, South Sudan, Somalia, parts of Nigeria and Yemen remain hotspots of highest concern with Southern Africa and the Central American Dry Corridor among new additions",
+          "pubDate": "Fri, 27 Nov 2026 12:21:02 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP"
+        },
+        {
+          "title": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'",
+          "link": "https://allafrica.com/stories/202611270280.html",
+          "description": "[Addis Standard] Addis Abeba -- Eritrea has accused Ethiopia of using maritime diplomacy and regional security forums to mask what it described as territorial ambitions in the Horn of Africa, escalating tensions amid renewed disagreements over Ethiopia's pursuit of Red Sea access.",
+          "pubDate": "Fri, 27 Nov 2026 10:44:31 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'"
+        },
+        {
           "title": "US-backed Ebola quarantine centre violated constitution, Kenyan court rules",
           "link": "http://www.africanews.com/2026/11/26/us-backed-ebola-quarantine-centre-violated-constitution-kenyan-court-rules/",
           "description": "A Kenyan court on Thursday ruled that the government had breached the constitution by allowing the construction of a US-backed Ebola quarantine site at a military base in Laikipia.",
@@ -37,15 +55,6 @@
           "source": "Africanews",
           "lang": "en",
           "titleIt": "US-backed Ebola quarantine centre violated constitution, Kenyan court rules"
-        },
-        {
-          "title": "Somalia: Somalia PM Says Country Moving Towards Peace-Based Economy",
-          "link": "https://allafrica.com/stories/202611260295.html",
-          "description": "[Shabelle] Mogadishu -- Somali Prime Minister Hamza Abdi Barre on Wednesday opened the ninth National Economic Policy Forum, saying the country must move beyond economic practices shaped by decades of civil conflict and build an economy driven by peace, stability and private investment.",
-          "pubDate": "Thu, 26 Nov 2026 11:00:10 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Somalia: Somalia PM Says Country Moving Towards Peace-Based Economy"
         },
         {
           "title": "Kenya: Ambassador Del Monaco Unveils Work of Art at the Residence in Nairobi",
@@ -71,22 +80,22 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Ue: Costa, Stati membri fanno il loro lavoro nei negoziati per budget, e' normale",
-          "link": "https://www.agenzianova.com/a/0/8067567/2026-11-27/ue-costa-stati-membri-fanno-il-loro-lavoro-nei-negoziati-per-budget-e-normale",
-          "description": "27 nov 01:06 - (Agenzia Nova) - Per il presidente del Consiglio europeo Antonio Costa, nel contesto dei negoziati per il prossimo Quadro finanziario... (Brs)",
-          "pubDate": "2026-11-27T01:06:09+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Ue: Costa, Stati membri fanno il loro lavoro nei negoziati per budget, e' normale"
+          "title": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP",
+          "link": "https://allafrica.com/stories/202611270343.html",
+          "description": "[WFP] Rome -- Sudan, South Sudan, Somalia, parts of Nigeria and Yemen remain hotspots of highest concern with Southern Africa and the Central American Dry Corridor among new additions",
+          "pubDate": "Fri, 27 Nov 2026 12:21:02 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP"
         },
         {
-          "title": "Ue: Costa, nessun accordo sul prossimo budget",
-          "link": "https://www.agenzianova.com/a/0/8067565/2026-11-27/ue-costa-nessun-accordo-sul-prossimo-budget",
-          "description": "27 nov 01:04 - (Agenzia Nova) - \"Le discussioni, sia in sessione plenaria che nei vari gruppi di lavoro, sono state molto interessanti. Non... (Brs)",
-          "pubDate": "2026-11-27T01:04:34+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Ue: Costa, nessun accordo sul prossimo budget"
+          "title": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'",
+          "link": "https://allafrica.com/stories/202611270280.html",
+          "description": "[Addis Standard] Addis Abeba -- Eritrea has accused Ethiopia of using maritime diplomacy and regional security forums to mask what it described as territorial ambitions in the Horn of Africa, escalating tensions amid renewed disagreements over Ethiopia's pursuit of Red Sea access.",
+          "pubDate": "Fri, 27 Nov 2026 10:44:31 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'"
         },
         {
           "title": "Aosta Valley Region Signs Agreement to Participate in Expo 2027 Belgrade",
@@ -134,15 +143,6 @@
           "titleIt": "As foreign troops withdraw from Somalia, could al-Shabab take over?"
         },
         {
-          "title": "South Africa's Ramaphosa says talks ongoing with US over AGOA exclusion",
-          "link": "http://www.africanews.com/2026/11/25/south-africas-ramaphosa-says-talks-ongoing-with-us-over-agoa-exclusion/",
-          "description": "South African President Cyril Ramaphosa said Tuesday that his government continues to negotiate with Washington over the future of a major US duty-free deal, a few weeks after the US announced South Africa's exclusion from the African Growth and Opportunity Act.",
-          "pubDate": "Wed, 25 Nov 2026 16:45:30 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "South Africa's Ramaphosa says talks ongoing with US over AGOA exclusion"
-        },
-        {
           "title": "UNIDO: Italy’s Commitment to Industrial Development",
           "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/25/unido-italys-commitment-to-industrial-development_a2e1fecf-f353-42e3-8976-baa19ad6da56.html",
           "description": "(ANSA) - VIENNA, 25 NOV - The 54th session of UNIDO’s Industrial Development Board (Industrial Development Board – IDB) of UNIDO was held in Vienna, coinciding with the celebrations for the 60th anniversary of the United Nations Industrial Development Organization, in which Italy plays a leading role as a strategic partner. During the proceedings, Italy’s Permanent Representative to the International Organizations in Vienna, Ambassador Debora Lepre, reaffirmed Italy’s support for UNIDO’s mandate and its contribution to the transformation of production systems, the dissemination of technologica",
@@ -168,7 +168,17 @@
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
-      "items": []
+      "items": [
+        {
+          "title": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'",
+          "link": "https://allafrica.com/stories/202611270280.html",
+          "description": "[Addis Standard] Addis Abeba -- Eritrea has accused Ethiopia of using maritime diplomacy and regional security forums to mask what it described as territorial ambitions in the Horn of Africa, escalating tensions amid renewed disagreements over Ethiopia's pursuit of Red Sea access.",
+          "pubDate": "Fri, 27 Nov 2026 10:44:31 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'"
+        }
+      ]
     }
   }
 }
