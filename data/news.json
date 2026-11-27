@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-11-27T14:02:10.771Z",
+  "generatedAt": "2026-11-27T22:45:57.880Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
     "egypt-somalia": {
       "title": "Accordi Egitto-Somalia",
       "items": [
+        {
+          "title": "Cairo mourns 31 victims of deadly fuel tanker inferno as families bid farewell",
+          "link": "http://www.africanews.com/2026/11/27/cairo-mourns-31-victims-of-deadly-fuel-tanker-inferno-as-families-bid-farewell/",
+          "description": "Grief and shock have gripped Cairo's Waraq district as families and residents gathered to mourn victims of Wednesday's deadly fuel tanker inferno.",
+          "pubDate": "Fri, 27 Nov 2026 19:50:09 +0000",
+          "source": "Africanews",
+          "lang": "en",
+          "titleIt": "Cairo mourns 31 victims of deadly fuel tanker inferno as families bid farewell"
+        },
         {
           "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
           "link": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
@@ -20,15 +29,6 @@
     "somaliland": {
       "title": "Dossier Somaliland",
       "items": [
-        {
-          "title": "Speciale porti: Hormuz, ritrovato corpo del marinaio giordano disperso dopo attacco a petroliera",
-          "link": "https://www.agenzianova.com/a/0/8067281/2026-11-27/speciale-porti-hormuz-ritrovato-corpo-del-marinaio-giordano-disperso-dopo-attacco-a-petroliera",
-          "description": "27 nov 15:00 - (Agenzia Nova) - La Guardia costiera degli Emirati Arabi Uniti ha recuperato il corpo del marinaio giordano disperso dal 17... (Res)",
-          "pubDate": "2026-11-27T15:00:00+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Speciale porti: Hormuz, ritrovato corpo del marinaio giordano disperso dopo attacco a petroliera"
-        },
         {
           "title": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP",
           "link": "https://allafrica.com/stories/202611270343.html",
@@ -80,6 +80,15 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
+          "title": "Africa: 5 Hunger Hotspots the World Cannot Afford to Ignore in 2027",
+          "link": "https://allafrica.com/stories/202611270344.html",
+          "description": "[WFP] Conflict, extreme weather and economic shocks are driving millions deeper into hunger. A new report examines where the impact will be hardest next year.",
+          "pubDate": "Fri, 27 Nov 2026 12:22:05 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: 5 Hunger Hotspots the World Cannot Afford to Ignore in 2027"
+        },
+        {
           "title": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP",
           "link": "https://allafrica.com/stories/202611270343.html",
           "description": "[WFP] Rome -- Sudan, South Sudan, Somalia, parts of Nigeria and Yemen remain hotspots of highest concern with Southern Africa and the Central American Dry Corridor among new additions",
@@ -116,15 +125,6 @@
           "titleIt": "Italy-Vietnam Agreement on Food Safety and Public Health"
         },
         {
-          "title": "Forward7-ARSO Cooperation Agreement Delivers 45+ Standards to Support the Future of Clean Cooking in Africa",
-          "link": "http://www.africanews.com/2026/11/26/forward7-arso-cooperation-agreement-delivers-45-standards-to-support-the-future-of-clean-c/",
-          "description": "Saudi Arabia’s Forward7 and ARSO are harmonizing clean cooking standards across Africa to boost safe LPG, bioenergy and solar solutions for families.",
-          "pubDate": "Thu, 26 Nov 2026 13:06:15 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "Forward7-ARSO Cooperation Agreement Delivers 45+ Standards to Support the Future of Clean Cooking in Africa"
-        },
-        {
           "title": "UK sent Sri Lankan refugee to Eswatini in secret deal, the BBC says",
           "link": "http://www.africanews.com/2026/11/26/uk-sent-sri-lankan-refugee-to-eswatini-in-secret-deal-the-bbc-says/",
           "description": "The United Kingdom reportedly sent a Sri Lankan refugee who had been convicted of sexual assault to Eswatini, where he committed suicide, as part of a secret deal, according to an investigation by the BBC.",
@@ -141,6 +141,15 @@
           "source": "BBC Africa",
           "lang": "en",
           "titleIt": "As foreign troops withdraw from Somalia, could al-Shabab take over?"
+        },
+        {
+          "title": "Africa: COP31 - New African Development Bank Report Calls for Climate Finance That Promotes Peace",
+          "link": "https://allafrica.com/stories/202611260001.html",
+          "description": "[African Development Bank (AfDB)] Climate and development finance for Africa's fragile and conflict-affected settings must be designed from the outset to prevent conflict and strengthen social cohesion.",
+          "pubDate": "Thu, 26 Nov 2026 02:01:30 GMT",
+          "source": "AllAfrica",
+          "lang": "en",
+          "titleIt": "Africa: COP31 - New African Development Bank Report Calls for Climate Finance That Promotes Peace"
         },
         {
           "title": "UNIDO: Italy’s Commitment to Industrial Development",
