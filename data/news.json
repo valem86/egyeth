@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T07:56:25.759Z",
+  "generatedAt": "2026-11-28T16:57:15.428Z",
   "feedsChecked": 9,
   "feedsAttempted": 10,
   "topics": {
@@ -30,22 +30,13 @@
       "title": "Dossier Somaliland",
       "items": [
         {
-          "title": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP",
-          "link": "https://allafrica.com/stories/202611270343.html",
-          "description": "[WFP] Rome -- Sudan, South Sudan, Somalia, parts of Nigeria and Yemen remain hotspots of highest concern with Southern Africa and the Central American Dry Corridor among new additions",
-          "pubDate": "Fri, 27 Nov 2026 12:21:02 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP"
-        },
-        {
-          "title": "Kenya: Obado to Appeal 25-Year Jail Term, Lawyers Cite Impact On Sharon Otieno's Family",
-          "link": "https://allafrica.com/stories/202611270323.html",
-          "description": "[Capital FM] Nairobi -- Former Migori Governor Okoth Obado's lawyers have announced plans to appeal his 25-year prison sentence over the murder of former Rongo University student Sharon Otieno, describing the punishment as unfair.",
-          "pubDate": "Fri, 27 Nov 2026 11:18:44 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Kenya: Obado to Appeal 25-Year Jail Term, Lawyers Cite Impact On Sharon Otieno's Family"
+          "title": "Yemen: liberata portacontainer sequestrata nel golfo di Aden, equipaggio illeso",
+          "link": "https://www.agenzianova.com/a/0/8073350/2026-11-28/yemen-liberata-portacontainer-sequestrata-nel-golfo-di-aden-equipaggio-illeso",
+          "description": "28 nov 16:52 - (Agenzia Nova) - L'equipaggio della portacontainer Marsa Virgo, battente bandiera panamense, ha ripreso il controllo dell'imbarcazione... (Res)",
+          "pubDate": "2026-11-28T16:52:05+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Yemen: liberata portacontainer sequestrata nel golfo di Aden, equipaggio illeso"
         },
         {
           "title": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'",
@@ -89,60 +80,6 @@
       "title": "Accesso etiope al mare",
       "items": [
         {
-          "title": "Mediterraneo: sicurezza marittima e flotte ombra al centro di Shade Med 2026 a Roma (7)",
-          "link": "https://www.agenzianova.com/a/0/8070732/2026-11-28/mediterraneo-sicurezza-marittima-e-flotte-ombra-al-centro-di-shade-med-2026-a-roma-7",
-          "description": "28 nov 08:00 - (Agenzia Nova) - La conferenza Shade Med (Shared Awareness and De-confliction in the Mediterranean) nasce come piattaforma di... (Res)",
-          "pubDate": "2026-11-28T08:00:00+01:00",
-          "source": "Agenzia Nova",
-          "lang": "it",
-          "titleIt": "Mediterraneo: sicurezza marittima e flotte ombra al centro di Shade Med 2026 a Roma (7)"
-        },
-        {
-          "title": "Ethiopian troops escort 300 Kenyan trucks back across Moyale after weeks of border clashes",
-          "link": "https://kenya-today.com/report-ethiopian-troops-escort-300-kenyan-trucks-back-across-moyale-after-weeks-of-border-clashes-34440/",
-          "source": "kenya-today.com",
-          "pubDate": "2026-11-28T06:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Ethiopian troops escort 300 Kenyan trucks back across Moyale after weeks of border clashes"
-        },
-        {
-          "title": "Sudanese Army Rejects Ethiopian Proposal to End the War in Sudan",
-          "link": "https://garoweonline.com/en/news/somalia/sudanese-army-rejects-ethiopian-proposal-to-end-the-war-in-sudan",
-          "source": "garoweonline.com",
-          "pubDate": "2026-11-28T05:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sudanese Army Rejects Ethiopian Proposal to End the War in Sudan"
-        },
-        {
-          "title": "Libyan coast guard rescues 240 migrants",
-          "link": "http://www.bignewsnetwork.com/news/279468669/libyan-coast-guard-rescues-240-migrants",
-          "source": "bignewsnetwork.com",
-          "pubDate": "2026-11-27T22:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Libyan coast guard rescues 240 migrants"
-        },
-        {
-          "title": "Africa: 5 Hunger Hotspots the World Cannot Afford to Ignore in 2027",
-          "link": "https://allafrica.com/stories/202611270344.html",
-          "description": "[WFP] Conflict, extreme weather and economic shocks are driving millions deeper into hunger. A new report examines where the impact will be hardest next year.",
-          "pubDate": "Fri, 27 Nov 2026 12:22:05 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: 5 Hunger Hotspots the World Cannot Afford to Ignore in 2027"
-        },
-        {
-          "title": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP",
-          "link": "https://allafrica.com/stories/202611270343.html",
-          "description": "[WFP] Rome -- Sudan, South Sudan, Somalia, parts of Nigeria and Yemen remain hotspots of highest concern with Southern Africa and the Central American Dry Corridor among new additions",
-          "pubDate": "Fri, 27 Nov 2026 12:21:02 GMT",
-          "source": "AllAfrica",
-          "lang": "en",
-          "titleIt": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP"
-        },
-        {
           "title": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'",
           "link": "https://allafrica.com/stories/202611270280.html",
           "description": "[Addis Standard] Addis Abeba -- Eritrea has accused Ethiopia of using maritime diplomacy and regional security forums to mask what it described as territorial ambitions in the Horn of Africa, escalating tensions amid renewed disagreements over Ethiopia's pursuit of Red Sea access.",
@@ -150,24 +87,6 @@
           "source": "AllAfrica",
           "lang": "en",
           "titleIt": "Eritrea: Eritrea Accuses Ethiopia of Using Maritime Diplomacy to 'Camouflage Its Irredentist Ambitions'"
-        },
-        {
-          "title": "BURUNDI - AFRICA / INTERNATIONAL : 04 MAI 2010 [ Bashir Slate Carries Sudan , Angering The West ]",
-          "link": "https://burundi-agnews.org/burundi-africa-international-04-mai-2010-bashir-slate-carries-sudan-angering-the-west/",
-          "source": "burundi-agnews.org",
-          "pubDate": "2026-11-27T00:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "BURUNDI - AFRICA / INTERNATIONAL : 04 MAI 2010 [ Bashir Slate Carries Sudan , Angering The West ]"
-        },
-        {
-          "title": "Sex , drugs , Israeli tech and Trump rivalries : Five explosive claims from Kushner - UAE book",
-          "link": "https://www.middleeasteye.net/news/sex-drugs-israeli-tech-and-trump-rivalries-five-explosive-claims-kushner-uae-book",
-          "source": "middleeasteye.net",
-          "pubDate": "2026-11-27T00:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Sex , drugs , Israeli tech and Trump rivalries : Five explosive claims from Kushner - UAE book"
         },
         {
           "title": "Aosta Valley Region Signs Agreement to Participate in Expo 2027 Belgrade",
@@ -188,24 +107,6 @@
           "titleIt": "Italy-Vietnam Agreement on Food Safety and Public Health"
         },
         {
-          "title": "UK sent Sri Lankan refugee to Eswatini in secret deal, the BBC says",
-          "link": "http://www.africanews.com/2026/11/26/uk-sent-sri-lankan-refugee-to-eswatini-in-secret-deal-the-bbc-says/",
-          "description": "The United Kingdom reportedly sent a Sri Lankan refugee who had been convicted of sexual assault to Eswatini, where he committed suicide, as part of a secret deal, according to an investigation by the BBC.",
-          "pubDate": "Thu, 26 Nov 2026 10:10:16 +0000",
-          "source": "Africanews",
-          "lang": "en",
-          "titleIt": "UK sent Sri Lankan refugee to Eswatini in secret deal, the BBC says"
-        },
-        {
-          "title": "Global Water Monitor and Forecast Watch List",
-          "link": "https://www.circleofblue.org/2026/world/global-water-monitor-and-forecast-watch-list/",
-          "source": "circleofblue.org",
-          "pubDate": "2026-11-26T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Global Water Monitor and Forecast Watch List"
-        },
-        {
           "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
           "link": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
           "description": "Somalia relies heavily on foreign funding and military support for its very survival.",
@@ -224,55 +125,47 @@
           "titleIt": "Africa: COP31 - New African Development Bank Report Calls for Climate Finance That Promotes Peace"
         },
         {
-          "title": "UNIDO: Italy’s Commitment to Industrial Development",
-          "link": "https://www.ansa.it/english/news/news_from_embassies/2026/11/25/unido-italys-commitment-to-industrial-development_a2e1fecf-f353-42e3-8976-baa19ad6da56.html",
-          "description": "(ANSA) - VIENNA, 25 NOV - The 54th session of UNIDO’s Industrial Development Board (Industrial Development Board – IDB) of UNIDO was held in Vienna, coinciding with the celebrations for the 60th anniversary of the United Nations Industrial Development Organization, in which Italy plays a leading role as a strategic partner. During the proceedings, Italy’s Permanent Representative to the International Organizations in Vienna, Ambassador Debora Lepre, reaffirmed Italy’s support for UNIDO’s mandate and its contribution to the transformation of production systems, the dissemination of technologica",
-          "pubDate": "Wed, 25 Nov 2026 16:25:14 +0100",
-          "source": "ANSA English",
+          "title": "Containing the New War in Northern Ethiopia",
+          "link": "https://www.crisisgroup.org/cmt/europe/european-union-ethiopia-eritrea-sudan/containing-new-war-northern-ethiopia",
+          "description": "War has returned to northern Ethiopia, raising fears of a wider conflict involving Eritrea. In this excerpt from the EU Watch List 2026 – Autumn Edition , Crisis Group explains how the EU and member states can facilitate talks and prevent escalation.",
+          "pubDate": "Thursday, October 15, 2026 - 11:12",
+          "source": "Crisis Group",
           "lang": "en",
-          "titleIt": "UNIDO: Italy’s Commitment to Industrial Development"
-        },
-        {
-          "title": "The Gen - Z struggles in Africa and the European working class",
-          "link": "https://www.wsws.org/en/articles/2026/11/24/nlll-n24.html",
-          "source": "wsws.org",
-          "pubDate": "2026-11-25T02:30:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "The Gen - Z struggles in Africa and the European working class"
-        },
-        {
-          "title": "Drone Strikes Hit Khartoum Homes and UN Facility as Civilian Toll Rises in Sudan",
-          "link": "https://www.latintimes.com/sudan-drone-strikes-khartoum-un-facility-601738",
-          "source": "latintimes.com",
-          "pubDate": "2026-11-25T00:15:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "Drone Strikes Hit Khartoum Homes and UN Facility as Civilian Toll Rises in Sudan"
-        },
-        {
-          "title": "ILO , IGAD Champion Ethical Migration , Worker Rights",
-          "link": "https://www.miragenews.com/ilo-igad-champion-ethical-migration-workers-1783156/",
-          "source": "miragenews.com",
-          "pubDate": "2026-11-24T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "ILO , IGAD Champion Ethical Migration , Worker Rights"
-        },
-        {
-          "title": "ILO , IGAD Promote Ethical Reporting on Migrant Worker Rights",
-          "link": "https://www.miragenews.com/ilo-igad-promote-ethical-reporting-on-migrant-1783177/",
-          "source": "miragenews.com",
-          "pubDate": "2026-11-24T23:45:00Z",
-          "lang": "en",
-          "description": "",
-          "titleIt": "ILO , IGAD Promote Ethical Reporting on Migrant Worker Rights"
+          "titleIt": "Containing the New War in Northern Ethiopia"
         }
       ]
     },
     "egypt-economy": {
       "title": "Fragilità economica egiziana",
-      "items": []
+      "items": [
+        {
+          "title": "Egitto: allo studio nuovo ente pubblico-privato per gli investimenti in Africa (3)",
+          "link": "https://www.agenzianova.com/a/0/8073354/2026-11-28/egitto-allo-studio-nuovo-ente-pubblico-privato-per-gli-investimenti-in-africa-3",
+          "description": "28 nov 16:56 - (Agenzia Nova) - Il nuovo organismo rientra in una strategia piu' ampia del Cairo per rafforzare la propria presenza economica... (res)",
+          "pubDate": "2026-11-28T16:56:43+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: allo studio nuovo ente pubblico-privato per gli investimenti in Africa (3)"
+        },
+        {
+          "title": "Egitto: allo studio nuovo ente pubblico-privato per gli investimenti in Africa (2)",
+          "link": "https://www.agenzianova.com/a/0/8073353/2026-11-28/egitto-allo-studio-nuovo-ente-pubblico-privato-per-gli-investimenti-in-africa-2",
+          "description": "28 nov 16:56 - (Agenzia Nova) - Secondo Abdelatty, gli investimenti egiziani nel continente africano superano attualmente i 14 miliardi di... (res)",
+          "pubDate": "2026-11-28T16:56:43+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: allo studio nuovo ente pubblico-privato per gli investimenti in Africa (2)"
+        },
+        {
+          "title": "Egitto: allo studio nuovo ente pubblico-privato per gli investimenti in Africa",
+          "link": "https://www.agenzianova.com/a/0/8073352/2026-11-28/egitto-allo-studio-nuovo-ente-pubblico-privato-per-gli-investimenti-in-africa",
+          "description": "28 nov 16:56 - (Agenzia Nova) - L'Egitto sta valutando la creazione di un nuovo organismo di investimento a partecipazione pubblica e privata... (res)",
+          "pubDate": "2026-11-28T16:56:43+01:00",
+          "source": "Agenzia Nova",
+          "lang": "it",
+          "titleIt": "Egitto: allo studio nuovo ente pubblico-privato per gli investimenti in Africa"
+        }
+      ]
     },
     "gerd-opacity": {
       "title": "Opacità sui rilasci GERD",
